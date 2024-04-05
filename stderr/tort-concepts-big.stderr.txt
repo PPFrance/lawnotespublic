@@ -1,0 +1,5 @@
+META tag encountered, content of meta dict is now "{u'subject': u"'tort'"}".
+META tag encountered, content of meta dict is now "{u'defcols': u"'4'", u'subject': u"'tort'"}".
+META tag encountered, content of meta dict is now "{u'defcols': u"'4'", u'enableTests': u'true', u'subject': u"'tort'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'4'", u'enableTests': u'true', u'subject': u"'tort'"}".
+ *** Word count (in SUMMARY and HELD fields): 131546.

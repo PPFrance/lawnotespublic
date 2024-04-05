@@ -1,0 +1,1030 @@
+
+
+
+
+NAME Case Overviews for Negligence
+TYPE Case Overviews
+CATEGORY Negligence
+
+SUMMARY *Duty of Care - Government Liability*
+@*|Dorset Yacht v Home Office|*
+/{<The neighbour principle should apply unless there's _good policy reason why it shouldn't_.>}
+
+SUMMARY *Duty of Care*
+@*|Donoghue v Stevenson|*
+/{<There is a duty to take reasonable care to avoid acts or omissions likely to injure those who a reasonable degree of foresight would suggest might be affected by the act, i.e., your *neighbour*.>}
+@*|Anns v Merton|*
+/{<Lord Wilberforce introduced a _two-stage test_ to establish a duty of care -- *(1)* a relationship of *sufficient proximity based on foreseeability*; *(2)* the absence of *public policy considerations* that should preclude there being a duty.  (Note that causes the |Donoghue| principle to be a function of foreseeability, not really proximity/neighbourhood per se).>}
+@*|Caparo v Dickman|*
+/{<Lord Bridge introduced the famous *three-stage test* to measure whether a duty of care is owed between parties -- *(1)* the damage must be *reasonably foreseeable*; *(2)* a relationship of *sufficient proximity* between claimant and defendant; and *(3)* it would be *fair, just and reasonable* to impose the duty.>}
+
+SUMMARY *Duty of Care - Caparo - Neighbour Principle*
+@*|AG of British Virgin Islands v Hartwell|*
+/{<A duty of care was owed by the police to ensure unsuitable officers had no access to guns: the neighbour of a policeman is everyone, i.e., passes the close connection criterion of the |Caparo| test (1).>}
+
+SUMMARY *Duty of Care - Public Authorities - Children*
+@*|Osman v Ferguson|*
+/{<No duty of care is generally owed by the Police on public policy grounds -- |Caparo| (3).>}
+@*|Osman v UK|*
+/{<The exclusion of a duty of care owed by the police is limited by Human Rights considerations.>}
+@*|Z v UK|*
+/{<Finding that local authorities owed no duty of care to children to prevent abuse did not entail that proceedings had been unfair>}
+@*|X v Bedfordshire|*
+/{<Not fair, just and reasonable to impose a duty of care where a local authority had not exercised a _power_ to act, but had it done so, there _would_ have been a duty.>}
+@*|Phelps v Hillingdon|*
+/{<Fair, just and reasonable to impose a duty of care here, as local authority had exercised its power negligently. I.e., the flip-side of |X v Bedfordshire|>}
+@*|Barett v Enfield|*
+/{<In taking the child into care, a duty had arisen, which had been breached.>}
+@*|JD v East Berkshire NHS|*
+/{<Parents couldn't sue, only the children: the duty of care doesn't extend to them. Doctors owe a duty to the children, not the parents. Are the interests of the child different from the interests of the parent? The court thought so, but Jesse Elvin is sceptical.>}
+@*|Lawrence v Pembrokeshire|*
+/{<Relevance to be found in article 8, but allowing claim would degrade focus on protecting children from Local Authorities and make them more cautious.>}
+@*|MAK and RK v UK|*
+/{<In Strasbourg court, article 8 claim: UK acting through hospital prevented him from seeing his seriously-ill daughter. Court held that hospital incompetent for not diagnosing sooner; claim valid, compensation awarded.>}
+
+SUMMARY *Duty of Care - Public Authorities - Police*
+@*|Osman v Ferguson|*
+/{<No duty of care is generally owed by the Police on public policy grounds -- |Caparo| (3).>}
+@*|Hill v Chief Constable of West Yorkshire|*
+/{<The police should not *generally* owe a duty of care to members of the public for |Caparo| (3) public policy reasons -- fear of defensive policing; the fact that the police already take their job seriously enough and that imposing a duty of care to the public wouldn't make them any better at policing; inappropriate to use courts rather than the Police Complaints Authority; if there _were_ liability, _some_ lawsuits would inevitably succeed against them, diverting time and money from actual policing.>}
+@*|Swinny v Chief Constable of Northumbria|*
+/{<Negligent, that duty of care to informant breached, must find duty despite police, _pour la bonne fonctionment_. Informants are not simply members of the public, to whom no particular duty is owed. Nothing to do with negligence of leaving in car.>}
+@*|Van Colle v Hertfordshire Police|*
+/{<There was no duty, as the police were not aware of a real and immediate risk to his life.>}
+@*|Robinson v Chief Constable of West Yorkshire|*
+/{<On Caparo (3) grounds, it would not be fair, just and reasonable to find a duty -- and questionable Caparo (2) proximity between claimant and police.>}
+@*|Michael v Chief Constable of South Wales|*
+/{<Negligence claim must fail on same grounds as |Hill|, but article 2 breach accepted. Acceptable and coherent (!) that tort law should reject claims of this sort in negligence but that Human Rights accept them. In this sense HR is helpful in sorting out a grey area.>}
+
+SUMMARY *Duty of Care - Caparo - Proximity*
+@*|Everett v Comojo|*
+/{<A nightclub did indeed owe a duty to take reasonable care to avoid foreseeable acts of third parties, but the claim failed on the facts (upmarket nightclub with 'ritzy' clientele).>}
+
+SUMMARY *Duty of Care - Caparo - Public Policy - Emergency Services*
+@*|Kent v Griffiths|*
+/{<The ambulance service would owe a duty of care if (i) further illness reasonably foreseeable should no ambulance attend (i) they took the call and dispatched an ambulance (proximity), (iii) fair, just and reasonable, but only if delayed _for no good reason_.>}
+
+SUMMARY *Duty of Care - Caparo - Public Policy*
+@*|Vowles v Evans|*
+/{<Referee there to enforce rules: the |Caparo| test applied. (i) Reasonably foreseeable that failure to enforce them would result in injury, (ii) Relationship of proximity, (iii) no reason to draw distinction between amateur and professional sport.>}
+@*|Hill v Chief Constable of West Yorkshire|*
+/{<The police should not *generally* owe a duty of care to members of the public for |Caparo| (3) public policy reasons -- fear of defensive policing; the fact that the police already take their job seriously enough and that imposing a duty of care to the public wouldn't make them any better at policing; inappropriate to use courts rather than the Police Complaints Authority; if there _were_ liability, _some_ lawsuits would inevitably succeed against them, diverting time and money from actual policing.>}
+@*|Marc Rich v Bishop Rock Marine|*
+/{<Acting in the public welfare can be a Caparo (3) defence. Finding that a duty of care was owed by a marine classification society would have been extremely detrimental to the safety and costs associated with sea-going.>}
+@*|Smith v Littlewoods|*
+/{<An empty cinema was not per se a source of danger. Although the danger was foreseeable, under Caparo (3), it would be unreasonable to impose the burden of guarding the building 24/7.>}
+
+SUMMARY *Duty of Care - Caparo - Public Policy - Public Authorities*
+@*|Sellwood v Durham|*
+/{<Acting in the public welfare is not necessarily a Caparo (3) defence. Here, a duty of care was owed.>}
+@*|Stovin v Wise|*
+/{<Only when there was a public duty to act, and failing to do so would be irrational, would it be fair, just and reasonable to impose a duty on local authorities. Statutory powers, furthermore, do not per se give rise to a common law duty of care.>}
+
+SUMMARY *Duty of Care - Public Authorities - NHS*
+@*|Robone v Pennine Care NHS|*
+/{<That although previous case law had found an operational art.2 duty to detained psychiatric patients, the distinction between detained and voluntarily-present in-patients was not to be exaggerated, and here, there had been a duty owed.>}
+
+SUMMARY *Duty of Care - Public Authorities - Fire Brigades*
+@*|Capital and Countries v Hampshire|*
+/{<May be able to find fire brigades liable if they make things worse. But no duty to attend.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Negligence - Breach of Duty
+TYPE Case Overviews
+CATEGORY Negligence
+
+SUMMARY *Objective Standard*
+@*|Nettleship v Weston|*
+/{<Although the defendant's argument that her inexperience should give rise to a lesser standard of care made intuitive sense, an _objective_ standard must be imposed, but a standard unconnected to moral fault. This is for two reasons: the impracticability of the standard being subjective, and the pragmatic necessity to _blame_ someone -- and therefore _pay for the damage_ from their insurance.>}
+
+SUMMARY *Foreseeability*
+@*|Roe v Minister of Health|*
+/{<The presence of microscopic cracks would neither have been known about nor foreseen by the operating theatre doctors, so there had not been a breach.>}
+
+SUMMARY *Cricket*
+@*|Miller v Jackson|*
+/{<The claim in negligence (and nuisance) succeeded. The cricket club had owed and breached a duty of care owed to the claimant householders. Nevertheless, the injunction sought against the club was _not_ allowed. Denning MR's fabled dissent -- _'In summertime, village cricket is the delight of everyone. Nearly every village has its own cricket field where the young men play and the old men watch.'_>}
+@*|Bolton v Stone|*
+/{<When the *chances* of damage occurring are too small, then, unless the magnitude of the potential damage so great as to make it reasonable to take precautions, (|The Wagon Mound|), there will not be a breach of duty.  Cf. |Miller v Jackson| in which the risk was rather greater.>}
+
+SUMMARY *Severity of Potential Harm - Risk*
+@*|Paris v Stepney|*
+/{<The particular characteristics/circumstances of an employee should be taken into account by an employer, or others owing them a duty of care, if the characteristics are known about. All the more so when precautions, such as the provision of safety goggles, are easy to take.>}
+
+SUMMARY *Practicality of Precautions - Risk*
+@*|Harris v Perry|*
+/{<Reasonably foreseeable that children could injure one another on a bouncy castle, but not that the injury would be severe.>}
+
+SUMMARY *Practicality of Precautions - Risk - Employers' Liability - Primary Liability - Safe Place of Work*
+@*|Latimer v AEC|*
+/{<Closing the factory until completely cleaned wouldn't have been a reasonable precaution due to enormous cost of doing so, and risk of serious injury quite low. In the circumstances, the precautions the defendant had taken -- although not such as to remove the danger entirely -- were reasonable and proportionate.>}
+
+SUMMARY *Practicality of Precautions - Severity of Potential Harm - Risk*
+@*|Overseas Tankship v Miller (The Wagon Mound - no 2)|*
+/{<When the magnitude of potential harm is great, but the chance of it occurring is very slight, a reasonable man *would* take precautions against. Therefore, especially when the cost and difficulty involved in taking such precautions are small, damage incurred may well be recoverable in negligence.>}
+
+SUMMARY *Causation - Asbestos - Mesothelioma*
+@*|Williams v University of Birmingham|*
+/{<The correct test in asbestos cases was whether the defendant had taken reasonable care to ensure that a person was not exposed to a foreseeable risk of _asbestos-related injury_. *Not* that the defendant had exposed the claimant to asbestos. In the '70s, it was not known that the level of exposure to fibres experienced by the claimant would have given rise to a reasonably-foreseeable risk of asbestos-related injury.>}
+
+SUMMARY *Defences - Utility of Conduct*
+@*|Watt v Hertfordshire|*
+/{<When actions or omissions which, considered alone would be actionable in negligence, are done or fail to be done in the public interest, then the utility of the conduct may well provide a defence. Therefore, although the risk of injury to a fireman told to go in the back of a van racing to the scene of an accident, to hold secure a massive great jack, was _foreseeable_, the potential utility of the conduct -- extricating someone trapped in the wreckage of the car -- provided a defence to the injured fireman.>}
+@*|Scout Association v Barnes|*
+/{<Although there was potential utility in playing _objects in the dark_, there was not enough to weigh against the foreseeable risk of injury, and therefore, a breach of duty. Sagely, the court sagely suggested playing, instead, _objects_.>}
+
+SUMMARY *Local Authorities*
+@*|Watt v Hertfordshire|*
+/{<When actions or omissions which, considered alone would be actionable in negligence, are done or fail to be done in the public interest, then the utility of the conduct may well provide a defence. Therefore, although the risk of injury to a fireman told to go in the back of a van racing to the scene of an accident, to hold secure a massive great jack, was _foreseeable_, the potential utility of the conduct -- extricating someone trapped in the wreckage of the car -- provided a defence to the injured fireman.>}
+@*|Pierce v Doncaster|*
+/{<The defendant was unreasonable in putting the child back with family -- the |Bolam| test applied, the defendant was to be judged according to the standard of an expert.>}
+
+SUMMARY *Children*
+@*|Scout Association v Barnes|*
+/{<Although there was potential utility in playing _objects in the dark_, there was not enough to weigh against the foreseeable risk of injury, and therefore, a breach of duty. Sagely, the court sagely suggested playing, instead, _objects_.>}
+
+SUMMARY *Defences - Common Practice*
+@*|Bolitho v Hackney HA|*
+/{<|Bolam| stands, except where a judge can be satisfied that _the body of expert opinion cannot be logically supported at all_. And here, in the UKHL, the minority opinion of a certain Dr Dinwiddie held sway.>}
+@*|Sutcliffe v BMI Healthcare|*
+/{<The post-operative care had been conducted on a logical basis -- the claimant was asleep as he was tired.>}
+
+SUMMARY *Standard of Care - Professionals*
+@*|Bolam v Friern Hospital|*
+/{<For professionals acting in the course of their duties, if the standard of care falls below the standard of _a responsible body of opinion_, then there is negligence. *Cf. |Montgomery v Lanarkshire Health Board|*, also |Bolitho|.>}
+@*|Pierce v Doncaster|*
+/{<The defendant was unreasonable in putting the child back with family -- the |Bolam| test applied, the defendant was to be judged according to the standard of an expert.>}
+
+SUMMARY *Duty to Appraise Patient of Material Risks*
+@*|Montgomery v Lanarkshire Health Board|*
+/{<A doctor is under a duty to inform patient of _material_ risks: would a reasonable person in the patient's position be able to attach significance to the risk? Cf. |Bolam v Friern Hospital|.>}
+
+SUMMARY *Standard of Care - Children*
+@*|Mullin v Richards|*
+/{<The standard to be expected of a 15-year-old child was not the standard of a reasonable person, but that of a reasonable and _ordinarily prudent_ 15-year-old.>}
+@*|Orchard v Lee|*
+/{<It was just a boy running around, not even breaking any rules. Doing just what you'd expect a boy to do. So, seriously, Mrs. Claimant, WTF?>}
+
+SUMMARY *Standard of Care - Public Authorities - Prison*
+@*|Knight v Home Office|*
+/{<No breach of duty: the hospital wing of a prison necessarily gives lower standard of care than a hospital, as money must be spent on, e.g., _stopping prisoners escaping_ (!)>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Negligence - Causation
+TYPE Case Overviews
+CATEGORY Negligence
+
+SUMMARY *But For Test*
+@*|Barnett v Chelsea and Kensington Hospital|*
+/{<For a cause of action in negligence, the negligent action must be a _but for_ cause of the harm.>}
+@*|Hotson v East Berkshire|*
+/{<Non-optimal treatment resulting in the _loss of a chance of improvement_ from an injury does _not_ give a cause of action in negligence.>}
+@*|Wilsher v Essex AHA|*
+/{<For liability in negligence, it must be able to be said that the defendant's conduct was either a _but for_ cause, or a _material contribution_ to the harm.>}
+
+SUMMARY *Exceptions - Pragmatism*
+@*|Cook v Lewis|*
+/{<Would be unfair to apply the _but for_ test in such situations. The claimant had been injured, and both possible firers were negligent. So the court found them both liable.>}
+
+SUMMARY *Exceptions - Market Share Rule*
+@*|Sindell v Abbott Laboratories|*
+/{<Court held each manufacturer liable in accordance with its market share for the drug; that the manufacturers were better able to bear the costs of cancer treatment.>}
+
+SUMMARY *Exceptions - Supervening Acts and Combined Events*
+@*|Baker v Willoughby|*
+/{<The supervening gunshot should be ignored, and damages awarded on that basis, fully compensating for the injury tortiously inflicted. The gunman, were he to be apprehended, would then be liable for the difference between a gammy leg and no leg at all.>}
+@*|Jobling v Associated Dairies|*
+/{<The supervening injury could not be disregarded, as it did not arise from a tort.>}
+
+SUMMARY *Fairchild*
+@*|McGhee v National Coal Board|*
+/{<There had indeed been a breach, but it was unclear whether it was the _but for_ cause of the damage. Nevertheless, as the breach _materially increased the risk_ of the damage, the claim was allowed. Lord Wilberforce held a departure from the _but for_ test to be  appropriate, as there was no way of quantifying the extent to which the breach caused the damage.>}
+@*|Chester v Afshar|*
+/{<By 3-2 majority, on the facts, she only had to prove she may have had the surgery at a *later date* (having fully understood and evaluated the risks) rather than that she would not have had the surgery at all, for the claim to succeed. Also that it was important to send a message to surgeons about importance of warning patients of surgical risks.>}
+@*|Gregg v Scott|*
+/{<As the chances of surviving were reduced from 42% to 10% by the first GP's negligence, it could not be said that on the balance of probabilities he would have survived _but for_ the negligence. The court was also wary of opening the floodgates to claims against GPs.>}
+@*|Sanderson v Hull|*
+/{<Could not prove that breach of duty probably called her infection, and that the trial judge had given no explanation for applying |Fairchild|, which is for exceptional cases.>}
+@*|Wooten v J Docter|*
+/{<There was ample (competing) expert evidence on which the first-instance decision had been based; her claim was denied.>}
+
+SUMMARY *Fairchild - Mesothelioma*
+@*|Fairchild v Glenhaven|*
+/{<A _material contribution_ to the harm, in exceptional circumstances, gives rise to actionable liability in negligence.>}
+
+SUMMARY *Fairchild - Supervening Acts and Combined Events*
+@*|Bailey v MOD|*
+/{<Although the claim would fail the _but for_ test on examination of each instance of negligence, the court applied |Fairchild| and ruled the significant increase in _material risk_ caused by the the defendant hospital was sufficient to establish causation.>}
+
+SUMMARY *Fairchild - Mesothelioma - Quantification of Damages*
+@*|Barker v Corus|*
+/{<Whereas in |Fairchild|, the employers were held _jointly and severally_ liable, here, each was held liable according to their contribution to the harm. "The harm may be indivisible, but the material contribution to the risk can be divided.">}
+@*|Sienkiewicz v Greif|*
+/{<The risk had been increased by only 18%. The claim would fail on |but for| grounds -- however, the |Fairchild Principle| was applied, albeit that here, _the other defendant was the atmosphere_. S3 |Compensation Act 2006| could _not_ be invoked, however, as it was not proven the risk had doubled, which is the statutory stipulation.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Negligence - Remoteness
+TYPE Case Overviews
+CATEGORY Negligence
+
+SUMMARY *New Intervening Act*
+@*|The Sivand|*
+/{<An intervening act can be construed as the _effective cause_ of the damage when it is independent of the negligent conduct.>}
+@*|Lamb v Camden|*
+/{<New intervening _squatters_ had broken the chain of causation, so the claim was allowed for the flood damage but not for the squatter damage.>}
+@*|Meah v McCreamer|*
+/{<A claim for the damage of a personality change and resulting imprisonment for a crime committed as a consequence may succeed, where the personality change arose as a consequence of an injury caused by the defendant's negligence.>}
+@*|Meah v McCreamer (no 2)|*
+/{<Sueing someone to recover your costs of sueing them, especially if you're a murderer, will be seen as too remote from the original damage.>}
+@*|Gray v Thames|*
+/{<_Ex turpi causa_ precludes recovery of general damages.>}
+
+SUMMARY *New Intervening Act - Police*
+@*|Knightly v Johns|*
+/{<The claim failed, as there had been not one but two intervening acts of negligence, by the officer in charge.>}
+
+SUMMARY *New Intervening Act - Personal Injury*
+@*|McKew v Holland|*
+/{<Having suffered an injury, a claimant will not be said to be acting reasonably if he does not take account of his condition in his conduct.>}
+@*|Wieland v Cyril Lord Carpets|*
+/{<The claim succeeded: the fall was not too remote a consequence.>}
+@*|Spencer v Wincanton Holdings|*
+/{<The court distinguished |McKew v Holland|, and upheld the claim, albeit with reduced damages.>}
+
+SUMMARY *Defences - Contributory Negligence*
+@*|Spencer v Wincanton Holdings|*
+/{<The court distinguished |McKew v Holland|, and upheld the claim, albeit with reduced damages.>}
+
+SUMMARY *New Intervening Act - Personal Injury - Unwanted Pregnancy*
+@*|Emeh v Kensington & Chelsea|*
+/{<Omitting to have an _abortion_, on discovering that because of a tort you were pregnant, would not be a new intervening act breaking the chain of causation.>}
+
+SUMMARY *New Intervening Act - Suicide*
+@*|Reeves v The Met|*
+/{<There was contributory negligence by the defendant... in having killed himself, so damages reduced to 50%.>}
+
+SUMMARY *Defences - Ex Turpi Causa*
+@*|Meah v McCreamer|*
+/{<A claim for the damage of a personality change and resulting imprisonment for a crime committed as a consequence may succeed, where the personality change arose as a consequence of an injury caused by the defendant's negligence.>}
+@*|Meah v McCreamer (no 2)|*
+/{<Sueing someone to recover your costs of sueing them, especially if you're a murderer, will be seen as too remote from the original damage.>}
+@*|Gray v Thames|*
+/{<_Ex turpi causa_ precludes recovery of general damages.>}
+
+SUMMARY *New Intervening Act - Suicide;*
+@*|Corr v IBC|*
+/{<The suicide of a man whose depression arose through suffering a serious injury as a result of negligence is not too remote from the negligence to preclude recovery.>}
+
+SUMMARY *Foreseeability - Children*
+@*|Hughes v Lord Advocate|*
+/{<That burns were reasonably foreseeable, even if the manner in which they'd occurred, by an explosion of a substance of which the claimant had not been aware, was not.>}
+@*|Jolley v Sutton|*
+/{<If the type of damage suffered was reasonably foreseeable, the defendant will be liable for it even if the actual damage is far greater in extent than could have been foreseen.>}
+
+SUMMARY *Foreseeability*
+@*|Doughty v Turner Manufacturing|*
+/{<This turn of events had not been foreseeable. A splash _would_ have been, which would have produced the same injury. But not a _magnified splash_, which is how the court characterised the incident. Cf. |Jolley v Sutton|.>}
+
+SUMMARY *Foreseeability - Thin Skull Rule*
+@*|Smith v Leech Brain|*
+/{<That the injury sustained was much worse than the injury that could reasonably have been foreseen does not evaporate liability, if the injury is of _the same type_ as that which is foreseeable.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Employers' Liability
+TYPE Case Overviews
+CATEGORY Employers' Liability
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Negligence - Defences
+TYPE Case Overviews
+CATEGORY Negligence
+
+SUMMARY *Contributory Negligence*
+@*|Froom v Butcher|*
+/{<His negligence contributed to all his injuries except of his finger, which, the court heard, would probably have been broken even had he been wearing the seatbelt.>}
+@*|Owens v Brimmell|*
+/{<The claimant's negligence, in getting into a car with someone he knew to be drunk, contributed to his injury.>}
+
+SUMMARY *Contributory Negligence - Asbestos -- Smoking*
+@*|Badger v MOD|*
+/{<He was diagnosed quite a long time after the gov't had obliged ciggie manufacturers to put warnings on packets, _yet he continued smoking_. Therefore although not exclusively the author of his own downfall, he contributed to it -- by 20%, according to the court.>}
+
+SUMMARY *Contributory Negligence - Children*
+@*|Gough v Thorne|*
+/{<When the claimant is a very young child, the defence of contributory negligence will fail>}
+
+SUMMARY *Contributory Negligence - Psychiatric Harm*
+@*|Co-op v Pritchard|*
+/{<Contributory negligence is not available as a defence to claims for assault and battery>}
+
+SUMMARY *Volenti*
+@*|Baker v Hopkins|*
+/{<No defence of consent can operate, in a very dangerous situation, unless the warnings are adequately clear.>}
+@*|ICI v Shatwell|*
+/{<There had been no pressure exerted by their employer to do as they did: they were merely indolent, and so were found to have consented.>}
+@*|Morris v Murray|*
+/{<The claimant had consented to be in an aeroplane piloted by a drunk, and thereby implicitly waived his rights in the event of an injury.>}
+
+SUMMARY *Volenti - Sport*
+@*|Wooldridge v Sumner|*
+/{<A person attending a game or competition accepts liability for any injuries caused to him by a competitor, unless the competitor has been reckless, or has injured deliberately.>}
+
+SUMMARY *Ex Turpi Causa*
+@*|Revill v Newbery|*
+/{<Damages reduced by 2/3 for contributory negligence, the claimant being, by being there in the first place, largely responsible. Nevertheless, you can't just blast burglars with shotguns.>}
+@*|Vellino v Manchester Police|*
+/{<By majority, the claim failed on _ex turpi causa_ grounds.>}
+@*|Moore Stephens v Stone Rolls|*
+/{<In the circumstances, the principle of ex turpi causa applied to a one-man company and prevented their claim.>}
+
+SUMMARY *Ex Turpi Causa - Traffic Accident*
+@*|Pitts v Hunt|*
+/{<Ex turpi causa: the claimant knew the driver was (i) drunk and (ii) unlicensed.>}
+@*|Delaney v Pickett|*
+/{<Although the defendant was on the way to engage in crime, his injuries did not result from the illegality, but from the defendant's negligence. Accordingly, _ex turpi causa_ was no defence, and the claim succeeded.>}
+@*|Joyce v O'Brien|*
+/{<In a criminal joint enterprise, particularly one involving the need to drive recklessly to avoid arrest (!), then the usual rule (that the _turpi_ needs to have been committed by the person suffering the tort) can be set aside, if it was foreseeable that a party to the enterprise could be subject to increased/unusual risk of harm.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Psychiatric Harm
+TYPE Case Overviews
+CATEGORY Psychiatric Harm
+SUMMARY *General*
+@*|Hinz v Berry|*
+/{<To recover in psychiatric harm, the claimant must demonstrate that they have a _recognised psychiatric condition_ rather than 'mere' grief and sorrow.>}
+@*|White v South Yorkshire Police|*
+/{<In essence, that it would not be fair to allow claims by the police officers, when in |Alcock|, claims by the relatives had failed.>}
+@*|Alcock v South Yorkshire Police|*
+/{<Established the modern rules in psychiatric harm. Drew a fundamental but contentious distinction between _primary_, to whom a defendant owes a duty of care if a _physical_ injury was reasonably foreseeable, and _secondary_ victims, to whom _no such duty is owed_, unless four conditions are met, the |Alcock Test|.>}
+@*|Dulieu v White|*
+/{<An action in negligence could arise from a reasonable fear for one's own immediate safety.>}
+
+SUMMARY *Primary Victimhood - Remoteness*
+@*|Page v Smith|*
+/{<Followed dicta in |Alcock|: the claimant was a _primary_ victim, for whom it was enough merely to show foreseeable risk of _physical_ injury.>}
+
+SUMMARY *Primary Victimhood - Local Authorities - Child Abuse*
+@*|W v Essex|*
+/{<The parents were indeed _primary victims_, as they were involved in the decision to foster.>}
+
+SUMMARY *Primary Victimhood - Bystanders*
+@*|Chadwick v BTC|*
+/{<It was reasonably foreseeable that, in the event of an accident due to the defendant's negligence, bystanders may come to the rescue, and as such, were owed a duty of care. Injury by shock to such a (physically unharmed) bystander was also reasonably foreseeable.>}
+
+SUMMARY *Primary Victimhood;*
+@*|Boumedien v Delta Display|*
+/{<Doubtful whether he reasonably thought he was at risk of serious injury on the facts, having merely been _woken up_ by what happened.>}
+
+SUMMARY *Primary Victimhood*
+@*|Monk v Harrington|*
+/{<He had not believed he was putting himself in danger, or that if he did, he did not do so reasonably. Therefore the claim failed.>}
+
+SUMMARY *Secondary Victimhood - Nature of Relationship*
+@*|McFarlane v Caledonia (no 1)|*
+/{<In the circumstances, it was not reasonably foreseeable that the claimant and other off-duty workers aboard support vessels would suffer psychiatric harm.>}
+@*|Bourhill v Young|*
+/{<No duty of care owed by a motorcyclist or other road user to a member of the public who might see _not even the aftermath_ of an accident caused by his negligence.>}
+
+SUMMARY *Secondary Victimhood - Necessity of Proximity*
+@*|McLoughlin v O'Brian|*
+/{<In the circumstances of having the victims in hospital _still dirty and bloody_, the claim of secondary victimhood was to be upheld.>}
+@*|Taylor v A Novo|*
+/{<The passage of time between the negligence and the death, three weeks, meant that the claimant could not be said to have witnessed the aftermath, and to make the defendant liable for the psychiatric harm would require a very significant extension of the law.>}
+
+SUMMARY *Secondary Victimhood - Necessity of First-Hand Experience*
+@*|Hambrook v Stokes|*
+/{<The claimant's wife hadn't seen the accident with her own unaided senses, so his suit for _loss of his wife's services_ failed.>}
+
+SUMMARY *Secondary Victimhood - Necessity of Shocking Event*
+@*|Liverpool Womens Hospital v Ronayne|*
+/{<There had been too many events, and what he had seen had not been _exceptionally horrific_ according to the ordinary meanings of those words.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Employers' Liability - Primary Liability
+TYPE Case Overviews
+CATEGORY Employers' Liability
+SUMMARY *General*
+@*|Wilsons and Clyde Coal v English|*
+/{<An employer owes a duty of care to his employers to provide *(1)* a safe *place* of work; *(2)* a safe *system* of work; and *(3)* reasonably *competent* fellow employees. He cannot wriggle out of that duty by delegating to an employee the practicalities how some part of the discharge of that duty should be arranged -- such as arranging a safe system of work.>}
+
+SUMMARY *Competent Employees*
+@*|Hudson v Ridge|*
+/{<The injury resulted from the employer's failure to put a stop to the practical joker's behaviour, in breach of the employer's primary duty to provide competent staff.>}
+
+SUMMARY *Adequate Materials and Equipment*
+@*|Davie v New Merton Board Mill|*
+/{<The supplier of the tool, and the employer, had not been negligent as regards its provision to the claimant. The course of action lay against the manufacturer.>}
+
+SUMMARY *Adequate Materials and Equipment - Ships*
+@*|Coltman v Bibby Takers|*
+/{<A ship is indeed equipment for the purposes of S1 |Employers' Liability (Defective Equipment) Act|.>}
+
+SUMMARY *Safe System of Work*
+@*|Walker v Northumberland|*
+/{<The claim succeeded, as the (psychiatric) damage he incurred was due to the defendant's failure to provide a reasonable system of work.>}
+@*|Barber v Somerset|*
+/{<The employer had failed in their duty to provide a safe system of work, in giving the employee far too much work to do, and in treating his complaints about it without any sympathy.>}
+@*|Thompson v Smiths Shiprepairers|*
+/{<The defendant could only invoke _industry practice_ as a defence until the date at which the necessity and effectiveness of precautions (ear defenders) became known about -- 1963. Therefore the claim succeeded, but only for the loss of hearing sustained from the period _after_ 1963, until ear-defenders were supplied.>}
+@*|McDermid v Nash|*
+/{<Not only does the system of work have to be safe, it also has to be _in operation_.>}
+
+SUMMARY *Safe Place of Work*
+@*|Coxall v Goodyear|*
+/{<What constitutes a safe place of work _may_ depend on the particular characteristics of an employee, and, on a case-by-case basis, liability should be assessed as such.>}
+@*|Stapley v Gypsum Mines|*
+/{<The claimant had contributed substantially to the accident in disobeying his employer's orders, and as such, was entitled only to 20% damages.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Occupiers' Liability
+TYPE Case Overviews
+CATEGORY Occupiers' Liability
+
+SUMMARY *Duty to Visitors - Meaning of Visitor*
+@*|The Calgarth|*
+/{<Having permission to be on land, but using it in non-permitted ways makes you a non-visitor.>}
+@*|Harvey v Plymouth|*
+/{<In running frantically across the land to _escape_, the claimant had not used the land for the foreseen purpose of _recreation_. There was therefore no implied assent from the defendant: following |The Calgarth|, he was not a visitor under |OLA 1957|.>}
+
+SUMMARY *Duty to Visitors - Meaning of Visitor - Allurement - Children*
+@*|Glasgow v Taylor|*
+/{<An occupier _can_ be expected to protect against hidden dangers that may be _alluring_ to children, albeit that there is no requirement to protect against obvious dangers arising from natural features.>}
+
+SUMMARY *Duty to Visitors - Meaning of Visitor - Allurement*
+@*|1Jolley v Sutton|*
+/{<It was conceded that the claimant was a visitor, even though there was no question if implied or express permission.>}
+
+SUMMARY *Duty to Visitors*
+@*|Tedstone v Bourne Leisure|*
+/{<It wasn't unexpected to find spillages of water in the vicinity of a Jacuzzi, and there could be no reasonable system by which an occupier could have got rid of the water so quickly -- followed |Pollard v Tesco| [1976], the slippage on spilt yoghurt.>}
+@*|Poppleton v Portsmouth YAC|*
+/{<The claimant had taken an _obvious risk_, and the law did not require occupiers to warn of obvious risks.>}
+@*|Hufton v Somerset|*
+/{<The school had an appropriate system in place, and it would not be reasonable to expect a school in _England_ to have dry floors all the time.>}
+@*|Butcher v Southend|*
+/{<As the hazard had not arisen suddenly but was plain to see and had been present for some time; the risk of injury was foreseeable; and repair straightforward to achieve, the claim succeeded.>}
+
+SUMMARY *Duty to Visitors - Children*
+@*|West Sussex v Pierce|*
+/{<Punching a metal object does not make that object, per se, dangerous. Per Sharpe LJ -- the problem wasn't the water fountain; the problem was the _boy_.>}
+
+SUMMARY *Duty to Visitors - Children - Allurement*
+@*|Phipps v Rochester|*
+/{<With younger children, the occupier is entitled to assume *the parents won't let the children wonder off on their own*. But for older children, this was not to be expected.>}
+
+SUMMARY *Duty to Visitors - Special Skills*
+@*|Roles v Nathan|*
+/{<There was no breach of duty -- a chimney sweep ought to be aware of the dangers of sweeping chimneys, even if manifestly they do _not_.>}
+
+SUMMARY *Duty to Visitors - Subcontracting of Maintenance*
+@*|Haseldine v Daw|*
+/{<The occupier had fulfilled his duty of ensuring the lift was safe by employing reputable contractors, and it was unreasonable to expect them to check the work carried out in detail, for wont of expert knowledge.>}
+
+SUMMARY *Duty to Visitors - Subcontracting of Maintenance - Public Authority*
+@*|Maguire v Sefton|*
+/{<The defendant was entitled to assume a company purporting to be expert in maintaining equipment were indeed expert -- the claim was denied.>}
+
+SUMMARY *Duty to Visitors - Warning signs*
+@*|White v Blackmore|*
+/{<Denning MR -- to be relevant, a warning has to be useful, and a genuine attempt to avoid the danger. E.g., a warning on a rotten bridge saying 'this bridge is dangerous,' if it were the only way to get to the other side, would not avoid the liability. If there were an alternative bridge that was sound, however, it would.>}
+
+SUMMARY *Duty to Visitors - Stupidity*
+@*|Clark v Bourne Leisure|*
+/{<There was no need for a warning sign when the danger was obvious, and an obvious alternative existed.>}
+
+SUMMARY *Duty to Non-visitors - Local Authorities*
+@*|Tomlinson v Congleton|*
+/{<On appeal to the lords, the claim failed. There was no problem with the state of the premises: the lake was not dangerous per se, only the claimant's _use_ of the lake.>}
+
+SUMMARY *Duty to Non-visitors*
+@*|Donoghue v Folkestone Properties|*
+/{<On the third limb of the test for duty to non-visitors in the |OLA 1984|, the claim failed, as it would not be reasonable to believe people would jump into the sea in the middle of winter in England.>}
+
+SUMMARY *Duty to Non-visitors - Children*
+@*|Keown v Coventry NHS|*
+/{<Following |Tomlinson v Congleton|, the problem was not the fire-escape, but the claimant's way of _using_ the fire-escape, by using it as a climbing frame.>}
+
+SUMMARY *Duty to Non-visitors - Children - Allurement*
+@*|Platt v Liverpool|*
+/{<The defendant had taken reasonable steps in surrounding the dangerous but alluring building with an iron fence, so the claim failed on appeal.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Product Liability
+TYPE Case Overviews
+CATEGORY Product Liability
+SUMMARY *General*
+@*|Stennett v Hancock|*
+/{<Manufacturers and repairers could potentially owe a duty of care not just to _consumers_, but under an extension of the |Donoghue| principle, to anyone who could be _affected_ by the product.HELD The owners of the lorry weren't to blame, as they'd taken reasonable care in preparing it, having had it maintained by people whose competence could reasonably be assumed. See also |Haseldine v Daw|.>}
+
+SUMMARY *Proving Manufacturer's Negligence*
+@*|Evans v Triplex Safety Glass|*
+/{<The burden of proof for proving negligence in manufacture lies with the claimant, but the court may be quick to infer negligence.>}
+@*|Grant v Aus. Knitting Mills|*
+/{<Although the claimant had contributed to his condition by wearing the garment for a _week_, the claim succeeded.>}
+
+SUMMARY *Manufacturer's Duty*
+@*|Vacwell Engineering v BDH|*
+/{<A manufacturer has a duty to warn a claimant of the dangers of its products.>}
+
+SUMMARY *Manufacturer's Duty - Product Liability for Pure Economic Loss - Local Authorities*
+@*|Dutton v Bognor Regis|*
+/{<The principle of |Donoghue| as expanded in later cases applies to real-property. Obiter in |Anns v Merton|.>}
+@*|Murphy v Brentwood|*
+/{<Explicitly overruling |Anns v Merton|, a local authority does *not* owe a duty to prevent pure economic loss in real property.>}
+
+SUMMARY *Manufacturer's Duty - Product Liability for Pure Economic Loss*
+@*|Junior Books v Vietchi|*
+/{<Where the relationship between parties is close enough, there _is_ a duty to avoid causing pure economic loss.>}
+@*|D&F Estates v CoE|*
+/{<There was a remedy in contract, so the claim for pure economic loss failed.>}
+
+SUMMARY *Manufacturer's Duty - One Product Damaging Another*
+@*|Aswan Engineering v Lupdine|*
+/{<The container is just as much a part of the product as what it contains, and therefore subject to claims under product liability.>}
+
+SUMMARY *Consumer Protection - CPA 1987 - CPA Defectiveness*
+@*|Worsley v Tambrands|*
+/{<A clear message on the back of the box referred to the leaflet containing the warning. The product was not, therefore, defective.>}
+@*|Richardson v LRC Products|*
+/{<The defendant had never claimed the condom would never fail; the damage, if there was any, was unlikely to be factory damage.>}
+@*|Abouzaid v Mothercare|*
+/{<The design of elasticated straps, hazardous to eyes, was defective without a warning that users should _stand well back_.>}
+
+SUMMARY *Consumer Protection - CPA 1987 - CPA Defectiveness - CPA Defences*
+@*|A v National Blood Authority|*
+/{<The product was defective, and that it was not relevant that the harm not could be avoided. They had not warned the public, who were entitled to expect that such products were free from infections. Defence (e) under the CPA, _development risks_, was ineffective here, although the CJEU later criticised this decision -- _Commission v UK C-300/95 [1997]_.>}
+
+SUMMARY *Consumer Protection - CPA 1987 - CPA Defectiveness - Trying it on*
+@*|Bogle v McDonald's|*
+/{<Providing the drinks were supplied with securely-fitted lids, the product was not defective.>}
+
+SUMMARY *Consumer Protection - CPA 1987 - CPA Defectiveness - Children*
+@*|Pollard v Tesco|*
+/{<Under the |CPA 1987|, the test for presence of a defect was one of _public expectation_.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Pure Economic Loss
+TYPE Case Overviews
+CATEGORY Pure Economic Loss
+SUMMARY *General*
+@*|Cattle v Stockton Waterworks|*
+/{<Early authority for there being no cause of action for pure economic loss in negligence.>}
+@*|Candler v Crane & Christmas|*
+/{<By majority, there was still no liability in tort for a negligent statement. There had never been a decided case, apart from those involving fraud/contract/equity, where a statement had been held negligent, and the court wasn't about to change the law.>}
+
+SUMMARY *Negligent Misstatement*
+@*|Hedley Byrne v Heller|*
+/{<Overturning |Candler v Crane|, there *can* be liability for negligent misstatement resulting in pure economic loss.>}
+
+SUMMARY *Negligent Misstatement - Assumption of Responsibility - Reliance*
+@*|Lennon v Metropolitan Police Commissioner|*
+/{<The assumption of responsibility for a statement with economic consequences gives rise to duty, so the claim succeeded.>}
+
+SUMMARY *Negligent Misstatement - Disclaiming Responsibility*
+@*|Smith v Bush|*
+/{<|Hedley Byrne| liability, therefore, was also to proximate third parties. The purchasor of a house was entitled to rely on the surveyor's valuation, as doing so was such common practice, and UCTA 1977 disqualified the disclaimer.>}
+
+SUMMARY *Negligent Misstatement - Reasonableness of Reliance*
+@*|Howard Marine Dredging v Ogden & Sons|*
+/{<Denning MR -- in some situations, it isn't reasonable to rely on what someone says to you, e.g., off-the-cuff spontaneous advice, _even from an expert_, or in a casual conversation in the street. Or advice given in a railway carriage.>}
+
+SUMMARY *Negligent Misstatement - Statement in a Social Context*
+@*|Chaudry v Prabhaker|*
+/{<There *may* be a duty of care in social situations. Here, duty was admitted.>}
+
+SUMMARY *Negligent Misstatement - Relationship between Parties - References*
+@*|Spring v Guardian Assurance|*
+/{<It had already been established that on |Hedley Byrne| grounds a referee owes a duty of care to the recipient of the reference -- but there is also such a duty to the _subject_ of the reference. Although this is not to say that a bad reference is, _per se_, a breach of duty.>}
+
+SUMMARY *Negligent Misstatement - Representation of Expertise*
+@*|Esso v Mardon|*
+/{<Albeit that '_I know all there is to know about..._' ought to be taken to mean '_I, almost to the point of caricature, am savagely ignorant about...', just as 'trust me, I'm telling the truth,' means 'I am not telling the truth: I am an inveterate liar' -- the defendant in this case had been reasonable in relying on the claimant's self-professed expertise.>}
+@*|Henderson v Merrett|*
+/{<There could indeed be a liability for pure economic loss for negligent misstatement running alongside a contractual claim.>}
+
+SUMMARY *Negligent Misstatement - Floodgates - Defendant's Knowledge*
+@*|James McNaughton v Hicks Anderson|*
+/{<No reasonable person would rely on a set of _draft accounts_ without checking them, and no reasonable person would expect someone to whom he had provided draft accounts not to check them themselves.>}
+@*|Customs and Excise v Barclays|*
+/{<In the court of appeal, Peter Gibson, Longmore and Lindsay LLJ held that there was *no duty* and proposed Hedley Byrne be subsumed into the |Caparo| test. In the Lords, because the defendant was merely complying with the law, no |Hedley Byrne|-style assumption of responsibility could have arisen, and it would not be fair, just and reasonable to impose liability.>}
+
+SUMMARY *Negligent Misstatement - "Practical Justice"*
+@*|White v Jones|*
+/{<Citing |Hedley Byrne|, the claim was allowed.>}
+
+SUMMARY *Negligent Misstatement - Floodgates - Claimant's Enquiries*
+@*|Patchett v Swimming Pool Trades Association|*
+/{<There is a need for independent enquiry when engaging contractors, particularly for relatively large sums -- here, £50K. To take a website's word for it, was too rash for the claim to succeed.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Nuisance
+TYPE Case Overviews
+CATEGORY Nuisance
+
+SUMMARY *Private Nuisance - Who can sue - Trying it on*
+@*|Hunter v Canary Wharf|*
+/{<The HL confirmed the CA ruling that the right to build was not restricted by potential for interrupting reception of TV signals on another's land. This case was akin to a vista having been spoiled by the legal putting-up of an ugly building: for this there is no cause of action in English law.>}
+
+SUMMARY *Private Nuisance - Foreseeability of Nuisance - Reasonableness of Use - Rylands v Fletcher*
+@*|Cambridge Water v Eastern Counties Leather|*
+/{<The use of the land from which the nuisance arises must be reasonable, and here it was _not_. But the damage caused by the nuisance must be reasonably foreseeable. On the facts, therefore, the claim failed.>}
+
+SUMMARY *Private Nuisance - Coming to the Nuisance - Local Circumstances - Defences*
+@*|Sturges v Bridgman|*
+/{<Coming to the nuisance is not a defence, and "what is not OK in Belgrave Square is OK in Bermondsey," i.e., the character of the local environment must be accounted for when deciding whether something is a nuisance.>}
+
+SUMMARY *Private Nuisance - Coming to the Nuisance - Local Circumstances - Local Circumstances irrelevant where Property Damage*
+@*|St Helens Smelting v Tipping|*
+/{<The character of the locality is of _no_ relevance where the nuisance has sustained property damage.>}
+
+SUMMARY *Private Nuisance - Planning Permission as Defence - Coming to the Nuisance - Defences - 20 years' Prescription*
+@*|Coventry v Lawrence|*
+/{<Planning permission is not a _key_ factor in establishing a cause of action in private nuisance.>}
+
+SUMMARY *Private Nuisance - Sensitive Claimant*
+@*|Robinson v Kilvert|*
+/{<There was no nuisance, as an objectively _ordinary_ use of the premises would not have suffered the interference as _unreasonable_.>}
+
+SUMMARY *Private Nuisance - Duration of Interference*
+@*|British Celanese v Hunt|*
+/{<An isolated happening was enough for a claim in nuisance to succeed.>}
+@*|Crown River Cruises v Kimbolton|*
+/{<Although the nuisance only lasted just twenty minutes, the defendant was liable.>}
+
+SUMMARY *Private Nuisance - Public benefit of nuisance*
+@*|Bamford v Turnley|*
+/{<Reasonable use of land _in the public interest_, which nevertheless creates a nuisance, ought to be allowed to continue -- but there is still liability for remedies other than injunction.>}
+
+SUMMARY *Private Nuisance - Defences - Public Benefit*
+@*|Dennis v MoD|*
+/{<Public benefit of nuisance will not operate as a defence to injunction where the nuisance is _unreasonable_.>}
+
+SUMMARY *Private Nuisance - Art. 8 in Nuisance*
+@*|Marcic v Thames Water|*
+/{<The claim failed on the facts, but there might be a cause of action in Art 8 where there's none in nuisance.>}
+@*|Dobson v Thames Water|*
+/{<No double-remedies were to be awarded. The common-law damages paid for the nuisance to householders were intended to recompense the households, not merely the household_ers_.>}
+
+SUMMARY *Private Nuisance - Malicious Nuisance*
+@*|Christie v Davey|*
+/{<Actions motivated by malice can indeed constitute a nuisance.>}
+@*|Hollywood Silver Fox Farm v Emmett|*
+/{<Although there was abnormal sensitivity, the defendant was liable for nuisance because he acted out of malice. Cf. |Robinson v Kilvert|.>}
+
+SUMMARY *Private Nuisance - Fault for Nuisance - Adoption or Continuation of Nuisance*
+@*|Sedleigh-Denfield v O'Callaghan|*
+/{<Adoption or continuation of a nuisance (i.e., with knowledge or presumed knowledge, not having taken reasonable steps to address it) gives rise to liability, whether or not the defendant _caused_ the nuisance.>}
+@*|Lippiatt v South Gloucestershire|*
+/{<Following |Hussain v Lancaster|, there is liability for repeated acts of nuisance caused by third parties in occupation of a defendant's land, where no steps are taken to evict.>}
+
+SUMMARY *Private Nuisance - Fault for Nuisance - Nuisance caused by Acts of Nature*
+@*|Holbeck Hall Hotel v Scarborough|*
+/{<There was indeed a duty to prevent foreseeable natural risks of nuisance, but on the facts, the magnitude of the hazard affecting the claimant's land was unforeseeable.>}
+
+SUMMARY *Private Nuisance - Who can sue*
+@*|Malone v Laskey|*
+/{<To sue in nuisance requires a proprietary interest in the affected land -- a mere licensee cannot sue.>}
+@*|Khoransandjian v Bush|*
+/{<Harassment was actionable in private nuisance _despite_ not having a proprietary interest in the affected property.>}
+
+SUMMARY *Private Nuisance - Who can sue - Art. 8 in Nuisance*
+@*|McKenna v British Aluminium|*
+/{<Although the law conferred a course of action in |Rylands v Fletcher| only on those with an interest in the affected land, the HRA 1998 in effect extended the rule to include those who did _not_.>}
+
+SUMMARY *Private Nuisance - Who can be sued*
+@*|Hussain v Lancaster|*
+/{<The person to sue is _generally_ the creator of the nuisance, not the landlord, unless they had authorized the nuisance.>}
+@*|Matania v National Provincial|*
+/{<In consenting to a nuisance being caused, an owner is liable for the nuisance caused by another from his land.>}
+
+SUMMARY *Private Nuisance - Who can be sued - Landlords*
+@*|Harris v James|*
+/{<A landlord who authorizes a nuisance, expressedly or impliedly, is liable.>}
+@*|Tetley v Chitty|*
+/{<A landlord who authorizes an activity which could _foreseeably_ be a nuisance, is liable.>}
+@*|Coventry v Lawrence (no 2)|*
+/{<In order to be said to have authorized the nuisance, a landlord must not only have been *aware* and have *neglected to take steps* to reduce it, *but also* the claimant must show a high probability that the nuisance was an inevitable consequence of letting the property out.>}
+
+SUMMARY *Private Nuisance - Defences - Public Utility*
+@*|Adams v Ursell|*
+/{<Public utility is not an effective defence to nuisance.>}
+
+SUMMARY *Private Nuisance - Defences - Statutory Authority*
+@*|Allen v Gulf Oil Refining|*
+/{<Lord Wilberforce -- to defeat a claim in private nuisance caused by something for which there is explicit statutory authority, the defendant must show there was *no other way to fulfil Parliament's intention* that avoided creating the nuisance.>}
+
+SUMMARY *Private Nuisance - Defences - Planning Permission*
+@*|Gillingham v Medway Dock Co|*
+/{<Where a nuisance had arisen from lawfully-passed planning permissions, the nuisance was to be judged on the basis of the character of the locality *after* not *before* the change of use.>}
+
+SUMMARY *Private Nuisance - Remedies -- injunction*
+@*|Kennaway v Thompson|*
+/{<The *routine* remedy for nuisance must be an *equitable injunction*. Were it damages, people would in effect be able to buy the right to commit a tort.>}
+
+SUMMARY *Private Nuisance - Remedies -- damages*
+@*|Bone v Searle|*
+/{<The assessment of damages for loss of amenity caused by nuisance might well be inspired by, or be parallel to, damages for loss of amenity in personal injury.>}
+
+SUMMARY *Public Nuisance*
+@*|AG v PYA Quarries|*
+/{<When something materially affects the comfort and convenience of a class of citizens in a particular place, and enough people are affected, then there can be liability in |Public Nuisance|.>}
+@*|R v Rimmington and R v Goldstien|*
+/{<The court held there were instead 538 separate acts, rather than a _single_ act of public nuisance affecting a large group of the public.>}
+@*|Dymond v Pearce|*
+/{<To establish a cause of action in public nuisance for personal injuries, at least in relating to a nuisance on the roads, it must be established that the nuisance was in fact *dangerous*.>}
+@*|Tate & Lyle v GLC|*
+/{<As members of the public had been affected, in the decreased navigability of the river, and as the claimant had suffered special damage, the claim was allowed.>}
+
+SUMMARY *Rylands v Fletcher*
+@*|Rylands v Fletcher|*
+/{<Amended in the Lords by Lord Cairns, Blackburn J -- '...the person who for his own purposes *brings on his land* and *collects and keeps there* anything likely to do mischief if it *escapes* [and is non-natural use--Lord Cairns], must keep it *in* at his peril, and, if he does not do so, is *prima facie answerable* for all the damage which is the natural consequence of its escape.>}
+
+SUMMARY *Rylands v Fletcher - Meaning of Dangerous*
+@*|Transco v Stockport|*
+/{<The use of land must be _non-natural_ for claims under the |Rylands| rule to succeed. Running water pipes across land is hardly that, and so the claim failed.>}
+
+SUMMARY *Rylands v Fletcher - Nuisance compared to Rylands - Escape*
+@*|Gore v Stannard (Wyvern Tyres)|*
+/{<If something likely to cause mischief is brought onto the land; *and* it *escapes*, *and* it causes *harm*, then there will be liability.>}
+
+SUMMARY *Rylands v Fletcher - Deliberate Accumulation*
+@*|LMS Int v Styrene|*
+/{<For the purposes of the |Rylands v Fletcher| rule, deliberately accumulating something not _per se_ dangerous if it escapes, but could give rise to something that itself could escape -- e.g., something flammable and _fire_ -- is enough to fulfil the requirement.>}
+@*|Ellison v MoD|*
+/{<If what has escaped is something naturally present, or apt to be naturally present such as rainwayter, then it cannot be said to have been deliberately accumulated.>}
+
+SUMMARY *Rylands v Fletcher - Non-natural use - Defences - Act of a Stranger*
+@*|Rickards v Lothian|*
+/{<When the escape is caused by the act of a _third party_, the use of the land cannot be said to be _non-natural_.>}
+
+SUMMARY *Rylands v Fletcher - Defences - Claimant's own fault*
+@*|Ponting v Noakes|*
+/{<When nothing escapes, and the damage is caused by the claimant's own acts, there is no liability in |Rylands v Fletcher|.>}
+
+SUMMARY *Rylands v Fletcher - Defences - Act of a Stranger*
+@*|North Western v London Guarantee|*
+/{<If an escape is due to the actions of a third party, and the claimant knows of their actions, then there is a strong presumption against liability in |Rylands v Fletcher|.>}
+
+SUMMARY *Rylands v Fletcher - Defences - Act of God*
+@*|Tennent v Earl of Glasgow|*
+/{<When an escape is down to an act of God, there will be no liability under the |Rylands Rule|.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Defamation
+TYPE Case Overviews
+CATEGORY Defamation
+
+SUMMARY *Slander - Special Damage Exceptions in Slander*
+@*|Gray v Jones|*
+/{<There is no requirement to show *special damage* when the slander is an imputation of criminal conduct punishable by (more than six months) porridge.>}
+@*|Bloodworth v Gray|*
+/{<Imputation of certain contagious diseases is actionable in slander without proof of special damage.>}
+
+SUMMARY *Meaning of Defamatory*
+@*|Sim v Stretch|*
+/{<Lord Atkin -- the conventional requirement that the material caused the claimant _exposure to hatred, ridicule or contempt_, should be replaced with a less-restrictive definition, that *defamatory* should mean '*lowering the reputation of the claimant* in the estimation of *"right-minded" members of society*.'>}
+
+SUMMARY *Meaning of Defamatory - Innuendo*
+@*|Monson v Tussauds|*
+/{<Libel can be _by innuendo_, and although the publication must be in a permanent form, this need not be in words.>}
+@*|Baturina v Times|*
+/{<Even if an innuendo is not intended or foreseen to have a defamatory effect, it can nevertheless be actionable.  TODO, unclear.>}
+
+SUMMARY *Meaning of Defamatory - No imputation of improper conduct*
+@*|Berkoff v Burchill|*
+/{<Whether words are defamatory is a matter for the jury. By majority, To call an actor '_hideously ugly_' could expose him to ridicule, and so was defamatory, even if there was no imputation of bad conduct.>}
+
+SUMMARY *Meaning of Defamatory - Totality of Published Material*
+@*|Charleston v New Group|*
+/{<The "right-minded" members of society, whose estimation of a claimant in defamation must be lowered, will be taken to read *the whole of the publication*, rather than just, e.g., a headline or photo that taken on its own would be defamatory.>}
+
+SUMMARY *Meaning of Defamatory - Requirement of Seriousness*
+@*|Thornton v Telegraph|*
+/{<The imputation must be _serious_ to succeed in defamation. Merely saying that a writer followed an unconventional practice, or one subject to criticism, is not enough.>}
+
+SUMMARY *Meaning of Defamatory - Requirement of Seriousness - Apology or Retraction*
+@*|Cooke v MGN|*
+/{<The publication of an apology, so as to reach the same audience, may militate against there being _serious harm_.>}
+
+SUMMARY *Meaning of Defamatory - Requirement of Seriousness - Defamation Act 2013*
+@*|Ames v Spamhaus Project|*
+/{<Serious *claims* do not necessarily do actual or potential serious *harm* as required by S1 of the |Defamation Act 2013|.>}
+
+SUMMARY *Meaning of Defamatory - Public Opinion - Reference to Claimant*
+@*|Byrne v Deane|*
+/{<The allegation complained of must tarnish the opinion of the claimant in the opinion of the _right-minded_ member of society invoked by Lord Atkin in |Sim v Stretch|.>}
+
+SUMMARY *Meaning of Defamatory - Innuendo - False (popular) Innunendo*
+@*|Lewis v Daily Telegraph|*
+/{<The _right-minded_ person would not infer a person to be _guilty_ from a statement that an investigation is being conducted.>}
+
+SUMMARY *Meaning of Defamatory - Innuendo - True (legal) Innunendo*
+@*|Cassidy v Daily Mirror|*
+/{<Material that superficially has no defamatory import *can* be defamatory, if the material would be cast in a different light to a certain class of people who have extra information.>}
+@*|Trolley v Fry|*
+/{<An inference about someone's conduct available _only to those known personally to him_ could indee be drawn from an innocuous publication such as an advertisement, and as such,following |Cassidy v Daily Mirror|, it could be defamatory.>}
+
+SUMMARY *Reference to Claimant - Accidental Defamation*
+@*|Hulton v Jones|*
+/{<A reasonable reader would think, on reading a publication naming a person and purporting to be factual, that the person had done what was said.>}
+@*|Newstead v Express|*
+/{<A publication which is *accidentlly* defamatory is nevertheless actionable. What is to be considered is _what a fair-minded reader would think_.>}
+
+SUMMARY *Reference to Claimant*
+@*|Morgan v Odhams Press|*
+/{<The test for whether a publication refers to a claimant is whether the ordinary, sensible reader would understand the words as referring to the claimant, _in light of any facts known to him_.>}
+
+SUMMARY *Reference to Claimant - Art. 10 in Defamation*
+@*|O'Shea v MGN|*
+/{<When the publication is a photo, then the rule of |Newstead v Express| and |Morgan v Odhams Press|, in which there was liability for innocent defamation, cannot apply. If it were to, that would amount to an infringement of ECHR Art. 10(2).>}
+
+SUMMARY *Reference to Claimant - Group Defamation*
+@*|Knupffer v London Express|*
+/{<If a reasonabe person could interpret a statement about a *group* as *applying to each member* of it, then the requirement of reference to _individual_ members of the group would be satisfied.>}
+
+SUMMARY *Publication*
+@*|Huth v Huth|*
+/{<Communication from a man to his wife is _not_ publication. When there is no intention for a defamatory statement to be published, and when it has only been seen by another through their immoral actions (here, an over-curious butler reading a private note), then there is no liability in defamation.>}
+@*|Theaker v Richardson|*
+/{<Sending a defamatory letter purporting to be private, but demonstrating a reasonable expectation that it might be opened and seen by others, means the letter has been published.>}
+
+SUMMARY *Publication - Websites - Defences - Innocent Dissemination*
+@*|Godfrey v Demon|*
+/{<Although hosting of publicly-available information is publishing at common law, the host of a forum or blog is not a commercial publisher for the purposes of the |Defamation Act 1996| S1(2). Nevertheless, once notified, such a host must take steps swiftly to remove the objectionable content.>}
+
+SUMMARY *Publication - Websites*
+@*|Bunt v Tilley|*
+/{<An ISP merely facilitating forum posts is not a publisher at common law *unless* they are knowingly involved -- and they become knowingly involved once they are alerted to the content and refuse to remove it.>}
+@*|Tamiz v Google|*
+/{<The host of a blog who does not remove defamatory material a *reasonable time* after notification might be inferred to have *associated themselves with*, or become responsible for, the presence of the material. Thereby they would become its *publisher*.>}
+
+SUMMARY *Multiple Publication*
+@*|Loutchansky v The Times (no 2)|*
+/{<Each time an article is viewed, for the purposes of defamation at common law, there has been a fresh publication leading to a fresh cause of action.>}
+
+SUMMARY *Multiple Publication - Art. 10 in Defamation*
+@*|The Times v UK|*
+/{<The lack of a single-publication rule was perhaps a breach of a newspaper's article 10 rights, but a justified one; and courses of action for multiple publication could in any case be avoided by publishers of internet archives simply by attaching a note to the contentious material.>}
+
+SUMMARY *Defences - Substantial Truth - Sting of Allegation - Remedies - Derisory Damages - Bribery*
+@*|Grobbelaar v News Group|*
+/{<Defamation exists to protect those whose reputations have been trashed *unjustly*, *by others*. Not to protect those who trash their reputations by themselves and are merely *exposed* by others, who publish the (substantial) truth.>}
+
+SUMMARY *Defences - Opinion or Truth*
+@*|Telnikoff v Matusevich|*
+/{<A letter written in reaction to an article is to be considered a separate publication, and is not to be considered in the context of the article to which it relates; the fair-minded member of the public may well read the letter, but not have read the article.>}
+@*|British Chiropractic Association v Singh|*
+/{<Calling someone out for making a claim (on which it might happen to rely for business, for instance), but for which it has no proof, cannot give liability in defamation. To do so is not to assert a fact, but rather an opinion as to the veracity of the claims.>}
+@*|Waterson v Lloyd|*
+/{<Calling something _'scandalous'_ is an assertion of opinion, not fact.>}
+@*|Spiller v Joseph|*
+/{<Opinion *not* published with the facts on which the opinion is based *may not rely on the honest opinion* as a defence.>}
+
+SUMMARY *Defences - Art. 6 in Defamation - Absolute Privilege*
+@*|A v UK|*
+/{<The exercise of absolute privilege in Parliament does not impose a _disproportionate_ restriction on a person's access to justice, where the privileged statement was of a defamatory character.>}
+
+SUMMARY *Defences - Qualified Privilege - Reynolds Test*
+@*|Reynolds v Times Newspapers|*
+/{<Where there was a duty to publish an allegation _even if it turned out to be wrong_, there could be a defence of qualified privilege, although that would be fact-specific.>}
+
+SUMMARY *Defences - Qualified Privilege*
+@*|Watt v Longsdon|*
+/{<Qualified privilege is a defence only where there is a duty to the recipient of the communication. The defendant _did_ have qualified privilege to show the letter to the business partner... but _not_ to the wife.>}
+@*|Bryanston v De Vries (no 1)|*
+/{<The communication between a employees in companies is covered by qualified privilege, e.g., HR departments and managers, bosses and secretaries, etc.>}
+
+SUMMARY *Defences - Qualified Privilege - Art. 8 in Defamation*
+@*|Clift v Slough|*
+/{<There had been no duty to communicate a list of violent people to anyone other than those who might come into contact with them.>}
+
+SUMMARY *Defences - Qualified Privilege - Malice*
+@*|Horrocks v Lowe|*
+/{<When a statement is unreasonably but honestly believed to be true, and no malice can be shown, the defence of qualified privilege can operate.>}
+
+SUMMARY *Defences - Public Interest - Bribery*
+@*|Flood v The Times|*
+/{<The |Reynolds Defence| will only succeed if reasonable steps have been taken to verify the allegations before publication.>}
+
+SUMMARY *Defences - Offer of Amends*
+@*|Flood v The Times|*
+/{<The |Reynolds Defence| will only succeed if reasonable steps have been taken to verify the allegations before publication.>}
+
+SUMMARY *Remedies - Damages - Art. 6 in Defamation*
+@*|Steel and Morris v UK|*
+/{<When one party spends millions and the other party, for lack of legal aid, spends a few paltry thousands, then there may have been an _unacceptable inequality of arms_, which would breach ECHR Art. 6.>}
+
+SUMMARY *Remedies - Damages*
+@*|John v MGN|*
+/{<The jury had not been adequately guided, and had awarded too much.>}
+
+
+
+
+
+
+ -----------------

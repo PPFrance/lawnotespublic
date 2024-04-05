@@ -1,0 +1,226 @@
+
+
+NAME Breach of Duty - Standard of Care
+TYPE Concept
+CATEGORY Negligence; Breach of Duty
+SUMMARY The standard of care owed is *objective*. The *defendant's view* of their reasonableness is *irrelevant*, and certain characteristics which D may think relevant, e.g., impulsivity, a careless disposition, or inexperience -- |Nettleship v Weston| -- cannot be pleaded.
+SUMMARY Generally, circumstances determine what is _reasonable_.
+SUMMARY Paraphrasing D. Howarth in _Textbook on Tort_, pp.67, the claimant must persuade the court that what happened was a *foreseeable* consequence of the defendant's conduct; and that there were practical precautions available to the defendant, which he did not take. The defendant, contrastingly, must play down the foreseeability, and suggest snags in the precautions the claimant suggests would have been obvious. *What would it have seemed like at the time?*
+SUMMARY *Foreseeability* -- does not benefit from hindsight: |Roe v Minister of Health|.
+SUMMARY The *magnitude of risk* determines the degree of care the law expects. A small risk, a small degree of care (|Bolton v Stone|, cf. |Miller v Jackson|), as does the *severity of potential damage* -- |Paris v Stepney|, |Harris v Perry|.
+SUMMARY The courts will consider the *practicality of precautions* -- |Latimer v AEC|, |The Wagon Mound (no 2)| -- and whether there was any potential public utility of the defendant's conduct -- |Watt v Hertfordshire|, |Scout Association v Barnes|.
+SUMMARY A strong inference will be made that a defendant has *not* been negligent, when he acts consistently with *common practice* -- |Bolitho|, |Sutcliffe v BMI Healthcare|.
+SUMMARY *Special skills* -- such as doctoring, barristering, etc, will attract judgment not according to the Clapham Omnibus standard but that of a *responsible body of opinion* -- |Bolam|, |Pierce v Doncaster|, |Montgomery v Lanarkshire Health Board|.
+SUMMARY When assessing the *standard* of care owed by *children*, then although the test remains objective, it is according to an *ordinary child of the same age* -- |Mullin v Richards|, |Orchard v Lee|.
+SUMMARY The courts are *not* keen on finding *public bodies* liable. This is for the simple and expedient reason that the more money they have to spend settling claims in tort, the less they can spend on doing what they're supposed to be doing.
+SUMMARY The courts may sometimes take the shortcut of *res ipsa loquitur* and observe what the facts say for themselves.
+
+NAME Breach of Duty - Reading
+TYPE Reading
+CATEGORY Negligence; Breach of Duty
+SUMMARY ~*Essential*~
+SUMMARY Steele: pp.111-138 -- |Nettleship v Weston| -- |Bolton v Stone| -- |Miller v Jackson| -- |Paris v Stepney| -- |Latimer v AEC| -- |Watt v Hertfordshire| -- |S3 Compensation Act| _S1 -- Social Action, Responsibility and Heroism Act_ |SARAH 2015| -- |Bolitho v Hackney HA| -- |Bolam v Friern Hospital| -- |Montgomery v Lanarkshire Health Board| -- |Mullin v Richards|
+SUMMARY ~*Additional*~
+SUMMARY J. Elvin, _Can an Employer be under a Duty to Dismiss an Employee for his own Good in Order to Protect his Health?_ (2003) 62 CLJ 20
+SUMMARY Ministry of Justice, _Courts to Recognise Good Intentions of Volunteers and Small Busineses_, <br> at https://www.gov.uk/government/news/courts-to-recognise-good-intentions-of-volunteers-and-small-busineses 
+SUMMARY R. Mulheron, _Trumping Bolam: A Critical Legal Analysis of Bolitho's “Gloss”_ (2010) 69 CLJ 609<BR>Newground Legislation Update Service, _Social Action, Responsibility and Heroism Act (SARAH)_,<br> at http://www.legislationupdateservice.co.uk/social-action-responsibility-and-heroism-act-sarah/ 
+SUMMARY _What's the point of the Social Action, Responsibility and Heroism Act?_, <br>at http://blogs.lexisnexis.co.uk/dr/whats-the-point-of-the-social-action-responsibility-and-heroism-act/ 
+SUMMARY |Roe v Minister of Health| -- |Williams v University of Birmingham| -- |Harris v Perry| -- |The Wagon Mound (no 2)| -- |Scout Association v Barnes| -- |Sutcliffe v BMI Healthcare| -- |Orchard v Lee| -- |Pierce v Doncaster| -- Knight v Home Office|
+
+
+NAME Miller v Jackson
+YEAR 1977
+CITATION Miller v Jackson [1977] EWCA QB 966
+COURT EWCA
+FLAGS Important; Amusing; Denning; EPLR
+SUMMARY The house of the claimants had been built barely thirty metres from the batting crease of the village cricket pitch. There was the usual minor damage from cricket balls, and the risk of injury to the householders. The club erected a three metre fence, and _asked batsmen to hit fours rather than sixes_ (!) but a few balls every season still landed in the Millers' property.
+HELD The claim in negligence (and nuisance) succeeded. The cricket club had owed and breached a duty of care owed to the claimant householders. Nevertheless, the injunction sought against the club was _not_ allowed. Denning MR's fabled dissent -- _'In summertime, village cricket is the delight of everyone. Nearly every village has its own cricket field where the young men play and the old men watch.'_  
+CATEGORY Negligence; Breach of Duty; Cricket
+
+NAME Nettleship v Weston
+YEAR 1971
+COURT EWCA
+CITATION Nettleship v Weston [1971] EWCA 2 QB 691 
+CATEGORY Negligence; Breach of Duty; Objective Standard
+FLAGS Traffic Accident; Important; Denning; EPLR
+SUMMARY The claimant was injured when the defendant, _who he was teaching to drive_, lost control and crashed. She argued that the standard of care she owed was necessarily lower than that of an experienced driver.  
+HELD Although the defendant's argument that her inexperience should give rise to a lesser standard of care made intuitive sense, an _objective_ standard must be imposed, but a standard unconnected to moral fault. This is for two reasons: the impracticability of the standard being subjective, and the pragmatic necessity to _blame_ someone -- and therefore _pay for the damage_ from their insurance. 
+HELD On dissent of Salmon LJ, damages _halved_ through claimant's contributory negligence he was held partially in control of the car.
+COMMENT The standard of care generally owed is objective.
+
+NAME Roe v Minister of Health
+YEAR 1954
+CITATION Roe v Minister of Health [1954] EWCA 2 All ER 131
+COURT EWCA
+FLAGS Denning; Important
+SUMMARY In 1947, Roe and another had been given lumbar puncture anaesthetics from phials that'd been stored immersed in a (toxic) antiseptic. The phials turned out to have had microscopic cracks invisible to the naked eye, and there had been enough of the antiseptic in the anaesthetic to paralyse the claimants.
+HELD The presence of microscopic cracks would neither have been known about nor foreseen by the operating theatre doctors, so there had not been a breach.
+HELD Denning LJ -- 'We must not look at the 1947 incident with 1954 spectacles.' Well quite. 
+CATEGORY Negligence; Breach of Duty; Foreseeability
+
+NAME Bolton v Stone
+YEAR 1951
+CITATION Bolton v Stone [1951] UKHL AC 850
+COURT UKHL
+FLAGS Important; EPLR; Cricket
+CATEGORY Negligence; Breach of Duty; Cricket
+SUMMARY A woman standing outside her house in Manchester, about a hundred yards away from the batsman, was struck in the head by the ball when, for only the seventh time in thirty years, a ball was hit for six out of the ground.
+HELD When the *chances* of damage occurring are too small, then, unless the magnitude of the potential damage so great as to make it reasonable to take precautions, (|The Wagon Mound|), there will not be a breach of duty.  Cf. |Miller v Jackson| in which the risk was rather greater.
+
+NAME Paris v Stepney
+YEAR 1951
+COURT UKHL
+FLAGS Important; EPLR
+CITATION Paris v Stepney Borough Council [1950] UKHL 3
+CATEGORY Negligence; Breach of Duty; Severity of Potential Harm; Risk
+SUMMARY The claimant a garage worker, who'd lot an eye in the war, was blinded by a chip of metal. He sued his employer for breach of duty of care. 
+HELD The particular characteristics/circumstances of an employee should be taken into account by an employer, or others owing them a duty of care, if the characteristics are known about. All the more so when precautions, such as the provision of safety goggles, are easy to take.
+
+NAME Harris v Perry
+YEAR 2008
+COURT EWCA
+FLAGS Leading
+CITATION Harris v Perry and another [2008] EWCA Civ 907
+CATEGORY Negligence; Breach of Duty; Practicality of Precautions; Risk
+SUMMARY Parents of a child for whose birthday party they'd hired a bouncy castle were sued by one of the children invited to the party, an 11 year old who'd been kicked in the head by another child of 15, also on the bouncy castle. Presumably this was an accident, but children of that age can be quite vile to one another, can't they. The supervising parent had turned their back momentarily. Claimed it was negligent to let a 15-year-old child on a bouncy castle with a younger, smaller, softer one.
+HELD Reasonably foreseeable that children could injure one another on a bouncy castle, but not that the injury would be severe.
+HELD Impractical, however, to keep the children under constant supervision. The hosts had not acted unreasonably, and life would be dull if all risk were eliminated.
+
+NAME Latimer v AEC
+YEAR 1953
+CITATION Latimer v AEC [1953] UKHL AC 643
+COURT UKHL
+FLAGS Important; EPLR
+CATEGORY Negligence; Breach of Duty; Practicality of Precautions; Risk; Employers' Liability; Primary Liability; Safe Place of Work
+SUMMARY Big old flood, defendant's company inundated. Oily chemical used on machinery in factory, which mixed with flood water. When the water receded, the floor was coated with slippery grime. Three tonnes of saw dust were spread on the floor. But not the part the claimant walked on, slipping over and injuring himself. Argued breach of duty in not closing factory until safe.
+HELD Closing the factory until completely cleaned wouldn't have been a reasonable precaution due to enormous cost of doing so, and risk of serious injury quite low. In the circumstances, the precautions the defendant had taken -- although not such as to remove the danger entirely -- were reasonable and proportionate.
+
+NAME Overseas Tankship v Miller (The Wagon Mound - no 2)
+AKA The Wagon Mound (no 2)
+YEAR 1967
+FLAGS Key; Leading; EPLR
+CITATION Overseas Tankship (UK) Ltd v Morts Dock (Wagon Mound no. 2) [1967] 1 AC 617 
+COURT UKPC
+CATEGORY Negligence; Breach of Duty; Practicality of Precautions; Severity of Potential Harm; Risk
+CONTRAST Harris v Perry
+SUMMARY Defendants sued for negligently allowing oil to escape from their ship into a harbour, which caught fire and toasted a couple of neighbouring ships.
+HELD When the magnitude of potential harm is great, but the chance of it occurring is very slight, a reasonable man *would* take precautions against. Therefore, especially when the cost and difficulty involved in taking such precautions are small, damage incurred may well be recoverable in negligence. 
+
+NAME Williams v University of Birmingham
+YEAR 2011
+FLAGS Leading
+CITATION Williams v University of Birmingham [2011] EWCA Civ 1242
+COURT EWCA
+CATEGORY Negligence; Breach of Duty; Causation; Asbestos; Mesothelioma
+SUMMARY The estate of a man who, in the course of experiments as part of his physics undergrad in Birmingham in the '70s, had been exposed to asbestos-lagged pipes in tunnels owned by the university. He went on to develop mesothelioma in middle age and died at 54.
+HELD The correct test in asbestos cases was whether the defendant had taken reasonable care to ensure that a person was not exposed to a foreseeable risk of _asbestos-related injury_. *Not* that the defendant had exposed the claimant to asbestos. In the '70s, it was not known that the level of exposure to fibres experienced by the claimant would have given rise to a reasonably-foreseeable risk of asbestos-related injury. 
+
+NAME Watt v Hertfordshire 
+YEAR 1954 
+CITATION Watt v Hertfordshire [1954] EWCA 1 WLR 835
+COURT EWCA
+FLAGS Important; Denning; EPLR; Traffic Accident
+CATEGORY Negligence; Breach of Duty; Defences; Utility of Conduct
+CATEGORY Negligence; Breach of Duty; Local Authorities
+SUMMARY The claimant was a fireman. There was a car accident for which a very big jack was needed to free one of the accidentees. No specialist vehicles were available to transport it, so the claimant was asked to go in the back of a truck to hold the jack secure. The truck braked sharply, and the claimant was biffed in the leg by the jack -- causing him serious injury.
+HELD When actions or omissions which, considered alone would be actionable in negligence, are done or fail to be done in the public interest, then the utility of the conduct may well provide a defence. Therefore, although the risk of injury to a fireman told to go in the back of a van racing to the scene of an accident, to hold secure a massive great jack, was _foreseeable_, the potential utility of the conduct -- extricating someone trapped in the wreckage of the car -- provided a defence to the injured fireman.
+HELD Denning LJ held approximately, that taking considerable risk when trying to save life is fine. There had been far less risk of serious injury in getting the jack to the scene of the accident than the potential risk of serious injury to the woman who needed a car jacking up off her. 
+
+NAME Scout Association v Barnes 
+YEAR 2010
+COURT EWCA
+FLAGS Amusing
+CITATION The Scout Association v Barnes [2010] EWCA Civ 1476
+CATEGORY Negligence; Breach of Duty; Defences; Utility of Conduct
+CATEGORY Negligence; Breach of Duty; Children
+SUMMARY A scoutmaster had his scouts play a game called _Objects in the Dark_. You think you know what's coming, given the preceding sentence -- but this is in fact about personal injury, _not_ paedophilia. The game was played in pitch darkness, and funnily enough, someone -- a 13-year-old boy -- was injured and sued.
+HELD Although there was potential utility in playing _objects in the dark_, there was not enough to weigh against the foreseeable risk of injury, and therefore, a breach of duty. Sagely, the court sagely suggested playing, instead, _objects_.
+
+
+
+NAME Bolitho v Hackney HA
+AKA Bolitho
+YEAR 1996
+COURT UKHL
+FLAGS Key; Leading; EPLR
+CITATION Bolitho v City and Hackney Health Authority [1996] UKHL 4 All ER 771
+FLAGS Leading; Important
+CATEGORY Negligence; Breach of Duty; Defences; Common Practice
+CATEGORY Negligence; Clinical Negligence
+SUMMARY A two-year-old, admitted to Barts with croup. On two occasions he went white and manifested obvious difficulty breathing, but recovered and was observed to be energetic. On both occasions, the senior paediatrician was called but did not attend. But half an hour after the second episode, he went into respiratory and cardiac arrest, which left his brain hypoperfused, with obvious consequences. At trial, the 5-3 majority expert medical evidence suggested the child ought to have been intubated. 
+HELD |Bolam| stands, except where a judge can be satisfied that _the body of expert opinion cannot be logically supported at all_. And here, in the UKHL, the minority opinion of a certain Dr Dinwiddie held sway.
+
+NAME Sutcliffe v BMI Healthcare
+YEAR 2007
+COURT EWCA
+CITATION Sutcliffe v BMI Healthcare [2007] EWCA Civ 476
+CATEGORY Negligence; Breach of Duty; Defences; Common Practice
+CATEGORY Negligence; Clinical Negligence
+SUMMARY After a routine knee operation, a patient vomited in his sleep and as a consequence suffered severe brain damage. Claim was that he ought to have been woken up and checked on rather than just negligently allowed to sleep.
+HELD The post-operative care had been conducted on a logical basis -- the claimant was asleep as he was tired.  
+TRIVIA I'd understood they usually want you to piss at least once before they'll leave you alone after an operation. 
+
+NAME Bolam v Friern Hospital
+AKA Bolam
+YEAR 1957
+COURT EWCA
+CITATION Bolam v Friern Hospital Management Committee [1957] EWCA 1 WLR 582
+FLAGS Leading; Important; EPLR
+CATEGORY Negligence; Breach of Duty; Standard of Care; Professionals
+CATEGORY Negligence; Clinical Negligence
+SUMMARY The claimant had voluntarily undergone ECT, but hadn't been given muscle relaxants. Consequently, during the treatment he flailed around violently, and sustained several serious injuries including a fracture to part of his pelvis. Sued in negligence because (i) he hadn't been given muscle relaxants, (ii) he hadn't been restrained and (iii) he hadn't been warned of the risk.
+HELD For professionals acting in the course of their duties, if the standard of care falls below the standard of _a responsible body of opinion_, then there is negligence. *Cf. |Montgomery v Lanarkshire Health Board|*, also |Bolitho|.
+
+NAME Pierce v Doncaster
+YEAR 2008
+COURT EWCA
+CITATION Pierce v Doncaster MBC [2008] EWCA Civ 1416
+CATEGORY Negligence; Breach of Duty; Standard of Care; Professionals
+CATEGORY Negligence; Breach of Duty; Local Authorities
+SUMMARY The claimant had the misfortune to be born into an emotionally and financially unstable household. By six months, he already showed signs of neglect. He was taken into care and kept there for a bit. The defendant, he claimed, ought to have known that the family house was insalubrious to the point of hazard. Mother visited son occasionally, but chaotically. Father in and out of prison. But boy allowed to go back to the family at 14 months old. Ran away from home at 14 years. Claim that duty of care breached by being allowed to go back to family. Things for this poor fellow had curdled really quite appallingly: personality disorder, prostitution, crime.
+HELD The defendant was unreasonable in putting the child back with family -- the |Bolam| test applied, the defendant was to be judged according to the standard of an expert.
+
+NAME Montgomery v Lanarkshire Health Board 
+YEAR 2015
+COURT UKSC
+CITATION Montgomery v Lanarkshire Health Board [2015] UKSC 11
+FLAGS Key; Leading; EPLR
+CATEGORY Negligence; Breach of Duty; Duty to Appraise Patient of Material Risks
+CATEGORY Negligence; Clinical Negligence
+SUMMARY A pregnant woman had not been informed that there was a 97% chance of something nasty called _shoulder dystocia_ happening during the delivery of her son. The baby was born with cerebral palsy. Claimed in negligence for failure to inform her. 
+HELD A doctor is under a duty to inform patient of _material_ risks: would a reasonable person in the patient's position be able to attach significance to the risk? Cf. |Bolam v Friern Hospital|.
+
+NAME Mullin v Richards
+YEAR 1998
+COURT EWCA
+FLAGS Important; Amusing; EPLR
+CITATION Mullin v Richards [1998] 1 All ER 920
+CATEGORY Negligence; Breach of Duty; Standard of Care; Children
+SUMMARY Two schoolgirls, presumably both given to somewhat more than a certain degree of espièglerie. The defendant managed to blind the claimant with a shard of a plastic ruler, during an, erm, _ruler fight_.
+HELD The standard to be expected of a 15-year-old child was not the standard of a reasonable person, but that of a reasonable and _ordinarily prudent_ 15-year-old.
+TRIVIA Curiously enough, the courts had never been asked to adjudicate on *fights with rulers*, before 1998.
+
+NAME Orchard v Lee
+YEAR 2009
+COURT EWCA
+CITATION Orchard v Lee [2009] EWCA 295
+CATEGORY Negligence; Breach of Duty; Standard of Care; Children
+SUMMARY A lunchtime playground assistant at a school was injured when the defendant, running around like the 13-year-old boy he was, inadvertantly knocked her over. So she sued the boy. (And the school, when it came to EWCA). 
+HELD It was just a boy running around, not even breaking any rules. Doing just what you'd expect a boy to do. So, seriously, Mrs. Claimant, WTF?
+
+NAME Knight v Home Office
+YEAR 1990
+COURT EWCA
+CITATION Knight v Home Office [1990] 3 All ER 23
+CATEGORY Negligence; Breach of Duty; Standard of Care; Public Authorities; Prison
+SUMMARY The estate of a prison suicide sued, claiming the prison hadn't taken reasonable care to stop the prisoner committing suicide, in the hospital wing of HMP Brixton.
+HELD No breach of duty: the hospital wing of a prison necessarily gives lower standard of care than a hospital, as money must be spent on, e.g., _stopping prisoners escaping_ (!)
+
+NAME Social Action, Responsibility and Heroism Act 2015
+TYPE Statute
+AKA SARAH 2015
+FLAGS Criticised
+SUMMARY $:On legislation.gov$$http://www.legislation.gov.uk/ukpga/2015/3/contents:$.
+
+
+

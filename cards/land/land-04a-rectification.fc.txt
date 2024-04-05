@@ -1,0 +1,144 @@
+
+NAME Mistakes on the Register and Indemnities
+AKA Mistakes and Indemnities
+TYPE Concept
+CATEGORY Mistakes on the Register
+SUMMARY _Given the |Title Guarantee| of the register, how do people get compensated when a mistake is made?_ 
+SUMMARY The rules governing _alteration_ of the register are in |Schedule 4 LRA 2002|, and for the payment of _indemnities_, in |Schedule 8 LRA 2002|.
+SUMMARY ~*Mistakes*~
+/These can be of two types:
+SUMMARY *Type 1* -- for which the register will be *altered*
+/Barring exceptional circumstances, alteration is systematic. 
+@Subtypes:
+@@*Administrative*: the cocking-up of name, address, etc. 
+@@*Substantive*, but which _cause no loss_, and therefore the correction of which would not prejudicially affect the new RP's title.
+/{MD -- this basically never happens, as the circs in which a substantial loss would _not_ prejudicially affect do so are vanishingly slight.}
+SUMMARY |Walker v Burton| is _probably_ an example of a type 1 mistake, but the courts see it as a type 1 mistake.
+SUMMARY *Type 2* -- for which the register *may* be *rectified*
+/By contrast to alteration, rectifications are corrections that prejudicially affect the title of the RP -- |Schedule 4| 1(b).
+@Naturally enough, this is where most of the litigation is.
+@It can involve something mistakenly _added_ -- |Swift 1st|, or _removed_ -- |Gold Harp v MacLeod|.
+SUMMARY Generally, there *is* rectification if the new RP is not in possession -- |Knights Construction v Roberto Mac|, but there is *not* if he is, unless he has acted in bad faith -- |Schedule 4| 3(2)(a) and (b) -- |Baxter v Mannion|.
+SUMMARY ~*Indemnities*~
+/This is strict-liability/no-fault compensation. A claim succeeds merely by showing the LR has caused loss.
+@Cf. tortious damages, which |Schedule 8| indemnities are *not*. The rationale of tortious damages, of putting you back the position before the tort, could only be achieved by rectification.
+@A fundamental principle of the law of real property is that each piece of land is unique, and cannot be equated with money -- Lady Hale obiter in |Scott v Southern Pacific Mortgages|.
+@@Cf. |Overreaching|, in which this 'fundamental' principle is ignored to favour land changing hands.
+
+ 
+SUMMARY ~*See also*~
+/|Mistakes - Dealing with Problems|
+
+
+
+NAME Schedule 4 LRA 2002
+AKA Schedule 4 LRA
+AKA Schedule 4 
+LEGILINK http://www.legislation.gov.uk/ukpga/2002/9/schedule/4
+TYPE Statute
+CATEGORY Mistakes and Indemnities; Rules for Alteration; LRA 2002
+SUMMARY *Blackstone's* Property Law 2015-2016 -- *p. 348*
+SUMMARY *Introduction*
++In this Schedule, references to rectification, in relation to alteration of the register, are to alteration which—
+++involves the correction of a mistake, and
+++prejudicially affects the title of a registered proprietor.
+SUMMARY *Alteration _pursuant_ to a court order*
++(1)The court may make an order for alteration of the register for the purpose of—
+++correcting a mistake,
+++bringing the register up to date, or
+++giving effect to any estate, right or interest excepted from the effect of registration.
++0(2)An order under this paragraph has effect when served on the registrar to impose a duty on him to give effect to it.
++(1)This paragraph applies to the power under paragraph 2, so far as relating to rectification.
++0(2)If alteration affects the title of the proprietor of a registered estate in land, no order may be made under paragraph 2 without the proprietor’s consent in relation to land in his possession unless—
+++he has by fraud or lack of proper care caused or substantially contributed to the mistake, or
+++it would for any other reason be unjust for the alteration not to be made.
+++If in any proceedings the court has power to make an order under paragraph 2, it must do so, unless there are exceptional circumstances which justify its not doing so.
+++In sub-paragraph (2), the reference to the title of the proprietor of a registered estate in land includes his title to any registered estate which subsists for the benefit of the estate in land.
++Rules may—
+++make provision about the circumstances in which there is a duty to exercise the power under paragraph 2, so far as not relating to rectification;
+++make provision about the form of an order under paragraph 2;
+++make provision about service of such an order.
+SUMMARY *Alteration _otherwise than pursuant_ to a court order*
++The registrar may alter the register for the purpose of—
+++correcting a mistake,
+++*bringing the register up to date*,
+++giving effect to any estate, right or interest excepted from the effect of registration, or
+++removing a superfluous entry.
+
+
+NAME Schedule 8 LRA 2002
+AKA Schedule 8 LRA
+AKA Schedule 8 
+http://www.legislation.gov.uk/ukpga/2002/9/schedule/8
+TYPE Statute
+CATEGORY Mistakes and Indemnities; Rules for Indemnities; LRA 2002
+SUMMARY *Blackstone's* Property Law 2015-2016 -- *p. 348*
+
+SUMMARY *Entitlement*
++(1)A person is entitled to be indemnified by the registrar if he suffers loss by reason of—
+++rectification of the register,
+++a mistake whose correction would involve rectification of the register,
+++a mistake in an official search,
+++a mistake in an official copy,
+++a mistake in a document kept by the registrar which is not an original and is referred to in the register,
+++the loss or destruction of a document lodged at the registry for inspection or safe custody,
+++a mistake in the cautions register, or
+++failure by the registrar to perform his duty under section 50.
++0(2)For the purposes of sub-paragraph (1)(a)—
+++any person who suffers loss by reason of the change of title under section 62 is to be regarded as having suffered loss by reason of rectification of the register, and
+++the proprietor of a registered estate or charge claiming in good faith under a forged disposition is, where the register is rectified, to be regarded as having suffered loss by reason of such rectification as if the disposition had not been forged.
+++No indemnity under sub-paragraph (1)(b) is payable until a decision has been made about whether to alter the register for the purpose of correcting the mistake; and the loss suffered by reason of the mistake is to be determined in the light of that decision.
+
+
+
+
+
+NAME Mistakes - Dealing with Problems
+TYPE Exam Advice
+CATEGORY Mistakes on the Register
+SUMMARY ~*General Strategy*~
++*Identify the relevant mistake*
+@@In the register? |Swift 1st|, or
+@@in the underlying facts? |Baxter v Mannion|.
+@@_Usually incompetence, sometimes fraud._
++*Who has been prejudiced?*
+@@Usually just the RP's title.
++*Current RP _not_ in possession?*
+@@Rectify -- |Knights Construction v Roberto Mac| 
++*Current RP _in_ possession?*
+@@Presumption *against* rectification, rebuttable if the current RP --
+@@@*Consents* -- |Schedule 4| *3(2)*; or
+@@@*Substantially contributed* to the mistake through fraud or lack of proper care -- *3(2)~(a)~*, |Baxter v Mannion|; or
+@@@Not to do so would be *unjust* -- *3(2)~(b)~*, but the threshold is *high* -- |Baxter v Mannion|, higher than merely the original RP having lost title. Also |Cooper v Gick|.
+
+
+NAME Patterns of Facts in Rectification Cases
+TYPE Concept
+CATEGORY Mistakes on the Register
+SUMMARY ~*A -- B*~
+/Original RP transfers to New RP, but a registration mistake is made, e.g., B buys half the land but only gets registered in a quarter.
+@If B is in possession (and has not acted fraudulently or contributed to the mistake (or there is another reason for which it would be unfair)
+@@B keeps the title.
+@@A is paid indemnities by the Land Registry -- |Williams v Mitchell|, |Roberto Mac|.
+SUMMARY {Note that this is fairly poisonous to common sense. Take someone's daughter's bike (!) and it's still their daughter's bike. Strident disapprovers include Lady Hale.}
+
+SUMMARY ~*A -- B -- C*~
+/The fraudster is *B*. He's nabbed the title from *A* then transferred it to *C*, an innocent party. |Swift 1st|, |Guy v Barclay's|, |Fitzwilliam v Richall|, |Malory v Cheshire|.
+
+@Dixon's opinion: this _shouldn't_ be treated differently to *A -- B*. If C is in possession, the normal rules of |Schedule 4| should apply.
+/Nevertheless --
+
+@The cases tend to send the land back to A (without going through the legislative provisions) in one of two ways:
+++*Unravelling the whole sequence of events*
+/By use of the equitable maxims _"fraud unravels all"_ and/or _"equity will not permit a statute to be an instrument of fraud"_. 
+@@@A gets the land back, but the *innocent party gets no indemnity*.
+/Unravelling the whole shebang entails _un_registering the fraudulent registration whose rectification would entitled C to damages -- |Fitzwilliam v Richall|.
+@@@@cf. |Guy v Barclay's|, decided in favour of the bank, the claimant having discovered the fraud but failed to register a notice against the title.
++++0_Having no remedy, Richall went to the CA -- but dropped the action on the morning of the hearing, having been paid off under a confidential agreement. By, one might speculate, the bank in the upcoming case of |Swift 1st|, to avoid the danger of being scuppered by an EWCA precedent against them._
+@@@In any event, |Swift 1st| clipped the wings of this means of sorting out fraud cases quite considerably, the claim for rectification succeeding at first instance and on appeal despite the fraud.
+
+++*A's right to _seek_ rectification as an OI* 
+@@@|Malory| established this is a property right.
+@@@Should A be in actual occupation, it would override and bind C.
+/However, it *seems* like a statutory right, not a property right.
+

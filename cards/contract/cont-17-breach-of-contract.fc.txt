@@ -1,0 +1,162 @@
+META filename herling-17-breach-of-contract.fc.txt
+
+
+
+
+
+--STOP--
+
+NAME Breach of Contract - Introduction
+TYPE Concept
+CATEGORY Breach of Contract
+SUMMARY See $:Herling's Lectures$$herling.html:$ 
+
+
+
+
+NAME Breach of contract – the basic rights
+TYPE Concept
+CATEGORY Breach of Contract
+FLAGS Denning; Diplock
+
+
+
+
+NAME Photo Production Ltd v Securicor Transport Ltd
+CITATION Photo Production Ltd v Securicor Transport Ltd [1980] AC 827
+CATEGORY Breach of Contract; Introduction; Breach of Contract – Basic Rights
+FLAGS Diplock
+
+
+
+
+NAME The election to terminate
+TYPE Concept
+CATEGORY Breach of Contract
+FLAGS Steyn
+
+
+
+
+NAME Vitol SA v Norelf Ltd.
+FLAGS Steyn
+
+
+
+
+NAME Anticipatory Breach
+TYPE Concept
+CATEGORY Breach of Contract; Introduction; Anticipatory Breach
+
+
+
+
+NAME Hochster v De la Tour
+CITATION Hochster v De la Tour (1853) 2 E & B 678
+CATEGORY Breach of Contract; Introduction; Anticipatory Breach
+
+
+
+
+NAME Frost v Knight
+CITATION Frost v Knight (1872) LR Exch 111
+CATEGORY Breach of Contract; Introduction; Anticipatory Breach
+
+
+
+
+NAME Entire and severable obligations
+TYPE Concept
+CATEGORY Breach of Contract
+
+
+
+
+NAME Cutter v Powell
+CITATION Cutter v Powell (1795) 6 TR 320
+CATEGORY Breach of Contract; Introduction; Entire and Severable Obligations
+
+
+
+
+NAME Contractual quantum meruit
+TYPE Concept
+CATEGORY Breach of Contract
+
+
+
+
+NAME Sumpter v Hedges
+CITATION Sumpter v Hedges [1898] 1 QB 673
+CATEGORY Breach of Contract; Introduction; Contractual Quantum Meruit
+
+
+
+
+NAME Substantial performance
+TYPE Concept
+CATEGORY Breach of Contract
+
+
+
+
+NAME Bolton v Mahadeva
+CITATION Bolton v Mahadeva [1972] 1 WLR 1009
+CATEGORY Breach of Contract; Introduction; Substantial Performance
+
+
+
+
+NAME Forman & Co Proprietary Ltd v The Ship “Liddesdale”
+CITATION Forman & Co Proprietary Ltd v The Ship “Liddesdale” [1900] AC 190
+CATEGORY Breach of Contract; Introduction; Substantial Performance
+
+
+
+
+NAME Tender of performance
+TYPE Concept
+CATEGORY Breach of Contract
+
+
+
+
+NAME Startup v MacDonald
+CITATION Startup v MacDonald (1843) 6 Man & G 593
+CATEGORY Breach of Contract; Introduction; Tender of Performance
+
+
+
+
+NAME Insistence on performance
+TYPE Concept
+CATEGORY Breach of Contract
+
+
+
+
+NAME White & Carter (Councils) Ltd v McGregor
+CITATION White & Carter (Councils) Ltd v McGregor [1962] AC 413
+CATEGORY Breach of Contract; Introduction; Insistence on Performance
+FLAGS Denning
+
+
+
+
+NAME Penalties/Agreed sums payable on breach
+TYPE Concept
+CATEGORY Breach of Contract
+
+
+
+
+NAME Dunlop v New Garage
+CITATION Dunlop Pneumatic Tyre Co Ltd v New Garage and Motor Co Ltd [1915] AC 79
+CATEGORY Breach of Contract; Introduction; Penalties/Agreed Sums Payable on Breach
+
+
+
+
+NAME Cavendish Square Holding BV v Talal El Makdessi; ParkingEye Ltd v Beavis
+CITATION Cavendish Square Holding BV v Talal El Makdessi; ParkingEye Ltd v Beavis [2015] UKSC 67
+CATEGORY Breach of Contract; Introduction; Penalties/Agreed Sums Payable on Breach

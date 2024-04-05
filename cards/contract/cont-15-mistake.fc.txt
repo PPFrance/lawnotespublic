@@ -1,0 +1,171 @@
+
+
+
+NAME Mistake - Introduction
+TYPE Concept
+CATEGORY Mistake
+SUMMARY *Mutual Mistake*
+/Where parties are at cross purposes, each labouring under his own misapprehension.
+@Issues: 
+++ Are they just private misapprehensions, or do they show a flaw in the contract itself?
+++ Is one party more to blame than the other -- is it in fact unilateral mistake? |Denny v Handcock|. 
+++ Could the ambiguity be ironed out, and the contract made to work?
+
+SUMMARY *Unilateral*
+/*In person*, the parties are presumed to have _contracted_ with one another. |Cundy v Lindsay|. _Not_ that they are presumed to have _intended_ to do so. 
+@ The contract is _voidable_, not void.
+@@ Should the innocent party void the contract before the rogue sells the goods on, the contract can be rescinded. 
+@@ After a bona fide 3rd-party buys the goods, obtaining good legal title, it cannot.
+@|Phillips v Brooks|, |Lewis v Avery|, |Shogan Finance|.
+@@ |Ingram v Little| distinguished on grounds that intention must have been to do business with the real Hutchinson -- but overturned by Denning in |Lewis v Avery|.
+SUMMARY *At a distance*, the contract is generally _void ab initio_ if the fraud induced the contract. |Cundy v Lindsay|.
+@ If the false identity was _invented_, however, the contract is merely voidable. |King's Norton Metal v Etridge|.
+SUMMARY *Rationale for Distinction*
+@ The shopkeeper in |Phillips v Brooks| would have been happy to do business with _anyone_ so long as they could pay. As presumably they would in |King's Norton Metal v Etridge|.
+
+
+SUMMARY *Common*
+/_As performance would be impossible, the contract will be *void* for_ --
+@*Res extincta*, the subject matter not in fact existing. |Couturier v Hastie|.
+@@ Unless the contract was induced by one party's guaranteeing that it _did_. |McRae v Commonwealth Disposals Commission|.
+@*Res sua*, a contract purporting to sell something to its owner. |Cooper v Phipps|.
+SUMMARY _But will not be void for_ --
+@*Attribute of subject*, unless it is _wholly fundamental_. |Bell v Lever Brothers|. 
+@@E.g., securedness of a debt. |Associated Japanese Bank v Credit du Nord|.
+@@Recently reasserted in |Great Peace Shipping|, after Denning's equity frolick in |Solle v Butcher|. 
+ 
+
+NAME Raffles v Wichelhaus
+CITATION Raffles v Wichelhaus (1864) 2 H & C 906
+CATEGORY Mistake; Mutual Mistake
+FLAGS McKendrick
+HELD A contract was undermined by one party's uncertainty as to which of the two ships named _Peerless_ the contract pertained.
+
+
+
+NAME Falck v Williams
+CITATION Falck v Williams [1900] AC 176
+CATEGORY Mistake; Mutual Mistake
+HELD When one party thinks a contract has been formed for a large shipment of _bird-shit_, yet the other thinks it's for _shale_ -- yet neither is capable of demonstrating why their understanding was the only realistic one -- the contract will be void for mutual mistake.
+
+
+NAME Denny v Hancock
+CITATION Denny v Hancock (1870) LR 6 Ch App 1
+CATEGORY Mistake; Mutual Mistake
+CATEGORY Mistake; Unilateral
+HELD A situation which at first sight appears to be a mutual mistake may, on closer inspection, really be a unilateral mistake.
+
+
+
+
+
+NAME Boulton v Jones
+CITATION Boulton v Jones (1857) 27 LJ Ex 117
+CATEGORY Mistake; Unilateral Mistake
+FLAGS Bramwell
+
+
+
+
+
+NAME Cundy v Lindsay
+CITATION Cundy v Lindsay (1878) 3 App Cas 459
+CATEGORY Mistake; Unilateral Mistake; "Mistaken" Identity; Inter Absentes
+HELD When parties contract at a distance, their identities will be construed from the contract itself. Should the contract have been induced by one party fraudulently misrepresenting themselves to be someone else, the contract will be _void_ ab initio. (In person, however, there is a strong presumption that the parties to the contract are the people physically present.)
+
+
+
+
+NAME King's Norton Metal v Edridge
+CITATION King's Norton Metal Co Ltd v Edridge, Merrett & Co (1897) 14 TLR 98
+CATEGORY Mistake; Unilateral Mistake; "Mistaken" Identity; Inter Absentes
+HELD A contract concluded at a distance with a fraudster operating under a _fictitious_ alias, rather than the identity of someone else, will be voidable for misrepresentation -- but _not_ void ab initio. 
+
+
+
+
+NAME Phillips v Brooks
+CITATION Phillips v Brooks Ltd [1919] 2 KB 243
+CATEGORY Mistake; Unilateral Mistake; "Mistaken" Identity; Inter Praesentes
+HELD A contract in person with a fraudster, who induces the contract by assuming the identity of someone else, is voidable for misrepresentation, but not void ab initio.
+
+
+
+NAME Ingram v Little
+CITATION Ingram v Little [1960] 3 WLR 504
+CATEGORY Mistake; Unilateral Mistake; "Mistaken" Identity; Inter Praesentes
+FLAGS Criticised
+HELD The presumption that parties contracting in person are those physically present can be rebutted, by showing the true intention of the innocent party was to contract with the person whose identity the fraudster had assumed. (Later overturned for wont of true distinction from earlier authority.)
+
+HELD Pearce LJ -- "It is not easy to decide whether the vendor was selling to the man in her drawing-room (fraudulently misrepresented as being a man of substance with the attributes of the real Hutchinson) or to P.G.M.Hutchinson of Stanstead House (fraudulently misrepresented as being the man in her drawing-room)."
+
+
+
+NAME Lewis v Averay
+CITATION Lewis v Averay [1972] 1 QB 198
+CATEGORY Mistake; Unilateral Mistake; "Mistaken" Identity; Inter Praesentes
+FLAGS Denning
+HELD |Ingram v Little| was wrongly decided -- there were no true grounds for distinguishing from |Phillips v Brooks|, 
+
+
+
+NAME Shogun Finance
+CITATION Shogun Finance Ltd v Hudson [2003] UKHL 62
+CATEGORY Mistake; Unilateral Mistake; "Mistaken" Identity; Inter Absentes
+FLAGS Leading
+HELD By majority, the rule that contracts inter praesentes are voidable for mistake of identity, but those inter absentes are void ab initio, remains good law. Dissenting, Lord Nicholls criticised the arbitrary nature of the distinction.
+
+
+NAME Couturier v Hastie 
+CITATION Couturier v Hastie (1856)
+CATEGORY Mistake; Common Mistake; Res Extincta
+HELD A contract for something which doesn't exist is _void_.
+
+
+NAME McRae v Commonwealth Disposals Commission
+CITATION McRae v Commonwealth Disposals Commission (1951) 84 CLR 377
+CATEGORY Mistake; Common Mistake; Res Extincta
+HELD If the subject matter of a contract does not in fact exist, then the contract is incapable of performance and as such, is void.
+
+
+
+NAME Cooper v Phibbs
+CITATION Cooper v Phibbs (1867) LR 2 HL 149
+CATEGORY Mistake; Common Mistake; Res Sua
+FLAGS Denning
+HELD A contract that purports to sell goods to their owner cannot be performed. Consequently, it is _void_.
+
+
+
+NAME Bell v Lever Bros
+CITATION Bell v Lever Bros Ltd [1932] AC 161
+CATEGORY Mistake; Common Mistake; Subject Matter
+FLAGS Atkin; McKendrick
+HELD Common mistake as to a quality of subject matter must be _fundamental_ before it voids the contract.
+
+
+NAME Associated Japanese Bank v Credit du Nord
+CITATION Associated Japanese Bank (International) Ltd v Credit du Nord [1989] 1 WLR 255
+CATEGORY Mistake; Common Mistake; Subject Matter
+FLAGS Steyn
+HELD Common mistake of subject matter, as to whether a debt is secured or unsecured, may cause the contract to be voidable.
+
+
+
+
+
+
+
+NAME Solle v Butcher
+CITATION Solle v Butcher [1950] 1 KB 671
+CATEGORY Mistake; Common Mistake; Subject Matter
+FLAGS Denning; Atkin
+HELD Equity may recognise a _somewhat less_ fundamental mistake than the common law admits, as grounds for setting aside a contract. 
+
+
+
+NAME Great Peace Shipping
+AKA Great Peace Shipping v Tsavliris
+CITATION Great Peace Shipping Ltd v Tsavliris (International) Ltd [2002] EWCA Civ 1407
+CATEGORY Mistake; Common Mistake; Subject Matter
+HELD The decision in |Solle v Butcher| was fundamentally incompatible with the rule in |Bell v Lever Bros|. It was therefore not followed.

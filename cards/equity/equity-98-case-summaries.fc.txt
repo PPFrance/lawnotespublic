@@ -1,0 +1,443 @@
+
+
+
+
+NAME Case Overviews for Three Certainties
+TYPE Case Overviews
+CATEGORY Three Certainties
+SUMMARY *General*
+@*|Wright v Atkyns|*
+/{<– per Lord Eldon "first... the word must be imperative...; secondly... the subject must be certain...; and thirdly... the object must be as certain as the subject">}
+@*|McPhail v Doulton|*
+/{<Softening the _fixed list_ test for |certainty of object|, Lord Wilberforce held a trust will not fail for uncertainty of object, if there is _sufficient practical certainty_ in its definition such that it could be said of _any given postulant_ whether or not they belong to the class of beneficiaries.>}
+
+SUMMARY *Certainty of Object*
+@*|Re Baden (no. 2)|*
+/{<The CA accepted the trust as valid, although the test was interpreted in three different ways by the judges, in regards to the determination of conceptual and evidential certainty.>}
+
+SUMMARY *Certainty of Intention*
+@*|Paul v Constance|*
+/{<The essence of the requirement of certainty of intention is that the creator of the trust intended to cause someone to be under a duty to hold property for another.>}
+@*|Re Challonner Club|*
+/{<Ambiguity and discrepancy in the conditions under which money separated off from a company's main funds in order to attempt to protect it from creditors, if the company went bankrupt, was enough to defeat the claim that an express trust had been created.>}
+
+SUMMARY *Certainty of Intention - Precatory Words*
+@*|Re Adams and Kensington Vestry|*
+/{<The wording did not establish an intention to create a trust; it established merely a *wish*.>}
+@*|Lambe v Eames|*
+/{<A provision in a will that left property to the testator's wife "to be at her disposal *in any way she may think best* for the benefit of herself and her family" had not successfully established a trust. Obiter, that the question of whether |precatory words| vitiate the establishment of a trust is for the judge.>}
+@*|Re Hamilton|*
+/{<Precatory words must be read in the context of the whole will before deciding whether or not they create a trust.>}
+@*|Re Diggles|*
+/{<_Desire_ -- precatory words.. etc.>}
+@*|Comiskey v Bowring-Hanbury|*
+/{<From the word 'absolutely,' in 'absolutely in full confidence,' an inference could be drawn that the testator was not merely expressing a wish, but referring to an existing arrangement.>}
+
+SUMMARY *Certainty of Intention - Precatory Words - Boilerplate*
+@*|Re Steele's WT|*
+/{<Wynn-Parry LJ -- copying from a will that _had_ been held to be a trust elsewhere _did indeed_ establish a trust, as doing so clearly establishes intention to create a trust.>}
+
+SUMMARY *Certainty of Intention - The word 'Trust'*
+@*|Re Kayford|*
+/{<Opening and putting money in an account named 'Customers' Trust Deposit Account,' was, in the circs of ominous finances, enough to establish intention to create a trust (with company as both settlor and trustee with customers as beneficiaries).>}
+
+SUMMARY *Certainty of Subject - Identification of Trust Property*
+@*|Palmer v Simmonds|*
+/{<A trust will not be upheld if the description is vague. A will attempting to establish a trust for 'the bulk of' an estate was *not* upheld.>}
+@*|Sprange v Barnard|*
+/{<A description of the subject of a trust which leaves open the possibility of _containing no property at all_, will fail for a lack of certainty of subject.>}
+@*|Re Golay|*
+/{<A will leaving someone a _reasonable income_ and the right to live in _one of_ the testator's flats, without specifying which, was _upheld_.>}
+@*|In the Estate of Last|*
+/{<Should there be uncertainty as to the property comprising the residue of an estate, a trust purporting to have it as its subject matter will fail for a lack certainty of subject. A will attempting to do so for "anything that is left" failed, and was held instead to be an absolute gift.>}
+
+SUMMARY *Certainty of Subject - Segregation of Chattels*
+@*|Re London Wine|*
+/{<Physical segregation of chattels is necessary to identify the property of a trust, so the attempt to establish a trust by the purchasers failed.>}
+@*|Re Goldcorp|*
+/{<Even when each chattel comprising a trust fund is inscribed with means of unique identification, storage with non-trust fund property will defeat certainty of subject. Furthermore contractual dealings generally lack the *trust* and *confidence* that are the hallmarks of fiduciary duties.>}
+
+SUMMARY *Certainty of Subject - Intangible Property*
+@*|Hunter v Moss|*
+/{<A trust of part of a fungible mass such as a shareholding or a bank account will not fail for uncertainty of subject, so long as the size of the part is not uncertain. 5% of 1000 _identical_ shares equals 50 shares -- the trust was upheld. Any 50 of the 1000 shares would have done. Distinguished |Re London Wine|.>}
+@*|Holland v Newbury|*
+/{<Neuberger J followed the ruling of |Hunter v Moss| earlier the same year, in which the rule requiring segregation of trust property from a larger mass was found not to apply to fungible intangibles.>}
+
+SUMMARY *Certainty of Subject - Identification of Trust Property - Intangible Property*
+@*|White v Shorthall|*
+/{<In the Court of Appeal in New South Wales, on very similar facts to |Hunter v Moss|, the problem of identification of the shares belonging to the claimant of the trust was neatly circumvented by finding that the settlor had declared the _entire fund_ a trust, with herself and the claimant as beneficiaries.>}
+@*|Pearson v Lehman Bros|*
+/{<Briggs J, obiter -- 1. the principle of |White v Shorthall| (which side-stepped the problem of identification of unsegregated trust property by contriving to find a trust had been declared by the settlor for the _entire_ fund, with both settlor and real beneficiary as beneficiaries of _unequal_ proportions) is preferable to the binding authority.  2. Electronic documentation was sufficient to satisfy the requirement of S53(1)(c) LPA.>}
+
+SUMMARY *Certainty of Subject - Identification of Trust Property - Jurisdiction over Beneficiaries*
+@*|Boyce v Boyce|*
+/{<Equity has jurisdiction over trustees, not beneficiaries. A trust with more than one beneficiary in which the size of each's share of the cake is determined as a consequence of a choice to be made by a particular, designated beneficiary, is valid -- and the court cannot compel the beneficiary in question to make the choice.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Formalities
+TYPE Case Overviews
+CATEGORY Formalities
+SUMMARY *General*
+@*|Thomas v Times Books|*
+/{<An inter vivos trust of chattels may be validly established by the settlor saying of the property: "you can keep it, if you can find it.">}
+@*|Gardner v Rowe|*
+/{<A trust of land for which there is no evidence in writing signed by the settlor is unenforceable rather than void.>}
+@*|Rochefoucald v Boustead|*
+/{<The signed writing of a settlor attesting to a trust of land need not be contemporary with the trust's creation. Formality rules may not be applied should doing so facilitate fraud, as |equity will not allow a statute to be a cloak for fraud|.>}
+
+SUMMARY *Dispositions of Equitable Interests - Subtrusts*
+@*|Onslow v Wallis|*
+/{<Subtrusts can be _active_ -- the trustee of which, the beneficiary of the original trust, still retains some part of the original beneficial interest; or _passive_ -- in which _all_ the beneficiary of the original trust transfers _all_ the beneficial interest to the beneficiary of the subtrust. The original beneficiary, therefore, 'drops out of the picture.'>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Constitution of Trusts
+TYPE Case Overviews
+CATEGORY Constitution of Trusts
+SUMMARY *General*
+@*|Fletcher v Fletcher|*
+/{<Given that a promise is a chose in action, a piece of intangible intellectual property, a promise can be held on trust.>}
+
+SUMMARY *Fletcher Cases*
+@*|Re Cooke's ST|*
+/{<Buckley LJ -- |Fletcher| couldn't be applied to property that didn't yet exist. The _proceeds of sale_ of a thing are not the same thing as the thing.>}
+@*|Lloyd's v Harper|*
+/{<Son promises to pay off debt, father signs to say he'll pay in default.>}
+@*|Re Flavell|*
+/{<A promise to pay an annuity of £350 was deemed to have been held on trust for the beneficiary.>}
+@*|Don King v Frank Warren|*
+/{<Even though no submissions were made on |Fletcher|, the principle was nevertheless used in the judgment, the judge apparently keen to flaunt his familiarity with the more arcane shafts and crevices of equity.>}
+
+SUMMARY *Rule in Strong v Bird*
+@*|Strong v Bird|*
+/{<The failure of a gift will be perfected should the legal title to the property vest in the donee when the settlor dies, by virtue of the donee being an executor.>}
+@*|Re Ralli|*
+/{<If someone was intended to be a trustee should end up with the _right_ property, but by the _wrong_ means, doing so would nevertheless give them the ability to carry out the trust -- which is what they must do.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Secret Trusts
+TYPE Case Overviews
+CATEGORY Secret Trusts
+SUMMARY *General*
+@*|Kasperbauer v Griffiths|*
+/{<Modern CA authority on the conditions for secret trusts. Per Peter Gibson LJ -- "the authorities make plain that what is needed is:  1. an *intention* by the testator to create a trust, satisfying the traditional requirements of three certainties (...) 2. the *communication* of the trust to the legatees, and 3. *acceptance* of the trust by the legatee, which can take the form of *silent acquiescence*.">}
+@*|Ottaway v Norman|*
+/{<An oral FST of land was _upheld_. The evidence for existence of the trust, which gave the land to the testator's chauffeur, was an overheard phone conversation. Overheard by the _chauffeur_.  At no point was |S53(1)(b)| mentioned, although one skeleton had 's.53(1)(b)?' scribbled in the margin.>}
+@*|Brown v Pourau|*
+/{<An oral secret trust of land was held valid. Obiter -- 'but not in England.'>}
+@*|Moss v Cooper|*
+/{<Anything other than _positive rejection_ by the trustee of an FST is acceptance of trusteeship, including _silence_. Even if the testator dies immediately after communicating with the trustee. Old, but still good law.>}
+
+SUMMARY *Fully Secret Trusts*
+@*|Re Maddock|*
+/{<Should the trustee of an FST predecease the settlor, the trust will fail.>}
+@*|Irvine v Sullivan|*
+/{<|Precatory words| may be compatible with a |Fully-Secret Trust| -- but without a clear obligation of trusteeship on the face of the will, they cannot establish a |Half-Secret Trust|.>}
+@*|Walgrave v Tebbs|*
+/{<The intended trustees of an |FST| must have been informed of the terms whilst the testator was still living. The testator merely having written instructions to the trustees is _not_ enough.>}
+@*|Re Boyes|*
+/{<The settlor of an |FST| must communicate not only the fact of trusteeship to the intended trustees -- but also the _terms_ of the trust.>}
+
+SUMMARY *Half Secret Trusts*
+@*|Blackwell v Blackwell|*
+/{<An |HST| was upheld despite communication to the intended trustees _the next day_. The rule that communication of the terms to the trustees of an HST _before or at the same time_ as the will's creation is that the trust exists from the moment the deed of will is executed, the terms of which are implicitly part of it.>}
+@*|Re Keen|*
+/{<Even though a term in a will establishing an |HST| refers to _future_ communication of the trust's terms to its trustees, if the communication has in fact already taken place, the HST will be deemed to have been established. Although in this case, it failed on other grounds. "A ship sailing under sealed orders is sailing under orders, although the captain doesn’t know the destination until later. *Problem question*: a trustee given an envelope, understanding it to contain terms of HST, but instructed *not to open until death* of settlor -- *valid HST.*>}
+@*|Re Bateman|*
+/{<A letter containing the terms of an |HST| written _before_ the execution of the will, but only given to the trustee _afterwards_, will not be considered to be valid communication of terms to the trustee prior to execution of the will.>}
+@*|Re Rees|*
+/{<The trustee of an |HST| cannot be one of its beneficiaries -- especially if he or she happens to be the solicitor who drafted the will. Evershed MR -- a lot of wank about public policy, etc.>}
+
+SUMMARY *Dehors the Will*
+@*|Re Snowden|*
+/{<Megarry VC -- secret trusts are in fact formed inter vivos. The will merely puts them together, i.e., _constitutes_ them.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Charities
+TYPE Case Overviews
+CATEGORY Charities
+
+SUMMARY *Purposes*
+@*|Independent Schools Council v Charity Commission|*
+/{<TODO>}
+@*|Re Gwyon|*
+/{<The purpose of _'providing knickers to boys'_ was not valid as a charitable purpose for the relief of poverty.>}
+@*|AITC's Application for Registration of Charity|*
+/{<Discussing what _prevention_ of poverty might mean, a valid charitable purpose was _not_ the mitigation of financial losses resulting from unwise investments. Nevertheless, narrow grounds were found to allow the application.>}
+
+SUMMARY *Charitable Purposes - Poverty*
+@*|Re Clark|*
+/{<Poverty is *relative* to an individual's circumstances.>}
+@*|Re Coulthurst's Will Trust|*
+/{<Destitution is not necessary to be considered in poverty; merely _'to go short in ordinary circumstances'_.>}
+@*|Mary Clark Homes Trustees v Anderson|*
+/{<People will be considered poor if their circumstances are _'genuinely straitened'_ and they are unable to maintain a '_modest standard of living_' for themselves and any dependents.>}
+@*|Re Sanders WT|*
+/{<The working classes are _not_ inherently poor.>}
+@*|Re Niyazi's WT|*
+/{<The intended users of a working men's hostel in Cyprus _are_ inherently poor, so a charitable purpose for the construction of such a thing was upheld.>}
+@*|Re Young|*
+/{<A charitable trust for _'distressed gentlefolk'_ -- members of a Pall Mall club who had _'fallen on evil days'_ was found to be valid, as a charitable purpose for the relief of poverty. (!)>}
+@*|AG v Power|*
+/{<_'Widows and orphans in a particular areas'_ may be poor for the purposes of the validity of a charitable trust.>}
+@*|Re Lucas|*
+/{<The charitable purpose of giving _'5 Guinea a week to the eldest respectable inhabitant in Gunville'_ was found to be valid.>}
+@*|Thompson v Thompson|*
+/{<A charitable trust to give _'gifts to unsuccessful literary men'_ was valid.>}
+@*|IRC v Baddeley|*
+/{<A charitable purpose for poverty must aim to _relieve_ the poverty.>}
+@*|Joseph Rowntree Memorial Trust v AG|*
+/{<A charitable purpose for poverty must not merely entail _amusing_ the poor, but _relieving_ their poverty.>}
+@*|AITC's Application for Registration of Charity|*
+/{<Discussing what _prevention_ of poverty might mean, a valid charitable purpose was _not_ the mitigation of financial losses resulting from unwise investments. Nevertheless, narrow grounds were found to allow the application.>}
+
+SUMMARY *Charitable Purposes - Education*
+@*|Re Dupree's Deed Trust|*
+/{<A chess tournament for boys in Portsmouth was a _valid_ charitable purpose for advancement of education -- but such a purpose was further held to mark out the limit of what would be accepted.>}
+@*|McGrath v Cohen|*
+/{<In Australia, the provision of a rose garden at a university _was_ a valid charitable purpose for the advancement of education.>}
+@*|Re Melody|*
+/{<The provision of _'an annual treat or field day for school children'_ was a valid charitable purpose for education.>}
+@*|Re Lopes|*
+/{<The provision of _elephant rides to schoolchildren_ was a valid charitable purpose.>}
+@*|Royal Choir Society v IRC|*
+/{<The charitable purpose of advancement of education is _not_ limited to book-learning in classrooms -- it also includes education of _aesthetic taste_ and sensibility.>}
+@*|Council of Law Reporting v AG|*
+/{<Advancement of education for a charitable purpose can include _any useful branch of knowledge_.>}
+@*|Re Hummeltenberg|*
+/{<The establishment of a school to train spiritualistic mediums is _not valid_ as a charitable purpose for the advancement of education.>}
+@*|Re Pinion|*
+/{<The establishment of a museum to exhibit a collection of art which expert opinion deems to be _a worthless pile of junk_, is not a valid charitable purpose for the advancement of the arts and culture. Held obiter -- the establishment of _a school for pickpockets and prostitutes_ would not be a valid charitable purpose for the advancement of education.>}
+@*|Re Shaw|*
+/{<Research into a 40-letter alphabet is _not valid_ as a charitable purpose for education -- for wont of utility, and perhaps also, for surplus of piss-taking and frivolity.>}
+@*|Re Hopkin's WT|*
+/{<Research into whether the Shakespeare plays were written by someone called Francis Bacon or someone called William Shakespeare _was valid_ as an educational charitable purpose, despite its recondite and slightly obsessive character.>}
+@*|Re British School of Egyptian Archeology|*
+/{<Research carried out in fulfilment of a charitable purpose for education must be intended to be disseminated, rather than kept private or simply for the private satisfaction of the researcher.>}
+@*|Re Marriette|*
+/{<Sport in schools is for _education of the body_ -- and was therefore a valid charitable purpose under the pre-2006 law.>}
+
+SUMMARY *Charitable Purposes - Culture*
+@*|Re Pinion|*
+/{<The establishment of a museum to exhibit a collection of art which expert opinion deems to be _a worthless pile of junk_, is not a valid charitable purpose for the advancement of the arts and culture. Held obiter -- the establishment of _a school for pickpockets and prostitutes_ would not be a valid charitable purpose for the advancement of education.>}
+
+SUMMARY *Charitable Purposes - Education - Political Purpose*
+@*|Southwood v AG|*
+/{<A political aim masquerading as an educative one is _not valid_ as a charitable purpose.>}
+
+SUMMARY *Charitable Purposes - Religion*
+@*|Re South Place Ethical Society|*
+/{<A religion is both (i) belief in _something supernatural_, and (ii) _faith in and worship of_ the aforesaid.>}
+@*|Hubbard v Vosper|*
+/{<Scientology is _not_ a valid religion as a charitable purposes. Cf. |Church of New Faith v Tax Commissioners| and |Hodkin|.>}
+@*|Church of New Faith v Commissioners for Payroll Tax|*
+/{<In Australia, scientology _is valid_ as a religion for a charitable purpose. Cf. |Hubbard v Vosper| and |Hodkin|.>}
+@*|R (ex p. Hodkin) v Registrar|*
+/{<For purposes of being a valid place to hold a marriage, a scientology "chapel" is a place of worship. Cf. |Hubbard v Vosper| and |Church of New Faith v Tax Commissioners|.>}
+@*|Gnostic Centre|*
+/{<Denying the application, the Charity Commission listed these four conditions for an entity to be considered a religion, for the purposes of charitable status: 1. Belief in a god/supreme being/divine/plural/transcendental being/spiritual principle; 2. A relationship between believer and entity (worship); 3. A degree of cogency, cohesion, seriousness or importance; 4. Identifiable positive, beneficial, moral and ethical framework.>}
+@*|Druid Foundation|*
+/{<On the basis of the criteria spelt out in |Gnostic Centre|, the application for charitable status was accepted.>}
+
+SUMMARY *Charitable Purposes - Religion - Advancement*
+@*|United Grand Lodge of Masons v Holborn BC|*
+/{<Advancement of religion is _promoting it, spreading its message wider among mankind, and taking positive steps to sustain and increase_, with pastoral and missionary characteristics, etc.>}
+
+SUMMARY *Invalid Charitable Purposes - Politics*
+@*|McGovern v AG|*
+/{<Advocacy for a political change _cannot be a valid charitable purpose_ as the courts would have no way of adjudicating whether a particular change would be for _public benefit_, without taking inherently political stances.>}
+@*|National Anti-Vivisection Society v IRC|*
+/{<Advocacy for something requiring a change in the law is political; therefore, it is not a valid charitable purpose.>}
+@*|Re Bushnell|*
+/{<The purpose of _'disseminating socialist medicine'_ is not a valid charitable purpose.>}
+@*|Bonar Law Memorial Trust v IRC|*
+/{<A donation to a political party is _not_ a valid charitable purpose.>}
+
+SUMMARY *Charitable Purposes - Health and Saving Lives*
+@*|Thomas v Howell|*
+/{<A gift to the RNLI is a valid charitable purpose, as would be gifts to other rescue services -- as long as they don't charge.>}
+@*|Re Resch WT|*
+/{<Provision of medical care for which a fee is charged _is_ a valid charitable purpose.>}
+@*|Re Verall|*
+/{<The curation and maintenance of historically valuable or significant objects is a _valid_ charitable purpose.>}
+
+SUMMARY *Charitable Purposes - Amateur Sport*
+@*|Re Nottage|*
+/{<Amateur yacht racing was _not_ a valid charitable purpose under the pre-2006 law.>}
+@*|Re Marriette|*
+/{<Sport in schools is for _education of the body_ -- and was therefore a valid charitable purpose under the pre-2006 law.>}
+@*|IRC v Macmullan|*
+/{<House of Lords authority for PE in School and University _being valid_ as a charitable trust, because it entails the _holistic development_ of the person.>}
+
+SUMMARY *Charitable Purposes - Human Rights etc*
+@*|R (ex p. Bull) v Radio Authority|*
+/{<A radio station for the promotion of human rights was deemed to be promoting a purpose necessitating a political change, and thus was not a valid charitable purpose for the promotion of human rights.>}
+
+SUMMARY *Charitable Purposes - Relief of those in Need*
+@*|Re Robinson|*
+/{<A trust to put up a block of flats for those _65 or older_ succeeded as a charitable purpose for the relief of those in need by virtue of age. Poverty was not necessary in addition to age.>}
+
+SUMMARY *Charitable Purposes - Animal Welfare*
+@*|Re Wedgwood|*
+/{<The charitable purpose of finding a more humane manner of slaughtering animals for meat was held to be _valid_, for the imaginative reason that _it would taste better_ to those who ate it in the knowledge of its provenance.>}
+@*|Re Grove-Grady|*
+/{<Prior to 2006, a charitable purpose for animal welfare also had to confer some benefit on _people_. For this reason, the provision of as refuge for _'all animals, to live together in harmony, free from human molestation'_, was not a valid charitable purpose.>}
+
+SUMMARY *Charitable Purposes - Efficiency of Armed Forces*
+@*|Re Gray|*
+/{<Promotion of the efficiency of the armed forces or emergency services was a valid charitable purpose under the pre-2006 law.>}
+@*|Re Good|*
+/{<The provision of a library for army officers was a valid charitable purpose for promotion of the efficiency of the armed forces.>}
+
+SUMMARY *Cy-près - Initial Failure*
+@*|Re Harwood|*
+/{<If the charitable purpose can be shown to have mattered _more_ to the testator than the particular charity, then a gift that would vest _after_ the charity folds will be applied cy-près. Or if the gift fails because the charity doesn't exist.>}
+@*|Re Lysaght|*
+/{<The cy-près doctrine was employed to delete a condition attached by the testator of a gift establishing a scholarship, that it was _not for Roman Catholics or Jews_ (!).>}
+@*|Re Satterthwaite's WT|*
+/{<Cy-près will be applied to a testamentary charitable gift that fails initially, when its context makes clear a general charitable intention.>}
+@*|Re Finger's WT|*
+/{<Where there is a general charitable intention, but a testamentary gift has nevertheless left specifically to a particular charity which is defunct by the time the testator dies, it may still be applied cy-près -- especially if no no heirs to the estate can be identified.>}
+
+SUMMARY *Cy-près - Subsequent Failure*
+@*|Re Slevin|*
+/{<Should the purpose of a charity fail, property successfully vested in it will be applied cy-près to another charity, even should it have been given with no general charitable intention.>}
+@*|Re King|*
+/{<Anything left over once the charitable purpose of a gift has been achieved will be applied cy-près>}
+@*|Re Wright|*
+/{<>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Fiduciary Duties
+TYPE Case Overviews
+CATEGORY Fiduciary Duties
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Quistclose Trusts
+TYPE Case Overviews
+CATEGORY Quistclose Trusts
+SUMMARY *General*
+@*|Barclay's Bank v Quistclose Investments|*
+/{<When A transfers property to B for a specific purpose, but the purpose fails, then the property is held on resulting trust for A.>}
+@*|Twinsectra v Yardley|*
+/{<(1) For |Dishonest Assistance|, in addition to the requirement in |Tan| of whether the actions would have been done an honest and reasonable person, dishonesty also entails that the defendant realised his actions would be considered dishonest.>}
+@*|R v Clowes No 2|*
+/{<In the absence of other indicators of a trust, the trust property *not* being kept separate will negative the existence of a trust.>}
+@*|Re EVTR|*
+/{<The purpose of a Quistclose trust is held to succeed when the money is used for the intended purpose, but the transaction is not completed before the company goes bankrupt. The equitable interest in equipment purchased using a Quistclose loan, but not delivered before the company went bankrupt, would result to the settlor of the Quistclose trust.>}
+@*|Rothmans v Freeman Mathew Treasure|*
+/{<Equity fastens itself onto the consciences of the transferees (the trustees), and will not therefore permit use of the property for other than the purpose stated in a |Quistclose| trust.>}
+@*|Bieber v Teathers|*
+/{<Quistclose trusts may be upheld even if not all their purported conditions are met, and once the purpose is begun, they die.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+
+
+
+
+NAME Case Overviews for Third Party Liability
+TYPE Case Overviews
+CATEGORY Third Party Liability
+
+SUMMARY *Knowing Receipt*
+@*|Nelson v Larholt|*
+/{<Foreshadowing Peter Gibson J in |Baden| -- the receipt of *eight* cheques drawn on an estate's account by an executor ought to have put the recipient 'on a path of inquiry.'>}
+@*|Baden v Soc Gen|*
+/{<For |Knowing Receipt|, knowledge can be decomposed into: 1. actual knowledge; 2. wilfully shutting one's eyes to the obviou; 3. wilfully and recklessly *failing to make enquiries* an honest person would have made; 4. knowledge of circumstances which would *indicate the facts*, to an honest and reasonable man; and 5. knowledge of circumstances which would put such a man *on a course of inquiry*.>}
+
+SUMMARY *Knowing Receipt - Meaning of Knowledge*
+@*|Cowan de Groot v Eagle Trust|*
+/{<For |Knowing Receipt|, a third party's knowledge of breach of fiduciary duty may be inferred from knowledge of a gross irregularity, e.g., a sale's substantial _undervalue_.>}
+@*|Re Montagu|*
+/{<A distinction must be drawn between having *notice* of something and *knowing* about it. These are not the same, and merely having notice is not enough for |Knowing Receipt|.>}
+
+SUMMARY *Knowing Receipt - Beneficial Receipt by Creditor*
+@*|Agip Africa v Jackson|*
+/{<Money paid into a bank account in credit is held on trust by the bank for the holder of the account; but money paid into an account in debt entails a transfer of beneficial interest to the bank -- and therefore, _beneficial receipt_ by the bank.>}
+@*|MT Realisations v Digital Equipment Co|*
+/{<As in |Agip Africa|, a creditor who, in payment of a debt, receives money taken in breach of fiduciary duty or trust _is_ in beneficial receipt.>}
+
+SUMMARY *Knowing Receipt - Meaning of Knowledge - Unconscionability*
+@*|BCCI v Akindele|*
+/{<The classification of knowledge from |Baden| is of no particular value in knowing receipt. The test should be one of _unconscionability_. But in a commercial context, nothing short of the 3rd |Baden| level of knowledge will do. An interest rate two percent higher than the market average will not be enough.>}
+@*|Armstrong v Winnington|*
+/{<The disapproval of the CA in |Akindele| notwithstanding, the categories of knowledge identified in |Baden| are of useful application to measure the _unconscionability_ preferred to _knowledge_ in |Akindele|.>}
+
+SUMMARY *Knowing Receipt - Defences - Change of Position*
+@*|Phil Collins v Davis|*
+/{<A defence against recovery of property knowingly received by a third party may be established if the property received led to a significant change in the position of the third party.>}
+
+SUMMARY *Dishonest Assistance*
+@*|Royal Brunei v Tan|*
+/{<In the Privy Council -- |Dishonest Assistance| requires dishonesty rather than merely knowledge. Whether through actions, or passively through a lack of probity, dishonesty must be measured against how an honest person would have behaved in the circumstances. A person may therefore have a clear conscience, but by this standard nevertheless be dishonest.>}
+@*|Barlow Clowes v Eurotrust|*
+/{<|Twinsectra| was wrong in adding to the objective test for dishonesty of |Tan|. 'Knowledge of the transaction has to be such as to render the participation contrary to normally acceptable standards of conduct. It does not require that the defendant should have had any reflection about what those normally acceptable standards were.'>}
+@*|Abou-Rahman v Abach|*
+/{<The EWCA followed |Eurotrust| (PC) in preference to |Twinsectra| (EWCA). The appropriate test for dishonesty was whether the standards of conduct would permit the acts in question.>}
+@*|Starglade v Nash|*
+/{<Albeit purporting to follow |Twinsectra|, the subjective element was nevertheless irrelevant. The test for dishonesty was generally to be *objective* -- but ultimately, the courts are at liberty to decide on the test to be applied to each pattern of facts. That a large body of opinion should dissent as to honesty is also irrelevant.>}
+
+
+
+
+
+
+ -----------------

@@ -1,0 +1,103 @@
+
+NAME General Principles of Law
+TYPE Concept
+
+
+
+NAME Fundamental Human Rights
+TYPE Concept
+
+
+NAME Stork v High Authority
+CASENUM C-1/58
+CITATION Stork v High Authority [1959] ECR 17
+CATEGORY Human Rights; Initial Approach to Human Rights
+
+
+NAME Stauder v City of Ulm
+CASENUM C-29/69
+CITATION Staauder v City of Ulm [1969] ECR 419
+CATEGORY Human Rights; Change of Direction
+FLAGS Fundamental; DE
+
+
+
+NAME Nold v Commission
+CASENUM C-4/73
+CITATION Nold v Commission [1974] ECR 507
+CATEGORY Human Rights; Change of Direction
+FLAGS Fundamental
+
+
+NAME (Joined) Kadi and Al Barakaat
+CASENUM C-402/05 and C-415/05
+AKA Kadi I
+CITATION Joined Cases Kadi and Al Barakaat [2008] ECR I-6351
+CATEGORY Human Rights; Who is Bound
+FLAGS Fundamental
+
+HELD EU Institutions are bound to uphold Human Rights as protected by EU law
+
+
+NAME Wachauf 
+CASENUM C-5/88
+CITATION Wachauf [1989] ECR 2609
+CATEGORY Human Rights; Who is Bound
+FLAGS DE
+
+HELD Member states are bound by requirement to protect fundamental Human Rights when implementing EU measures
+
+
+NAME Elliniki Radiophonia 
+CASENUM C-260/89
+CITATION Elliniki Radiophonia Tileorassi (ERT) [1991] ECR I-2925
+FLAGS GR
+CATEGORY Human Rights; Who is Bound
+
+
+
+NAME SPUC v Grogan
+AKA Grogan
+CASENUM C-159/90
+CITATION SPUC v Grogan [1991] ECR I-4685
+FLAGS IE
+CATEGORY Human Rights; Issues Raised
+
+
+NAME EU Charter on Fundamental rights 2000
+TYPE Charter
+CATEGORY Human Rights; EU Charter
+
+SUMMARY Scope - ART 51 TODO p 54
+
+
+
+NAME BECTU 
+CASENUM C-173/99 
+LINK AG Tizzano's opinion para 26-28
+CITATION BECTU [2001] ECR I-4881
+CATEGORY Human Rights; EU Charter
+
+
+
+NAME Netherlands v Parliament and Council
+CASENUM C-377/98
+CITATION Netherlands v Parliament and Council [2001] ECR I-7079
+LINK AG Jacobs' opinion para 210-215
+CATEGORY Human Rights; EU Charter
+
+
+NAME Lisbon Treaty - Human Rights Aspects
+TYPE Treaty
+SUMMARY Art 2, Art 6, Art 7 TEU, TODO.
+
+
+NAME Akerberg Fransson
+CASENUM C-617/70
+CITATION Akerberg Fransson ECLI:EU:C:2013:105
+CATEGORY Human Rights; EU Charter; Scope of EU charter
+
+
+
+
+

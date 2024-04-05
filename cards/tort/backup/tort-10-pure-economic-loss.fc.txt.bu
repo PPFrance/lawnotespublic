@@ -1,0 +1,186 @@
+NAME Pure Economic Loss
+TYPE Concept
+CATEGORY Pure Economic Loss; Principles
+SUMMARY The general position is that there is *no liability in negligence for pure economic loss*. Lord Oliver in |Murphy v Brentwood|, if you need to cite authority. 
+SUMMARY What is a *pure economic loss*? Ones that do not flow from an injury to the claimant or damage to his or her property.
+SUMMARY A major exception was carved out by |Hedley Byrne|, the key case in this area, for _negligent misstatement_. The subsequent cases have expanded the idea, to give liability for the _negligent provision of services_.  
+SUMMARY Top tip: in a problem question, don't forget to make it clear to the examiner that you the claimant doesn't win a negligence case simply by establishing a duty of care was _owed_. 
+SUMMARY Claims in this area have succeeded despite not satisfying the |But For| test of causation. On this issue see _Steele_ p.253 - 'Claims for loss of chance are clearly accepted in certain cases of *economic loss* and of *lost chance of economic gain*...'
+SUMMARY So, *when does a duty of care arise?* Relevant factors include: defendant's assumption of responsibility (|Lennon v The Met|), if the claimant's reliance was reasonable (|Howard Marine v Ogden|); the purpose of the statement (|Smith v Bush|, |Caparo v Dickman|); the context (in a social context - |Chaudry v Prabhaker|); the relationship between the parties (|Spring v Guardian Assurance|); whether the maker of the statement claimed expertise (|Esso v Mardon|); whether the floodgates might be opened (|McNaughton v Anderson|); what would be _practically just_ (|White v Jones|); what D knew (also |McNaughton v Anderson|); and whether C made reasonable enquiries before relying (|Patchett|).
+SUMMARY Confusion about how |Hedley Byrne| fits together with |Caparo| was "cleared up" by the HL in |Customs and Excise v Barclays|.
+
+NAME Pure Economic Loss - Reading
+CATEGORY Pure Economic Loss
+SUMMARY ~*Essential*~
+SUMMARY Steele, _Tort Law_, pp.333-347 and 359-392.
+SUMMARY |Candler v Crane & Christmas| - |Hedley Byrne v Heller| - |Smith v Bush| - |Chaudry v Prabhaker| - |Spring v Guardian Assurance| - |James McNaughton v Hicks Anderson| - |White v Jones| - |Customs and Excise v Barclays|.
+SUMMARY ~*Additional*~
+SUMMARY J. Stapleton, _Duty of Care and Economic Loss: A Wider Agenda_ (1991) 107 LQR 249
+SUMMARY |Murphy v Brentwood| - |Cattle v Stockton Waterworks| - |Lennon v Metropolitan Police Commissioner| - |Howard Marine v Ogden| - |Esso v Mardon| - |Patchett v Swimming Pool Trades Association|.
+
+
+
+NAME Cattle v Stockton Waterworks
+YEAR 1875
+COURT EWCA
+FLAGS Development
+CITATION Cattle v Stockton Waterworks Co (1875) LR 10 QB 453
+CATEGORY Pure Economic Loss
+SUMMARY A tunnel under construction was flooded by a leak caused by pipes laid by the defendant. The claimant sued in negligence. 
+HELD Early authority for there being no cause of action for pure economic loss in negligence.
+
+NAME Candler v Crane & Christmas
+AKA Candler v Crane
+COURT EWCA
+YEAR 1951
+FLAGS Overruled; Development; Denning; EPLR
+CATEGORY Pure Economic Loss
+CITATION Candler v Crane, Christmas & Co [1951] EWCA 2 KB 164
+SUMMARY The defendant firm of accountants had prepared a negligently-inaccurate set of accounts for a tin-mining company in Cornwall into which, on the basis of the accounts, the claimant invested money. The owner of the tin mine spent the money on himself then went bankrupt.
+HELD By majority, there was still no liability in tort for a negligent statement. There had never been a decided case, apart from those involving fraud/contract/equity, where a statement had been held negligent, and the court wasn't about to change the law.
+HELD Denning MR dissented -- '... no contract between the plaintiff and the accountants, nevertheless the relationship between them was so close and direct that the accountants did owe a duty of care to him within the principles stated in |Donoghue v Stevenson|.' 
+HELD Where an expert made a statement, he went on, there should be an exception.
+
+NAME Hedley Byrne v Heller
+AKA Hedley Byrne
+YEAR 1964
+COURT UKHL
+CITATION Hedley Byrne v Heller [1964] ULHL AC 465
+CATEGORY Pure Economic Loss; Negligent Misstatement
+FLAGS EPLR; Key; Leading
+SUMMARY The claimant firm of ad-men had done £17K work for a customer, Easipower Ltd, who then went bust. They'd contracted on the basis of a creditworthiness report provided ultimately by the defendant bank. The report was headed "without responsibility on the part of this bank," but negligently stated Easipower was "good for its ordinary business engagements." The claimant sued for their loss.
+HELD Overturning |Candler v Crane|, there *can* be liability for negligent misstatement resulting in pure economic loss. 
+HELD The relationship between the parties was sufficiently proximate (on bare |Donoghue| terms) that a duty of care should be owed. But on the facts, the disclaimer *did* operate to exclude liability.
+HELD In effect, this approved Denning's dissenting judgment in |Candler v Crane|.
+
+
+NAME Lennon v Metropolitan Police Commissioner
+AKA Lennon v The Met
+YEAR 2004
+COURT EWCA
+CITATION Lennon v Commissioner of Police of the Metropolis [2004] EWCA Civ 130
+CATEGORY Pure Economic Loss; Negligent Misstatement; Assumption of Responsibility; Reliance
+FLAGS Important
+SUMMARY The claimant was in receipt of some sort of housing benefit by virtue of being a copper. He left one police force and joined another, but timed it so he'd have a holiday between contracts. Worried that he'd lose the benefit on the technicality, he asked someone in personnel, who explicitly assumed responsibility: "I'll handle everything and make sure you don't lose your housing benefit." She was wrong. 
+HELD The assumption of responsibility for a statement with economic consequences gives rise to duty, so the claim succeeded.
+
+NAME Smith v Bush
+YEAR 1990
+COURT UHKL
+CITATION Smith v Bush [1990] UKHL 1 AC 831
+CATEGORY Pure Economic Loss; Negligent Misstatement; Disclaiming Responsibility
+FLAGS Key; Important; EPLR
+SUMMARY A surveyor employed by the Abbey National, had provided a survey of the property bought by the claimant. He disclaimed responsibility, and the survey was negligently in stating no essential repairs were needed. Parts of the chimney collapsed and damaged the roof, and the claimant sued the surveyor.
+HELD |Hedley Byrne| liability, therefore, was also to proximate third parties. The purchasor of a house was entitled to rely on the surveyor's valuation, as doing so was such common practice, and UCTA 1977 disqualified the disclaimer.
+HELD Pragmatically, it would be a financial disaster for a housebuyer to bear the loss, where a surveyor could easily take out professional insurance. 
+
+
+NAME Howard Marine Dredging v Ogden & Sons
+AKA Howard Marine v Ogden
+COURT EWCA
+YEAR 1978
+CITATION Howard Marine and Dredging Co Ltd v Ogden & Sons Ltd [1978] EWCA QB 574
+CATEGORY Pure Economic Loss; Negligent Misstatement; Reasonableness of Reliance
+FLAGS Important; Denning
+SUMMARY The defendant had given an assurance about the deadweight capacity of barges based on the Lloyd's Register, whereas they knew of another authority which gave the correct number. The barges proved inadequate, and the litigation claimed, inter alia, on |Hedley Byrne| grounds for their loss.
+HELD Denning MR -- in some situations, it isn't reasonable to rely on what someone says to you, e.g., off-the-cuff spontaneous advice, _even from an expert_, or in a casual conversation in the street. Or advice given in a railway carriage.
+
+
+
+NAME Chaudry v Prabhaker 
+YEAR 1989
+COURT EWCA
+CITATION Chaudry v Prabhaker [1989] EWCA 1 WLR 29
+CATEGORY Pure Economic Loss; Negligent Misstatement; Statement in a Social Context
+FLAGS Important; Amusing; EPLR
+SUMMARY The claimant, having just passed her test, needed a car, but knew nothing about car. Her friend, the defendant, claimed to be something of an expert. He took her to the friendly local panel beater, who happened also to sell cars. He noticed a certain car, which had a previously-crumpled bonnet, and advised her to buy it. The car was a cut-and-shut. 
+HELD There *may* be a duty of care in social situations. Here, duty was admitted.
+HELD Stuart-Smith LJ - 'when considering whether there is a duty of care, the relationship between the parties is material... if they are friends, the true view may be that the advice or representation is made on a purely social occasion and that the circumstances show that there is no voluntary 
+assumption of responsibility.'
+
+#The relationship between the parties
+
+NAME Spring v Guardian Assurance
+COURT UKHL
+YEAR 1995
+CATEGORY Pure Economic Loss; Negligent Misstatement; Relationship between Parties; References
+CITATION Spring v Guardian Assurance [1995] UKHL 2 AC 296 
+FLAGS Important; Amusing; EPLR
+SUMMARY The defendant, a previous employer of the claimant, wrote a reference that was so bad it effectively prevented the claimant getting any more work.
+HELD It had already been established that on |Hedley Byrne| grounds a referee owes a duty of care to the recipient of the reference - but there is also such a duty to the _subject_ of the reference. Although this is not to say that a bad reference is, _per se_, a breach of duty.
+
+
+#Whether D claimed to be an expert
+NAME Esso v Mardon
+YEAR 1976
+COURT EWCA
+CITATION Esso Petroleum v Mardon [1976] QB 801
+FLAGS Criticised; Denning
+CATEGORY Pure Economic Loss; Negligent Misstatement; Representation of Expertise
+SUMMARY The defendant, a would-be franchisee of the claimant wanted to build a petrol station on a main road. The claimant had assured him he would sell 200K gallons/year. But to get planning permission, the entrance had to be on a side-road. He asked the defendant whether this would alter projected sales. The defendant's representative scoffed in ripost 'I know all there is to know about petrol stations.'
+SUMMARY He sold only half what he'd expected, but renewed the lease nonetheless. Eventually, he ran out of money, so the claimant sued for repossession. 
+HELD Albeit that '_I know all there is to know about..._' ought to be taken to mean '_I, almost to the point of caricature, am savagely ignorant about...', just as 'trust me, I'm telling the truth,' means 'I am not telling the truth: I am an inveterate liar' - the defendant in this case had been reasonable in relying on the claimant's self-professed expertise. 
+
+NAME Henderson v Merrett
+YEAR 1994
+COURT UKHL
+CITAITON Henderson v Merrett Syndicates [1994] UKHL 5
+FLAGS Leading
+CATEGORY Pure Economic Loss; Negligent Misstatement; Representation of Expertise
+SUMMARY Lloyd's names who'd incurred heavy losses in American hurricanes claimed in negligent misstatement against the defendant underwriters. 
+HELD There could indeed be a liability for pure economic loss for negligent misstatement running alongside a contractual claim.
+
+NAME James McNaughton v Hicks Anderson
+AKA McNaughton v Anderson
+YEAR 1991
+COURT EWCA
+FLAGS Key; Leading; EPLR
+CATEGORY Pure Economic Loss; Negligent Misstatement; Floodgates; Defendant's Knowledge
+CITATION James McNaughton Paper Group Ltd v Hicks Anderson & Co [1991] 2 QB 113
+SUMMARY The claimant wanted to buy (another) paper mill. They got an accountancy firm to draw up accounts, but as the transaction had to happen in a rush, the firm drew up explicitly-signposted _draft_ accounts. The claimant relied on them, went ahead an bought the company. 
+SUMMARY The accounts turned out to be inaccurate, so they sued the accountants.
+HELD No reasonable person would rely on a set of _draft accounts_ without checking them, and no reasonable person would expect someone to whom he had provided draft accounts not to check them themselves. 
+HELD For those reasons, the claim failed.
+HELD LJ Neil - 'for a single advisee, or a member of a small class, may sometimes be simple to infer a duty of care applies to him.'
+
+
+#‘Practical justice'
+
+NAME White v Jones
+YEAR 1995
+COURT UKHL
+CITATION White v Jones [1995] UKHL 2 AC 207
+FLAGS Leading; EPLR
+CATEGORY Pure Economic Loss; Negligent Misstatement; "Practical Justice"
+SUMMARY A family member cut out of a will following a row - but then a reconciliation, and a letter sent to the solicitor rectifying the will. Then the maker of the will became the testator, but the solicitor hadn't done anything. So the would-be heirs sued the solicitor.
+HELD Citing |Hedley Byrne|, the claim was allowed. 
+HELD Goff LJ: the impulse of justice - if claimant can't win a case like this then solicitors can't be liable for anything, if they don't do their job properly. 
+COMMENT I.e., cab-driver justice. 
+
+
+#D's state of knowledge 
+
+
+
+NAME Customs and Excise v Barclays
+YEAR 2007
+COURT UKHL
+CATEGORY Pure Economic Loss; Negligent Misstatement; Floodgates; Defendant's Knowledge
+FLAGS Key; Leading; EPLR
+CITATION Customs and Excise Commissioners v Barclays Bank [2007] UKHL 28
+SUMMARY The defendant negligently stated it had processed a Bank Account Freezing Order, when in fact it had not. The account was emptied.
+HELD In the court of appeal, Peter Gibson, Longmore and Lindsay LLJ held that there was *no duty* and proposed Hedley Byrne be subsumed into the |Caparo| test. In the Lords, because the defendant was merely complying with the law, no |Hedley Byrne|-style assumption of responsibility could have arisen, and it would not be fair, just and reasonable to impose liability.
+COMMENT This is the leading case on how the principles of |Caparo| and |Hedley Byrne| fit together. 
+
+
+
+
+NAME Patchett v Swimming Pool Trades Association
+AKA Patchett
+COURT EWCA
+YEAR 2009
+CATEGORY Pure Economic Loss; Negligent Misstatement; Floodgates; Claimant's Enquiries
+CITATION Patchett v Swimming Pool Trades Association [2009] EWCA Civ 717
+SUMMARY The claimant, wanting a swimming pool, found a contractor listed on the respondent's website, on which there were boasts about vetting of members prior to admission; but also a warning to make independent enquiries. The contractor went bust, and the claimant sued the website.
+HELD There is a need for independent enquiry when engaging contractors, particularly for relatively large sums - here, £50K. To take a website's word for it, was too rash for the claim to succeed.
+

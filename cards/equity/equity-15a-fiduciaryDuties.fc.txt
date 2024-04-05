@@ -1,0 +1,160 @@
+
+NAME Fiduciary Duties
+TYPE Concept
+CATEGORY Fiduciary Duties
+SUMMARY ~*Hallmarks*~
+/Birks (_1990, 26 Univ WALR 1, 18_) identifies hallmarks/characteristics of a fiduciary -- someone having *discretion and power* to manage another's affairs, in circs in which it would *not be reasonable* to expect the latter to monitor and take precautions against the fiduciary, to protect his own interests.  
+/Therefore, a fiduciary duty is stamped with --
+@*Undertaking to act* for another.
+@*Reliance* by the other.
+@*Vulnerability*, actual or potential, of the other.
+SUMMARY Recent authority is given by |Bristol and West BS v Mothew|, in which a fiduciary duty is an *undertaking* (solicited or 'officiously assumed') to *act in another's best interests*, either in general or in specific and limited respects. Acting selflessly and *with undivided loyalty* is expected.
+
+SUMMARY ~*Categories*~ 
+/The categories of relationships bearing fiduciary duties is not closed. |English v Dedham Vale|. 
+SUMMARY _It comprises at least_ --
+@*Principle* to *agent*
+@*Director* to *company* -- |Aberdeen Railway v Blaikie|. Note that this is *not* to the shareholders. N.B., of course, that landmark of English legal history, |Balston v Headline|.
+@*Promoter* to *company*, as a promoter can enter into contracts on behalf of the company _before_ its incorporation.
+@*Executor* to *beneficiaries* of a will.
+@*~Senior~ employee* to *company*, should that seniority translate into  non-negligible discretion -- |Tesco v Pook|.
+@*Trustee* to *beneficiary*.
+@@Premised on *discretionary powers* being a hallmark of fiduciary duties. Trustees of |Bare Trusts|, then, who lack such power, should *not* be considered fiduciaries.
+@@Trustees of |Imposed Trusts|, also, who have not *voluntarily assumed* trusteeship, might not owe fiduciary duties.
+@*Soldier* and *Spy* to *the Crown*, according to |Reading v AG| (although the finding may be more _contrived reason_ and less _reasoned ratio_) and |AG v Blake|.
+
+SUMMARY ~*Compared to Contractual Dealings*~
+/The courts have generally been reluctant to treat business dealings, generally undertaken at arm's length, on an equal footing to fiduciary duties. This is because they lack the hallmarks characteristic of fiduciary duties, of *trust and confidence*  -- |Polly Peck v Nadir|. Confirmed in |Re Goldcorp|.
+@Business dealings are _inherently_ self-interested: the antithesis of the loyalty and selflessness required of a fiduciary.
+
+SUMMARY ~*No Profit, No Conflict*~
+/AKA the Rule in |Keech v Sandford|. |Bray v Ford| per Lord Hershell provides a pithy restatement in times closer to our own.
+
+SUMMARY ~*Unauthorised Profits*~
+@The rule forbidding _secret_ or |unauthorised profits from commercial opportunities| may not in itself stop a fiduciary from exploiting an opportunity learnt about as a fiduciary -- but it will cause the equitable interest of the profit to belong to the principal. |Boardman v Phipps|.
+@ Forbidden too is the taking of |Bribes|, or whatever briber and bribed prefer to call them. |Reading v AG|, |Mankarious 2|.
+@ |Remedies for unauthorised profits| were established in |Lister v Stubbs| to be merely personal. 
+@@ But after |AG for NZ v Reid| found a proprietary remedy, the domestic courts became increasingly dissatisfied that, being a Privy Council decision, it was not on the menu.
+@@ The law finally changed in |Mankarious 2|.
+
+
+SUMMARY ~*Self-Dealing and Fair-Dealing*~
+/Megarry VC, in |Tito v Waddell (No 2)|, found these were two distinct but _allied_ rules. They are subtypes of the *no conflict* rule. In both scenarios, the trustee is effectively both halves of the contract of sale.
+@|Self-Dealing|, which is *not* allowed, is where the trustee purchases the trust property.
+@|Fair-Dealing|, where the trustee acquires *some* of the beneficial interest, is *not completely* prohibited.
+SUMMARY The difference between the two is that the courts will simply set self-dealing aside, barring exceptions. With fair-dealing, the  circumstances of the transaction will be examined to assess whether it was, in fact, *fair*.
+
+SUMMARY ~*Remuneration of Fiduciaries*~
+/The general rule is that fiduciary duties are performed *without* remuneration, even if the remuneration is indirect, not coming from the trust fund -- |Re Macadam|.
+@For *trustees*, from |Robinson v Pett| -- 'a trustee shall have no allowance for his care and trouble: reason seems to be that if he could, trust might be loaded and rendered of little value.' Wut?
+@For *directors*, there is theoretically *no* remuneration -- |Guinness v Saunders|; but these days, the exception has become the rule.
+@For *director-trustees*, there generally *is* remuneration if they became directors *before* having become a trustee.
+SUMMARY S28 of the |Trustees Act 2000| allows trust instruments to provide for compensation for services rendered by trustees. In default of such a provision, S29 permits *reasonable* remuneration if there is written agreement to the same effect. S31 entitles trustee to reimbursement of their *expenses* from the trust fund -- *including* legal expenses related to actions on the trust.
+
+SUMMARY ~*Exceptions to the Rule Against Remuneration*~
+/The court may authorize payment of remuneration under S42 of the Trustees Act 1925 -- either in advance or ex post facto.
+@It may be appropriate *even* if there's been wrongdoing -- |O'Sullivan v Management Agency|.
+@Or where trustees have gone above and beyond what would normally be expected -- |Re Duke of Norfolk's Settlement Trusts|.
+
+SUMMARY ~*The |Cradock v Piper| rule*~
+/When the trustee is a solicitor, he or she *will* be entitled to charge his usual professional costs for legal work done as a trustee.
+
+
+NAME Self-Dealing 
+TYPE Concept
+CATEGORY Fiduciary Duties; Self-Dealing
+SUMMARY ~*Summary*~
+/Such transactions, where the trustee sells the trust property to himself (or indeed, buys it from himself) are _void ab inito_. This is because the interests of buyer, the trustee, and the seller, the beneficiaries, are fundamentally at odds as concerns price.
+@The buyer naturally wants to pay as little as possible, the beneficiaries want to receive as much as possible.
+SUMMARY The right to void the purchase is valid against *any subsequent purchasor* from the trustee who had notice of the trust -- but not against a bona fide purchasor for value who did not.
+
+SUMMARY ~*Detail*~
+/The condition for overreaching is (essentially) payment of the purchase price to *at least two* of the trustees or the trustee company. {Query: is this just for land, same as S2 LPA 1925?}
+SUMMARY Such a transaction would be *void ab initio* -- |Denton v Donner|, or *voidable*, rescindable by the beneficiaries -- |Ex p Lacey|, and this is not changed by the honesty of the trustee -- |Ex p James|.
+SUMMARY ~*Rationale*~
+
+SUMMARY ~*Exceptions*~
+@The instrument of a trust may expressly authorises the purchase of its property by a trustee. 
+@Or the case may have _very_ exceptional facts -- |Holder v Holder|. 
+@Or the purchase may have been in existence _before_ the fiduciary duty arose. E.g., were the executor in |Holder v Holder| to enter into a contract for sale with the testator, who was then to die before conveyance.
+
+
+NAME Fair-Dealing 
+TYPE Concept
+CATEGORY Fiduciary Duties; Fair-Dealing
+SUMMARY ~*Summary*~
+/Here, the trustee purchases _some_ of the beneficial interest. They continue as a trustee, but become also a beneficiary. 
+SUMMARY ~*Conditions*~
+@Competent and independent legal advice has been provided to the beneficiaries, the ensure the purchase price is fair.
+@The trustee must make a full disclosure of all the facts relating to the property.
+SUMMARY ~*Price*~
+/The market price is often a good indication of a fair price, but --
+@Desperation to sell on the part of the beneficiary may mean a lower price would be fair.
+@Undue influence, in combination with a market price, would be prohibited.
+
+
+NAME Unauthorised Profits - Corporate Opportunity
+AKA Unauthorised Profits from Corporate Opportunities
+AKA Secret Profits
+TYPE Concept
+CATEGORY Fiduciary Duties; Unauthorised Profits; Corporate Opportunity
+SUMMARY See also |Unauthorised Profits - Bribes| and |Remedies for Unauthorised Profits|.
+SUMMARY ~*Doctrine of Corporate Opportunity*~
+/The discovery of a corporate opportunity by a fiduciary must be obtained *for the principal* the company. The only defence for not doing so is full disclosure/authorisation -- in which case it wouldn't be secret. |Regal Cinemas v Gulliver|. 
+@It applies even when regrettable and perverse -- |Boardman v Phipps|.
+@It definitely applies when the fiduciary has been sneaky -- |Industrial Development v Cooley|. 
+@Authorisation to make profits may be ineffective for wont of power -- |Guinness v Saunders|.
+@The rule applies even when the principal declared itself not interested in any such opportunities -- |Bhullar v Bhullar|.
+
+SUMMARY ~*Defences*~
+/*Full disclosure and correct authorization*
+@S175 of Companies Act 2006. Breaches of conflict of interest can be authorized by independent board of directors.
+@S239, 'all other breaches must be ratified by ordinary resolution (50+% of shares)' {Cf. 'special resolution' in which case it’s 75+%}
+SUMMARY In _other_ jurisdictions, *full and honest disclosure* by directors, plus  *rejection of the opportunity* by the company.
+@@|Queensland Mines v Hudson|, |Peso Silver Mines v Cropper|.
+
+SUMMARY *Termination of Fiduciary Duty*
+/Fiduciary duties don't bite for *life*. If a director resigns and subsequently exploits a business opportunity, whether or not the fiduciary duty has been breached will largely turn on the facts.
+@In |Industrial Development v Cooley| the intention was manifestly dishonest.
+@In |Balston v Headline|, by contrast, there was genuine and reasonable dissatisfaction with the principal. The corporate opportunity consisted, in effect, of saving the bacon of one of Balston's clients, by setting up shop to make a product on which the client depended, but for which Balston had jacked up the price five-fold and would take orders only for a limited period.
+/See also |Island Export v Umma|.
+SUMMARY See also |Remedies for Unauthorised Profits|
+
+
+NAME Unauthorised Profits - Bribes
+AKA Bribes
+TYPE Concept
+CATEGORY Fiduciary Duties; Unauthorised Profits; Bribes
+SUMMARY The more obviously sinister counterpart to |Unauthorised Profits - Corporate Opportunity|, this has a variety of other names, which are united by their prima facie dodginess, and use of dead-giveaway words like 'special.' E.g., 'special commission', 'special payment', etc. In |Tesco v Pook|, it was a 'consultancy fee.' In |Mankarious 1|, 'brokerage fee.' 
+SUMMARY The jurisprudential bedrock is that bribery is *bad*, and that its face should bear the scars and bruises of repeated, violent applications of the law's jackboot. For this reason, the bar for liability is fairly low.  One way or another, a fiduciary who receives a bribe can count on it being taken off him.
+@As a *personal liability to account* -- |Lister v Stubbs|, although this is defeated with ease.
+@In *equitable accounting* -- |Reading v AG|. {TODO: Unsure, doubtful, may have read headnotes too quickly. It may just be 'accounting of profits,' i.e., following Lister. *Check in case card.*}  
+@In Privy Council jurisdictions, by *constructive trust* -- |AG for HK v Reid| UKPC.
+@In domestic cases, too, since 2015 -- |Mankarious 2|.
+SUMMARY Mixing the bribe with the main fund, e.g., paying 110% as in |Daraydan Holdings v Solland|, may give rise to a stronger remedy.
+SUMMARY See also |Unauthorised Profits - Corporate Opportunity| and |Remedies for Unauthorised Profits|
+
+SUMMARY ~*Profits from a Bribe?*~
+/In |AG for HK v Reid|, Lord Templeman decided |Lister v Stubbs| was wrong on this point, on public policy grounds of avoiding unjust enrichment. 
+@Citing the maxim _'equity looks as done that which ought to be done'_, his view was that a bribe-taker _ought_ to give the bribe straight to the principal.
+@@Margaret Carran's view on this is that it's *flat out wrong*, a clear misuse of the maxim. What _ought_ to have been done, is either *not* taking the bribe in the first place, or *giving it straight back*.
+@It was considered in |Sinclair Investments v Versailles|, but could not be applied in favour of |Lister v Stubbs|. In |Mankarious 2|, |Sinclair| was quietly shoved to one side, and a proprietary claim succeeded.
+/{TODO Get rid of this in favour of the stuff in Remedies for Unauthorised Profits?}
+
+
+NAME Remedies for Unauthorised Profits
+TYPE Concept
+CATEGORY Fiduciary Duties; Remedies
+SUMMARY *Summary*
+/This can be (i) *rescission*, if practically possible; (ii) *personal liability*, which is likely to be worthless against a self-respecting fraudster; -- or (iii) proprietary claims, far 'stronger.'.
+SUMMARY *Rescission and Personal Liability*
++*Rescission*, as a practical matter, is only likely to be available in the absence of fraud, as in |Holder v Holder|.
++*Personal liability to account* is subject to the same wheezy anaemia as |tracing at common law|, i.e., defeated by bankruptcy or rudimentary efforts have been made to dispose of the property. |Lister v Stubbs|.
+SUMMARY *Proprietary Remedies*
++3 The original |Lister v Lister| position that proprietary remedies were unavailable for unauthorised profits was subject to criticism in the higher domestic courts as soon as the Privy Council in |AG for HK v Reid| decided they were -- e.g., Neuberger MR in |Sinclair v Versailles|. Of this he makes no mention when, a few years later in the UKSC, he found in |Mankarious 2| that the general rule *did* give proprietary remedies for a fiduciary's unauthorised profits.
+
+--END--
+NAME No Profit Rule 
+TYPE Concept
+CATEGORY Fiduciary Duties; No Profit Rule
+SUMMARY Weighty authority for this is from |Bray v Ford|.

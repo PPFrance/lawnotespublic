@@ -1,0 +1,149 @@
+META filename eu-16-harmonization-and-free-movement-of-goods.fc.txt
+
+
+
+
+
+NAME Cassis de Dijon
+CASENUM C-120/78
+CITATION Cassis de Dijon [1979] ECR 649
+CATEGORY Harmonization And Free Movement Of Goods; Main Reading; The Process Of Market Integration
+FLAGS
+
+
+
+
+
+
+NAME Germany v European Parliament and Council (re: Tobacco Advertising)
+CASENUM C-376/98
+CITATION Germany v European Parliament and Council (re: Tobacco Advertising) 
+CATEGORY Harmonization And Free Movement Of Goods; Main Reading; Article 114 TFEU: Function And Limits
+FLAGS
+
+
+
+
+
+
+NAME Imperial Tobacco
+CASENUM C-491/01
+CITATION Imperial Tobacco [2002] ECR I
+CATEGORY Harmonization And Free Movement Of Goods; [2000] Ecr I-2247
+FLAGS
+
+
+
+
+
+
+NAME Secretary of State for Health (re: Swedish Match)
+CASENUM C-210/03
+CITATION Secretary of State for Health (re: Swedish Match) [2004] ECR I
+CATEGORY Harmonization And Free Movement Of Goods; [2000] Ecr I-2247
+FLAGS
+
+
+
+
+
+
+NAME Germany v Parliament and Council (Tobacco Advertising II)
+CASENUM C-380/03
+CITATION Germany v Parliament and Council (Tobacco Advertising II) [2006] ECR I
+CATEGORY Harmonization And Free Movement Of Goods; [2000] Ecr I-2247
+FLAGS
+
+
+
+
+
+
+NAME P and C-454/05 P Land Oberösterreich and Austria v Commission
+CASENUM C-439/05
+CITATION P and C-454/05 P Land Oberösterreich and Austria v Commission [2007] ECR I
+CATEGORY Harmonization And Free Movement Of Goods; [2000] Ecr I-2247; Article 114(5) TFEU: Striking The Balance Between National And Eu Powers
+FLAGS
+
+
+
+
+
+
+NAME Germany v European Parliament and Council (Tobacco Advertising)
+CASENUM C-376/98
+CITATION Germany v European Parliament and Council (Tobacco Advertising) [2000] ECR I
+CATEGORY Harmonization And Free Movement Of Goods; [2000] Ecr I-2247; When To Harmonise? The Case Of Tobacco Advertising
+FLAGS
+
+
+
+
+
+
+NAME British American Tobacco
+CASENUM C-491/01
+CITATION British American Tobacco [2002] ECR I
+CATEGORY Harmonization And Free Movement Of Goods; [2000] Ecr I-2247; When To Harmonise? The Case Of Tobacco Advertising
+FLAGS
+
+
+
+
+
+
+NAME Swedish Match
+CASENUM C-210/03
+CITATION Swedish Match [2004] ECR I
+CATEGORY Harmonization And Free Movement Of Goods; [2000] Ecr I-2247; When To Harmonise? The Case Of Tobacco Advertising
+FLAGS
+
+
+
+
+
+
+NAME Germany v European Parliament and Council
+CASENUM C-380/03
+CITATION Germany v European Parliament and Council [2006] ECR I
+CATEGORY Harmonization And Free Movement Of Goods; [2000] Ecr I-2247; When To Harmonise? The Case Of Tobacco Advertising
+FLAGS
+
+
+
+
+
+
+NAME 1Cassis de Dijon
+CASENUM C-120/78
+CITATION Cassis de Dijon [1979] ECR 649
+CATEGORY Harmonization And Free Movement Of Goods; [2000] Ecr I-2247; ‘Old’ Approaches To Harmonisation
+FLAGS
+
+
+
+
+
+
+NAME CIA Security v Signalson
+CASENUM C-194/94
+CITATION CIA Security v Signalson [1996] ECR I
+CATEGORY Harmonization And Free Movement Of Goods; [2000] Ecr I-2247; Technical Standards
+FLAGS
+
+
+
+
+
+
+NAME Unilever
+CASENUM C-443/98
+CITATION Unilever [2000] ECR I
+CATEGORY Harmonization And Free Movement Of Goods; [2000] Ecr I-2247; Technical Standards
+FLAGS
+
+
+
+
+
+

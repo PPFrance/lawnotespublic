@@ -1,0 +1,548 @@
+
+
+NAME Donoghue v Stevenson
+AKA Donoghue	
+YEAR 1932
+CATEGORY Negligence; Duty of Care
+CATEGORY Negligence; Duty of Care; Neighbour Principle
+CATEGORY Product Liability
+CITATION Donoghue v Stevenson [1932] AC 562
+COURT UKHL
+FLAGS Key; Development; EPLR
+SUMMARY The claimant suffered shock and gastroenteritis as a result of discovering the ice-cream float she'd consumed was made with ginger beer from a bottle in which there was a _partially-decomposed snail_. This all took place in a Paisley, in a confectionary shop run by one Francis _Minghella_, an early example of what Armando Iannucci refers to as a _Jock Wop_.
+HELD There is a duty to take reasonable care to avoid acts or omissions likely to injure persons who a reasonable degree of foresight would suggest might be affected by the act: i.e., your neighbour. 
+HELD Atkin LJ, immortally -- 'you must take reasonable care to avoid acts or omissions which you can reasonably foresee would be likely to injure your neighbour. Who, then, in law, is my neighbour? The answer seems to be – persons who are *so closely and directly affected by my act* that I *ought reasonably to have them in contemplation* as being so affected when I am directing my mind to the acts or omissions which are called in question.'
+COMMENT It's now thought she may actually have been _bullshitting_ about the presence of a snail.
+
+NAME Duty of Care
+TYPE Concept
+CATEGORY Negligence; Duty of Care
+SUMMARY Where a duty of care must be established, and does not arise from the common law or statute (as it does, for instance, between doctors and patients, employers and employees, one road user and another - |Nettleship v Weston|), |Caparo v Dickman| established the following general test:
++Was the damage *reasonably foreseeable*?
++Was there a *relationship of sufficient proximity* between claimant and defendant? |Everett v Comojo|.
++Would it be *fair, just and reasonable* to impose the duty? Lots of cases where the courts demur from imposing a duty on public bodies - |Osman v Ferguson|, |Kent v Griffiths|, |Vowles v Evans|.
+SUMMARY |Donoghue| gave us the *neighbour principle* -- and is still useful to throw in as a basis for *(2)* in the Caparo test. It remained good law until |Anns v Merton|. There, the test became *(1)* a sufficiently-proximate relationship based on _foreseeability_, *(2)* absence of public policy considerations militating against a duty. 
+
+NAME Duty of Care - Reading
+TYPE Reading
+CATEGORY Negligence; Duty of Care
+SUMMARY ~*Essential*~
+SUMMARY Steele, _Tort Law_ (13th ed, 2014) pp.139-167
+SUMMARY |Donoghue v Stevenson| - |Dorset Yacht v Home Office| - |Anns v Merton| - |Caparo v Dickman| - |Kent v Griffiths| - |Vowles v Evans| - |Hill v Chief Constable of West Yorkshire| - |Marc Rich v Bishop Rock Marine| - |Stovin v Wise|
+SUMMARY ~*Additional*~
+SUMMARY J. Elvin, _Liability for Negligent Refereeing of a Rugby Match_ (2003) 119 LQR 560<BR>T. Weir, _An Introduction to Tort Law_ (2nd ed, 2006) pp.29-45
+SUMMARY |AG of British Virgin Islands v Hartwell| - |Osman v Ferguson| - |Everett v Comojo| - |Smith v Littlewoods| - |Sellwood v Durham|.
+
+
+
+
+NAME Dorset Yacht v Home Office 
+YEAR 1970
+CITATION Dorset Yacht Co. Ltd. v Home Office [1970] AC 1004
+COURT UKHL
+FLAGS Development; EPLR
+SUMMARY A group of Borstal inmates absconded, stole a yacht, and crashed it into a boat belonging to the claimant. What mofos.
+HELD The neighbour principle should apply unless there's _good policy reason why it shouldn't_.
+HELD Develops the neighbour principle from |Donoghue v Stevenson|.
+CATEGORY Negligence; Duty of Care; Government Liability
+
+NAME Anns v Merton LBC
+AKA Anns v Merton
+YEAR 1978
+CITATION Anns v Merton London Borough Council [1978] AC 728
+COURT UKHL
+FLAGS Important; Test; EPLR
+CATEGORY Negligence; Duty of Care; Public Authority
+SUMMARY Tenants in a block of flats claimed for damage due to structural defects caused by foundations inadequately-deep by _six inches_. They claimed the defendant owed a duty of care to have inspected the foundations, prior to construction. 
+HELD Lord Wilberforce introduced a _two-stage test_ to establish a duty of care -- *(1)* a relationship of sufficient proximity based on foreseeability; *(2)* no public policy considerations that ought to preclude a duty.
+COMMENT It was not until |Murphy v Brentwood| that the _Anns_ test was formally overruled, at least insofar as it applied to public authorities.
+
+NAME Caparo v Dickman
+AKA Caparo
+FLAGS Leading; Important; EPLR
+YEAR 1990
+CITATION Caparo Industries Plc v Dickman [1990] 2 AC 605
+COURT UKHL
+FLAGS Important; Test; Leading
+CATEGORY Negligence; Duty of Care; Caparo
+SUMMARY A company prospectus, negligently prepared by the defendant, an accountant, led to considerable economic loss by the claimant. 
+HELD Lord Bridge introduced the famous *three-stage test* to measure whether a duty of care is owed between parties.
++The damage must be  *reasonably foreseeable*. 
++The relationship must be of *sufficient proximity* between claimant and defendant*.
++It would be *fair, just and reasonable* to impose the duty. 
+COMMENT NB., To be employed to measure a relationship only when one is *not already established by precedent*.
+
+
+NAME AG of British Virgin Islands v Hartwell
+YEAR 2004
+CITATION Attorney General of the British Virgin Islands v Hartwell [2004] 1 WLR 1273
+COURT UKPC
+SUMMARY A police officer, one with _issues_, shot at someone to settle a grudge. He killed someone else by accident. 
+HELD A duty of care was owed by the police to ensure unsuitable officers had no access to guns: the neighbour of a policeman is everyone, i.e., passes (1) of |Caparo| test.
+CATEGORY Negligence; Duty of Care; Caparo (Neighbour Principle)
+
+NAME Osman v Ferguson
+YEAR 1998
+CITATION Osman v Ferguson [1998] EWCA 4 All ER 344
+COURT EWCA
+CATEGORY Negligence; Duty of Care; Caparo (Public Policy); Children
+SUMMARY A teacher became obssessed with a 14-year old pupil. He'd told police he might do someting 'criminally insane.' And so he did - he went to the boy's house and shot both the boy and his father. The family claimed the Police had owed them, and breached, a duty of care.
+HELD No duty of care is owed by the Police on public policy grounds, i.e., |Caparo| (3).
+COMMENT The teacher became so obssessed he changed his name from Paul Pagett Lewis to Paul Ahmet Osman, Ahmet Osman being the name of the boy.
+
+NAME Everett v Comojo
+YEAR 2011
+CITATION Everett v Comojo Ltd UK [2011] EWCA Civ 13
+COURT EWCA
+SUMMARY C, a waitress in a nightclub owned by D, stabbed in a _fracas_. Claimed a duty of care owed.
+HELD A nightclub did indeed owe a duty to take reasonable care to avoid foreseeable acts of third parties, but the claim failed on the facts (upmarket nightclub with ritzy clientele).
+CATEGORY Negligence; Duty of Care; Caparo (Proximity)
+
+NAME Kent v Griffiths
+YEAR 2000
+COURT EWCA
+CITATION Kent v Griffiths [2000] 2 All ER 474
+FLAGS Important; EPLR
+CATEGORY Negligence; Duty of Care; Caparo (Public Policy); Emergency Services
+SUMMARY A severe asthma attack resulting in brain damage. Sued the London Ambulance Service in negligence as Ambulance took 40 minutes to arrive.
+HELD Ambulance service would owe a duty of care if (i) further illness reasonably foreseeable if no ambulance would attend (i) they took the call and dispatched an ambulance (proximity), (iii) fair, just and reasonable, but only if delayed _for no good reason_.
+OBITER Police don't have a duty to attend if they answer a call; when the fire brigade turns up, they have a duty _not to make things worse_.
+
+NAME Vowles v Evans
+YEAR 2003
+CITATION Vowles v Evans & the Welsh RFU [2003] EWCA Civ 31
+COURT EWCA
+FLAGS Important; EPLR
+SUMMARY C injured in the collapse of a scrum in an amateur Rugby match. Claimed in negligence against referee, who'd had opportunity to perceive the difficulty and stop the scrum, but hadn't. 
+HELD Referee there to enforce rules: the |Caparo| test applied. (i) Reasonably foreseeable that failure to enforce them would result in injury, (ii) Relationship of proximity, (iii) no reason to draw distinction between amateur and professional sport. 
+CATEGORY Negligence; Duty of Care; Caparo (Public Policy)
+
+NAME Hill v Chief Constable of West Yorkshire
+AKA Hill
+YEAR 1989
+CITATION Hill v Chief Constable of West Yorkshire [1989] AC 53
+COURT UKHL
+FLAGS EPLR
+SUMMARY Family of the last victim of the Yorkshire Ripper sued the police in negligence for having been slothful in catching the killer.
+HELD The police should not generally owe a duty of care to members of the public for |Caparo| (iii) public policy reasons: fear of 'defensive policing'; the fact that the police already take their job seriously enough and that imposing a duty of care to the public wouldn't make them any better at policing; inappropriate to use courts rather than the Police Complaints Authority; if there _were_ liability, _some_ lawsuits would inevitably succeed against them, diverting time and money from actual policing.
+CATEGORY Negligence; Duty of Care; Caparo (Public Policy)
+
+NAME Marc Rich v Bishop Rock Marine
+YEAR 1996
+CITATION Marc Rich Co AG v Bishop Rock Marine Co Ltd [1996] UKHL
+COURT UKHL
+FLAGS EPLR
+SUMMARY The owners of a the cargo aboard a ship with a cracked hull that had been noticed but passed muster during a survey (provided for free) by a ship-surveying charity, sued when the ship sunk losing a cargo of some $17.6m.
+HELD Acting in the public welfare can be a Caparo (3) defence. Finding that a duty of care was owed by a marine classification society would have been extremely detrimental to the safety and costs associated with sea-going.
+CATEGORY Negligence; Duty of Care; Caparo (Public Policy)
+
+NAME Sellwood v Durham
+YEAR 2012
+CITATION Selwood v Durham CC [2012] EWCA Civ 979
+COURT EWCA
+SUMMARY A social worker employed by the CC was stabbed by a patient who'd told the NHS he was going to murder her. No one bothered to warn her.  
+HELD Acting in the public welfare is not necessarily a Caparo (3) defence. Here, a duty of care was owed.
+CATEGORY Negligence; Duty of Care; Caparo (Public Policy); Public Authorities
+ 
+NAME Smith v Littlewoods
+YEAR 1989
+CITATION Smith v Littlewoods Organization Ltd [1989] UKHL 18
+COURT UKHL
+SUMMARY The defendant company had acquired a disused cinema, which they intended to knock down and replace with a supermarket. Vandals broke in and found a stash of celluloid film, to which they set fire. In the subsequent blaze, the establishments neighbouring the cinema were damaged.
+HELD An empty cinema was not per se a source of danger. Although the danger was foreseeable, under Caparo (3), it would be unreasonable to impose the burden of guarding the building 24/7.
+CATEGORY Negligence; Duty of Care; Caparo (Public Policy)
+
+
+NAME Stovin v Wise
+YEAR 1996
+CITATION Stovin v Wise [1996] UKHL 15
+COURT UKHL
+FLAGS Key; EPLR
+SUMMARY A motorcyclist, whose view was obstructed by a bank of earth as he pulled out of a junction, smashed into a car and was injured. Argued the local council was negligent in its duty to have removed the obstacle.
+HELD Only when there was a public duty to act, and omitting to exercise that duty would be irrational, would it be just to impose a duty; and that a statutory _power_ did not give rise to a common law _duty of care_.
+CATEGORY Negligence; Duty of Care; Caparo (Public Policy); Road Traffic; Public Authorities
+
+
+
+
+#Lecture 3: Duty of Care: Public Authorities
+NAME Duty of Care - Public Authorities
+TYPE Concept
+CATEGORY Negligence; Duty of Care; Public Authorities
+SUMMARY The courts are *generally reluctant* to find a duty of care between limbs of the state and members of the public. 
+SUMMARY |Hill| is good authority for this, in which (as applied to the police) four considerations were identified: a fear of _defensive policing_; no need for the threat of actions in tort, as they already do their best; bodies already exist to regulate and arbitrate disputes with, e.g., the police; defending suits in negligence - and paying out in damages - would divert money from their purpose.
+SUMMARY |Hill| is also good authority for the *absence of a blanket ban*, see Lord Keith's speech.
+SUMMARY Where a claim has failed or been struck out on the basis of |Caparo| (3), it is established that this is not an infringement of the art. 6 right to a fair trial - |Osman v UK|, |Z v UK|.
+
+NAME Duty of Care - Public Authorities
+TYPE Reading
+CATEGORY Negligence; Duty of Care; Public Authorities
+SUMMARY ~*Essential*~
+SUMMARY Steele, _Tort Law_ (13th ed, 2014) pp.392-446
+SUMMARY |Hill v Chief Constable of West Yorkshire| - |Z v UK| - |Phelps v Hillingdon| - |Barett v Enfield| - |JD v East Berkshire NHS| - |MAK and RK v UK| - |Swinny v Chief Constable of Northumbria| - |Hill v Chief Constable of West Yorkshire| - |Capital and Countries v Hampshire| - |Kent v Griffiths| - |Michael v Chief Constable of South Wales| - |Robone v Pennine Care NHS|
+SUMMARY ~*Additional*~
+SUMMARY S. Bailey and M. Bowman, _Public Authority Negligence Revisited_ (2000) 59 CLJ 85<BR>S. Foster, _Police negligence and victims of crime: the survival of the rule in Hill_ (2015) 20 Coventry Law Journal 67<BR>C. Gearty, _Osman Unravels_ (2002) 65 MLR 87<BR>C. McIvor, _Getting Defensive about Police Negligence: The Hill Principle, the Human Rights Act 1998 and the House of Lords_ (2010) 69 CLJ 133<BR>R. Mullender, _Negligence, Public bodies, and Ruthlessness_ (2009) 72 MLR 961<BR>D. Nolan, _Negligence and Human Rights Law: The Case for Separate Development_ (2013) 76 MLR 286 <BR>J. Varahus, _Liability under the Human Rights Act 1998: The Duty to Protect Life, Indirect Victims and Damages_ (2012) 71 CLJ 263
+SUMMARY |Osman v UK| - |X v Bedfordshire| - |Lawrence v Pembrokeshire| - |Robinson v Chief Constable of West Yorkshire|.
+
+
+
+
+NAME Osman v UK
+YEAR 2000
+COURT ECHR
+CITATION Osman v United Kingdom [1998] ECHR 101
+SUMMARY The claim having failed in the domestic courts because of the general absence of a duty of care owed by the police to the public (Hill v Chief Constable of West Yorkshire), the family sued in Strasbourg, arguing that *(1)* their article 8 rights to a private family life had been breached by the outcome of the earlier case, and *(2)* their article 6 rights to a fair trial. The court held that a blanket ban on police duty of care would indeed be a violation of (2) but on the facts, found for the UK.
+HELD The exclusion of a duty of care owed by the police is limited by Human Rights considerations.
+CATEGORY Negligence; Duty of Care; Public Authorities; Human Rights; Children
+
+NAME Z v UK
+YEAR 2001
+COURT ECHR
+FLAGS Important; EPLR
+CITATION Z and others v United Kingdom [2001] ECHR 10
+SUMMARY An appeal against a decision that local authorities had no duties of care to prevent abuse of children in care, and that this was an unfair trial.
+HELD Finding that local authorities owed no duty of care to children to prevent abuse did not entail that proceedings had been unfair
+CATEGORY Negligence; Duty of Care; Public Authorities; Human Rights; Child Abuse; Children
+
+NAME X v Bedfordshire
+YEAR 1995
+COURT UKHL
+CITATION X (minors) v Bedfordshire County Council [1995] UKHL 9
+SUMMARY A compendium of five cases (two about child abuse, three about SEN education). Claims that Bedfordshire had been negligent in not accomodating their needs, as they had been given the powers to act but had not done so. 
+HELD Not fair, just and reasonable to impose a duty of care where a local authority had not exercised a _power_ to act, but had it done so, there _would_ have been a duty.
+CATEGORY Negligence; Duty of Care; Public Authorities; Education; Child Abuse; Children
+
+NAME Phelps v Hillingdon
+YEAR 2000
+COURT UKHL
+FLAGS Important; EPLR
+CITATION Phelps v Hillingdon London Borough Council [2000] UKHL 47
+SUMMARY An ed. psych. negligently missed a diagnosis of dyslexia in three children; career and educational prospects had suffered as a result. 
+HELD Fair, just and reasonable to impose a duty of care here, as local authority had exercised its power negligently. I.e., the flip-side of |X v Bedfordshire|
+CATEGORY Negligence; Duty of Care; Public Authorities; Education; Children
+
+
+NAME Barett v Enfield
+YEAR 1999
+COURT UKHL
+FLAGS Important; EPLR
+CITATION Barett v London Borough of Enfield [1999] UKHL 25
+SUMMARY A child taken into care, but badly treated, resulting in psychiatric damage. Claimed in negligence, that inter alia Enfield had failed to put him up for adoption and failed to reintroduce him to his family.
+HELD In taking the child into care, a duty had arisen, which had been breached.
+CATEGORY Negligence; Duty of Care; Public Authorities; Child Abuse; Children
+
+NAME JD v East Berkshire NHS
+YEAR 2005
+COURT UKHL
+FLAGS Important; EPLR
+CITATION JD v East Berkshire Community Health NHS Trust [2005] UKHL 23
+SUMMARY Three conjoined appeals on similar patterns of facts: parents who'd been (unjustly) suspected of abusing their children by their NHS trusts. The children had been taken into care, etc, parents claimed negligence. 
+HELD Parents couldn't sue, only the children: the duty of care doesn't extend to them. Doctors owe a duty to the children, not the parents. Are the interests of the child different from the interests of the parent? The court thought so, but Jesse Elvin is sceptical.
+CATEGORY Negligence; Duty of Care; Public Authorities; Child Abuse; Children
+
+NAME Lawrence v Pembrokeshire
+YEAR 2007
+CITATION Lawrence v Pembrokeshire County Council [2007] EWCA Civ 446
+COURT EWCA
+SUMMARY Claimant argued negligence in placing her children's names on child protection register, infringing her HRA1998 article 8 right (family life), also causing her psychiatric injury. 
+HELD Relevance to be found in article 8, but allowing claim would degrade focus on protecting children from Local Authorities and make them more cautious.
+CATEGORY Negligence; Duty of Care; Public Authorities; Child Abuse; Human Rights; Children
+
+
+NAME MAK and RK v UK
+YEAR 2010
+COURT ECHR
+FLAGS Important; EPLR
+CITATION MAK and RK v United Kingdom [2010] ECHR
+SUMMARY A child taken to hospital with what looked like bruising - hospital suspected abuse and didn't let father see child. In fact child had skin disorder a competent dermatologist would have diagnosed. Second day let him see under supervision. Lower courts, followed Lawrence: interests of child important, interests of parent less so. 
+HELD In Strasbourg court, article 8 claim: UK acting through hospital prevented him from seeing his seriously-ill daughter. Court held that hospital incompetent for not diagnosing sooner; claim valid, compensation awarded.
+COMMENT A pattern emerges that the ECtHR will treat negligence claims against local authorities more favourably than the English courts.
+CATEGORY Negligence; Duty of Care; Public Authorities; Child Abuse; Human Rights; Children
+
+
+#Police
+NAME Swinny v Chief Constable of Northumbria
+YEAR 1997
+COURT EWHC
+FLAGS Important; EPLR
+CITATION Swinney v Chief Constable of Northumbria [1997] QBD 464 
+SUMMARY Details of informant stolen from back of police car; informant harassed by criminal. 
+HELD Negligent, that duty of care to informant breached, must find duty despite police, _pour la bonne fonctionment_. Informants are not simply members of the public, to whom no particular duty is owed. Nothing to do with negligence of leaving in car.
+CATEGORY Negligence; Duty of Care; Public Authorities; Police
+
+NAME Swinny (no 2)
+SUMMARY TODO.
+
+NAME Van Colle v Hertfordshire Police
+YEAR 2008
+COURT UKHL
+FLAGS Important; EPLR
+CITATION Van Colle v Chief Constable of Hertfordshire [2008] UKHL 50
+SUMMARY A man who was due to appear as a witness in a theft trial was shot dead. The claim was that the police, who knew there was a threat, ought to have protected him, and that failure to have done so breached his article 2 right to life. 
+HELD There was no duty, as the police were not aware of a real and immediate risk to his life. 
+CATEGORY Negligence; Duty of Care; Public Authorities; Police; Human Rights
+
+NAME Robone v Pennine Care NHS
+YEAR 2012
+CITATION Rabone v Pennine Care NHS Trust [2012] UKSC 2
+COURT UKSC
+FLAGS Key; EPLR
+SUMMARY A voluntary inpatient in a psychiatric ward, admitted on the basis that should she attempt or demand to leave, would be assessed for sectioning under the Mental Health Act 1983. Released, with her parents' reservations, and committed suicide. Family argued her art 2 rights had been breached. 
+HELD That although previous case law had found an operational art.2 duty to detained psychiatric patients, the distinction between detained and voluntarily-present in-patients was not to be exaggerated, and here, there had been a duty owed.
+CATEGORY Negligence; Duty of Care; Public Authorities; Public Authorities; Mental Health; Human Rights
+
+NAME Robinson v Chief Constable of West Yorkshire
+YEAR 2014
+COURT EWCA
+CITATION Robinson v Chief Constable of West Yorkshire [2014] EWCA Civ 15
+SUMMARY Police chasing a drug dealer crashed into the claimant.
+HELD On Caparo (3) grounds, would not be fair, just and reasonable to find a duty, and questionable Caparo (2) proximity between claimant and police. 
+COMMENT The courts are generally reluctant to find a duty against the Police: protection of *the public* is more important than protection of *individual members* of the public.
+CATEGORY Negligence; Duty of Care; Public Authorities; Police
+
+
+NAME Capital and Countries v Hampshire 
+YEAR 1997
+COURT EWCA
+FLAGS Important; EPLR
+CITATION Capital and Countries Plc v Hampshire County Council [1997] EWCA 3 WLR 331 
+SUMMARY Three conjoined appeals against fire brigades who'd done various things to which the claimants objected, such as turning off the sprinklers when they arrived at the fire (reasonable in case of, e.g., electrical fire), or getting lost on the way to a call-out.
+HELD May be able to find fire brigades liable if they make things worse. But no duty to attend.
+CATEGORY Negligence; Duty of Care; Public Authorities; Emergency Services
+
+NAME Michael v Chief Constable of South Wales
+YEAR 2015
+COURT UKSC
+FLAGS Important; EPLR
+CITATION Michael v Chief Constable of South Wales [2015] UKSC 2
+SUMMARY Victim made emergency call asking for police, said in process of being assaulted by former partner, but a cock-up; call diverted to wrong police service, and call-handler didn't report her saying "he's coming back to kill me." So the police took an hour to arrive, by which time she was dead. Claim that two police authorities had been negligent, and that article 2 (right to life) breach because of their incompetence. 
+HELD Negligence claim must fail on same grounds as |Hill|, but article 2 breach accepted. Acceptable and coherent (!) that tort law should reject claims of this sort in negligence but that Human Rights accept them. In this sense HR is helpful in sorting out a grey area.
+CATEGORY Negligence; Duty of Care; Public Authorities; Police; Human Rights
+
+
+
+
+
+NAME Breach of Duty - Standard of Care
+TYPE Concept
+CATEGORY Negligence; Breach of Duty
+SUMMARY The standard of care owed is *objective*. The *defendant's view* of their reasonableness is *irrelevant*, and certain characteristics which D may think relevant, e.g., impulsivity, a careless disposition, or inexperience - |Nettleship v Weston| - cannot be pleaded.
+SUMMARY Generally, circumstances determine what is _reasonable_.
+SUMMARY Paraphrasing D. Howarth in _Textbook on Tort_, pp.67, the claimant must persuade the court that what happened was a *foreseeable* consequence of the defendant's conduct; and that there were practical precautions available to the defendant, which he did not take. The defendant, contrastingly, must play down the foreseeability, and suggest snags in the precautions the claimant suggests would have been obvious. *What would it have seemed like at the time?*
+SUMMARY *Foreseeability* - does not benefit from hindsight: |Roe v Minister of Health|.
+SUMMARY The *magnitude of risk* determines the degree of care the law expects. A small risk, a small degree of care (|Bolton v Stone|, cf. |Miller v Jackson|), as does the *severity of potential damage* - |Paris v Stepney|, |Harris v Perry|.
+SUMMARY The courts will consider the *practicality of precautions* - |Latimer v AEC|, |The Wagon Mound (no 2)| - and whether there was any potential public utility of the defendant's conduct - |Watt v Hertfordshire|, |Scout Association v Barnes|.
+SUMMARY A strong inference will be made that a defendant has *not* been negligent, when he acts consistently with *common practice* - |Bolitho|, |Sutcliffe v BMI Healthcare|.
+SUMMARY *Special skills* - such as doctoring, barristering, etc, will attract judgment not according to the Clapham Omnibus standard but that of a *responsible body of opinion* - |Bolam|, |Pierce v Doncaster|, |Montgomery v Lanarkshire Health Board|.
+SUMMARY When assessing the *standard* of care owed by *children*, then although the test remains objective, it is according to an *ordinary child of the same age* - |Mullin v Richards|, |Orchard v Lee|.
+SUMMARY The courts are *not* keen on finding *public bodies* liable. This is for the simple and expedient reason that the more money they have to spend settling claims in tort, the less they can spend on doing what they're supposed to be doing.
+SUMMARY The courts may sometimes take the shortcut of *res ipsa loquitur* and observe what the facts say for themselves.
+
+NAME Breach of Duty - Reading
+TYPE Reading
+CATEGORY Negligence; Breach of Duty
+SUMMARY ~*Essential*~
+SUMMARY Steele: pp.111-138 - |Nettleship v Weston| - |Bolton v Stone| - |Miller v Jackson| - |Paris v Stepney| - |Latimer v AEC| - |Watt v Hertfordshire| - |S3 Compensation Act| _S1 - Social Action, Responsibility and Heroism Act_ |SARAH 2015| - |Bolitho v Hackney HA| - |Bolam v Friern Hospital| - |Montgomery v Lanarkshire Health Board| - |Mullin v Richards|
+SUMMARY ~*Additional*~
+SUMMARY J. Elvin, _Can an Employer be under a Duty to Dismiss an Employee for his own Good in Order to Protect his Health?_ (2003) 62 CLJ 20
+SUMMARY Ministry of Justice, _Courts to Recognise Good Intentions of Volunteers and Small Busineses_, <br> at https://www.gov.uk/government/news/courts-to-recognise-good-intentions-of-volunteers-and-small-busineses 
+SUMMARY R. Mulheron, _Trumping Bolam: A Critical Legal Analysis of Bolitho's “Gloss”_ (2010) 69 CLJ 609<BR>Newground Legislation Update Service, _Social Action, Responsibility and Heroism Act (SARAH)_,<br> at http://www.legislationupdateservice.co.uk/social-action-responsibility-and-heroism-act-sarah/ 
+SUMMARY _What's the point of the Social Action, Responsibility and Heroism Act?_, <br>at http://blogs.lexisnexis.co.uk/dr/whats-the-point-of-the-social-action-responsibility-and-heroism-act/ 
+SUMMARY |Roe v Minister of Health| - |Williams v University of Birmingham| - |Harris v Perry| - |The Wagon Mound (no 2)| - |Scout Association v Barnes| - |Sutcliffe v BMI Healthcare| - |Orchard v Lee| - |Pierce v Doncaster| - Knight v Home Office|
+
+
+NAME Miller v Jackson
+YEAR 1977
+CITATION Miller v Jackson [1977] EWCA QB 966
+COURT EWCA
+FLAGS Important; Amusing; Denning; EPLR
+SUMMARY The house of the claimants had been built barely thirty metres from the batting crease of the village cricket pitch. There was the usual minor damage from cricket balls, and the risk of injury to the householders. The club erected a three metre fence, and _asked batsmen to hit fours rather than sixes_ (!) but a few balls every season still landed in the Millers' property.
+HELD The claim(s) in negligence (and nuisance) succeeded: the cricket club owed, and had breached, a dury of care to Miller. N.B. did not allow the injunction sought by Miller against the playing of cricket. 
+HELD Denning MR famously dissented thus -- '_In summertime village cricket is the delight of everyone_. Nearly every village has its own cricket field where the young men play and the old men watch.' 
+COMMENT The standard of care owed is objective, that of the _reasonable person_. 
+CATEGORY Negligence; Breach of Duty; Sport; Cricket
+
+NAME Nettleship v Weston
+YEAR 1971
+COURT EWCA
+CITATION Nettleship v Weston [1971] EWCA 2 QB 691 
+CATEGORY Negligence; Breach of Duty; Objective Standard; Road Traffic
+FLAGS Important; Denning; EPLR
+SUMMARY The claimant was injured when the defendant, _who he was teaching to drive_, lost control and crashed. She argued that the standard of care she owed was necessarily lower than that of an experienced driver.  
+HELD Although the defendant's argument that her inexperience should give rise to a lesser standard of care made intuitive sense, an _objective_ standard must be imposed, but a standard unconnected to moral fault. This is for two reasons: the impracticability of the standard being subjective, and the pragmatic necessity to _blame_ someone -- and therefore _pay for the damage_ from their insurance. 
+HELD On dissent of Salmon LJ, damages _halved_ through claimant's contributory negligence he was held partially in control of the car.
+COMMENT The standard of care generally owed is objective.
+
+NAME Roe v Minister of Health
+YEAR 1954
+CITATION Roe v Minister of Health [1954] EWCA 2 All ER 131
+COURT EWCA
+FLAGS Denning; Important
+SUMMARY In 1947, Roe and another had been given lumbar puncture anaesthetics from phials that'd been stored immersed in a (toxic) antiseptic. The phials turned out to have had microscopic cracks invisible to the naked eye, and there had been enough of the antiseptic in the anaesthetic to paralyse the claimants.
+HELD The presence of microscopic cracks would neither have been known about nor foreseen by the operating theatre doctors, so there had not been a breach.
+HELD Denning LJ -- 'We must not look at the 1947 incident with 1954 spectacles.' Well quite. 
+CATEGORY Negligence; Breach of Duty; Foreseeability
+
+NAME Bolton v Stone
+YEAR 1951
+CITATION Bolton v Stone [1951] UKHL AC 850
+COURT UKHL
+FLAGS Important; EPLR
+SUMMARY A woman standing outside her house in Manchester, about a hundred yards away from the batsman, was struck in the head by the ball when, for only the seventh time in thirty years, a ball was hit for six out of the ground.
+HELD No breach of duty. The magnitude of the risk was too small. Cf. |Miller v Jackson|, in which the magnitude of the risk was rather greater.
+CATEGORY Negligence; Breach of Duty; Sport; Cricket
+
+NAME Paris v Stepney
+YEAR 1951
+COURT UKHL
+FLAGS Important; EPLR
+CITATION Paris v Stepney Borough Council [1950] UKHL 3
+SUMMARY The claimant a garage worker, who'd lot an eye in the war, was blinded by a chip of metal. He sued his employer for breach of duty of care. 
+HELD The particular characteristics/circumstances of an employee should be taken into account by an employer, or others owing them a duty of care, if the characteristics are known about. All the more so when precautions, such as the provision of safety goggles, are easy to take.
+CATEGORY Negligence; Breach of Duty; Severity of Potential Harm; Risk
+
+NAME Harris v Perry
+YEAR 2008
+COURT EWCA
+FLAGS Leading
+CITATION Harris v Perry and another [2008] EWCA Civ 907
+CATEGORY Negligence; Breach of Duty; Practicality of Precautions; Risk
+SUMMARY Parents of a child for whose birthday party they'd hired a bouncy castle were sued by one of the children invited to the party, an 11 year old who'd been kicked in the head by another child of 15, also on the bouncy castle. Presumably this was an accident, but children of that age can be quite vile to one another, can't they. The supervising parent had turned their back momentarily. Claimed it was negligent to let a 15-year-old child on a bouncy castle with a younger, smaller, softer one.
+HELD Reasonably foreseeable that children could injure one another on a bouncy castle, but not that the injury would be severe.
+HELD Impractical, however, to keep the children under constant supervision. The hosts had not acted unreasonably, and life would be dull if all risk were eliminated.
+
+NAME Latimer v AEC
+YEAR 1953
+CITATION Latimer v AEC [1953] UKHL AC 643
+COURT UKHL
+FLAGS Important; EPLR
+CATEGORY Negligence; Breach of Duty; Practicality of Precautions; Risk; Employers' Liability; Primary Liability; Safe Place of Work
+SUMMARY Big old flood, defendant's company inundated. Oily chemical used on machinery in factory, which mixed with flood water. When the water receded, the floor was coated with slippery grime. Three tonnes of saw dust were spread on the floor. But not the part the claimant walked on, slipping over and injuring himself. Argued breach of duty in not closing factory until safe.
+HELD Closing the factory until completely cleaned wouldn't have been a reasonable precaution due to enormous cost of doing so, and risk of serious injury quite low. What they _had_ done was reasonable.
+
+NAME Overseas Tankship v Miller (The Wagon Mound - no 2)
+AKA The Wagon Mound (no 2)
+YEAR 1967
+FLAGS Key; Leading; EPLR
+CITATION Overseas Tankship (UK) Ltd v Morts Dock (Wagon Mound - no 2) [1967] UKPC 1 AC 617 
+COURT UKPC
+CATEGORY Negligence; Breach of Duty; Practicality of Precautions; Severity of Potential Harm; Risk
+CONTRAST Harris v Perry
+SUMMARY Defendants sued for negligently allowing oil to escape from their ship into a harbour, which caught fire and toasted a couple of neighbouring ships.
+HELD Loss will be recoverable where the extent of possible harm is so great that a reasonable man would guard against it, even if the chance of the damage occurring is very small.
+HELD Precautions ought to have been taken, as they were neither costly nor difficult, and the magnitude of potential loss (and _realised_ loss) was very great.
+
+NAME Williams v University of Birmingham
+YEAR 2011
+FLAGS Leading
+CITATION Williams v University of Birmingham [2011] EWCA Civ 1242
+COURT EWCA
+CATEGORY Negligence; Breach of Duty; Causation; Asbestos; Mesothelioma
+SUMMARY The estate of a man who, in the course of experiments as part of his physics undergrad in Birmingham in the '70s, had been exposed to asbestos-lagged pipes in tunnels owned by the university. He went on to develop mesothelioma in middle age and died at 54.
+HELD The correct test in asbestos cases was whether the defendant had taken reasonable care to ensure that a person was not exposed to a foreseeable risk of _asbestos-related injury_. *Not* that the defendant had exposed the claimant to asbestos. In the '70s, it was not known that the level of exposure to fibres experienced by the claimant would have given rise to a reasonably-foreseeable risk of asbestos-related injury. 
+
+NAME Watt v Hertfordshire 
+YEAR 1954 
+CITATION Watt v Hertfordshire [1954] EWCA 1 WLR 835
+COURT EWCA
+FLAGS Important; Denning; EPLR
+CATEGORY Negligence; Breach of Duty; Defences (Utility of Conduct); Local Authorities
+SUMMARY The claimant was a fireman. There was a car accident for which a very big jack was needed to free one of the accidentees. No specialist vehicles were available to transport it, so the claimant was asked to go in the back of a truck to hold the jack secure. The truck braked sharply, and the claimant was biffed in the leg by the jack - causing him serious injury.
+HELD The actions taken were necessary in the public interest, therefore no breach. 
+HELD Denning LJ -- taking considerable risk when trying to save life is fine: there had been far less risk of serious injury in getting the jack to the scene of the accident than the potential risk of serious injury to the woman who needed a car jacking up off her. 
+
+NAME Scout Association v Barnes 
+YEAR 2010
+COURT EWCA
+FLAGS Amusing
+CITATION The Scout Association v Barnes [2010] EWCA Civ 1476
+CATEGORY Negligence; Breach of Duty; Defences; Utility of Conduct; Children
+SUMMARY A scoutmaster had his scouts play a game called _Objects in the Dark_. You think you know what's coming, given the preceding sentence - but this is in fact about personal injury, _not_ paedophilia. The game was played in pitch darkness, and funnily enough, someone - a 13-year-old boy - was injured and sued.
+HELD There had been potential utility, but not enough to militate against there being a breach. 
+HELD The court sagely suggested playing _objects_ rather than _objects in the dark._ 
+
+NAME Bolitho v Hackney HA
+AKA Bolitho
+YEAR 1996
+COURT UKHL
+FLAGS Key; Leading; EPLR
+CITATION Bolitho v City and Hackney Health Authority [1996] UKHL 4 All ER 771
+FLAGS Leading; Important
+CATEGORY Negligence; Breach of Duty; Defences; Common Practice
+CATEGORY Negligence; Clinical Negligence
+SUMMARY A two-year-old, admitted to Barts with croup. On two occasions he went white and manifested obvious difficulty breathing, but recovered and was observed to be energetic. On both occasions, the senior paediatrician was called but did not attend. But half an hour after the second episode, he went into respiratory and cardiac arrest, which left his brain hypoperfused, with obvious consequences. At trial, the 5-3 majority expert medical evidence suggested the child ought to have been intubated. 
+HELD |Bolam| stands, except where a judge can be satisfied that _the body of expert opinion cannot be logically supported at all_. And here, in the UKHL, the minority opinion of a certain Dr Dinwiddie held sway.
+
+NAME Sutcliffe v BMI Healthcare
+YEAR 2007
+COURT EWCA
+CITATION Sutcliffe v BMI Healthcare [2007] EWCA Civ 476
+CATEGORY Negligence; Breach of Duty; Defences; Common Practice
+CATEGORY Negligence; Clinical Negligence
+SUMMARY After a routine knee operation, a patient vomited in his sleep and as a consequence suffered severe brain damage. Claim was that he ought to have been woken up and checked on rather than just negligently allowed to sleep.
+HELD The post-operative care had been conducted on a logical basis: the claimant was asleep as he was tired. 
+TRIVIA I'd understood they usually want you to piss at least once before they'll leave you alone after an operation. 
+
+NAME Bolam v Friern Hospital
+AKA Bolam
+YEAR 1957
+COURT EWCA
+CITATION Bolam v Friern Hospital Management Committee [1957] EWCA 1 WLR 582
+FLAGS Leading; Important; EPLR
+CATEGORY Negligence; Breach of Duty; Standard of Care; Professionals
+CATEGORY Negligence; Clinical Negligence
+SUMMARY The claimant had voluntarily undergone ECT, but hadn't been given muscle relaxants. Consequently, during the treatment he flailed around violently, and sustained several serious injuries including a fracture to part of his pelvis. Sued in negligence because (i) he hadn't been given muscle relaxants, (ii) he hadn't been restrained and (iii) he hadn't been warned of the risk.
+HELD For professionals acting in the course of their duties, if the standard of care falls below the standard of _a responsible body of opinion_, then there is negligence. *Cf. |Montgomery v Lanarkshire Health Board|*, also |Bolitho|.
+
+NAME Pierce v Doncaster
+YEAR 2008
+COURT EWCA
+CITATION Pierce v Doncaster MBC [2008] EWCA Civ 1416
+CATEGORY Negligence; Breach of Duty; Standard of Care; Professionals; Local Authorities
+SUMMARY The claimant had the misfortune to be born into an emotionally and financially unstable household. By six months, he already showed signs of neglect. He was taken into care and kept there for a bit. The defendant, he claimed, ought to have known that the family house was insalubrious to the point of hazard. Mother visited son occasionally, but chaotically. Father in and out of prison. But boy allowed to go back to the family at 14 months old. Ran away from home at 14 years. Claim that duty of care breached by being allowed to go back to family. Things for this poor fellow had curdled really quite appallingly: personality disorder, prostitution, crime.
+HELD The defendant was unreasonable in putting the child back with family - the |Bolam| test applied, the defendant was to be judged according to the standard of an expert.
+
+NAME Montgomery v Lanarkshire Health Board 
+YEAR 2015
+COURT UKSC
+CITATION Montgomery v Lanarkshire Health Board [2015] UKSC 11
+FLAGS Key; Leading; EPLR
+CATEGORY Negligence; Breach of Duty; Duty to Appraise Patient of Material Risks
+CATEGORY Negligence; Clinical Negligence
+SUMMARY A pregnant woman had not been informed that there was a 97% chance of something nasty called _shoulder dystocia_ happening during the delivery of her son. The baby was born with cerebral palsy. Claimed in negligence for failure to inform her. 
+HELD A doctor is under a duty to inform patient of _material_ risks: would a reasonable person in the patient's position be able to attach significance to the risk? Cf. |Bolam v Friern Hospital|.
+
+NAME Mullin v Richards
+YEAR 1998
+COURT EWCA
+FLAGS Important; Amusing; EPLR
+CITATION Mullin v Richards [1998] 1 All ER 920
+CATEGORY Negligence; Breach of Duty; Standard of Care; Children
+SUMMARY Two schoolgirls, presumably both given to somewhat more than a certain degree of espièglerie. The defendant managed to blind the claimant with a shard of a plastic ruler, during an, erm, _ruler fight_.
+HELD The standard to be expected of a 15-year-old child was not the standard of a reasonable person, but that of a reasonable and _ordinarily prudent_ 15-year-old.
+TRIVIA Curiously enough, the courts had never been asked to adjudicate on *fights with rulers*, before 1998.
+
+NAME Orchard v Lee
+YEAR 2009
+COURT EWCA
+CITATION Orchard v Lee [2009] EWCA 295
+CATEGORY Negligence; Breach of Duty; Standard of Care; Children
+SUMMARY A lunchtime playground assistant at a school was injured when the defendant, running around like the 13-year-old boy he was, inadvertantly knocked her over. So she sued the boy. (And the school, when it came to EWCA). 
+HELD It was just a boy running around, not even breaking any rules. Doing just what you'd expect a boy to do. So, seriously, Mrs. Claimant, WTF?
+
+NAME Knight v Home Office
+YEAR 1990
+COURT EWCA
+CITATION Knight v Home Office [1990] 3 All ER 23
+CATEGORY Negligence; Breach of Duty; Standard of Care; Public Authorities; Prison
+SUMMARY The estate of a prison suicide sued, claiming the prison hadn't taken reasonable care to stop the prisoner committing suicide, in the hospital wing of HMP Brixton.
+HELD No breach of duty: the hospital wing of a prison necessarily gives lower standard of care than a hospital, as money must be spent on, e.g., _stopping prisoners escaping_ (!)
+
+NAME Social Action, Responsibility and Heroism Act 2015
+TYPE Statute
+AKA SARAH 2015
+FLAGS Criticised
+SUMMARY $:On legislation.gov$$http://www.legislation.gov.uk/ukpga/2015/3/contents:$.
+
+
+

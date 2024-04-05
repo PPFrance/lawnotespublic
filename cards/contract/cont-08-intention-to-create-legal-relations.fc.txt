@@ -1,0 +1,111 @@
+META filename herling-08-intention-to-create-legal-relations.fc.txt
+
+
+NAME Intention to Create Legal Relations - Introduction
+TYPE Concept
+CATEGORY Intention to Create Legal Relations
+SUMMARY See $:Herling's Lectures$$herling.html:$ 
+
+--STOP--
+
+
+NAME Albert v Motor Insurers' Bureau
+CITATION Albert v Motor Insurers' Bureau [1972] AC 301
+CATEGORY Intention to Create Legal Relations; Intention to Create Legal Relations
+
+
+
+
+NAME Balfour v Balfour
+CITATION Balfour v Balfour [1919] 2 KB 571
+CATEGORY Intention to Create Legal Relations; Domestic and Social Agreements
+FLAGS Atkin
+
+
+
+
+NAME Merritt v Merritt
+CITATION Merritt v Merritt [1970] 1 WLR 1211
+CATEGORY Intention to Create Legal Relations; Domestic and Social Agreements
+FLAGS Denning
+
+
+
+
+NAME Pettitt v Pettitt
+CITATION Pettitt v Pettitt [1970] AC 777
+CATEGORY Intention to Create Legal Relations; Domestic and Social Agreements
+FLAGS Diplock
+
+
+
+
+NAME Jones v Padavatton
+CITATION Jones v Padavatton [1969] 1 WLR 328
+CATEGORY Intention to Create Legal Relations; Domestic and Social Agreements
+
+
+
+
+NAME Rebuttal of Presumption
+TYPE Concept
+CATEGORY Intention to Create Legal Relations; Rebuttal of Presumption
+
+
+
+
+NAME Parker v Clark
+CITATION Parker v Clark [1960] 1 WLR 286
+CATEGORY Intention to Create Legal Relations; Rebuttal of Presumption 
+
+
+
+
+NAME Simpkins v Pays
+CITATION Simpkins v Pays [1955] 1 WLR 975
+CATEGORY Intention to Create Legal Relations; Rebuttal of Presumption 
+
+
+
+
+FLAGS McKendrick
+NAME Commercial Agreements
+TYPE Concept
+CATEGORY Intention to Create Legal Relations; Commercial Agreements
+
+
+
+
+NAME Edwards v Skyways
+CITATION Edwards v Skyways [1964] 1 WLR 349
+CATEGORY Intention to Create Legal Relations; Commercial Agreements
+
+
+
+
+NAME Edmonds v Lawson
+CITATION Edmonds v Lawson [2000] QB 501
+CATEGORY Intention to Create Legal Relations; Commercial Agreements
+FLAGS Bingham
+
+
+
+
+NAME Rose and Frank Co v Crompton and Brothers
+CITATION Rose and Frank Co v Crompton and Brothers [1923] 2 KB 261
+CATEGORY Intention to Create Legal Relations; Rebuttal of Presumption
+
+
+
+
+NAME Kleinwort Benson Ltd v Malaysia Mining Corporation
+CITATION Kleinwort Benson Ltd v Malaysia Mining Corporation [1989] 1 WLR 379
+CATEGORY Intention to Create Legal Relations; Rebuttal of Presumption
+FLAGS McKendrick
+
+
+
+
+NAME Intention to Create Legal Relations - Conclusion
+TYPE Concept
+CATEGORY Intention to Create Legal Relations

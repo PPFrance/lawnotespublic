@@ -1,0 +1,110 @@
+
+NAME Secret Trusts
+TYPE Concept
+CATEGORY Secret Trusts
+SUMMARY _A type of trust basically exempt from (nearly) all the formalities._
+@ Had parliament noticed they existed before they became so widespread, would have banned them.
+@ They are formed partly by the settlor’s will, and partly what the settlor does during his lifetime.
+@ They manage, thereby, to avoid the formalities for wills, and the formalities for inter vivos trusts.
+@ They shouldn’t be able to. But they do.
+
+SUMMARY The subject of the trust is either secret, making an |FST|; or on the face of the will, and so a |HST|. In both cases, its _terms_ are secret.
+
+SUMMARY They _appear_, then, to violate &g&S9 Wills Act 1837&g&, as they amount to testamentary dispositions which don't appear in the will.
+
+SUMMARY *Why?* Historically -- because of _naughtiness_. Hiding secret families from your spouse, combined with the hope that they don't turn up at your wake. STs are _invisible_, including to the Inland Revenue, so how many STs there actually are isn't _knowable_. Nowadays -- to hide money from the Revenue.
+
+SUMMARY *What's the Secret?*
+@ |HST| -- the identity of the beneficiary.
+@ |FST| -- that a trust exists at all.
+
+SUMMARY People tend not to sue over secret trusts -- they prefer the secret remaining secret, to the loss (from fraud, etc). *Only 29 cases* over the last 500 years, out of which, *only nine issues* have been litigated.
+
+SUMMARY *FSTs* -- obligation *invisible* on face of will.
+@E.g., in Alex's will, ‘I leave £X for Ben.’
+@But when he was _alive_, he in fact asked Ben to hold the money on trust for Claire.
+
+SUMMARY *HSTs* -- obligation *visible* on face of will.
+@E.g., in Ian’s will, ‘I leave £Y to Jack on the trust communicated to him.’ 
+@He'd asked Jack to hold the money for Kevin.
+
+SUMMARY *Precatory Words*
+/_‘I leave my house to J, knowing that he will uphold my wishes as to its disposition.’_
+@Words _appearing_ precatory may be consistent with there being an FST...
+@... but _not_ with an HST. |Irvine v Sullivan|.
+
+
+SUMMARY *Prerequisites for all STs*
+@Intention, Communication and Acceptance, which can be by silent acquiescence. |Kasperbauer v Griffiths|.
+
+SUMMARY *Trustee Predeceases Testator*
+@The presumption is that this invalidates an FST. |Re Maddock|, 1902. 
+@Virgo argues that this should _not_ be the case for HSTs, on the maxim of |equity not allowing a trust to fail for wont of trustees|.
+
+SUMMARY *Formalities in FSTs?*
+@In |Ottaway v Norman|, the question of S53(1)(b) was _not addressed_.
+@In |Brown v Pourau| in New Zealand in 1995, it was said obiter that in England, a secret trust of land _does_ need formalities.
+
+SUMMARY *Rules for FSTs*
+/_Communication_ --
+@ The trustee accepted if they _didn't_positively reject_ the terms. |Moss v Cooper|. 
+@ Any time before the settlor croaks, including after execution of the will. |Walgrave v Tebbs|, but cf. timing in HSTs.
+@ Not only communicated _by_ the settlor, but _to_ the trustee. |Walgrave v Tebbs|.
+@ Must be of the terms, not merely the _fact_ of trusteeship. |Re Boyes|.
+SUMMARY _Beneficiaries_ --
+@No rule prevents a trustee being a beneficiary.
+
+
+SUMMARY *Rules for HSTs*
+@Necessarily stricter than for FSTs, as the face of the will declares the existence of a trust.
+
+SUMMARY _Communication_ --
+@ Terms must be communicated to the trustee _before_ or _at the same time_ as the making of the will. 
+@ _Afterwards_ would be the modification of an (implicit) term in the will, which would be invalid under &g&S9 Wills Act 1837&g&, which requires modifications to take place by codicil.
+@ But there may be a day or two's leeway. |Blackwell v Blackwell|.
+@ In |Re Keen|, the terms had already been communicated, but the will said the terms would be given in the future -- this didn't defeat the will. 
+@@ "Sailing under sealed orders," i.e., trustee given an envelope they aren't to open until the settlor snuffs it, does not defeat _communication_. 
+@ A letter written _before_, but given _after_ execution of the will was _invalid_. |Re Bateman|.
+@ _No other commonwealth jurisdiction uses this communication rule, and all the academics think it’s indefensible._
+SUMMARY _Beneficiaries_ --
+@ Trustees may *not* also be beneficiaries. |Re Rees|.
+
+SUMMARY _Modification_ --
+@ Not only must a codicil be executed, but the modifications must be communicated beforehand to the trustee. 
+
+
+NAME Secret Trusts - Theory
+TYPE Concept
+CATEGORY Secret Trusts
+SUMMARY So why exactly _do_ the courts uphold these socially and fiscally perverse trusts?
+@ They're older than the statute of Frauds (1677), thus they predate _all_ statute on formalities.
+@ Depending on the academic/judge:
+@@ They’re resulting trusts.
+@@ They’re constructive trusts.
+@@ They’re express trusts.
+@@ They’re _dehors the will_, having nothing to do with it at all.
+
++ *Fraud _Prevention_*
+@@ This comes along about 200 years after the judges start upholding them, as a matter of, just about, good conscience.
+@@ In the C19th, in McCormick v Grogan, UKHL logic ‘if we don’t uphold fully secret trusts, the intended FSTrustee will have committed fraud, as they will have accepted obligation of trusteeship then allowed testator to die believing his wishes will be upheld.’ Which makes a kind of screwball sense. ‘If the secret beneficiaries know about it (they usually do), then they should be able to sue. Otherwise it would be fraud against them.’ Rather circular.
+@@ |Equity will not allow a statute to be a cloak for fraud|, therefore the Wills Act or LPA 1925 must be disapplied.
+@@ This is arguing that fraud-prevention statutes should not be applied, in order to prevent fraud.
+%This explanation *doesn't work well for HSTs*, which do not need to be upheld to prevent the trustee committing fraud. 
+
+SUMMARY The leading case doesn’t even have a valid FST in it -- the will in |McCormick v Grogan| is three lines long.
+@ A letter and a will, in a drawer. ‘Here are the people for whom to hold this, but do as you think I would if I were still alive.’
+@ So strictly speaking the ratio of |McCormick v Grogan| is, um, obiter dicta.
+@ Cf. judgements of Lord Hatherley LC and Lord Westbury, both originally criminal lawyers, getting confused between civil and criminal lawyers.
+@@ Having to be intention to deceive testator. (More than needed for criminal law)
+
+SUMMARY *To uphold a secret trust, you need to be able to demonstrate that doing otherwise would allow fraud.  Not that fraud has actually happened.*
+
+
++2 Secret Trusts operate Outside the Will
+/Or _dehors the will_ (not to be pronounced correctly).
+SUMAMRY Thsi has it that both kinds of STs are really established _inter vivos_, independently of the will. It is only the _constitution_ of the trust that takes by consequence of the will. $!Ricket [1996] Conv 203!$. Acknowledged by Megarry VC in |Re Snowden|.
+
+SUMMARY *Purpose of S53*
+@ To protect landowners from spurious claims of transfer.
+@ To raise stamp duty.
+@ To 

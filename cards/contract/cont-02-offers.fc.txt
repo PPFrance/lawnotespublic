@@ -1,0 +1,252 @@
+META-SUBJECT contract
+META filename herling-02-offers.fc.txt
+
+
+
+
+
+NAME Offers
+TYPE Concept
+CATEGORY Offers
+SUMMARY *Objective View of Offer*
+@Intention assessed *objectively* |Smith v Hughes|.
+@Offers made under a misapprehension as to _attribute_ of subject matter, about which no term provides, are binding: |Rose v Pim|.
+/... even if offeree _knew_ of offeror's mistake, but did _not_ think offeror misunderstood a _term_. |Smith v Hughes| again.
+@Harsh in how it dispenses with the honestly mistaken, but if the validity of an offer were a matter of the offeror's _subjective_ intention, then the offer's validity -- along with the validity of any contract arising from it -- would be radically deprived of certainty.
+
+SUMMARY *Snapping-up*
+/_Shows absence of ad idem, therefore voids. |Hartog v Colin & Shields|, |Centrovincial|. Or offeree's dishonesty, especially in censorious countries -- |DigilandMall.com|._
+
+@The finding that an offeree knew or could reasonably be said to have known that a *term* of the offer was made in error (rather than merely an assumption), is a prima facie demonstration of the absence of consensus ad idem (|Hartog v Colin & Shields|, |Centrovincial|).
+@The moral wonkiness shown by the offeree in having taken advantage of the unintended skewing of the bargain in their favour, was not thought of as important to this analysis, although much was made of it in |DigilandMall.com|.
+
+
+SUMMARY *Invitation to Treat*
+/_Ads in print, |Partridge v Crittenden|, window displays, |Fisher v Bell|, and price-lists, |Grainger v Gough| --  all usually invitations to treat, not offers._
+
+@Distinguished from offer by the *intention* of the statement's maker  (|Treitel 2-006|).
+@Adverts do *not* usually amount to offers (|Partridge v Crittenden|).
+@A published price-list (lacking "subject to availability") is not an offer to be accepted by placing an order (|Grainger v Gough|)
+@@To prevent turning excess orders into potential suits for non-completion.
+@@Trietel (2-010 footnote) -- different if only made to one individual?
+@Priced goods in shop windows are invitations to treat (|Fisher v Bell|).
+@@If they were offers, a shopkeeper could not refuse to serve you, turf you out of his shop, etc.
+
+SUMMARY *Self-Service*
+/_In shop, offer made by customer at checkout, |Boots Cash Chemists|.  Ticket machine makes offer, coins accept |Thornton v Shoe Lane Parking|.  Contract concluded at start of perf, |Chapleton v Barry|._
+
+@*Shops*
+@@Putting goods in basket prepares you to make an offer for them at the checkout (|Boots Cash Chemists|).
+@@But having some cheese sliced and wrapped up at the cheese counter may be to have concluded a contract to pay for it. 
+@*Machines*
+@@A ticket machine makes the offer; putting in money accepts it (|Thornton v Shoe Lane Parking|).
+@*Other Arrangements*
+@@The availability of a service for which payment is potentially sought only _after_ use of the service has begun is the offer; beginning to use the service accepts it (|Chapleton v Barry|).
+@@Were the availability of the service merely an invitation to treat and beginning to use it, an offer offer, acceptance for which was collection of payment the acceptance, then payment for the use until that point would _not_ be enforceable.
+
+
+SUMMARY *In Unilateral Contracts*
+/_Promise of reward for a specific action is an offer -- |Carlill|._
+
+
+SUMMARY *For Land*
+/_Intention not imputed lightly for land trx |Harvey v Facey|.  Vagueness defeats finding intention -- |Clifton v Palumbo|.  Wording of docs fundamental -- |Gibson v Manchester|._ 
+/
+@Each piece of land considered unique -- threshold for imputation of intention to deal in it is consequently high. |Harvey v Facey|.
+@As the sums involve grow, so does the presumption that vagueness amounts to invitation, not offer and acceptance. |Clifton v Palumbo|.
+@The wording of the documents cannot be ignored in favour of the context. |Gibson v Manchester|.
+
+
+SUMMARY *In Auctions*
+/_Bid is offer, gavel acceptance -- |Payne v Cave|.  Ad for auction w/o reserve, unilateral offer; highest bid, acceptance -- |Warlow v Harrison|, |Barrie v Davies|. _   
+/
+@Placing a bid is making an offer. It is accepted when the gavel comes down, and until then, can validly be withdrawn (|Payne v Cave|).
+@The announcement of a sale by auction to the highest bidder _without reserve_ is a unilateral offer, acceptance for which comes in the placing of the highest bid (|Warlow v Harrison|, |Barrie v Davies|).  
+@Without such a stipulation, an advert for specific goods to be sold at auction is _not_ a unilateral offer (|Harris v Nickerson|).
+@@So as to allow them to be withdrawn from sale without making the auctioneer liable for travel expenses of all those who came by reason of advert.
+
+SUMMARY *In Tenders*
+/_Invitations to treat, unless promise to sell to highest bidder -- |Spencer v Harding|.  Conditions may mean unilateral offer to consider -- |Blackpool and Fylde|.  Bid referencing other bid invalid -- |Harvella|._ 
+/
+@Invitations to submit bids are invitations to treat, unless they evince intention to sell to the highest (|Spencer v Harding|).
+@Should complex conditions be placed on the bids to be submitted, such an invitation may be a unilateral offer to open and examine such bids (|Blackpool and Fylde|).
+@A sealed bid in terms of another sealed bid fundamentally undermines the idea of sealed bids, and so is invalid. |Harvella v Royal Trust of Canada|.
+
+
+
+NAME Smith v Hughes
+FLAGS Key
+CITATION Smith v Hughes (1871) LR 6 QB 597
+CATEGORY Offers; Objective Determination of Intention
+HELD Parties to a contract are deemed to have contracted under terms that can be objectively determined, rather than according to their subjective beliefs.  An offeror's mistaken assumption about an attribute of the subject matter _not_ stipulated in the terms does not give a good cause of action, even should the offeree know of the other party's mistaken assumption. (Should the mistaken assumption concern an attribute of the subject matter _provided for by the terms_, on the other hand, the offeree's acceptance will not be valid, see |Hartog|.)
+
+
+NAME Rose v Pim
+CITATION Rose v Pim [1953] 2QB 450
+CATEGORY Offers; Objective Determination of Intention
+FLAGS Key
+SUMMARY Feves, feveroles and fevettes.  
+HELD An offeror who takes bad advice, on the basis of which makes an incorrect assumption about an attribute of the subject matter for which no contractual term provides, does _not_ have a cause of action against the party who gave the advice.
+
+
+
+NAME Hartog v Colin & Shields
+AKA Hartog
+CITATION Hartog v Colin & Shields [1939] All ER 566
+CATEGORY Offers; Objective Determination of Intention
+FLAGS Key; Treitel; McKendrick
+SUMMARY The Argentinian hare skins case.
+HELD A term of an offer made in error, having the effect of skewing the bargain considerably in favour of the offeree, will not be held to be valid, should the offeree snap it up, knowing or strongly suspecting the offeror's mistake _as to a term_. Cf. situation in which mistake is as to *assumption* for which there is no term.  
+
+NAME Centrovincial v Merchant Investors
+CITATION Centrovincial Estates v Merchant Investors Assurance Company Ltd [1983] Com LR 158
+CATEGORY Offers; Objective Determination of Intention
+HELD A mistake in the terms of an offer, of which it would be reasonable say the offeree must have realised was a mistake, will negative consensus ad idem and voiding the contract. However, as this is a matter of fact to be established in court, and an application for summary judgment on such grounds will therefore fail.
+
+NAME Chwee Kin Kong v DigilandMall.com
+AKA DigilandMall.com
+FLAGS Key
+CITATION Chwee Kin Kong v DigiLandMall.com [2004] SGHC 71
+CATEGORY Offers; Objective Determination of Intention
+HELD By contrast to earlier cases in which the morality of an offeree's taking advantage of an offeror's mistake, about which he knew or could be said to have known, was of negligible importance, the unconscionable "indecent haste" of those accepting such offers "in the dead of night" may be of more relevance to snapping-up cases in modern times.
+
+
+
+NAME Partridge v Crittenden
+CITATION Partridge v Crittenden [1968] 1 WLR 1204
+CATEGORY Offers; Distinguished from Invitation to Treat; Generally
+FLAGS Key
+HELD An advert in a newspaper with a brief description and a price is an invitation to treat, not an offer.
+
+
+
+NAME Fisher v Bell
+CITATION Fisher v Bell [1961] 1 QB 394
+CATEGORY Offers; Distinguished from Invitation to Treat; Generally
+FLAGS Key
+HELD A display in a shop window is an invitation to treat, not an offer. 
+
+
+
+NAME Grainger v Gough
+CITATION Grainger & Sons v Gough (Surveyor of Taxes) [1896] AC 85
+CATEGORY Offers; Distinguished from Invitation to Treat; Generally
+FLAGS Treitel
+HELD A published price list is an invitation to treat, not an offer -- for the solid commercial reason of not turning unfulfillable orders into lawsuits for non-completion.
+
+
+
+NAME Boots Cash Chemists
+CITATION Pharmaceutical Society of Great Britain v Boots Cash Chemists (Southern) Ltd [1953] 1 QB 401
+CATEGORY Offers; Distinguished from Invitation to Treat; Generally
+FLAGS Key
+HELD Taking goods off shelves and placing them in your basket is to prepare to make an offer to buy them at the checkout.
+
+
+NAME Thornton v Shoe Lane Parking
+CITATION Thornton v Shoe Lane Parking [1971] 2 QB 163
+CATEGORY Offers; Distinguished from Invitation to Treat; Generally
+FLAGS Key; Denning
+HELD When a machines dispenses tickets in exchange for money, the machine makes the offer, which is accepted by the putting in of money. Terms incorporated afterwards, such as printed on the ticket, are not validly incorporated.
+
+
+
+
+NAME Chapelton v Barry
+CITATION Chapelton v Barry Urban District Council [1940] 1 KB 532
+CATEGORY Offers; Distinguished from Invitation to Treat; Generally
+FLAGS Key
+HELD In arrangements where it may not come to the attention of the provider of a service that the service is being used until _after_ that performance begins, the contract is nevertheless concluded when the performance of the service _begins_, and not at the point where payment is sought. The availability of the service constitutes the offer, the act of beginning to use it, the acceptance. Terms may not ordinarily be incorporated, therefore, when payment is sought.  
+HELD If the availability of the service were merely an invitation to treat, and the act of beginning to use it constituted the offer, accepted by the collection of payment, the user would retain locus poenitentiae until that point. This analysis would militate against such arrangements for providing services.
+
+
+
+
+
+NAME Carlill v Carbolic Smoke Ball Company
+AKA Carlill
+CITATION Carlill v Carbolic Smoke Ball Company [1893] 1 QB 256
+CATEGORY Offers; Distinguished from Invitation to Treat; In Unilateral Contracts
+FLAGS Key
+HELD An advertisement promising a reward for the performance of a specific action is not a puff nor an invitation to treat, but a unilateral contract, binding on the parties on valid performance as stipulated.
+
+
+
+NAME Harvey v Facey
+CITATION Harvey v Facey [1893] AC 552
+CATEGORY Offers; Distinguished from Invitation to Treat; Contracts Involving Land
+HELD As the law deems each plot of land unique, the courts will not impute intention to dispose of it lightly.
+
+
+
+NAME Clifton v Palumbo
+CITATION Clifton v Palumbo [1944] 2 All ER 497
+CATEGORY Offers; Distinguished from Invitation to Treat; Contracts Involving Land
+FLAGS Key
+HELD When the subject matter is land, the higher the sums involved, the more vagueness will militate against the presumption of intention to contract.
+
+
+
+NAME Gibson v Manchester
+CITATION Gibson v Manchester City Council [1978] 1 WLR 520
+CATEGORY Offers; Distinguished from Invitation to Treat; Contracts Involving Land
+FLAGS Key; Denning; Diplock
+HELD Although on appeal Lord Denning had construed the whole course of dealing as forming the contract, the Lords held the wording 'may be prepared' vitiated finding a letter in a land transaction constituted an offer.
+
+
+NAME Payne v Cave
+CITATION Payne v Cave (1789) 3 Durn & E 148
+CATEGORY Offers; Distinguished from Invitation to Treat; Sales by Auctions
+FLAGS Key
+HELD A bid made in an auction is an offer. Should it be the highest, it is accepted when the gavel comes down.
+
+
+NAME Harris v Nickersen
+CITATION Harris v Nickersen (1873) LR 8 QB 286
+CATEGORY Offers; Distinguished from Invitation to Treat; Sales by Auctions
+FLAGS Key
+HELD An advertisement for the sale of specific goods at auction does _not_ form a unilateral offer which is accepted by attendance. Otherwise, the auctioneer would be liable for breach to all those who "accepted" by showing up.
+
+
+
+NAME Warlow v Harrison
+CITATION Warlow v Harrison (1859) 1 E & B 309
+CATEGORY Offers; Distinguished from Invitation to Treat; Sales by Auctions
+HELD The advertisement of a sale by auction _without reserve_ is a unilateral offer, accepted by the highest bid. 
+
+
+
+
+
+NAME Barry v Davies
+CITATION Barry v Davies [2000] 1 WLR 1962
+CATEGORY Offers; Distinguished from Invitation to Treat; Sales by Auctions
+FLAGS Key
+HELD Modern authority for advertisements of a sale by auction without reserve being unilateral offers accepted by placing the highest bid.
+
+
+
+
+NAME Spencer v Harding
+CITATION Spencer v Harding (1870) LR 5 CP 561
+CATEGORY Offers; Distinguished from Invitation to Treat; Sales by Tender
+FLAGS Key
+HELD An invitation to submit tenders for purchase lacks contractual character and, forbidding promises amounting to a unilateral contract to sell to the highest bidder, is not a unilateral contract.
+
+
+NAME Blackpool and Fylde
+CITATION Blackpool and Fylde Aeroclub Ltd v Blackpool Borough Council [1990] 1 WLR 1195
+CATEGORY Offers; Distinguished from Invitation to Treat; Sales by Tender
+FLAGS Bingham
+FLAGS Key
+HELD An invitation to submit tenders conforming to certain criteria until a certain date, after which they will be examined, has made a unilateral offer promising the opening and consideration of the bids in exchange for their timely and conforming submission. No promise, however, is implied about which will ultimately be accepted.
+
+
+
+
+NAME Harvela v Royal Trust of Canada
+AKA Harvela
+CITATION Harvela Investments Ltd v Royal Trust of Canada Ltd [1986] AC 207
+CATEGORY Offers; Distinguished from Invitation to Treat; Sales by Tender
+SUMMARY Sir Leonard Outerbridge submitted a bid of '$2,100,000 or $101,000 in excess of any other offer.'  
+HELD When an invitation is made to submit closed bids promises to sell to the highest bidder, a bid putting itself in terms of _another_ bid will not be valid.

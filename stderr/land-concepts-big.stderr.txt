@@ -1,0 +1,5 @@
+META tag encountered, content of meta dict is now "{u'subject': u"'land'"}".
+META tag encountered, content of meta dict is now "{u'defcols': u"'5'", u'subject': u"'land'"}".
+META tag encountered, content of meta dict is now "{u'defcols': u"'5'", u'enableTests': u'true', u'subject': u"'land'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'5'", u'enableTests': u'true', u'subject': u"'land'"}".
+ *** Word count (in SUMMARY and HELD fields): 98452.

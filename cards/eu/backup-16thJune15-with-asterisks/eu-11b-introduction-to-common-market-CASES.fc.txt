@@ -1,0 +1,189 @@
+
+#NAME Van Gend en Loos v Nederlandse Administratie der Belastingen
+#AKA Van Gend
+#CASENUM C-26/62
+#CITATION Van Gend en Loos v Nederlandse Administratie der Belastingen [1963]
+#CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions;  Fiscal Restrictions; Art 30 TFEU
+#FLAGS NL
+#HELD TODO!
+
+
+
+
+NAME Commission v Italy (Art Treasures)
+AKA Art Treasures
+CASENUM C-7/68
+CITATION Commission v Italy (re: Art Treasures) [1968] ECR 423:
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Art 30 TFEU; Customs Duties
+FLAGS EU; IT
+HELD Anything that can be the subject of a commercial transaction, however valuable, rare or important, is intended to be covered by the restriction of charges of equivalent effect to customs duties under |Art 30 TFEU|.
+
+
+
+NAME Commission v Italy (Statistical Data Levy)
+CASENUM C-24/68
+AKA Statistical Data Levy
+CITATION Commission v Italy (Statistical Data Levy) [1969] ECR 193:
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions;  Art 30 TFEU; Customs Duties
+FLAGS EU; IT
+HELD Any pecuniary charge imposed on goods because they have crossed a border, however small, and irrespective of the purpose of the charge, is prohibited by |Art 30 TFEU| as a charge of equivalent effect to a customs duty.
+HELD From judgment -- "7. It follows from the system as a whole and from the *general and absolute nature of the prohibition* of any customs duty applicable to goods moving between Member States that *customs duties are prohibited independently of any consideration of the purpose* for which they were introduced and the destination of the revenue obtained therefrom. 
+HELD The justification for this prohibition is based on the fact that any pecuniary charge, however small, imposed on goods by reason of the fact that they cross a frontier constitutes an obstacle to the movement of such goods".
+
+
+
+
+
+NAME Commission v Italy C-173/05
+CASENUM C-173/05
+CITATION Commission v Italy [2007] ECR I
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Art 30 TFEU; Customs Duties
+FLAGS EU; IT
+HELD TODO
+
+
+
+
+
+NAME Cadsky
+CASENUM C-63/74
+CITATION W Cadsky SpA v Istituto Nazionale per il Commercio Estero [1975] ECR
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Art 30 TFEU; Charges for Services Rendered
+FLAGS IT
+HELD A system of compulsory inspection/certification of goods imported into a member state, for which a charge is levied, is not exempt from prohibition under Art 30 just because the recipient of the charge is not itself a limb of the state. 
+HELD Operative part of judgment -- "A charge imposed by reason of the crossing of a frontier, relating to a mandatory inspection of the quality of products for export and resulting in the issue of a certificate and in the affixing of a national export stamp, constitutes a charge having an effect equivalent to a customs duty on exports, as prohibited in trade between the original Member States with effect from 1 January 1962 in pursuance of Article 16 of the Treaty, and this applies even if the recipient of the revenue from the charge is a body distinct from the State."
+
+
+
+NAME Bresciani v Italian Finance Administration
+AKA Bresciani
+CASENUM C-87/75
+CITATION Bresciani v Italian Finance Administration [1976] ECR 129
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions;  Art 30 TFEU; Charges for Services Rendered
+FLAGS IT
+SUMMARY The Italian government imposed a charge on importers of vegetable produce, to carry out inspections at the border, for the protection of public health.
+HELD A charge levied at the border, whatever it's called and however it's applied, does not escape the ambit of |Art 30 TFEU|'s prohibition by justification on grounds of public health -- even if that justification is reasonable and in the public interest.
+HELD From the judgment -- "1. *Whatever its designation and mode of application*, a pecuniary charge which is imposed unilaterally on goods imported from another Member State when they cross a frontier constitutes a charge having an effect equivalent to a customs duty."
+
+
+
+
+
+NAME Bauhuis v Netherlands
+CASENUM C-46/76
+CITATION Bauhuis v Netherlands [1977] ECR 5:
+AKA Bauhuis
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions;  Art 30 TFEU; Charges from Obligations under EU Law
+FLAGS NL
+SUMMARY Were charges for obligatory veterinary inspections of livestock entering the Netherlands an infraction of |Art 30 TFEU|?
+HELD Charges having equivalent effect of customs duties, which would be prohibited by |Art 30 TFEU| if they were imposed by member states, do *not* infringe Art 30 if they are prescribed by EU law, because they apply to all, equally. Therefore, the compulsory charge in question, for veterinary inspections for public health purposes, is not a breach of Art 30.
+
+HELD From the judgment -- "28. These measures are laid down unilaterally by each Member State but have been made obligatory and uniform in the case of all the products in question whichever the exporting Member State or the Member State of destination may be.   
+/->-29. On the other hand, they are not prescribed by each Member State in order to protect some interest of its own but by the Council in the general interest of the Community.   
+/->-30. *They cannot therefore be regarded as unilateral measures which hinder trade but rather as operations intended to promote the free movement of goods*, in particular by rendering ineffective the obstacles to this free movement which might be created by the measures for veterinary and public health inspections adopted pursuant to Article 36.   
+/->-31. In these circumstances *fees charged for veterinary and public health inspections*, which are *prescribed by a Community provision*, which are uniform and are required to be carried out before despatch within the exporting country do not constitute charges having an effect equivalent to customs duties on exports, provided that they do not exceed the actual cost of the inspection for which they were charged."
+
+
+
+
+
+NAME Commission v The Netherlands
+AKA Commission v NL
+CASENUM C-89/76
+CITATION Commission v The Netherlands [1977] ECR 1355
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions;  Art 30 TFEU; Charges from Obligations under International Law
+FLAGS EU; NL
+HELD As per |Bauhuis|, charges equivalent to customs duties are *not* prohibited by |Art 30 TFEU| if they are imposed in pursuit of a requirement under International law.
+
+
+
+
+
+NAME Commission v France
+CASENUM C-168/78
+CITATION Commission v France [1980] ECR 347:
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions;  Art 110 TFEU; Fiscal Autonomy of Member States
+FLAGS EU; FR
+HELD Although member states have fiscal autonomy, and can levy the taxes they please, |Art 110 TFEU| has an obligation of *fiscal neutrality*, i.e., the origin of products must be irrelevant to the imposition of the tax.
+HELD From the judgment -- "4. [The provisions of Article 90 EC] supplement, within the system of the Treaty, the provisions of the abolition of customs duties and charges having equivalent effect.  Their aim is to ensure free movement of goods between the Member States in normal conditions of competition by the elimination of all forms of protection which result the application of internal taxation which discriminates against products from other Member States.  ... *[|Art 110 TFEU|] must guarantee the complete neutrality of internal taxation as regards competition between domestic products and imported products*.
+
+
+NAME Capolongo v Maya
+AKA Capolongo
+CASENUM C-77/72
+CITATION Capolongo v Maya [1973] ECR 611:
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions;  Art 30 TFEU; Art 110 TFEU
+FLAGS
+SUMMARY Capolongo had bought very many eggs from Maya, delivered in cardboard containers. The invoice charged him with a sum of 2,908 lire for a 1.75% tax described as _Contributo Ente Nazionale per la Cellulosa e per la Carta_, levied on *the packaging*, which'd been imported from Germany. But was this domestic Italian tax equivalent in effect to a customs duty discriminating against foreign products, and therefore prohibited by |Art 30 TFEU|?
+HELD Financial charges applied within a general system of *internal taxation*, which apply systematically to *domestic and imported* products according to the sames criteria, are *not* to be considered as prohibited by |Art 30 TFEU|. *Unless* -- the destination of the money levied supports *domestic products*. For them, it effectively offset some of the charge -- a benefit an import subject to the charge would *not have received*. Should that be the case, the charge *may indeed be prohibited* under Art 30.
+
+
+
+NAME Bobie Getraenkevertrieb v Hauptzollamt Aachen-Nord
+AKA Bobie
+CASENUM C-127/75
+CITATION Bobie Getraenkevertrieb v Hauptzollamt Aachen-Nord [1976] ECR
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Art 110 TFEU
+FLAGS DE; NL
+SUMMARY A German tax on beer charged a flat-rate of 14.5DM on *imports*, whereas domestic producers paid on a sliding scale, from 12 to 15 DM. The measure could in effect discriminate *against* a large domestic producer to the tune of 50 pfennigs per unit. 
+HELD |Art 110 TFEU| is infringed when the rules by which a tax is calculated differ when applied to imported as to domestic products, even if the differential effect is very small in practice -- and even if the resulting discrimination is against *domestic* producers. 
+
+
+NAME John Walker v Ministeriet for Skatter
+AKA Johnny Walker
+CASENUM C-243/84
+CITATION John Walker v Ministeriet for Skatter [1986] ECR 875
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Art 110 TFEU; Meaning of Similarity
+FLAGS SCO; GB; DK
+SUMMARY Danish legislation imposed a higher tax on grain-based spirits, than on fruit-based liquor wine (up to 23% abv), of which Denmark was quite a producer. Johnny Walker saw this as thinly-veiled protectionism, preventing them from competing against such domestically-produced drinks. They argued argued that Whiskey was less of a grain-based spirit, more of a fruit-based wine -- according to the intention of |Art 110 TFEU|, that is.
+HELD When deciding whether one thing is similar to another for the purposes of |Art 110 TFEU|, it may be useful to employ the common-sense test of whether the man on the Copenhagen trolleybus would accept the one thing as a substitute for the other.
+
+
+
+
+NAME Humblot v Directeur des Services Fiscaux
+AKA Humblot
+CASENUM C-112/84
+CITATION Humblot v Directeur des Services Fiscaux [1985] ECR 1367:
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions;  Art 110 TFEU
+FLAGS FR
+SUMMARY Almost all the cars qualifying for the punitive spike at the end of the French _Cheveux Fiscale_ scale of car tax, were imported rather than French-made.
+HELD A tax measure which, in practice, applies chiefly to imported products, is contrary to the prohibition on indirect tax discrimination of |Art 110 TFEU| para 1.
+
+
+
+NAME Commission v UK (Wine and Beer)
+CASENUM C-170/78
+AKA Wine and Beer
+CITATION Commission v UK (Wine and Beer) [1983] ECR 2265
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Art 110 TFEU; Competing Products
+FLAGS EU; GB
+SUMMARY The UK had low tax on beer, high tax on wine. The Commission considered this discriminated against imported products -- wine almost exclusively imported. The UK said this was because people *liked* beer, and *did not* like wine, neglecting to consider which way round the arrow of causation pointed between the tax rate and the popularity.
+SUMMARY Five years ago, the Breweries Commission noted that wine had now overtaken beer in the UK, and that therefore the tax on beer should go down. And now, there's lots of drinkable domestic wine.
+HELD National legislation may not crystallize consumer habits. 
+
+
+
+
+
+NAME Chemial Farmaceutici v DAF
+AKA Chemial
+CASENUM C-140/79
+CITATION Chemial Farmaceutici v DAF [1981] ECR 1:
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Art 110 TFEU; Public Policy Justification
+FLAGS
+SUMMARY Italian legislation on the production of alcohol distinguishing between fermentation and synthesis, dissuading producers from relying on petroleum, so it would be reserved for more important uses. No domestic producers, however, used the penalised method. Therefore, surely, |Art 110 TFEU| rendered this part of Italy's tax regime illegal?
+HELD If an internal tax, of equal application to domestic producers and imports, has a discriminatory effect under |Art 110 TFEU| para 1, but the economic policy goal it pursues is *compatible with EU law*; and if the detail of the tax contains no direct or indirect discrimination, then it *may* be an exception.
+COMMENT It's hard to see why France didn't invoke this in |Humblot|.
+
+
+NAME Joustra
+CASENUM C-5/05
+CITATION Joustra [2006] ECR I
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Directive on Excise Duty; Collective Purchase; Personal Use or Business Import
+FLAGS NL; Spirit 
+SUMMARY Joustra, a Dutchman, had the annual habit of organising a collective purchase of wine. His pals would come, reimburse him, then pick up their share. All very convivial and amicable. This went on merrily for a few years, until the Dutch authorities pointed out that it didn't seem to them like a situation of *personal* import. For one thing, he hadn't transported the drink himself.  
+HELD It would be absurd to require importers for personal use (under Article 7 of the |Directive on Excise Duty|) to carry the goods across the border themselves. That would be *against the spirit* of encouraging free movement. There may, however, be a gap between private imports under Art 7 and commercial imports under Art 8. But that gap is not inhabited by a *collective purchase* on which no profit is made. 
+HELD Operative part of judgment -- "|Directive on Excise Duty| ... on the general arrangements for products subject to excise duty and on the holding, movement and monitoring of such products, as amended ... must be construed as meaning that where, as in the case in the main proceedings, a *private individual* who is *not operating commercially or with a view to making a profit* acquires in one Member State, for his own personal requirements and those of other private individuals, products subject to excise duty which have been released for consumption in that Member State and arranges for them to be transported to another Member State on his behalf by a transport company established in that other State, *Article 7 of that Directive, and not Article 8 thereof, is applicable*, with the result that excise duty is also to be levied in that other State. Under Article 7(6) of the Directive, the excise duty paid in the first State is, in such a case, to be reimbursed in accordance with Article 22(3) of the Directive."
+
+

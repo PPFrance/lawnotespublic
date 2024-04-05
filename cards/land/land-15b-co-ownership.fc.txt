@@ -1,0 +1,76 @@
+CATEGORY-DEFAULT Co-ownership; Joint Tenancy
+
+NAME Gould v Kemp
+CATEGORY Co-ownership; Joint Tenancy
+HELD When a joint tenant dies, his share cannot be "left" as part of his estate. A clause in a will purporting to do so is inoperative. 
+
+NAME Antionades v Villiers
+CATEGORY Co-ownership; Joint Tenancy
+HELD There may well be unity of title despite contracts being signed on different days. In such circumstances, they may be read together.
+
+NAME Laskar v Laskar
+CATEGORY Co-ownership; Quantification
+CITATION Laskar v Laskar (2008)
+HELD Payments to the acquisition mortgage is enough for the establishment of a resulting trust.
+
+NAME Curley v Parkes
+CATEGORY Co-ownership; Quantification
+HELD Solicitor's fees, removal fees, etc, are insufficient grounds to quantifying a share of co-ownership by means of a resulting trust 
+
+NAME Pettitt v Pettitt 
+CITATION Pettitt v Pettitt (1970) 
+CATEGORY Co-ownership; Quantification
+HELD For the purposes of quantification of a share of equitable co-ownership by means of a common intention constructive trust, having done DIY was _not_ evidence from which a common-intention to co-own could be found.
+
+NAME Gissing v Gissing
+CITATION Gissing v Gissing (1971)
+CATEGORY Co-ownership; Quantification
+HELD The provision of white goods was not evidence from which common intention to establish equitable co-ownership could be found.
+
+NAME Lloyd's v Rosset
+AKA Rosset
+CATEGORY Co-ownership; Quantification
+HELD Common intention could be shown either by *objective evidence*, or *express assurance*, but, per Lord Bridge, by no other means.
+
+NAME Stack v Dowden 
+AKA Stack
+CITATION Stack v Dowden (2007)
+CATEGORY Co-ownership; Quantification
+HELD For the purpose of quantifying shares of equitable co-ownership by means of common intention constructive trust, common intention could validly be *inferred from the whole conduct* of the parties. 
+
+NAME Jones v Kernott
+AKA Kernott
+CITATION Jones v Kernott (2012)
+CATEGORY Co-ownership; Quantification
+HELD Not only can common intention be *inferred* from the parties' conduct -- it can also be *imputed*, if it could be said of the parties that, had they thought about it, they would have intended it.
+
+
+NAME Abbott v Abbott
+CITATION Abbott v Abbott [2007] UKPC 53
+CATEGORY Co-ownership; Quantification
+HELD Not only could *existing* shares of co-ownership be quantified by inferring common intention, but such shares could also be *established* by that means. (Privy Council for Australia)
+
+NAME Capehorn v Harris
+CITATION Capehorn v Harris [2015] EWCA Civ 955
+CATEGORY Co-ownership; Quantification
+HELD Courts must stop short of _imputing_ common intention of equitable co-ownership as a means of _acquiring_ it.
+
+NAME Barnes v Phillips
+CITATION Barnes v Phillips [2015]
+CATEGORY Co-ownership; Quantification
+HELD The difference between imputation and inference, may not be very great, when applied to the facts of a case.
+
+
+ 
+ 
+NAME Kinch v Bullard
+CATEGORY Co-ownership; Quantification
+HELD The notice to sever joint tenancy, as per S36(2) LPA 1925, need only be delivered, not read.
+
+NAME Burgess v Rawnsly
+CATEGORY Co-ownership; Quantification
+HELD A statutory notice to sever under S36(2) LPA must show an _immediate intention_, not an expression of desire.
+
+NAME Williams v Hensman
+CATEGORY Co-ownership; Quantification
+HELD Joint tenancy can be severed by (i) a legally-valid act on one's own share; (ii) mutual agreement, which can be oral; or (iii) mutual conduct.

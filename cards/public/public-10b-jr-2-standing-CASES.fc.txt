@@ -1,0 +1,118 @@
+
+
+
+
+NAME Ware v Regent's Canal Co 
+CITATION Ware v Regent's Canal Co (1858) 3 De G&J 212
+CATEGORY Judicial Review; Standing; Pre-Reform; Narrow Standing
+FLAGS Historical
+HELD If nobody can claim to have been unusually injured by the decision, then *no-one but the Attorney General* will have standing to challenge it.
+HELD Lord Chelmsford -- 'where there has been an excess of the powers given by an Act of Parliament, but *no injury* has been occasioned to any individual, or is imminent, and of irreparable consequences, I apprehend that *no one but the Attorney General*, on behalf of the public, has a right to apply to this court to check the exorbitance of the parties, in the powers confided to them.'
+/{Preach, sistah!}
+
+
+
+
+NAME Boyce v Paddington BC
+CITATION Boyce v Paddington Borough Council [1903] 1 Ch 109
+CATEGORY Judicial Review; Standing; Pre-Reform; Narrow Standing
+FLAGS Historical
+HELD Standing could be satisfied on *two* grounds. Either a *private legal right* of the applicant had been affected; or the applicant was *atypically and intensely affected* by the infringement of a public right.
+
+
+NAME R v IRC, ex p Nat. Federation of Self Employed and Small Businesses
+AKA Fleet Street Casuals
+AKA Mickey Mouse Case
+CITATION R v IRC, ex p National Federation of Self Employed and Small Businesses [1982] AC 617
+CATEGORY Judicial Review; Standing; Standing at Substantive Stage
+FLAGS Special Attention; Development; Denning
+SUMMARY Casual workers on Fleet Street, typically night-shift workers, would come in, potter about with cans of oil, spanners, and the like, then collect a pay-packet as they clocked-off in the morning. For this they had to give their name, address and signature. Reluctant to expose themselves to the IRC, they took to signing as, e.g., _Mickey Mouse_ of _Sunset Bvd_. Some time later, the revenue intervened, and proposed an _amnesty_, in return for the workers giving their true names and addresses in future. The National Federation of the Self Employed and Small Businesses, however, noisily protested that if any of _its_ members had systematically defrauded the IRC for a number of years, *they* would have been pursued, as Lord Denning put it, 'to the uttermost farthing.' 
+SUMMARY Was the federation's *sense of grievance* a *sufficient interest* for standing? 
+HELD Standing is a consideration at the substantive stage *as well as* the leave stage. At the substantive stage, standing is to be found in *proportion to the merit* of the challenge. Although |S31(3) SCA| might be read as confining consideration of standing to the leave stage, the fact that its text requires _'sufficient interest in the matter'_ (the matter only being glanced at during the leave stage) means it must be a consideration at the substantive stage as well. 
+HELD The claimant, therefore, did *not* have standing at the substantive stage, but the divisional court *had* been correct to find find it had standing for the leave stage.
+HELD Lord Scarman -- 'the federation, in having failed to show *any grounds* for believing that the Revenue have failed to do their statutory duty, has *not* in my view shown an interest sufficient in law to justify any further proceedings by the court on its application. Had it shown reasonable grounds for believing that the failure to collect tax from the Fleet Street Casuals was an abuse of the Revenue's managerial discretion, or that there was a case to that effect, which merited investigation and examination by the court, I would have agreed with the Court of Appeal that it had shown sufficient interest for the grant of leave to proceed further with its application.
+HELD On the subject of remedies, Lords Wilberforce and Diplock differed rather sharply. Had the pre-1978 differential tests for standing (on remedy) survived? 
+HELD Lord Wilberforce thought they *had*. 'We would be unwise in our enthusiasm for liberation from procedural fetters, to discard reasoned authorities.' I.e., the old rules were there for a reason, and one can't, as it were, _unlearn what they teach_. There was *good reason* that more standing was necessary for X than for Y.
+HELD Lord Diplock -- 'it would be a *grave lacuna* in our *system of public law* if a pressure group, like the Federation, or even a single public-spirited taxpayer, were prevented by outdated, technical rules of _locus standi_, from bringing the matter to the attention of the court, to *vindicate the rule of law*, and *get the unlawful conduct stopped*'. Which are strong words. N.B., Lord Diplock had been one of the architects of the new _system,_ and wasn't about to see it held back by technical concerns. 
+HELD The pendulum has swung around a bit, but Lord Diplock's view holds. 
+
+
+
+NAME R v HM Treasury, ex p Smedley
+CATEGORY Judicial Review; Standing
+CITATION R v HM Treasury, ex p Smedley [1985] 1 All ER 589
+HELD [_R v HM Treasury, ex p Smedley_ -- not mentioned in lecture, but present in handout.]
+
+NAME R v Felixstowe, ex p Leigh
+CITATION R v Felixstowe Justices, ex p Leigh [1987] QB 582
+CATEGORY Judicial Review; Standing
+SUMMARY A journalist had wanted to know the names of a bench of magistrates, but they'd refused to divulge them. He sought a declaration that magistrates *should not seek to perform their functions anonymously*, and a mandatory order to get their names. 
+SUMMARY 
+HELD In its discretion, the court  declaration was given, but not the mandatory order.
+
+NAME R v Welfare Secretary, ex p Child Poverty Action Group
+CATEGORY Judicial Review; Standing
+CITATION R v Secretary of State for Social Services, ex p Child Poverty Action Group [1989] 1 All ER 1048
+HELD [_R v Welfare Secretary, ex p Child Poverty Action Group_ -- not mentioned in lecture, but present in handout.]
+
+NAME Rose Theatre Trust
+CITATION R v Secretary of State for the Environment, ex p Rose Theatre Trust Co [1990] 1 QB 504
+FLAGS Special Attention
+CATEGORY Judicial Review; Standing
+SUMMARY The remains of the Rose Theatre were discovered during excavation. The Trust was formed, comprising actors, archeologists, and various assorted luvvies. It lobby for the remains to be scheduled. This was duly considered, but refused. The Trust sought a quashing order. 
+HELD (i) Standing cannot not be *cumulative*. Many instances of *insufficient* standing do not assemble themselves into a single instance of *sufficient* standing, however objectionable this may be to one's intuitions derived from the functioning of politics.  (ii) Being consulted by the decision maker does not _per se_ give rise to standing. Were it otherwise, there would be a strong disincentive against consultation. (iii) The requirement of |S31(3) SCA| is for *sufficient interest*. This means there may sometimes *not* be anyone with standing -- i.e., situations in which the executive could act without the check of JR. This is unfortunate, but Statute cannot be ignored.
+HELD The claim failed on standing, and on the merits of the case.
+
+
+NAME R v Secretary of State ex p Rees-Mogg
+CITATION R v Secretary of State for Foreign & Commonwealth Affairs, ex p Rees-Mogg [1994] 1 All ER 457
+AKA Rees-Mogg
+CATEGORY Judicial Review; Standing
+SUMMARY William Rees-Mogg claimed, for various reasons, that the signing of the Maastricht Treaty would be illegal. Did he have standing to bring the case?
+HELD A member of the public has standing to seek judicial review of the signing of a treaty. 
+HELD Standing was not at issue, and the court's opinion was that unquestionably, the proceedings had been brought from a sincere interest in constitutional affairs. Cf. |Rose Theatre Trust|.
+
+
+NAME R v HM Inspectorate of Pollution, ex p Greenpeace
+AKA Greenpeace
+CITATION R v HM Inspectorate of Pollution, ex p Greenpeace [1994] 3 All ER 329
+FLAGS Special Attention; Development
+CATEGORY Judicial Review; Standing
+SUMMARY A challenge to the decision to commission the Thorpe nuclear reprocessing facility in Cumbria. On the question of standing, Greenpeace advanced the argument that -- if *they* weren't allowed to bring the challenge, then *someone else*, presumably one of the blighters who lived in close proximity to the site, who would presumably be legally-aided, might bring a challenge instead. But their case would be less well-put, and they would be less likely to win. And should that happen, the recovery of the respondent's costs would be far harder than against a large and well-funded body such as the claimant. 
+HELD Being a respected, responsible charity, with a genuine concern in the matter -- and therefore being well-placed to mount a carefully-selected, focused, relevant and well-argued challenge, may go in favour of having standing. Consultation, by contrast to |Rose Theatre Trust|, may well be evidence in favour of standing.  
+
+
+
+NAME R v Environment Secretary, ex p Friends of the Earth
+CITATION R v Secretary of State for the Environment, ex p Friends of the Earth (1994) 7 Admin LR 26
+CATEGORY Judicial Review; Standing
+HELD [_R v Environment Secretary, ex p Friends of the Earth_ -- not mentioned in lecture, but present in handout.]
+
+
+
+
+NAME R v Foreign Minister, ex p World Development Movement
+AKA Pergau Dam
+CITATION R v Secretary of State for Foreign Affairs, ex p World Development Movement Ltd [1995] 1 WLR 386
+CATEGORY Judicial Review; Standing
+SUMMARY The much-admired World Development Movement, a body working to increase the quality and quantity of overseas aid given by the UK, challenged the legality of the government's decision to contribute funding to the Pergau Dam project in Malaysia, arguing that the decision had been shot through with flaws. Did they have standing to apply for judicial review?
+HELD The claimant had standing. This arose not from connectedness but from pragmatism, and the merits of the case. E.g., the rule of law was to be vindicated; the issues raised were of considerable importance importance; the odds of anyone else mounting a challenge were slim; the alleged breach was egregious; the claimant was prominent and well-respected. The merits, therefore, were the important, if not the *dominant* factor giving rise to standing.
+
+
+NAME R v Somerset, ex p Dixon
+CITATION R v Somerset County Council, ex p Dixon (1997) JPL 1030
+CATEGORY Judicial Review; Standing
+FLAGS Key
+HELD Sedley J -- 'the real question is whether the applicant can show *some substantial default or abuse* and not whether his personal rights or interest are involved.' As to the differential standing for remedies, he continued, the time was long gone when *doctrinal niceties* could distinguish them.
+
+NAME R v North Somerset, ex p Garnett
+CITATION R v North Somerset District Council and another, ex p Garnett [1997] JPL 1015	
+CATEGORY Judicial Review; Standing
+HELD [_R v Environment Secretary, ex p Friends of the Earth_ -- not mentioned in lecture, but present in handout.]
+    
+NAME R v Home Secretary, ex p Bulger
+CITATION R v Secretary of State for the Home Department, ex p Bulger [2001] 3 All ER 449
+CATEGORY Judicial Review; Standing
+HELD [_R v Environment Secretary, ex p Friends of the Earth_ -- not mentioned in lecture, but present in handout.]
+    
+

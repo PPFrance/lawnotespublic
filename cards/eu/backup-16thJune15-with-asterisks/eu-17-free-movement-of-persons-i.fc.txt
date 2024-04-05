@@ -1,0 +1,368 @@
+META filename eu-17-free-movement-of-persons-i.fc.txt
+
+
+NAME Free Movement of Workers - Summary
+TYPE Concept
+CATEGORY Free Movement of People; Workers
+SUMMARY The |Effectiveness and Scope of Art 45| is vertical *and horizontal* (|Walrave|, |Angonese|), and requires a border to be crossed (|Boukhalfa|). 
+SUMMARY The |Meaning of Worker in Art 45| requires the activity to be *genuine and effective* (|Levin|) not *marginal and ancillary* (|Raulin|). The activity has to be *economic* (|Bettray|) and *remunerated* (|Steymann|, even if very poorly |Kempf|), but can be *training* preparatory to genuine and effective work (|Bernini|). A jobseeker is a worker (|Antonissen|), but is not entitled to equal treatment w.r.t. welfare and tax (|Lebon|).
+SUMMARY |Restrictions on Free Movement of Workers| may discriminate *directly* (|Levin|) or *indirectly* (|Groener|, |Angonese|) or may be *indistinctly applicable* barriers to *entry* (|Bosman|) or *exit* (|Kranemann|)
+SUMMARY |Justifications for Discrimination under Art 45|(3) include public *policy* (|Bonsignore|, |Van Duyn v Home Office|), which may *not* be abused (|Adoui and Cornuaille|); *security* and *health*. 
+@The Art 45(4) exception for public servic* must be *proportionate* to the particulars of the job (|Commission v Belgium I|). 
+SUMMARY |Justifications for Indistinctly Applicable Measures under Art 45|, which must of course be proportionate, include *protection of culture* (|Groener|), and height of the  barrier imposed (|Kranemann|).
+ 
+NAME Article 45 TFEU
+TYPE Treaty
+AKA Art 45 TFEU
+CATEGORY Free Movement of People; Workers
+SUMMARY ~*Text*~
++Freedom of movement *for workers* shall be secured within the Union. 
++_This entails_ abolition of *any* discrimination based on *nationality* between workers of the member states as regards *employment, remuneration* and *other conditions of work* and employment.
++_It also entails_ the right, *subject to limitations* justified on grounds of public *policy*, public *security* or public *health*:  
+++to accept offers of employment actually made
+++to move freely within the member state's territory for that purpose
+++to stay in an MS for the purpose of *employment* in accordance with the provisions governing the employment of nationals of that State laid down by law, regulation or administrative action;
+++to *remain* in the territory of an member state *after* having been employed in that State, *subject to conditions* which shall be embodied in implementing regulations to be drawn up by the Commission.
++This article does not apply to employment in the public service.
+
+NAME Effectiveness and Scope of Art 45
+TYPE Concept
+CATEGORY Free Movement of People; Workers; Effectiveness and Scope of Art 45 TFEU
+SUMMARY *Effectiveness* -- vertical |Direct Effect|, of course sure. H*orizontal* as well?
+@|Walrave| and |Bosman|? Yes and yes And for the avoidance of doubt, Art 45 is 'not specifically addressed to member states, but is of *general* application,' -- |Angonese|.
+@@This covers (at least) rules made by private bodies regulating gainful employment 'in a collective manner.' In |Walrave|, the French cycling association. In |Bosman|, FIFA.
+SUMMARY *Scope* -- a border must be crossed for |Art 45| rights to be enjoyed. This can happen by:
+@Going to *live and work* in another member state.
+@Living in one and *commuting* into another. 
+@The border may be the door of one of the other member state's *embassies* in another part of the world altogether -- |Boukhalfa|.
+
+NAME Meaning of Worker in Art 45
+TYPE Concept
+CATEGORY Free Movement of People; Workers; Meaning of Worker
+SUMMARY ~*Workers*~
+/The activity must be *genuine and effective*, as established in |Levin|, which further held it must not be *marginal and ancillary*. Its judgment held -- 
++Definition of 'worker' is *for the Union*, not the member states.
++But must be *broad*, free mov't being fundamental -- besides, *principles* ought to be *broad*, their *exceptions*, *narrow*.
++*Part time* work is *not excluded*, but the activity must be *genuine and effective*, and not *on such a small scale* as to be regarded as *purely marginal and ancillary* 
+SUMMARY To be *genuine and effective*, |Lawrie-Blum| gave a _further_ three considerations -- 
+@Is the activity of *(i)* economic value, *(ii)* supervised by an employer and *(iii)* remunerated?
+SUMMARY The nature of *relationships of employment* was discussed in |Lehtonen|, a tad  _Street-v-Mountford_ishly. 
+SUMMARY *Training* before the genuine and effective activity starts, counts as work -- |Bernini|.
+SUMMARY *Remuneration below subsistence* (supplemented with welfare) does not preclude Art 45 workerdom (|Kempf|, which reiterated that what counts is genuineness and effectiveness). The remuneration may be *in kind* -- |Steymann|.
+SUMMARY Being *married to the boss* is no impediment -- |Meeusen|.
+SUMMARY *Irregularity* and *limited duration* of services performed may, when assessing genuineness and effectiveness, indicate instead a *marginal and ancillary* character -- |Raulin|.
+SUMMARY The activity must be *economic* -- |Bettray|, although the judgment is morally and logically wonky.
+
+SUMMARY ~*Jobseekers*~ 
+/|Antonissen| decided they *are* covered by Art 45, because --
+@Free mov't of workers entails nationals of member state A moving freely to member state B *and* staying there, to *seek employment*. Why? Because that *enhances the effectiveness* of Art 45 -- |Antonissen|. 
+@@How long can they stay? 'A reasonable time.' In default of specific domestic legislation, this means *six months*.
+@@When that period lapses, however, if the person shows evidence of continuing to seek employment for which he's qualified, the MS may not boot him out.
+SUMMARY From |Lebon|, however, there is *no obligation* on an MS to treat jobseekers from other MSs equally to their own in *social and tax advantages*.
+	 
+
+
+NAME Walrave
+CASENUM C-36/74
+CITATION Walrave [1974] ECR 1405:
+CATEGORY Free Movement of People; Workers; Effect of Article 45 TFEU
+FLAGS Essential; Leading; NL; FR
+SUMMARY Mr. Walrave, a Dutchman, was excluded from employment as a pacemaker in the Tour de France by a rule passed by the _Union Cycliste Internationale_ providing that 'dès l'année 1973, l'entraineur doit être de la nationalité du coureur' -- from 1973, the pacemaker was to be of the same nationality as the rider. 
+HELD Rules regulating gainful employment _in a collective manner_ imposed by non-public bodies but discriminating on the basis of nationality fall foul of Art 45(2) TFEU -- which is, therefore, *horizontally effective*.
+
+
+
+NAME Bosman
+WIKILINK https://en.wikipedia.org/wiki/Bosman_ruling
+CASENUM C-415/93
+CITATION Bosman [1995] ECR I-4921
+CATEGORY Free Movement of People; Workers; Effect of Article 45 TFEU
+FLAGS BE; FR
+SUMMARY Belgium pro footie transfers entailed transfer fees -- by contrast, French pro footie did *not*. This rendered Bosman, a Belgian player wishing to transfer to the French club Dunkerque, much less attractive to the club than a French player of equivalent talent, for whom it would have to pay no transfer fee. Although neither obviously directly nor indirectly discriminatory, his *access to the Employment market of another member state was impeded*, he claimed, which violated his Art 45 rights.  
+HELD Confirming |Walrave|, a rule set by a body governing the organisation of employment in a sport (FIFA), *having the effect* of discrimination, even if neither direct nor indirect, violates Art 45 if it impedes access to the labour market.  Nevertheless, a |Rule of Reason| approach akin to |Cassis de Dijon| *may* justify such restrictions, if the measures pursued *legitimate aims* with *pressing reasons of public interest.*  
+
+
+
+NAME Angonese
+CASENUM C-281/98
+CITATION Angonese [2000] ECR I-4139
+CATEGORY Free Movement of People; Workers; Effect of Article 45 TFEU
+FLAGS Key; AT; IT
+SUMMARY As a condition of employment, a bank in the very north of Italy required a certificate issued by *the local authority* (on condition of passing an exam) as evidence of Italian/German bilingualism. Mr. Angonese was already fluent in German by virtue of having studied in Austria. He objected.
+HELD Art 45 is drafted in general terms, and is not specifically addressed to member states.
+
+
+
+
+NAME Boukhalfa
+CASENUM C-214/94
+CITATION Boukhalfa [1996] ECR I
+CATEGORY Free Movement of People; Workers; Scope Of Article 45 TFEU
+FLAGS Key; BE; DE
+HELD The requirement of *crossing a border* to enjoy Art 45 rights is fulfilled by a worker from one member state working at *embassy* of another member state.
+HELD *15.* "The Court has consistently held that provisions of Community law *may apply* to professional activities pursued *outside Community territory* as long as the employment relationship retains a sufficiently close link with the Community. [...] That principle must be deemed to extend also to cases in which there is a sufficiently close link between the employment relationship, on the one hand, and the law of a member state and thus the relevant rules of Community law, on the other."
+HELD *22.* "... the prohibition of discrimination based on nationality, laid down in Art 45(2) of the Treaty... *applies to a national of a member state who is permanently resident in a non-member country, who is employed by another member state in its embassy in that non-member country* and whose contract of employment was entered into and is permanently performed there, as regards all aspects of the employment relationship which are governed by the legislation of the employing member state."
+
+
+
+
+NAME Levin
+CASENUM C-53/81
+CITATION Levin [1982] ECR 1035:
+CATEGORY Free Movement of People; Workers; Definition of Worker; Direct Discrimination
+FLAGS Key; UK; NL
+SUMMARY Was a British citizen _working_ in the Netherlands in the meaning of Art 45? She was a chambermaid, but paid _less_ than the Dutch minimum wage -- but she had personal income from property. {What kind of chambermaid is *that*?!}.  She'd been refused a residency permit as she was not Dutch. She claimed this, therefore, was a direct breach of Art 45. worker under art 45? 
+HELD A worker under Article 45 is someone who is engaged in *genuine and effective* activities, and not at such a small scale as to be *marginal and ancillary*. The definition of 'worker' is for the EU. Its definition must be broad, and its exceptions, narrow.
+
+
+NAME Lawrie-Blum
+CASENUM C-66/85
+CITATION Lawrie-Blum [1986] ECR 2121:
+CATEGORY Free Movement of People; Workers; Definition of Worker
+FLAGS Key; UK; DE
+SUMMARY A British citizen training as a teacher in Germany, had, as part of the traineeship, to teach in a school. The pay was _less_ than than for a fully-qualified teacher.
+HELD There are three considerations as to whether an activity is *genuine and effective*.  Is the activity of *(i)* economic value? Is it *(ii)* supervised by an employer? Is it *(iii)* carried out for remuneration?
+
+NAME Lehtonen
+CASENUM C-176/96
+CITATION Lehtonen [2000] ECR I
+CATEGORY Free Movement of People; Workers; Definition of Worker
+FLAGS FI; BE
+SUMMARY Paras. 12-14 of judgment --
+/->-12. Mr Lehtonen is a basketball player of Finnish nationality. During the 1995/1996 season he played in a team which took part in the Finnish championship, and after that was over he was engaged by Castors Braine, a club affiliated to the FRBSB, to take part in the final stage of the 1995/1996 Belgian championship. To that end the parties on 3 April 1996 concluded a contract of employment for a remunerated sportsman, under which Mr Lehtonen was to receive BEF 50 000 net per month as fixed remuneration and an additional BEF 15 000 for each match won by the club. That engagement had been registered with the FRBSB on 30 March 1996, the player's letter of release having been issued on 29 March 1996 by the federation of origin. On 5 April 1996 the FRBSB informed Castors Braine that if FIBA did not issue the licence the club might be penalised and that if it fielded Mr Lehtonen it would do so at its own risk.
+/->-13.Despite that warning Castors Braine fielded Mr Lehtonen in the match of 6 April 1996 against Belgacom Quaregnon. The match was won by Castors Braine. On 11 April 1996, following a complaint by Belgacom Quaregnon, the competition department of the FRBSB penalised Castors Braine by awarding to the other club by 20-0 the match in which Mr Lehtonen had taken part in breach of the FIBA rules on transfers ofplayers within the European zone. In the following match, against Pepinster, Castors Braine included Mr Lehtonen on the team sheet but in the end did not field him. The club was again penalised by the award of the match to the other club. As it ran the risk of being penalised again each time it included Mr Lehtonen on the team sheet, or even of being relegated to the lower division in the event of a third default, Castors Braine dispensed with the services of Mr Lehtonen for the play-off matches.
+/->-14. On 16 April 1996 Mr Lehtonen and Castors Braine brought proceedings against the FRBSB in the Tribunal de Première Instance, Brussels, sitting to hear applications for interim relief. They sought essentially for the FRBSB to be ordered to lift the penalty imposed on Castors Braine for the match of 6 April 1996 against Belgacom Quaregnon, and to be prohibited from imposing any penalty whatever on the club preventing it from fielding Mr Lehtonen in the 1995/1996 Belgian championship, on pain of a monetary penalty of BEF 100 000 per day of delay in complying with the order.
+HELD Musing on the meaning of employment -- "45. ...The essential feature of an employment relationship is that for a certain period of time a person performs services for and under the direction of another person, in return for which he receives remuneration."
+
+
+
+NAME Bernini
+CASENUM C-3/90
+CITATION Bernini [1992] ECR I
+CATEGORY Free Movement of People; Workers; Definition of Worker
+FLAGS IT; NL
+SUMMARY Was an Italian citizen, a trainee at a factory in the Netherlands who'd completed only ten weeks training, on low wages and having done only a few hours in total, a worker under Art 45?
+HELD Being in a training period prior to starting work proper is to be a worker, as long as the training is conducted under the conditions of *genuine and effective activity* of an employed person.
+
+
+
+NAME Meeusen
+CASENUM C-337/97
+CITATION Meeusen [1999] ECR I
+CATEGORY Free Movement of People; Workers; Definition of Worker
+FLAGS BE; NL
+HELD Being married to the boss is not per se a reason to find a person is not a worker under Art 45.
+
+
+
+
+NAME Kempf
+CASENUM C-139/85
+CITATION Kempf [1986] ECR 1741:
+CATEGORY Free Movement of People; Workers; Definition of Worker
+FLAGS DE; NL
+SUMMARY A German music teacher in the Netherlands gave only 12 hours of lessons a week.
+HELD A person is not excluded from protection under Article 45 merely just because his remuneration is below subsistence, and he seeks to supplement his income by financial assistance from the member state in which he resides. *What matters is the work's _genuine and effective_ nature*.
+
+
+
+
+NAME Steymann
+CASENUM C-196/87
+CITATION Steymann [1988] ECR 6159:
+CATEGORY Free Movement of People; Workers; Definition of Worker
+FLAGS DE; NL
+SUMMARY A German plumber in the Netherlands. In return for plumbing jobs and chores, he was given accommodation, etc., by a religious community.
+HELD A worker does not necessarily have to be remunerated in *money* to fall under the protection of Art 45. 'In so far as the services the community provides to its members may be regarded as the quid pro quo for genuine and effective work.'
+
+
+
+
+NAME Raulin
+CASENUM C-357/89
+CITATION Raulin [1992] ECR I
+CATEGORY Free Movement of People; Workers; Definition of Worker; Marginal and Ancillary
+FLAGS FR; NL
+SUMMARY A woman from France was employed as an _on-call worker_. She worked for a grand total of 60 hours over 8 months. Was she a worker under Art 45?
+HELD National courts may, when assessing whether work is genuine and effective, take account of its *irregularity* and *limited duration* of actual performance of services. These attributes may indicate that the activity is *merely marginal and ancillary*.
+
+
+
+NAME Bettray
+CASENUM C-344/87
+CITATION Bettray [1989] ECR 1621:
+CATEGORY Free Movement of People; Workers; Definition of Worker; Purpose of Work
+FLAGS DE; NL; Criticised
+SUMMARY A German citizen in the Netherlands did very worthy (but very poorly-remunerated) work rehabilitating druggies into the labour force.
+HELD The objective of rehabilitating drug addicts, to enable them to enter the labour force, fell outside Art 45. _[Heavily criticised for its failure to take into account that the goal of the rehabilitation was overtly economic]_.
+
+
+
+
+NAME Antonissen
+CASENUM C-292/89
+CITATION Antonissen [1991] ECR I
+CATEGORY Free Movement of People; Workers; Right to Seek Work
+FLAGS BE; GB
+SUMMARY A Belgian citizen in the UK was unsuccessful in looking for work. He was also fairly obviously a reprobate, having repeatedly been imprisoned for drugs. The UK wanted rid of him.
+HELD Free movement of workers entails free movement and residence within host member states for the purpose of seeking employment, as this *enhances the effectiveness* of article 45. In default of provisions as to how long they may stay without work, they should be able to do this for *six months*; but when that lapses, and they are looking for work for which they're appropriately qualified, the member state may not expel them.
+
+
+
+
+NAME Lebon
+CASENUM C-316/85
+CITATION Lebon [1987] ECR 2811:
+CATEGORY Free Movement of People; Workers; Right to Seek Work
+FLAGS BE; FR
+HELD Member states are *not* obliged to refrain from discriminating against *jobseekers* from other member states, as regards their eligibility for tax and social advantages.
+
+
+
+
+NAME Regulation 492/2011 on Free Movement of Workers
+AKA Regulation 492/2011
+TYPE Regulation
+CATEGORY Free Movement of People; Workers; Right to Equal Treatment
+SUMMARY ~*Intro*~
+@It quantifies at *(1)* the principle of free movement, particularly as concerns remuneration, dismissal, unemployment and re-employment.
+@At *(2)*, it mandates the same welfare and tax provisions for workers from other member states as for national workers;
+@and at *(3)*, for equal access to vocational schooling and retraining.
+SUMMARY ~*Article 7*~ -- Text
++A worker who is a national of a member state may not, in the territory of another member state, be treated differently from national workers by reason of his nationality in respect of any conditions of employment and work, in particular as regards remuneration, dismissal, and, should he become unemployed, reinstatement or re-employment.
++He shall enjoy *the same social and tax advantages* as national workers.
++He shall also, by virtue of the same right and under the same conditions as national workers, have *access to training* in vocational schools and retraining centres. 
++Any clause of a collective or individual agreement or any other collective regulation concerning eligibility for employment, remuneration and other conditions of work or dismissal shall be null and void in so far as it lays down or authorises discriminatory conditions in respect of workers who are nationals of the other member states.
+
+
+NAME Restrictions on Free Movement of Workers
+TYPE Concept
+CATEGORY Free Movement of People; Workers
+SUMMARY ~*Restrictions*~
+@They may come in the form of *direct* discrimination, as in |Levin|.
+@They may be *indirect* discrimination, such as the language requirements in |Groener| and |Angonese|.
+@They can be *indistinctly applicable* measures, analogously to |MEQRs| 
+@@In |Bosman|, a measure that has the effect of making it harder to *enter* the employment market of another MS falls foul of Art 45.
+@@|Kranemann| found the corollary also applies: a measure making it harder to *leave* your own is also a violation.
+@Some measures may, however, be *beyond the scope* of Art 45: |Graf|.
+SUMMARY ~*Justifications*~
+/See also -- |Justifications for Discrimination under Art 45| and |Justifications for Indistinctly Applicable Measures under Art 45|.
+
+
+
+
+NAME Groener
+CASENUM C-379/87
+CITATION Groener [1989] ECR I
+CATEGORY Free Movement of People; Workers; Restrictions on Free Movement; Indirect Discrimination
+FLAGS IE; NL
+SUMMARY A part time Dutch teacher art teacher in an Irish school objected to the requirement that (all) teachers were required to produce a certificate of qualification in Gaelic. He objected on the basis that, inter alia, such a qualification had nothing to do with his ability to do his job.
+HELD Measures clearly having the effect of discriminating on grounds of nationality, such as imposing a condition only likely to be met by people of a particular member state are *indirectly discriminatory* and thus in breach of Art 45.  However, such measures *may* be excused as *proportionate* given the *need to protect minoritarian and fragile aspects of culture* such as the Gaelic language -- but this would *depend on the connection between the requirement imposed and the duties performed&. 
+
+
+
+
+
+NAME Olympique Lyonnais v Olivier Bernard and Newcastle UFC (“Bernard”)
+CASENUM C-325/08
+CITATION Olympique Lyonnais v Olivier Bernard and Newcastle UFC (“Bernard”) [2010] ECR I
+CATEGORY Free Movement of People; Workers; Restrictions on Free Movement; Indistinctly Applicable Measures
+FLAGS FR; GB
+HELD TODO
+
+
+
+
+NAME Kranemann
+CASENUM C-109/04
+CITATION Kranemann [2005] ECR I
+CATEGORY Free Movement of People; Workers; Restrictions on Free Movement; Indistinctly Applicable Measures
+FLAGS DE
+HELD An indistinctly applicable measure deterring a worker from leaving his member state to work in another constitutes an obstacle to Art 45. However, unless the measure is purely economic, it *may* be justified if the barrier it imposes is, in fact not great. TODO.
+
+
+
+
+
+NAME Graf
+CASENUM C-190/98
+CITATION Graf [2000] ECR I
+CATEGORY Free Movement of People; Workers; Measures Beyond The Scope Of Article 45 TFEU
+FLAGS AT; DE
+HELD TODO summary of ratio
+HELD from the judgment:
+/->-24. ... the entitlement to compensation was not dependent on the worker’s choosing whether or not to stay with his current employer, but on a future and hypothetical event, namely the subsequent termination of his contract without such termination being at his own initiative or attributable to him. 
+/->-25. ... too uncertain and indirect a possibility for that legislation to be capable of being regarded as liable to hinder freedom of movement for workers.
+
+
+
+
+
+NAME Justifications for Discrimination under Art 45 
+TYPE Concept
+CATEGORY Free Movement of People; Workers; Restrictions on Free Movement
+SUMMARY ~*Art 45(3)*~ -- Public Policy, Security and Health
+@In practice, justifications under |Art 45|(3) hardly ever succeed. Cf. |Van Duyn|, in which it *did*. Of late, the courts are more open to such pleadings -- |Jipa|, |Tsakouridis|, |Josemans|.
+@Justifications for restrictions under Art 45(3) may *not* be to *protect economic interests* -- |Directive 2004/38| Art 27(1).
+@To rely on a justification, a threat must be a *genuine* and *serious*, to a fundamental interest of society -- |Directive 2004/38| Art 27(2), clearly channeling the earlier judgment in |Bonsignore| [1975].
+@However, member states have *discretion*, which may encompass *guilt by association* -- |Van Duyn|. Don't forget, she *lost*.
+@The public policy justification must not be *hypocritical* -- |Adoui and Cornuaille|.	
+SUMMARY ~*Art 45(4)*~ -- Public Service
+@This must be proportionate, applying only to those roles for which a *special allegiance* to the member state is necessary -- |Commission v Belgium I|.
+
+
+    
+NAME Directive 2004/38 Arts 27-33
+AKA Directive 2004/38
+TYPE Directive
+CATEGORY Free Movement of People; Workers; Restrictions on Free Movement
+SUMMARY ~*Text of Article 27*~
++Subject to the provisions of this Chapter, member states *may restrict* the *freedom of movement and residence* of Union citizens and their family members, irrespective of nationality, *on grounds of public policy, public security or public health*. These grounds *shall not* be invoked to *serve economic ends*.
++Measures taken on grounds of *public policy* or *public security* shall comply with the principle of *proportionality* and shall be *based exclusively on the personal conduct of the individual* concerned. 
+@@*Previous criminal convictions shall not in themselves constitute grounds for taking such measures*.
+@@The personal *conduct of the individual* concerned must represent a *genuine, present and sufficiently serious threat* affecting one of the *fundamental interests* of society. Justifications that are *isolated from the particulars* of the case or that rely on considerations of general prevention shall not be accepted.
++In order to ascertain whether the person concerned represents a danger for public policy or public security, when issuing the registration certificate or, in the absence of a registration system, not later than three months from the date of arrival of the person concerned on its territory or from the date of reporting his/her presence within the territory, as provided for in Article 5(5), or when issuing the residence card, the host member state may, should it consider this essential, request the member state of origin and, if need be, other member states to provide information concerning any previous police record the person concerned may have. Such enquiries shall not be made as a matter of routine. The member state consulted shall give its reply within two months.
++The member state which issued the passport or identity card shall allow the holder of the document who has been expelled on grounds of public policy, public security, or public health from another member state to re-enter its territory without any formality even if the document is no longer valid or the nationality of the holder is in dispute.
+ 
+
+NAME Bonsignore
+CASENUM C-67/74
+CITATION Bonsignore [1975] ECR 297:
+CATEGORY Free Movement of People; Workers; Justifications for Directly Discriminatory Restrictions on Free Movement of Workers
+FLAGS IT; DE
+SUMMARY An Italian resident of Cologne acquired a Beretta and _accidentally shot his Brother_ (!). An order was made for his deportation. 
+HELD Reliance on an Art 45(3) derogation necessitates there being a *genuine and sufficiently serious* threat, affecting one of the *fundamental interests of society*.
+
+
+
+
+NAME Van Duyn
+CASENUM C-41/74
+CITATION Van Duyn [1994] ECR 1337:
+CATEGORY Free Movement of People; Workers; Justifications for Directly Discriminatory Restrictions on Free Movement of Workers
+FLAGS NL; UK
+HELD The circumstances of public policy justifications to restrictions on free movement of workers *may vary* from *country to country* and *time to time*, therefore the member states *must have discretion*. 
+HELD "24. ... a member state, in imposing restrictions justified on grounds of public policy, *is entitled to take into account*, as a matter of personal conduct of the individual concerned, *the fact that the individual is associated with some body or organization the activities of which the member state considers socially harmful* but which are not unlawful in that State, despite the fact that no restriction is placed upon nationals of the said member state who wish to take similar employment with these same bodies or organizations."
+
+
+NAME Adoui and Cornuaille
+CITATION Adoui and Cornuaille [1982] ECR 1665:
+CASENUM C-115/81
+FLAGS FR; BE
+CATEGORY Free Movement of People; Workers; Justifications for Directly Discriminatory Restrictions on Free Movement of Workers
+SUMMARY Conjoined cases of two prostitutes. Ms. Adoui had applied for a residence permit in Liège, but was refused, and told to leave the country within 15 days. With this she reluctantly complied. She came back a month later, dutifully notifying the authorities of her presence -- who returned the courtesy by telling her to fuck off again, this time within *4* days. She refused, considering the order was unlawful. 
+HELD Member states must not abuse public policy justifications under Art 45(3). They may not be invoked to exclude someone for conduct which the member state does *not* take genuine and effective domestic measures to repress.
+
+
+
+NAME Commission v Belgium I
+CASENUM C-149/79
+CITATION Commission v Belgium I [1980] 3881:
+CATEGORY Free Movement of People; Workers; Justifications for Directly Discriminatory Restrictions on Free Movement of Workers; Public Service
+FLAGS EU; BE
+SUMMARY Belgium restricted almost all forms of state employment to Belgian citizens. 
+HELD Discrimination against workers from other member states working in public service under Art 45(4) is *not proportionate* when applied to all state employees, rather than those whose roles *necessitate a special allegiance* to the state. This might include supervisors, technical officers, etc, but not for railway workers, nurses, etc.
+
+
+
+

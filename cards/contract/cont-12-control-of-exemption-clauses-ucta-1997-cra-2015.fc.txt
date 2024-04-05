@@ -1,0 +1,135 @@
+META filename herling-12-control-of-exemption-clauses-ucta-1997-cra-2015.fc.txt
+
+
+
+
+
+NAME Control of Exemption Clauses in UCTA 1997 and CRA 2015 - Table of Contents
+TYPE Table of Contents
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+SUMMARY ~*Contents*~
+@|Wallis, Son & Wells v Pratt & Haynes| -- |Andrews Bros (Bournemouth) Ltd v Singer & Co Ltd|
+@|Ailsa Craig Fishing Co Ltd v Malvern Fishing Co Ltd and Securicor (Scotland) Ltd|
+@|Karsales (Harrow) Ltd v Wallis| -- |Suisse Atlantique Societe d'Armement Maritime SA v NV Rotterdamsche Kolen Centrale| -- |Harbutt's Plasticine Ltd v Wayne Tank and Pump Co Ltd| -- |Photo Production Ltd v Securicor Transport|
+@|Canada Steamship Lines Ltd v The King| -- |Hollier v Rambler Motors (AMC) Ltd|
+
+
+
+
+NAME Control of Exemption Clauses Ucta 1997, Cra 2015 - Introduction
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+FLAGS Hoffman; McKendrick
+
+
+
+
+NAME The construction of exemption clauses
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+FLAGS Hoffman
+
+
+
+
+NAME Wallis, Son & Wells v Pratt & Haynes
+CITATION Wallis, Son & Wells v Pratt & Haynes [1911] AC 394
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015); Construction of Exemption Clauses; Narrow Reading of Exemption Clauses
+
+
+
+
+NAME Exclusion and limitation clauses
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+
+
+
+
+NAME Andrews Bros (Bournemouth) Ltd v Singer & Co Ltd
+CITATION Andrews Bros (Bournemouth) Ltd v Singer & Co Ltd [1934] 1 KB 17
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015); Construction of Exemption Clauses; Narrow Reading of Exemption Clauses
+
+
+
+
+NAME Karsales (Harrow) Ltd v Wallis
+CITATION Karsales (Harrow) Ltd v Wallis [1956] 1 WLR 936
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015); Construction of Exemption Clauses; Liability For Fundamental Breaches of Contract
+
+
+
+
+NAME The doctrine of fundamental breach
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+FLAGS Denning
+
+
+
+
+NAME Photo Production Ltd v Securicor Transport
+CITATION Photo Production Ltd v Securicor Transport [1980] AC 827
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015); Construction of Exemption Clauses; Liability For Fundamental Breaches of Contract
+
+
+
+
+NAME The deviation and bailment cases
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+
+
+
+
+NAME Excluding liability for negligence
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+
+
+
+
+NAME Canada Steamship Lines Ltd v The King
+CITATION Canada Steamship Lines Ltd v The King [1952] AC 192
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015); Construction of Exemption Clauses; Exclusion of Liability For Negligence
+
+
+
+
+NAME Hollier v Rambler Motors (AMC) Ltd
+CITATION Hollier v Rambler Motors (AMC) Ltd [1972] 2 QB 71
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015); Construction of Exemption Clauses; Exclusion of Liability For Negligence
+
+
+
+
+NAME The function of exemption clauses
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+
+
+
+
+NAME Unfair Contract Terms Act 1977 - Introduction
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+
+
+
+
+NAME Unfair Contract Terms Act 1977
+TYPE Statute
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015); Construction of Exemption Clauses; Unfair Contract Terms Act 1977
+
+
+
+NAME Using the Unfair Contract Terms Act 1977
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+
+
+
+
+NAME The Consumer Rights Act 2015
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)

@@ -1,0 +1,219 @@
+
+NAME Private Express Trusts
+TYPE Concept
+CATEGORY Three Certainties
+SUMMARY _How the sausage of the Private Express Trust is stuffed._
+SUMMARY A private express trust must be certain of -- *intention*, *subject* and *object*. Eldon LC in |Wright v Atkyns|, Langdale LJ in |Knight v Knight|.
+
+@*|Certainty of Intention|*, without which, the disposition is an *absolute gift*.
+@*|Certainty of Subject|*, without which, it *results back* to the settlor/testator.
+@*|Certainty of Object|*, resulting back in default, as above.
+
+SUMMARY The courts _try_ to respect the wishes of the settlor/testator and uphold the trust if they can. |McPhail v Doulton| per Lord Wilberforce.
+SUMMARY The settlor must be _sui juris_, and this might not be certain until 'sooner after' the 18th birthday. |Edwards v Carter|
+
+
+-- NAME Three Certainties
+-- TYPE Concept
+-- CATEGORY Three Certainties 
+
+-- SUMMARY ~*Intro*~
+-- SUMMARY *|Certainty of Intention|*
+-- @Equity looks to intent rather than form -- did the settlor _intend_ to create a trust, or something _other_ than a trust?
+-- @It has to be more likely than not (on the balance of probabilities) that the intention was _not_ to give a gift, but rather, create a trust For this there should be (documentary) evidence of the intention was to oblige the recipient to accept the responsibilities of trusteeship 
+-- @Not much evidence sought to prove this before the C18th, but _Executors Act_ 1830 established need for clear action or clear language 
+-- SUMMARY *|Certainty of Subject|* 
+-- @A trust must be for property, real, chattel or intangible Vagueness of description defeats a trust -- |Palmer v Simmonds| (but not always |Re Golay|) 
+-- @A trust for certain chattels amongst many must be segregated from the rest -- |Re London Wine|, but no segregation is necessary for true fungibles, such as shares or money -- |Hunter v Moss| 
+-- SUMMARY *|Certainty of Object|*
+-- SUMMARY {TODO}
+
+
+
+NAME Certainty of Intention
+AKA Intention
+TYPE Concept
+CATEGORY Three Certainties
+SUMMARY _Certainty that the settlor intended to create a trust, rather than give a gift. In the absence of which, it's an absolute gift._
+SUMMARY *Details*
+@ The test is whether the trust's creator intended someone else to be under a duty to hold the property for someone else. |Paul v Constance|.
+@ Intention is assessed objectively, on the evidence. 
+@ Therefore, |Precatory Words| can torpedo it. |Re Adams and Kensington Vestry|.
+@@ But not always -- such words should be seen in light of the whole will. |Re Hamilton|.
+@@ With enough emphasis, a wish _can_ turn into an obligation. |Comiskey v Bowring-Hanbury|.
+@@ It's ultimately up to the court. |Lambe v Eames|.  
+@ The word _trust_ is not per se of massive significance. What matters is the reality. |Re Kayford|.
+SUMMARY *Status*
+@ Is certainty of intention a rule of law, or a task of construction?
+
+
+NAME Precatory Words
+TYPE Concept
+CATEGORY Three Certainties; Certainty of Intention
+SUMMARY _Terms in wills expressed in language of a blousy, cap-doffing, baroque, morbid, choked-up, over-courteous and theatrically-solemn nature; toeing but not crossing the semantic frontier between the *imperative* and the *merely hopeful.*_ |Re Adams and Kensington Vestry|.
+
+SUMMARY *Details*
+@ Whether or not they amount to a gift or a trust is a matter for the judge. |Lambe v Eames|.
+@ To be seen in light of the whole will. |Re Hamilton|.
+@ Not a problem if copy-pasted from a term upheld in court. |Re Steele's WT|.
+@ Could indicate a |Fully-Secret Trust|.
+
+SUMMARY *Specimens*
+/_Successful_ --
+@'Absolutely in full confidence' |Comiskey v Bowring-Hanbury|
+SUMMARY _Unsuccessful_ --
+@'It is my desire' |Re Diggles|
+@'Feeling confident' |Mussoorie Bank v Raynor|
+@'In full confidence' |Re Adams and Kensington Vestry| 
+@'I wish them' |Re Hamilton|
+@'In the fullest confidence' |Re Williams|
+@'I specially desire' |Re Connolly|
+@'I request that' |Re Johnson|
+
+
+
+
+
+
+NAME Certainty of Subject
+TYPE Concept
+CATEGORY Three Certainties; Certainty of Subject
+SUMMARY _That the trust is for *some* property, which must either be clearly described by the settlor/testator, or be ascertainable. Without this, the property results back to the settlor._
+
+SUMMARY *Uncertain Description*
+@ Vagueness about _quantity_ defeated certainty of subject in early cases. _Bulk_ in |Palmer v Simmonds|; potentially _no property_ in |Sprange v Barnard|.
+@ A more 'pragmatic' approach was taken in |Re Golay| (1965).
+
+SUMMARY *Wine and Gold* 
+@ *Chattels must be segregated*, if contained within a larger body of non-trust property. |Re Goldcorp|.
+@@ Unless they are _strictly_ fungible. The bottles in |Re London Wine| were held _not_ fungible, on the observation that of two bottles from the same case, one may be corked, but the other, good.
+
+SUMMARY *Shares and Money*
+@ When _any fifty would do_, the requirement for segregation does not apply. |Hunter v Moss|, followed by Neuberger J in |Holland v Newbury|.
+@ In |Pearson v Lehman Bros|, the approach taken in Australia in |White v Shorthall|, of imposing a trust for the _whole_ of the body into which the subject is mixed, with beneficial interests in proportion. 
+
+SUMMARY *Multiple Beneficiaries* 
+@ Ambiguity as to the distribution of beneficial interest between multiple beneficiaries.
+
+
+
+SUMMARY *Problem Questions*
+/Argue all possibilities. 
+@How should the goods be construed, and what cases would apply? 
+@Are they tangible/intangible? 
+@Fungible or non-fungible?
+
+
+
+NAME Certainty of Object
+TYPE Concept
+SUMMARY _To be able to carry out the settlor's wishes, the trustees must be able to identify *for whom* the property is to be beneficially held._
+SUMMARY *Details*
+@ No cases on this since |Re Baden (no. 2)| in 1972.
+@ The nature of each tests, as applied to each type of trust/power, is *different*
+
+SUMMARY *Tests*
++*Essential Test -- Complete List* 
+/Can a complete list be made of the beneficiaries, when the trust is established? |IRC v 
++*Conceptual Test*
+/Does the description of the class of beneficiaries 
++*Evidential Test*
+/Could _any given postulant_ be said to be a member of the class of beneficiaries? |Re Baden (no. 2)|.
+
+
+
+
+@A *fixed trust* is one in which the settlor has said who gets what beneficial interest, _fin d'histoire_ So this is the least flexible, as the trustee has bollocks-all choice
+@There is also the *mere power*, that can be chosen to be exercised or not Over this, the courts have no jurisdiction -- excepting fiduciaries with mere powers, but that's different
+@In between the *fixed trust* and the *mere power*, there’s the *discretionary trust*, in which the trustee(s) *must* choose:
+++*Who* the beneficiaries are to be; 
+++*What* they should each received; or
+++Both *who* and *what*
+@A *power in the nature of a trust* is a fourth thing of rarity, usually arising, says CdT, out of _fuckings-up of the drafting of wills_: the settlor _tried_ to give choices to trustees, but failed and gave to someone else 
+@There is also a *gift subject to a condition* In equity there’s a presumption that _gifts don’t really exist_, apart from for _fathers_ transferring property to their children or _husbands_ to their wives
+@@So, CdT informs us, if she got married (which, she says, would be impossible -- although she tells us she can't say why) and transferred some of her vast wealth to her husband, a resulting trust would arise and she’d get it all back Wut?
+
+
+--STOP--
+•	Fixed trusts
+
+IRC v Broadway Cottages Trust [1955] Ch 20 
+The finite list test
+Conceptual and evidential certainty
+
+•	Discretionary trusts and powers of appointment
+
+¬	The given postulant test – “is or is not test” 
+¬	Conceptual and evidential certainty
+¬	Administrative unworkability and capriciousness
+
+Re Gulbenkian [1970] AC 508
+McPhail v Doulton [1971] AC 424 (Re Baden)
+Re Baden (No2) [1972] 2 All ER 1304
+IRC v Broadway Cottages Trust [1955] Ch 678
+Re Manisty's Settlement [1973] 2 All ER 1203
+Re Tuck's Settlement Trusts [1978] Ch 49
+Re Barlow's Will Trusts [1979] 1 WLR 278
+Re Hay's Settlement Trusts (supra)
+Mettoy Pensions Trusts v Evans [1990] 1 WLR 1587
+R v District Auditor, ex p West Yorkshire [1986] RVR 24
+
+
+¬	Conceptual and evidential uncertainty: 
+Re Baden’s Deed Trusts (No2) [1973] Ch9 
+Re Barlow’s Will Trusts [1979] 1 WLR 278
+
+¬	Use of an expert:
+Re Tuck’s Settlement Trusts (supra) 
+
+¬	Allow trustees to do what they want: 
+Re Coxen [1948] Ch 747
+Re Jones [1953] Ch 125
+Re Manisty’s Settlement [1974] Ch17
+
+
+Trusts v powers: 
+
+•	Trust is imperative, a power is discretionary 
+
+    ϖ	Powers can be given to trustees (fiduciary power) which may require trustees to distribute the property or only to consider whether the property should be distributed or not 
+    ϖ	Can be given to third party in either fiduciary or non-fiduciary capacity 
+
+
+•	Question of interpretation – compare with words creating trust 
+¬   	Note the significance of a gift over in default 
+
+Possibilities: 
+
+•	fixed trusts 
+•	discretionary trusts
+•	power of appointment 
+    ¬	fiduciary 
+    ¬	non-fiduciary 
+•	trust power – Mettoy Pension Trustees Ltd v Evans [1990] 1 WLR 1587
+•	gifts subject to conditions precedent and subsequent – Re Barlow’s WT [1979] 1 WLR 278
+•	separate, individual gifts 
+
+
+Further reading: 
+•	CT Emery, “The most hallowed principle – certainty of beneficiaries of trusts and powers of appointment”, (1982) 98 LQR 551
+•	Grantham, “Doctrinal bases for the recognition of proprietary rights” (1996) OJLS 561
+•	Harpum [1986] CLJ 391
+
+
+
+
+
+
+
+
+
+NAME Beneficiary Principle
+TYPE Concept
+SUMMARY Connected to but subtly different from |Certainty of Object|,  
+Beneficiary principle – Morice v Bishop of Durham (1804) 9 Ves Jr 399: “there must be some person in whose favour the court can decree performance” 
+
+
+
+
+

@@ -1,0 +1,287 @@
+META filename herling-13-misrepresentation-(1).fc.txt
+
+
+
+
+
+NAME Misrepresentation - Glossary
+CATEGORY Misrepresentation (1)
+CATEGORY Misrepresentation (2)
+SUMMARY Since misrepresentation and misstatement are quite distinct from actions for breach of contract, they have their own terminology. A selection from it is set out below for ready reference and to clear up any initial queries, even though several of these terms will not be relevant until the second of these two lectures on misrepresentation.
+
+SUMMARY *Representation*
+/A pre-contractual statement of fact, whether express or implied, which leads the representee to enter into a contract with the representor.
+
+SUMMARY *Misrepresentation*
+/A statement, as above, which proves false, whether made innocently, negligently or fraudulently.
+
+SUMMARY *Misstatement* 
+/A statement, whether of fact, opinion or belief, by which the maker becomes liable for loss resulting to the recipient.
+
+SUMMARY *Rescission*
+/The retroactive undoing of the contract, involving the return of its subject matter and the price paid for it.
+
+SUMMARY *Termination*
+/The withholding of further performance of the contract.
+
+SUMMARY *Indemnity*
+/Monetary compensation for obligations which the contract has (a) created; and (b) imposed on a misrepresentee.
+
+SUMMARY *Reliance*
+/The importance of the representation in the mind of the representee in deciding whether to enter into the contract, and if so, on what terms.
+
+SUMMARY *Materiality*
+/The propensity of the representation to affect the mind of a reasonable in the sense above. 
+
+SUMMARY *Innocent*
+/(a) Before 1967: non-fraudulent.
+/(b) After 1967: without fault.
+
+
+
+
+NAME Misrepresentation (1) - Introduction
+TYPE Concept
+CATEGORY Misrepresentation (1)
+SUMMARY ~*Introduction*~
+/->-Misrepresentation is a large and therefore a complex subject. The aim here has been to present it in a way which maximises understanding while minimising overload. Once the basic rules are grasped, the area will be seen to be one which allows rather more use of the imagination than actions for breach of contract. 
+/->-This first lecture on the subject is concerned with the ingredients of liability (a) for misrepresentation, whether fraudulent, negligent or innocent; and (b) for negligent misstatement. The need to contrast misrepresentation and misstatement actions is emphasised.
+/->-The second lecture broadly tracks the Misrepresentation Act 1967, a short but sometimes puzzling piece of legislation. The lecture includes detailed discussion of fraudulent, negligent and innocent misrepresentation, focusing on the remedies available for each. The remedy of rescission is an important subject in its own right, since it is necessary to be aware not only of its effect but also of factors (the bars to rescission) which may make it unavailable. The second lecture also deals with attempts to exclude liability for misrepresentation.
+/->-Two topics within misrepresentation have a particular tendency to prolong treatments of the subject to the point at which it may begin to seem impossibly detailed. One is the relationship between silence and misrepresentation, which is given concise handling here. The other is the quantum of damages for misrepresentation. This is also given as light a treatment here as possible. 
+
+
+
+
+NAME Fact, as opposed to opinion, belief, intention, or (formerly) law
+TYPE Concept
+CATEGORY Misrepresentation (1)
+SUMMARY ~*Fact, as opposed to opinion, belief, intention, or (formerly) law*~
+/->-In order to be actionable, a representation must be factual, clear, material, relied upon, and false. In addition the representee must have entered into a contract with the representor, or with the representor's principal.
+/->-The requirement that a representation should be factual militates against bringing actions based on statements of opinion, belief, or future intention. Formerly, statements of law were also held not to be actionable, but this is no longer the case.
+
+
+
+
+NAME Bisset v Wilkinson
+CITATION Bisset v Wilkinson [1927] AC 177
+CATEGORY Misrepresentation (1); Introduction; Fact, as Opposed to Opinion, Belief, Intention and (Formerly) Law
+SUMMARY ~*Overview*~
+/->-In the course of negotiations for the purchase of a block of land in New Zealand, the seller told the buyers that “if the place was worked as I was working it, with a good six horse team, my idea was that it would carry 2000 sheep”. In fact, as the buyers knew, the seller had not been working the land as a sheep farm. When they began to use the land in that way, they found that it would not carry 2000 sheep, and sought rescission of the contract on that basis.
+/->-The Privy Council held that the seller's statement had been nothing more than an honest expression of opinion, and that the buyers had not been justified in regarding it as fact. Further, they had not even proved that the land could not carry 2000 sheep, if properly worked.
+
+
+
+
+NAME Smith v Land and House Property Corporation
+CITATION Smith v Land and House Property Corporation (1884) 28 Ch D 7
+CATEGORY Misrepresentation (1); Introduction; Fact, as Opposed to Opinion, Belief, Intention and (Formerly) Law
+SUMMARY ~*Overview*~
+/->-The plaintiffs were selling a hotel, which was let to one Frederick Fleck. In the particulars of sale they described Mr Fleck both as a “most desirable” and as a “very desirable” tenant. In fact, Mr Fleck had fallen behind with the latest instalment of the rent, and had paid the previous instalment very late. After the contract was concluded, he became bankrupt. The plaintiffs sought specific performance of the contract, and the defendant buyers counterclaimed for rescission for misrepresentation.
+/->-The Court of Appeal held that the plaintiffs' statements amounted to misrepresentation. Although they appeared at first sight only to be opinion, that expression of opinion involved the implied assertion of a factual basis for its making.
+SUMMARY ~*Detail*~
+/->-“In considering whether there was a misrepresentation, I will first deal with the argument that the particulars only contain a statement of opinion about the tenant. It is material to observe that it is often fallaciously assumed that a statement of opinion cannot involve the statement of a fact. In a case where the facts are equally well known to both parties, what one of them says to the other is frequently nothing but an expression of opinion. The statement of such opinion is in a sense a statement of a fact, about the condition of the man's own mind, but only of an irrelevant fact, for it is of no consequence what the opinion is. But if the facts are not equally known to both sides, then a statement of opinion by the one who knows the facts best involves very often a statement of a material fact, for he impliedly states that he knows facts which justify his opinion”. 
+SUMMARY ~*A closer look*~
+/->-_Bowen LJ's proposition above deserves careful attention. It can be very useful in preparing an accurately pleaded misrepresentation case. Where a statement of the defendant is “tainted” by opinion, it is possible to plead it as nothing more than a statement, and therefore in itself neutral, but then to extract from it the implied representation of fact on which it is based._
+
+
+
+
+NAME Edgington v Fitzmaurice
+CITATION Edgington v Fitzmaurice (1885) 29 Ch D 459
+CATEGORY Misrepresentation (1); Introduction; Fact, as Opposed to Opinion, Belief, Intention and (Formerly) Law
+SUMMARY ~*Overview*~
+/->-The defendants, the directors of a company, sent out a prospectus to shareholders including the plaintiff. The prospectus invited subscriptions to be made in return for bonds, and stated that the money received would be used for expanding the company's business by the purchase of horses and vans, and by pursuing plans to develop a business supplying cheap fish. In fact the intention of the directors was to use most of the money to pay off the company's creditors. The company later went into liquidation, and the plaintiff sued for the return of his money by way of damages for misrepresentation.
+/->-The Court of Appeal held that this action succeeded. Bowen LJ, in another very well-known explanation, indicated how the directors' statement of intention supposed a statement of present fact:
+/->-“There must be a misstatement of an existing fact: but the state of a man's mind is as much a fact as the state of his digestion. It is true that it is very difficult to prove what the state of a man's mind at a particular time is, but if it can be ascertained it is as much a fact as anything else. A misrepresentation as to the state of a man's mind is, therefore, a misstatement of fact”.
+SUMMARY ~*A closer look*~
+/->-_This is the first case cited here in which it matters to know the level of culpability being alleged against the defendants. The misrepresentation pleaded and found proven by the courts was fraudulent. This is why Bowen LJ's analysis works. Behind what on its face was merely a promise (binding if supported by consideration but otherwise not) is a positive and present resolve to do something completely inconsistent with the promise. The misstated fact upon which the successful misrepresentation action is mounted is the deceiving assertion of honesty. It will be apparent, therefore, that the ratio of this case cannot easily be extended beyond the type of misrepresentation which is wilful – ie. fraudulent misrepresentation. _
+/->-_Until recently it was thought that statements of law could not be actionable misrepresentations. The rationale for this rule was not entirely clear, and it contained provisos some of which were notoriously difficult to apply. In particular, the rule related only to statements of general law, and not to statements of private legal right. The distinction between these two categories was uncertain. Fortunately the law has now been clarified and simplified. Statements of law can found actions for misrepresentation._
+
+
+
+
+NAME Pankhania v Hackney Borough Council
+CITATION Pankhania v Hackney Borough Council [2002] EWHC 2441
+CATEGORY Misrepresentation (1); Introduction; Fact, as Opposed to Opinion, Belief, Intention and (Formerly) Law
+SUMMARY ~*Overview*~
+/->-The purchaser of properties at auction argued that he had been induced to buy by two misrepresentations. One of them was that National Car Parks was a mere contractual licensee with regard to one of the properties, so that its occupation could be terminated on three months' notice. That was false, since the company was in fact a business tenant, protected by the Landlord and Tenant Act 1954. The difficulty facing the purchaser was that the nature of NCP's interest in the property was a matter of law (albeit a matter of private legal right).
+/->-Rex Tedd QC, sitting as a deputy judge of the High Court, held that these facts amounted to an actionable misrepresentation. The House of Lords in <i>Kleinwort Benson Ltd v Lincoln City Council</i> [1999] 2 AC 349, had abolished the rule that a mistake of law could not give rise to a remedy. The notion that “every person was presumed to know the law” had been shown in that case to be an entirely unwarranted outgrowth from the principle that ignorance of the law was no defence to a criminal charge. It was impossible to suppose that the bar to action for misrepresentation of law could survive the decision of the House of Lords on mistake of law, and desirable in any event that the common law should display consistency. 
+
+
+
+
+NAME Misrepresentation arising from silence and/or conduct
+TYPE Concept
+CATEGORY Misrepresentation (1)
+SUMMARY ~*Misrepresentation arising from silence and/or conduct*~
+
+
+
+
+NAME Keates v The Earl of Cadogan
+CITATION Keates v The Earl of Cadogan (1851) 10 CB 591
+CATEGORY Misrepresentation (1); Introduction; Misrepresentations Arising From Silence And/Or Conduct
+SUMMARY ~*Overview*~
+/->-The defendant contracted to let a house to the plaintiff. He was aware that the plaintiff wanted the house for immediate occupation, and also that the house was in an uninhabitable state. However, the defendant did nothing to induce the plaintiff to suppose that the house was habitable. It was argued on the plaintiff's behalf that the defendant's conduct had been fraudulent.
+/->-The court held, however, that the only relevant facts were the defendant's knowledge of the plaintiff's intentions, and his knowledge of the state of the house. It was not alleged that the defendant had given any warranty or made any representation as to the house's condition. Nor was it shown that the defendant had any reason to suppose that the plaintiff would not make his own enquiries into the matter. These things being so, there was nothing amounting to deceit.
+SUMMARY ~*Discussion*~
+/->-This is a robust decision, but it should not be a surprising one. It is perfectly compatible in the balance it strikes between law, practice and morality with the judgments in <i>Smith v Hughes</i>. Just as there was nothing in that situation requiring the seller of oats to take positive steps to disabuse the buyer of his notion that the oats were old oats, so here the parties are at arm's length, and the principle “caveat emptor” best expresses the yardstick which reasonable people (in the court's view) would apply.
+/->-If, on the other hand, the defendant has said or done something which creates a positive impression in the mind of the other, and it is later rendered misleading by a change in circumstances, it will become a misrepresentation.
+
+
+
+
+NAME With v O'Flanagan
+CITATION With v O'Flanagan [1936] Ch 575
+CATEGORY Misrepresentation (1); Introduction; Misrepresentations Arising From Silence And/Or Conduct
+SUMMARY ~*Overview*~
+/->-In January 1934, during negotiations for the sale of his medical practice, the defendant stated to the intending buyers that it was “doing at the rate of £2000 a year”. This was substantially true of the two years to December 1933. However, between January and May, when the contract was concluded, the practice was neglected because of the ill health of the defendant. The buyers, when they first opened for business, found that no patients turned up, and that the practice had taken no more than £15 in the previous three weeks. They brought the present action to rescind the contract.
+/->-The Court of Appeal held that although the statement of turnover had been true when made, it was no longer accurate when the agreement was concluded. A representation was to be regarded as having continuing effect from the time of its making until the contract's conclusion. The representation in this case had become false in the course of that period.
+SUMMARY ~*A closer look*~
+/->-_The idea of a “continuing representation” is quite a striking one. It would be quite possible to imagine the law taking the contrary approach, and focusing on the moment when a representation first has its impact. The explanation for the acceptability of the somewhat more artificial analysis in fact adopted by the law is not simply that it enables justice to be done where a representor has stood by and allowed a true statement to go uncorrected when it later became misleading. It is also based on the principle that a representation must “induce” the contract, which is to say that it must be relied upon. In the view of the law, that reliance is to be regarded as ongoing until it culminates in the concluding of the contract._
+/->-_Even if circumstances do not change after the making of a representation, so that it is at all times literally true, it may nevertheless mislead and so be actionable._
+
+
+
+
+NAME Dimmock v Hallett
+CITATION Dimmock v Hallett (1866) LR 2 Ch App 21
+CATEGORY Misrepresentation (1); Introduction; Misrepresentations Arising From Silence And/Or Conduct
+SUMMARY ~*Overview*~
+/->-A contract for the sale of a large agricultural estate was concluded in January 1866. In entering it, the buyer relied on the seller's statements as to the identities of the tenants of two farms, and the rate at which another farm had previously been let. The seller had also stated that certain other tenants had given notice to quit. All this information was correct. However, the tenants of the two farms had in fact also given notice to quit, and the third farm had been offered to another tenant at a substantially lower rent than the one formerly charged.
+/->-The Court of Appeal held that these circumstances justified the rescinding of the contract. Although what had been said was technically true, it carried the implication that the two tenants had not been given notice to quit, and that the value of the third farm had not become seriously reduced. 
+SUMMARY ~*Discussion*~
+/->-How can a statement be both true and a misrepresentation, seeing that a misrepresentation must be false? The answer probably is that the seller's statements here should not themselves be regarded as misrepresentations; the account given above intentionally avoided describing them as such. Rather, they carry implications which, since they are unambiguously false, are themselves actionable misrepresentations.
+
+
+
+
+NAME Spice Girls Ltd v Aprilia World Service BV
+CITATION Spice Girls Ltd v Aprilia World Service BV [2002] EWCA Civ 15
+CATEGORY Misrepresentation (1); Introduction; Misrepresentations Arising From Silence And/Or Conduct
+SUMMARY ~*Overview*~
+/->-In March 1998, Geri Halliwell informed the other four members of the band The Spice Girls that she intended to leave it. In early May 1998, Spice Girls Ltd entered into a contract with Aprilia, a manufacturer of motorcycles and scooters, whereby Aprilia was to provide the band with sponsorship for a concert tour in return for promotional work by the band. Geri Halliwell left the band at the end of May 1998.
+/->-At first instance, *Arden J* held that the participation of the band members in a photo shoot with Aprilia on 4 May had amounted to a misrepresentation by conduct that Spice Girls Ltd had no reason to believe that any of the band's members would leave before the end of the minimum term of the agreement. The Court of Appeal upheld *Arden J*'s decision, but on a broader basis. In many respects the negotiations between the parties had proceeded on the implicit basis that the band would continue to consist of all five members.
+SUMMARY ~*A closer look*~
+/->-_*McKendrick* prints a lengthy extract from the judgment of Morritt V-C in this case. It includes discussion of materiality, inducement and reliance. It will be pointed out later that these concepts can easily be misused. Morritt V-C's use of them is none too rigorous, and for that reason it might well prove confusing to linger over this aspect of his judgment. The issue is dealt with immediately below._
+FLAGS Arden; McKendrick
+
+
+
+
+NAME Materiality and reliance
+TYPE Concept
+CATEGORY Misrepresentation (1)
+SUMMARY ~*Materiality and reliance*~
+/->-It is commonly said that a misrepresentation, in order to be actionable, must induce the representee to enter into the contract. This is certainly not wrong, but it can lead to confusion. The problem is that the notion of inducement can be understood in different ways. It can refer to the extent to which the mind of the representee was actually affected by the statetment made. It can refer to the propensity of the statement to encourage reliance. In a phrase such as “in order to induce...”, it can import the idea that the representor must have intended the statement to have that effect (some older cases expressly state that requirement, whilst some others disavow it).
+/->-For the purpose of accurate analysis, the language of inducement is best avoided altogether. It has not been avoided in recent decisions, so that confusion remains.
+/->-Inducement can be translated with advantage by the concepts of materiality and reliance, an approach favoured by *Treitel*. Materiality, when correctly understood, refers to the capacity of the statement made to affect the mind of a reasonable representee. It is an objective measure of the statement's significance. Reliance is an assessment of whether the statement did in fact play a real and substantial part in the representee's decision whether (or at least on what terms) to enter the contract.
+/->-This approach, consisting of objective and subjective measurements of the statement's impact, is more likely to lead to clarity than attempts to cover the same ground by looking for “inducement”. One remaining problem is that the law remains unclear about the relationship between materiality, reliance, and where the burden of proof should lie. For the purposes of this year, that problem (although a real one) is not going to be over-stated.
+SUMMARY ~*A closer look*~
+/->-_Recent cases, such as Raifeissen Zentralbank Osterreich v Royal Bank of Scotland (2011) have gone further, and proposed that a “but for” test applies to reliance. This is not the place for full discussion, but a few points seem apposite by way of response. One is that a heightening of the bar for reliance seems not altogether easy to reconcile with earlier caselaw or with the mechanics of proof described in Museprime v Adhill (see below). Another is that contract analysis seems more accident-prone in this area than public law would be, not least because public law has learnt from unpicking formal statements of reasons provided by those who decide (and explain) pursuant to duty. The distinction between factors which are “important” to a decision, and others merely “supportive of it” could readily be ideated in public law with regard to weight. The last is that *McKendrick*'s references to Raifeissen seem to be just that – references, with little done to pursue coherence._
+/->-_The requirement that a misrepresentation should be capable of affecting the mind of a reasonable person (as opposed to being wholly trivial, or totally irrelevant, or mere sales talk) seems to derive from contracts which include a duty of disclosure – typically, insurance contracts. Since any non-disclosure entitles the insurer to avoid the contract, there has to be some limit on what is required to be disclosed, and it is provided by materiality. Otherwise the way would be open to opportunistic and unjustified repudiations of liability by insurers. The class of facts to be disclosed is defined as any capable of affecting the mind of a reasonable insurer in deciding whether to take on the risk, and if so, on what terms. In <i>Pan Atlantic Co Ltd v Pine Top Insurance Co Ltd</i> [1994] 3 All ER 581, Lord Mustill and the majority of the House of Lords held that misrepresentation included a similar test._
+/->-_Complexity arises because materiality seems not to be used as a simple test to be passed or failed by a given representation. Instead, it is suggested that where a representation is not material, the representee must assume the probative burden of showing that he did in fact rely on it in deciding to enter the contract. Where a representation is material, it is the representor who has the burden of showing that the other did not rely on it (see <i>Museprime Properties Ltd v Adhill Properties Ltd</i> (1991) 61 P & CR 111)._
+/->-_In the case of fraudulent misrepresentation there is no requirement of materiality. As Treitel puts it (paragraph 9-014) “a person who has successfully perpetrated a fraud cannot be heard to say that the representation which he used to achieve this end was immaterial”._
+/->-_The shifting of the burden of proof described above is probably for the best, because in the majority of cases it will relieve the representee of the difficult task of demonstrating reliance (while it is only fair that he should have to do just that if the representation is not one on which most people would have relied). The cases on reliance tend either to articulate fairly obvious impediments to finding it, or to consider whether reliance must have been objectively reasonable in addition to being subjectively present. Each issue will be examined in turn._
+/->-_In the class of obvious impediments are cases in which the representee did not become aware of the representation; or took no account of it; or realised that it was false._
+FLAGS Treitel; McKendrick
+
+
+
+
+NAME Attwood v Small
+CITATION Attwood v Small (1838) 6 Cl & F 232
+CATEGORY Misrepresentation (1); Introduction; Materiality and Reliance
+SUMMARY ~*Overview*~
+/->-In the course of negotiations for the sale of mines and iron works, the seller made representations about the earning capacities of these assets. The buyers asked to be allowed to verify these statements, and sent agents to examine the works and accounts, and to report on them. The reports upheld the statements made. The contract of sale was concluded, but six months later it became clear that the statements were incorrect. The buyers brought an action for fraudulent misrepresentation.
+/->-Although the three speeches delivered in the House of Lords are not entirely clear, the ratio of the case is normally taken to be that the buyers had relied on their agents' investigations and not on the statements made to them by the sellers. Two of their Lordships also held that fraud had not been established.
+
+
+
+
+NAME Redgrave v Hurd
+CITATION Redgrave v Hurd (1881) 20 Ch D 1
+CATEGORY Misrepresentation (1); Introduction; Materiality and Reliance
+SUMMARY ~*Overview*~
+/->-The plaintiff was a solicitor who was planning to retire. He advertised that he would appoint as partner a person who would also be willing to buy his house. He told the defendant that the practice brought in approximately £300 a year, and showed the defendant summary accounts which indicated that receipts were in fact somewhat less than £200. When the defendant enquired into the shortfall, the plaintiff produced a bundle of papers which he said detailed further business. The defendant looked only cursorily at the bundle, and entered into a contract to buy the house and a share in the practice. At trial it was found that the further documents showed additional business amounting only to some 5 or 6 pounds a year.
+/->-The Court of Appeal refused the plaintiff's claim for specific performance, and allowed the defendant's counterclaim for rescission of the contract. The misrepresentation had been shown to be material, and the plaintiff had failed to demonstrate that the defendant had not relied on it. He had been under no duty to inspect the documents properly, but was free to rely instead on the plaintiff's representation.
+SUMMARY ~*Detail*~
+/->-Lord Jessel MR explained the basis for the decision as follows: “...if a man is induced to enter into a contract by a false representation it is not a sufficient answer to say, “if you had used due diligence you would have found out that the statement was untrue. You had the means afforded you of discovering its falsity, and did not choose to avail yourself of them”.
+/->-Nothing can be plainer, I take it, on the authorities in equity than that the effect of false representation is not got rid of on the ground that the person to whom it was made has been guilty of negligence.
+/->-Where you have neither evidence that he knew facts to show that the statement was untrue, or that he said or did anything to show that he did not actually rely upon the statement, the inference remains that he did so rely, and the statement being a material statement, its being untrue is a sufficient ground for rescinding the contract”.
+SUMMARY ~*A closer look*~
+/->-_Although this case remains good law, the fact that the representee may have been negligent in not taking an obvious opportunity to make his own checks can no longer be said to have no legal consequence. Following the passing of the Law Reform (Contributory Negligence) Act 1945, it could now be made the basis for reducing an award of damages to reflect contributory negligence (though this would not apply if the representation were fraudulent)._
+/->-_That being said, it continues to be the case that the attitude of Lord Jessel broadly makes sense, and it is worth bearing in mind at all times when considering misrepresentation. This is not an area, unlike contract formation for example, in which the parties must be treated with even-handedness. The law will tend to lean against a misrepresentor, for the simple reason that he has made a statement which has proved to be false._
+/->-_Misrepresentation exists on the borders of contract as a non-contractual wrong which goes on to result in loss occasioned by the representee's entry into a contract. Misstatement exists beyond contract altogether. In fact negligent misstatement is a tort, and more specifically, part of the wider tort of negligence. Most of the analysis which goes into the establishment of the tort of negligence therefore applies to this action as well, albeit with certain modifications. Few of the preconditions for liability in misrepresentation <i>necessarily</i> apply to it._
+/->-_However, certain cases and several passages or remarks in textbooks reveal a reluctance to take the exclusively tortious nature of negligent misstatement seriously (eg. Professor Burrows' A Casebook on Contract (2<sup>nd</sup> ed, 2009) which inadmissibly refers to “tortious negligent misrepresentation”). *Treitel* also mixes up the terminologies._
+/->-_Negligent misstatement must be kept entirely separate from misrepresentation. Negligent misstatement need not lead to the conclusion of a contract. It is not limited to statements of fact. It is not (technically, at least) limited to material statements, since materiality is a test which supposes later entry into a contract. A misstatement need not be proven false. It may in fact be false, but that is not a pre-condition of liability. The true requirement is that the misstatement should have caused loss to the person who relied upon it, and that it should have been negligently made._
+/->-_These jurisprudential differences between misrepresentations on the one hand and misstatement on the other are fundamental. That being said, the two actions are not mutually exclusive. Both may be present on the same facts, and they may be pleaded together. _
+FLAGS Treitel
+
+
+
+
+NAME Hedley Byrne & Co Ltd v Heller & Partners
+CITATION Hedley Byrne & Co Ltd v Heller & Partners [1964] AC 465
+CATEGORY Misrepresentation (1); Introduction; Negligent Misstatement: Conditions of Liability
+SUMMARY ~*Overview*~
+/->-The appellants, who had received a large order for advertising time and space from one of their customers, Easipower, instructed their bank to request a bankers' report on the creditworthiness of Easipower from Easipower's bankers, the respondents. The respondents provided a letter headed “without responsibility on the part of this bank” which went on to state that Easipower was “considered good for its ordinary business engagements”. The appellants relied on this in entering contracts with Easipower by which they gave the firm credit, and incurred substantial losses when Easipower subsequently went into liquidation. The appellants brought the present action in the tort of negligence against Easipower's bankers. The respondents submitted that there was no duty of care with regard to the making of statements, or in the alternative, that any such duty had been negatived by their disclaimer of responsibility.
+/->-The House of Lords held unanimously that a duty to take care would have arisen in these circumstances had it not been prevented from doing so by the disclaimer. It had previously been thought that liability for negligent misstatement could exist only where there was a fiduciary relationship between the parties, but that view was too narrow. Where a “special relationship” existed between the parties, such that one must be taken to have assumed a responsibility to prevent negligently caused economic loss to the other, a tortious duty of care would be found.
+SUMMARY ~*Detail*~
+/->-Lord Morris of Borth-y-Gest summed up the principle which would have been applied had responsibility not been expressly refused: “My Lords, I consider that it follows and that it should now be regarded as settled that if someone possessed of a special skill undertakes, quite irrespective of contract, to apply that skill for the assistance of another person who relies upon such skill, a duty of care will arise. The fact that the service is to be given by means of or by the instrumentality of words can make no difference. Furthermore, if in a sphere in which a person is so placed that others could reasonably rely upon his judgment or his skill or upon his ability to make careful inquiry, a person takes it upon himself to give information or advice to, or allows his information or advice to be passed on to, another person who, as he knows or should know, will place reliance upon it, then a duty of care will arise.
+SUMMARY ~*A closer look*~
+/->-_The language of Lord Morris, above, is significant. It makes no reference to the representing of facts, but to a quite different conception – the provision of skill, information or advice for another's benefit. It is clear from this that negligent misstatement is effectively unrelated to misrepresentation despite the application by some commentators of the same terminology to the two actions. Negligent misstatement is entirely capable of dealing with statements of opinion, advice and belief, all of which are more problematic to characterise as representations._
+
+
+
+
+NAME Caparo Industries plc v Dickman
+CITATION Caparo Industries plc v Dickman [1990] 2 AC 605
+CATEGORY Misrepresentation (1); Introduction; Negligent Misstatement: Conditions of Liability
+SUMMARY ~*Overview*~
+/->-The appellants had been auditors of the accounts of a publicly listed company, Fidelity plc. The respondents, Caparo, bought shares in Fidelity in reliance upon the accounts. They later alleged that the accounts had been negligently prepared and certified, and that they would have not have bought the shares and suffered loss as a result had they known that. They asserted that the auditors had a duty of care to investors and potential investors, and that it had been breached.
+/->-The House of Lords allowed the auditors' appeal, overturning the majority decision of the Court of Appeal. Although it had been “foreseeable” (in the broad, law of tort sense) that shareholders including Caparo might rely on the accounts, there was nevertheless insufficient proximity between them and the auditors. To extend the auditors' duty of care to cover a use of the accounts for which they were not in fact provided would be to go beyond the principles of liability deducible from existing House of Lords authority, which required the following elements to support the imposition of a duty: (a) that the loss sustained by the claimant was foreseeable; (b) that there was sufficient proximity between the claimant and the defendant; and (c) that it was fair, just and reasonable to impose a duty of care in the circumstances.
+SUMMARY ~*Detail*~
+/->-Lord Bridge, referring to the three elements listed above, recognised that proximity and fairness were not capable of such precise definition as to be practical tests; rather, they were labels for those features of individual situations which the law would recognise pragmatically and on a case-by-case basis as giving rise to the duty of care.
+/->-Lord Oliver of Aylmerton analysed the principles which could properly be extracted from <i>Hedley Byrne v Heller</i>:
+/->-“What can be deduced from the <i>Hedley Byrne</i> case, therefore, is that the necessary relationship between the maker of a statement or giver of advice ("the adviser") and the recipient who acts in reliance upon it ("the advisee") may typically be held to exist where (1) the advice is required for a purpose, whether particularly specified or generally described, which is made known, either actually or inferentially, to the adviser at the time when the advice is given; (2) the adviser knows, either actually or inferentially, that his advice will be<br 
+/->-communicated to the advisee, either specifically or as a member of an ascertainable class, in order that it should be used by the advisee for that purpose; (3)it is known either actually or<br 
+/->-nferentially, that the advice so communicated is likely to be acted upon by the advisee for that purpose without independent inquiry, and (4) it is so acted upon by the advisee to his<br 
+/->-detriment. That is not, of course, to suggest that these conditions are either conclusive or exclusive, but merely that the actual decision in the case does not warrant any broader propositions”.
+SUMMARY ~*Discussion*~
+/->-The reasons for which the ambit of the duty needs to be defined in this way will probably be obvious to any student of tort, but it may nevertheless be helpful to confirm what is probably the main one. It is already made very clear in <i>Hedley Byrne</i> itself. Negligent words, as opposed to negligent actions, have a potentially limitless reach. The risk of indeterminate liability to an indeterminate class must be avoided.
+
+
+
+
+NAME Henderson v Merrett Syndicates
+CITATION Henderson v Merrett Syndicates [1995] 2 AC 145
+CATEGORY Misrepresentation (1); Introduction; Negligent Misstatement: Conditions of Liability
+SUMMARY ~*Overview*~
+/->-In outline, this action was part of litigation brought against managing agents in the Lloyds of London market by individual investors (“names”) who alleged that the funds to which they subscribed had been negligently managed. Links between names and managing agents were of two types – direct and indirect. Of particular relevance for the application of the <i>Hedley Byrne</i> principle were the relationships between names and managing agents which were indirect in that a member's agent stood between the two (and the name's contract was only with the member's agent).
+/->-The House of Lords held that the <i>Hedley Byrne</i> principle applied to both the relationships in issue in the litigation. The case has chiefly been regarded as authority, contrary to previous doctrine, that there was no principled reason why contractual and tortious liability should not exist concurrently in an action.
+SUMMARY ~*Detail*~
+/->-As far as the further refinement of <i>Hedley Byrne</i> is concerned, the decision is significant because it vindicates the prime importance of the “assumption of responsibility” test in the leading case. This had come under criticism in some decisions subsequent to <i>Hedley Byrne</i>, chiefly because it came to be regarded as somewhat unrealistic and therefore misleading. In <i>Henderson v Merrett</i> Lord Goff rehabilitates this test. He goes on to explain that certain consequences follow from its affirmative nature. One is that a disclaimer of responsibility will prevent the duty of care from arising. Another is that an assumption of responsibility may well not be found where information or advice etc. is given in informal circumstances. Perhaps the most important consequence is that an assumption of responsibility makes it unnecessary to enquire whether it is “fair, just and reasonable” to recognise a duty of care not to cause economic loss. That question is overshadowed by the affirmative character of the assumption of responsibility.
+SUMMARY ~*A closer look*~
+/->-_Judicial discussion of what is meant by an “assumption of responsibility” does not end with this case, but it is far from being a clash between wholly opposing views. The difference is one merely of emphasis; the test undoubtedly includes an objective as well as a subjective enquiry, but while some have criticised the test because it downplays the objective view, others like Lord Goff clearly value it because its subjective framing allows it to be applied with some flexibility. All would agree that “assumption” must tend to mean “deemed assumption”. All would also agree that any test has limited validity within this area; the truth is that the facts of individual cases are decisive, and the difficulty of deriving general principles from them can clearly be seen. _
+/->-_The resemblance between “assumption of responsibility” and the test of intention in contract has been academically noticed (see Stathis Banakas, “Voluntary Assumption of Tort Liability in English Law: A Paradox?” InDret 4/2009). Ordinarily, tortious liability is imposed because of the relationship between the parties, irrespective of their thoughts on the subject. The parties' objectively understood intention, by contrast, is the basis of contractual liability. Negligent misstatement seems to have grown to resemble a contractual analysis. It is not imposed. It grows out of an objective assessment of the parties' dealings._
+/->-_A resemblance between the contractual perspective and the present action is not surprising. The circumstances in which negligent misstatement can be successfully used as a cause of action are effectively those in which it is anomalous that there is no contract linking the parties. Often, an implied contract could be found if it were not for the absence of consideration. Seen from the viewpoint of a contract lawyer, negligent misstatement presents itself as a means of doing justice where a narrow understanding of consideration prevents that being achieved through the law of contract._
+/->-_The next case includes substantial discussion of the development of the law since <i>Hedley Byrne</i>, but in itself it is a direct application of the ratio of the leading case – a disclaimer is a factor likely to prevent the finding that responsibility has been assumed. It is included here on the assumption that it may be helpful to see a detailed example of the court's handling of negligent misstatement in a context far easier to grasp than that of the Lloyds litigation._
+
+
+
+
+NAME McCullough v Lane Fox and Partners Ltd
+CITATION McCullough v Lane Fox and Partners Ltd [1996] PNLR 205
+CATEGORY Misrepresentation (1); Introduction; Negligent Misstatement: Conditions of Liability
+SUMMARY ~*Overview*~
+/->-The plaintiff was interested in buying a large 1930s riverside house in Chiswick. He intended to demolish it and build a new house, and therefore was not going to have it surveyed before purchase. The vendors' agent was Lane Fox, represented at all material times by Mr Scott. The plaintiff had received details of the property from Lane Fox. They contained the statement that the garden was 0.92 of an acre, and a disclaimer of responsibility. The plaintiff said that he had not studied the particulars, but that he knew that they would include disclaimers. In the course of showing the property to the plaintiff, Mr Scott repeated the statement that the garden was 0.92 of an acre. In fact, when preparing the particulars, he had misread his own notes which showed that the garden was 0.48 of an acre. After buying the property, the plaintiff discovered the true size of the garden, and brought the present action alleging negligent misstatement by Lane Fox.
+/->-The Court of Appeal held that the conditions of liability for negligent misstatement were present, save that the disclaimer in the particulars negatived the required proximity between the parties. The plaintiff's appeal was therefore turned down.
+SUMMARY ~*Detail*~
+/->-a name="para95"></a><a name="para94"></a>Hobhouse LJ explained how liability would have arisen but for the disclaimer: “In the present case there was a direct relationship between Mr Scott and Mr McCullagh. Mr Scott made the representation to Mr McCullagh: he chose to speak to him and make a factual statement which was designed to influence the decision making processes of Mr McCullagh. Mr Scott was holding himself out as a person who knew the area of the land being offered for sale, presumably because he had measured it or had supervised its measurement. He had a special knowledge which was not available to Mr McCullagh. The relation­ship was a business one. Mr Scott had a financial interest in influencing persons to buy the property and to buy at as high a price as could be negotiated. His remuneration, as everyone knew, was dependant upon someone agreeing to buy the land and upon the price at which that person was willing to purchase. He would be paid by way of a commission payable out of the deposit paid by the purchaser. Indirectly, he would be paid by the purchaser. The absence of a specific consideration moving directly from the representee to the representor is the only thing which prevents the rela­ti­on­ship between them from being contractual. Thus far I see nothing in the structure of the transaction which would negative a duty of care to be owed by the estate agent in relation to any representation the estate agent chooses to make to the prospective purchaser for the purpose of influenc­ing him to buy. It is his choice to make a representation intended to influence the representee which amounts to the assumption of responsibility. It is foreseeable that such a representation may be relied on since it was intended to have the effect of influencing the prospective purchaser to buy….
+/->-a name="para101"></a><a name="para100"></a>On the Sunday, Mr Scott knew, or ought to have known, that his representation was likely to be relied on by Mr McCullagh. However he also knew that Mr McCullagh had the Lane Fox particulars which included <i>both</i> the relevant statement and the disclaimer. In my judgment the result of this is that the element of proximity was negatived. A reasonable person, appreciating that the statement which he was proposing to rely upon was a statement contained in the particulars and the fact that those particulars also stated that
+/->-"all statements contained in these particulars as to this property are made without responsibility on the part of Lane Fox ...",
+/->-a name="para102">would understand that there was no assumption of responsibility by Lane Fox. This understanding would be reinforced by para­graphs 3, 4 and 5 of the disclaimer. In my judgment the dis­claim­er puts the present case on all fours with the actual decision in <i>Hedley Byrne </i>as explained earlier.</a
+/->-a name="para103">The Judge avoided this conclusion by approaching the disclaimer as if it were a contractual exclusion. On such an approach it would need to be strictly construed and the argument was available that it did not as such cover an oral statement. But that is not, in my judgment, the right approach. It is not an exclusion to be construed. The right approach, as is made clear in <i>Hedley Byrne</i>, is to treat the existence of the disclaimer as one of the facts relevant to answering the question whether there had been an assumption of responsibility by the Defendants for the relevant statement. This question must be answered objectively by reference to what a reasonable person in the position of Mr McCullagh would have understood at the time that he finally relied upon the representation. In this context, it is obvious that the statement that the acreage of the property is 0.92 was a statement which was taken from the particulars and that the Defendants were not assuming responsi­bility for that statement. The mere fact that Mr Scott, when showing Mr Mc­Cullagh round the property, gave the same inform­ation to Mr McCullagh orally would not lead a reasonable person to conclude that the Defendants were there­by choosing to assume responsi­bility for the statement which they said in the particulars they were not assuming responsi­bility for. The sub­mission that such a conclusion would be reasonable is unreal. It was not supported by any evidence. Mr McCullagh said (surprisingly) that he had not bothered to read the particulars but he also said that he knew that they would contain disclaimers of the type which they in fact did. The submission was further inconsistent with paragraph 5 of the dis­claimer. The essence of the law of negligence is the application of objective standards of reason­ableness. By those standards, it is clear that the Defendants were not assuming responsibility for the accuracy of the statement about the acreage. The position might be different if the representation had been about something not, or not expected to be, included in the particulars”.</a
+SUMMARY ~*Discussion*~
+/->-It may seem surprising that there is apparently such a difference of approach to a contractual exemption (usually treated as a defence and sometimes read down by strict construction), and a disclaimer of responsibility (regarded here as defining or indeed negating the duty of the defendant to the plaintiff). A means of explaining this distinction is to note that a contractual exemption must be judged on its effect upon promises for the performance of which the promisee has paid. A non-contractual disclaimer is judged in relation to information gratuitously offered, and therefore deserves a less narrow construction.

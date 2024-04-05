@@ -1,0 +1,37 @@
+META subject 'herling'
+META defcols '3'
+META enableTests false
+META currentTexture 'img/textures/cream-paper.png'
+
+NAME David Herling's Lectures
+TYPE Help
+YEAR 2016
+CATEGORY David Herling's lectures in flashcard format, with links to Westlaw, etc.
+SPECIAL ->-Flip over the current card by pressing *right*, flip back with *left*, or continue to the next with *right* again. On iPhones/iPads, *swiping* right or left should also work.<br><br>->-If a <span class="sansfont">Sans Serif Font</span> would be easier to read on your screen, uncheck *Garamond* in the options. If the wacky cards-in-a-pile thing gets up your nose, adjust the *messiness*, etc. Also, if the typeface on cards with lots of text gets just *too small to read*, select *larger minimum font* in the options.<br><br>->-*_Note well_* -- this set of cards was generated _automatically_ from the text of the sage Dr. H's texts, so _there may well be_ straggly/incomplete/missing items.
+SUMMARY ~*Filter*~
+/->-Enter *case names*, *categories*, *concepts*, or a *phrase text* (in quotes). These broaden out what's displayed, i.e., they combine disjunctively, with *or*, rather than *and*. That needs no further explanation as _it's 2016_ and _you're used to westlaw_, etc. You can also enter names of *tags*, *courts*, and *card type* (case, principle, statute, etc). These *restrict* the cards displayed. If the thing you're searching for doesn't appear in the list of suggestions, it'll be searched for as a phrase in the body of the cards. 
+SUMMARY ~*Options & Config*~
+/->-The button with three lines (top left corner) reveals a panel with options for display, etc. It remembers where you were, so when you can close the browser and reopen it a day later, you'll be back at the same place, with the same selection. (If something fucks egregiously up, there's a very discreet link marked *reset everything* on the bottom left.)
+SUMMARY ~*Use on iPhones/iPads*~
+/->-Pro tip: a much more biddable experience is to be had by pressing *share* at the bottom of the browser window, then *add to home screen*.
+SUMMARY ~*Tags*~
+/->-Drag tags onto cards from the panel on the right. Make up your own tags. Drag them away from the card to 'detag.' 
+SUMMARY ~*Westlaw Cases*~
+/->-Each case should appear (approximately) twice. Firstly the summary from my notes; secondly, if it could be found, the abstract/summary directly from Westlaw. Obviously everything pertaining to a case with _(Westlaw)_ in the title is of their copyright.
+SUMMARY ~*Links*~
+/->-A link to another cards will bring it to the front, but it fades out unless you click/press it to keep it in place. *Case cards* should have *On Westlaw* link in the top right or bottom left. This should bring up the judgment on westlaw, if you have a session open. Other links may appear when appropriate, or when my level of botherment about it was inexplicably non-trivial.
+SUMMARY ~*Notes*~
+/->-_*Note well*_ -- this was chucked together _in a hurry_ so def. has bugs, glitches, half-rephrased sentences in the cards, etc. And it's meant for the *latest version of Safari or Chrome* on *Mac*. What, you're a law student and you don't have a Mac?
+/->-_*Also note that*_ -- the actual _cards_ in this set have been _automatically_ generated directly from the text of Herling's lectures, and I _absolutely_ am not going to check each one. There may be stray bits of markup, missingness/incompleteness. Don't _rely_ on this.
+
+
+
+NAME David Herling's Lectures - Contents
+TYPE Table of Contents
+CATEGORY Sets of Cards for Specific Lectures
+SPECIAL *Term 1* -- 2: ^Offers^ -- 3: ^Responses to Offers^ -- 4: ^Communication of Acceptance^ -- 5: ^Incomplete and Vague Agreements^ -- 6: ^Consideration^ -- 7: ^Towards Promissory Estoppel^ -- 8: ^Intention to Create Legal Relations^ -- 9: ^Incorporation of Terms^ <br><br>*Term 2* -- 10: ^Interpretation of Contracts^ -- 11: ^Classification of Terms^ -- 12: ^Exemption Clauses (UCTA 1997 and CRA 2015)^ -- 13: ^Misrepresentation (1)^ -- 14: ^Misrepresentation (2)^ -- 15: ^Mistake^ -- 16: ^Frustration^ -- 17: ^Breach of Contract^ -- 18: ^Remedies^.
+SUMMARY ~*Term 1*~ 
+/2: ^Offers^ -- 3: ^Responses to Offers^ -- 4: ^Communication of Acceptance^ -- 5: ^Incomplete and Vague Agreements^ -- 6: ^Consideration^ -- 7: ^Towards Promissory Estoppel^ -- 8: ^Intention to Create Legal Relations^ -- 9: ^Incorporation of Terms^
+SUMMARY ~*Term 2*~ 
+/10: ^Interpretation of Contracts^ -- 11: ^Classification of Terms^ -- 12: ^Exemption Clauses (UCTA 1997 and CRA 2015)^ -- 13: ^Misrepresentation (1)^ -- 14: ^Misrepresentation (2)^ -- 15: ^Mistake^ -- 16: ^Frustration^ -- 17: ^Breach of Contract^ -- 18: ^Remedies^.
+

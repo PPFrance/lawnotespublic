@@ -1,0 +1,392 @@
+
+
+NAME Baldry v Feintuck 
+CITATION Baldry v Feintuck [1972] 1 WLR 552
+CATEGORY Charities; Charitable Purposes
+SUMMARY Tony Baldry (head of chambers at 1 Essex Court) sued the students' union of his university, that of Sussex. The students' union was an charitable trust for education, but had purported to amend its constitution to make its aims the promotion of subjects of interest to its members. Resolutions were passed voting money to something called "War on Want," and to a campaign against the ending of free milk in schools. 
+HELD A charitable trust for education, purporting to have amended its aims to allow for them to be nakedly political, has done so ultra vires.  
+
+
+NAME Independent Schools Council v Charity Commission
+CATEGORY Charities; Purposes
+HELD TODO
+
+
+NAME Gaudiya Mission v Brahmachary
+CATEGORY Charities; Purposes
+
+
+
+--    NAME Statute of Elizabeth 1601
+--    TYPE Statute
+--    CATEGORY Charities; Purposes
+--    FLAGS Historical
+
+
+NAME Re Clark
+CITATION Re Clarke [1923] 2 Ch 407
+CATEGORY Charities; Charitable Purposes; Poverty
+HELD Poverty is *relative* to an individual's circumstances. 
+
+
+
+NAME Re Coulthurst's Will Trust
+CITATION Re Coulthurst Will Trust [1951] Ch 66 
+YEAR 1951
+CATEGORY Charities; Charitable Purposes; Poverty
+HELD Destitution is not necessary to be considered in poverty; merely _'to go short in ordinary circumstances'_.
+
+
+
+NAME Mary Clark Homes Trustees v Anderson
+CITATION Mary Clark Homes Trustees v Anderson [1904] 2 KB 645
+YEAR 1904
+CATEGORY Charities; Charitable Purposes; Poverty
+HELD People will be considered poor if their circumstances are _'genuinely straitened'_ and they are unable to maintain a '_modest standard of living_' for themselves and any dependents.
+
+
+NAME Re Sanders WT
+CITATION Re Sanders' Will Trust [1954] Ch 265
+YEAR 1954
+CATEGORY Charities; Charitable Purposes; Poverty
+HELD The working classes are _not_ inherently poor.
+HELD Cf. |Re Niyazi's WT|
+
+
+NAME Re Niyazi's WT
+CITATION Re Niyazi's Will Trust [1978] 1 WLR 910 
+CATEGORY Charities; Charitable Purposes; Poverty
+HELD The intended users of a working men's hostel in Cyprus _are_ inherently poor, so a charitable purpose for the construction of such a thing was upheld. 
+HELD Cf. |Re Sanders WT|.
+
+
+NAME Re Young
+CITATION Re Young [1951] Ch 344
+CATEGORY Charities; Charitable Purposes; Poverty
+HELD A charitable trust for _'distressed gentlefolk'_ -- members of a Pall Mall club who had _'fallen on evil days'_ was found to be valid, as a charitable purpose for the relief of poverty. (!)
+
+
+NAME AG v Power
+CATEGORY Charities; Charitable Purposes; Poverty
+HELD _'Widows and orphans in a particular areas'_ may be poor for the purposes of the validity of a charitable trust.
+
+NAME Re Lucas
+CATEGORY Charities; Charitable Purposes; Poverty
+HELD The charitable purpose of giving _'5 Guinea a week to the eldest respectable inhabitant in Gunville'_ was found to be valid.
+
+
+NAME Thompson v Thompson
+CATEGORY Charities; Charitable Purposes; Poverty
+HELD A charitable trust to give _'gifts to unsuccessful literary men'_ was valid.
+
+
+NAME Re Gwyon
+CATEGORY Charities; Purposes
+HELD The purpose of _'providing knickers to boys'_ was not valid as a charitable purpose for the relief of poverty.
+
+
+NAME IRC v Baddeley
+YEAR 1955
+CATEGORY Charities; Charitable Purposes; Poverty
+HELD A charitable purpose for poverty must aim to _relieve_ the poverty.
+
+NAME Joseph Rowntree Memorial Trust v AG
+CITATION Joseph Rowntree Memorial Trust Housing Association Ltd v AG [1983] 2 WLR 284
+YEAR 1983
+CATEGORY Charities; Charitable Purposes; Poverty
+HELD A charitable purpose for poverty must not merely entail _amusing_ the poor, but _relieving_ their poverty. 
+COMMENT This seems a little unfair. What do the poor need more than having their minds taken off their misery? Apart from clothes, shoes, shelter and food? They need _cheering up_.
+
+
+NAME AITC's Application for Registration of Charity
+YEAR 2006
+CATEGORY Charities; Purposes
+CATEGORY Charities; Charitable Purposes; Poverty
+HELD Discussing what _prevention_ of poverty might mean, a valid charitable purpose was _not_ the mitigation of financial losses resulting from unwise investments. Nevertheless, narrow grounds were found to allow the application.
+
+
+
+NAME Re Dupree's Deed Trust
+YEAR 1945
+CATEGORY Charities; Charitable Purposes; Education
+HELD A chess tournament for boys in Portsmouth was a _valid_ charitable purpose for advancement of education -- but such a purpose was further held to mark out the limit of what would be accepted.
+
+
+
+NAME McGrath v Cohen
+CITATION McGrath v Cohen [1978] 1 NSWLR 621
+CATEGORY Charities; Charitable Purposes; Education
+HELD In Australia, the provision of a rose garden at a university _was_ a valid charitable purpose for the advancement of education.
+
+
+NAME Re Melody
+CATEGORY Charities; Charitable Purposes; Education
+HELD The provision of _'an annual treat or field day for school children'_ was a valid charitable purpose for education.
+
+
+
+NAME Re Lopes
+YEAR 1931
+CATEGORY Charities; Charitable Purposes; Education
+HELD The provision of _elephant rides to schoolchildren_ was a valid charitable purpose.
+
+
+
+NAME Royal Choir Society v IRC
+YEAR 1943
+CATEGORY Charities; Charitable Purposes; Education
+HELD The charitable purpose of advancement of education is _not_ limited to book-learning in classrooms -- it also includes education of _aesthetic taste_ and sensibility.
+
+
+
+NAME Council of Law Reporting v AG
+YEAR 1973
+CATEGORY Charities; Charitable Purposes; Education
+HELD Advancement of education for a charitable purpose can include _any useful branch of knowledge_.
+
+
+NAME Re Hummeltenberg
+YEAR 1923
+CATEGORY Charities; Charitable Purposes; Education
+HELD The establishment of a school to train spiritualistic mediums is _not valid_ as a charitable purpose for the advancement of education.
+
+
+
+NAME Re Pinion
+YEAR 1965
+CATEGORY Charities; Charitable Purposes; Culture
+CATEGORY Charities; Charitable Purposes; Education
+HELD The establishment of a museum to exhibit a collection of art which expert opinion deems to be _a worthless pile of junk_, is not a valid charitable purpose for the advancement of the arts and culture. Held obiter -- the establishment of _a school for pickpockets and prostitutes_ would not be a valid charitable purpose for the advancement of education. 
+
+
+
+NAME Southwood v AG
+YEAR 2000
+CATEGORY Charities; Charitable Purposes; Education; Political Purpose
+HELD A political aim masquerading as an educative one is _not valid_ as a charitable purpose.
+
+
+NAME Re Shaw
+CITATION Re Shaw [1957] 1 WLR 729
+CATEGORY Charities; Charitable Purposes; Education
+HELD Research into a 40-letter alphabet is _not valid_ as a charitable purpose for education -- for wont of utility, and perhaps also, for surplus of piss-taking and frivolity.
+
+
+NAME Re Hopkin's WT
+YEAR 1965
+CATEGORY Charities; Charitable Purposes; Education
+HELD Research into whether the Shakespeare plays were written by someone called Francis Bacon or someone called William Shakespeare _was valid_ as an educational charitable purpose, despite its recondite and slightly obsessive character.
+
+
+NAME Re British School of Egyptian Archeology
+YEAR 1954
+CATEGORY Charities; Charitable Purposes; Education
+HELD Research carried out in fulfilment of a charitable purpose for education must be intended to be disseminated, rather than kept private or simply for the private satisfaction of the researcher.
+
+
+NAME Re South Place Ethical Society
+YEAR 1980
+CATEGORY Charities; Charitable Purposes; Religion
+HELD A religion is both (i) belief in _something supernatural_, and (ii) _faith in and worship of_ the aforesaid. 
+
+
+NAME Hubbard v Vosper
+CATEGORY Charities; Charitable Purposes; Religion
+FLAGS Denning
+HELD Scientology is _not_ a valid religion as a charitable purposes. Cf. |Church of New Faith v Tax Commissioners| and |Hodkin|.
+
+
+NAME Church of New Faith v Commissioners for Payroll Tax
+AKA Church of New Faith v Tax Commissioners
+CATEGORY Charities; Charitable Purposes; Religion
+HELD In Australia, scientology _is valid_ as a religion for a charitable purpose. Cf. |Hubbard v Vosper| and |Hodkin|.
+
+
+
+NAME R (ex p. Hodkin) v Registrar
+AKA Hodkin
+CATEGORY Charities; Charitable Purposes; Religion
+HELD For purposes of being a valid place to hold a marriage, a scientology "chapel" is a place of worship. Cf. |Hubbard v Vosper| and |Church of New Faith v Tax Commissioners|.
+
+
+
+NAME United Grand Lodge of Masons v Holborn BC
+CATEGORY Charities; Charitable Purposes; Religion; Advancement
+HELD Advancement of religion is _promoting it, spreading its message wider among mankind, and taking positive steps to sustain and increase_, with pastoral and missionary characteristics, etc.
+
+NAME Gnostic Centre
+CITATION Gnostic Centre's Application for Charitable Status [2009]
+CATEGORY Charities; Charitable Purposes; Religion
+HELD Denying the application, the Charity Commission listed these four conditions for an entity to be considered a religion, for the purposes of charitable status: 1. Belief in a god/supreme being/divine/plural/transcendental being/spiritual principle; 2. A relationship between believer and entity (worship); 3. A degree of cogency, cohesion, seriousness or importance; 4. Identifiable positive, beneficial, moral and ethical framework.
+
+NAME Druid Foundation
+CITATION Druid Foundation's Application for Charitable Status [2009]
+CATEGORY Charities; Charitable Purposes; Religion
+HELD On the basis of the criteria spelt out in |Gnostic Centre|, the application for charitable status was accepted.
+
+
+
+NAME McGovern v AG
+YEAR 1982
+CATEGORY Charities; Invalid Charitable Purposes; Politics
+HELD Advocacy for a political change _cannot be a valid charitable purpose_ as the courts would have no way of adjudicating whether a particular change would be for _public benefit_, without taking inherently political stances.
+HELD Slade J -- the courts lack the means to judge if the proposed change animating such a purpose would indeed be for public benefit. To attempt to do so would be to trespass on the role of legislature, and in so doing, would jeopardise the judiciary's reputation for political impartiality.
+
+
+NAME National Anti-Vivisection Society v IRC
+YEAR 1948
+CATEGORY Charities; Invalid Charitable Purposes; Politics
+HELD Advocacy for something requiring a change in the law is political; therefore, it is not a valid charitable purpose.
+COMMENT See also |Re Satterthwaite's WT|
+
+
+NAME Re Bushnell
+YEAR 1975
+CATEGORY Charities; Invalid Charitable Purposes; Politics
+HELD The purpose of _'disseminating socialist medicine'_ is not a valid charitable purpose.
+
+
+NAME Bonar Law Memorial Trust v IRC
+CATEGORY Charities; Invalid Charitable Purposes; Politics
+HELD A donation to a political party is _not_ a valid charitable purpose.
+
+
+
+
+NAME Thomas v Howell
+CITATION Thomas v Howell (1874) 
+CATEGORY Charities; Charitable Purposes; Health and Saving Lives
+HELD A gift to the RNLI is a valid charitable purpose, as would be gifts to other rescue services -- as long as they don't charge.
+
+NAME Re Resch WT
+CITATION Re Resch Will Trust (1969)
+CATEGORY Charities; Charitable Purposes; Health and Saving Lives
+HELD Provision of medical care for which a fee is charged _is_ a valid charitable purpose.
+
+
+NAME Re Verall
+CITATION Re Verall (1916)
+CATEGORY Charities; Charitable Purposes; Health and Saving Lives
+HELD The curation and maintenance of historically valuable or significant objects is a _valid_ charitable purpose. 
+
+
+
+NAME Re Nottage
+CITATION Re Nottage [1985] 
+CATEGORY Charities; Charitable Purposes; Amateur Sport
+HELD Amateur yacht racing was _not_ a valid charitable purpose under the pre-2006 law.
+
+
+NAME Re Marriette
+CITATION Re Marriette [1915] 
+CATEGORY Charities; Charitable Purposes; Education
+CATEGORY Charities; Charitable Purposes; Amateur Sport
+HELD Sport in schools is for _education of the body_ -- and was therefore a valid charitable purpose under the pre-2006 law.
+
+NAME IRC v Macmullan 
+CITATION IRC v Macmullan [1981] 
+CATEGORY Charities; Charitable Purposes; Amateur Sport
+HELD House of Lords authority for PE in School and University _being valid_ as a charitable trust, because it entails the _holistic development_ of the person. 
+
+
+
+
+-- NAME McGovern v AG
+-- CITATION McGovern v AG [1982]
+-- CATEGORY Charities; Charitable Purposes; Human Rights etc
+-- HELD The activities of Amnesty International were deemed to be _political_, undermining its charitable status.
+
+NAME R (ex p. Bull) v Radio Authority 
+CITATION R (ex p. Bull) v Radio Authority [1998]
+CATEGORY Charities; Charitable Purposes; Human Rights etc
+HELD A radio station for the promotion of human rights was deemed to be promoting a purpose necessitating a political change, and thus was not a valid charitable purpose for the promotion of human rights.
+
+
+
+NAME Re Robinson
+CITATION Re Robinson [1951] 
+CATEGORY Charities; Charitable Purposes; Relief of those in Need
+HELD A trust to put up a block of flats for those _65 or older_ succeeded as a charitable purpose for the relief of those in need by virtue of age. Poverty was not necessary in addition to age.
+
+
+NAME Re Wedgwood
+CITATION Re Wedgwood [1951]
+CATEGORY Charities; Charitable Purposes; Animal Welfare
+HELD The charitable purpose of finding a more humane manner of slaughtering animals for meat was held to be _valid_, for the imaginative reason that _it would taste better_ to those who ate it in the knowledge of its provenance.
+
+NAME Re Grove-Grady
+CITATION Re Grove-Grady [1929] 
+CATEGORY Charities; Charitable Purposes; Animal Welfare
+HELD Prior to 2006, a charitable purpose for animal welfare also had to confer some benefit on _people_. For this reason, the provision of as refuge for _'all animals, to live together in harmony, free from human molestation'_, was not a valid charitable purpose.
+
+
+NAME Re Gray
+CITATION Re Gray [1925] 1 Ch 362 
+CATEGORY Charities; Charitable Purposes; Efficiency of Armed Forces
+HELD Promotion of the efficiency of the armed forces or emergency services was a valid charitable purpose under the pre-2006 law.
+
+NAME Re Good
+CITATION Re Good [1925]
+CATEGORY Charities; Charitable Purposes; Efficiency of Armed Forces
+HELD The provision of a library for army officers was a valid charitable purpose for promotion of the efficiency of the armed forces.
+
+
+
+NAME Re Harwood
+CITATION Re Harwood [1936]
+CATEGORY Charities; Cy-près; Initial Failure
+HELD If the charitable purpose can be shown to have mattered _more_ to the testator than the particular charity, then a gift that would vest _after_ the charity folds will be applied cy-près. Or if the gift fails because the charity doesn't exist.
+
+NAME Re Lysaght 
+CITATION Re Lysaght [1966] Ch 191
+CATEGORY Charities; Cy-près; Initial Failure
+HELD The cy-près doctrine was employed to delete a condition attached by the testator of a gift establishing a scholarship, that it was _not for Roman Catholics or Jews_ (!).
+
+NAME Re Satterthwaite's WT 
+CITATION Re Satterthwaite's WT  (1966)
+CATEGORY Charities; Cy-près; Initial Failure
+SUMMARY  The whole estate was left in equal shares to nine institutions -- one of which was the National Anti-Vivisection society, a political organisation.
+HELD Cy-près will be applied to a testamentary charitable gift that fails initially, when its context makes clear a general charitable intention.
+
+NAME Re Finger's WT 
+CITATION Re Finger's WT [1972] Ch 286
+CATEGORY Charities; Cy-près; Initial Failure
+HELD Where there is a general charitable intention, but a testamentary gift has nevertheless left specifically to a particular charity which is defunct by the time the testator dies, it may still be applied cy-près -- especially if no no heirs to the estate can be identified.
+
+
+NAME Re Slevin 
+CITATION Re Slevin [1891] 2 Ch 236
+CATEGORY Charities; Cy-près; Subsequent Failure
+HELD Should the purpose of a charity fail, property successfully vested in it will be applied cy-près to another charity, even should it have been given with no general charitable intention.
+
+NAME Re King 
+CITATION Re King [1923] 1 Ch 243
+CATEGORY Charities; Cy-près; Subsequent Failure
+HELD Anything left over once the charitable purpose of a gift has been achieved will be applied cy-près
+
+
+NAME Re Wright 
+CITATION Re Wright [1954] Ch 347
+CATEGORY Charities; Cy-près; Subsequent Failure
+HELD 
+
+
+
+
+NAME Biscoe v Jackson 
+CITATION Biscoe v Jackson (1887) 35 Ch D 460
+CATEGORY Charities; Cy-près; Subsequent Failure
+
+
+
+
+NAME Re Vernon's WT 
+CITATION Re Vernon's WT [1972] Ch 300
+CATEGORY Charities; Cy-près; Subsequent Failure
+
+
+
+
+
+
+

@@ -1,0 +1,237 @@
+META filename eu-13-quantitative-restrictions-and.fc.txt
+
+
+
+
+
+NAME Rewe-Zentral v Bundesmonopolverwaltung fuer Branntwein
+CASENUM C-120/78
+CITATION Rewe-Zentral v Bundesmonopolverwaltung fuer Branntwein [1979] ECR 649) that
+CATEGORY Quantitative Restrictions And; Ecr I-6097:
+FLAGS
+
+
+
+
+
+
+NAME Verband Sozialer Wettbewerb eV v Clinique Laboratories SNC
+CASENUM C-315/92
+CITATION Verband Sozialer Wettbewerb eV v Clinique Laboratories SNC [1994]
+CATEGORY Quantitative Restrictions And; Ecr I-6097:
+FLAGS
+
+
+
+
+
+
+NAME Verein gegen Unwesen in Handel und Gebewe Koeln eV v Mars
+CASENUM C-470/93
+CITATION Verein gegen Unwesen in Handel und Gebewe Koeln eV v Mars 
+CATEGORY Quantitative Restrictions And; Ecr I-317.
+FLAGS
+
+
+
+
+
+
+NAME and 258/93 Punto Casa SpA v Sindaco del Comune di Capena
+CASENUM C-69/93
+CITATION and 258/93 Punto Casa SpA v Sindaco del Comune di Capena 
+CATEGORY Quantitative Restrictions And; Ecr I-317.
+FLAGS
+
+
+
+
+
+
+NAME Hünermund and others v Landesapothekerkammer
+CASENUM C-292/92
+CITATION Hünermund and others v Landesapothekerkammer Baden
+CATEGORY Quantitative Restrictions And; [1994] Ecr I-2355.
+FLAGS
+
+
+
+
+
+
+NAME Societe d’Importation Edouard Leclerc-Siplec v TFI Publicite & M6
+CASENUM C-412/93
+CITATION Societe d’Importation Edouard Leclerc-Siplec v TFI Publicite & M6 
+CATEGORY Quantitative Restrictions And; [1994] Ecr I-2355.
+FLAGS
+
+
+
+
+
+
+NAME Konsumerntombudsmannen (KO) v Gourmet International Products
+CASENUM C-405/98
+CITATION Konsumerntombudsmannen (KO) v Gourmet International Products 
+CATEGORY Quantitative Restrictions And; [1994] Ecr I-2355.
+FLAGS
+
+
+
+
+
+
+NAME Deutscher Apothekerverband eV v 0800 DocMorris NV, Jaques Waterval
+CASENUM C-322/01
+CITATION Deutscher Apothekerverband eV v 0800 DocMorris NV, Jaques Waterval 
+CATEGORY Quantitative Restrictions And; Ab (Gip) [2001] Ecr I-1795.
+FLAGS
+
+
+
+
+
+
+NAME Commission v Greece
+CASENUM C-391/92
+CITATION Commission v Greece [1995] ECR I
+CATEGORY Quantitative Restrictions And; [2003] Ecr I-14887.
+FLAGS
+
+
+
+
+
+
+NAME and C-159/04 Alfa Vita and Carrefour-Marinopoulos v Elliniko
+CASENUM C-158/04
+CITATION and C-159/04 Alfa Vita and Carrefour-Marinopoulos v Elliniko 
+CATEGORY Quantitative Restrictions And; [2003] Ecr I-14887.
+FLAGS
+
+
+
+
+
+
+NAME Vereinigte Familiapress Zeitungsverlags-Und Vertriebs GmbH v
+CASENUM C-368/95
+CITATION Vereinigte Familiapress Zeitungsverlags-Und Vertriebs GmbH v 
+CATEGORY Quantitative Restrictions And; [2003] Ecr I-14887.
+FLAGS
+
+
+
+
+
+
+NAME Schutzverband gegen unlauteren Wettbewerb v TK-Heimdienst
+CASENUM C-254/98
+CITATION Schutzverband gegen unlauteren Wettbewerb v TK-Heimdienst Sass
+CATEGORY Quantitative Restrictions And; [2003] Ecr I-14887.; How Clear Is The Clarification?
+FLAGS
+
+
+
+
+
+
+NAME Burmanjeer
+CASENUM C-20/03
+CITATION Burmanjeer [2005] ECR I
+CATEGORY Quantitative Restrictions And; [2003] Ecr I-14887.; How Clear Is The Clarification?
+FLAGS
+
+
+
+
+
+
+NAME Commission v Portugal
+CASENUM C-265/06
+CITATION Commission v Portugal [tinted film on car windows) [2008] ECR I
+CATEGORY Quantitative Restrictions And; [2003] Ecr I-14887.; How About Rules On The Use Of Products?
+FLAGS
+
+
+
+
+
+
+NAME Commission v Italy (re: trailers)
+CASENUM C-110/05
+CITATION Commission v Italy (re: trailers) [2009] ECR I
+CATEGORY Quantitative Restrictions And; [2003] Ecr I-14887.; How About Rules On The Use Of Products?
+FLAGS
+
+
+
+
+
+
+NAME Sandoz
+CASENUM C-174/82
+CITATION Sandoz [1983] ECR 2445
+CATEGORY Quantitative Restrictions And; [2003] Ecr I-14887.; How About Rules On The Use Of Products?
+FLAGS
+
+
+
+
+
+
+NAME Mickelsson and Roos (re: jet skis)
+CASENUM C-142/05
+CITATION Mickelsson and Roos (re: jet skis) [2009] ECR I
+CATEGORY Quantitative Restrictions And; [2003] Ecr I-14887.; How About Rules On The Use Of Products?
+FLAGS
+
+
+
+
+
+
+NAME Apple and Pear Development Council
+CASENUM C-22/82
+CITATION Apple and Pear Development Council 
+CATEGORY Quantitative Restrictions And; [2003] Ecr I-14887.; The Issue Of Horizontal Effect
+FLAGS
+
+
+
+
+
+
+NAME 2Commission v France
+CASENUM C-265/95
+CITATION Commission v France 
+CATEGORY Quantitative Restrictions And; [2003] Ecr I-14887.; The Issue Of Horizontal Effect
+FLAGS
+
+
+
+
+
+
+NAME Fra.bo
+CASENUM C-171/11
+CITATION Fra.bo ECLI:EU:C:2012:453
+CATEGORY Quantitative Restrictions And; [2003] Ecr I-14887.; The Issue Of Horizontal Effect
+FLAGS
+
+
+
+
+
+
+NAME Commission v Italy; Case C-142/05, Åklagaren 	v. Percy Mickelsson and Joakim Roos; Case C-265/06, Commission v Portugal, 	(2009) 46 CMLRev
+CASENUM C-110/05
+CITATION Commission v Italy; Case C-142/05, Åklagaren 	v. Percy Mickelsson and Joakim Roos; Case C-265/06, Commission v Portugal, 	(2009) 46 CMLRev 2001
+CATEGORY Quantitative Restrictions And; [2003] Ecr I-14887.; The Issue Of Horizontal Effect
+FLAGS
+
+
+
+
+
+

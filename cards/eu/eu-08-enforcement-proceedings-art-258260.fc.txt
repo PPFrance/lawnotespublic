@@ -1,0 +1,655 @@
+META filename eu-08-enforcement-proceedings-art-258260.fc.txt
+
+--STOP--
+
+
+
+NAME Commission v UK
+CASENUM C-416/85
+CITATION Commission v UK [1988] ECR 3127:
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; The Objective Nature Of The Procedure
+FLAGS
+
+
+
+
+
+
+NAME Commission v Belgium (re: timber tax)
+CASENUM C-77/69
+CITATION Commission v Belgium (re: timber tax) [1970] ECR 237:
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; The Scope Of Art. 258 Tfeu
+FLAGS
+
+
+
+
+
+
+NAME Commission v France (re: blockades)
+CASENUM C-265/95
+CITATION Commission v France (re: blockades) [1997] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; The Scope Of Art. 258 Tfeu
+FLAGS
+
+
+
+
+
+
+NAME Commission v Italy
+CASENUM C-129/00
+CITATION Commission v Italy [2003] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; National Courts Too?
+FLAGS
+
+
+
+
+
+
+NAME R. v Bouchereau
+CASENUM C-30/77
+CITATION R. v Bouchereau [1977] ECR 1999
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; National Courts Too?
+FLAGS
+
+
+
+
+
+
+NAME Commission v Ireland
+CASENUM C-494/01
+CITATION Commission v Ireland [2005] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; The Administrative Stage
+FLAGS
+
+
+
+
+
+
+NAME Commission v Netherlands
+CASENUM C-96/89
+CITATION Commission v Netherlands [1991] ECR 2461
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; The Administrative Stage
+FLAGS
+
+
+
+
+
+
+NAME 1Commission v Netherlands
+CASENUM C-350/02
+CITATION Commission v Netherlands [2004] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; The Administrative Stage
+FLAGS
+
+
+
+
+
+
+NAME Commission v Germany
+CASENUM C-76/86
+CITATION Commission v Germany [1989] ECR 1021
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; The Administrative Stage
+FLAGS
+
+
+
+
+
+
+NAME Commission v France (re: Euratom)
+CASENUM C-7/71
+CITATION Commission v France (re: Euratom) [1971] ECR 1003:
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; The Commission’S Discretion
+FLAGS
+
+
+
+
+
+
+NAME 1Commission v UK
+CASENUM C-416/85
+CITATION Commission v UK [1988] ECR 3127:
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; The Commission’S Discretion
+FLAGS
+
+
+
+
+
+
+NAME 1Commission v Ireland
+CASENUM C-74/82
+CITATION Commission v Ireland [1984] ECR 317:
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; The Commission’S Discretion
+FLAGS
+
+
+
+
+
+
+NAME Commission v Italy (re: ban on pork imports)
+CASENUM C-7/61
+CITATION Commission v Italy (re: ban on pork imports) [1961] ECR 317:
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; The Commission’S Discretion
+FLAGS
+
+
+
+
+
+
+NAME 1Commission v Italy
+CASENUM C-7/68
+CITATION Commission v Italy [1968] ECR 423:
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; The Commission’S Discretion
+FLAGS
+
+
+
+
+
+
+NAME 1Commission v Italy (re: ban on pork imports)
+CASENUM C-7/61
+CITATION Commission v Italy (re: ban on pork imports) [1961] ECR 317
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; The Reasoned Opinion
+FLAGS
+
+
+
+
+
+
+NAME Lütticke v Commission
+CASENUM C-48/65
+CITATION Lütticke v Commission [1966] ECR 19
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; The Reasoned Opinion
+FLAGS
+
+
+
+
+
+
+NAME Commission v France (re: French merchant seamen)
+CASENUM C-167/73
+CITATION Commission v France (re: French merchant seamen) [1974] ECR 359
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; Defences By Member States
+FLAGS
+
+
+
+
+
+
+NAME 1Commission v France (re: blockades)
+CASENUM C-265/95
+CITATION Commission v France (re: blockades) [1997] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; Defences By Member States
+FLAGS
+
+
+
+
+
+
+NAME Commission v Germany (re: annual accounts)
+CASENUM C-191/95
+CITATION Commission v Germany (re: annual accounts) [1998] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; Defences By Member States
+FLAGS
+
+
+
+
+
+
+NAME 2Commission v Italy
+CASENUM C-385/02
+CITATION Commission v Italy [2004] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; Defences By Member States
+FLAGS
+
+
+
+
+
+
+NAME Commission v Greece (in Enforcement Proceedings)
+CASENUM C-226/89
+CITATION Commission v Greece (in Enforcement Proceedings) [1988] ECR 3611
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; Defences By Member States
+FLAGS
+
+
+
+
+
+
+NAME Star Fruit v Commission
+CASENUM C-247/87
+CITATION Star Fruit v Commission [1989] ECR 291
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; Involvement Of Citizens As Complainants
+FLAGS
+
+
+
+
+
+
+NAME Spain v UK
+CASENUM C-145/04
+CITATION Spain v UK [2006] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; Art. 259 Tfeu
+FLAGS
+
+
+
+
+
+
+NAME 1Commission v Germany
+CASENUM C-503/04
+CITATION Commission v Germany [2007] ECR
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; The Effect Of The Court’S Ruling
+FLAGS
+
+
+
+
+
+
+NAME Commission v France C-304/02
+CASENUM C-304/02
+CITATION Commission v France (1) C-304/02
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; How Are The Sanctions Determined?
+FLAGS
+
+
+
+
+
+
+NAME Commission v France C-117/04
+CASENUM C-177/04
+CITATION Commission v France [2006] ECR
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; How Are The Sanctions Determined?
+FLAGS
+
+
+
+
+
+
+NAME Commission v Portugal (in Enforcement Proceedings)
+CASENUM C-70/06
+CITATION Commission v Portugal (in Enforcement Proceedings) [2008] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; How Are The Sanctions Determined?
+FLAGS
+
+
+
+
+
+
+NAME Commission v Greece (re: toxic waste)
+CASENUM C-387/97
+CITATION Commission v Greece (re: toxic waste) [2000] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; How Are The Sanctions Applied?
+FLAGS
+
+
+
+
+
+
+NAME Commission v France (re: fisheries)
+CASENUM C-304/02
+CITATION Commission v France (re: fisheries) [2005] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; How Are The Sanctions Applied?
+FLAGS
+
+
+
+
+
+
+NAME Simmenthal v Ministero delle Finanze
+CASENUM C-35/76
+CITATION Simmenthal v Ministero delle Finanze [1976] ECR 1871:
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; Article 267 Tfeu:
+FLAGS
+
+
+
+
+
+
+NAME and C-197/89 Drodzi v Belgium
+CASENUM C-297/88
+CITATION and C-197/89 Drodzi v Belgium [1990] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; Which Questions May Be Referred Pursuant To Article 267 Tfeu?
+FLAGS
+
+
+
+
+
+
+NAME Leur-Bloem v Inspecteur der Belastingdienst/Ondernemingen
+CASENUM C-28/95
+CITATION Leur-Bloem v Inspecteur der Belastingdienst/Ondernemingen 
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; Which Questions May Be Referred Pursuant To Article 267 Tfeu?
+FLAGS
+
+
+
+
+
+
+NAME and C-299/07 VTB-VAB NV v Total Belgium NV and Galatea BVBA v Sanoma Magazines Belgium NV
+CASENUM C-261/07
+CITATION and C-299/07 VTB-VAB NV v Total Belgium NV and Galatea BVBA v Sanoma Magazines Belgium NV [2009] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; Which Questions May Be Referred Pursuant To Article 267 Tfeu?
+FLAGS
+
+
+
+
+
+
+NAME Broekmeulen v Huisarts Registratie Commissie
+CASENUM C-246/80
+CITATION Broekmeulen v Huisarts Registratie Commissie [1981] ECR 2311
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; What Is “A Court Or Tribunal” Pursuant To Article 267 Tfeu?
+FLAGS
+
+
+
+
+
+
+NAME Pretore di Salo v Persons Unkown
+CASENUM C-14/86
+CITATION Pretore di Salo v Persons Unkown [1987] ECR 2445
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; What Is “A Court Or Tribunal” Pursuant To Article 267 Tfeu?
+FLAGS
+
+
+
+
+
+
+NAME Nordsee v Reederei Mond
+CASENUM C-102/81
+CITATION Nordsee v Reederei Mond [1982] ECR 1095
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; What Is “A Court Or Tribunal” Pursuant To Article 267 Tfeu?
+FLAGS
+
+
+
+
+
+
+NAME Dorsch Consult Ingenieurgesellschaft v Bundesbaugesellschaft Berlin
+CASENUM C-54/96
+CITATION Dorsch Consult Ingenieurgesellschaft v Bundesbaugesellschaft Berlin [1997]
+CATEGORY Enforcement Proceedings Art. 258-260; Main Reading; What Is “A Court Or Tribunal” Pursuant To Article 267 Tfeu?
+FLAGS
+
+
+
+
+
+
+NAME SYFAIT et als v GlaxoSmithKline plc
+CASENUM C-53/03
+CITATION SYFAIT et als v GlaxoSmithKline plc [2005] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; Ecr I-4961:
+FLAGS
+
+
+
+
+
+
+NAME Paul Miles and Others v European Schools, judgment of 14 June 2011 (discussed in Tutorial
+CASENUM C-196/09
+CITATION Paul Miles and Others v European Schools, judgment of 14 June 2011 (discussed in Tutorial 8)
+CATEGORY Enforcement Proceedings Art. 258-260; Ecr I-4961:
+FLAGS
+
+
+
+
+
+
+NAME Rheinmuehlen v Einfuhr-und Vorratsstelle Getreide
+CASENUM C-166/73
+CITATION Rheinmuehlen v Einfuhr-und Vorratsstelle Getreide [1974] ECR 33
+CATEGORY Enforcement Proceedings Art. 258-260; Ecr I-4961:; What Is The Scope Of The Discretion Conferred By Article 267 (2) Tfeu ?
+FLAGS
+
+
+
+
+
+
+NAME Georgi Ivnov Elchinov, judgment of 5 October
+CASENUM C-173/09
+CITATION Georgi Ivnov Elchinov, judgment of 5 October 2010:
+CATEGORY Enforcement Proceedings Art. 258-260; Ecr I-4961:; What Is The Scope Of The Discretion Conferred By Article 267 (2) Tfeu ?
+FLAGS
+
+
+
+
+
+
+NAME Pasquale Foglia v Mariella Novello
+CASENUM C-194/79
+CITATION Pasquale Foglia v Mariella Novello [1980] ECR 745
+CATEGORY Enforcement Proceedings Art. 258-260; Ecr I-4961:; What Is The Scope Of The Discretion Conferred By Article 267 (2) Tfeu ?
+FLAGS
+
+
+
+
+
+
+NAME Pasquale Foglia v Mariella Novello (No 2)
+CASENUM C-244/80
+CITATION Pasquale Foglia v Mariella Novello (No 2) [1981] ECR 3045:
+CATEGORY Enforcement Proceedings Art. 258-260; Ecr I-4961:; What Is The Scope Of The Discretion Conferred By Article 267 (2) Tfeu ?
+FLAGS
+
+
+
+
+
+
+NAME Weinand Meilicke v ADV/ORGA F.A. Meyer AG
+CASENUM C-83/91
+CITATION Weinand Meilicke v ADV/ORGA F.A. Meyer AG [1992] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; Ecr I-4961:; What Is The Scope Of The Discretion Conferred By Article 267 (2) Tfeu ?
+FLAGS
+
+
+
+
+
+
+NAME Pretore di Genova v Banchero
+CASENUM C-157/92
+CITATION Pretore di Genova v Banchero [1993] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; [1993] Ecr I-393.
+FLAGS
+
+
+
+
+
+
+NAME Monin Automobiles I
+CASENUM C-386/92
+CITATION Monin Automobiles I [1993] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; [1993] Ecr I-393.
+FLAGS
+
+
+
+
+
+
+NAME Lyckeskog
+CASENUM C-99/00
+CITATION Lyckeskog [2002] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; [1993] Ecr I-393.; Which Courts Are Under A Duty To Refer?
+FLAGS
+
+
+
+
+
+
+NAME Hoffmann-La Roche v Centrafarm
+CASENUM C-107/76
+CITATION Hoffmann-La Roche v Centrafarm [1977] ECR 957:
+CATEGORY Enforcement Proceedings Art. 258-260; [1993] Ecr I-393.; What Is The Scope Of The Duty Imposed Under Article 267 (3) Tfeu?
+FLAGS
+
+
+
+
+
+
+NAME CILFIT
+CASENUM C-182/81
+CITATION CILFIT [1982] ECR 3415
+CATEGORY Enforcement Proceedings Art. 258-260; [1993] Ecr I-393.; What Is The Scope Of The Duty Imposed Under Article 267 (3) Tfeu?
+FLAGS
+
+
+
+
+
+
+NAME to C-233/06 National Pensions Office v Jonkman and others
+CASENUM C-231/06
+CITATION to C-233/06 National Pensions Office v Jonkman and others [2007] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; [1993] Ecr I-393.; What Is The Effect Of An Article 267 Tfeu Judgment?
+FLAGS
+
+
+
+
+
+
+NAME Wells
+CASENUM C-201/02
+CITATION Wells [2004] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; [1993] Ecr I-393.; What Is The Effect Of An Article 267 Tfeu Judgment?
+FLAGS
+
+
+
+
+
+
+NAME Azienda Agricola Giorgio, Giovanni e Luciano Visentin and Others
+CASENUM C-495/00
+CITATION Azienda Agricola Giorgio, Giovanni e Luciano Visentin and Others [2004] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; [1993] Ecr I-393.; What Is The Effect Of An Article 267 Tfeu Judgment?
+FLAGS
+
+
+
+
+
+
+NAME Firma Foto-Frost v Hauptzollamt Lübeck-Ost
+CASENUM C-314/85
+CITATION Firma Foto-Frost v Hauptzollamt Lübeck-Ost [1987] ECR 4199
+CATEGORY Enforcement Proceedings Art. 258-260; [1993] Ecr I-393.; Preliminary Rulings On Validity
+FLAGS
+
+
+
+
+
+
+NAME and 92/89 Zückerfabrik Suderdithmarschen AG v Hauptzollamt
+CASENUM C-143/88
+CITATION and 92/89 Zückerfabrik Suderdithmarschen AG v Hauptzollamt 
+CATEGORY Enforcement Proceedings Art. 258-260; [1993] Ecr I-393.; Preliminary Rulings On Validity
+FLAGS
+
+
+
+
+
+
+NAME Atlanta Fruchthandelsgesellschaft I
+CASENUM C-465/93
+CITATION Atlanta Fruchthandelsgesellschaft I [1995] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; [1993] Ecr I-393.; Preliminary Rulings On Validity
+FLAGS
+
+
+
+
+
+
+NAME Gaston Schul Douane-expediteur BV v Minister van Landbouw, Natuur en
+CASENUM C-461/03
+CITATION Gaston Schul Douane-expediteur BV v Minister van Landbouw, Natuur en 
+CATEGORY Enforcement Proceedings Art. 258-260; [1993] Ecr I-393.; Preliminary Rulings On Validity
+FLAGS
+
+
+
+
+
+
+NAME TWD Textilwerke Deggendorf GmbH v Germany
+CASENUM C-188/92
+CITATION TWD Textilwerke Deggendorf GmbH v Germany [1994] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; [1993] Ecr I-393.; The Relationship Between Articles 267 And 263 Tfeu
+FLAGS
+
+
+
+
+
+
+NAME Wiljo NV v Belgian State
+CASENUM C-178/95
+CITATION Wiljo NV v Belgian State [1997] ECR I
+CATEGORY Enforcement Proceedings Art. 258-260; [1993] Ecr I-393.; The Relationship Between Articles 267 And 263 Tfeu
+FLAGS
+
+
+
+
+
+
+NAME Gauweiler
+CASENUM C-62/14
+CITATION Gauweiler ECLI:EU:C:2015:400:
+CATEGORY Enforcement Proceedings Art. 258-260; [1993] Ecr I-393.; National Courts As European Courts
+FLAGS
+
+
+
+
+
+

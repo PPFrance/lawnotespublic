@@ -1,0 +1,62 @@
+
+NAME Locus Standi - Discussion
+TYPE Concept
+LINK Konrad Schiemann, 'Locus Standi' [1990]  http://login.westlaw.co.uk/maf/wluk/app/document?&srguid=i0ad82d0800000154bad6cb15269c0909&docguid=ID3C0B5D0E72111DA9D198AF4F85CA028&hitguid=ID3C0B5D0E72111DA9D198AF4F85CA028&rank=1&spos=1&epos=1&td=141&crumb-action=append&context=23&resolvein=true
+CATEGORY Judicial Review; Standing; Schiemann
+SUMMARY *~Justification for Standing~*
+SUMMARY Why *should* there be this requirement? Schiemann J in _Public Law_ [1990] considers the pros and cons of systems with differing degrees of *openness* of the court's door -- i.e., the advantages and disadvantages of drawing standing widely, and narrowly.
+@In favour of a relatively *closed* system of standing -- 
+++Safeguards public time and money.
+++Safeguards also the resources of the Court, facilitating the axiomatic necessity of speedy access to justice for those with a genuine grievance.
+++Manifests the traditional intuition of English law that the best argument, on the whole, will be made by the person the most directly affected. 
+@Of a more *open* system -- 
+++Provides access to the _public-spirited_, who may have something of value to say.
+++The greater the number of people who can challenge a decision, the more careful the maker of the decision will be to get it *right*. 
+++Is the traditional view of who will bring the best argument in fact correct? A pressure group may well bring a case in a far more effective manner than an individual
+
+
+
+
+
+NAME Standing
+AKA Locus Standi
+TYPE Concept
+CATEGORY Judicial Review; Standing
+SUMMARY ~*Intro*~
+/To bring an action in Judicial Review, a claimant needs standing. This is often expressed as the requirement that the claimant has *sufficient interest* in the matter.
+SUMMARY S31(3) |Senior Courts Act 1981| -- _"the court shall not grant leave unless it considers the applicant has a *sufficient interest* in the matter to which the application relates." _
+SUMMARY ~*Development*~
+/In |Ware v Regent's Canal Co| in the 1850s, Lord Chelmsford's opinion that in the absence of *_unusual_ injury*, no-one but the *Attorney General* should have standing. I.e., an officer of the government challenging the government. Note, though, in that period, that the importance of JR as a check on executive power had *not* yet been recognised.
+SUMMARY Then, in |Boyce v Paddington BC|, standing was held to be capable of arising if a *private* legal right had been affected; or by having been *atypically and intensely* affected. I.e., the bar was high.  Putting it this way round shows the importance of *private* law, *public* law being something that happened *elsewhere*.
+SUMMARY ~*Modern Law*~ 
+/Standing is _not_, in most applications for Judicial Review, a bone of contention. Most applications for Judicial Review are brought by parties affected by, e.g., specific decisions addressed to them. Usually negative ones, of course -- refused licenses, etc. Dams, treaties, excavations and nuclear reprocessing are a long way into the _exotic_ band of the spectrum.
+
+SUMMARY |Fleet Street Casuals| -- the leading case on standing.
+/|S31(3) SCA| must be read carefully. At first glance it might seem to say standing is only relevant at the _leave_ stage. It must, however, be taken to mean that standing is *also* a consideration at the substantive stage, which will be rather narrower. S31(3) requires *sufficient interest* in *the matter*. But the _leave_ stage glances only in passing at the matter, so how could it make the determination? There must therefore be *two* tests for standing. 
++*Leave stage* -- the door wide open, only to be slammed on obviously trivial, vexatious or foolish claims.
++*Substantive stage* -- a more detailed and measured view of standing is to be taken. The requirement of *sufficient interest* falls as the merit of the challenge grows.
+SUMMARY This seemed like a break from S31(3). Maybe a break*through*. No longer was standing a formalistic requirement, but became instead related to the need the court to intervene.
+
+SUMMARY However, in |Rose Theatre Trust|, a more literalist approach was taken. The meagre standing of ordinary members of the public interested in the matter did *not* to aggregate to something *above* the threshold for standing. Being consulted by the decision maker, too, does not get you standing -- but cf. |Greenpeace| a few years later, which expressly disapproved this point. Schiemann J observed that, unhealthy though it may be for the rule of law, the logic of |S31(3) SCA| plainly allows for situations where *no one* has standing to apply for judicial review. 
+
+SUMMARY |Rees-Mogg| seems to stand in contrast. The standing of an ordinary member of the public interested in constitutional affairs (presumably to the same degree as the members of the |Rose Theatre Trust| were interested in Marlowe) was *not* disputed.
+
+SUMMARY The importance of *merit* compared to *connection* was clear in |Greenpeace| and |Pergau Dam|, and even clearer by the dita of Sedley J in |R v Somerset, ex p Dixon|
+
+SUMMARY |Greenpeace| had run the argument that if *they* weren't to have standing, the decision would inevitably be JRed by a member of the public on legal aid, and they wouldn't get back their costs. One rule for the rich, another for the poor. They *were* found to have standing, for reasons not obviously different from an approvingly-stated inventory of Greenpeace's better characteristics, plus a healthy amount of pragmatism.
+SUMMARY The |Pergau Dam| case, along with |Greenpeace|, highlights the growing importance of pragmatic considerations. They seem paramount in both, particularly the consideration of what might happen it the applicant were not to have standing. All a long way from the low-water mark of |Rose Theatre Trust|. Worthy of particular note are dicta of Sedley J in |R v Somerset, ex p Dixon|.
+
+NAME Judicial Review Tactics
+TYPE Concept
+CATEGORY Judicial Review
+SUMMARY ~*Standing*~
+/|Rees-Mogg| demonstrates a tendency for the respondents in these cases to want to be seen to vindicate themselves, rather than attack right of the challenger.
+SUMMARY Three factors must be considered -- 
++Respondent's caseload
++Doctrine of Binding Precedent
++Current law on Standing
+SUMMARY Any public authority has a stream of cases to work through. It will *always* try to reduce the number. Suppose, then, it takes a point, and decides to attack standing. At the moment, the law on standing is relatively open, so they could easily lose -- rather than risk the generation of a binding precedent that might easily work against them.
+SUMMARY Sometimes, an authority might itself be uncertain of the legality of what it's doing. Someone comes along and challenges, but with a weak case -- they'll lose. What *may* happen is the judgment will, in effect, ratify what the authority is up to. 
+
+
+

@@ -1,0 +1,173 @@
+
+
+NAME Contractual Duties as Consideration
+TYPE Concept
+CATEGORY Towards Promissory Estoppel
+SUMMARY *Intro*
+@Performance already owed by promisee to promisor is *not good consideration* for promise of more pay. |Stilk v Myrick|.
+@Unless the performance in question would really be *new* duties. |Hartley v Ponsonby|. 
+
+SUMMARY _However_ --
+@Since |Williams v Roffey|, performance of *services expected to fall short* (and in doing so, to cause detriment to the other party) might be *construed as conferring a benefit* on the other party (of avoiding the detriment), and therefore be *good consideration*.
+@But only in contracts for services. Not, e.g., repaying money. |Re Selectmove - PE|.
+
+SUMMARY *Part-Payment of Debt*
+/_Is *not* good consideration_ --
+@For a promise to forgive the full amount |Foakes v Beer|, confirming the rule in |Pinnel's Case|.
+@@ Except if *not yet due* |Pinnel's Case|.
+
+SUMMARY _It *is*, though, if proffered_ --
+@*In another place* |Vanbergen v St. Edmunds|.
+@*By a third party* |Hirachand Punamchand v Temple|.
+
+
+NAME Promissory Estoppel
+TYPE Concept
+CATEGORY Towards Promissory Estoppel
+SUMMARY *Intro*
+@|Hughes v Metropolitan Railway| is the leading case, according to Treitel.
+@|Central London v High Trees| gets more attention, because Denning.
+
+SUMMARY *Requirements*
++Assurance.
++Reliance by promisee, which need _not_ be detrimental |The Post Chaser|.
++Inequitability of promisor |The Post Chaser|.
+/_and_ 
++*No* inequitability of promisee |D&C Builders v Rees|.
+
+SUMMARY *Features*
+@ Is a shield, not a sword -- counsel in |The Post Chaser|.
+@@ In |Combe v Combe| it may have toed the line. 
+@ Acts to _suspend_ legal rights, not extinguish them altogether. |Tool Metal v Tungsten Electric|. 
+
+
+
+NAME Stilk v Myrick
+CITATION Stilk v Myrick (1809) 2 Camp 317; 6 Esp 129
+CATEGORY Towards Promissory Estoppel; Existing Contractual Obligations as Consideration
+HELD Performance of a contractual obligation already owed by promisee to promisor cannot provide consideration for a new promise, which, by consequence, will not be enforceable by the promisee.
+
+
+
+NAME Hartley v Ponsonby
+CITATION Hartley v Ponsonby (1857) 7 E&B 872
+CATEGORY Towards Promissory Estoppel; Existing Contractual Obligations as Consideration
+HELD Should a promise purporting to be in exchange for performance of existing contractual obligations entail, in point of fact, performance for which the contract does _not_ provide, a new contract will have been established, and the promise will be enforceable.  The rule that existing contractual duties are not good consideration for such a promise cannot therefore apply in such circumstances.
+
+
+
+NAME Williams v Roffey
+CITATION Williams v Roffey Bros [1991] 1 QB 1
+CATEGORY Towards Promissory Estoppel; Evasion of the Rule in Stilk v Myrick
+HELD In a contract to supply goods or services, if the inadequacy of the performance of one party comes to the attention of the other, who then promises additional payment, should the performance be completed adequately and on time; the benefit the adequate and timely completion of performance would confer (e.g., by avoiding a penalty under another contract) will be good consideration for the promise, which in consequence will be enforceable.
+
+
+
+
+
+NAME Re Selectmove - PE
+CITATION Re Selectmove Ltd [1995] 2 All ER 531
+CATEGORY Towards Promissory Estoppel; Evasion of the Rule in Stilk v Myrick
+HELD The recent finding that performance of existing contractual duties can be good consideration for a promise, if such duties are unlikely to be fulfilled on time, causing a detriment to the other party -- does _not_ apply to situations where the performance in question is the repaying of a debt.
+
+
+NAME Pinnel's Case
+CITATION Pinnel's Case (1602) 5 Rep 117a
+CATEGORY Towards Promissory Estoppel; Existing Contractual Obligations as Consideration; Part Payment of a Debt as Consideration
+HELD Part-payment of a debt _on the due day_ is not good consideration for a promise to discharge the debt. Should it come _before_, or _be made in another place_, however, it may be.
+
+
+
+NAME Foakes v Beer
+CITATION Foakes v Beer (1884) 9 App Cas 605
+CATEGORY Towards Promissory Estoppel; Existing Contractual Obligations as Consideration; Part Payment of a Debt as Consideration
+FLAGS Treitel
+HELD The rule against part payment of a debt as valid consideration from |Pinnel's Case| was upheld.
+
+NAME Vanbergen v St Edmunds
+CITATION Vanbergen v St Edmunds Properties (1933)
+CATEGORY Towards Promissory Estoppel; Existing Contractual Obligations as Consideration; Part Payment of a Debt as Consideration
+HELD The rule in |Pinnel's Case| on the insufficiency of part-payment of a debt as consideration is _avoided_ when payment is proffered _in another place_ from where the debt is due.
+
+NAME Hirachand Punamchand v Temple
+CITATION Hirachand Punamchand v Temple [1911] 2 KB 330
+CATEGORY Towards Promissory Estoppel; Existing Contractual Obligations as Consideration; Evasion of Rule In Pinnel's Case
+HELD A debt payed in part _by a third party_ was held to avoid the rule of |Pinnel's Case|.
+
+
+
+NAME Hughes v Metropolitan Railway
+AKA Hughes
+CITATION Hughes v Metropolitan Railway Co (1877) 2 App Cas 439
+FLAGS Leading
+CATEGORY Towards Promissory Estoppel; Promissory Estoppel; Equity's Evasion of Pinnel's Case
+HELD When one party acts in such a way as to suppose they will not enforce a right under contract -- and the other party relies on it -- then they will be estopped from enforcing it, if doing so would be inequitable.
+
+
+
+-- NAME Birmingham and District Land Co v LNWR
+-- CITATION Birmingham and District Land Co v LNWR (1888) 40 Ch D 268
+-- CATEGORY Towards Promissory Estoppel; Promissory Estoppel; Equity's Evasion of Pinnel's Case
+
+
+
+
+NAME Central London v High Trees
+CITATION Central London Property Trust v High Trees House Ltd [1947] KB 130
+CATEGORY Towards Promissory Estoppel; Promissory Estoppel; Equity's Evasion of Pinnel's Case
+FLAGS Denning
+HELD Obiter, Denning J held that a party who agreed not to enforce a right of payment would be estopped from then claiming the money, under under |Hughes|. Promissory estoppel generally _suspends_ legal rights rather than _extinguishing them_.
+
+
+
+NAME The Post Chaser
+CITATION Societe Italo-Belge v Palm and Vegetable Oils, Malaysia (The Post Chaser) [1982] All ER 19
+CATEGORY Towards Promissory Estoppel; Characteristics of Promissory Estoppel; Reliance and Inequity
+FLAGS Denning
+HELD Promissory estoppel is only open as a defence, not an attack. It does _not require detrimental reliance_ by the party hoping to establish it, but it _does require inequitability_ to the assurance, by the other. 
+
+
+
+
+NAME D&C Builders v Rees
+CITATION D & C Builders Ltd v Rees [1966] 2 QB 617
+CATEGORY Towards Promissory Estoppel; Characteristics of Promissory Estoppel; Reliance and Inequity
+FLAGS Denning
+HELD The defence of promissory estoppel _fails_ when the party seeking to rely on it has himself behaved inequitably.
+
+
+
+
+--NAME Collier v Wright 
+--CITATION Collier v Wright (Holdings) Ltd [2007] EWCA Civ 1329
+--CATEGORY Towards Promissory Estoppel; Characteristics of Promissory Estoppel; Reliance and Inequity
+
+
+
+
+
+NAME Tool Metal v Tungsten Electric
+CITATION Tool Metal Manufacturing Co Ltd v Tungsten Electric Co Ltd [1955] 2 All ER 657
+CATEGORY Towards Promissory Estoppel; Characteristics of Promissory Estoppel; Effect of Promissory Estoppel
+HELD In the HL after the war, following the ratio of |High Trees|, promissory estoppel only covered the period for which the promise was understood to have been suspended, i.e., "for the duration." 
+
+
+
+
+
+
+
+
+--STOP--
+
+
+NAME Combe v Combe (Towards Promissory Estoppel)
+CATEGORY Towards Promissory Estoppel; Characteristics of Promissory Estoppel; Effect of Promissory Estoppel
+FLAGS Denning
+
+
+
+
+NAME Waltons Stores v Maher
+CITATION Waltons Stores (Interstate) Ltd v Maher (1988) 76 ALR 513
+CATEGORY Towards Promissory Estoppel; Characteristics of Promissory Estoppel; Limit on Use of Promissory Estoppel

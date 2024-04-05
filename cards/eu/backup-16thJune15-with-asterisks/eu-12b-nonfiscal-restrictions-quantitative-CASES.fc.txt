@@ -1,0 +1,306 @@
+META filename eu-12-nonfiscal-restrictions:-quantitative.fc.txt
+
+
+
+
+
+#NAME Donckerwolcke
+#CASENUM C-41/76
+#CITATION Donckerwolcke [1976] ECR 1921
+#CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Goods In Free Circulation
+#FLAGS
+#SUMMARY TODO.
+#HELD
+
+
+
+
+NAME Procureur du Roi v Dassonville
+AKA Dassonville
+CASENUM C-8/74
+CITATION Procureur du Roi v Dassonville [1974] ECR 837
+WIKILINK  https://en.wikipedia.org/wiki/Procureur_du_Roi_v_Benoît_and_Gustave_Dassonville
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Art 34 TFEU; First Phase
+FLAGS BE; FR; SCO
+SUMMARY Belgian law allowed Scotch, and various other products, to be sold only with a certificate of origin. Dassonville had bought on the cheap in France, however, where there was no such requirement, and so no such certificates. Resourcefully, he *made some himself* -- and was duly prosecuted for forgery. He challenged the legality of he requirement.
+HELD "5. All trading rules enacted by Member States which are *capable of hindering, directly or indirectly, actually or potentially*, intra-Community trade *are* to be considered as *measures having an effect equivalent to quantitative restrictions*."
+ 
+
+
+
+#NAME Commission v Ireland
+#CASENUM C-45/87
+#CITATION Commission v Ireland [1988] ECR 4929
+#CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Art 34 #TFEU; First Phase
+#FLAGS EU; IE
+#SUMMARY TODO.
+#HELD
+
+
+
+
+NAME Commission v UK (UHT Milk)
+AKA UHT Milk
+CASENUM C-124/81
+CITATION Commission v UK (UHT Milk) [1983] ECR 203
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Art 34 TFEU; First Phase
+FLAGS EU; GB
+SUMMARY The UK obliged imports of UHT milk to be accompanied by a license. The Commission thought this was unreasonable.
+HELD A member state may not require an import license for goods from other member states.
+
+
+
+
+NAME Commission v Ireland (Irish Souvenirs)
+AKA Irish Souvenirs
+CASENUM C-113/80
+CITATION Commission v Ireland (Irish Souvenirs) [1981] ECR 1625
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Art 34 TFEU; First Phase
+FLAGS EU; IE
+SUMMARY Irish legislation required a _souvenirs_ produced outside Ireland to be marked with their origin. In the Commission's opinion, this would potentially harm trade. Ireland's view was that the measure protected consumers, who naturally wanted to know where an item they bought was produced. 
+HELD Consumer protection is *not* a valid derogation from the prohibition on QRs and MEQRs, of which the complete list (is provided by |Art 36 TFEU|.
+
+
+
+
+NAME Simmenthal v Minister for Finance
+CASENUM C-35/76
+CITATION Simmenthal v Minister for Finance [1976] ECR 1871:
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Art 34 TFEU; First Phase
+FLAGS IT
+SUMMARY 
+HELD Compulsory systematic or sporadic veterinary inspections carried out on livestock amounted to an measure of equivalent effect to a quantitative restriction. Given the requirement that importers of livestock carry certificates attesting to the health of the animals, such a measure was disproportionate, and had no |Art 36 TFEU| defence.
+HELD TODO Giulia's note -- "Italian authority said the measure was necessary to protect public health, and guess what? Public health is in article 36. The reason is that Article 36 is not made to allow national law to derogate from national law, it does not give member state a free hand to do whatever they wish in this area. Article 36 must justify a provision, knowing that the measure must be necessary and proportional in order to protect the non fiscal interest. Who decide if the measure is proportional and necessary? This is a matter of EU law. "
+
+
+
+
+
+NAME Commission v Ireland (Buy Irish campaign)
+AKA Buy Irish Campaign
+CASENUM C-249/81
+CITATION Commission v Ireland (Buy Irish campaign) [1982] ECR 4005
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Art 34 TFEU; First Phase
+FLAGS EU; IE
+SUMMARY In an effort to stimulate its sluggish agricultural sector, Ireland organised and funded a campaign to get the Irish to "Buy Irish".
+HELD A publicity campaign orchestrated by a nation state to encourage its citizens to discriminate in favour of domestically produced products is a measure of equivalent effect to a quantitative restriction.
+
+
+
+
+NAME Apple & Pear Development Council v KJ Lewis Ltd
+CASENUM C-222/82
+CITATION Apple & Pear Development Council v KJ Lewis Ltd [1983] ECR 4083
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Art 34 TFEU; First Phase
+FLAGS GB
+HELD TODO
+
+
+
+
+NAME Commission v France (Spanish Strawberries)
+AKA Spanish Strawberries
+CASENUM C-265/95
+CITATION Commission v France [1997] ECR I
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Art 34 TFEU; First Phase
+FLAGS FR; ES
+SUMMARY French farmers -- the most pampered and subsidised farmers in the world, and also the most truculent and childish -- blockaded péage booths, stopping Spanish lorries full of strawberries from going about their business. "Pas content!" Pygmy-brained wankers. Taken to court by the Commission, France argued *it* had nothing to do with the protest. The court observed that they *did* in that they *could* have stopped it but chose not to. France tacitly threatened the Court with the blame for the civil unrest which, it intimated, may follow a finding against them -- feelings were very strong; security issues, etc. Meanwhile, the strawberries rotted in lay-bys.
+HELD A member state is liable for a breach of Art 34 if it does not prevent or stop a blockade targeting specific imports.
+
+
+
+NAME Schmidberger
+CASENUM C-112/00
+CITATION Schmidberger [2003] ECR I
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Art 34 TFEU; First Phase
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Henn and Darby
+CASENUM C-34/79
+CITATION Henn and Darby [1979] ECR 3795
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; National Autonomy Recognised
+FLAGS GB
+SUMMARY UK legislation banned required importers of pornography to obtain an import license. The UK relied on the Art 36 derogations.
+HELD 
+
+•	Background : English legislation on import of pornographic material required the importer to gain a licence. 
+Case 121/85 Conegate Ltd v Commissioners of Customs and Excise [1986] ECR 
+	1007.
+•	
+
+
+
+
+NAME Conegate Ltd v Commissioners of Customs and Excise
+CASENUM C-121/85
+CITATION Conegate Ltd v Commissioners of Customs and Excise [1986] ECR
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; National Autonomy Recognised
+FLAGS
+SUMMARY The sale of _a special kind_ of inflatable doll required a license. See also |Henn and Darby|.
+HELD background: 
+
+
+
+
+NAME Campus Oil v Minister for Industry and Energy
+CASENUM C-72/83
+CITATION Campus Oil v Minister for Industry and Energy [1984] ECR 2727
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; National Autonomy Recognised
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Casis de Dijon
+CASENUM C-120/78
+CITATION Casis de Dijon [1979] ECR 649:
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Art 34 TFEU; Second Phase
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Commission v Germany (Beer Purity)
+CASENUM C-178/84
+AKA Beer Purity
+CITATION Commission v Germany (Beer Purity) [1987] ECR 1227
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Art 34 TFEU; Second Phase
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Commission v Germany (Meat Products)
+CASENUM C-274/87
+AKA Meat Products
+CITATION Commission v Germany (Meat Products) [1989] ECR 229
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Art 34 TFEU; Second Phase
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Commission v UK (origin marking)
+CASENUM C-207/83
+CITATION Commission v UK (origin marking) [1985] ECR 1202
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Art 34 TFEU; Second Phase
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Walter Rau v de Smedt
+CASENUM C-261/81
+CITATION Walter Rau v de Smedt [1982] ECR 3961
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Art 34 TFEU; Second Phase
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Commission v Denmark (Beer Cans)
+AKA ReBeer Cans
+CASENUM C-302/86
+CITATION Commission v Denmark (Beer Cans) [1988] ECR 4607
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; Art 34 TFEU; Second Phase
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Blesgen v Belgium
+CASENUM C-75/81
+CITATION Blesgen v Belgium [1982] ECR 1211
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; The Problem Of Delimitation
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Summary proceedings against Sergius Oebel
+CASENUM C-155/80
+CITATION Summary proceedings against Sergius Oebel [1981] ECR 1993
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; The Problem Of Delimitation
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Quietlynn Ltd v Southend-on-Sea BC
+CASENUM C-23/89
+CITATION Quietlynn Ltd v Southend-on-Sea BC [1990] ECR I
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; The Problem Of Delimitation
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Oosthoek Uitgeversmaatschapij BV
+CASENUM C-286/81
+CITATION Oosthoek Uitgeversmaatschapij BV [1982] ECR 4575
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; [1985] Ecr 2605.
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Buet v Ministère Public
+CASENUM C-382/87
+CITATION Buet v Ministère Public [19829] ECR 1235
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; [1985] Ecr 2605.
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Torfaen BC v B&Q plc
+CASENUM C-145/88
+CITATION Torfaen BC v B&Q plc [1989] ECR 3851:
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; [1985] Ecr 2605.
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Stoke-on-Trent and Norwich City Councils v B&Q
+CASENUM C-169/91
+CITATION Stoke-on-Trent and Norwich City Councils v B&Q [1992] ECR I
+CATEGORY Non-Fiscal Restrictions; Quantitative Restrictions; [1985] Ecr 2605.
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+

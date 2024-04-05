@@ -1,0 +1,113 @@
+META filename herling-11-classification-of-terms.fc.txt
+
+
+
+
+
+NAME Classification of Terms - Table of Contents
+TYPE Table of Contents
+CATEGORY Classification of Terms
+SUMMARY ~*Contents*~
+@|L Schuler AG v Wickman Machine Tool Sales Ltd|
+@|Hong Kong Fir Shipping Co Ltd v Kawasaki Kisen Kaisha Ltd| - |Maredelanto Compania Naviera SA v Bergbau Handel GmbH (The Mihalis Angelis)| - |Cehave NV v Bremer Handelsgesellschaft mbH (The Hansa Nord)| - |Bunge Corporation v Tradax Export SA|
+FLAGS Hoffman
+
+
+
+
+NAME Classification of Terms - Introduction
+TYPE Concept
+CATEGORY Classification of Terms
+
+
+
+
+NAME The basics
+TYPE Concept
+CATEGORY Classification of Terms
+FLAGS Diplock
+
+
+
+
+NAME Further aspects of the remedial scheme
+TYPE Concept
+CATEGORY Classification of Terms
+
+
+
+
+NAME Conditions
+TYPE Concept
+CATEGORY Classification of Terms; Classification of Terms; Conditions
+FLAGS McKendrick
+
+
+
+
+NAME Warranties
+TYPE Concept
+CATEGORY Classification of Terms; Classification of Terms; Warranties
+
+
+
+
+NAME Innominate terms
+TYPE Concept
+CATEGORY Classification of Terms
+
+
+
+
+NAME Hong Kong Fir Shipping Co Ltd v Kawasaki Kisen Kaisha Ltd
+CITATION Hong Kong Fir Shipping Co Ltd v Kawasaki Kisen Kaisha Ltd [1962] 2 QB 26
+CATEGORY Classification of Terms; Classification of Terms; Innominate Terms
+FLAGS Diplock
+
+
+
+
+NAME Making the election to affirm or terminate
+TYPE Concept
+CATEGORY Classification of Terms
+FLAGS Diplock
+
+
+
+
+NAME Reactions to the innominate analysis
+TYPE Concept
+CATEGORY Classification of Terms
+
+
+
+
+NAME The Mihalis Angelos
+
+
+
+
+NAME The Hansa Nord
+FLAGS Denning
+
+
+
+
+NAME Bunge Corporation v Tradax Export SA
+CITATION Bunge Corporation v Tradax Export SA [1981] 1 WLR 711
+CATEGORY Classification of Terms; Classification of Terms; Innominate Terms
+FLAGS Diplock; Bramwell
+
+
+
+
+NAME Comments
+TYPE Concept
+CATEGORY Classification of Terms
+
+
+
+
+NAME Comments.
+TYPE Concept
+CATEGORY Classification of Terms

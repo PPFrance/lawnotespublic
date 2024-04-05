@@ -1,0 +1,318 @@
+div.TokenizeMeasure,
+div.Tokenize ul li span,
+div.Tokenize ul.TokensContainer li.TokenSearch input {
+    font-family: SourceSansPro, sans-serif;
+    font-size: 12px;
+}
+
+.tokenize-wrapper {
+ margin-left: 46px !important;   
+    
+}
+
+div.Tokenize {
+	box-sizing: content-box;
+	/*z-index: 440;	*/
+    position: absolute; 
+    display: inline-block;
+    zoom: 1;
+    margin-top: 5px;
+    width: 70vw;
+	min-width: 250px !important;
+	background: rgba(255,255,255,0.0);
+}
+
+
+@media only screen and (max-width: 500px) {
+ 	div.Tokenize {
+       /* left: 5px !important;
+		top: 44px !important;*/
+		width: 80vw !important;
+        min-width: 150px !important;
+        
+		/*z-index: 440;*/
+	}
+    .Dropdown {
+        position: fixed !important;
+        z-index: 3000 !important;
+        left: 42px !important;
+        margin-top: 5px !important;
+        width: 85% !important;
+        
+    }
+}
+
+
+
+div.Tokenize ul {
+    list-style: none;
+    /*padding: 0;*/
+    margin: 0;
+}
+
+div.Tokenize ul li {
+    white-space: nowrap;
+}
+
+.TokensContainer {
+/*    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);*/
+    background-color: white; /* rgba(255, 255, 255, 0);  */
+    border: 1px solid white;
+
+    cursor: text;
+    /*padding: 0 5px 5px 0;*/
+    height: 100px;
+    /*overflow-y: auto;*/
+    /*background-color: white;
+	background: rgba(255,255,255,0.0);*/
+	
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+	
+
+	border-radius: 5px !important;
+    overflow-x: hidden;
+    
+    -webkit-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1), 0 1px 5px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1), 0 1px 5px 0px rgba(0, 0, 0, 0.15);
+    
+    -webkit-transition: -webkit-box-shadow .35s ease, border .35s ease;
+    transition: box-shadow .35s ease, border .35s ease;
+    
+
+}
+
+.TokensContainer /*:not(.Focused)*/
+{
+/*    width: 31px !important; */
+    height: 31px !important;
+    overflow-y: hidden;
+    padding: 0;
+	padding-left: 28px;
+  /*  width: 100% !important;*/
+    overflow-y: auto;
+    
+  /*  transition: padding .4s ease, width .4s ease, border-color .25s, box-shadow .25s;
+    -webkit-transition: padding .4s ease, width .4s ease, border-color .25s, box-shadow .25s; 
+    transition-delay: 2s;
+    -webkit-transition-delay: 2s;*/
+}
+
+
+ul.TokensContainer:hover {
+	/*Inserted from flashcard-style.css */
+
+	-webkit-box-shadow: rgba(0, 0, 0, 0.30) 0px 1px 3px 0px, rgba(0, 0, 0, 0.36) 0px 2px 12px 3px;
+	box-shadow: rgba(0, 0, 0, 0.30) 0px 1px 3px 0px, rgba(0, 0, 0, 0.36) 0px 2px 12px 3px;
+	
+    
+    -webkit-transition: -webkit-box-shadow .35s ease, border .35s ease;
+    transition: box-shadow .35s ease, border .35s ease;
+}
+
+/*
+.TokensContainer.Focused {
+	-webkit-box-shadow: rgba(0, 0, 0, 0.30) 0px 1px 3px 0px, rgba(0, 0, 0, 0.36) 0px 2px 12px 2px !important;
+	box-shadow: rgba(0, 0, 0, 0.30) 0px 1px 3px 0px, rgba(0, 0, 0, 0.36) 0px 2px 12px 2px !important;
+
+	border-color: rgb(102, 175, 233)  !important;
+	
+	transition: border-color 0.25s, box-shadow 0.25s;
+	background: white !important;
+}*/
+
+.searchBtnWrapper {
+	position: absolute;
+	left: 4px;
+	top: 4px;
+	float: left;	
+	cursor: pointer;
+}
+.tokenize-search-btn {
+	color: lightgrey;
+	transition: text-shadow 0.25s, color 0.25s;
+}
+
+.TokensContainer:hover .tokenize-search-btn, 
+.tokenize-search-btn:hover, 
+.tokenize-search-btn.BtnFocused 
+ {
+	color: royalblue; /*#039be5; */
+    text-shadow: 0px 0px 4px rgba(0,0,0,0.05);
+	transition: text-shadow 0.25s, color 0.25s;
+}
+/*.tokenize-search-btn.BtnFocused {
+	color: #039be5; 
+	transition: color 0.3s !important;
+}*/
+
+
+
+
+div.Tokenize.Disabled ul.TokensContainer,
+div.Tokenize.Disabled ul.TokensContainer input {
+    cursor: not-allowed;
+}
+
+div.Tokenize ul.TokensContainer li.Token {
+    /*border: 1px solid #ccd5e3;*/
+    background-color: #eee;
+    /*background-color: #eff2f7;*/
+	line-height: 18px;
+	border-radius: 2.5px !important;
+    padding: 0 5px;
+    padding-top: 1.5px;
+    padding-bottom: 1.5px;
+    transition: box-shadow .25s ease;
+}
+
+/*div.Tokenize ul.TokensContainer li.Token:hover {
+	box-shadow: rgba(0, 0, 0, 0.07) 0px 2px 4px 1px;
+    transition: box-shadow .25s ease;
+}*/
+
+div.Tokenize ul.TokensContainer.ui-sortable:not(.ui-sortable-disabled) li.Token {
+    cursor: move;
+}
+
+div.Tokenize ul.TokensContainer li.Token.MovingShadow  {
+    border: 1px solid #fcefa1;
+    background-color: #fbf9ee;
+}
+
+div.Tokenize ul.TokensContainer li.Token.PendingDelete {
+    opacity : 0.5;
+    -moz-opacity : 0.5;
+    -ms-filter: "alpha(opacity=50)";
+    filter : alpha(opacity=50);
+}
+
+div.Tokenize ul.TokensContainer li.Token,
+div.Tokenize ul.TokensContainer li.TokenSearch {
+    margin: 5px 0 0 5px;
+    height: 18px;
+    float: left;
+}
+
+div.Tokenize ul.TokensContainer li.TokenSearch input {
+    margin: 0;
+    padding: 1px 0;
+    background-color: transparent;
+    line-height: 18px;
+    border: none;
+    outline: none;
+}
+
+div.Tokenize ul.TokensContainer li.Placeholder {
+    color: #ddd;
+    position: absolute;
+    line-height: 20px;
+    padding: 5px 0 0 5px;
+    display: none;
+}
+
+
+/*div.Tokenize ul.TokensContainer,*/
+div.Tokenize ul.Dropdown {
+    /*border: 1px solid #ccc;*/
+	border: 1px solid white;
+}
+
+li.Token > span {
+	cursor: default;
+	
+}
+a.Close {
+    font-family: SourceSansPro, sans-serif !important;
+    font-size: 16px !important;
+    line-height: 18px;
+    float: right;
+    margin: 1px 0 0 5px;
+    padding: 0;
+    cursor: pointer;
+    color: #a6b4ce;
+}
+
+div.Tokenize.Disabled ul.TokensContainer li.Token a.Close {
+    display: none;
+}
+
+div.Tokenize ul.TokensContainer li.Token a.Close:hover {
+    background: transparent;
+    text-decoration: none;
+}
+
+div.Tokenize ul.Dropdown {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+
+    display: none;
+    width: 100%;
+    padding: 5px 0;
+    margin: 1px 0 0 0;
+    position: absolute;
+    background-color: white;
+    overflow-y: auto;
+
+   /* -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -o-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);*/
+
+	-webkit-box-shadow: rgba(0, 0, 0, 0.30) 0px 1px 3px 0px, rgba(0, 0, 0, 0.36) 0px 2px 11px 0px !important;
+	box-shadow: rgba(0, 0, 0, 0.30) 0px 1px 3px 0px, rgba(0, 0, 0, 0.36) 0px 2px 11px 0px !important;
+
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+
+	border-radius: 5px;
+    /*-webkit-border-radius: 0 0 6px 6px;
+    -moz-border-radius: 0 0 6px 6px;
+    border-radius: 0 0 6px 6px;*/
+
+    z-index: 1000;
+}
+
+
+div.Tokenize ul.Dropdown li {
+    padding: 5px 20px;
+	border-radius: 4px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.Dropdown {
+    overflow-y: scroll !important;
+    -webkit-overflow-scrolling: touch;
+    
+}
+
+/*
+div.Tokenize ul.Dropdown li:hover {
+    color: white;
+    text-decoration: none;
+    background-color: #0081c2;
+  
+	transition: background 0.15s, color 0.15s; 
+}*/
+
+div.Tokenize ul.Dropdown li.Hover {
+    color: white;
+    text-decoration: none;
+    background-color: #0081c2;
+    /*background-image: -moz-linear-gradient(top, #00AAcc, #0077b3);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#00AAcc), to(#0077b3));
+    background-image: -webkit-linear-gradient(top, #00AAcc, #0077b3);
+    background-image: -o-linear-gradient(top, #00AAcc, #0077b3);
+    background-image: linear-gradient(to bottom, #00AAcc, #0077b3);
+    background-repeat: repeat-x;*/
+	
+	transition: background 0.2s, color 0.2s; 
+}

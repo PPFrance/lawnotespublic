@@ -1,0 +1,85 @@
+Preamble: home strait of LR, which consisted of titles, registered charges, OIs and registered protected interests.
+
+NAME Registered Protected Interests
+AKA RPIs
+TYPE Concept
+CATEGORY Registered Protected Interests
+SUMMARY *~Intro~*
+/|S29 LRA| provides that the transferee for value of a registered disposition takes the land free of every obligation except |Overriding Interests| and *things on the register*. This means *Registered Protected Interests*, RPIs, and was the big innovation of the |LRA 2002|. 
+SUMMARY The basic proposition is this -- *(i)* rights should be registered; and *(ii)* by virtue of registration, they are *protected*.
+
+SUMMARY For titles and mortgages, the registration is what *creates* the right. RPIs, on the other hand, are rights *already in existence*. Putting them on the register merely *protects* them.
+SUMMARY This is where *third party* rights are to be found -- short term leases, mortgages, etc. They're entered by the right-holder, and not the title-holder.
+
+SUMMARY ~*Scope*~
+SUMMARY Every type of property right apart from those which must be registered under |S29 LRA| can be an RPI. They're listed in |S38 LRA|. We're interested in _three_ -- 
++*Interests behind |Trusts of Land|*
+@@X is the RP, but holds the land on trust for X and Y, e.g., himself and his wife.
+@@They're designed with |Overreaching| in mind. Y's right isn't _meant_ to bite the land, for the sake of maintaining its alienability.
+/_N.B., in this example, Y's interest may in fact be an |Overriding Interest|, and so _not_ overreachable._
+@@@{Exam advice: don't make the mistake of stating that you can register a share of co-ownership. Don't do this, because you _can’t_, and saying so means you’ve understood, essentially, _fuck all_.}
++*Leases of One Year or Less*
+@@Either *legal*, overriding under |Schedule 3|(1), or *equitable*, overriding (if in actual occupation) under |Schedule 3|(2).
++*_Leasehold_ covenants*
+@@E.g., an obligation to pay rent; to maintain in a certain state of repair; not use in a certain way; not to alienate by subletting or selling.
+/(Cf. |Freehold Covenants|, which _should_ be registered.)
+@@These things are agreed as a matter of contract for _short_ leases.
+@@But what happens if tenant sells the lease to T2, and the landlord then sells the freehold to L2.
+@@@Do the leasehold covenants still bind T2 and L2?  Will they _run with_ the land?
+/{This is regulated by the |Landlord and Tenant (Covenants) Act 1995|. Whilst this is _technically_ on the syllabus, don't be surprised if it's _not_ in the exam, simply because it takes about ten hours to explain to pupils at Falcon, Wilberforce, Serle Court and Landmark, let alone a bunch of sullen GDL students}
+
+SUMMARY ~*Registration of Protected Interests -- Notices*~
+/These are either *unilateral* or *agreed*. Both offer the same protection, a unilateral Notice is not _weaker_.
++*Agreed Notices*
+@@They *contain the details* of the right.
+@@They may be arranged between parties, _or_ may be imposed by court order. 
+@@They cannot subsequently be challenged, but can be removed on expiration.
++*Unilateral Notices*~
+@@They *merely contain the fact* of the right.
+@@Subject a plausible prima facie justification, the Notice is (i) entered on the register; and (ii) the title-holder is informed.
+@@In response they may then ask for the Notice to be _vacated_.
+@@But between (i) and the response to (ii), if any, the right is legally protected.
++0N.B.: _Commercial situations in which the protection afforded by a Notice is desirable, but the disclosure of details entailed by an Agreed Notice is _not_, there may be contractual terms  stipulating the use of a Unilateral Notice -- or precluding making an entry.
+@E.g., Duke of Westminster shopping centre scenario, in which, to avoid the each short-term lessee knowing the terms of each other's terms and rent. So unilateral notices don’t necessarily mean a dispute._
+
+SUMMARY ~*Registration of Protected Interests -- Restrictions*~
+/These don't protect a right; they inhibit the RP from something. 
+@By consequence this may of course amount to an indirect protection of rights. A Restriction on _sale_ would preclude a right-holder losing out in an S29 priority dispute.
+@@E.g., an equitable _option_ is granted (i.e., by _deed_) for five years.
+@@This could be registered as an Agreed Notice.
+@@But should you want to keep the price confidential, the better bet would be to apply for a Restriction on the title preventing _sale_ without your consent, instead.
+@@@|Mortgagees| sometimes (irrelevantly) put these on your land.
+SUMMARY By contrast to Notices, anyone can apply for a Restriction on a title, not just those with property rights.
+
+
+
+
+
+
+
+NAME S27 and S38 LRA 2002
+AKA S38 LRA
+AKA S27 LRA
+TYPE Statute
+LINK S37 http://www.legislation.gov.uk/ukpga/2002/9/section/27
+LINK S38 http://www.legislation.gov.uk/ukpga/2002/9/section/38
+CATEGORY Registration; Registered Protected Interests
+SUMMARY ~*S27(1) and (2) -- Dispositions required to be registered*~
++If a disposition of a registered estate or registered charge is required to be completed by registration, it does not operate at law until the relevant registration requirements are met.
++In the case of a registered estate, the following are the dispositions which are required to be completed by registration—-
+++a transfer,
+++where the registered estate is an estate in land, the grant of a term of years absolute—
++++for a term of more than seven years from the date of the grant,
++++to take effect in possession after the end of the period of three months beginning with the date of the grant,
++++under which the right to possession is discontinuous,
++++in pursuance of Part 5 of the Housing Act 1985 (c. 68) (the right to buy), or
++++in circumstances where section 171A of that Act applies (disposal by landlord which leads to a person no longer being a secure tenant),
+++where the registered estate is a franchise or manor, the grant of a lease,
+++the express grant or reservation of an interest of a kind falling within of |LPA 1925 S1|(2)(a), other than one which is capable of being registered under Part 1 of the Commons Act 2006,
+++the express grant or reservation of an interest of a kind falling within |LPA 1925 S1|(2)(b) or (e)
+++the grant of a legal charge.
+
+SUMMARY *S38 -- Registrable dispositions*
+/Where a person is entered in the register as the proprietor of an interest under a disposition falling within section *27(2)(b) to (e)*, the registrar must also *enter a notice in the register in respect of that interest*.
+
+

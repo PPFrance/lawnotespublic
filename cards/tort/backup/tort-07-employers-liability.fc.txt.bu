@@ -1,0 +1,322 @@
+NAME Employers' Primary Liability
+TYPE Concept
+CATEGORY Employers Liability; Primary Liability
+SUMMARY An employer is under a *non-delegable duty* to their employees to take *reasonable care* of them - |Wilsons and Clyde Coal v English|. This duty must be appropriate to each employee, taking into account *his or her particular characteristics* where appropriate - |Paris v Stepney|. But this duty is *not* owed to an independent contractor.
+SUMMARY ~*The Employer Must Provide:*~
+@*Reasonably competent fellow employees* -- |Hudson v Ridge|.
+@*Adequate equipment and materials* -- |Smith v Stages|, |The Derbyshire|.
+@*A safe _system_ of work* -- |Barber v Somerset|, which has to be not merely theoretical but *operational*, too -- |McDermid v Nash|. See also |Wilsons and Clyde Coal.|.  
+@*A safe _place_ of work* - |Latimer v AEC|, and what this means _may_ be related to the particular characteristics of the employee - |Coxall v Goodyear|.
+SUMMARY ~*Defences*~
+@In practice _contributory negligence_ is the most frequently pleaded, but volenti and ex turpi causa sometimes also get a look-in. For volenti see |ICI v Shatwell|. 
+
+NAME Employers' Liability - Reading
+TYPE Reading
+CATEGORY Employers Liability
+SUMMARY ~*Essential*~
+SUMMARY Steele, _Tort Law_, Ch. 9, pp.311-314.
+SUMMARY |Wilsons and Clyde Coal v English| - |Barber v Somerset| - |Thompson v Smiths Shiprepairers| - |Coxall v Goodyear| - |Viasystems v Thermal Transfer| - |Biffa v Maschinenfabrik| - |Cox v Ministry of Justice| - |Smith v Stages| - |Lister v Hesley Hall| - |Maga v Birmingham RC Archdiocese| - |Mohamud v Morrison|.
+SUMMARY ~*Additional*~
+SUMMARY J. Bell, _The Basis of Vicarious Liability_ (2013) 72 CLJ 17<br> D. Brodie, _Enterprise Liability: Justifying Vicarious Liability_ (2007) 27 OJLS 493<br> J. Elvin, _Can an Employer be under a Duty to Dismiss an Employee for his own Good in Order to protect his Health?_ (2003) 62 Cambridge Law Journal 20<br> J. Elvin, _How Should the Law Respond to Stress-Related Claims?_ (2010) 21 King_s Law Journal 41<br> J. Elvin, _The Notion of Vicarious Liability for Sexual Abuse_ (2002) 13 King_s College Law Journal 97<br> P. Morgan, _Vicarious Liability on the Move_ (2013) 129 LQR 139 <br> R. Stevens, _A Servant of Two Masters_ (2006) 122 LQR 201<br> S. Tofaris, _Who Pays for the Sub-Contractor_s Negligence? Vicarious Liability and Liability for "Extra-Hazardous Activities" Re-Examined_ (2010) 69 Cambridge Law Journal 13<br> The Rt Hon Lord Hope of Craighead, _Tailoring the Law on Vicarious Liability_ (2013) 129 LQR 514
+SUMMARY |Paris v Stepney| - |Hudson v Ridge| - |Walker v Northumberland| - |Latimer v AEC| - |McDermid v Nash| - |Coxall v Goodyear| - |Stapley v Gypsum Mines| - |Stevenson Jordan v McDonald| - |Ferguson v Dawson| - |Viasystems v Thermal Transfer| - |Hawley v Luminar| - |JGE v Our Lady of Charity| - |Century Insurance v NI Road Transport| - |Smith v Stages| - |Bernard v AG of Jamaica| - |Gravil v Redruth| - |Radclyffe v MoD| - |Allen v Hampshire|.
+
+
+NAME Wilsons and Clyde Coal v English
+AKA Wilsons and Clyde Coal.
+YEAR 1937
+COURT EWCA
+CITATION Wilsons and Clyde Coal Ltd v English [1937] UKHL 2 
+CATEGORY Employers Liability; Primary Liability
+FLAGS Important; EPLR
+SUMMARY An employee was given the task of organising a _safe system of work_. This task he discharged negligently, with the result that another employee was crushed to death. The employer claimed that in entrusting the task to a competent employee, it had not breached the duty of care it owed to the employee.
+HELD An employer cannot wriggle out of its duty of care to its employees, a fundamental obligation, by delegating details of how that duty should be discharged to another employee.
+
+NAME Hudson v Ridge
+YEAR 1957
+COURT EWHC
+CITATION Hudson v Ridge Manufacturing Co Ltd [1957] EWHC 2 QB 348 
+CATEGORY Employers Liability; Primary Liability; Competent Employees
+FLAGS Development; Amusing
+SUMMARY An habitual practical joker, which is to say a _complete tosspot_, who'd been told to stop larking around, tripping people up, and had been told by his boss to stop doing this, and also to stop what the headnotes on the case on _Westlaw_ call _otherwise engaging in horseplay and skylarking_. He tripped someone up, who sprained their wrist and sued.
+HELD The injury resulted from the employer's failure to put a stop to the practical joker's behaviour - an employer has a duty to provide competent staff.
+
+NAME Davie v New Merton Board Mill
+YEAR 1959
+COURT UKHL
+CITATION Davie v New Merton Board Mills Ltd [1959] UKHL AC 604 
+CATEGORY Employers Liability; Primary Liability; Adequate Materials and Equipment
+FLAGS Development
+SUMMARY The claimant had been provided a tool that proved defective, dangerously so, and lost an eye when a chip of metal flew up at him. 
+HELD The supplier of the tool, and the employer, had not been negligent as regards its provision to the claimant. The course of action lay against the manufacturer.
+
+NAME Employers' Liability (Defective Equipment) Act 1969
+TYPE Statute
+LEGILINK http://www.legislation.gov.uk/ukpga/1969/37/contents
+SUMMARY Section 1 of the act provides, in contrast to |Davie v New Merton Board Mill|, that the employer is liable for damage to employees caused by defects in equipment _caused by third parties_:
+SUMMARY "(a) an employee suffers personal injury in the course of his employment in consequence of a defect in equipment provided by his employer for the purposes of the employer's business; and
+SUMMARY (b) *the defect is attributable wholly or partly to the fault of a third party (whether identified or not),*
+SUMMARY the injury shall be deemed to be also attributable to negligence on the part of the employer (whether or not he is liable in respect of the injury apart from this subsection), but without prejudice to the law relating to contributory negligence and to any remedy by way of contribution or in contract or otherwise which is available to the employer in respect of the injury."
+COMMENT The judicial interpretation of _equipment_ has been broad - |Coltman v Bibby Takers|.
+
+NAME Coltman v Bibby Takers
+AKA The Derbyshire
+YEAR 1988
+COURT UKHL
+CITATION Coltman v Bibby Takers Ltd [1988] AC 276
+CATEGORY Employers Liability; Primary Liability; Adequate Materials and Equipment; Ships
+FLAGS Important
+SUMMARY The Derbyshire went down off Japan with the loss of all hands. An action was brought by the estate of one of the crew that the ship had been _equipment_ and as such, _defective_.
+HELD A ship is indeed equipment for the purposes of S1 |Employers' Liability (Defective Equipment) Act|.
+
+
+NAME Walker v Northumberland
+YEAR 1995
+COURT EWHC
+CITATION Walker v Northumberland County Council [1995] 1 All ER 737
+CATEGORY Employers Liability; Primary Liability; Safe System of Work
+FLAGS Important
+SUMMARY The claimant had been in a position of responsibility at the defendant employer, marshalling four teams of fieldworkers, but under a 'great deal of pressure.' He was sacked when he went on four months of stress-related sick-leave, and sued for breach of duty of care of the defendant.  
+HELD The claim succeeded, as the (psychiatric) damage he incurred was due to the defendant's failure to provide a reasonable system of work.
+HELD for the purposes of employers' primary liability, _safe_ means in terms of physical _and_ mental health.
+
+
+NAME Barber v Somerset
+YEAR 2004
+COURT UKHL
+CITATION Barber v Somerset County Council [2004] UKHL 13 
+FLAGS Important; Leading; EPLR
+CATEGORY Employers Liability; Primary Liability; Safe System of Work
+SUMMARY A teacher had extra work piled onto him. When he protested he couldn't cope, he was told he merely needed to learn how to _prioritise_. Unfortunately he had a nervous breakdown. At every stage his employers were surley and unhelpful.
+HELD The employer had failed in their duty to provide a safe system of work, in giving the employee far too much work to do, and in treating his complaints about it without any sympathy.
+HELD Cf. |White v South Yorkshire Police| 
+
+
+NAME Thompson v Smiths Shiprepairers
+YEAR 1984
+COURT UKHL
+CITATION Thompson v Smiths Shiprepairers (North Shields) Ltd [1984] 1 All ER 881 
+CATEGORY Employers Liability; Primary Liability; Safe System of Work
+FLAGS Important; EPLR
+SUMMARY The claimant had worked in an industry where a risk of going deaf was accepted as more or less unavoidable. By the '60s, the need to provide employees with ear-defenders was generally known, but not standard practice in the defendant's industry. The claimant went deaf and sued.  
+HELD The defendant could only invoke _industry practice_ as a defence until the date at which the necessity and effectiveness of precautions (ear defenders) became known about - 1963. Therefore the claim succeeded, but for the loss of hearing sustained _from_ 1963 until ear-defenders were supplied.
+
+NAME McDermid v Nash
+YEAR 1987
+COURT UKHL
+FLAGS Important
+CITATION McDermid v Nash Dredging and Reclamation Co Ltd [1987] 2 All ER 878 
+CATEGORY Employers Liability; Primary Liability; Safe System of Work
+SUMMARY Although there were procedures in place, a ship-hand was injured by a rope, when the captain of the ship neglected to follow them. The defendant argued they were not liable, as they had indeed provided a safe system of work.
+HELD Not only does the system of work have to be safe, it also has to be _in operation_.
+
+NAME Coxall v Goodyear
+YEAR 2002
+COURT EWCA
+CITATION Coxall v Goodyear Great Britain Ltd [2002] EWCA Civ 1010  
+CATEGORY Employers Liability; Primary Liability; Safe Place of Work
+FLAGS Important; EPLR
+SUMMARY The claimant, who was predisposed to asthma, was told by the work doctor he shouldn't work in the paint section of the factory. No action was taken by the employer. He collapsed due to the fumes and was diagnosed with occupational asthma. 
+HELD What constitutes a safe place of work _may_ depend on the particular characteristics of an employee, and, on a case-by-case basis, liability should be assessed as such. 
+
+NAME Stapley v Gypsum Mines
+YEAR 1953
+COURT UKHL
+CITATION Stapley v Gypsum Mines Ltd [1953] UKHL AC 663
+CATEGORY Employers Liability; Primary Liability; Safe Place of Work
+CATEGORY Employers Liability; Defences; Contributory Negligence
+SUMMARY The claimant, a miner, was killed when a dangerous roof collapsed. He and another had in fact been instructed to bring the roof down, but hadn't succeeded. So they decided to continue what they'd been doing previously. 
+HELD The claimant had contributed substantially to the accident in disobeying his employer's orders, and as such, was entitled only to 20% damages.
+
+#Vicarious Liability
+
+NAME Vicarious Liability
+TYPE Concept
+CATEGORY Employers Liability; Vicarious Liability
+SUMMARY This is where employ_ee_ has committed a tort, acting in the course of his empoyment, but his liability is transferred to the employ_er_.
+SUMMARY Academic blather about of agents and principles etc notwithstanding, this doctrine arises, it seems, out of pragmatism. Employers, who have to be insured, have the moolah to stump up damages whereas employees, in general, do not. A lot of the interesting case law concerns the _Catholic Church_, and there will be bonus points in June 2016 for citing |Mohamud| [2016] in a problem question or essay. 
+SUMMARY ~*The test*~ boils down to this:
+*(1)* The *tortfeasor was the defendant's employee* - this is not the employment law definition. In situations involving subcontracting, or agency staff, the recent cases of |Viasystems| (subcontracting) and |Hawley v Luminar| (agency staff) are to be considered, but |Biffa| establishes that in such situations the burden is on the third party to show they are no longer the employer of the employee _in fact_. 
+/->-*Or* in a relationship akin to employment, the leading case for which is |Cox v Ministry of Justice| [2016], in which |Christian Brothers| [2014] was affirmed. 
+/->-*(2)* The tortfeasor did in fact commit a tort. 
+/->-*(3)* The tortfeasor committed the tort _in the course of employment_, which is to say, he was not _off on a frolic of his own_. The leading case is |Mohamud| [2016]. For the Catholic take on this, see |Maga|, but the key cases to know barring these are |Lister v Hesley Hall| and |Smith v Stages|. 
+
+
+NAME Stevenson Jordan v McDonald
+YEAR 1952
+COURT EWCA
+CITATION Stevenson Jordan & Harrison v McDonald & Evans [1952] EWCA 1 TLR 101
+CATEGORY Employers Liability; Vicarious Liability; Meaning of Employee
+FLAG Important; Denning
+SUMMARY It was unclear whether an employer would be vicariously liable for a tort committed by a person reasonably _integrated_ into a company, but not its employee sensu stricto.
+HELD What is meant by employee for the purposes of vicarious liability is not limited to the employment law meaning, but may be a function of the person's integration into the company.
+HELD Denning LJ -- 'It is often easy to recognise a contract of service when you see it, but difficult to say where the difference lies. A ship's master, a chauffeur, and a reporter on the staff of a newspaper are all employed under a contract of service; but a ship's pilot, a taxi-man, and a newspaper contributor are employed under a contract for services. One feature which seems to run through the instances is that, under a contract of service, a man is employed as part of the business, and his work is done as an integral part of the business; whereas, under a contract for services, his work, although done for the business, is not integrated into it but is only accessory to it.'
+
+NAME Ferguson v Dawson
+COURT EWCA
+YEAR 1976
+CITATION Ferguson v John Dawson & Partners (Contractors) Ltd [1976] EWCA 1 WLR 1213
+CATEGORY Employers Liability; Vicarious Liability; Meaning of Employee
+SUMMARY A casual labourer for a builder had fallen off a roof. He claimed to be owed a statutory duty of care. But he was paid in cash; there were, e.g., no NI contributions.
+HELD By majority, that the true relationship between the claimant and defendant was one of master and servant. The reality counts more than the formalities: the defendant was not on so casual a basis as to preclude the claimant owing a duty of care under employers' liability. 
+HELD Lawton LJ (dissenting): the parties to the relationship had got it right by saying the man was on 'the lump.' He avoided tax, and it was contrary to public policy for such a relationship to be recognised as employment for tort purposes.
+
+NAME Viasystems v Thermal Transfer
+AKA Viasystems
+YEAR 2005
+COURT EWCA
+CITATION Viasystems (Tyneside) Ltd v Thermal Transfer (Northern) Ltd [2005] EWCA Civ 1151
+CATEGORY Employers Liability; Vicarious Liability; Meaning of Employee; Subcontractors
+FLAGS Key; Important; EPLR
+SUMMARY The defendants had subcontracted work installing air conditioning in their factory to a company, who then subcontracted part of the work to another. The sub-sub-contractor negligently caused a flood in the claimant's factory.
+HELD Although it had been previously assumed that vicarious liablity for an employee's tort could not born dually by two parties, this was wrong. Depending on the facts, liability could be shared.
+HELD Here, both sub-contractor and sub-sub-contractor were held vicariously liable.
+
+
+NAME Hawley v Luminar
+COURT EWCA
+YEAR 2006
+CITATION Hawley v Luminar Leisure Ltd [2006] EWCA Civ 18
+FLAGS Important; Leading
+CATEGORY Employers Liability; Vicarious Liability; Meaning of Employee; Agency Staff
+SUMMARY The claimant had been assaulted and severely injured by a doorman, employed by an agency but working at the respondent's nightclub. He made a claim under vicarious liability, but the respondent argued the doorman was not their employee.
+HELD This was not like |Viasystems|, because complete control of the employee had been effectively transferred to the defendant. For the purposes of 
+
+NAME Biffa v Maschinenfabrik
+AKA Biffa
+COURT EWCA
+YEAR 2008
+CITATION Biffa Waste Services Ltd v Maschinenfabrik Ernst Hese GmbH [2008] EWCA Civ 1257
+FLAGS Key; Important; EPLR
+CATEGORY Employers Liability; Vicarious Liability; Meaning of Employee; Subcontractors
+SUMMARY For the construction of a recycling plant, a _ball mill_ had to be designed. For this the defendant was engaged. They designed it but subcontracted its construction to a third party, who worked independently. 
+HELD The burden is on the company that _lends_ employees to show the worker is now the employee of the other. 
+HELD The third party in this case had retained control over the employees, not the defendant. They were not _lent_ to the defendant.
+
+
+#Catholic cases
+
+NAME JGE v Our Lady of Charity
+COURT EWCA
+YEAR 2012
+FLAGS Important; Leading; Child Abuse
+CATEGORY Employers Liability; Vicarious Liability; Relationship akin to Employment; Catholic Church
+CATEGORY Employers Liability; Vicarious Liability; Child Abuse
+CITATION JGE v English Province of Our Lady of Charity [2012] EWCA Civ 938
+SUMMARY Victims of what the Catholic church quite astonishingly expects us to call _abuse_ instead of what it is, _the rape of children_, sued the diocese of their abuser. 
+HELD The relationship between an RC priest and his bishop was sufficiently similar to that of an employee and employer to make it just and fair to hold the diocese vicariously liable for a priest's sexual abuse, even if there was no frequent and direct control exerced by bishop on priest. 
+
+NAME Various Claimants v Institute of Christian Brothers
+AKA Christian Brothers
+COURT UKSC
+YEAR 2012
+FLAGS Key; Leading; Important; Child Abuse
+CITATION Various Claimants v Institute of the Brothers of the Christian Schools [2012] UKSC 56
+CATEGORY Employers Liability; Vicarious Liability; Relationship akin to Employment; Catholic Church
+CATEGORY Employers Liability; Vicarious Liability; Child Abuse
+SUMMARY Victims of child rape at a school for which the defendant had _supplied_ teachers had already established the school was vicariously liable. The question was whether the defendant was, too. 
+HELD The relationship between a priest sent to work in a school and the priest's _institute_ was akin to employment, even though the institute had not managed the school.
+HELD Defendants cannot avoid liability through technical arguments about the technical status of the tortfeasor.
+
+
+NAME Cox v Ministry of Justice
+AKA Cox
+YEAR 2016
+COURT UKSC
+CITATION Cox v Ministry of Justice [2016] UKSC 10
+FLAGS Key; Leading; Important; EPLR
+CATEGORY Employers Liability; Vicarious Liability; Relationship akin to Employment; Prisons
+SUMMARY The claimant, an employee of HMP Swansea, had been injured by one of the lags, a Mr. Inder, working in the prison kitchen. 
+HELD The |Christian Brothers| requirements for a relationship akin to employment were met.  
+HELD Lord Reed - the general approach described in |Christian Brothers| is *not confined to a special category of cases*, but provides a basis for identifying the circumstances in which vicarious liability may in principle be imposed outside employment relationships.
+COMMENT Note this judgment hadn't been rendered when this case was discussed by Jesse Elvin on the 20th Nov 15, so _Cox_ may appear in your lecture notes as a 2014 EWCA decision. But nothing changed. The MoD's appeal in the UKSC was unsuccessful. 
+
+NAME Century Insurance v NI Road Transport
+YEAR 1942
+COURT UKHL
+CITATION Century Insurance v Northern Ireland Road Transport Board [1942] UKHL 2
+CATEGORY Employers Liability; Vicarious Liability; In the Course of Employment; Smoking
+FLAGS Important
+SUMMARY A petrol tanker delivery driver _having a crafty fag_. He threw the match on the floor. Can you guess how this ends? The defence argued that he hadn't been acting in the course of his employment by smoking.
+HELD The defendant was liable for the damage done by a discarded match from a cigarette, which the driver was not being paid to smoke: the court ruled that he was acting in the course of his employment.
+
+
+NAME Smith v Stages
+YEAR 1989
+COURT UKHL
+CITATION Smith v Stages [1989] 1 All ER 833 
+FLAGS Important; EPLR
+CATEGORY Employers Liability; Vicarious Liability; In the Course of Employment; Detour
+SUMMARY Two employees were sent to do a week's work in a distant part of the country. They were told to finish, sleep, then drive back. In fact they finished, then drove back. They crashed through the negligence of the one at the wheel, and the other suffered serious injuries. He (and then his widow) sued the employer.
+HELD Having a choice about how to travel does not mean a particular choice is a _frolic_. They were travelling between workplaces. Had they taken a significant deviation, they would indeed have been off on a frolic of their own. 
+
+NAME Lister v Hesley Hall
+AKA Lister
+YEAR 2001
+COURT UKHL
+CITATION Lister v Hesley Hall [2001] UKHL 22
+CATEGORY Employers Liability; Vicarious Liability; In the Course of Employment; Child Abuse
+CATEGORY Employers Liability; Vicarious Liability; Child Abuse
+FLAGS Key; Important; EPLR
+SUMMARY The claimant had been interfered with by the warden of his school. He sued them as vicariously liable. They argued that the abuser had not in fact sexually abused _in the course of his employment_, as he was employed to teach, not rape. 
+HELD A finding of vicarious liability will only be made where there is *a sufficiently close connection* between the tort and the employment so that it would be fair and just to do so.
+HELD The defendant was vicariously liable, as the sexual abuse was closely connected with the thing he was employed to do - looking after the children, albeit that molesting them was the polar opposite.
+
+NAME Bernard v AG of Jamaica
+YEAR 2004
+COURT UKPC
+CATEGORY Employers Liability; Vicarious Liability; In the Course of Employment; Police
+FLAGS Amusing
+CITATION Bernard v Attorney General of Jamaica [2004] UKPC 47
+SUMMARY The claimant was using a phone in a post office. An off-duty police officer asked for use of the phone. He refused, so the officer shot him in the head. _But he didn't die_. He awoke in hospital to find the police officer who'd shot him in the head waiting to arrest *him* for assaulting a police officer, and handcuff him to the bed. 
+HELD He'd identified himself as a police officer, so even though he was off-duty, the court held he'd acted in the course of employment. 
+
+
+NAME Gravil v Redruth
+YEAR 2008
+COURT EWCA
+CATEGORY Employers Liability; Vicarious Liability; In the Course of Employment; Sport
+FLAGS Important
+SUMMARY A scrum, in a match between two semi-professional rugby teams, became a fight, after the whistle had been blown. The claimant was punched. Were the players acting in the course of their employment by the defendant, or off on a frolic of their own?
+HELD A certain degree of high-spiritedness is to be expected on the rugby pitch: that a scrum should turn into a brawl is not exactly unforeseeable, therefore the claim in vicarious liability succeeded.
+
+NAME Radclyffe v MoD
+YEAR 2009
+COURT EWCA
+CITATION Ministry of Defence v Radclyffe [2009] EWCA Civ 635
+CATEGORY Employers Liability; Vicarious Liability; In the Course of Employment; Soldiers
+SUMMARY During a training exercise, the claimant, a junior officer, had his men jump into a lake from a bridge twenty metres up. His senior officer told him it would give the impression of cowardice if he did not follow suit.  The next day, the claimant and some of the soldiers went back to the bridge on their own. The claimant jumped, but hit the water with his legs bent, causing a serious injury that left him paraplegic. He argued that the defendant had negligent giving impression it was allowed. But soldiers off duty. Was J acting in course of employment? Court said that military discipline was present at the lake. Could not make them jump in, but had authority to stop them. So he was acting in the course of employment.
+HELD Having shown the  the lake, 
+
+NAME Maga v Birmingham RC Archdiocese
+AKA Maga
+YEAR 2010
+CITATION Maga v Birmingham Roman Catholic Archdiocese Trustees [2010] EWCA Civ 256
+CATEGORY Employers Liability; Vicarious Liability; In the Course of Employment; Catholic Church; Child Abu
+CATEGORY Employers Liability; Vicarious Liability; Child Abuse
+FLAGS Important; EPLR
+SUMMARY A claim in vicarious liability by a victim of that rarest of creatures, a libidinous Catholic Priest. The claim dated back 30 years.
+HELD The priest's relationship with church is akin to that of employment and there was a sufficiently close relationship between the tort and role of priest. 
+HELD The claim was allowed for several reasons: *(i)* Fr. Clonam normally dressed as priest when abuse occurred; *(ii)* There was a special role of trust *(iii)* the duty was to evangelise, not rape children. He was ostensibly performing this duty when committing abuse. *(iv)* The priest had a specific role of youth work. *(v)* Some abuse had occurred on church premises.
+
+
+NAME Allen v Hampshire
+YEAR 2013
+COURT EWCA
+CITATION Allen v Chief Constable of Hampshire [2013] EWCA Civ 967
+CATEGORY Employers Liability; Vicarious Liability; In the Course of Employment; Police
+FLAGS Important
+SUMMARY A policeman went nutty and started stalking a fellow officer, the claimant. The nastiness included the usual repertoire of threatening letters, heavy breathing, slashed tyres, ... arson.
+HELD Although it was not proven on the facts that the harassment had been done by the officer, the court saw it as a private vendetta, a frolic, and not at all in the course of the suspect's employment.
+
+NAME Mohamud v Morrison 
+AKA Mohamud
+CITATION Mohamud v WM Morrison Supermarkets Plc [2016] UKSC 11
+COURT UKSC
+YEAR 2016
+CATEGORY Employers Liability; Vicarious Liability; In the Course of Employment; Assault
+FLAGS Key; Leading; Important; EPLR
+SUMMARY The claimant, a Somali, went to a petrol station run by the defendant. He asked an employee, one Mr. Amjid Khan, to _print out some documents on a USB drive_. This angered the employee, apparently: he replied "we don't do _such_ shit," racially abused the claimant and chased him out onto the forecourt, then subjected him to quite a nasty beating. Was Mr. Khan acting in the  In the course of employment? The EWCA said it wasn't: 'the employer providing the opportunity to provide a tort does not mean tort necessarily committed in course of employment,' and that Allowing claim would be a step too far.
+HELD In the Supreme Court, TODO
+COMMENT There is academic skepticism about this judgment, to put it mildly. Personally I'm just flabbergasted that someone would go up to the counter in a petrol station and ask for documents on a USB drive to be printed, and that someone talking English would spontaneously say 'we don't do _such_ shit,' to mean 'we don't do that kind of thing.' 
+
+

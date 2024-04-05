@@ -1,0 +1,1976 @@
+<p><b><i>A v United Kingdom</i> (1999) 1 EHRR 611</b></p>
+
+<p>Actual Bodily Harm/Grievous Bodily Harm</p>
+
+<p>A stepfather beat his stepson with a garden cane. He was charged with assault, but used a defence of lawful chastisement and the jury acquitted him.</p>
+
+<p>The stepson took his case to the ECHR saying that English law failed to protect him, which violated his Article 3 rights.</p>
+
+<p><i>Held: the law did not provide adequate protection to the applicant, English law needed to be changed. Lawful chastisement is no longer a valid defence.</i></p>
+
+<p><b><i>Abbott </i>[1977] AC 755</b></p>
+
+<p>Murder</p>
+
+<p>The defendant had took part in a murder following death threats made against himself and his mother. He held the victim while she was being stabbed with a cutlass and then buried her alive. He was convicted and given the death penalty. He appealed his conviction that the defence of duress should have been available.</p>
+
+<p><i>Held: duress is not a viable defence for murder for principal offenders.</i></p>
+
+
+
+<p><b><i>Adomako</i> [1995] 1 AC 171</b></p>
+
+<p>Gross Negligence Manslaughter </p>
+
+<p>The appellant was an anaesthetist caring for a patient during an eye operation. During the operation the oxygen tube got disconnected and the patient died. The anaesthetist's failure to recognise this and save the patient was classified as gross negligence manslaughter. Conviction was upheld by the Court of Appeal.</p>
+
+<p><i>Test for Gross Negligence Manslaughter (Lord Mackay): 1) Was there a breach of duty against the victim? 2) Did that breach of duty cause the death of the victim? 3) Were the actions of the defendant so far departed from the standard of care as to be considered criminal?</i></p>
+
+<p><b><i>Airedale NHS Trust v Bland</i> [1993] AC 789</b></p>
+
+<p>Murder</p>
+
+<p>The victim sustained brain damage during the Hillsborough disaster and was left in a persistent vegetative state. His parents applied to the court for permission to cease life support. It was granted.</p>
+
+<p><i>Held: although euthanasia is not allowed at common law (Lord Goff), merely withdrawing treatment was an omission (not commission) and was acceptable</i>.</p>
+
+<p><b><i>Aitken</i> [1992] 1 WLR 1066</b></p>
+
+<p>Grievous Bodily Harm/Consent</p>
+
+<p>Defendants were RAF officers. During a prank, they set the clothes of officers on fire (the clothes were fire retardant, had been done before without incident). This time the officer sustained serious burns. Defendants were court martialled and convicted of GBH.</p>
+
+<p><i>Held: no liability. If the officer had consented or the defendants believed that the officer had consented it was open for the judge to find that no offence had been committed</i></p>
+
+<p><b><i>Allen</i> [1985] AC 1029</b></p>
+
+<p>Debt</p>
+
+<p>Allen stayed at a hotel and left without paying his bill. He phoned the hotel and said he was experiencing financial difficulties and arranged to leave his passport to secure the debt. He was arrested and convicted for making off without payment, appealed.</p>
+
+<p><i>Held: the conviction was quashed. Making off without payment required an intention to permanently avoid payment.</i></p>
+
+
+
+<p><b><i>Alphacell Ltd v Woodward</i> [1972] AC 824</b></p>
+
+<p>Strict Liability</p>
+
+<p>A blocked pipe had caused pollution, unknown to the defendant. It was not alleged that they were negligent. Convicted and appealed, but appeal was rejected.</p>
+
+<p><i>Held: needed to be held liable under strict liability for public policy reasons. Otherwise, it could open the door for more pollution. Mala prohibitor crime. Easier to ignore mens rea.</i></p>
+
+<p><b><i>Ahluwalia</i> [1992] 4 All ER 889</b></p>
+
+<p>Diminished Responsibility/Provocation</p>
+
+<p>A wife set her husband on fire, and he died from his injuries. He had been abusive and having an affair. Defendant claimed provocation, but was convicted. Defendant appealed on misdirection of trial judge, and claimed defense of diminished responsibility. </p>
+
+<p><i>Held: the original judge's direction on provocation was correct (Duffy test). On those grounds, the appeal was not allowed. However, the appeal was allowed on grounds of diminished responsibility, although the court stressed that it was exceptional for new evidence to be allowed.</i></p>
+
+<p><b><i>Anderson and Morris</i> [1966] 2 QB 110</b></p>
+
+<p>Deliberate Departure from the Common Design</p>
+
+<p>The defendant went with D1 to confront the victim after the victim tried to strangle D1's wife. D1 began beating the victim, and stabbed the victim to death. The defend-ant denied knowing that D1 had a knife. The defendant was convicted of manslaughter and appealed.</p>
+
+<p><i>Held: if people embark on a joint enterprise, each is liable for acts done in pursuance of that joint enterprise, but if one goes beyond what has been agreed as part of the enterprise, the other is not liable for the unauthorized act.</i></p>
+
+<p><i>The defendant won the appeal and their conviction was quashed.</i></p>
+
+
+
+<p><b><i>Anderton v Ryan</i> [1985] 1 AC 560, [1985] 2 All ER 355</b></p>
+
+<p>Intent</p>
+
+<p>The defendant was found in possession of a video camera. She believed it to be stolen, but refused to name the source. After it became clear that there was no evidence that it was stolen, she was convicted of attempting to handle stolen goods.</p>
+
+<p><i>Held: a conviction is prevented where the full offence could not follow from preparatory acts. It would be unfair to turn an innocent act into an offence of attempting to commit the crime, merely by virtue of the defendant's criminal intent. Overturned by Shivpuri</i></p>
+
+<p><b><i>Asmelash</i> (2013) EWCA Crim 157</b></p>
+
+<p>Provocation: Voluntary Intoxication</p>
+
+<p>There was a dispute in a lounge where the defendant had been drinking that led to Asmelash killing the victim.</p>
+
+<p><i>Held: the court said that the fact the defendant had been drinking was irrelevant; may only be relevant as part of the circumstances leading up to the killing of the provocation; otherwise not relevant.</i></p>
+
+<p><b><i>AG for Jersey v Holley</i> [2005] UKPC 23, 3 WLR 29</b></p>
+
+<p>Provocation/Loss of Control</p>
+
+<p>The defendant killed his gf, had feelings of worthlessness and depression.</p>
+
+<p><i>Held: the court did not consider this part of the diminished powers of self-control; they only consider the age and sex of the defendant for this defence. If the defendant wants other factors taken into account, they should claim diminished responsibility. Solidifies an objective test.</i></p>
+
+<p><b><i>AG Ref (1 of 1975)</i> [1975] QB 773</b></p>
+
+
+
+<p>Liability</p>
+
+<p>The defendant laced a friend's drinks with alcohol knowing the friend would be driving home. The friend was convicted of drunk driving. The defendant was charged as an accomplice, but was acquitted. The trial judge took the view that there had to be evidence of an agreement between the accomplice and a principal.</p>
+
+<p><i>Held: the defendant was actually guilty because the driver had unknowingly been put in a position in which he had committed an offence which he would never have committed otherwise. If it is shown beyond a reasonable doubt that the friend would drive after consuming alcohol, and the defend-ant knew this, then he should be found liable.</i></p>
+
+
+
+<p><b><i>AG Ref (1 of 1992)</i> [1993] 2 All ER 190</b></p>
+
+<p>Preparatory Actions</p>
+
+<p>The defendant was intoxicated and tried to rape a girl. He was unable to attempt penetration, although he assaulted her.</p>
+
+<p><i>Held: liable, because his actions were more than merely preparatory. He did not have to attempt or achieve penetration to be guilty of attempted rape.</i></p>
+
+
+
+<p><b><i>AG Ref (2 of 1983)</i></b></p>
+
+<p>Self-Defence</p>
+
+<p>The defendant had a petrol bomb because he feared imminent attack against his family.</p>
+
+<p><i>Held: possession of the bomb while the threat was still in place would excuse it. However, as soon as the threat passed, it had to be destroyed because having it would no longer be justified.</i></p>
+
+
+
+<p><b><i>AG Ref (3 of 1994)</i> [1998] AC 245</b></p>
+<p>Murder/Manslaughter/Transferred Malice</p>
+
+<p>The victim was stabbed by the defendant while 6 months pregnant. The child was born alive, but died 120 days after birth. The defendant was convicted of murder, but appeal went to the House of Lords who changed the charge to manslaughter.</p>
+
+<p><i>Held: it would have been murder if the defendant had the mens rea to kill the infant, but since he did not, it was considered manslaughter. No transferred malice from the attack on the mother (Lord Mustill: transferred malice is a legal fiction).</i></p>
+
+
+<p><b><i>AG Ref (4 of 1980)</i> [1981] 1 WLR 705</b></p>
+
+<p>Murder/Manslaughter/Transferred Malice</p>
+
+<p>The defendant pushed his girlfriend down the stairs, put a rope around her neck with which he dragged her <i>back</i> up the stairs to the bathroom. Thinking she was already dead, he butchered up her body to dispose of it. Evidence was entered that she may not have been. At issue was whether he had the requisite mens rea for murder - to cause death or GBH, which is not something one can intend on someone already dead.</p>
+
+<p><i>Held: when the particular action in a sequence that causes death cannot be identified, the jury should be directed to find manslaughter should the </i>first<i> act be unlawful.</i></p>
+
+
+
+
+
+<p><b><i>B (a minor) v DPP</i> [2000] 2 AC 428</b></p>
+
+<p>Strict Liability</p>
+
+<p>A 15 y.o. boy approached a 13 y.o. girl asking for oral sex, believing her to be of age. She refused and he was charged with this offence. </p>
+
+<p><i>Held: no strict liability; there was an honest mistaken belief. Principle: the presumption of mens rea is required for every offence unless the presumption can be rebutted on evidence which is "compellingly clear" i.e. the presumption is expressly or impliedly excluded.</i></p>
+
+<p><b><i>Baillie </i>[1995] 3 WLR 330</b></p>
+
+<p>Provocation/Loss of Control</p>
+
+<p>Baillie's son owed money to drug dealers. Baillie took a gun with him to meet the dealers, and then killed them after stopping for a ham sandwich. </p>
+
+<p><i>Held: the sudden and temporary loss of control can last for an undefined amount of time, assuming that you are still operating under the Duffy test.</i></p>
+
+<p><b><i>Bainbridge</i> [1960] 1 QB 129</b></p>
+
+<p>Secondary Liability</p>
+
+<p>The defendant supplied oxygen for a primary offender to carry out a robbery.</p>
+
+<p><i>Held: the defendant was liable because he knew the details of the primary offender's plan. Leading case in secondary liability. A defendant will be liable as a secondary offender if they assist in a crime, even if they do not know all the details of the crime.</i></p>
+
+<p><b><i>Barnard </i>(1980) 70 Cr App R 28</b></p>
+
+<p>Conspiracy</p>
+
+<p>The defendant was an expert in robbing jewellery stores. He had talked to the robbers before, and visited the shop but they never discussed robbing the store.</p>
+
+<p><i>Held: not liable for conspiracy. In order for a conspiracy to be formed, the parties agree on a conduct which will necessarily result in the commission of a crime. However, all of the parties do not need to know each other. It is a conspiracy even though something intervenes.</i></p>
+
+<p><b><i>Barnes </i>[2005] 1 WLR 910. [2005] Crim LR 381</b></p>
+
+<p>Consent</p>
+
+<p>The defendant seriously injured the victim during an amateur football match. The injury was accidental. The defendant was charged with infliction of GBH under s. 20.</p>
+
+<p><i>Held: conviction unsafe. Determined: 1) Criminal proceedings should only be used where conduct is sufficiently grave to be necessitate them (otherwise civil proceedings should be used). 2) In contact sports, implied consent excuses bodily harm so long as it is reasonably expected. 3) Conduct within the rules of the sport is unlikely to be criminal.</i></p>
+
+
+
+<p><b><i>Barnsdale-Quean </i>(2014)</b></p>
+
+<p>Provocation/Loss of Control</p>
+
+<p>Defendant charged with murder of his wife. He strangled her, then stabbed himself in the stomach, trying to make it look like she attacked him. Originally claimed self-defence, and then tried loss of control.</p>
+
+<p><i>Held: no loss of control; no evidence to support that fact.</i></p>
+
+<p><b><i>Barnfather</i> [2003] 1 WLR 2318</b></p>
+
+<p>Strict Liability</p>
+
+<p>A child of school age failed to attend school. Parents held liable.</p>
+
+<p><i>Held: Mala prohibitor offence. Parents held liable under the Education Act 1996. No mens rea required.</i></p>
+
+<p><b><i>Bedder v DPP</i> [1954] 1 WLR 1119</b></p>
+
+<p>Provocation/Loss of Control</p>
+
+<p>The defendant was taunted about his impotency by his partner, so he killed her.</p>
+
+<p><i>Held: impotency was a characteristic of a reasonable person and does not provide sufficient evidence for provocation.</i></p>
+
+<p><b><i>Bell</i> [1992] Crim LR 176</b></p>
+
+<p>Duress of Circumstances</p>
+
+<p>The defendant was intoxicated, but needed to drive away to escape duress of circumstances to escape homosexual circumstances</p>
+
+<p><i>Held: still liable, because the defendant should have stopped driving as soon as they were safe. As soon as the threat passes, there is a duty to desist.</i></p>
+
+
+
+<p><b><i>Bird</i> [1985] 2 All ER 513</b></p>
+
+<p>Self-Defence</p>
+
+<p>The defendant got into a fight with her ex-boyfriend and ended up cutting him so badly he lost his eye. She claimed self-defence.</p>
+
+<p><i>Held: self-defence was valid. Whilst withdrawing or demonstrating an unwillingness to fight is good evidence that the defendant is acting reasonably and in good faith in self-defence, there was no absolute obligation to demonstrate an unwillingness to retreat.</i></p>
+
+
+
+<p><b><i>Blakely and Sutton v Chief Constable of West Mercia</i> [1991] RTR 405</b></p>
+
+<p>Complicity</p>
+
+<p>The defendant was having an affair with a married man. She slipped vodka into his drink so she would have to take him back to her residence. While she was in the bathroom, the man left the bar and started to drive home. He was pulled over and failed a sobriety test.</p>
+
+<p><i>Held: defendant liable under Cunningham recklessness.</i></p>
+
+<p><b><i>Blaue </i>[1975] 1 WLR 1411</b></p>
+
+<p>Take the Victim as you Find Them</p>
+
+<p>Defendants stabbed the victim 4 times. The victim was a Jehovah's Witness, and refused a blood transfusion and died. The defendant tried to argue that refusal of medical treatment was a novus actus interveniens and therefore they could not be held liable for the death of the victim.</p>
+
+<p><i>Held: A defendant cannot remove responsibility by saying the victim should have taken better care of themselves. A wholly unreasonable action may break the chain of causation, however, you take your victim as you find them.</i></p>
+
+<p><b><i>Bourne</i> [1939] 1 KB 687</b></p>
+
+<p>Necessity: Medical Grounds</p>
+
+<p>A doctor procured a miscarriage for a 14 y.o.; acting to preserve the life of the mother who had been the victim of a violent rape.</p>
+
+<p><i>Held: defendant acquitted. The doctor was acting in the best interests of his patient</i></p>
+
+<p><b><i>Bourne</i> (1952) 36 Cr App R 125</b></p>
+
+<p>Complicity</p>
+
+<p>The husband was convicting of aiding and abetting his wife to complete buggery with their dog. The wife had a complete defence (she had been forced into it). </p>
+
+<p><i>Held: the defence that the wife had did not extend to her husband helping her get away with it.</i></p>
+
+<p><b><i>Bowler</i> [2015] EWCA Crim 849</b></p>
+
+<p>Rape: Consent</p>
+
+<p>The defendant suffered from cerebral palsy. He and his live-in lover were contacted by the victim who wanted to engage in consensual masochistic activities. The victim was wrapped in cellophane, with air holes cut to breathe. The victim was left unattended for a number of hours, and although the defendant could have sought medical attention when he realised something was wrong with the victim, but chose not to. </p>
+
+<p><i>Held: defendant guilty for gross negligent manslaughter, but sentence reduced on appeal. However, had the victim not died, the circumstances may have been different. The court said that the actions of the parties involved were consensual and it was not for the court to interfere.</i></p>
+
+<p><b><i>Bree</i> [2007] EWCA Crim 256</b></p>
+
+<p>Rape: Intoxicated Consent</p>
+
+<p>Bree got drunk with his brother and friends. At some point in the night, he started to have sex with the complainant who was also intoxicated. Although the complainant never said "no" she also claimed that she never consented. Bree said that she was drunk but was capable of consenting, and had undressed herself and appeared willing. Bree was convicted and appealed.</p>
+
+<p><i>Held: appeal allowed. No alcohol grid system in terms of how intoxication affects consent. A trial judge will never be wrong if he defines consent for the jury and tells them to find it. The capacity of complainant to consent may stop before the complainant passes out but it will be fact-specific on each case. Intoxicated consent is still consent and if the complainant regrets it later, it does not vitiate consent.</i></p>
+
+<p><b><i>Brown</i> [1994] 1 AC 212</b></p>
+
+<p>Consent</p>
+
+<p>The police entered a house belonging to the defendant and found a series of consensual sado-masochistic homosexual acts. A safety word was used in all the videos. Defendants all charged under Section 43 or 20.</p>
+
+<p><i>Held: Consent will only be a defence to the level of a common law battery and only if there is no injury caused or intended. Where harm is intended and/or caused, then consent is never a defence in criminal law unless there was some reason to justify it being in the public interest (Lord Templeman)</i></p>
+
+<p><b><i>Bryce</i> [2004] EWCA Crim 1231, [2004] 2 Cr App R 592, Crim LR 936</b></p>
+
+<p>Complicity</p>
+
+<p>The defendant intentionally transported a killer to the scene of a crime, but the murder did not occur until 13 hours later.</p>
+
+<p><i>Held: the jury were allowed to infer that the defendant intentionally assisted the killer. That act was committed knowing that it was likely the killer would commit a crime. Liable as a secondary party.</i></p>
+
+<p><b><i>Buckoke v GLC</i> [1971] Ch 734</b></p>
+
+<p>Necessity</p>
+
+<p>The defendant went through a red light in order to save people from a fire, and caused an accident.</p>
+
+<p><i>Held: no liability, although the case went through litigation. It was suggested that to avoid confusion in the future, that the discretion not to prosecute be exercised. </i></p>
+
+<p><b><i>Byrne</i> (1960) 2 QB 396</b></p>
+
+<p>Diminished Responsibility: Abnormality of Mind</p>
+
+<p>Byrne mutilated and killed a young woman. Said that he suffered from perverted desires which he could not resist. Could not plead insanity because he knew what he was doing was wrong. Convicted of murder, appealed.</p>
+
+<p><i>Held: allowed, changed to manslaughter. "Abnormality of mind" was wide enough to cover the mind's activities in all its aspects, including the ability to exercise will power to control physical acts in accordance with rational judgment. But "abnormality of mind" means a state of mind so different from that of ordinary human beings that a reasonable man would term it abnormal.</i></p>
+
+<p><b><i>Caldwell</i> [1982] AC 341</b></p>
+
+<p>Recklessness (Objective)</p>
+
+<p>The defendant was very intoxicated and subsequently set fire to several rooms of the hotel he was staying in. Charged with criminal damage.</p>
+
+<p><i>Held: you are reckless when you consciously think about doing something and then you do it. You are also liable if you consciously thought about the risk and took it, but also if a reasonable person would have foreseen the risk. Academics argue that this introduced unfairness into the law. Rarely used now, mostly Cunningham recklessness.</i></p>
+
+<p><b><i>Calhaem</i> [1985] QB 808, 2 All ER 266</b></p>
+
+<p>Complicity: Counselling</p>
+
+<p>Calhaem hired someone to murder her love rival. The hit man said that he had no intention of killing the rival, but was going to carry out a charade to get money from Calhaem. However, when the hit man arrived at the rival's house, she went crazy and the hit man accidentally killed her.</p>
+
+<p><i>Held: Calhaem was complicit in the crime. To counsel a crime, there is no need for a causal connection to the offense. All that is needed is some sort of consensus in the sense that the murder has to be within the general scope or advice of the secondary defendant. </i></p>
+
+<p><b><i>Callow v Tillstone</i> (1900) 83 LT 411</b></p>
+
+<p>Complicity</p>
+
+<p>A butcher sold tainted meat. </p>
+
+<p><i>Held: liable, but not as a principal offender. The fault for the crime applies, but not strict liability. Minimal acts are needed to be liable. The essence of complicity has become fault based. The act of being a party to an illegal act all depends on mens rea.</i></p>
+
+<p><b><i>Campbell</i> (1991) 93 Cr App R 350</b></p>
+
+<p>Preparatory actions</p>
+
+<p>Mr. Campbell was apprehended 1 yard outside the doors of a post office. He had an imitation fire gun, fake sunglasses, and a threatening note that was going to be handed to the counter officials. The police officers thought he looked suspicious and apprehended him</p>
+
+<p><i>Held: The court said that everything he did was merely preparatory and he had not entered the criminal arena/venue which meant that he was not viewed as being on the job (he had not embarked on the crime proper).</i></p>
+
+<p><b><i>Camplin</i> [1978] AC 705</b></p>
+
+<p>Provocation/Loss of Control</p>
+
+<p>Pakistani boy was buggered against his will, so he killed the victim who had taunted him about being raped. Convicted of murder; original judge directed the jury not to take into account the age/characteristics of the victim.</p>
+
+<p><i>Held: Appeal allowed on misdirection of jury. In terms of power and control, you need to look at the age and sex of the person. It's about the gravity of the provocation to that particular defendant.</i></p>
+
+<p><b><i>Carey </i>[2006] EWCA Crim 17</b></p>
+
+<p>Liability</p>
+
+<p>Two rival gangs got into a fight, and it was unclear whether Carey was actually involved in hitting anyone. The victim was a young girl who fled the scene, and eventually died from a weak heart. Defendant potentially liable for her death.</p>
+
+<p><i>Held: whether or not the defendant was liable rested upon whether the actions of the victim could be considered dangerous. Since all the victim did was run 100 metres and she was quite young, this was not seen as being a dangerous action and therefore the defendant was not liable.</i></p>
+
+<p><b><i>Carter v Richardson</i> [1974] Crim LR 190</b></p>
+
+<p>Complicity</p>
+
+<p>The defendant was a driving instructor. He was aware that his student was intoxicated, but allowed him to drive anyway.</p>
+
+<p><i>Held: liable. The instructor could have intervened but chose not to. </i></p>
+
+<p><b><i>Chan Wing Siu</i> [1985] AC 168</b></p>
+
+<p>Joint Enterprise</p>
+
+<p>D1 and D2 and others broke into the victim's flat intending to steal. D1 stabbed the victim to death. D2 charged with murder.</p>
+
+<p><i>Held: liable for murder. Court: turns on contemplation or, putting the same idea in other words, authorization, which may express but is more usually implied. It meets the case of a crime foreseen as a possible incident of the common unlawful enterprise. The criminal culpability lies in participating in the venture with that foresight (Sir Cook). </i></p>
+
+
+
+<p><b><i>Cheshire</i> [1991] 1 WLR 844</b></p>
+
+<p>Causation: Medical treatment</p>
+
+<p>The defendant shot the victim after a dispute. When the victim got to the hospital, remedial actions were carried out. The victim developed respiratory problems, although the wounds were no longer dangerous. The hospital performed a tracheotomy, which went wrong and the victim died.</p>
+
+<p><i>Held: Liable for the death. When your unlawful acts place someone in the hospital, it is foreseeable that the victim will get negligent treatment. In order to remove liability from the defendant, the treatment has to be so extraordinarily bad that it breaks the chain of causation (Beldam LJ)</i></p>
+
+<p><b><i>Church</i> [1966] 1 QB 59</b></p>
+
+<p>Causation Theory</p>
+
+<p>The defendant and his friends took the victim to a riverbank and tried to have consensual sex with her. She laughed and mocked him, so he strangled her. He thought she was dead, so he threw her into the river where she drowned.</p>
+
+<p><i>Held: liability for death of the victim based on causation theory. If the first act was unlawful with the requisite mens rea, then there is an unbroken causal linkage to the result (no intervening event) then you can establish liability</i></p>
+
+<p><b><i>Clarence </i>(1888) 22 QBD 23</b></p>
+
+<p>Grievous Bodily Harm</p>
+
+<p>A wife contracted gonorrhoea after consensual sexual intercourse. Husband charged with battery.</p>
+
+<p><i>Held: not guilty of battery because the sex was consensual. Decision now overturned by Dica.</i></p>
+
+
+
+<p><b><i>Clarkson</i> [1971] WLR 1402, 3 All ER 344</b></p>
+
+<p>Complicity: Presence</p>
+
+<p>A rape took place in an army barrack. The defendant was present and while he did not take part in the attack, he also did nothing to stop it. </p>
+
+<p><i>Held: no liability for merely being presence.</i></p>
+
+
+
+<p><b><i>Clegg </i>[1995] AC 482</b></p>
+
+<p>Mistaken Belief: Fact</p>
+
+<p>Clegg was a soldier in the British army during the troubles in Northern Ireland. Was standing at a checkpoint where a car was passing by. Fired 4 bullets. The last bullet killed the backseat passenger.</p>
+
+<p><i>Held: defence that the defendant was following orders was rejected. Also established that defences are "all-or-nothing" in the UK; they either work or they don't. Defendant later released on ballistic evidence.</i></p>
+
+
+
+<p><b><i>Lee </i>[2000] EWCA Crim 53</b></p>
+<p>Mistaken Belief: Law</p>
+
+<p>Pulled over and breathalyzed, the defendant punched the officer trying to arrest him for drunk driving. He argued his actions were justified given his genuine belief that the officer was acting illegally in arresting him.
+
+<p><i>Held: a genuinely-held but mistaken belief as to law will not provide a defence.</i></p>
+
+
+
+
+
+<p><b><i>Clinton</i> (2012) EWCA Crim 2</b></p>
+
+<p>Provocation: Sexual Infidelity</p>
+
+<p>Husband and wife were separated. Clinton was depressed, and saw that his wife had been dating. Her jeep was burned, she blamed him for it. When they tried to work things out, Clinton attempted to commit suicide. She mocked him and showed him photos of guys she had gone out with. Clinton then beat and strangled her, then sent photos of her body to one of the guys she went out with. Tried to plead provocation, convicted for murder and appealed.</p>
+
+<p><i>Held: sexual infidelity alone is not a qualifying trigger for provocation, however it can be one of the reasons. Provocation should have been allowed based on the mocking for the suicide attempt, and the court said that the events leading up to the killing should not be isolated.</i></p>
+
+<p><b><i>Cogan and Leak</i> [1976] 2 QB 217</b></p>
+
+<p>Complicity</p>
+
+<p>Cogan told Leak that Leak could have sex with his wife, and said that any protest she gave was part of the game. </p>
+
+<p><i>Held: Cogan could not be convicted of rape (marital rape had not been established), but was convicted as an accomplice to the commission of the actus reus; he was aiding and abetting a crime.</i></p>
+
+
+
+<p><b><i>Collins v Wilcock</i> (1984) 79 Cr App R 229<br />
+<br />
+</b></p>
+
+<p>Battery</p>
+
+<p>A police woman took hold of a woman's arm to stop her walking off when she was questioning her. The woman scratched the police woman and was charged with assaulting a police officer in the course of her duty.</p>
+
+<p><i>Held: police woman guilty of battery; defendant's action was therefore self-defence and her conviction was quashed. Also established principle of ‘implied consent' in crowded/public places: jostling, handshakes, back slapping, etc. are all examples of this implied consent provided that only reasonable force is used (Goff LJ).</i></p>
+
+<p><b><i>Coney</i> (1882) 8 QBD 534</b></p>
+
+<p>Complicity</p>
+
+<p>The defendant was present at a prize fight, and had a secret intent to join in if it had gone bad for his side.</p>
+
+<p><i>Held: not guilty for merely being present, even if he did want to join in. He would have needed positive action.</i></p>
+
+<p><b><i>Constanza </i>[1997] 2 Cr App R 492</b></p>
+
+<p>Assault</p>
+
+<p>The defendant bombarded the victim with unsolicited letters and phone calls, and followed her around for about 2 years. Convicted of assault.</p>
+
+<p><i>Held: there can be an apprehension of violence that extends over a period of time provided that there is the risk of violence in the immediate future.</i></p>
+
+
+
+<p><b><i>Court</i> [1989] AC 28</b></p>
+
+<p>Indecent Assault</p>
+
+<p>A shop attendant spanked a 12-y.o. girl over her shorts, and later admitted that he had a buttock fetish. Charged with indecent assault.</p>
+
+<p><i>Held: guilty. Where facts show that an act may be either indecent or not indecent, the prosecution must prove not only that the accused intentionally assaulted the victim, but that in doing so, he intended to commit an assault which right-minded persons would think was indecent.</i></p>
+
+
+
+<p><b><i>Cunningham</i> [1957] 2 QB 396</b></p>
+
+<p>Recklessness (Subjective)</p>
+
+<p>Cunningham ripped his gas meter off the wall. The gas seeped through the cellar wall and his mother in law was partially asphyxiated by the noxious fumes (she survived. Charged with administration of a noxious substance.</p>
+
+<p><i>Held: not guilty. In order to be liable, your mind needs to turn to the possibility of harm occurring. It never crossed Cunningham's mind that he might cause harm to another person. Current leading test.</i></p>
+
+<p><b><i>Dadson</i> (1850) 169 ER 407</b></p>
+
+<p>Unknown Justification</p>
+
+<p>Mr. Dadson was stealing wood, and the police shot him in the leg as he was trying to escape. The officer was charged with shooting with the intention to cause GBH. However, a different act that provided that it would have been justified if Dadson was an escaping felon (which he was). However, the police officer did not know this at the time. </p>
+
+<p><i>Held: the office was still found guilty because you cannot rely on an exemption to form an unknown justification. However, there is academic disagreement over the decision in this case.</i></p>
+
+<p><b><i>Dalloway </i>(1847) 2 Cox CC 273</b></p>
+
+<p>Criminal Liability</p>
+
+<p>The defendant was in the street and he didn't have his hands on the reins while he was driving his cart. He hit and killed a child.</p>
+
+<p><i>Held: not liable for the death even though he had been driving dangerously; even if he had been driving perfectly there was no way he could have stopped in time to avoid the child.</i></p>
+
+<p><b><i>Deller</i> (1952) 36 Cr App Rep 184</b></p>
+
+<p>Actus Reus</p>
+
+<p>The defendant induced the victim to purchase his car. He told the purchaser that he was free to sell his car, and although he believed was a lie (he believed there was a lease on the car, but the paperwork was invalid), he was actually free to sell it.</p>
+
+<p><i>Held: although the defendant had the mens rea for the crime (fraud by false representation), he could not be found guilty because no crime was actually committed. Even if someone has fault for a crime, if they don't bring about the conduct of the crime, then they will not be guilty</i></p>
+
+<p><b><i>Davies v DPP</i> [1954] AC 378</b></p>
+
+<p>Joint Enterprise</p>
+
+<p>Fight with a rival gang. One of the defendants brought brass knuckles (unknown to the others) and killed the victim.</p>
+
+<p><i>Held: this action was outside the original plan and the other perpetrators were not liable for murder.</i></p>
+
+
+
+<p><b><i>Dawes</i> (2013) EWCA Crim 322</b></p>
+
+<p>Provocation/Loss of Control</p>
+
+<p>Dawes went to his estranged wife's house and found her with another man. Dawes killed the man, and tried to claim self-defence but was rejected. Judge held that loss of control could not be put to the jury because he incited the violence. Convicted of murder and appealed.</p>
+
+<p><i>Held: Appeal rejected. There was insufficient evidence to support loss of control.</i></p>
+
+<p><b><i>Dawson</i> (1985) 81 Cr App R 150</b></p>
+
+<p>Manslaughter</p>
+
+<p>The defendant took part in a robbery from a petrol station. After the robbery, the clerk died from a heart attack.</p>
+
+<p><i>Held: was not sufficient to see the victim having emotional distress to be liable for manslaughter; will only suffice if the distress goes beyond a normal level and causes the level of harm that would indicate a heart attack</i></p>
+
+<p><b><i>Dear </i>[1996] Crim LR 595</b></p>
+
+<p>Murder/Manslaughter</p>
+
+<p>Dear was charged with the murder of the victim. It was alleged that the victim had committed an assault on Dear's 12 y.o. daughter. Dear stabbed the victim, who died after reopening his wounds or allowing them to bleed out.</p>
+
+<p><i>Held: liable for the death. Rose, LJ: We should not look to whether the victim treated himself with negligence or neglect, we should ask whether the initial wounds were, and remained, a significant/operative cause of death.</i></p>
+
+<p><b><i>Devlin v Armstrong</i> [1971] NI 13</b></p>
+
+<p>Self-Defence</p>
+
+<p>The defendant was convicted of riotous behaviour and incitement because they threw a stone at a police officer. The defendant said they only threw it because they believed that there was an imminent threat that the officer would behave illegally.</p>
+
+<p><i>Held: The plea of self-defence may afford a defence when used if the defendant honestly and reasonably believed in the threat of attack, so long as the threat of attack is imminent</i></p>
+
+<p><b><i>Devonald</i> [2008] EWCA Crim 527</b></p>
+
+<p>Rape</p>
+
+<p>A father was upset that his daughter had been dumped by the victim. He pretended to be a 20-y.o. girl online and convinced the victim to masturbate on the webcam, then posted the video online. </p>
+
+<p><i>Held: conclusive presumption, no consent. The victim was deceived as to the purpose of the video.</i></p>
+
+
+
+<p><b><i>Deyemi and Another </i>[2007] EWCA Crim 2060</b></p>
+
+<p>Strict Liability</p>
+
+<p>The defendant was in a shopping centre with a stun gun. The defendant thought that it was a flashlight, not a stun gun.</p>
+
+<p><i>Held: liable for breach of section 5 of the Fire Arms Act 1968. Possession of a weapon is a strict liability issue; prosecution only needs to prove actual possession as a matter of public policy. </i></p>
+
+<p><b><i>Dhaliwal</i> [2006] 2 Cr App R 24</b></p>
+
+<p>Causation/Unlawful Act Manslaughter.</p>
+
+<p>The victim was in an abusive marriage for a long time, which led to her decision to commit suicide. A few hours before this decision, her husband had hit her, there had been a delay, and then she took her own life. Could the husband be liable for her death based on cumulated abuse?</p>
+
+<p><i>Held: even where the victim takes their own life, the abuse may not causally break the chain of causation for unlawful act manslaughter; potentially labelling the actions of the defendant as a cause for the unlawful death. Has not been applied in any other case. Four elements of unlawful act manslaughter: actus reus and mens rea for unlawful act, the unlawful act must be dangerous, the unlawful act must be volitional and intentional by the defendant, the unlawful act must cause the death of the victim without novus actus interveniens.</i></p>
+
+<p><b><i>Dias</i> [2002] Cr App R 5</b></p>
+
+<p>Causation: Drug Administration</p>
+
+<p>Dias and the victim were both drug addicts. Dias prepared a syringe and gave it to the victim, who died. Dias was charged with manslaughter.</p>
+
+<p><i>Held: not liable for manslaughter. Contradicts the decision in Kennedy No. 1. Possession of heroin is illegal, but there was no direct causation since the victim injected himself.</i></p>
+
+<p><b><i>Dica</i> [2004] 2 All ER 593</b></p>
+
+<p>Consent/Grievous Bodily Harm</p>
+
+<p>The defendant was diagnosed as being HIV positive, but knowingly had unprotected intercourse with two women. He claimed that both the women were aware of his condition and had consented to the risk. The women disputed this knowledge. Charged with infliction of GBH, convicted, appealed.</p>
+
+<p><i>Held: Overturns decision in Clarence. People suffering from serious STDs who recklessly transmit them through intercourse inflict GBH will be liable under s. 20. </i></p>
+
+<p><b><i>Dietschmann</i> [2003] 1 AC 1209</b></p>
+
+<p>Diminished Responsibility</p>
+
+<p>The defendant was a depressed alcoholic who beat the victim to death in a rage. Convicted for murder, appealed.</p>
+
+<p><i>Held: Changed to manslaughter. Court: We should stay focused on the mental abnormality, not the intoxication. The diminished responsibility relies on his depression. </i></p>
+
+<p><b><i>Doughty</i> (1986) 83 Cr App R 319</b></p>
+
+<p>Murder: Loss of Control.</p>
+
+<p>Parents strangled a crying baby. Convicted of murder, and appealed claiming loss of control.</p>
+
+<p><i>Held: the judge should have let the jury decide whether or not the defendant lost control.</i></p>
+
+<p><b><i>Dowds</i> (2013) EWCA Crim 281</b></p>
+
+<p>Diminished Responsibility: Intoxication</p>
+
+<p>Dowds was a college lecturer who used to binge drink with his partner. After drinking heavily one weekend, he stabbed his partner 60 times. Attempted defence of diminished responsibility because acute intoxication is a medically recognised condition (disease). Convicted of murder, appealed.</p>
+
+<p><i>Held: Voluntary and temporary drunkenness is not adequate for defence of diminished responsibility. Also, principle: just because something is listed as a medical condition, it does not make it relevant to the defence.</i></p>
+
+<p><b><i>DPP v K </i>(1990) 91 Cr App R 23</b></p>
+
+<p>Battery</p>
+
+<p>The defendant took some sulfuric acid from a chemistry lab and hid it in a hand dryer with the intention to retrieve it later. Before he could get it, another boy used the hand dryer and was permanently scarred. </p>
+
+<p><i>Held: defendant was guilty for battery for indirectly causing the harm.</i></p>
+
+<p><b><i>DPP for NI v Maxwell</i> [1978] WLR 1350, 3 All ER 1140</b></p>
+
+<p>Secondary Liability</p>
+
+<p>The defendant was a driver who drove a group of terrorists to plant a bomb in a public house.</p>
+
+<p><i>Held: liable. Maxwell knew that the passengers were considering committing one of a series of crimes. Any crimes that the perpetrators could possibly commit could be linked to D2 if he knew about/were involved in any of them.</i></p>
+
+
+
+<p><b><i>DPP v Pal</i> [2000] Crim LR 756</b></p>
+
+<p>Racially/Religiously Motivated Offences</p>
+
+<p>The defendant screamed racial slurs at the victim, an Asian caretaker.</p>
+
+<p><i>Held: not a racially motivated crime because the slurs were directed specifically at the victim, not against all Asians. Principles: where there is a nonfatal crime with a racial/religious motivation behind it, there is potentially a more severe punishment. Courts have adopted a narrow meaning of what is racially motivated.</i></p>
+
+<p><b><i>DPP v Smith</i> [2006] EWHC 94, [2006] 1 WLR 1571</b></p>
+
+<p>Actual Bodily Harm</p>
+
+<p>The defendant was upset because he had been ditched by his girlfriend. She invited him to sleep over at their apartment one more time. Whilst she was asleep, he went into her bedroom and cut off her ponytail. On appeal, the defendant argued that hair above the surface of the skin was dead tissue, and was therefore not part of a person</p>
+
+<p><i>Held: hair was part of a person and their identity, and it was ruled a battery.</i></p>
+
+<p><b><i>Duffy</i> [1949] 1 All ER 932</b></p>
+
+<p>Loss of Control</p>
+
+<p>Duffy attacked and killed her husband with a hammer and hatchet whilst he was sleeping in bed. He had subjected her to violence throughout their marriage.</p>
+
+<p><i>Held: liable because loss of control was not sudden/temporary. Test for loss of control (Justice Devlin): At the time of the fatal action, the defendant had to have lost control through a sudden and temporary passion. Difference between men and women are treated: believed that men had sudden, temporary reactions where women were more of a "slow burn."</i></p>
+
+<p><b><i>Dudley and Stephens </i>(1884) 14 QBD 273</b></p>
+
+<p>Necessity</p>
+
+<p>The defendants were cast adrift at sea for 20 days. They killed the cabin boy to sustain themselves. They saw it as justified because they did it to save themselves. </p>
+
+<p><i>Held: necessity is not a defence to murder.</i></p>
+
+<p><b><i>Dyson</i> [1908] 2 KB 454</b></p>
+
+<p>Liability</p>
+
+<p>A child's certain and imminent death due to meningitis was accelerated by the child's father's infliction of serious injuries.</p>
+
+<p><i>Held: accelerating death is enough for the law to consider someone as causing death</i></p>
+
+<p><b><i>Dytham</i> [1979] QB 722</b></p>
+
+<p>Duty to Act</p>
+
+<p>A police officer stood by awhile a bouncer kicked a man to death outside of a night club but did nothing to stop it because he did not want to stay later in his shift. He was charged with misconduct, and argued that the offence could not be committed by an omission as it specifically requires misconduct.</p>
+
+<p><i>Held: An omission can be enough to be liable for an offence if the defendant has a duty to act but does not follow it. The conviction was upheld.</i></p>
+
+<p><b><i>El Ghazal </i>[1986] Crim LR 52</b></p>
+
+<p>Conspiracy</p>
+
+<p>Charged with conspiracy to possess cocaine.</p>
+
+<p><i>Held: The conspiracy is reached</i> <i>as soon as the agreement occurs between the parties. If at that point, someone decides to abandon the plan that is irrelevant. You have the complete crime when you have agreement.</i></p>
+
+<p><b><i>Elbekkay</i> [1995] Crim LR 163</b></p>
+
+<p>Rape</p>
+
+<p>The complainant lived with her boyfriend. One night after a party, the defendant touched her and initiated sexual intercourse. Believing it was her boyfriend, the complainant consented.</p>
+
+<p><i>Held: no consent. The restriction to deception of identity was not limited to spouses, but to partners as well. Also, in order for the deception of identity to vitiate consent, the complainant has to believe that the defendant is someone they know (ex. If the defendant says they are a celebrity when they aren't, consent is still valid). </i></p>
+
+
+
+<p><b><i>Elliott v C (a minor)</i> [1983] C 510</b></p>
+
+<p>Recklessness</p>
+
+<p>A young girl got lost at night, got into a garden shed, and set it on fire. The court held that she could not have known the risk of damage to the shed.</p>
+
+<p><i>Held: she was still liable under Caldwell recklessness: she was judged against the objective standard of a reasonable adult.</i></p>
+
+<p><b><i>Emmett </i>[1999] EWCA Crim 1710</b></p>
+
+<p>Grievous Bodily Harm</p>
+
+<p>The defendant and the victim were involved in a sado-masochistic relationship. The defendant poured lighter fluid on the victim's breasts and set it on fire. </p>
+
+<p><i>Held: guilty of causing GBH. Went "far beyond" Wilson. Court said that someone could not consent to the level of harm in this case. Line-drawing exercise in terms of personal autonomy and consent. </i></p>
+
+<p><b><i>English and Weddle</i> [1999] AC 1</b></p>
+
+<p>Joint Enterprise</p>
+
+<p>The original plan was to beat a police officer with a wooden post. The officer was stabbed with a knife. </p>
+
+<p><i>Held: even though the defendant did not know that the principal had a knife, he was still liable for the actions of the principal as part of the joint enterprise.</i></p>
+
+<p><b><i>Environment Agency v Empress Car Company</i> (1999)</b></p>
+
+<p>Causation</p>
+
+<p>Empress had a diesel tank with a seal around it. An unknown saboteur entered the yard and allowed the oil to pollute a river and the company was charged for causing the pollution.</p>
+
+<p><i>Held: the company was liable because there was a constant risk of oil being spilled (the seal on the tank was inadequate). The vandalism that caused the crime was reasonably foreseeable, therefore the company had a responsibility to protect others from causing harm. Contradicts Latif.</i></p>
+
+<p><b><i>Gemma Evans</i> [2009] Crim LR 661</b></p>
+
+<p>Supervening Fault</p>
+
+<p>Gemma was a drug addict, as was her family. Her younger half-sister Carly lived with her and her mother. Evans supplied Carly with heroin. Carly had then voluntarily taken the drugs. Evans and her mother were in the house, and realised that Carly was showing signs of OD. Although they took care of her, they did not seek professional help because they did not want to get in trouble, and Carly died. Evans and her mother were convicted of gross negligent manslaughter and appealed.</p>
+
+<p><i>Held: Gemma was liable because she supplied heroin for her sister. She had created a dangerous situation and failed to take action to reduce the risk when medical assistance would have saved Carly.</i></p>
+
+<p><b><i>F v West Berkshire Health Authority</i> [1990] 2 AC 1</b></p>
+
+<p>Necessity: Medical Issues</p>
+
+<p>Forced sterilisation of a woman who, through mental capacity, could not give her consent.</p>
+
+<p><i>Held: the operation would be lawful if the doctor considered it to be in the best interests of the patient.</i></p>
+
+<p><b><i>Fagan v MPC </i>[1969] 1 QB 439</b></p>
+
+<p>Exceptions to Omission: Duty of Care/Battery</p>
+
+<p>Fagan accidentally parked his car on the foot of a police officer, and then left it there to spite the officer, even after the officer asked him to move. </p>
+
+<p><i>Held: Fagan was guilty of assault. Although the first part of the crime was accidental, the court held there was liability because Fagan then did not rectify the situation and the court interpreted the incident as one continuing act. His omission made him criminally liable. Court sets out elements of battery: intentionally or recklessly inflicting harm on another</i></p>
+
+<p><b><i>Fitzpatrick</i> [1977] NI 20</b></p>
+
+<p>Voluntary Exposure to Risk</p>
+
+<p>The appellant voluntarily joined the IRA. He later wished to leave but was threatened. He claimed he was forced to take part in robberies. He was denied the defence of duress. </p>
+
+<p><i>Held: An individual will be unable to rely on duress as a defence if they voluntarily associate with people who are likely to commit a crime</i></p>
+
+<p><b><i>Gammon (Hong Kong) Ltd v A-G of Hong Kong</i> [1985] AC 1</b></p>
+
+
+
+<p>Strict Liability</p>
+
+<p>While building, the defendant removed a temporary support. Charged with material deviation of a building approval in contrast with a Hong Kong ordinance.</p>
+
+<p><i>Held: where presumption of mens rea is displaced by necessary implication or the effects of a statute (usually a social concern) strict liability will stand, in order to promote the objectives of a statute by encouraging greater vigilance to the correct commission of the action (Lord Scarmon).</i></p>
+
+
+
+<p><b><i>Geddes</i> [1996] Crim LR 515</b></p>
+
+<p>Preparatory Actions</p>
+
+<p>The defendant was charged with attempted false imprisonment. Mr. Geddes was apprehended in the lavatory of a school. In his possession was found to be string, sealing tape, and a knife (on a school premises in the boy's toilets).</p>
+
+<p><i>Held: these were simply preparatory actions; he was lying in wait. Difficult to reconcile with Griffin or Campbell.</i></p>
+
+<p><b><i>Gemmell and Richardson</i> [2004] 1 AC 1034, [2003] UKHL 50. [2003] 3 WLR 1060</b></p>
+
+<p>Recklessness</p>
+
+<p>Two young boys set fire to some newspapers near wheely bins. The fire spread and caused £1 million in damage. Boys charged with criminal damage.</p>
+
+<p><i>Held: Whether because of age or circumstances, it was said that the risk of their actions could never be obvious to them. However, according to precedent, they should be charged under the Caldwell standard—but they could never meet this standard. Lord Bingham: subjectivism should be generally applied in criminal law. Used Cunningham subjective test and made it the new standard.</i></p>
+
+<p><b><i>Gibbins and Proctor</i> (1918) 13 Cr App R 134</b></p>
+
+<p>Creation of Duty of Care: Familial Relationships</p>
+
+<p>Gibbins, his live-in partner Proctor, and Gibbins's daughter Nelly lived in the same home. Nelly was starved to death and Gibbins and Proctor were brought up on murder charges.</p>
+
+<p><i>Held: Gibbons had a duty of care for Nelly because he was her parent. Proctor owed Nelly a duty of care not because she was her parent, but one that was created because they lived in the same household (voluntary assumption of care; she had come into the household and accepted money and shelter from Gibbins)</i></p>
+
+<p><b><i>Gladstone Williams</i> (1984) 78 Cr App R 276</b></p>
+
+<p>Mistaken Belief: Fact</p>
+
+<p>The perpetrator stole a handbag, and the victim chased them down and the victim was sitting on top of the thief when Williams came along and mistook the victim for the perp. Tackled the victim under mistaken belief.</p>
+
+<p><i>Held: the mistaken belief in this case was reasonable, not liable for the crime.</i></p>
+
+<p><b><i>Gianetto</i> [1997] 1 Cr App R 1, [1996] Crim LR 722</b></p>
+
+<p>Complicity</p>
+
+<p>The defendant was involved in a separation/custody dispute. The wife was killed. It was unclear if the defendant had a hand in her death, or by someone else.</p>
+
+<p><i>Held: guilty. The jury simply has to be satisfied that the defendant is either the principal or secondary offender to convict.</i></p>
+
+
+
+<p><b><i>Gillick v West Norfolk Health Authority</i> [1986] AC 112</b></p>
+
+<p>Complicity</p>
+
+<p>Gillick argued that doctors who advised young girls about sex, they become secondary parties in encouraging underage girls to have illegal sex. </p>
+
+<p><i>Held: Not guilty because it was in the best interests of the patients.</i></p>
+
+
+
+<p><b><i>Gnango</i> (2011) UKSC 59</b></p>
+
+<p>Transferred Malice</p>
+
+<p>Gnango was waiting for a guy in a red bandana. When the guy showed up, he and the Gnango got into a gunfight. The victim, a 26-y.o. girl, got caught in the crossfire and was shot by red bandana man. The CPS wanted to convict Gnango for murder. </p>
+
+<p><i>Held: Gnango was liable through transferred malice (Lord Phillips): since Gnango encouraged his own murder by firing back at red bandana man. This action allowed the red bandana man's malice to be transferred onto the victim.</i></p>
+
+<p><b><i>Goodfellow</i> (1986) 83 Cr App R 23</b></p>
+
+<p>Manslaughter</p>
+
+<p>The defendant wanted new housing, and so they decided to burn theirs down to get it. There was someone still in the building who died in the fire. Defendant charged with manslaughter.</p>
+
+<p><i>Held: no novus actus interveniens, defendant held liable since their actions led to the death of the victim.</i></p>
+
+<p><b><i>Golding</i> (2014) EWCA Crim 889</b></p>
+
+<p>Grievous Bodily Harm</p>
+
+<p>The defendant and the victim were in a relationship. The defendant knew he had herpes and infected the victim during the relationship. The defendant claimed that the transmission was unintentional. Defendant convicted of GBH, appealed,</p>
+
+<p><i>Held: sentenced reduced, but appeal dismissed. Transmission of herpes constitutes GBH. No need for battery or physical violence for a section 20 offence.</i></p>
+
+
+
+<p><b><i>Golds</i> (2014) EWCA Crim 748</b></p>
+
+<p>Diminished Responsibility: Medical Condition</p>
+
+<p>Golds killed his wife, claimed diminished responsibility based on a medical condition. Convicted of murder, appealed.</p>
+
+<p><i>Held: Appeal dismissed. In order to be usable for diminished responsibility your medical condition needs to substantially impair one of three things: 1) your ability to understand conduct; 2) your ability to form a rational judgment; 3) your ability to control yourself.</i></p>
+
+<p><b><i>Greatrex </i>[1999] 1 Cr App R 126</b></p>
+
+<p>Joint Enterprise</p>
+
+<p>The original plan was to just kick someone with a shod foot, but the victim ended up being beaten with a metal bar.</p>
+
+<p><i>Held: liability still exists, but a retrial was ordered on a question of fact and degree. An indictment for murder should include any alternative lesser verdict which carries a proper reflection of the seriousness of the factual situation.</i></p>
+
+<p><b><i>Griffin</i> [1993] Crim LR 515</b></p>
+
+<p>Preparatory Actions</p>
+
+<p>There was a mother who had a couple young children in her care. She wanted to take them to Ireland and bought ferry tickets. She went to the children's school and told them she was picking them up for a dentist appointment</p>
+
+<p><i>Held: the defendant was liable for attempted kidnapping because she had gone as far as phoning the school</i></p>
+
+<p><b><i>Gullefer</i> (1986) 91 CR App R 356</b></p>
+
+<p>Inchoate Liability</p>
+
+<p>Gullefer was a gambler who bet on dog races. His dog was losing, and so he jumped onto the track to interfere with the race.</p>
+
+<p><i>Held: liable. The crime begins when the merely preparatory acts come to an end. You have to ask whether the defendant has ‘embarked on the crime proper.'</i></p>
+
+<p><b><i>Hancock and Shankland</i> [1986] AC 455</b></p>
+
+<p>Mens Rea</p>
+
+<p>Striking miners said that their aim was to frighten other miners going to work. They dropped a large stone, and the victim died. Convicted of murder.</p>
+
+<p><i>Held: the jurors need to be informed of the probability of the fault. The higher the probability, the more the defendants should be liable. Not just foreseeability, but probability. Conviction quashed.</i></p>
+
+<p><b><i>Hasan</i> [2005] UKHL 22, [2005] 2 AC 467</b></p>
+
+<p>Voluntary Association</p>
+
+<p>Involved an escort agency, and the defendant was a driver who said that he was compelled by a partner of the owner of the agency to carry out burglaries. Because of this relationship, the defendant said that he did not foresee this as a possibility.</p>
+
+<p><i>Held: Guilty. No defence; it was precluded where the risk to which the defendant exposed himself is pressure compelling him to commit any type of crime that he ought to have foreseen</i></p>
+
+<p><b><i>Haystead v CC of Derbyshire</i> [2000] 3 All ER 890</b></p>
+
+<p>Battery</p>
+
+<p>The defendant struck the victim twice in the face when she was holding her three-month-old child. The blows caused the victim to drop the child, and the child was injured by the fall. The defendant was charged with the battery of the mother as well as the child, but argued that he had not directly caused harm to the child.</p>
+
+<p><i>Held: liable for harm to child because a causal linkage could be established between the actions of the defendant and the unlawful force which injured the child.</i></p>
+
+
+
+<p><b><i>Heard </i>[2007] EWCA Crim 125, [2007] 1 Cr App R 27</b></p>
+
+<p>Indecent Assault</p>
+
+<p>Whilst intoxicated, the defendant rubbed his genitals up and down the leg of a female police officer. When asked about it later, the defendant said that he had no recollection of the incident.</p>
+
+<p><i>Held: guilty. Voluntary intoxication is not a valid defence to sexual offences.</i></p>
+
+
+
+<p><b><i>Holland</i> (1841) 2 Mood and R 357</b></p>
+
+<p>"Take the Victim as You Find Them"</p>
+
+<p>The defendant injured the victim's thumb during an argument; the surgeon recommended that the finger should be amputated. The victim refused, and two weeks later he died from lockjaw caused by this decision.</p>
+
+<p><i>Held: the defendant was responsible even though the victim rejected treatment, since they caused the injury that led to the victim's death. It was the victim's choice not to take treatment, and if not for the actions of the defendant, the victim would not have died.</i></p>
+
+<p><b><i>Hughes</i> (2013) UKSC 56</b></p>
+
+<p>Causation</p>
+
+<p>Hughes was driving without insurance. While on the road, the victim smashed into Hughes, who was driving perfectly. The court found the victim entirely responsible for the crash, because he had been high on heroin and overtired. However, since Hughes had not had insurance, he was charged with causing a death while driving.</p>
+
+<p><i>Held: not liable for the death of the victim. There had to be something that Hughes did or something that he omitted to do in order to make him liable for the death of the victim. Supreme Court: causation should be context-specific to driving offences; there needs to be fault attached to the action.</i></p>
+
+<p><b><i>Hui Chi-Ming</i> [1992] 1 AC 34, [1991] 3 All ER 897</b></p>
+
+<p>Joint Enterprise</p>
+
+<p>D1's gf had been intimidated and he sought out the perpetrator with a metal bar. The defendant was present at the time. </p>
+
+<p><i>Held: liable as a secondary party. You can be liable for the crime if you contemplate/realise that there is a realistic possibility that D1 would commit the crime. </i></p>
+
+
+
+<p><b><i>Humphreys </i>[1995] 4 All ER 1008</b></p>
+
+<p>Provocation/Loss of Control</p>
+
+<p>Humphreys spent her childhood in and out of foster homes, involved in prostitution at age of 13, attempted suicide at 15. Victim mocked her and she stabbed him.</p>
+
+<p><i>Held: you can take into account of the cumulative history leading up to the final act, but at the time of the act itself, the defendant has to be operating at a sudden and temporary loss of self-control or it doesn't qualify for provocation</i></p>
+
+
+
+<p><b><i>Hyam v DPP</i> [1975] AC 55</b></p>
+
+<p>Mens Rea/Fault for Murder</p>
+
+<p>Hyam had a love rival. He took burning rags and put them through the rival's letterbox. The rival died.</p>
+
+<p><i>Held: mens rea for murder is the intention to kill or cause GBH. The jury can find intention when the defendant commits an act which kills, during which they know that it is highly probable that their actions will cause death or serious injury</i></p>
+
+<p><b><i>Ibrams</i> (1981) 74 Cr App R 154</b></p>
+
+<p>Loss of Control. </p>
+
+<p>Defendant killed the victim. There was a week that passed between the provoking action and the murder.</p>
+
+<p><i>Held: defendant guilty of murder. Time period was too long; no "sudden and temporary loss of control."</i></p>
+
+<p><b><i>Instan</i> (1893) 1 QB 450</b></p>
+
+<p>Duty of Care for Relatives</p>
+
+<p>A sick woman died while living with her niece. The niece was an adult, and had been living with her aunt because she had no means of supporting herself. Her aunt had been suffering for days, and the niece did not give her aunt food or medical attention, or let anyone know that she was sick. The aunt, unable to leave her bed, eventually died from exhaustion brought on by gangrene.</p>
+
+<p><i>Held: the niece was found guilty of manslaughter based on the fact that she had a blood relation to her aunt. This generated a duty of care by the niece to help her aunt. The intentional neglect of the aunt was consequently a crime.</i></p>
+
+<p><b><i>Ireland</i> [1997] 3 WLR 534</b></p>
+
+<p>Assault</p>
+
+<p>The defendant made a series of silent telephone calls over three months to three different women. He was convicted under s.47 Offences Against the Person Act 1861. He appealed contending that silence cannot amount to an assault and that psychiatric injury is not bodily harm.</p>
+
+<p><i>Held: liable for assault. Silence can amount to an assault and psychiatric injury can amount to bodily harm.</i></p>
+
+<p><b><i>Ireland and Burstow</i> [1998] AC 147</b></p>
+
+<p>Assault</p>
+
+<p>Defendants called their victims and threatened them. Convicted of assault, appealed.</p>
+
+<p><i>Held: assault can be committed by a caller on a telephone, ad satisfies immediate threat of violence. It would be for the jurors to decide whether the threats constituted assault.</i></p>
+
+
+
+<p><b><i>Jackson </i>[2006] EWCA Crim 2380</b></p>
+
+<p>Strict Liability</p>
+
+<p>Court martial case. The defendant was flying low and crashed into a floodlight tower. Charged under s.51 of the Air Force Act 1955. </p>
+
+<p><i>Held: this was a strict liability offence. The regulation was to control activity involving hazard and risk to persons/property. You need strict liability to encourage the highest possible vigilance.</i></p>
+
+<p><b><i>Jheeta</i> [2007] EWCA Crim 1699</b></p>
+
+<p>Consent</p>
+
+<p>The defendant worried his partner was going to leave him, so he faked burglaries and messages from the police, and told her that she had continue to sleep with him because only she could protect him.</p>
+
+<p><i>Held: no true consent because there was ‘improper pressure' on the complainant.</i></p>
+
+
+
+
+
+<p><b><i>JJC v Eisenhower</i> (1983) QBD</b></p>
+
+<p>Unlawful Wounding</p>
+
+<p>The defendant shot the victim with an air gun. The pellet hit the victim near the eye, resulting in a bruise and fluid filling his eye. Defendant charged under Section 20 (wounding).</p>
+
+<p><i>Held: defendant not guilty of wounding because a wound is a break in the continuity of the whole skin (dermis and epidermis); an internal rupturing of blood vessels is not a wound.</i></p>
+
+<p><b><i>Jogee </i>[2016] UKSC 8</b></p>
+
+<p>Secondary Liability</p>
+
+<p>Jogee and D1 were convicted of murder. They had gone to the victim's house while under the influence of drugs and alcohol. Jogee was outside when D1 killed the victim.</p>
+
+<p><i>Held: previous cases no longer apply; law took a wrong turn in Chan Win Siu. Where there is complicity liability, in order for Jogee to be liable for murder, he would have had to be found guilty of encouraging or assisting in the act of murder. Foresight of what D1 might do is not intention, it is merely evidence of intention on behalf of D2. </i></p>
+
+<p><b><i>Jones</i> [1987] Crim LR 123</b></p>
+
+<p>Grievous Bodily Harm/Consent</p>
+
+<p>Defendants were schoolboys who had thrown the victims up on the air with the intention of catching them. The victims were accidentally dropped and sustained serious injuries. Charged with infliction of GBH.</p>
+
+<p><i>Held: Convictions quashed. Consent to rough and undisciplined horseplay is a defence, even if there was no consent by the victims. If the appellants had a genuine belief in consent they should be allowed the defence (no requirement for it to be reasonably held, provided it was genuine.</i></p>
+
+<p><b><i>Jones</i> [1990] 1 WLR 1057</b></p>
+
+<p>Preparatory Actions</p>
+
+<p>Mr. Jones found out that his mistress left him for another man. He jumped into the car of the victim with a sawed-off shotgun</p>
+
+<p><i>Held: not liable for attempt because the defendant still needed to remove the safety, put his hand on the trigger, and pull the trigger.</i></p>
+
+<p><b><i>Jordan</i> (1956) 40 Cr App R 1</b></p>
+
+<p>Causation: Medical Treatment</p>
+
+<p>The hospital gave the patient abnormally high quantities of liquid, even though there was evidence that the patient had a bad reaction to it.</p>
+
+<p><i>Held: the treatment was abnormal and palpably wrong. Caused distress in the medical community because they had operated with the assumption that just because treatment is not normal, that does not make it wrong.</i></p>
+
+<p><b><i>K</i> [2001] UKHL 37, [2001] 3 WLR 471</b></p>
+
+<p>Strict Liability</p>
+
+<p>The defendant was 26 and inappropriately touched the victim, who was a minor. The defendant said that the victim told him she was over 16, and had fully consented.</p>
+
+<p><i>Held: honestly held belief did not hold up in this case. Defendant held liable. Mala in se crime.</i></p>
+
+<p><b><i>Kaitamaki v the Queen</i> [1984] PC (New Zealand)</b></p>
+
+<p>Rape</p>
+
+<p>The defendant broke into the complainant's flat and raped her twice, claiming that she consented. The second time, the defendant became aware that the victim was not consenting but continued to rape her.</p>
+
+<p><i>Held: defendant was guilty. Principle: sexual intercourse starts at penetration and "continues: until it stops. If the act continues when consent is withdrawn the offence is complete.</i></p>
+
+<p><b><i>Kennedy (No. 1) </i>[1999] Crim LR 65</b></p>
+
+<p>Causation: Drug Administration</p>
+
+<p>The appellant prepared a solution of heroin filled a syringe and handed it to Mr Bosque, a fellow resident at a hostel. Bosque injected himself and died. The appellant was convicted of supplying a class A drug and constructive manslaughter. The appellant appealed contending that there was no direct causal link between the unlawful act of supplying heroin and the death of Bosque.</p>
+
+<p><i>Held: Conviction upheld. The unlawful act was Bosque injecting himself, which the appellant assisted, and the injection by Bosque was the direct cause of death. Where you supply the victim, you encourage the victim to take it and are therefore liable. Principle overturned in Dias.</i></p>
+
+<p><b><i>Kennedy (No. 2)</i> [2008] Crim LR 222</b></p>
+
+<p>Causation: Drug Administration</p>
+
+<p>The Kennedy case went back to court (providing a syringe of heroin to the victim who injects it and then dies).</p>
+
+<p><i>Held: So long as the victim injects the drug as a free, independent, voluntary action, it operates as a break in the chain of causation and the defendant is not liable (Lord Bingham, unanimous judgment). Overturns decision in Rodgers.</i></p>
+
+<p><b><i>Khan </i>[2009] Crim LR 348</b></p>
+
+<p>Complicity</p>
+
+<p>Husband killed his wife. The brothers and sisters of the husband living in the house claimed they were not there at the time of the murder. However, in the weeks leading up to the death, there were a number of violent instances that the siblings were aware of. </p>
+
+<p><i>Held: secondary liability applies. There does not have to be an exactitude between the harm that occurred and the secondary defendant foreseeing the level of violence that actually occurs, provided that the secondary defendant should have seen the possibility of serious harm occurring. </i></p>
+
+
+
+<p><b><i>Kingston</i> [1995] 2 AC 355</b></p>
+
+<p>Mens Rea</p>
+
+<p>Kingston was a paedophile who could control his tendencies. He went to a party where he became involuntarily intoxicated and committed an assault on a 15 y.o. boy. Had he been sober, he would never have committed the crime.</p>
+
+<p><i>Held: liable for indecent assault. Although Kingston was involuntarily intoxicated, he had the requisite mens rea at the time of the crime. Criminal law is not about moral responsibility, but about the attribution of legal fault, which Kingston had.</i></p>
+
+<p><b><i>Kitson</i> (1955) 39 Cr App R 66</b></p>
+
+<p>Necessity</p>
+
+<p>The defendant was in the back seat of the car. He grabbed the wheel while intoxicated to avoid collision and was charged with DUI</p>
+
+<p><i>Held: no necessity; DUI upheld.</i></p>
+
+<p><b><i>Knuller</i> [1973] AC 435</b></p>
+
+<p>Corruption of Public Morals</p>
+
+<p>The defendant published a magazine in which ads for homosexual relationships were placed. They were charged with conspiracy to corrupt public morals.</p>
+
+<p><i>Held: examined the correctness of Shaw but did not overturn it. Test for corruption of public morals: something that members of the jury find to be destructive of the very fabric of society.</i></p>
+
+<p><b><i>Konzani</i> [2005] EWCA Crim 706, [2005] 2 Cr App R 14 (198)</b></p>
+
+<p>Grievous Bodily Harm</p>
+
+<p>The defendant was HIV positive and had unprotected intercourse with three complainants, not informing them of his positive status and the complainants contracted HIV as well. </p>
+
+<p><i>Held: defendant liable for GBH. Even where there is no physical harm to the victim's body, the transmission of HIV constitutes GBH and is classified as a section 20 offence. </i></p>
+
+<p><b><i>Lane and Lane</i> (1986) 82 Cr App R 5</b></p>
+
+<p>Complicity</p>
+
+<p>A young child sustained a head injury and died. It was impossible to know which of the defendants had inflicted the blow, and there was no answer by either party. </p>
+
+<p><i>Held: both parties held liable for the death under s.5 of the Domestic Violence Crime and Victims Act. </i></p>
+
+
+
+<p><b><i>Latif</i> (1996) </b></p>
+
+<p>Causation</p>
+
+<p>Customs officers intercepted heroin that was being imported from Pakistan into England. They substituted the heroin for a replacement. The defendant was charged with importing illegal substances.</p>
+
+<p><i>Held: the defendant was not liable because there was a novus actus interveniens. The officers, who had not acted in concert with the defendant caused a break in the chain of causation.</i></p>
+
+<p><b><i>Latimer</i> (1886) 17 QBD 359</b></p>
+
+<p>Transferred Malice</p>
+
+<p>The defendant tried to hit person A with a belt, and instead hit person B.</p>
+
+<p><i>Held: still liable for the crime under the doctrine of transferred malice.</i></p>
+
+<p><b><i>Le Brun</i> [1992] QB 61</b></p>
+
+<p>Actus Reus/Mens Rea/Transaction Theory</p>
+
+<p>LeBrun and his wife were walking home late at night. LeBrun hit his wife on the jaw and she was knocked out. While he was taking her home, he dropped her and her head hit the pavement, which killed her. His intention was not to get her medical attention, but to cover up his first unlawful action.</p>
+
+<p><i>Held: the original unlawful act with its accompanying mens rea was not the direct cause of death, but the unlawful act causing the death was part of the same sequence of events and that was enough to be guilty of manslaughter</i></p>
+
+<p><b><i>Lewis</i> [1970] Crim LR 647</b></p>
+
+<p>Grievous Bodily Harm</p>
+
+<p>The defendant was banging on the door of the victim, to escape him, the victim jumped out the window and broke her ankle.</p>
+
+<p><i>Held: the defendant was liable for the victim's injury because his actions caused her to react; her reaction was reasonably foreseeable.</i></p>
+
+<p><b><i>Linekar</i> [1995] QB 250</b></p>
+
+<p>Rape</p>
+
+<p>The defendant promised a prostitute that he would pay £25 for her services. They engaged in intercourse, and he ran away without paying.</p>
+
+<p><i>Held: not rape, inducement of intercourse under false pretences. The fraud did not affect the fact that the intercourse was consensual.</i></p>
+
+<p><b><i>Mahmood (Asaf)</i> [1994] Crim LR 368, [1995] RTR 48</b></p>
+
+<p>Joint Enterprise</p>
+
+<p>The defendants went on a joyride. Their plan was to steal a car; they got into a road chase with the police. Mahmood was the passenger. The driver suddenly jumped out of the vehicle and a young child was killed.</p>
+
+<p><i>Held: not liable. The defendant jumping out of the car was ‘fundamentally different.'</i></p>
+
+
+
+<p><b><i>Majewski</i> [1977] AC 443</b></p>
+
+<p>Intoxication</p>
+
+<p>The defendant was in a public house and got high on barbiturates. He assaulted police officers when they tried to arrest him.</p>
+
+<p><i>Held: When the defendant is voluntarily intoxicated, there has been a delineation of crimes of specific intent (where intoxication could be relevant for fault) and for cases where there are basic intent crimes (no specific intent)</i></p>
+
+<p><b><i>Malcharek and Steel</i> [1981] 1 WLR 690</b></p>
+
+<p>Murder: end of a life</p>
+
+<p>The defendant stabbed the victim 9 times. The victim was on a life support machine, and the machine was turned off. The defendant said that they were not the cause of death, the lack of treatment was.</p>
+
+<p><i>Held: the defendant was liable because the court defined the end of life as "brain stem death" which happened when the victim was stabbed.</i></p>
+
+<p><b><i>Malcolm</i> (1986)</b></p>
+
+<p>Recklessness</p>
+
+<p>15 y.o. boy threw a petrol bomb on a property. Charged with criminal damage.</p>
+
+<p><i>Held: Liable under Caldwell recklessness. However, Caldwell is no longer the standard, and would likely be decided differently now.</i></p>
+
+<p><b><i>Martin</i> [1881] <br />
+<br />
+</b></p>
+
+<p>Grievous Bodily Harm</p>
+
+<p>The defendant placed an iron bar across a theatre exit and yelled fire. As a result, several people were injured.</p>
+
+<p><i>Held: liable for GBH. Principle: infliction of GBH can be indirect.</i></p>
+
+<p><b><i>Martin</i> [1989] 1 All ER 652</b></p>
+
+<p>Duress of Circumstances</p>
+
+<p>The defendant was convicted of driving whilst disqualified. He had driven his stepson to work for the first day of a new job. The stepson was going to be late for work, and the wife said that she was going to commit suicide if he was late for work (and she had suicidal tendencies). So, he drove the stepson to work because of a threat of death/serious injury.</p>
+
+<p><i>Held: actually duress by threat, but treated as duress of circumstances. Test for duress of circumstances: 1) Was the defendant compelled to act because they had a reasonable belief that death of serious injury would occur if they did not act? 2) would a sober person of reasonable firmness sharing the characteristics of the defendant responded to the situation in the same way?</i></p>
+
+<p><b><i>Martin</i> [2002] 1 Cr App R 27</b></p>
+
+<p>Self-Defence</p>
+
+<p>A farmhouse had been burgled before and the defendant was waiting this time. The burglars entered the property. The defendant shot point-blank at the intruders, and one was killed, another wounded. Defendant convicted of murder.</p>
+
+<p><i>Held: all-or-nothing defence. Self-defence did not apply because of excessive force. Guilty for murder.</i></p>
+
+<p><b><i>Masilela </i>(1968)-South Africa</b></p>
+
+<p>Chain of Causation</p>
+
+<p>The defendant throttled the victim, then set fire to the house to cover it up, believing that the victim was dead. The victim died from the fumes. </p>
+
+<p><i>Held: defendant was liable because his actions led to the death of the victim, and the series of actions was seen as a single transaction.</i></p>
+
+<p><b><i>Matudi</i> [2003] EWCA Crim 697</b></p>
+
+<p>Strict Liability</p>
+
+<p>The defendant tried to import animal products contrary to the Products and Animal Origin (Import and Export) Regulations 1996.</p>
+
+<p><i>Held: guilty, mala prohibitor offence. No mens rea required.</i></p>
+
+<p><b><i>McNally </i>(2013) EWCA Crim 1051</b></p>
+
+<p>Rape</p>
+
+<p>A female passed herself of as a male and had sexual relations with the complainant.</p>
+
+<p><i>Held: defendant guilty of rape. The deception of gender vitiated consent. Obiter: in HIV cases, if the defendant is asked about their status and lies, that is an act of deception and there may be a conclusive presumption of lack of consent.</i></p>
+
+<p><b><i>Michael Kane v HM Advocate (2009) Scotland</i></b></p>
+
+<p>Causation: Drug Administration</p>
+
+<p>A drug supplier gave the victim drugs and was charged with culpable homicide. </p>
+
+<p><i>Held: Application of South African/American law, saying that there was no break in the causal link between the supply of the drug by the defendant and the victim's choice to ingest the drug. The supplier provides immediate access to the mode of death and it is reasonably foreseeable that the victim will die.</i></p>
+
+<p><b><i>Millard and Vernon</i> [1987] Crim LR 393</b></p>
+
+<p>Attempt</p>
+
+<p>The defendants were football supporters who repeatedly pushed against a wooden wall on a stand at a football ground in attempt to break it or were being reckless to whether or not it was damaged.</p>
+
+<p><i>Held: for attempted criminal damage, there needs to be an intention to destroy someone else's property.</i> </p>
+
+<p><b><i>Miller</i> [1983] 2 AC 161</b></p>
+
+<p>Supervening Fault</p>
+
+<p>Miller set fire to a mattress because he dropped a lit cigarette. He woke up and the mattress was smouldering; he left the mattress on fire and moved to another room without alerting the fire brigade. </p>
+
+<p><i>Held: the HOL found him responsible for arson because he created a dangerous situation. Where you set in motion a danger to another's life, limb, or property, then there is a superimposed duty to take reasonable, practical steps to counteract the harm that you have set in motion (Lord Diplock).</i></p>
+
+<p><b><i>Misra</i> [2004] EWCA Crim 2375</b></p>
+
+<p>Gross Negligence Manslaughter</p>
+
+<p>The defendant was guilty of medical malfeasance, and the victim died. Defendant charged with gross negligence manslaughter.</p>
+
+<p><i>Held: upheld test from Adomako. The jury decides whether the actions of the defendant are grossly negligent; if so, then it is a criminal act. Conviction upheld.</i></p>
+
+<p><b><i>Mitchell</i> [1983] QB 741</b></p>
+
+<p>Transferred Malice</p>
+
+<p>The appellant tried to jump the queue at the Post Office. An elderly man took issue with this behaviour and challenged him. The appellant hit and pushed the old man, who fell and knocked over others in the queue, including an old woman who broke her leg and subsequently died. The appellant was convicted of manslaughter.</p>
+
+<p><i>Held: the appellant was liable for the death of the old woman. There was no requirement that the unlawful act be directed at the victim.</i></p>
+
+<p><b><i>Mohan</i> [1976] QB 1</b></p>
+
+<p>Attempt</p>
+
+<p>The defendant was driving his car and responded to a police officer's signal to stop. The defendant slowed down but then accelerated towards the officer, before driving away. The defendant as charged with attempt to cause bodily harm.</p>
+
+<p><i>Held: Not guilty. Intent is an essential ingredient of an attempt and is only mens rea of attempts. Recklessness would often suffice as the mens rea for the full offence, attempt was a separate and often more serious offence with its own separate mens rea.</i></p>
+
+<p><b><i>Moloney</i> [1985] AC 905</b></p>
+
+<p>Mens Rea/Oblique Intention</p>
+
+<p>The defendant got into an argument with his stepfather over who could load and shoot a gun faster. The stepfather was killed.</p>
+
+<p><i>Held: the "golden rule" (Lord Bridge) of murder. The defendant has to intend to kill the victim or cause serious injury. Test: Was the death a natural consequence of the defendant's action? If it was a natural consequence, did the defendant foresee it as a natural consequence? If the answer to both questions in yes, then the defendant intended the consequences. No requisite mens rea for murder, changed to manslaughter.</i></p>
+
+<p><b><i>Morgan v DPP</i> [1976] AC 182</b></p>
+
+<p>Rape/Consent</p>
+
+<p>The defendants were RAF officers out drinking with a friend. Morgan invited them back to his house to have sex with his wife while he watched. He told them his wife would consent, although she would pretend to protest. During the rape, the complainant sustained serious injuries requiring hospital treatment. Defendants were convicted, and they appealed claiming that there was no requirement that the belief in consent be reasonably held.</p>
+
+<p><i>Held: guilty, because the belief was not genuine. Principle: the belief in consent must be genuine and honest. There was requirement that the belief be reasonable. Applied as a general principle to other crimes where the fault is intention or Cunningham recklessness. No longer applies to rape cases, still used in other offences.</i></p>
+
+<p><b><i>National Coal Board v Gamble</i> [1959] 1 QB 11</b></p>
+
+<p>Secondary Liability</p>
+
+<p>A lorry driver was carrying a load of coal. The weighbridge operator noticed the truck was overfull but allowed the driver to pass anyway. The driver was found guilty of using an overloaded lorry on the highway. The NCB was also liable because it was their operator who let him pass.</p>
+
+<p><i>Held: NCB was liable as an accomplice because the positive act of assistance had been voluntarily done with the knowledge of the circumstances constituting the offence.</i></p>
+
+
+
+<p><b><i>Nedrick</i> [1986] 1 WLR</b></p>
+
+<p>Mens Rea</p>
+
+<p>Nedrick had a grudge against the victim. He went to her house and poured paraffin through her letter box and set it on fire. A child died in the fire. Nedrick was convicted of murder, and then appealed on misdirection of the jury.</p>
+
+<p><i>Held: Jury was misdirected. Test of virtual certainty. Where there is a charge for murder, simple direction (direct intention) is not enough. The jurors should be instructed to find intention. Was there a realisation on behalf of the defendant that death or serious injury was a virtually certain consequence? It is for the jury to decide.</i></p>
+
+<p><b><i>Newbury</i> [1977] AC 500</b></p>
+
+<p>Unlawful Act Manslaughter</p>
+
+<p>Defendant threw a concrete block that passed through a railway coach and killed a guard.</p>
+
+<p><i>Held: there was an unlawful act, the mens rea for that was sufficient for the defendant to be held liable for the unlawful death</i></p>
+
+<p><b><i>O'Grady</i> [1987] QB 995</b></p>
+
+<p>Mistaken Belief: Intoxication</p>
+
+<p>The defendant got very drunk, and believed that he needed to defend himself against one of his friends. He killed the friend under this mistaken belief.</p>
+
+<p><i>Held: no defence, liable for the crime. Where a defendant forms a mistaken belief after the voluntary consumption of alcohol, there is no defence for the crimes.</i></p>
+
+<p><b><i>Olugboja</i> [1982] QB 320</b></p>
+
+<p>Rape</p>
+
+<p>The complainant had been raped by Olugboja's friend. He told the complainant that he was going to have sex with her, and ordered her to remove her clothing. She was so overwhelmed and frightened that she gave no objection until after penetration because she was concerned he would ejaculate inside her.</p>
+
+<p><i>Held: guilty. Test for consent: a trial judge directing the jurors should tell them that they need to "apply their combined good sense, experience, and knowledge of human nature and modern behaviour" in order to answer a question of consent.</i></p>
+
+
+
+<p><b><i>Pace and Rogers</i> (2014) EWCA Crim 186</b></p>
+
+<p>Attempt</p>
+
+<p>Pace and Rogers were suspected of buying stolen scrap metal, so the police set up a sting operation. Undercover officers approached the defendants and offered scrap metal for sale. The officers made various remarks designed to make the defendants think that the metal might be stolen property. The defendants bought it anyway and then were charged with attempting to conceal.</p>
+
+<p><i>Held: not liable because the defendants did not have the requisite mens rea for the crime. The prosecution needed to show that the defendants intended to commit the full crime, and there was no evidence to support that claim</i></p>
+
+<p><b><i>Pagett </i>(1983) 76 Cr App R 279</b></p>
+
+
+
+<p>Criminal Liability</p>
+
+<p>Pagett was chased by police, and he kidnapped a young girl. There was a rooftop chase. Pagett held the victim in front of him as a human shield and started to fire at the police officers, who instinctively fired back and the girl was killed. </p>
+
+<p><i>Held: Pagett was liable for the death because it was his actions that caused the police officers to react instinctively, leading to the death of the girl. </i></p>
+
+<p><b><i>Palmer v the Queen</i> [1971] AC 814</b></p>
+
+<p>Self-Defence</p>
+
+<p>The defendant fired shots while trying to escape from a robbery, killing one of his chasers. He claimed that he did not fire the shot which killed the man chasing him. </p>
+
+<p><i>Held: guilty. The defendant attempted to appeal that manslaughter should have been offered as an alternative to self-defence, but the appeal was dismissed. There is no option for a verdict of manslaughter where a defendant uses excessive force in self-defence. The defence either succeeds in its entirety or fails.</i></p>
+
+<p><b><i>Pearson</i> [1992] Crim LR 193</b></p>
+
+<p>Provocation/Loss of Control</p>
+
+<p>Two brothers killed their abusive father. Charged with murder.</p>
+
+<p><i>Held: changed to manslaughter; the actions of their father should have been considered during the original trial. The defendant can claim provocation where the supposedly provocative behaviour is not unlawful or unreasonable, or where he is mistaken (perhaps through voluntary intoxication) as to the meaning of the other person's behaviour, or even where the supposedly provocative behaviour was in fact a response to his own.</i></p>
+
+<p><b><i>Pembliton</i> [1874] LR 2 CCR 119</b></p>
+
+<p>Transferred Malice</p>
+
+<p>The defendant was in a pub and chased the victim; the defendant threw a stone at the victim's head, missed, and shattered a window.</p>
+
+<p><i>Held: not transferred malice because it is not the intended crime; it was destruction of property instead of harming the victim.</i></p>
+
+<p><b><i>People v Beardsley</i> (1907) 150 Mich. 206</b></p>
+
+<p>Duty of Care</p>
+
+<p>While his wife was out of town, the defendant spent the weekend with another woman. The woman he spent the week with tried to commit suicide by injecting herself with morphine in the presence of the defendant, although he was too intoxicated to offer assistance. After she died, the defendant was convicted of manslaughter for failing to render aid.</p>
+
+<p><i>Held: on appeal, no duty of care was owed by the defendant to the victim because she was an adult and her past activities indicated that she had experience "carousing with men and consuming alcohol and drugs." Therefore, while the defendant may have had a moral duty to protect her, he did not have a legal one.</i></p>
+
+<p><b><i>Pittwood</i> (1902) 19 TLR 37</b></p>
+
+<p>Creation of Duty via Contract</p>
+
+<p>Mr. Pittwood was a rail crossing keeper who went off for his lunch leaving the crossing open. Someone was hit by a passing train and died.</p>
+
+<p><i>Held: the defendant had a more general duty in criminal law to those who would foreseeably use the railway crossing, not just what was said in his contract. He was liable for the death of the victim.</i></p>
+
+<p><b><i>Pommell</i> [1995] 2 Cr App R 607</b></p>
+
+<p>Duress of Circumstances</p>
+
+<p>Pommell said that he had been given a firearm by a person unknown, and then had intended to give it to his brother to hand into the police the next day.</p>
+
+<p><i>Held: duress of circumstance could apply here. It can apply to everything except murder, attempted murder, and some forms of treason.</i></p>
+
+<p><b><i>Powell and Daniels</i> [1999] AC 1</b></p>
+
+<p>Joint Enterprise </p>
+
+<p>The parties rang the doorbell of the victim (a drug dealer). It was uncertain who carried out the murder (shot) but it was not Powell or Daniels.</p>
+
+<p><i>Held: the defendants argued that they needed to intend death or serious injury, claimed that it was unfair that recklessness constituted liability. The court disagreed; defendants cannot insulate themselves on policy: the protection of society requires that they be held liable.</i></p>
+
+
+
+<p><b><i>Prince</i> (1875) LR 2 CCR 154</b></p>
+
+<p>Strict Liability</p>
+
+<p>Prince was charged with abducting a young girl out of the lawful possession of her parents, even though he thought that she was older.</p>
+
+<p><i>Held: the prosecution did not have to prove that the defendant was aware or ought to have been aware that she was older. The fact that she was a minor when he abducted her made him liable, even though his belief that she was older was viable. Guilty under strict liability.</i></p>
+
+<p><b><i>R v B</i> [2006] EWCA 2945, [2007] 1 WLR 1567</b></p>
+
+<p>Rape</p>
+
+<p>The complainant and defendant were discovered having sexual intercourse. Upon discovery, the complainant said she was raped. When the defendant was arrested, he admitted to being HIV positive. The claimant was not aware of his status.</p>
+
+<p><i>Held: no liability for rape. The intercourse was consensual; the HIV status of the defendant did not change the nature of the act itself.</i></p>
+
+<p><b><i>R v B</i> (2013) EWCA Crim 823</b></p>
+
+<p>Rape</p>
+
+<p>The defendant posed as two different American men and induced his girlfriend to do sexually degrading acts in front of a webcam.</p>
+
+<p><i>Held: no deception as to the nature/purpose of the act. </i></p>
+
+
+
+<p><b><i>R (F) v DPP and A </i>(2013) EWHC 945</b></p>
+
+<p>Rape</p>
+
+<p>The complainant consented to intercourse with the caveat that the defendant not ejaculate inside her. The defendant did so anyway.</p>
+
+<p><i>Held: the defendant refusing to comply with the wishes of the complainant vitiated consent. The complainant was deprived of the choice relating to the crucial feature on which the original consent to sexual intercourse was based.</i></p>
+
+
+
+<p><b><i>R v G</i> [2008] Crim LR 818</b></p>
+
+<p>Strict Liability</p>
+
+<p>Age based offence: complainant was 15. Defendant charged with statutory rape.</p>
+
+<p><i>Held: the defendant was liable because the offence was created to protect young people from others, to prevent premature sexual activity, and the label of rape is attached even if it is proven that the claimant was willing. </i></p>
+
+
+
+<p><b><i>R v H</i> [2005] EWCA Crim 732. [2005] Cr App R 9</b></p>
+
+<p>Indecent Assault</p>
+
+<p>Defendant came up to the claimant in a public park and asked her if "she fancied a shag," then grabbed hold of her and dragged her towards him, putting his hand over her mouth.</p>
+
+<p><i>Held: guilty because of sexual motive. Two part test: would reasonable people consider the conduct in the particular circumstances before them to be sexual in nature? If so, then would reasonable people consider the conduct of the defendant in the view of the circumstances to have intended them to be sexual?</i></p>
+
+<p><b><i>R v Jewell</i> (2014) EWCA Crim 414</b></p>
+
+<p>Provocation/Loss of Control</p>
+
+<p>Jewell was in a dispute with a work colleague, and went to his house and shot him point blank; brought extra ammunition and considered suicide as well. Had prepared for the murder and written suicide notes. Claimed he had lost control and shot the victim "as though in a dream."</p>
+
+<p><i>Held: insufficient evidence of any loss of control. Convicted of murder, appealed. COA: the killing had too much preparation to be considered loss of control; re-affirmed R v Clinton</i>.</p>
+
+<p><b><i>R v JF and NE</i> (2015) EWCA Crim 351</b></p>
+
+<p>Unlawful Act Manslaughter</p>
+
+<p>Two young boys set a fire in an abandoned building. A homeless man was in the building and died from smoke inhalation. Defendants convicted of unlawful act manslaughter, then appealed.</p>
+
+<p><i>Held: appeal dismissed by sentence reduced. The defendants were aware that there were people in the building, and had the necessary actus reus and mens rea for arson. Ratio: all that was needed for conviction for unlawful act manslaughter was actus reus and mens rea for the initial crime; if that was shown, then it was a normative question of dangerousness: would the danger have been foreseeable to a normal and reasonable person?</i></p>
+
+<p><b><i>R v JM and SM</i> (2012) EWCA Crim 2293</b></p>
+
+<p>Manslaughter</p>
+
+<p>The victim was a nightclub bouncer who tried to eject the defendant. There was another bouncer who, along with victim, tried to get the defendant out some back stairs. The victim died from renal artery aneurism when the defendant fought back. Was the defendant liable?</p>
+
+<p><i>Held: it was foreseeable that some harm would occur, and a reasonable bystander could see that the actions of the defendant would lead to some harm against the victim, and physical harm in the form of shock would occur as a question of fact not law. However, there was found to be no liability in this case because the medical condition was outside the realm of foreseeability.</i></p>
+
+<p><b><i>R v Jones (Margaret)</i> [2006] UKHL 16, [2007] 1 AC 136</b></p>
+
+<p>Justification: Prevention of a Crime</p>
+
+<p>Margaret Jones and others were protesting about the Iraq war which they believed was illegal and not supported in international law. They then broke into US military bases in the UK using wire-cutting equipment in order to continue their protest.</p>
+
+<p><i>Held: The defendants said that their actions were justified because they were acting to prevent a crime (an illegal war in Iraq). The HoL said that where it says "prevention of a crime" it means prevention of a potential crime under domestic law; not something that could potentially be a crime under international law.</i></p>
+
+<p><b><i>R v S </i>[2015] EWCA Crim 558</b></p>
+
+<p>Gross Negligence Manslaughter</p>
+
+<p>The defendant and victim were both minors. The defendant was given a gun.He took the chamber out, and did not realise there was still a bullet in the chamber. He fired the gun at the victim (his girlfriend) and she died. Charged with gross negligence manslaughter.</p>
+
+<p><i>Held: guilty, although appeal on sentence term allowed. It was grossly negligent to point the gun and pull the trigger without ensuring that it was safe to do so. Objective test: would a person of the defendant's age and experience have foreseen the risk of death? If so, was the defendant's conduct so far below the standard of care required that it was grossly negligent and it constituted a crime?</i></p>
+
+<p><b><i>R v Zebedee</i> (2012) EWCA Crim 1428</b></p>
+
+<p>Provocation/Loss of Control</p>
+
+<p>Zebedee was looking after his aged father with Alzheimer's. The father was killed by Zebedee who had continually soiled himself because of the Alzheimer's and the son had reportedly been abused as a child (brought up bad memories).</p>
+
+<p><i>Held: no loss of control, no "justifiable sense of being seriously wronged"</i></p>
+
+<p><b><i>R (on the Application of T) v DPP</i> [2003]</b></p>
+
+<p>Actual Bodily Harm</p>
+
+<p>The defendant punched the victim who experienced a "momentary loss of sensory function." (knocked unconscious)</p>
+
+<p><i>Held: this constitutes actual bodily harm.</i></p>
+
+<p><b><i>Rafferty</i> [2008] Crim LR 218</b></p>
+
+<p>Unlawful Enterprise, Withdrawal</p>
+
+<p>Rafferty and some associates planned to assault and rob the victim at a beach. After they captured the victim, Rafferty left for 40 mins with the victim's ATM card to try and use it. When he returned, the violence had escalated and the others had beaten and drowned the victim.</p>
+
+<p><i>Held: because Rafferty left, he withdrew from the unlawful enterprise and was therefore not liable for the death of the victim.</i></p>
+
+<p><b><i>Rahman</i> [2008] UKHL 45</b></p>
+
+<p>Joint Enterprise</p>
+
+<p>Longstanding dispute between different groups of Eurasians. The defendants turned up with a variety of weapons. One of the victims was stabbed to death. Rahman was convicted of murder, even though there was no evidence that he had stabbed to death the victim. He was held liable because he had lent himself to the cause. Rahman argued that although he knew there was an intention to cause bodily harm, the principal offender may have developed an intention to kill unbeknownst to Rahman.</p>
+
+<p><i>Held: the court rejected this argument. Just because the principal had an undisclosed intent to kill, it did not automatically change the fact that it is reasonably foreseeable. The principal is liable for murder if they intend to kill or cause GBH. The secondary is liable for murder if they foresee the possibility of the principal doing so.</i></p>
+
+
+
+<p><b><i>Richardson</i> [1998] 2 Cr App R 200</b></p>
+
+<p>Battery/Consent</p>
+
+<p>The defendant had his dentistry license suspended, but continued to practice without one. A patient found out and the defendant was charged with battery.</p>
+
+<p><i>Held: no liability for battery. Identity and nature of the act can vitiate consent. Principle: what vitiates consent? 1) The nature of the act itself 2) the identity of the person.</i></p>
+
+<p><b><i>Roberts </i>[1971] EWCA Crim 4</b></p>
+
+<p>Causation: Fight and Flight</p>
+
+<p>Victim was a young female hitchhiker who jumped out of a moving car after the defendant carried out unwanted sexual advances. She suffered more serious injuries because of her fall.</p>
+
+<p><i>Held: Defendant is liable. Test for liability: look at the actions of the victim and ask whether it breaks the chain of causation. Was the response of the victim reasonably foreseeable as a response? Was it a natural consequence of the defendant's unlawful action? If yes, then there is liability. However, if it was a 'daft' response, there is no liability.</i></p>
+
+<p><b><i>Roberts</i> [1993] 1 All ER 583</b></p>
+
+<p>Joint Enterprise</p>
+
+<p>Robbery took place at a house. No weapons were taken into the house by the robbers. However, one of the robbers took a knife from the kitchen and stabbed the householder. D2 said that he had realized that there may be harm inflicted; there was a "real, not a fanciful proposition" of harm.</p>
+
+<p><i>Held: the fault of a secondary perpetrator for murder does not need to be the same mens rea as a primary perpetrator; they simply need to be liable for recklessness (they only need to contemplate the crime as a realistic possibility, not even a probability).</i></p>
+
+<p><b><i>Rodgers</i> [2003] 1 WLR 1374</b></p>
+
+<p>Secondary Liability</p>
+
+<p>Rodgers helped the victim inject himself with heroin by holding a belt around his arm to raise the veins. The victim died. Rodgers was charged with manslaughter.</p>
+
+<p><i>Held: Guilty of manslaughter. Holding the tourniquet made Rodgers a joint principal offender. Even though the final action was by the victim, Rodgers was acting in tandem to create the unlawful act. Overturned by Kennedy No. 2</i></p>
+
+<p><b><i>Santana-Bermudez</i> [2004] Crim LR 471</b></p>
+
+<p>Duty of Care</p>
+
+<p>A female police officer approached the defendant and asked if he had any sharps on him, and he said no. The officer began to search him, and pricked her finger on a needle that was in his pocket. The defendant was charged with assault.</p>
+
+<p><i>Held: there was a liability on behalf of the defendant because by word or action he had created a dangerous situation and exposed the officer to a risk of injury. The defendant owed a duty of care to the victim and his failure to warn/inform the officer of the risk caused the infliction of bodily harm.</i></p>
+
+<p><b><i>Savage</i> [1992] 1 AC 699</b></p>
+
+<p>Grievous Bodily Harm/Wounding</p>
+
+<p>Savage threw a pint of beer over the victim in a pub; the glass slipped out of her hand and it accidentally cut the victim's wrist. Savage said that she had only intended to pour the beer over the victim. Convicted under s.47 and appealed on jury misdirection.</p>
+
+<p><i>Held: it was not necessary to demonstrate the defendant had the mens rea in relation to the level of harm inflicted. It was enough that they intended/could foresee some harm as a result of their actions. Constructive liability: actus reus/mens rea is needed for the lesser crime, but the actual liability depends on the degree of harm.</i></p>
+
+
+
+<p><b><i>Sharp</i> [1987] Crim LR 566</b></p>
+
+<p>Voluntary Exposure to Risk</p>
+
+<p>Armed robbery where the duressee had been part of a gang and earlier offences had been committed. </p>
+
+<p><i>Held: defence of duress was removed because he knowingly exposed himself to the risk of duress by earlier engagement with the other guilty parties. Followed principle from Fitzpatrick.</i></p>
+
+<p><b><i>Shaw v DPP</i> [1962] AC 220</b></p>
+
+<p>Corruption of Public Morals</p>
+
+<p>The defendants published a directory of prostitutes and were charged with conspiring to corrupt public morals.</p>
+
+<p><i>Held: the jury needed to look at the conduct and decide if it ‘disgusted and annoyed them as ordinary citizens.' If yes, then there were elements of corruption.</i></p>
+
+<p><b><i>Shivpuri</i> [1987] AC 1, 2 All ER 334</b></p>
+
+<p>Attempt</p>
+
+<p>The defendant thought that they were importing drugs into the country, but it turned out that they had vegetable material akin to snuff.</p>
+
+<p><i>Held: The court held that they could still be held liable for the fault crime Anderton v Ryan was overruled. The only occasion where impossibility applies for there not to be an attempt is "abstract legal possibility" (no substantive offense)</i></p>
+
+<p><b><i>Slingsby</i> [1995] Crim LR 571</b></p>
+
+<p>Consent/Foreseeability</p>
+
+<p>The defendant and the victim were engaged in a sexual relationship. At some point, the victim's rectum was torn and the victim died of septicaemia. The defendant was charged with manslaughter.</p>
+
+<p><i>Held: not liable. There was no harm intended, and the court determined that it was not sufficient for the prosecution to show that injury was caused, they also had to prove that harm was intended.</i></p>
+
+<p><b><i>Smith</i> [1959] 2 QB 423</b></p>
+
+<p>Causation: Medical Treatment</p>
+
+<p>A soldier got in a fight and stabbed the victim in an army camp. The victim was dropped off the stretcher, kicked, and then finally brought to the treatment area. When he arrived, the medical team failed to see his collapsed lung and he died.</p>
+
+<p><i>Held: The stab wound was an operating cause of death and therefore the defendant was liable for the death, despite the fact that the medical treatment was negligent.</i></p>
+
+<p><b><i>Smith (1975)</i></b></p>
+
+<p>Duty of Care</p>
+
+<p>A wife chose to have a birth at home, and delivered a stillborn child. The wife died subsequent to the stillborn birth. She had pleaded with her husband not to get her medical attention prior to her death.</p>
+
+<p><i>Held: any duty of care that the husband might have owed her to seek medical attention was removed because she voluntarily refused it. No liability for her death.</i></p>
+
+
+
+<p><b><i>Smith v Chief Superintendent of Woking Police Station</i> (1983) 76 Cr App R 234</b></p>
+
+<p>Assault: Immediacy</p>
+
+<p>A woman had opened the window of her room to see the defendant looking through the window of her bedroom. The woman feared immediate violence from the person staring at her. Guilty for assault.</p>
+
+<p><i>Held: ‘immediate' can mean the immediate future, properly decided.</i></p>
+
+
+
+<p><b><i>Smith (Morgan)</i> [2001] 1 AC 146</b></p>
+
+<p>Provocation/Loss of Control</p>
+
+<p>Smith suffered from clinical depression, lowered powers of self-control, had an avoidant personality, and was an alcoholic. He had a disagreement with a neighbour over gardening tools, hit him over the head and killed him.</p>
+
+<p><i>Held: it isn't necessarily about the reasonable person; you should leave it to the jury's good sense about the loss of self-control. If their emotions were disturbed, loss of control should be offered as a partial defence (Lord Hoffman). Overturned by A-G for Jersey v Holley</i></p>
+
+<p><b><i>Stewart </i>[1995] 3 All ER 159, 1 Cr App R 441</b></p>
+
+<p>Secondary Liability</p>
+
+<p>Plan was to commit a burglary. D3 kept watch outside while D1 and Stewart went inside. Stewart had a knife and he and D3 knew that D1 had violent tendencies. D1 beat the shopkeeper to death. Argument was made that the killing was racially motivated purely on the part of D1. </p>
+
+<p><i>Held: the beating of the shopkeeper and the motivations of D1 took the murder outside the joint enterprise. No liability on secondary parties for murder.</i></p>
+
+
+
+<p><b><i>Stone and Dobinson</i> [1977] QB 354</b></p>
+
+<p>Duty of Care</p>
+
+<p>Dobinson lived with her lover, Stone. Stone's sick sister came to live with them and was found dead with signs of bed sores, septicemia, and malnutrition. Stone and Dobinson were prosecuted for manslaughter.</p>
+
+<p><i>Held: Stone owed a duty of care to his sister because they were blood relatives. Dobinson had a voluntary assumption of duty because she had precluded others from coming to the aid of the victim. They were liable for her death because they showed a reckless disregard for her health and welfare (Lord Lane).</i></p>
+
+<p><b><i>Stringer</i> [2011] EWCA Crim 1396</b></p>
+
+<p>Joint Enterprise</p>
+
+<p>The victim was injured, then went after his attackers. Stringer was part of a group that went after him, but was not involved in stabbing the victim. </p>
+
+<p><i>Held: it was up to the jury as to whether or not Stringer encouraged the crime because he was not present at the time. Initial conviction was unsafe, overturned on appeal. </i></p>
+
+<p><b><i>Sweet v Parsley</i> [1970] AC 132. 163</b></p>
+
+<p>Strict Liability</p>
+
+<p>Sweet let out rooms to the ‘beatnik' community. She only entered the rooms to use the kitchen, collect letters, and to collect rent. There was cannabis resin and other paraphernalia found on the premises, and she was charged for possession of it. Sweet argued she had no knowledge of it.</p>
+
+<p><i>Held: defendant not liable. The court needs to differentiate between mala in se and mala prohibitor crimes. Mala prohibitor crimes do not need mens rea, but mala in se crimes do. Said that drug charges should be considered mala in se, and therefore Sweet was not liable because she had no mens rea for the crime. </i></p>
+
+<p><b><i>Symonds </i>[1998] Crim LR 280</b></p>
+
+<p>Duress of Circumstances and Self-Defence</p>
+
+<p>While driving, someone was drunk and stuck their hands through the car window of the defendant. The defendant drove away, and the victim was dragged along.</p>
+
+<p><i>Held: Could be either Duress of Circumstances or Self-Defence. The CoA said that both defences should be left to the jury with a very careful direction as to the differences between them. Where it is self-defence and it might include a mistaken belief in circumstances, the judge should tell the jury should that the defendant's belief should not only be honest and genuine, but also reasonable belief.</i></p>
+
+<p><b><i>Tabassum</i> [2000] Crim LR 686</b></p>
+
+<p>Consent</p>
+
+<p>The defendant said he was medically qualified and was creating a database for a cancer survey. Fondled three victims because of his deception.</p>
+
+<p><i>Held: guilty. Principle: it is not just the nature of the act/identity of the person; there can be vitiation of consent where there is a situation that goes to the quality of the act as well as to the nature of the act itself.</i></p>
+
+
+
+<p><b><i>Tandy</i> (1988) 87 Cr App R 45</b></p>
+
+<p>Diminished Responsibility: Abnormality of Mind</p>
+
+<p>Tandy was an alcoholic who drank a bottle of vodka then strangled her 11 y.o. daughter. Question of whether alcoholism could be an abnormality of mind.</p>
+
+<p><i>Held: Two predicates for alcoholism as an abnormality of mind. 1) The alcoholism has to have impaired the judgment evidenced by a brain disease (there must be brain damage) so that the defendant </i>had<i> to drink (involuntary). 2) if the first drink of the day had been voluntarily consumed, then the defence would not be available. Contradicted by Wood [2009]</i></p>
+
+<p><b><i>Thabo Meli</i> [1954] 1 WLR 228</b></p>
+
+<p>Actus Reus/Mens Rea/Transaction Theory</p>
+
+<p>The victim was lured to a mountain hut and hit over the head by the defendant with a metal bar. The defendant thought the victim was dead, so he rolled the victim down to the bottom of the mountain. The victim wasn't dead, but died from hypothermia and exposure.</p>
+
+<p><i>Held: liable for murder because the death of the victim was caused by one continuous transaction with no novus actus interveniens. Although the defendant did not possess the mens rea at the time of the actus reus for the death of the victim, he was still liable because the series of actions were treated as one transaction (Lord Reid).</i></p>
+
+<p><b><i>Thornton (No. 2)</i> [1996] 1 WLR 1174</b></p>
+
+<p>Provocation/Loss of Control</p>
+
+<p>Thornton killed her abusive husband. However, she suffered from battered women's syndrome and a personality disorder, which were not originally taken into account. Convicted of murder because jury directed on provocation/loss of control.</p>
+
+<p><i>Held: conviction quashed on misdirection. The jury should have been directed to take into account her mental characteristics in assessing the standard of control expected of the defendant. Overturned in A-G for Jersey v Holley.</i></p>
+
+<p><b><i>Tuberville v Savage</i> (1669) 1 Mod Rep 362</b></p>
+
+<p>Assault</p>
+
+<p>The defendant put his hand on his sword and stated, 'if it were not assize-time, I would not take such language from you'. Assize-time is when the judges were in the town for court sessions.</p>
+
+<p><i>Held: words can negate a threatening action (assault). The defendant's gesture may have been threatening, but the words indicated that no violence would ensue.</i></p>
+
+
+
+<p><b><i>Tuck v Robson </i>[1970] All ER 464</b></p>
+
+<p>Right to Intervene</p>
+
+<p>Pub licensee failed to prevent drinking after hours.</p>
+
+<p><i>Held: liable. The defendant had the right to intervene, and chose not to take effective steps to prevent the crime. </i></p>
+
+
+
+<p><b><i>Uddin</i> [1998] 2 All ER 744</b></p>
+
+<p>Joint Enterprise</p>
+
+<p>Jury had to determine if it was more dangerous to club someone than to kick them with your foot.</p>
+
+<p><i>Held: still liable, but retrial ordered on question of fact and degree.</i></p>
+
+
+
+<p><b><i>Venna </i>[1975] 3 WLR 737</b></p>
+
+<p>Assault/Battery</p>
+
+<p>The defendant was causing a disturbance with others late one night. The police were called, and the defendant resisted arrest and kicked the police officers trying to arrest him. The defendant claimed he had not heard that he was being arrested and was only kicking out because he was knocked to the ground. </p>
+
+<p><i>Held: liable for assault and battery. Recklessness does not excuse the harm caused. Established Cunningham recklessness as the predominant test for assault/battery cases. </i></p>
+
+<p><b><i>Wacker</i> [2002] EWCA Crim 1944, [2003] QB 1207, [2003] 4 All ER 295</b></p>
+
+<p>Gross Negligence Manslaughter</p>
+
+<p>The defendant was a truck driver who was trying to smuggle illegal immigrants from Rotterdam to Dover. For the inspection, the driver closed one of the key air vents which caused 58 of the 60 people to die. Defendant claimed there was no duty of care: the acceptance of the victims to this degree of risk precluded any responsibility on behalf of the defendant.</p>
+
+<p><i>Held: Consent does not preclude liability for harm; irrespective of consent, there was a duty of care owed. Defendant liable for gross negligence manslaughter.</i></p>
+
+<p><b><i>Walker</i> [1962] Crim LR 458</b></p>
+
+<p>Conspiracy</p>
+
+<p>The defendant discussed with others a proposal to carry out a robbery.</p>
+
+<p><i>Held: not guilty. The parties had not gone beyond the stage of discussing the possibility of the ulterior offense and there was no definite action taken to do so/no agreement</i></p>
+
+<p><b><i>Walker and Hayles</i> (1990) 90 Cr App R 226</b></p>
+
+<p>Attempted Murder</p>
+
+<p>The victim had been engaged in an affair with Walker's sister. It ended badly, and there was a dispute. In order to teach the victim a lesson, the defendant dropped him out of a balcony. He was charged with attempted murder</p>
+
+<p><i>Held: liable for attempted murder. Talked about difference between direct and oblique intention; oblique intention would now be a misdirection because of Woollin.</i></p>
+
+
+
+
+
+<p><b><i>Watson</i> [1989] Crim LR 733</b></p>
+
+<p>Manslaughter</p>
+
+<p>Burglary of an elderly gentleman's house. The intrusion lasted for 1.5 hours; caused distress to the victim and he died. Defendant charged with manslaughter</p>
+
+<p><i>Held: question was whether it could be reasonably foreseen that the victim would be distressed. The defendant was aware that the victim needed help and chose to do nothing. Held liable for manslaughter.</i></p>
+
+<p><b><i>Westminster City Council v Croyalgrange Ltd</i> [1986] 2 All ER 353</b></p>
+
+<p>Liability</p>
+
+<p>Defendants ran a sex establishment without a license. They were supposed to have known that they needed one.</p>
+
+<p><i>Held: Knowledge includes wilful blindness when it comes to liability.</i></p>
+
+<p><b><i>Wilson</i> [1984]</b></p>
+
+<p>Grievous Bodily Harm</p>
+
+<p>The defendant, a motorist, got into an argument and punched a pedestrian. </p>
+
+<p><i>Held: liable for GBH. GBH occurs either where the defendant has directly inflicted the injury by assaulting the victim, or where the defendant has inflicted GBH by doing something intentionally that directly results in force being applied to the body of the victim, so that the victim suffers GBH (Lord Roskill).</i></p>
+
+<p><b><i>White</i> [1910] 2 KB 124</b></p>
+
+<p>Causation in Criminal Liability</p>
+
+<p>The defendant wanted to poison his mother to claim his inheritance. He put some poison in her tea, but medical reports showed that she died from a heart attack and not poison. He was charged with murder.</p>
+
+<p><i>Held: not liable for murder, but for attempt. Establishment of the ‘but for' test: would the result have occurred but for the actions of the defendant? If yes, the defendant is not liable.</i></p>
+
+<p><b><i>Whybrow</i> (1951) 35 Cr App R 141</b></p>
+
+<p>Preparatory Actions</p>
+
+<p>The defendant wanted to electrocute his wife while in the bath.</p>
+
+<p><i>Held: for attempted murder, prima facie requires that the mens rea be to kill.</i></p>
+
+
+
+<p><b><i>Wilcox v Jeffrey </i>[1951] 1 All ER 464</b></p>
+
+<p>Complicity</p>
+
+<p>The defendant supported a celebrated jazz saxophonist entering the country, even though he had been banned.</p>
+
+<p><i>Held: because the defendant vocalised his support, he was considered to be liable.</i></p>
+
+<p><b><i>Williams</i> [1923] 1 KB 340</b></p>
+
+<p>Rape</p>
+
+<p>The defendant was a prior master. He induced a 16-y.o. chorister to engage in sexual intercourse with the explanation that it was a medical exercise that would open up an air passage and improve her singing. She believed him.</p>
+
+<p><i>Held: guilty of rape because the deception went to the nature of the act itself.</i></p>
+
+
+
+<p><b><i>Williams</i> (1991) 107 LQR 86</b></p>
+
+<p>Causation: Fight and Flight</p>
+
+<p>The defendant made unwelcome homosexual advances towards the victim in the car; the victim jumped out of the vehicle and died. The defendant was charged with manslaughter.</p>
+
+<p><i>Held: judgment as to the foreseeability of the victim's actions allows the court to take the characteristics of the victim into account (if the actions are foreseeable for someone of their age, sex, and characteristics, then the defendant is liable). </i></p>
+
+<p><b><i>Willoughby</i> [2004] EWCA Crim 3365</b></p>
+
+<p>Gross Negligence Manslaughter</p>
+
+<p>The defendant and the victim had a plan to burn down the premises because the victim wanted the insurance money. The victim was killed in the fire that they were involved in setting.</p>
+
+<p><i>Held: followed Wacker; consent is irrelevant. Defendant liable for gross negligent manslaughter. Established the circumstances where the judge will tell the jury where there is a duty owed to the victim (instead of the jury deciding): Doctor/patient relationships, creation of duty by statute</i></p>
+
+<p><b><i>Wilson</i> [1996] QB 47</b></p>
+
+<p>Consent </p>
+
+<p>The defendant was supposed to use a hot butter knife to brand his initials into his wife's breasts; instead, it was done on her buttock (consensual activity). The victim went to her GP who saw the brand and reported it.</p>
+
+<p><i>Held: no liability for battery, did not follow Brown. This was a "loving adornment" (like a tattoo), and was a consensual act between husband and wife. Not a matter for criminal investigation (Justice Russell).</i></p>
+
+
+
+<p><b><i>Wood</i> [2009] 1 WLR 496</b></p>
+
+<p>Diminished Responsibility: Abnormality of Mind</p>
+
+<p>Wood suffered from ADS (Alcohol Dependence Syndrome). He had been drinking for 36 continuous hours, passed out, and couldn't remember what happened other than unwanted homosexual advances after which he stabbed the victim to death.</p>
+
+<p><i>Held: disagreed with Tandy, accepted ADS as a mental condition defence; no requirement for it to be an organic brain disease, however if it has progressed that far it strengthens the case. The first drink does not have to be involuntary; it is the effect of the alcohol consumed by the defendant as it appears as a disease when it comes to relevancy. </i></p>
+
+<p><b><i>Woollin</i> [1999] 1 AC 82</b></p>
+
+<p>Mens Rea</p>
+
+<p>A 3-month old child began to choke on food, and Woollin (his father) got annoyed with the crying. Woollin threw the child across the room, and it died. Woollin claimed that there was no intention to kill or harm the baby, just to quell the crying by trying to throw him into the pram. Convicted of murder.</p>
+
+<p><i>Held: Charge of murder changed to manslaughter. Where the charge is murder and in the simple direction is insufficient, the jury should be directed that they are not entitled to infer the intention unless they feel sure that death or serious bodily harm was a vital certainty as a result of the defendant's actions, and that the defendant appreciated that such was the case. Leading precedent.</i></p>
+
+<p><b><i>Woolmington v DPP</i> [1935] UKHL 1</b></p>
+
+<p>Murder, Presumption of Innocence</p>
+
+<p>The defendant's wife left him and went to live with her mother. He stole a shotgun and ammunition from his employer, sawed off the barrel and then went to his mother-in-law's house and shot and killed his wife. The defendant claimed that he did not intend to kill his wife, but that he planned only to scare her by threatening to kill himself if she did not return to him. When he was showing her the gun, it accidentally went off and shot her in the heart. The original trial judge had said that it was the responsibility of the defendant to prove that the death was accidental, because according to <i>Foster's Crown Law,</i> guilt for murder was assumed automatically.</p>
+
+<p><i>Held: in the House of Lords, Lord Sankey made his "Golden Thread" speech, where he stated that the "golden thread" of English Criminal Law was for the prosecution to prove the guilt of the defendant beyond a reasonable doubt. The conviction was overturned, and the presumption of innocence became the new standard.</i></p>

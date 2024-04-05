@@ -1,0 +1,341 @@
+
+
+
+
+NAME Case Overviews for Direct Effect
+TYPE Case Overviews
+CATEGORY Direct Effect
+SUMMARY *General*
+@*|Reyners v Belgium|*
+/{<The fact that a state may not have implemented a measure in fulfilment of a treaty obligation with a precise goal does not mean it cannot be relied upon.>}
+
+SUMMARY *Horizontal Effect - Direct vs. Horizontal Effect*
+@*|Defrenne v SABENA|*
+/{<Depending on their character, treaty articles can have horizontal |Direct Effect|, such as |Art 157 TFEU|.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Supremacy
+TYPE Case Overviews
+CATEGORY Supremacy
+
+SUMMARY *Sovereignty - National vs EU Law*
+@*|Flaminio Costa v ENEL|*
+/{<Member states and their nationals are bound by EU law, which takes precedence over national law.>}
+@*|Internationale Handelsgesellschaft|*
+/{<The validity of Union measures is not affected by allegations entertained by domestic courts that by their own lights, they are invalid. Not even fundamental items of national constitutional law have supremacy over directly applicable provisions of Union law. Challenging measures adopted by the institutions in domestic law would ruin the uniformity and efficacity of Union law.>}
+@*|R (ex p. Factortame Ltd) v Sec of State for Transport|*
+/{<National courts must disapply national law in conflict with EU law. The will of Parliament in the |1972 Act| was to limit its sovereignty. Even though that wasn't explicit in the treaties, it was clear from the jurisprudence of the |ECJ|.>}
+
+SUMMARY *Sovereignty - National vs EU Law - Invocation of EU law by Individuals*
+@*|Administrazione delle Finanze v Simmenthal SpA (no 2)|*
+/{<Member states have a duty to set aside provisions of national law which are incompatible with Union law, which is a direct source of rights and duties for all those they affect, whether member states or individuals.>}
+
+SUMMARY *Sovereignty*
+@*|Brunner|*
+/{<No expansive interpretation of the competences of the EU by the ECJ would be accepted.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Directives
+TYPE Case Overviews
+CATEGORY Directives
+
+SUMMARY *Vertical Direct Effect of Directives*
+@*|Van Duyn v Home Office|*
+/{<After the transcription deadline, in certain circumstances, a directive (or the bits of it not yet transcribed) can be relied upon directly. Just because |Art 288 TFEU| gives regulations direct applicability, it does not follow that in all circumstances, directives cannot have similar effects.>}
+@*|Pubblico Ministero v Ratti|*
+/{<A state may not rely on its failure to transpose a directive. Freestyling eurojudges even go so far as to draw a parallel with estoppel.>}
+
+SUMMARY *Jurisdictional Expansion - Vertical Direct Effect of Directives*
+@*|Marshall|*
+/{<Although there is indeed no horizontal direct effect for directives, the state as employer must be considered liable to direct effect.>}
+@*|Foster v British Gas|*
+/{<Any emanation of the state is subject to vertical direct effect, as long as it has been made responsible for providing a public service under the control of the state.>}
+
+SUMMARY *Jurisdictional Expansion - Horizontal Direct Effect of Directives*
+@*|Faccini Dori|*
+/{<Although there is no horizontal direct effect for directives (even if the |Van Gend| criteria are met), national courts must must interpret existing law for the purpose of the directive.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Human Rights
+TYPE Case Overviews
+CATEGORY Human Rights
+
+SUMMARY *Who is Bound*
+@*|(Joined) Kadi and Al Barakaat|*
+/{<EU Institutions are bound to uphold Human Rights as protected by EU law>}
+@*|Wachauf|*
+/{<Member states are bound by requirement to protect fundamental Human Rights when implementing EU measures>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Internal Market
+TYPE Case Overviews
+CATEGORY Internal Market
+
+SUMMARY *Free Movement of Goods - Fiscal Restrictions -  Art 30 TFEU - Customs Duties*
+@*|Commission v Italy (Statistical Data Levy)|*
+/{<Any pecuniary charge imposed on goods because they have crossed a border, however small, and irrespective of the purpose of the charge, is prohibited by |Art 30 TFEU| as a charge of equivalent effect to a customs duty.>}
+
+SUMMARY *Free Movement of Goods - Fiscal Restrictions - Art 30 TFEU - Charges for Services Rendered*
+@*|Cadsky|*
+/{<A system of compulsory inspection/certification of goods imported into a member state, for which a charge is levied, is not exempt from prohibition under Art 30 just because the recipient of the charge is not itself a limb of the state.>}
+
+SUMMARY *Free Movement of Goods - Fiscal Restrictions -  Art 30 TFEU - Charges for Services Rendered*
+@*|Bresciani v Italian Finance Administration|*
+/{<A charge levied at the border, whatever it's called and however it's applied, does not escape the ambit of |Art 30 TFEU|'s prohibition by justification on grounds of public health -- even if that justification is reasonable and in the public interest.>}
+
+SUMMARY *Free Movement of Goods - Fiscal Restrictions -  Art 30 TFEU - Charges from Obligations under EU Law*
+@*|Bauhuis v Netherlands|*
+/{<Charges having equivalent effect of customs duties, which would be prohibited by |Art 30 TFEU| if they were imposed by member states, do not infringe Art 30 if they are prescribed by EU law, because they apply to all, equally. Therefore, the compulsory charge in question, for veterinary inspections for public health purposes, is not a breach of Art 30.>}
+
+SUMMARY *Free Movement of Goods - Fiscal Restrictions -  Art 30 TFEU - Charges from Obligations under International Law*
+@*|Commission v The Netherlands|*
+/{<As per |Bauhuis|, charges equivalent to customs duties are not prohibited by |Art 30 TFEU| if they are imposed in pursuit of a requirement under International law.>}
+
+SUMMARY *Free Movement of Goods - Fiscal Restrictions -  Art 110 TFEU - Fiscal Autonomy of Member States*
+@*|Commission v France|*
+/{<Although member states have fiscal autonomy, and can levy the taxes they please, |Art 110 TFEU| has an obligation of fiscal neutrality, i.e., the origin of products must be irrelevant to the imposition of the tax.>}
+
+SUMMARY *Free Movement of Goods - Fiscal Restrictions -  Art 30 TFEU - Art 110 TFEU*
+@*|Capolongo v Maya|*
+/{<Financial charges applied within a general system of internal taxation, which apply systematically to domestic and imported products according to the sames criteria, are not to be considered as prohibited by |Art 30 TFEU|. Unless -- the destination of the money levied supports domestic products. For them, it effectively offset some of the charge -- a benefit an import subject to the charge would not have received. Should that be the case, the charge may indeed be prohibited under Art 30.>}
+
+SUMMARY *Free Movement of Goods - Fiscal Restrictions - Art 110 TFEU*
+@*|Bobie Getraenkevertrieb v Hauptzollamt Aachen-Nord|*
+/{<|Art 110 TFEU| is infringed when the rules by which a tax is calculated differ when applied to imported as to domestic products, even if the differential effect is very small in practice -- and even if the resulting discrimination is against domestic producers.>}
+
+SUMMARY *Free Movement of Goods - Fiscal Restrictions - Art 110 TFEU - Meaning of Similarity*
+@*|John Walker v Ministeriet for Skatter|*
+/{<When deciding whether one thing is similar to another for the purposes of |Art 110 TFEU|, it may be useful to employ the common-sense test of whether the man on the Copenhagen trolleybus would accept the one thing as a substitute for the other.>}
+
+SUMMARY *Free Movement of Goods - Fiscal Restrictions -  Art 110 TFEU*
+@*|Humblot v Directeur des Services Fiscaux|*
+/{<A tax measure which, in practice, applies chiefly to imported products, is contrary to the prohibition on indirect tax discrimination of |Art 110 TFEU| para 1.>}
+
+SUMMARY *Free Movement of Goods - Fiscal Restrictions - Art 110 TFEU - Competing Products*
+@*|Commission v UK (Wine and Beer)|*
+/{<National legislation may not crystallize consumer habits.>}
+
+SUMMARY *Free Movement of Goods - Fiscal Restrictions - Art 110 TFEU - Public Policy Justification*
+@*|Chemial Farmaceutici v DAF|*
+/{<If an internal tax, of equal application to domestic producers and imports, has a discriminatory effect under |Art 110 TFEU| para 1, but the economic policy goal it pursues is compatible with EU law; and if the detail of the tax contains no direct or indirect discrimination, then it may be an exception.>}
+
+SUMMARY *Free Movement of Goods - Fiscal Restrictions - Directive on Excise Duty - Collective Purchase - Personal Use or Business Import*
+@*|Joustra|*
+/{<It would be absurd to require importers for personal use (under Article 7 of the |Directive on Excise Duty|) to carry the goods across the border themselves. That would be against the spirit of encouraging free movement. There may, however, be a gap between private imports under Art 7 and commercial imports under Art 8. But that gap is not inhabited by a collective purchase on which no profit is made.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Non-Fiscal Restrictions
+TYPE Case Overviews
+CATEGORY Non-Fiscal Restrictions
+
+SUMMARY *Quantitative Restrictions - Art 34 TFEU - First Phase*
+@*|Procureur du Roi v Dassonville|*
+/{<"5. All trading rules enacted by Member States which are capable of hindering, directly or indirectly, actually or potentially, intra-Community trade are to be considered as measures having an effect equivalent to quantitative restrictions.">}
+@*|Commission v UK (UHT Milk)|*
+/{<A member state may not require an import license for goods from other member states.>}
+@*|Commission v Ireland (Irish Souvenirs)|*
+/{<Consumer protection is not a valid derogation from the prohibition on QRs and MEQRs, of which the complete list (is provided by |Art 36 TFEU|.>}
+@*|Simmenthal v Minister for Finance|*
+/{<Compulsory systematic or sporadic veterinary inspections carried out on livestock amounted to an measure of equivalent effect to a quantitative restriction. Given the requirement that importers of livestock carry certificates attesting to the health of the animals, such a measure was disproportionate, and had no |Art 36 TFEU| defence.>}
+@*|Commission v Ireland (Buy Irish campaign)|*
+/{<A publicity campaign orchestrated by a nation state to encourage its citizens to discriminate in favour of domestically produced products is a measure of equivalent effect to a quantitative restriction.>}
+@*|Commission v France (Spanish Strawberries)|*
+/{<A member state is liable for a breach of Art 34 if it does not prevent or stop a blockade targeting specific imports.>}
+
+SUMMARY *Quantitative Restrictions - National Autonomy Recognised*
+@*|Conegate Ltd v Commissioners of Customs and Excise|*
+/{<background:>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Free Movement of People
+TYPE Case Overviews
+CATEGORY Free Movement of People
+
+SUMMARY *Workers - Effect of Article 45 TFEU*
+@*|Walrave|*
+/{<Rules regulating gainful employment in a collective manner imposed by non-public bodies but discriminating on the basis of nationality fall foul of Art 45(2) TFEU -- which is, therefore, horizontally effective.>}
+@*|Bosman|*
+/{<Confirming |Walrave|, a rule set by a body governing the organisation of employment in a sport (FIFA), having the effect of discrimination, even if neither direct nor indirect, violates Art 45 if it impedes access to the labour market.  Nevertheless, a |Rule of Reason| approach akin to |Cassis de Dijon| may justify such restrictions, if the measures pursued legitimate aims with pressing reasons of public interest.>}
+@*|Angonese|*
+/{<Art 45 is drafted in general terms, and is not specifically addressed to member states.>}
+
+SUMMARY *Workers - Scope Of Article 45 TFEU*
+@*|Boukhalfa|*
+/{<The requirement of crossing a border to enjoy Art 45 rights is fulfilled by a worker from one member state working at embassy of another member state.>}
+
+SUMMARY *Workers - Definition of Worker - Direct Discrimination*
+@*|Levin|*
+/{<A worker under Article 45 is someone who is engaged in genuine and effective activities, and not at such a small scale as to be marginal and ancillary. The definition of 'worker' is for the EU. Its definition must be broad, and its exceptions, narrow.>}
+
+SUMMARY *Workers - Definition of Worker*
+@*|Lawrie-Blum|*
+/{<There are three considerations as to whether an activity is genuine and effective.  Is the activity of (i) economic value? Is it (ii) supervised by an employer? Is it (iii) carried out for remuneration?>}
+@*|Lehtonen|*
+/{<Musing on the meaning of employment -- "45. ...The essential feature of an employment relationship is that for a certain period of time a person performs services for and under the direction of another person, in return for which he receives remuneration.">}
+@*|Bernini|*
+/{<Being in a training period prior to starting work proper is to be a worker, as long as the training is conducted under the conditions of genuine and effective activity of an employed person.>}
+@*|Meeusen|*
+/{<Being married to the boss is not per se a reason to find a person is not a worker under Art 45.>}
+@*|Kempf|*
+/{<A person is not excluded from protection under Article 45 merely just because his remuneration is below subsistence, and he seeks to supplement his income by financial assistance from the member state in which he resides. What matters is the work's genuine and effective nature.>}
+@*|Steymann|*
+/{<A worker does not necessarily have to be remunerated in money to fall under the protection of Art 45. 'In so far as the services the community provides to its members may be regarded as the quid pro quo for genuine and effective work.'>}
+
+SUMMARY *Workers - Definition of Worker - Marginal and Ancillary*
+@*|Raulin|*
+/{<National courts may, when assessing whether work is genuine and effective, take account of its irregularity and limited duration of actual performance of services. These attributes may indicate that the activity is merely marginal and ancillary.>}
+
+SUMMARY *Workers - Definition of Worker - Purpose of Work*
+@*|Bettray|*
+/{<The objective of rehabilitating drug addicts, to enable them to enter the labour force, fell outside Art 45. [Heavily criticised for its failure to take into account that the goal of the rehabilitation was overtly economic].>}
+
+SUMMARY *Workers - Right to Seek Work*
+@*|Antonissen|*
+/{<Free movement of workers entails free movement and residence within host member states for the purpose of seeking employment, as this enhances the effectiveness of article 45. In default of provisions as to how long they may stay without work, they should be able to do this for six months; but when that lapses, and they are looking for work for which they're appropriately qualified, the member state may not expel them.>}
+@*|Lebon|*
+/{<Member states are not obliged to refrain from discriminating against jobseekers from other member states, as regards their eligibility for tax and social advantages.>}
+
+SUMMARY *Workers - Restrictions on Free Movement - Indirect Discrimination*
+@*|Groener|*
+/{<Measures clearly having the effect of discriminating on grounds of nationality, such as imposing a condition only likely to be met by people of a particular member state are indirectly discriminatory and thus in breach of Art 45.  However, such measures may be excused as proportionate given the need to protect minoritarian and fragile aspects of culture such as the Gaelic language -- but this would depend on the connection between the requirement imposed and the duties performed&.>}
+
+SUMMARY *Workers - Restrictions on Free Movement - Indistinctly Applicable Measures*
+@*|Kranemann|*
+/{<An indistinctly applicable measure deterring a worker from leaving his member state to work in another constitutes an obstacle to Art 45. However, unless the measure is purely economic, it may be justified if the barrier it imposes is, in fact not great. TODO.>}
+
+SUMMARY *Workers - Measures Beyond The Scope Of Article 45 TFEU*
+@*|Graf|*
+/{<TODO summary of ratio>}
+
+SUMMARY *Workers - Justifications for Directly Discriminatory Restrictions on Free Movement of Workers*
+@*|Bonsignore|*
+/{<Reliance on an Art 45(3) derogation necessitates there being a genuine and sufficiently serious threat, affecting one of the fundamental interests of society.>}
+@*|Van Duyn|*
+/{<The circumstances of public policy justifications to restrictions on free movement of workers may vary from country to country and time to time, therefore the member states must have discretion.>}
+@*|Adoui and Cornuaille|*
+/{<Member states must not abuse public policy justifications under Art 45(3). They may not be invoked to exclude someone for conduct which the member state does not take genuine and effective domestic measures to repress.>}
+
+SUMMARY *Workers - Justifications for Directly Discriminatory Restrictions on Free Movement of Workers - Public Service*
+@*|Commission v Belgium I|*
+/{<Discrimination against workers from other member states working in public service under Art 45(4) is not proportionate when applied to all state employees, rather than those whose roles necessitate a special allegiance to the state. This might include supervisors, technical officers, etc, but not for railway workers, nurses, etc.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Free Movement of People - Citizens
+TYPE Case Overviews
+CATEGORY Free Movement of People
+
+SUMMARY *Social Assistance*
+@*|Grzelczyk|*
+/{<Union citizenship is destined to be the fundamental status of nationals of the member states. They can rely on the non-discrimination provision of |Art 18 TFEU| for all provisions of EU law. Whilst the provision of the a benefit (e.g., the minimex) to citizens of oher member states might involve a certain degree of financial burden, this would not be unreasonable, and that member states should show a certain degree of financial solidarity. (!)>}
+
+SUMMARY *Rights Of Family Members - Unreasonable Burden - Comprehensive Healthcare*
+@*|Zhu and Chen|*
+/{<The requirements of sufficient resources and comprehensive sickness insurance of article Article 7(1)(2) of Directive 2004/38 will be met when the non-Citizen family member fulfils them: they do not have to be possessed personally by the Citizen, for the requirements to be met.>}
+
+SUMMARY *Right To Equal Treatment - Social Assistance*
+@*|Martinez Sala|*
+/{<When a member state does not require its own nationals to produce a resident's permit to obtain a benefit, such as in this case, a child-rearing allowance, it may not impose such a requirement on nationals other member states.>}
+@*|D'Hoop|*
+/{<"Community law precludes a member state from refusing to grant the tideover allowance to one of its nationals, a student seeking her first employment, on the sole ground that that student completed her secondary education in another member state.">}
+@*|Trojani|*
+/{<As in |D'Hoop| and |Grzelczyk|, the nationality qualifying criteria of the Belgian 'tideover' allowance, aka 'minimex' was found in vreach of |Art 18 TFEU|.>}
+@*|Bidar|*
+/{<Showing a non-negligible degree of integration into the society of the member state may qualify you for social advantages such as subsidised student loans/grants.>}
+@*|Collins|*
+/{<|Art 24 CRD| para 2 does not give equal access to benefits, but a jobseeker is nonetheless an EU citizen, and as such, has access to social advantages.  However, the lack of a genuine link between the citizen and the labour market of the host state may be a legitimate reason to withhold, e.g., job-seeker's allowances. Evidence of such a link is likely to be demonstrated by genuine efforts to find work. A member state may impose a minimum length of residence in order to qualify, but this must not be proportionate. I.e., it cannot be longer than would be necessary to demonstrate a genuine link.>}
+@*|Vatsouras|*
+/{<When a jobseeker claims social assistance in a host member state, the state's competent national authorities and courts must decide not only whether the claimant has a genuine link to the labour market (|Collins|, |Ioannidis|), but also the purpose -- and should the purpose be to facilitate access to the labour market, then it will not be social assistance as meant by para 2 of |Art 24 CRD|.>}
+@*|Dano|*
+/{<Applying a strictly faithful and non-teleological reading of the |Art 7 CRD|, and not once referring to EU Citizenship, the Court held that failure to comply with the requirement to have sufficient resources for the citizen or the family invalidated the claim to social assistance. This was to prevent an unreasonable burden on the host state's social security. Freedom of movement solely to claim social security is not covered by the article.>}
+@*|Alimanovic|*
+/{<In an operative judgment rich in citation of directives and regulations, |Dano| was followed -- the right to social assistance had lapsed after six months, as |Art 7 CRD| provided.>}
+
+SUMMARY *Right To Equal Treatment*
+@*|Ioannidis|*
+/{<Restricting eligibility for a jobseeker's allowance to those who have completed their secondary education in the member state is too general and exclusive, and only weakly effective as a means of restricting the allowance to those who could reasonably be connected to the employment market.>}
+
+SUMMARY *No Movement*
+@*|Zambrano|*
+/{<In a notably-succinct judgment, and following |Derici|, the Court found that |Art 20 TFEU| precludes national measures having the effect of depriving citizens of the union (the children) of the genuine enjoyment of the substance of their rights as EU citizens.  {As Prof. Sir Alan Dashwood QC puts it, "the CJEU just can't resist being Big Daddies to people!"} The brevity of the judgment is perhaps best understood as a result of not wanting, in effect, to allow the parents of young EU citizens to be, in effect removed; doing so, especially to a war-zone, might be seen as de facto deportation of EU citizens.>}
+@*|McCarthy|*
+/{<In order to rely on |Art 18 TFEU| right to equal treatment as a family member of an EU citizen, the EU-citizen would have to have crossed a border within the EU. |Zambrano| was distinguished, as there would be no effective obligation on the claimant of this case to leave the EU.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Politics
+TYPE Case Overviews
+CATEGORY Politics
+
+
+
+
+
+
+ -----------------

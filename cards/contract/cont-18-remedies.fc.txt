@@ -1,0 +1,106 @@
+META filename herling-18-remedies.fc.txt
+
+
+
+
+
+--STOP--
+
+
+NAME Remedies - Introduction
+TYPE Concept
+CATEGORY Remedies
+SUMMARY See $:Herling's Lectures$$herling.html:$ 
+
+
+
+NAME The purpose for which damages are awarded
+TYPE Concept
+CATEGORY Remedies
+
+
+
+
+NAME The basis of quantification
+TYPE Concept
+CATEGORY Remedies
+
+
+
+
+NAME Special types of loss
+TYPE Concept
+CATEGORY Remedies
+
+
+
+
+NAME The rule in Hadley v Baxendale
+TYPE Concept
+CATEGORY Remedies
+
+
+
+
+NAME Hadley v Baxendale
+CITATION Hadley v Baxendale (1854) 9 Exch 341
+CATEGORY Remedies; Remoteness of Loss; Rule In |Hadley v Baxendale|
+FLAGS McKendrick
+
+
+
+
+NAME Victoria Laundry (Windsor) Ltd v Newman Industries Ltd
+CITATION Victoria Laundry (Windsor) Ltd v Newman Industries Ltd [1949] 2 KB 528
+CATEGORY Remedies; Remoteness of Loss; Rule In |Hadley v Baxendale|
+
+
+
+
+NAME Contract and tort measures compared
+TYPE Concept
+CATEGORY Remedies
+
+
+
+
+NAME Koufos v Czarnikow Ltd (The Heron II)
+CITATION Koufos v Czarnikow Ltd (The Heron II) [1969] 1 AC 350
+CATEGORY Remedies; Remoteness of Loss; Contract and Tort Measures Compared
+
+
+
+
+NAME H Parsons (Livestock) Ltd v Uttley Ingham & Co
+CITATION H Parsons (Livestock) Ltd v Uttley Ingham & Co [1978] QB 791
+CATEGORY Remedies; Remoteness of Loss; Contract and Tort Measures Compared
+FLAGS Denning
+
+
+
+
+NAME A new basis for deciding questions of remoteness?
+TYPE Concept
+CATEGORY Remedies
+
+
+
+
+NAME Transfield Shipping Inc v Mercator Shipping Inc (The Achilleas)
+CITATION Transfield Shipping Inc v Mercator Shipping Inc (The Achilleas) [2008] UKHL 48
+CATEGORY Remedies; Remoteness of Loss; a New Basis For Deciding Questions of Remoteness?
+FLAGS Hoffman; Denning
+
+
+
+
+NAME Enrichment by subtraction
+TYPE Concept
+CATEGORY Remedies
+
+
+
+
+NAME Enrichment without subtraction
+TYPE Concept
+CATEGORY Remedies

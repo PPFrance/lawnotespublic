@@ -1,0 +1,314 @@
+#FirstTokens Overriding Interests; Overreaching
+
+NAME Overriding Interests - Overview
+TYPE Concept
+CATEGORY Overriding Interests
+LINK Ss 11-12 LRA 2002 http://www.legislation.gov.uk/ukpga/2002/9/part/2/chapter/1/crossheading/effect-of-first-registration
+LINK Schedule 1 http://www.legislation.gov.uk/ukpga/2002/9/schedule/1
+LINK Schedule 3 http://www.legislation.gov.uk/ukpga/2002/9/schedule/3
+SUMMARY ~*Intro*~
+/->-These are estates or interests in land that are *not* registered, but, having |Priority|, *override* the estate of the RP, whether freehold (S11 LRA 2002) or leasehold (S12 LRA 2002).
+/->-Here is the 'crack in the mirror' of registration, or a pragmatic concession to the reality of the transition to registration and the chaotic and improvised reality of peoples' dealings. |LRA 2002| sought to reduce the number of OIs to facilitate e-conveyancing. This it achieved, but by doing away with OIs that weren't much more than academic.
+/->-|S71 LRA 2002| introduced a way to bring existing OIs onto the register. Doing so doesn't change their status, it merely makes it clearer. The act contains two lists of overriding interests, governing what overrides when the land is first registered, and what overrides when, subsequently, the land is transferred. 
+SUMMARY ~*|OIs at First Registration|*~
+@The goal is to bring the land onto the register without changing the status of anyone's rights or interests. 
+@|Schedule 1| lists the interests that can override, and is broad in scope, containing no qualifications.
+SUMMARY ~*|OIs at Transfer|*~
+@Here, there is the need to protect the interests of the purchasor, so the interests that can override are fewer.
+@|Schedule 3| lists them.
+
+SUMMARY ~*Purpose*~
++Administrative convenience:
+**To keep the number of records manageable.
+**Transient OIs like *options*, leases *under 7 years*, which do not _tend_ to affect the RP very much.
++To protect _semi-public_ rights -- easements for infrastructure: sewers, telephone lines, etc. 
+@@The policy decision is that it would be inconvenient to make their enforcement the cumbersome matter of referrence to the LR. 
+@@E.g., |Schedule 3| para 6, the 'local land charge' -- the right of a local authority to put pipes etc under an RP's land. 
++As an expression of the general preference for *social* rather than *economic* utility in land law.
+@@|Schedule 3| para 2 protects people *in actual occupation* -- people *using* the land...
+@@... a commodity of which they show no immediate signs of making any more. It ought therefore be *used well*.
+@@On the whole, such rights arise informally. Those who have them tend not to know they can be registered, or that a right may arise through the RP's *conduct* -- |Implied Trusts of Property|.
+SUMMARY ~*Discussion*~
+/MD thinks overriding interests are an attempt to balance things out between right-holders and RPs. In the exam: by all means say that OIs should be fazed out, but justify, and realise that it’s rather nuanced. The original Torrens system (New South Wales) didn’t contain OIs. But was amended to include them 18 months later.
+SUMMARY Most OIs are easily discoverable -- most people don’t conceal them, or they're obvious to inspection of the land. Undiscoverable OIs only exist in the legislation and problem questions. MD says there are only *5* cases of purchasers being caught out by genuinely undiscoverable OIs.
+
+
+NAME Overriding Interests at First Registration
+CATEGORY Overriding Interests
+AKA Schedule 1 
+AKA OIs at First Registration
+LINK Schedule 1 http://www.legislation.gov.uk/ukpga/2002/9/schedule/1 
+TYPE Concept
+SUMMARY ~*Schedule 1*~ 
+/Applies at first registration, it provides the following interests to override the estate of the RP:  
+SUMMARY The interests that override a registered proprietor in the context of an |S28 LRA 2002| transfer are given by the act's |Schedule 1|. They are:
++*Legal Leases* -- of fewer than 7 years and therefore not subject to compulsory registration. There are four exceptions given by S4(1)(d), (e) and (f).
++|Interests of Persons in Actual Occupation|.
++Legal Easements (and profits à prendre).
++*.. (n)* -- other OIs, of lesser interest.
+
+
+NAME Overriding Interests at Transfer
+CATEGORY Overriding Interests
+TYPE Concept
+AKA OIs at Transfer
+LINK Schedule 3 http://www.legislation.gov.uk/ukpga/2002/9/schedule/3
+SUMMARY ~*Schedule 3*~
+/Cf. |OIs at First Registration|. Here, the interests overriding the new RP are *fewer* and *more qualified* This is because there is a necessity to protect their rights.  They add to Schedule 1 the requirement that the OI is *reasonably discoverable*. They are listed in Schedule 3
+SUMMARY See also |Legal Leases as Schedule 3 Overriding Interests|, |Interests of Persons in Actual Occupation| -- as well as |Schedule 3(2): Actual Occupation| and |Legal Easements as Schedule 3 Overriding Interests|.
+
+NAME Legal Leases as Schedule 3 Overriding Interests
+AKA Legal Leases as OIs
+CATEGORY Overriding Interests
+TYPE Concept
+SUMMARY *~Para 1~ -- Legal Leases*
+/Legal leases of fewer than 7 years as per |Schedule 1|. Four exceptions:
+@*Discontinuous* leases, e.g., *timeshares* for a particular slot of weeks in the year, or *market stalls*, for a particular day of the week. Excluded as their discovery is _inherently not obvious_.
+@*Delayed possession* (AKA *reversionary leases*), where possession is from no fewer than *three months* from the date of transfer -- excluded for the same reason.
+@{(some) *social housing tenancies*, slipped into the list by the Localism Act 2011. Not on the syllabus.}
+@{*PPP* (Private Public Partnership) leases.}
+
+NAME Interests of Persons in Actual Occupation
+AKA Actual Occupation
+CATEGORY Overriding Interests
+TYPE Concept
+SUMMARY *~|Schedule 3|(2)~ -- Interests of Persons in Actual Occupation*
+@This is about a *situation*, rather than a right. 
+@Refer to the blackletter text in problem questions.
+@The sense of 'actual' is _more_ like the French meaning, 'at the current time,' than the English sense of 'in fact,' but not entirely. 
+SUMMARY *The claimed right must* --
+@*Exist*. Being in actual occupation _per se_ does not give an overriding interest. What does is *having an interest* and *being in actual occupation*.
+@@The mistake is made in the courts, notably |Saeed v Plustrado| is _per incuriam_ on this basis. Cf. |Scott v Southern Pacific|, where the claim of Mrs. Scott, in actual occupation, fails as she has no property right.
+@Be *valid* and enforceable *immediately before the transfer*.
+@@TODO more on this.
+@Not have been swept away by |Overreaching| and transformed into *money* -- or, more usually, _bugger all_). See |Overreaching|, S2 LPA, S20 LPA. 
+@@|City of London Building Society v Flegg|, in which equitable interest of the Fleggs was swept off the land by transfer to a mortgagee. Cf. |Williams & Glyns Bank v Boland|, in which there was no overreaching, as there was only a single trustee.  
+@Not have been voluntarily *yielded*, either:
+@@Explicitly, e.g., by signing a form -- |RBS v Etridge|, or
+@@Implicitly, e.g., by involvement in creation of mortgage -- |Equity & Home Loans v Prestridge|, |Abbey National v Cann|.
+@Be |Reasonably discoverable|, so the purchasor is not hoodwinked if he does not *know* about the actual occupation.
+SUMMARY *The claimant right must* --
+@*Not* have *given authority* to the transferror to act on their behalf.
+@@|Credit & Mercantile v Wishart|, which will not go to appeal for wont of cash on the part of Mr. Wishart. 
+@*Be* in |Actual Occupation| *immediately before* the transfer -- |Abbey National v Cann|, confirmed by |Scott v Southern Pacific Mortgages|. 
+@@Registration lags behind transfer by _three days_. 
+
+NAME Schedule 3(2): Actual Occupation
+CATEGORY Overriding Interests
+AKA Reasonably Discoverable
+AKA Actual Occupation
+CATEGORY Overriding Interests; Persons in Actual Occupation
+TYPE Concept
+SUMMARY *~Summary~ -- Schedule 3(2)*
+/->-The person claiming the overriding interest must be in *actual occupation*. This is interpreted broadly -- |Link Lending v Bustard|, and  must be *obvious on a reasonably careful inspection*. The new RP must *not have had knowledge* of the interest at the time of transfer. The claimant must have disclosed, if asked, when he could *reasonably have been expected* to do so -- |Begum v Issa|.  
+SUMMARY *~Actual Occupation~ -- Schedule 3(2)(c)(i)*
+@Quite a corpus of cases reveals the meaning to be not notably undersupplied with wiggle-room. In MD's view, the open-endedness is deliberate. Cases where actual occupation have *not* been found are few and far between. |Thompson v Foy| and |Chowdhary v Yavuz| are more the exception than the rule.
+@It's a question of quite subtly nuanced fact for each case -- |Lloyd's Bank v Rossett|.
+@Can be inferred from the presence of personal property on the land -- |Link Lending v Bustard|.
+@It is *not* the same as *use*, e.g., of an easement -- |Chaudhary v Yavuz|.
+@It *may* be Leaving the property with the intention to return -- |Thompson v Foy|.
+@It can be merely symbolic, e.g., the construction of a fence around some derelict land -- |Malory v Cheshire|.
+SUMMARY ~*Discoverable on a Reasonably Careful Inspection*~
+/This is an *objective* criterion. 
+@If the right is not known about by the purchasor, then to override it must have been  discover*able* (cf. discover*ed*) by a *reasonably careful inspection of the land* at the *time of disposition* -- Schedule 3(2)(c)(i).
+@Note |Chhokar v Chhokar|.
+SUMMARY *~Knowledge of the OI~ -- Schedule 3(2)(c)(ii)*
+/This adds a *subjective* element. Note that it's knowledge of the OI, not knowledge of the actual occupation.  
+SUMMARY *~Disclosure by the claimant when _Reasonable_~ -- Schedule 3(2)(b)*
+@The bit in italics must mean that in some circumstances, it's reasonable to *lie* about the right, or be *ignorant* as to its existence.
+@The utility of this clause is confirmed by |Begum v Issa|, in which a Bangladeshi woman felt compelled by the collective glower of her family, when put on the spot at a family gathering, to act the submissive and subservient "traditional" wife (i.e., a piece of the husband's personal property) and therefore, presumably, not be a source of "dishonour" (and therefore of course be fit to be disfigured or murdered.
+
+NAME Legal Easements as Schedule 3 Overriding Interests
+TYPE Concept
+CATEGORY Overriding Interests
+SUMMARY *~Summary~ -- Schedule 3(3)*
+@One of the worst-drafted provisions in the act, says MD, who thinks there's a word missing -- the word 'not.' 
+@An implied legal easement overrides if (i) it's a registered right of commons; it's been (ii) used in the 12 months prior to transfer; (iii) it's obvious on a reasonable inspection or (iv) is known to the new RP. 
+/(At registration, all legal easements will be "picked up and put on the register" by the LR.)
+SUMMARY ~*Conditions to Override*~
+/Implied *legal* easements override if they're:
++*A right of commons* on the commons act register. 
++Has been *used within the twelve months* preceeding transfer.
+@@I.e., an easement for sewage would be used if someone _flushed the lavatory_; an easement for telephone cables would be used by _picking up the phone._ {Query whether this wouldn't more normally be a wayleave} 
++Is *obvious on a reasonable inspection* -- as for |Actual Occupation|, or
++Is *known* about by the new RP -- idem.
+
+
+NAME Overreaching
+TYPE Concept
+CATEGORY Overreaching
+CATEGORY Overriding Interests
+CATEGORY Mortgages
+SUMMARY ~*Intro*~
+/The very _2nd_ of the 209 sections comprising the |LPA 1925| provides that conveyance of legal title to a purchasor *overreaches* certain *equitable* interests in the land, as long as the transfer was made by trustee~s~ of a co-owned estate in the land. 
+SUMMARY The concept wasn't new in 1925; it operated and operates similarly on unregistered land. What it promotes is *alienability*, by preventing land getting *clogged-up*. And what goes hand in hand with that? Vast sums in stamp duty.
+SUMMARY *~Rationale*~
+/The _idea_, or maybe _doctrine_, or perhaps simply _legal fiction_ underlying overreaching is that the overreached equitable property rights do not evaporate but are dislodged from the property right and attach instead to (a share of) the purchase money -- which is held on trust for the beneficial owners, as was the beneficial ownership before the transaction that overreached it.
+SUMMARY This square peg cannot, needless to say, be rammed into the round hole of |Sood| -- in which there was _no purchase money_, but in which there was a massive great apple-cart imperatively not to be upset, the practice of remortgaging the family house to fund (or, as in |Sood| itself secure the debts of) a small businss.  
+SUMMARY ~*Criticism*~
+@At best, the conditions in which overreaching might be used necessitate  the holder of the overreached interest has *not been informed* prior to the transfer*. 
+@@If they _had_, but they _hadn't_ protested, this would be implied consent, and their interest would not override.
+@@If they *had protested*, then they could have stopped the transfer by, for instance, by entering a _Caution against Dealing_ notice against the LR entry, which would have nixed the conveyance. 
+@At worst, they imply the holder has been outright deceived. 
+@In all the cases, *the money has gone*. So the idea that everything's OK, as their property right has been magicked into a massive great wad of mortgage cash is cloud cuckoo Land Law.
+@@E.g., the son and his missus in |Flegg| who remortgaged the house behind the equitable owners' backs. 
+SUMMARY ~*Conditions for Overreaching*~
++The equitable right must be *capable* of being overreached. For GDL purposes, this means *equitable co-ownership* behind a *trust of land*.
++The trust must have *at least two trustees*. I.e., the legal title of the transferror must have been held by *more than one* co-owner. 
+@@|Boland| has one O, |Flegg| has two Gs. 
+@@Don't bother thinking too long or too hard about why there must be two.
++Consideration for the transfer has to be paid to *all* the trustees, if the 'purchasor' gave money consideration at all -- |Sood|.
+
+
+NAME State Bank of India v Sood
+CITATION State Bank of India v Sood [1997] Ch 276
+AKA Sood
+FLAGS Key; Peter Gibson
+CATEGORY Overreaching; Public Policy
+CATEGORY Mortgages
+SUMMARY The two trustees executed a charge against their title in favour of their bank, as security for their considerable personal and business debts, thereby, converting the debts into a mortgage. For this, no capital was received from the bank, which sought possession when they defaulted.
+HELD A charge executed to secure existing debts: a mortgage where no money is received, _nevertheless_ falls within the conditions provided by S2(1)(iii) and S27(2) of LPA 1925, and sweeps equitable shares of co-ownership off the land and into the purchase price. 
+COMMENT Fairly obviously *outside* the intention of LPA 1925, this is nevertheless pragmatic in its adjustment to modern circumstances. Grossly unfair to the parties whose equitable property rights were overreached into *existing debt*, yes: but worse would be putting in jeopardy the availability of mortgages to owners of small businesses. {In my tutorial notes for this case I have "Pete Gibson, never forgiven by Simon Golding's pupilmaster (!)"} 
+
+NAME Birmingham Midshires Morgages v Sabherwal
+AKA Sabherwal
+COURT EWCA
+CITATION Birmingham Midshires Mortgage Services Limited v Sabherwal [2000] 80 P&CR 256
+CATEGORY Overreaching
+CATEGORY Mortgages
+SUMMARY A woman's house -- fucking stupidly -- was in the name of her two sons. They mortgaged it to fund business interests and promptly defaulted. The bank sought possession; Mrs. S. claimed her financial contributions gave rise to an equitable interest and that she was in actual occupation, and so had an overriding interest. She claimed |TOLATA 1996| was incompatible with the common law rule, and that her Article 8 rights had been breached. The bank said her interest, should it have existed, had been overreached à la |Flegg|.
+HELD Even when the rule of |Overreaching| of equitable interests in the family home 'offends natural justice,' it must nevertheless be applied. 
+HELD Although clearly unhappy about it, the court could find no reason not to apply |Flegg| -- and find the mother's equitable interest had been overreached by the transfer to the mortgagee, thereby transformed into a share of the mortgage capital.
+
+
+ 
+NAME Overriding Interests - Problem Questions
+TYPE Exam Advice
+CATEGORY Overriding Interests
+CATEGORY Overreaching
+SUMMARY ~*Checklist for S29 Transfer*~
+/*Scenario* -- C claims an overriding interest in priority to the new registered proprietor, P.  
++Is the claimed right a *lease*? 
+++If so, is it *legal* (and under 7 years)?
+++Is it *discontinuous* (a timeshare, or maybe a market stall?) 
++++0_(or a PPP lease, or a social housing lease...)_
+++Occupation due in *fewer than 3 months*?
++Is *C* overreached? 
+++Was the land transferred to P by two or more trustees? |Flegg|. 
+++Or just *one*? |Boland|.
+++*_If_* the transfer was to a mortgagee for a capital sum, did *all* the trustees receive the money, as per S
++Is *C in actual occupation*? |Link Lending|, |Thompson v Foy|, |Malory v Cheshire|. 
+++Or is it really just *use of an easement*? |Chaudhary v Yavuz|.
+++*Is there a property right*? Or like |Saeed v Plustrado|, just actual occupation? |Scott v Southern Pacific Mortgages|.
+++*Did P know* of the *right* claimed by C? (Not to be confused with _knowledge of the actual occupation_)
+++*Did C fail to disclose* the right to P when asked? Was it unreasonable to have expected them to? |Begum v Issa|
+++*Did C consent* to the transfer, explicitly? |RBS v Etridge|. Implicitly? |Abbey National v Cann|. 
+++*Did C give authority* to the original RP to act on their behalf? |Credit & Mercantile v Wishart|.
+++Is the *right* |Reasonably Discoverable|? But even so, is it like |Chhokar|?
++Is it an *easement*?
+++Has it been used within the 12 months prior to the transfer?
+++Is it obvious on a reasonable inspection (as above)?
+++Is it known to the new RP?
+
+
+
+
+NAME Saeed v Plustrado
+FLAGS Overruled; Key
+CATEGORY Overriding Interests; Persons in Actual Occupation
+HELD The claim of an overriding interest succeeded on the grounds that the claimant was a person in actual occupation. Decided per incuriam on a misunderstanding of |Schedule 3|(2) -- overruled in |Scott v Southern Pacific Mortgages|.
+
+
+
+NAME Scott v Southern Pacific Mortgages
+FLAGS Essential
+CATEGORY Overriding Interests; Persons in Actual Occupation
+HELD The claimant had no interest in the property. Being in actual occupation did not per se create a Schedule 3(2) overriding interest.
+
+NAME City of London Building Society v Flegg
+CITATION City of London Building Society v Flegg [1987] UKHL 6
+WIKILINK https://en.wikipedia.org/wiki/City_of_London_Building_Society_v_Flegg
+AKA Flegg
+FLAGS Essential
+CATEGORY Overriding Interests; Persons in Actual Occupation
+CATEGORY Overreaching
+SUMMARY An elderly couple had sold their house and given the money to their son and his wife, to buy a larger house for all four of them. The solicitor had advised that all four should share legal title in joint ownership, but only the son and his wife did. The son and his wife remortgaged without the parents' consent -- the bank sought possession.
+HELD The equitable interests of the parents had been overreached by the bank, as the two trustees, the RPs, had extinguished the parents' equitable interest by conveying the property to the bank. Cf. |Williams & Glyns Bank v Boland|.
+
+NAME Williams & Glyn's Bank v Boland
+CITATION Williams & Glyn's Bank v Boland [1980] UKHL 4
+AKA Boland
+FLAGS Essential; Denning
+CATEGORY Overriding Interests; Persons in Actual Occupation
+CATEGORY Overreaching; Failure to Overreach
+SUMMARY Mr. Boland, the sole RP, had taken out a mortgage for his business: he defaulted. The bank sought possession, but Mrs. Boland claimed that as she'd made substantial financial contributions, she had an equitable share of co-ownership, and was in actual occupation.
+SUMMARY At first instance, she was found merely to be accompanying the sole RP's actual occupation. On appeal, Lord Denning MR decried the _stripping bare_  of the spouse in |National Provincial Bank v Ainsworth| and held that two persons can be jointly or severally in actual occupation.
+HELD Overriding interests cannot be overreached when there is a single trustee/registered proprietor.
+HELD Lord Wilberforce -- '... as Lord Denning MR points out, to describe the interests of spouses in a house jointly bought to be lived in as a matrimonial home as merely an interest in proceeds of sale, or rents and profits until sale, *is just a little unreal* ...'
+Lord Denning MR -- the spouses in |National Provincial Bank v Ainsworth|.  
+ 
+
+NAME Thompson v Foy 
+YEAR 2009
+CATEGORY Overriding Interests; Meaning of Actual Occupation
+FLAGS Key
+SUMAMRY Mrs. Foy had buggered off to start a new life in Spain. But she intended to return. She claimed an overriding interest, and that she was in actual occupation by virtue of her intention to return.
+HELD Leaving property temporarily, with the intention of returning, counts as actual occupation for Schedule 3(2).
+HELD Lewison J -- Where actual occupation is replied on as causing the interest to affect the estate, this suggests that there must be actual occupation both at the date of the disposition and also at the time of registration. Paragraph 2 of Schedule 3 begins with the words: "An interest belonging at the time of the disposition to a person in actual occupation". If it had been intended that actual occupation at the time of the disposition was the sole criterion, the phrase would more naturally have read: "An interest belonging to a person in actual occupation at the time of the disposition
+
+
+
+NAME Link Lending v Bustard 
+AKA Bustard
+AKA Link Lending
+YEAR 2010
+CATEGORY Overriding Interests; Meaning of Actual Occupation; Actual Occupation Immediately Before Conveyance
+FLAGS Key
+HELD Inter alia, the presence of personal property is evidence from which actual occpuation can be found. The old lady was in fact in a care home, but her personal property was still in on the land in question, to which she returned from time to time.
+
+
+
+NAME RBS v Etridge
+CATEGORY Overriding Interests; Persons in Actual Occupation; Yielding of Right; Explicit
+HELD The claimant of an overriding interest over a new registered proprietor is deemed to have yielded the right by signing a consent form, e.g., to a bank, for a mortgage.
+
+NAME Equity & Home Loans v Prestridge
+AKA Equity v Prestridge
+CATEGORY Overriding Interests; Persons in Actual Occupation; Yielding of Right; Implied
+HELD Involvement in the creation of a mortgage was deemed to be a waiver of of an overriding interest in favour of the new RP, the mortgagee.
+
+NAME Abbey National v Cann
+CITATION Abbey National Building Society v Cann [1990] UKHL 3
+WIKILINK https://en.wikipedia.org/wiki/Abbey_National_Building_Society_v_Cann
+CATEGORY Overriding Interests; Persons in Actual Occupation; Yielding of Right; Implied
+SUMMARY A mother and son had both contributed to the purchase of a house in the son's name. They then moved to a more expensive property for which the mother consented to a mortgage of £4K from Abbey National. The son also took out a further mortgage of £25K about which she remained in ignorance. The mortgage of £4K defaulted; the bank sought possession.
+/The mother had started to move _carpets_ in, 35 minutes (!) before completion. On this basis, she claimed she was in actual occupation in priority to the bank's charge, which came later.
+HELD Actual occupation is distinct to *acts of preparation* for actual occupation. Involvement in a transfer (e.g., the creation of a mortgage) by the claimant of an OI in actual occupation has the effect of a waiver to the right.
+
+NAME Credit & Mercantile v Wishart
+CATEGORY Overriding Interests; Persons in Actual Occupation; Delegation of Right
+SUMMARY Mr. Wishart had a lease, but was not 'discovered' by the surveyor, as he thought he was a _builder_. The bank claimed he had ceded authority to the transferror, who in fact had secured the mortgage to pay off his gambling debts. (Once alleged, the claim that he had somehow communicated with the transferror was hard to disprove).
+HELD A property right of a person in actual occupation will not override under Schedule 3(2) when the person claiming it has (implicitly) given authority to the original RP to act on his behalf.
+COMMENT This seems spurious as hell. Why didn't C&M just sue the surveyor, who presumably would have been insured against prof. neg.?
+
+
+
+NAME Chaudhary v Yavuz
+CATEGORY Overriding Interests; Persons in Actual Occupation; Occupation or Use
+HELD The use of an |easement| is not *actual occupation* under Schedule 3(2).
+
+
+NAME Chhokar v Chhokar
+AKA Chhokar
+WIKILINK https://en.wikipedia.org/wiki/Chhokar_v_Chhokar
+CITATION Chhokar v Chhokar [1984] FLR 313
+CATEGORY Overriding Interests; Persons in Actual Occupation; Reasonable Discoverability
+SUMMARY The husband, evidently a complete bastard, erased all trace of his from the family home whilst she was *in hospital giving birth*, in order to prevent her overriding interest from being reasonably discoverable to a purchasor.
+HELD The claim of an overriding interest will succeed, if its lack of reasonable discoverability on a careful inspection comes about through the transferor's malice.  Of the transferee -- 'everything he did from first to last in connection with the transaction is stamped with immoral stigma.'
+
+
+NAME Begum v Issa
+CATEGORY Overriding Interests; Persons in Actual Occupation; Requirement to Disclose when Reasonable
+SUMMARY A woman who, at least according to the topsy-turvey moral universe into which she was unlucky enough to have been born, _knew her place_ but clearly didn't like it, claimed an overriding interest. When challenged at a family do, and presumably with various assorted cousins etc glowering on, she'd explicitly denied having any such right.
+HELD It may not be reasonable to expect a right-holder to disclose rights to a purchasor, in the meaning of Schedule 3(2)(b) LRA 2002, when doing so could lead to potentially-violent retribution. 
+

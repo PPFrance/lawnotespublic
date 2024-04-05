@@ -1,0 +1,122 @@
+
+NAME Judicial Review - Intro
+TYPE Concept
+CATEGORY Judicial Review
+SUMMARY ~*Intro*~
+/Judicial Review is the other legal means by which government is held to account, apart from in the ballot box. The two things complement and compete with one another. The importance of Judicial Review grew during the latter part of the C20th. This development is subject of these cards. 
+SUMMARY To bring Judicial Review, which can be bought on grounds of |Illegality|, |Irrationality| and |Procedural Impropriety|, you need |Locus Standi| (aka *standing*).  
+SUMMARY ~*What it is and is not*~
+/It _is_:
+@A jurisdiction of *review*, not *appeal*.
+@Concerned with what's *legal*, not what's *right* (|Fewings|).
+SUMMARY It is _not_:
+@Concerned with the *merits* of decisions, but their *legality*.
+@A way of appealing against an unfavourable decision.
+
+
+SUMMARY ~*Remedies*~
+/Many different |Remedies in Judicial Review| are available. The situation used to be more complex still, but has been drastically simplified. Prior to 1978, the *different remedies* each had *different rules* -- different time limits, rules for standing; availability from each court, some from King’s Bench, some from Chancery Division. This allowed for:
+@Being told by the court that the merit was on your side, that you deserved to win, but that --
+@You'd chosen the wrong remedy.
+SUMMARY In that situation you needed to start another action in another court. Except you couldn't, because you'd probably been *timed out*
+
+SUMMARY ~*Expansion of JR*~
+/In the '70s, a report [TODO: which?] recommended substantial streamlining. One set of rules for whichever remedy claimed, plus a unified procedure for claiming, called an _Application for Judicial Review_, in which any mix of remedies was allowed to be sought.
+SUMMARY Implemented somewhat innocuously in 1978, as a slim new chapter in the White Book, *Order 53*, about 20 pages. It got noticed, leading practitioners to see JR as an actually rather simple area of law. In 1981, Order 53 was given statutory approval.
+@Before the reforms, there were 160 applications for JR each year.
+@In 1982, there were 685.
+@In 1992, 2,349.
+@In 2010, about 10,500.
+SUMMARY This is, then, an absolutely _bonzer_ area for lawyers and judges alike.
+
+
+SUMMARY ~*Character of JR*~
+/It often happens quite quickly, at least by contrast to commercial disputes. A good practitioner can get through several JRs *in a week*... but the Government tends to win. Such practitioners do not need any skill at arithmetic -- there aren't usually any damages.
+SUMMARY What you need, to be an effective practitioner, is to *read between the lines* to see the Hidden Markov Models animating the system at a high level of aggregation, so to speak. Judicial Review is heavily intermingled with politics, and involves a lot of courtroom work.
+SUMMARY From DH's first JR lecture -- |Illustration of Difference between Public and Private Law|.
+
+SUMMARY ~*Advice*~
+/Get familiar with the cases. How judges put it is more important than how academics put it, who’ve done, as Herling puts it, 'a lot of reputation building with this area of law.'
+
+
+NAME Illustration of Difference between Public and Private Law 
+TYPE Concept
+CATEGORY Judicial Review
+SUMMARY "Suppose it's the case that one of my functions is to mark coursework; and suppose I was challengeable in public law. Lets compare a civil style case/private style case. 
++As a *private case*, a complaint about merits.
+@I am right, you are wrong.
+@I look again – better, same or worse mark.
+@Or, you got 62 but think you deserve 65. 
+SUMMARY Its more likely you (the student) are wrong and I (the lecturer) am right. I *could* take another look, and conclude actually you are right and raise your mark. Or I could decide your essay was _even worse_ than I thought the first time, and reduce the mark. But the *most likely scenario* is that I decide 62 and 65 are very similar. In reality we decide upon a range from which to choose a mark. There is no precise science. 
+/{I'm convinced I know the concrete situation DH was referring to with scorn.}
++As a *public law* case. Let's say it's a Land Law essay, but the tutor doesn’t even teach land law. If there is any merit in that complaint, it leads directly to the suggestion that something has gone very seriously systemically wrong. Complaints about more serious topics make the government tremble". 
+SUMMARY *The cases that go to JR are the ones that constitute a genuine problem affecting the public.*
+
+
+
+NAME Remedies in Judicial Review
+TYPE Concept
+CATEGORY Judicial Review; Remedies
+
+SUMMARY ~*Remedies in JR*~
+/There are the *prerogative writs*, originally issued by (or on behalf of) the monarch. They are at the court's discretion -- you can *win* and have no remedy. E.g., |Pergau Dam Project|, in it was thought best not to throw good money after bad by awarding a remedy against the corrupt administrators of a dam project. The Treasury Devil appearing for the government made the following submission to the Court --
+@"We cannot understand the criticism my client is receiving. We say it would be a wrong use of the court's to grant the other side a remedy because, *the Government will quite simply remake this decision by another means*, therefore it is pointless." 
+/Top marks for chutzpah.
+SUMMARY The remedies are --
++*Quashing Orders*, also _certiorari_, meaning "to be informed." This has two effects. *(i) To bring a decision up* and *(ii) to quash it*.
+/How did this come into being? Someone would make a complaint to the monarch, typically about the behaviour of a lower court. The complaint would be handed into the Crown Office, the King’s 'clearing house' for complaints. The King would then ask for details. Should the complaint have enough prima facie merit, the case would be *brought up* before the court at which the King sat, the *King's Bench*.
++*Prohibiting Orders*, best understood by comparison with quashing orders, which deals with decisions already made. Prohibiting orders, by contrast, *prevent the making of a decision* in the future. These are far less frequently employed, for the simple reason that foresight into the illegality of a decision is a thing rarely afforded by happenstance.
+/There may nevertheless be situations in which one might want to obtain both quashing and prohibition orders.
+@@Suppose you're seeking a quashing order against a minister's decision. But that decision may entail _later_ decisions being taken. In that case, a prohibiting order might be sought as well as a quashing order.
++*Mandatory Orders*, _mandamus_ -- the Crown orders something to be done. Note that this:
+@@Can only be sought to compel *performance of an existing duty* that hasn't been performed.
+@@Is not much needed, in practice. Organs of government do *not* ordinarily need much encouragement to comply with the law. Being on the receiving end of one these is to attract rather a measure of public obloquy. 
+/E.g., Your friendly JR lecturer asks a public body for a license of some species. The body in question refuses. The lecturer challenges. He's unlikely to ask for a mandatory order, as it's very unlikely the public body would have had a *duty* to grant a license rather than a *discretion*. But the situation may be complex. The licensing body may have refused to *consider* the grant of a license. The chances are they'd have a duty to do this, so a mandatory order may be appropriate.
+SUMMARY There are also:
++4 *Declarations*, which are non-coercive. They contain no formal obligation to do or prevent _quoi que ça soit_. Rather, a declaration is a formal *statement of the law*, as it applies to given facts.  These are sought quite frequently, and granted quite frequently.  What use is this, if it has no compulsive power? Well, because we’re English and we comply with the law. Nevertheless, the declaration is the Kid gloves remedy in public law.
++*Injunctions* and
++*Damages*. The position _essentially_ is that there is no such remedy in public law. But that isn’t to say that a public law wrong can’t cause a private economic loss. The longer JR books have sections on damages. But beware. Usually a claim for damages within a public-law case will be supported _by some part_ of its private action.
+
+
+NAME Availability and Scope of Judicial Review
+TYPE Concept
+CATEGORY Judicial Review; Availability and Scope
+SUMMARY ~*Intro*~
+/JR is, in some ways, parasitic on other areas of law. It metastasises from different legal questions, which will have been adjudicated upon. The adjudication is often _itself_ the subject of challenge. Traditionally, *well over half* of JR cases have arisen from Immigration decisions -- or those of local authorities. Decisions of criminal courts get JRed *occasionally*. Commercial matters get JRed *frequently*.
+SUMMARY Cases may sometimes begin and end as JRs. |Rees-Mogg|, for instance.
+SUMMARY *~Permission to Proceed~ -- on the papers*
+/All cases must first, on a brief statement of the facts and the law, get past a judge, who decides if it's worth the time of day. *Most* fail on this basis. 
+/(Why should there be such an initial 'sift' in JR, when there isn't in civil or criminal litigation? -- Because it’s in no-one’s interest that the time and money of public authorities should be wasted defending hopeless litigation. The defendant here is *the public purse*)
+
+SUMMARY *~Time Limit~ -- three months*
+/Whereas the general civil time limit is six years, in JR the basic period is *three months*. In certain areas (involving planning) it's *even shorter*. In all areas, it *may be shortened*. The claimant, then, must be prompt. Indeed, a complaint may even be timed out *within* three months, should there be heel-marks in the carpet.
+SUMMARY *Why*? JR can be a massive spanner in the machinery of public administration. Imagine a man who brings a JR case against, say, a new runway at Heathrow. The period in which he or anyone else may do so is naturally *legally uncertain* as concerns the decision -- it should therefore be as short as possible. Otherwise nothing would ever get built.
+
+
+SUMMARY ~*Remedy of Last Resort*~
+/JRs _should_ be used only when all other avenues of legal recourse are closed off. In practice, this rule has exceptions.
+@Generally, JR is adjudicated before *generalist* judges in the administrative court, not specialists in tribunals.
+@@[TODO: how does this follow?]
+
+
+NAME R v Somerset CC, ex p Fewings
+AKA Fewings
+CITATION R v Somerset County Council, ex p Fewings [1995] 1 All ER 513
+CATEGORY Judicial Review
+SUMMARY Fewings sought judicial review of the defendant council's decision to ban people from stalking deer on a chunk of common land it owned. Fewings's contention was that the council *had no right* to do so.
+HELD Judicial Review is concerned *exclusively* with the legality of decisions, not their merits. 
+HELD Laws J -- "JR is an area of law rightly exposed to *an increasing degree of public awareness*. In most cases, however, the Court is *not concerned with the merits*. It does not ask itself: "is this decision right or wrong?" Far less does the judge speculate. However this is of great importance, especially where the subject matter is acrimonious. In such a case, it is essential that *those who espouse either side of argument understand without possibility of doubt* that *judgement of court and decision has no respect to which is the better decision*. Only whether the decision was legally permitted to be taken in the way that it was taken."
+
+
+NAME R v Titchmarsh
+CITATION R v Titchmarsh (1915) 22 DLR 272
+CATEGORY Judicial Review
+
+
+NAME R v barker
+CITATION R v Barker (1762) 3 Burr 2185
+CATEGORY Judicial Review
+
+NAME R v Merseyside Police, ex p Calveley
+CITATION R v Chief Constable of the Merseyside Police, ex p Calvely [1986] 1 All ER 257
+CATEGORY Judicial Review; Discretionary Nature of Remedies

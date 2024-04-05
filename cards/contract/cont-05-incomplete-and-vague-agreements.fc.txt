@@ -1,0 +1,131 @@
+META filename herling-05-incomplete-and-vague-agreements.fc.txt
+
+
+
+
+
+NAME Incomplete and Vague Agreements
+TYPE Concept
+CATEGORY Incomplete and Vague Agreements
+SUMMARY See $:Herling's Lectures$$herling.html:$ 
+
+--STOP--
+
+
+
+
+NAME Conditional Agreements
+TYPE Concept
+CATEGORY Incomplete and Vague Agreements; Incomplete Agreements; Conditional Agreements
+
+
+
+
+NAME Winn v Bull
+CITATION Winn v Bull (1877) 7 ChD 29
+CATEGORY Incomplete and Vague Agreements; Incomplete Agreements; Conditional Agreements
+
+
+
+
+NAME Deferred Agreements
+TYPE Concept
+CATEGORY Incomplete and Vague Agreements; Incomplete Agreements; Deferred Agreements
+
+
+
+
+NAME Chillingworth v Esche
+CITATION Chillingworth v Esche [1924] 1 Ch 97
+CATEGORY Incomplete and Vague Agreements; Incomplete Agreements; Deferred Agreements
+
+
+
+
+NAME Branca v Cobarro
+CITATION Branca v Cobarro [1947] KB 854
+CATEGORY Incomplete and Vague Agreements; Incomplete Agreements; Deferred Agreements
+FLAGS Denning
+
+
+
+
+NAME Alpenstow v Regalian Properties
+CITATION Alpenstow v Regalian Properties [1985] 2 All ER 545
+CATEGORY Incomplete and Vague Agreements; Incomplete Agreements; Deferred Agreements
+
+
+
+
+NAME Pre-Emptive Agreements
+TYPE Concept
+CATEGORY Incomplete and Vague Agreements; Incomplete Agreements; Pre-Emptive Agreements
+
+
+
+
+NAME Courtney & Fairbairn Ltd v Tolaini Bros (Hotels) Ltd
+CITATION Courtney & Fairbairn Ltd v Tolaini Bros (Hotels) Ltd [1975] 1 All ER 716
+CATEGORY Incomplete and Vague Agreements; Incomplete Agreements; Pre-Emptive Agreements
+FLAGS Denning
+
+
+
+
+NAME Walford v Miles
+CITATION Walford v Miles [1992] 1 All ER 453
+CATEGORY Incomplete and Vague Agreements; Incomplete Agreements; Pre-Emptive Agreements
+FLAGS Bingham; Steyn; McKendrick
+
+
+
+
+NAME British Bank for Foreign Trade Ltd v Novinex Ltd
+CITATION British Bank for Foreign Trade Ltd v Novinex Ltd [1949] 1 All ER 155
+CATEGORY Incomplete and Vague Agreements; Incomplete Agreements; Executed Agreements
+FLAGS Denning; Diplock
+
+
+
+
+NAME Sudbrook Trading Estate Ltd v Eggleton
+CITATION Sudbrook Trading Estate Ltd v Eggleton [1982] 3 All ER 1
+CATEGORY Incomplete and Vague Agreements; Resolution of Incompleteness; Contractual Machinery For Agreement
+FLAGS Diplock
+
+
+
+
+NAME Foley v Classique Coaches Ltd
+CITATION Foley v Classique Coaches Ltd [1934] 2 KB 1
+CATEGORY Incomplete and Vague Agreements; Resolution of Incompleteness; Contractual Machinery For Agreement
+
+
+
+
+NAME Nicolene v Simmonds
+CITATION Nicolene v Simmonds [1953] 1 QB 543
+CATEGORY Incomplete and Vague Agreements; Resolution of Incompleteness; Severance of Uncertainties
+FLAGS Denning
+
+
+
+
+NAME Scammell and Nephew Ltd v Ouston
+CITATION Scammell and Nephew Ltd v Ouston [1941] AC 251
+CATEGORY Incomplete and Vague Agreements; Vague Agreements; Uncertainties Incapable of Resolution
+FLAGS Denning
+
+
+
+
+NAME Hillas v Arcos
+CITATION Hillas v Arcos (1932) 38 Comm Cas 23
+CATEGORY Incomplete and Vague Agreements; Vague Agreements; Uncertainties Incapable of Resolution
+
+
+
+
+NAME May & Butcher v The King
+CITATION May & Butcher v The King [1934] 2 KB 17n (1929)
+CATEGORY Incomplete and Vague Agreements; Vague Agreements; Uncertainties Incapable of Resolution

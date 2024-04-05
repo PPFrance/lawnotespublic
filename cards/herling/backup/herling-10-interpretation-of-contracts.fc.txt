@@ -1,0 +1,430 @@
+META filename herling-10-interpretation-of-contracts.fc.txt
+
+
+
+
+
+NAME Interpretation of Contracts - Table of Contents
+TYPE Table of Contents
+CATEGORY Interpretation of Contracts
+SUMMARY ~*Introduction*~
+@|Lord Napier and Ettrick v R F Kershaw|
+SUMMARY ~*Importance of Interpretation*~
+SUMMARY ~*Development of Modern Interpretation*~
+@|Lovell & Christmas Ltd v Wall| - |Prenn v Simmonds| - |Reardon Smith Line Ltd v Yngvar Hansen-Tangen| - |Investors' Compensation Scheme Ltd v West Bromwich Building Society|
+SUMMARY ~*Commentary on Lord Hoffmann's Restatement*~
+@|George Mitchell (Chesterhall) Ltd v Finney Lock Seeds| - |Bank of Credit and Commerce International SA v Ali| - |Chartbrook Ltd v Persimmon Homes Ltd|
+SUMMARY ~*Introduction*~
+@|Smith v Wilson|
+SUMMARY ~*Terms Implied By Custom*~
+@|Hutton v Warren|
+SUMMARY ~*Terms Implied From Parties' Presumed Intentions (“Terms Implied In Fact”)*~
+@|The Moorcock| - |Reigate v Union Manufacturing Co| - |Shirlaw v Southern Foundries Ltd|
+SUMMARY ~*Coalescence of Contractual Interpretation and Implication of Terms In Fact*~
+@|Attorney General of Belize v Belize Telecom Ltd|
+SUMMARY ~*Terms Implied From Parties' Legal Relationship (“Terms Implied In Law”)*~
+@|Liverpool City Council v Irwin| - |Scally v Southern Health and Social Services Board| - |Crossley v Faithful & Gould Holdings|
+/->-The first half of this lecture is an introduction to the field of contractual interpretation. By contrast with almost all the material presented so far, this part of this lecture is designed to be read rather than learnt. This is not an area, it has to be admitted, in which a line of decided cases readily provides the concepts or devices with which to unlock problem questions. In fact contractual interpretation, as has often been remarked, is not much governed by the use of authority. Cases there are, but they amount to statements of judicial perspective rather than tools to use against facts. That being said, they do give direct insights into the character and indeed the success of this country's commercial law.
+FLAGS Denning
+
+
+
+
+NAME Interpretation of Contracts - Introduction
+TYPE Concept
+CATEGORY Interpretation of Contracts
+SUMMARY ~*Introduction*~
+/->-In <i>Lord Napier and Ettrick v R F Kershaw Ltd</i> [1999] 1 WLR 756, Lord *Steyn*, a judge of the Commercial Court for much of his judicial career, made this seemingly anodyne statement:
+/->-“Loyalty to the text of a commercial contract, instrument, or document read in its commercial setting is the paramount principle of interpretation. But in the process of interpreting the meaning of the language of a commercial document the court ought generally to favour a commercially sensible construction. The reason for this approach is that a commercial construction is likely to give effect to the intention of the parties. Words ought therefore to be interpreted in the way in which a reasonable commercial person would interpret them. And the reasonable commercial person can safely be assumed to be unimpressed with technical interpretations and undue emphasis on niceties of language”.
+/->-Lord Steyn's opinion suffers the following reaction from Professor *McKendrick*:
+/->-“The drift is clear but whether it is a wholly desirable development is less clear cut. The last sentence is problematic. Is Lord Steyn's assumption about the “reasonable commercial person” correct? What about the case in which our “reasonable commercial person” consults a lawyer before entering into the transaction? Is a lawyer also assumed to be unimpressed with “technical interpretations and undue emphasis on niceties of language?”
+/->-The point is, of course, a fair one. On the one hand, and as Lord Steyn might put it, the courts must be sensitive to what the parties as reasonable people in business probably meant by their agreement. But as McKendrick might reply, the courts must also be the guardians of certainty, recognising that the parties will have gone to the lawyers to have their deal framed by reference to the rules, and will now expect the court to apply those rules. 
+/->-The resolution of this difference of emphasis demands the striking of a balance between responsiveness and predictability. The danger is that a court (or system of commercial law) which tries too hard to second-guess the parties' intention will have business people struggling to keep up with the latest precedent reflecting responsive and innovative judicial interpretation of contracts. A kind of inflation stalks the field. 
+
+
+
+
+FLAGS Steyn; McKendrick
+NAME Importance of Interpretation
+TYPE Concept
+CATEGORY Interpretation of Contracts; Importance of Interpretation
+SUMMARY ~*Importance of Interpretation*~
+/->-However, does any of this matter, beyond the fact that judges (like anybody else who has ever who has puzzled over a problem of interpretation) feel a powerful need to get it right? The staple diet of the Commercial Court, as Lord Goff pointed out in a 1984 essay, may be summed up in a single word – “Construction”; but whichever way such problems are resolved, one party will always lose while the other wins. Provided justice is broadly done, could interpretation not be regarded as a matter of judicial technique with limited significance for the rest of the world?
+/->-An answer: it matters intensely that judges should be seen to understand the way that commerce works. There is more riding upon that than the doing of justice in individual cases. This country depends for its livelihood upon transactions. Those undertaking transactions need to be able to plan them in accordance with a body of rules which facilitates their working, and with confidence that judges will understand their dealings when applying the rules. The body of rules exists; for 250 years (essentially since the time of Lord Mansfield) English commercial law has formed itself through constant and remarkably close contact with the way in which merchants actually do business. Every new case raising a point of construction, however, is a new test of whether a judge has correctly grasped the character of what it is to which the rules must be applied. If the grasp is seen to be there, then it is the more likely that deals will continue to be done under English law, and may well be locally advised, financed, insured, reinsured and arbitrated. If the grasp fails, then the trade will go where it is better understood, or it will falter in its turn. The giving of commercially right answers is not a matter of judicial perfectionism. Commercial adjudication has consumers, and not just those who may be present in court. 
+
+
+
+
+NAME Development of Modern Interpretation
+TYPE Concept
+CATEGORY Interpretation of Contracts; Development of Modern Interpretation
+SUMMARY ~*Development of Modern Interpretation*~
+/->-The first principle of the construction of contracts has traditionally been that it is for the court to act upon its own objective understanding of what a document means. Its interpretation will be informed by relevant evidence, but will not be coloured by the individual parties' subjective interpretations. 
+
+
+
+
+NAME Lovell & Christmas Ltd v Wall
+CITATION Lovell & Christmas Ltd v Wall (1911) 104 LT 85
+CATEGORY Interpretation of Contracts; Development of Modern Interpretation
+SUMMARY ~*Overview*~
+/->-The plaintiff sought an injunction to prevent the defendant, its former director, from carrying on business in Liverpool as a manufacturer of margarine. It relied on an agreement under seal that he would not set up in the relevant area as a “provision merchant” for a specified time. It was therefore necessary to decide whether trading as a margarine manufacturer made the defendant a provision merchant. The Court of Appeal held, after considering evidence, that it did not.
+SUMMARY ~*Detail*~
+/->-Cozens-Hardy MR stated the accepted approach to the construction of documents: “If there is one principle more clearly established than another in English law it is surely this: It is for the court to construe a written document. It is irrelevant and improper to ask what the parties, prior to the execution of the instrument, intended or understood. What is the meaning of the language that they have used therein? That is the problem, and the only problem. In saying that, I do not mean to assert that no evidence can be admitted.... it is the duty of the court, which is presumed to understand the English language, to construe the document according to the ordinary grammatical meaning of the words used therein, and without reference to anything which has previously passed between the parties to it”.
+SUMMARY ~*Discussion*~
+/->-This approach to construction, sometimes known as the “four corners” doctrine, amounted to the view that everything that could properly be taken from a document would appear from its words alone, provided only that they were properly interpreted (which might require the meaning of some to be elucidated by objective evidence). Such an inward-looking perspective may seem all too appropriate to an elitist and isolated judiciary. It should be borne in mind, however, that it perhaps encouraged savings of time and expense in adjudication by limiting the preparation on which it would be based; that its confirmation of the supremacy of literal meaning promoted predictability; and that it had the strong backing in principle from the fact that the court had asserted its jurisdiction over the document subject to scrutiny. The court in a sense “owned” the document. Certainly it regarded itself as the owner of its meaning.
+/->-Nevertheless, this attitude underwent a modification. In <i>Prenn v Simmonds</i> [1971] 1 WLR Lord Wilberforce disclaimed the idea that agreements could be wholly isolated from the “matrix of fact” in which they were set. He explained this corrective view in more detail in the next case.
+
+
+
+
+NAME Reardon Smith Line Ltd v Yngvar Hansen-Tangen
+CITATION Reardon Smith Line Ltd v Yngvar Hansen-Tangen [1976] 1 WLR 989
+CATEGORY Interpretation of Contracts; Development of Modern Interpretation
+SUMMARY ~*Detail*~
+/->-“No contracts are made in a vacuum: there is always a setting in which they have to be placed. The nature of what is legitimate to have regard to is usually described as “the surrounding circumstances” but this phrase is imprecise: it can be illustrated but hardly defined. In a commercial contract it is certainly right that the court should know the commercial purpose of the contract and this in turn presupposes knowledge of the genesis of the transaction, the background, the context, the market in which the parties are operating....
+/->-It is often said that, in order to be admissible in aid of construction, these extrinsic facts must be within the knowledge of both parties to the contract, but this requirement should not be stated in too narrow a sense. When one speaks of the knowledge of the parties to the contract, one is speaking objectively – the parties cannot themselves give direct evidence of what their intention was – and what must be ascertained is what is to be taken as the intention which reasonable people would have if placed in the situation of the parties. Similarly when one is speaking of aim, or object, or commercial purpose, one is speaking objectively of what reasonable persons would have in mind in the situation of the parties... [w]hat the court must do must be to place itself in thought in the same factual matrix as that in which the parties were”.
+SUMMARY ~*Discussion *~
+/->-It is slightly ironic that Lord Wilberforce's stepping beyond the four corners of the contract into the “matrix of fact” is necessary in part because of an exclusionary rule of evidence. The parties cannot be heard on the subject of what they apprehended they were agreeing – this rule is akin to the parol evidence rule (see the last lecture), although technically it is separate from it. As a result, the genesis of the contract has to be studied in objective terms.
+/->-The next case is central to the subject of contractual interpretation, because Lord *Hoffman*n took the opportunity to give a general account of what he took to be the modern practice of the courts.
+FLAGS Hoffman
+
+
+
+
+NAME Investors' Compensation Scheme Ltd v West Bromwich Building Society
+CITATION Investors' Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 WLR 896
+CATEGORY Interpretation of Contracts; Development of Modern Interpretation
+SUMMARY ~*Overview*~
+/->-This case arose out of claims brought (a) by the Investors' Compensation Scheme, and (b) individual investors, against the Building Society in respect of negligent advice given to the investors. The ICS was involved because the investors had assigned to it certain of their rights. The question was which rights had been assigned. The relevant form excluded from the assignment “any claim (whether sounding in rescission for undue influence or otherwise)”. The ICS and the investors understood these words differently, with the result that their claims against the building society overlapped. The investors argued that the words meant “any claim”, including a claim for damages. The ICS argued that they meant “any claim sounding in rescission”, so that a claim for damages was not included.
+/->-The House of Lords held by a majority that the ICS was correct. The clause was badly drafted, and had to be read to mean “any claim sounding in rescission (whether for undue influence or otherwise). Lord Lloyd dissented on the ground that it was quite impermissible to take words from within the brackets and place them outside, thereby completely altering their sense.
+SUMMARY ~*Detail*~
+/->-Lord *Hoffman* was a member of the majority which considered it necessary to read the clause against its plain meaning. He took the opportunity to make a series of prefatory observations on the practice of construing contracts:
+/->-“My Lords ... I should preface my explanation of my reasons with some general remarks about the principles by which contractual documents are nowadays construed. I do not think that the fundamental change which has overtaken this branch of the law, particularly as a result of the speeches of Lord Wilberforce [in <i>Prenn v Simmonds</i> (1971) and <i>Reardon Smith Line Ltd v Hansen-Tangen</i> (1976)], is always sufficiently appreciated. The result has been, subject to one important exception, to assimilate the way in which such documents are interpreted by judges to the common sense principles by which any serious utterance would be interpreted in ordinary life. Almost all the old intellectual baggage of “legal” interpretation has been discarded. The principles may be summarised as follows.
+/->-[1] Interpretation is the ascertainment of the meaning which the document would convey to a reasonable person having all the background knowledge which would reasonably have been available to the parties in the situation in which they were at the time of the contract.
+/->-[2] The background was famously referred to by Lord Wilberforce as the “matrix of fact”, but this phrase is, if anything, an understated description of what the background may include. Subject to the requirement that it should have been reasonably available to the parties and to the exception to be mentioned next, it includes absolutely anything which would have affected the way in which the language of the document would have been understood by a reasonable man.
+/->-[3] The law excludes from the admissible background the previous negotiations of the parties and their declarations of subjective intent. They are admissible only in an action for rectification. The law makes this distinction for reasons of practical policy and, in this respect only, legal interpretation differs from the way we would interpret utterances in ordinary life. The boundaries of this exception are in some respects unclear. But this is not the occasion on which to explore them.
+/->-[4] The meaning which a document (or any other utterance) would convey to a reasonable man is not the same thing as the meaning of its words. The meaning of words is a matter of dictionaries and grammars; the meaning of the document is what the parties using those words against the relevant background would reasonably have been understood to mean. The background may not merely enable the reasonable man to choose between the possible meanings of words which are ambiguous but even (as occasionally happens in ordinary life) to conclude that the parties must, for whatever reason, have used the wrong words or syntax (see <i>Mannai Investment Co Ltd v Eagle Star Life Assurance Co Ltd</i> [1997] 2 WLR 945).
+/->-[5] The “rule” that words should be given their “natural and ordinary meaning” reflects the commonsense proposition that we do not easily accept that people have made linguistic mistakes, particularly in formal documents. On the other hand, if one would nevertheless conclude from the background that something must have gone wrong with the language, the law does not require judges to attribute to the parties an intention which they plainly could not have had. Lord *Diplock* made this point more vigorously when he said in <i>Antaios Cia Naviera SA v Salen Rederiema AB, The Antaios</i> [1985] 191 at 201:
+/->-“if detailed semantic and syntactical analysis of words in a commercial contract is going to lead to a conclusion that flouts business common sense, it must be made to yield to business common sense”.”
+
+
+
+
+FLAGS Hoffman; Diplock
+NAME Commentary on Lord Hoffmann's Restatement
+TYPE Concept
+CATEGORY Interpretation of Contracts; Commentary on Lord Hoffmann's Restatement
+SUMMARY ~*Commentary on Lord Hoffmann's Restatement*~
+/->-The remainder of this part of the lecture consists of a review of some of the main reactions from commentators to what Lord Hoffmann said in the <i>ICS</i> case. They include objections on the ground that it is too broad, but also suggestions that it blocks off ways in which the law ought to develop.
+
+
+
+
+NAME The old principles of “legal” interpretation
+TYPE Concept
+CATEGORY Interpretation of Contracts
+SUMMARY ~*The old principles of “legal” interpretation*~
+/->-The first point much commented upon is Lord *Hoffman*n's statement (in his introductory paragraph) that almost all the old intellectual baggage of “legal” interpretation has been discarded. Lord *Hoffman*n, in several of his most famous judicial pronouncements, has a tendency radically to simplify, sometimes in a way that leaves most others impressed but slightly incredulous. In connection with the courts' construction of exemption clauses, some, including Professor *McKendrick*, have wondered whether Lord *Hoffman*n's attitude is not too sweeping. 
+/->-The construction of exemption clauses is an area in which special rules of interpretation have traditionally applied. Judges did not warm to the way in which parties with a dominant position would use standard form clauses, often hidden in small print, to deprive others of their contractual remedies. Exemption clauses have therefore tended to be “read down” though the application of the <i>contra proferentem</i> rule (the “proferens” is the party relying on such a clause). With the passing of the Unfair Contract Terms Act 1977, there were strong expressions of judicial disapproval for the continuance of this practice, since the Act now provided a regular and legislatively ratified means of controlling such clauses. Nevertheless, in cases of ambiguity, the rule still applies, supported by the decisions of senior courts which Lord Hoffmann cannot be taken to have overruled.
+/->-In the following case Lord *Denning* tells the story of the rise and near fall of the <i>contra proferentem</i> rule. 
+FLAGS McKendrick; Hoffman; Denning
+
+
+
+
+NAME George Mitchell (Chesterhall) Ltd v Finney Lock Seeds
+CITATION George Mitchell (Chesterhall) Ltd v Finney Lock Seeds [1983] 2 AC 803
+CATEGORY Interpretation of Contracts; Commentary on Lord Hoffmann's Restatement
+SUMMARY ~*Overview*~
+/->-“None of you will remember the trouble we had – when I was called to the Bar – with exemption clauses. They were printed in small print on the back of tickets and order forms and invoices. They were contained in catalogues or timetables. They were held to be binding on any person who took them without objection. No one ever did object. He never read them or knew what was in them. No matter how unreasonable they were, he was bound. All this was done in the name of “freedom of contract”. But freedom was all on the side of the big concern which had the use of the printing press. No freedom for the little man who took the ticket or order form or invoice. The big concern said, “Take it or leave it”. The little man had no option but to take it. The big concern could and did exempt itself from liability in its own interest without regard to the little man. It got away with it time after time. When the courts said to the big concern, “You must put it in clear words”, the big concern had no hesitation in doing so. It knew well that the little man would never read the exemption clauses or understand them.
+/->-Faced with this abuse of power – by the strong against the weak – by the use of the small print of the conditions – the judges did what they could to put a curb upon it. They still had before them the idol, “freedom of contract”. They still knelt down and worshipped it, but they concealed under their cloaks a secret weapon. They used it to stab the idol in the back. This weapon was called “the true construction of the contract”. They used it with great skill and ingenuity. They used it so as to depart from the natural meaning of the words of the exemption clause and to put upon them a strained and unnatural construction. In case after case, they said that the words were not strong enough to give the big concern exemption from liability; or that in the circumstances the big concern was not entitled to rely on the exemption clause. If a ship deviated from the contractual voyage, the owner could not rely on the exemption clause. If a warehouseman stored the goods in the wrong warehouse, he could not pray in aid the limitation clause. If the seller supplied goods different in kind from those contracted for, he could not rely on any exemption from liability. If a shipowner delivered goods to a person without production of the bill of lading, he could not escape liability by reference to an exemption clause. In short, whenever the wide words – in their natural meaning – would give rise to an unreasonable result, the judges either rejected them as repugnant to the main purpose of the contract, or else cut them down to size in order to produce a reasonable result.
+/->-Lord *Denning* went on to recount how “out of winter came spring” with the legislative activity which led to the passing of the Unfair Contract Terms Act 1977. In his view, it was no longer necessary to go through “all kinds of gymnastic contortions” to get around exclusion clauses, since the Act now subjected many of them to a test of reasonableness. Lord *Denning* also considered that it should no longer be necessary to harass students with the study of cases on exclusion clauses. Nevertheless, the topic will be revisited (fairly briefly) in lecture 12.
+FLAGS Denning
+
+
+
+
+NAME Interpretation and precedent
+TYPE Concept
+CATEGORY Interpretation of Contracts
+SUMMARY ~*Interpretation and precedent*~
+/->-Another query raised by Professor *McKendrick* concerns the relationship between Lord *Hoffman*n's restatement and the old cases generally. Which, if any of them, should he be taken to be overruling? *McKendrick* goes on to make the point that it may not matter too much if, as is often said, precedent has a relatively limited role to play in the interpretation of contracts. This is an interesting and important point in its own right, and since one of the most forceful proponents of this sceptical view of the usefulness of precedent has been Lord *Hoffman*n himself, his opinion is set out here. 
+FLAGS McKendrick; Hoffman
+
+
+
+
+NAME Bank of Credit and Commerce International SA v Ali
+CITATION Bank of Credit and Commerce International SA v Ali [2001] UKHL 8
+CATEGORY Interpretation of Contracts; Commentary on Lord Hoffmann's Restatement
+SUMMARY ~*Overview*~
+/->-This case was one of several arising from the collapse of BCCI. Mr Naeem, who had earlier been made redundant by the bank, signed a release of all claims that he might have against it. The question for the House of Lords in this case was whether that agreement should be taken to extend to a claim not known to the law at the time (in 1998, a decision of the House of Lords introduced the concept of “stigma damages”, to which Mr Naeem was now arguably entitled). The majority of their lordships held that the agreement did not extend to stigma damages. Lord *Hoffman*n, dissenting, held that the draftsman of Mr Naeem's general release agreement had “meant business” and was not leaving deliberate gaps. All claims were barred, whether known to the law at the time of the agreement or not.
+SUMMARY ~*Detail*~
+/->-Lord Hoffmann deprecated the use of authority to solve this problem of construction:
+/->-50. “The main contrary argument which Mr Allen put before your Lordships was an argument based on authority. He referred the House to a number of cases, going back to the 18th century, from which he culled general statements much along the lines of those which I have already cited from <i>Directors of the London and South Western Railway Co v Blackmore,</i> LR 4 HL 610 and <i>Lyall v Edwards, </i>6 H & N 337. From these he invited your Lordships to hold that there was a general presumption that, in the absence of what were described as "clear words to the contrary", general words of release would be confined to matters which were within the specific contemplation of the parties. And he urged your Lordships to adopt this construction even in a case in which there were obviously no claims within the specific contemplation of the parties.
+/->-51. My Lords, I have a number of difficulties with this argument, the first of which goes to the root of the process of interpretation. If interpretation is the quest to discover what a reasonable man would have understood specific parties to have meant by the use of specific language in a specific situation at a specific time and place, how can that be affected by authority? How can the question of what a reasonable man in 1990 would have thought BCCI and Mr Naeem meant by using the language of an Acas form be answered by examining what Lord Keeper Henley said in 1758 (<i>Salkeld v Vernon,</i> 1 Eden 64)? I can understand that if parties in a legal context use words in what appears to have been a technical sense, it may be necessary to ascertain that technical meaning from authorities. But there is nothing of that kind here.
+/->-52. My second difficulty is that Mr Allen's citations of authority were almost entirely context-free. He read a number of general statements of the kind which I have already cited without inviting your Lordships to examine in any detail the facts of the cases in which they were made. But that does not seem to me a proper use of authority. The remarks of judges, however general, have to be read in context no less than the general words of contractual documents”.
+FLAGS Hoffman
+
+
+
+
+NAME Over-extending the “matrix of fact”
+TYPE Concept
+CATEGORY Interpretation of Contracts
+SUMMARY ~*Over-extending the “matrix of fact”*~
+/->-Another point on which Lord *Hoffman*n's restatement has proved vulnerable to criticism is the proposition (in his second paragraph) that the relevant “matrix of fact” includes “absolutely anything which would have affected the way in which the language of the document would have been understood by a reasonable man”.
+/->-The danger associated with these words is that they could be read by some as an invitation to submerge legal proceedings in a welter of evidential detail to the detriment of efficient and focused adjudication. In some litigation, perhaps particularly where complex charges of wrong-doing are brought, this could be used by a defendant as a means to muddy the waters. In any litigation it could put justice beyond the financial means of many, and endanger the rule of law. 
+/->-In the <i>BCCI</i> case (above), Lord Hoffmann explained that he meant there were no conceptual limits to what might be relevant as background. He had not thought it necessary to say that he was referring only to what a reasonable man would have regarded as relevant. 
+FLAGS Hoffman
+
+
+
+
+NAME Artificially limiting the matrix of fact
+TYPE Concept
+CATEGORY Interpretation of Contracts
+SUMMARY ~*Artificially limiting the matrix of fact*~
+/->-Lord *Hoffman*n has had to defend the third paragraph on his restatement against several commentators who disagree with him (and with the settled law) that evidence of the parties' negotiating positions and declarations of subjective intent remain excluded from the matrix of fact. The traditional reason for this exclusion was given by Lord Wilberforce in <i>Prenn v Simmonds</i> (1971) above; the parties' positions during a negotiation are changing, and it is only the final document which records a stable consensus. An objection to this traditional view consists in accepting that the weight to be attached to such evidence may vary according to the context, but that there should not be a blanket prohibition on its use. 
+/->-Lord Hoffmann himself gave a characteristically elegant rebuttal of some of the arguments for inclusivity in the following case. The facts are not relevant.
+FLAGS Hoffman
+
+
+
+
+NAME Chartbrook Ltd v Persimmon Homes Ltd
+CITATION Chartbrook Ltd v Persimmon Homes Ltd [2009] UKHL 38
+CATEGORY Interpretation of Contracts; Commentary on Lord Hoffmann's Restatement
+SUMMARY ~*Overview*~
+/->-38. “Like Lord *Bingham*, I rather doubt whether the ICS case produced a dramatic increase in the amount of material produced by way of background for the purposes of contractual interpretation. But pre-contractual negotiations seem to me capable of raising practical questions different from those created by other forms of background. Whereas the surrounding circumstances are, by definition, objective facts, which will usually be uncontroversial, statements in the course of pre-contractual negotiations will be drenched in subjectivity and may, if oral, be very much in dispute. It is often not easy to distinguish between those statements which (if they were made at all) merely reflect the aspirations of one or other of the parties and those which embody at least a provisional consensus which may throw light on the meaning of the contract which was eventually concluded. But the imprecision of the line between negotiation and provisional agreement is the very reason why in every case of dispute over interpretation, one or other of the parties is likely to require a court or arbitrator to take the course of negotiations into account. Your Lordships' experience in the analogous case of resort to statements in Hansard under the rule in Pepper v Hart [1993] AC 593 suggests that such evidence will be produced in any case in which there is the remotest chance that it may be accepted and that even these cases will be only the tip of a mountain of discarded but expensive investigation. Pepper v Hart has also encouraged ministers and others to make statements in the hope of influencing the construction which the courts will give to a statute and it is possible that negotiating parties will be encouraged to improve the bundle of correspondence with similar statements. 
+/->-39. Supporters of the admissibility of pre-contractual negotiations draw attention to the fact that Continental legal systems seem to have little difficulty in taking them into account. Both the Unidroit Principles of International Commercial Contracts (1994 and 2004 revision) and the Principles of European Contract Law (1999) provide that in ascertaining the “common intention of the parties", regard shall be had to prior negotiations: articles 4.3 and 5.102 respectively. The same is true of the United Nations Convention on Contracts for the International Sale of Goods (1980). But these instruments reflect the French philosophy of contractual interpretation, which is altogether different from that of English law. As Professor Catherine Valcke explains in an illuminating article (“On Comparing French and English Contract Law: Insights from Social Contract Theory”) (16 January 2009), French law regards the intentions of the parties as a pure question of subjective fact, their volonté psychologique, uninfluenced by any rules of law. It follows that any evidence of what they said or did, whether to each other or to third parties, may be relevant to establishing what their intentions actually were. There is in French law a sharp distinction between the ascertainment of their intentions and the application of legal rules which may, in the interests of fairness to other parties or otherwise, limit the extent to which those intentions are given effect. English law, on the other hand, mixes up the ascertainment of intention with the rules of law by depersonalising the contracting parties and asking, not what their intentions actually were, but what a reasonable outside observer would have taken them to be. One cannot in my opinion simply transpose rules based on one philosophy of contractual interpretation to another, or assume that the practical effect of admitting such evidence under the English system of civil procedure will be the same as that under a Continental system”.
+FLAGS Bingham
+
+
+
+
+NAME The temptation to go beyond the dictionary
+TYPE Concept
+CATEGORY Interpretation of Contracts
+SUMMARY ~*The temptation to go beyond the dictionary*~
+/->-This critique relates to the fourth paragraph of Lord *Hoffman*'s restatement. It has always been accepted that a court may need to go beyond the dictionary definitions of words where those words are ambiguous. However, Lord *Hoffman*'s proposition that the meaning of a document is not the same as the meaning of its words is clearly not confined to cases where ambiguity forces the court to have regard to context. It can be read as a general licence to courts, and therefore also to advocates, to approach contractual documents on the footing that they do not necessarily mean what they say. If the result is that the parties' objective intention is vindicated despite problems with their drafting, then all is well. If, on the other hand, the court adopts an over-ingenious interpretation which the parties never intended, then a serious blow is struck against the principles of certainty in commercial law (and against freedom of contract).
+FLAGS Hoffman
+
+
+
+
+NAME Going beyond “mistakes” in the contract
+TYPE Concept
+CATEGORY Interpretation of Contracts
+SUMMARY ~*Going beyond “mistakes” in the contract*~
+/->-The principle in Lord *Hoffman*n's fifth paragraph is that the court's interpretation need not be fettered by an obvious mistake in the drafting of a document so that the parties are saddled with an intention which they plainly could not have had. This seems so entirely unobjectionable that it may be surprising to see that there is a counter-argument. Where the court upholds the agreement in fact made, rather than discovering and enforcing one which would have been a better agreement, it does a great service to the value of certainty. Furthermore, a cautious approach to the construction of contracts is one for which people in business can prepare by making sure that they draft their documents with care. What they are powerless against is a court which illegitimately takes it upon itself to re-write documents.
+/->-However, the principle that an obvious mistake in drafting will not bind the court is qualified in Lord Hoffman's restatement; it must be apparent that it does not represent the parties' intention. Therefore the decision to “correct” a mistake is taken by reference to the entire context from which the parties' intention appears, and not by reference to the scope for improvement.
+/->-Therefore there is no great controversy here, but instead an attitude of vigilance. The interpretation of contracts must remain in step with the assumptions of people in business, neither lagging behind them nor (albeit from the best of motives) rushing ahead.
+FLAGS Hoffman
+
+
+
+
+NAME Interpretation of Contracts - Introduction
+TYPE Concept
+CATEGORY Interpretation of Contracts
+SUMMARY ~*Introduction*~
+/->-The implication of terms into contracts differs from the incorporation of terms (see the last lecture). In the case of incorporation, the stipulation in question is extant – it has been stated, or written, or displayed or referred to by one of the parties at some time before the contract is concluded. In the case of an implied term, the stipulation has no existence in relation to the contract until the case is before the court.
+/->-Broadly speaking, the law recognises four rationales for the implication of terms. They are
+/->-(3) Implication from the parties' legal relationship (“terms implied in law”)
+/->-This lecture will deal with the first three. The most important aspects of the fourth, which really concerns the imposition of terms by a superior authority, will be set out in the next lecture.
+/->-It might well have been thought, until very recently, that the implication of terms was a self-contained subject – not the easiest, to be sure, but one around which a boundary could have been drawn with some assurance. However, Lord *Hoffman*n has now stepped into this arena, and proposed that the first three instances of implication above are in fact no more than aspects of the contextual interpretation of contracts. He made this proposal in a case cited at some length later in this lecture – <i>Attorney General of Belize v Belize Telecom</i> (2009). 
+/->-We will first work through the standard sub-divisions of the law on implication of terms before addressing Lord Hoffmann's insight. 
+FLAGS Hoffman
+
+
+
+
+NAME Smith v Wilson
+CITATION Smith v Wilson (1832) 3 B and Adol 728
+CATEGORY Interpretation of Contracts; Introduction
+SUMMARY ~*Overview*~
+/->-The plaintiff promised the defendant 10, 000 rabbits. The defendant was to pay £60 per 1000, but refused to pay the sum apparently owing, contending that in Suffolk 1000 rabbits actually meant 1200 rabbits. Held, that this was correct.
+/->-This case concerned the demise of a rabbit warren, which was an abundant and valuable source of cheap meat. The decision stands as authority for an exception to the parol evidence rule (see the last lecture), namely that oral evidence may be admitted to show that a contract should be construed in accordance with local custom.
+SUMMARY ~*Discussion*~
+/->-What is the court doing here? In a sense, it is implying into this contract the term that “1000 rabbits”, in a contract made in the 1830s in Suffolk, has the meaning “1200 rabbits”. Local custom requires this implication. However, the court is equally interpreting the parties' contract contextually, taking into account the matrix of fact in order to discover the meaning which the parties must be deemed to have intended their contract to bear. There does not seem to be any way of preferring either one of these analyses over the other. They are different approaches to a single proposition. Lord *Hoffman*n, and the others who have agreed with him or indeed pointed the way to this perception, would appear to have a point. The internal organisation of some contract textbooks may need to be reconsidered.
+FLAGS Hoffman
+
+
+
+
+NAME Implication from custom
+TYPE Concept
+CATEGORY Interpretation of Contracts
+SUMMARY ~*Implication from custom*~
+/->-The parties may be deemed to have contracted with reference to a custom objectively known to operate within a certain activity or area.
+
+
+
+
+NAME Hutton v Warren
+CITATION Hutton v Warren (1836) 1 M & W 466
+CATEGORY Interpretation of Contracts; Terms Implied By Custom
+SUMMARY ~*Overview*~
+/->-The tenant of a farm was given notice by his landlord to quit. The landlord later served notice that the tenant was bound, in accordance with a custom of the country, to continue to farm in a regular way until leaving. The tenant did so, and duly quit, but claimed that the custom of the country entitled him to an allowance for the cost to him of seed and his labour in ploughing and sowing before he went.
+SUMMARY ~*Detail*~
+/->-Parke B stated that extrinsic evidence of custom had long been held to be admissible to annex incidents to written contracts with respect to which they were silent. The underlying presumption was that the parties had not meant to express in writing the whole of their agreement, but had contracted by reference to known usage.
+/->-He said that it went too far to submit (as had been done in argument) that the custom was operative unless the agreement excluded it in express terms. More accurately, the custom would apply unless the agreement, on its true construction, either expressly or impliedly excluded it.
+SUMMARY ~*A closer look*~
+/->-_Despite the age of this authority, it is apparent that it is not very distant from the approach of Lord *Hoffman*n when Parke B emphasises the distinction mentioned above. It is wrong to say “there is a relevant custom – it applies unless, when we turn to the contract, we find words which exclude it”. The correct approach is that the construction of the contract comes first, and will answer the question whether the parties have or have not contracted by reference to local custom. _
+/->-_This is a fairly minor point in the present context, but nevertheless one worth remembering. In the law of frustration of contracts, it comes to assume some importance in a difference of opinion between Lord *Denning* and Professor *Treitel*</i>._
+/->-_There are several interesting though subsidiary points to be made about implication from custom, even to the point that it could be treated as a testing ground for a developing understanding of how the common law works in the commercial arena. For example, does the existence of various practices tending in the same direction strengthen the submission that a certain custom exists? No, this state of affairs tends to undermine it, by showing that practice is still in a state of flux. Can custom stand against a House of Lords decision tending against it? It depends how long ago the decision was made, and by reference to which facts. If there have been more recent developments in the relevant field of activity, it may be that the authority in question could now be distinguished on its facts. _
+FLAGS Hoffman; Denning; Treitel
+
+
+
+
+NAME Implication from presumed intention (“terms implied in fact”)
+TYPE Concept
+CATEGORY Interpretation of Contracts
+SUMMARY ~*Implication from presumed intention (“terms implied in fact”)*~
+/->-This second category of implications shares its rationale with the first; it gives effect to what the parties must be deemed to have intended. It differs in so far as the term to be implied is identified by the court exclusively by reference to the parties' contract, instead of being drawn from some sub-stratum of relevant practice.
+
+
+
+
+NAME The Moorcock
+CITATION The Moorcock (1889) 14 PD 64
+CATEGORY Interpretation of Contracts; Terms Implied From Parties' Presumed Intentions (“Terms Implied In Fact”)
+SUMMARY ~*Overview*~
+/->-It was arranged that the plaintiff, owner of the steamship “Moorcock”, would discharge and take on cargo at the defendants' wharf on the tidal River Thames. No charge was made for the mooring, but the plaintiff was to pay for use of the cargo handling facilities. It was obvious to both parties that the vessel would take the ground at low water. When this occurred, the vessel was damaged, since there proved to be a ridge of hard ground which caused her weight to be unevenly distributed. The defendants were not the owners of the river bed, and had no control over it.
+/->-The trial judge found that the defendants had given no warranty or representation as to the state of the river bed, but had impliedly represented that they had taken reasonable care to ascertain if it was safe. The Court of Appeal put the same implication in the form of a term rather than a representation. It was necessary in order to give such business efficacy to the contract as the parties, as reasonable business men, must have intended it to have. The plaintiff could have known nothing about the state of the river bed, while the defendant wharfingers, with little trouble, might know everything. In the absence of the implied term, the plaintiff would merely have been buying the opportunity to put his vessel at risk.
+SUMMARY ~*Discussion*~
+/->-The key concept in this case is “business efficacy” – a presumption that the parties, as reasonable people in business, must be taken to have intended their contract to work, rather than to fail through amounting to an absurdity. This necessity enables the court to imply a term to which the parties could not but have agreed as reasonable people had it been put to them.
+SUMMARY ~*A closer look*~
+/->-_As is often remarked of The Moorcock, it is not altogether easy to see how the implication made on the facts fits with the doctrine of business efficacy. The term implied here by the court was obviously intended to produce a reasonable allocation of risk, but there is no general rule that business can only be done on the basis that risk has been allocated in a reasonable way between the parties. _
+/->-_Perhaps the best explanation of this state of affairs in connection with The Moorcock is the following. Some intervention by the court was indeed justified on the basis of necessity, because it was unthinkable that a matter as vital as the safety of the berth could be regarded indifferently by reasonable people. The necessity established, the court then implies a term which is reasonable; the wharfingers cannot be taken to be warranting something over which they do not have direct control, but they may be taken to warrant that they have found out the facts, and that if the facts had disclosed a hazard to the ship they would have warned the plaintiff. In other words, the process is a two-stage one. Necessity establishes the power of the court to intervene, but reasonableness dictates the manner of its intervention._
+/->-_A crucial point, namely that the court will not imply a term merely because it considers it reasonable to do so, is brought out by the next case._
+
+
+
+
+NAME Reigate v Union Manufacturing Co
+CITATION Reigate v Union Manufacturing Co [1918] 1 KB 592
+CATEGORY Interpretation of Contracts; Terms Implied From Parties' Presumed Intentions (“Terms Implied In Fact”)
+SUMMARY ~*Overview*~
+/->-The question arose in connection with a seven year agency agreement whether the agency might be terminated at any point through one party ceasing to do business. The parties had in fact specified two grounds in their contract on which the agency would terminate (death of the agent, or by a period of notice).
+/->-Scrutton LJ refused to imply a term, observing that had it been put to the parties they would probably have disagreed about it, and that they had contractually recorded the extent of their agreement. He stated the correct approach as follows: 
+/->-“The first thing is to see what the parties have expressed in the contract; and then an implied term is not to be added merely because the court thinks that it would have been reasonable to have inserted it in the contract. A term can only be implied if it is necessary in the business sense to give efficacy to the contract; that is, if it is such a term that it can confidently be said that if at the time the contract was being negotiated someone had said to the parties, “What will happen in such a case?” they would have both replied: “Of course, so and so will happen; we did not trouble to say that; it is too clear”. Unless the court comes to some such conclusion as that, it ought not to imply a term which the parties themselves have not expressed”.
+/->-Scrutton LJ's test was famously formulated (and successfully applied) in the next case, becoming known as the “officious bystander test”.
+
+
+
+
+NAME Shirlaw v Southern Foundries Ltd
+CITATION Shirlaw v Southern Foundries Ltd [1939] 2 KB 206
+CATEGORY Interpretation of Contracts; Terms Implied From Parties' Presumed Intentions (“Terms Implied In Fact”)
+SUMMARY ~*Overview*~
+/->-Mr Shirlaw had been the managing director of Southern Foundries. His contract stated that he was to hold this post for 10 years. During his tenure of it, Southern Foundries was taken over by another company, which altered its articles to permit two directors and the secretary to dismiss Mr Shirlaw. They did so. He sued for damages, and obtained them at first instance.
+/->-The Court of Appeal, by a majority, dismissed an appeal against the award. The contract was deemed to contain an implied term that the company's articles would not be altered to create the right to dismiss Mr Shirlaw. An appeal to the House of Lords was essentially unsuccessful.
+SUMMARY ~*Detail*~
+/->-In the view of MacKinnon LJ, had the parties been asked at the outset whether Mr Shirlaw benefited from the protection now implied by the court, they would each have agreed that he did. Before putting his decision on that basis, MacKinnon LJ had this to say about the implication of terms in fact: 
+/->-“I recognize that the right or duty of a Court to find the existence of an implied term or implied terms in a written contract is a matter to be exercised with care; and a Court is too often invited to do so upon vague and uncertain grounds. Too often also such an invitation is backed by the citation of a sentence or two from the judgment of Bowen LJ in <i>The Moorcock</i>. They are sentences from an extempore judgment as sound and sensible as all the utterances of that great judge; but I fancy that he would have been rather surprised if he could have foreseen that these general remarks of his would come to be a favourite citation of a supposed principle of law, and I even think that he might sympathize with the occasional impatience of his successors when <i>The Moorcock</i> is so often flushed for them in that guise. 
+/->-For my part, I think that there is a test that may be at least as useful as such generalities. If I may quote from an essay which I wrote some years ago, I then said: "Prima facie that which in any contract is left to be implied and need not be expressed is something so obvious that it goes without saying; so that, if, while the parties were making their bargain, an officious bystander were to suggest some express provision for it in their agreement, they would testily suppress him with a common 'Oh, of course!'"
+/->-At least it is true, I think, that, if a term were never implied by a judge unless it could pass that test, he could not be held to be wrong”.
+SUMMARY ~*A closer look*~
+/->-_A minor point - you will notice from the last sentence of the passage cited above that “being wrong” is on MacKinnon LJ's mind, and in fact his reasoning on the facts of the case did not fare well in the House of Lords. It is a bold and somewhat risky step for a judge to introduce a term into a contract. The stating of the test in stringent terms, as is explicitly done above, provides some protection against the risk of successful appeal; the higher court may well note with approval that the test is stringent and therefore legally correct and then, even though it feels some doubt about the facts, defer to the lower court which has heard the evidence. In other words, there may be an element of gamesmanship in the wording of the officious bystander test. The actual application of the test may be less strict than the test itself suggests</i>._
+/->-_In the next case, these tests are reviewed and explained. As a result, the independent existence of (a) contractual interpretation and (b) the implication of terms in fact is effectively ended._
+
+
+
+
+NAME Attorney General of Belize v Belize Telecom Ltd
+CITATION Attorney General of Belize v Belize Telecom Ltd [2009] UKPC 10
+CATEGORY Interpretation of Contracts; Coalescence of Contractual Interpretation and Implication of Terms In Fact
+SUMMARY ~*Overview*~
+/->-The facts are complex, but can be given briefly by way of context. A situation arose, during the privatisation and later re-organisations of the Belize telecommunications service, in which two “special” directors sat on the board of Belize Telecom. The power to appoint them had belonged to the holder of a certain quantity and class of shares in the company. The holder of the relevant shares also had the power to dismiss them. However, no such entity now had the requisite share-holding. The question was whether the company's articles of association (which gave no express answer to the problem) should be construed to allow for termination of the directors' tenure of office once the special shareholding had ceased to exist.
+/->-Lord *Hoffman*n, giving the opinion of the Privy Council, considered that this implication was correct. <a name="para32">The implication was required to avoid defeating what appeared to have been the overriding purpose of the machinery of appointment and removal of directors, namely to ensure that the board reflected the appropriate shareholder interests in accordance with the scheme laid out in the articles.</a
+SUMMARY ~*Detail*~
+/->-Lord Hoffmann explained his view of the relationship between the interpretation of contracts and the implication of terms from the presumed intention of the parties. They were one and the same process, based on the court's objective construction of what the parties must be deemed to have meant.
+/->-16. “Before discussing in greater detail the reasoning of the Court of Appeal, the Board will make some general observations about the process of implication. The court has no power to improve upon the instrument which it is called upon to construe, whether it be a contract, a statute or articles of association. It cannot introduce terms to make it fairer or more reasonable. It is concerned only to discover what the instrument means. However, that meaning is not necessarily or always what the authors or parties to the document would have intended. It is the meaning which the instrument would convey to a reasonable person having all the background knowledge which would reasonably be available to the audience to whom the instrument is addressed: see <i><a href="http://en.wikipedia.org/wiki/Investors_Compensation_Scheme_Ltd_v_West_Bromwich_Building_Society" title="Investors Compensation Scheme Ltd v West Bromwich Building Society">Investors Compensation Scheme Ltd v West Bromwich Building Society</a></i> [1998] 1 WLR 896, 912-913. It is this objective meaning which is conventionally called the intention of the parties, or the intention of Parliament, or the intention of whatever person or body was or is deemed to have been the author of the instrument. 
+/->-17. The question of implication arises when the instrument does not expressly provide for what is to happen when some event occurs. The most usual inference in such a case is that nothing is to happen. If the parties had intended something to happen, the instrument would have said so. Otherwise, the express provisions of the instrument are to continue to operate undisturbed. If the event has caused loss to one or other of the parties, the loss lies where it falls.
+/->-18. In some cases, however, the reasonable addressee would understand the instrument to mean something else. He would consider that the only meaning consistent with the other provisions of the instrument, read against the relevant background, is that something is to happen. The event in question is to affect the rights of the parties. The instrument may not have expressly said so, but this is what it must mean. In such a case, it is said that the court implies a term as to what will happen if the event in question occurs. But the implication of the term is not an addition to the instrument. It only spells out what the instrument means.
+/->-19. The proposition that the implication of a term is an exercise in the construction of the instrument as a whole is not only a matter of logic (since a court has no power to alter what the instrument means) but also well supported by authority. In <i><a href="http://en.wikipedia.org/w/index.php?title=Trollope_%26_Colls_Ltd_v_North_West_Metropolitan_Regional_Hospital_Board&action=edit&redlink=1" title="Trollope & Colls Ltd v North West Metropolitan Regional Hospital Board (page does not exist)">Trollope & Colls Ltd v North West Metropolitan Regional Hospital Board</a></i> [1973] 1 WLR 601, 609 Lord Pearson, with whom Lord Guest and Lord *Diplock* agreed, said:
+/->-"[T]he court does not make a contract for the parties. The court will not even improve the contract which the parties have made for themselves, however desirable the improvement might be. The court's function is to interpret and apply the contract which the parties have made for themselves. If the express terms are perfectly clear and free from ambiguity, there is no choice to be made between different possible meanings: the clear terms must be applied even if the court thinks some other terms would have been more suitable. An unexpressed term can be implied if and only if the court finds that the parties must have intended that term to form part of their contract: it is not enough for the court to find that such a term would have been adopted by the parties as reasonable men if it had been suggested to them: it must have been a term that went without saying, a term necessary to give business efficacy to the contract, a term which, though tacit, formed part of the contract which the parties made for themselves."
+/->-20. More recently, in <i><a href="http://en.wikipedia.org/wiki/Equitable_Life_Assurance_Society_v_Hyman" title="Equitable Life Assurance Society v Hyman">Equitable Life Assurance Society v Hyman</a></i> [2002] 1 AC 408, 459, Lord *Steyn* said:
+/->-"If a term is to be implied, it could only be a term implied from the language of [the instrument] read in its commercial setting."
+/->-21. It follows that in every case in which it is said that some provision ought to be implied in an instrument, the question for the court is whether such a provision would spell out in express words what the instrument, read against the relevant background, would reasonably be understood to mean. It will be noticed from Lord Pearson's speech that this question can be reformulated in various ways which a court may find helpful in providing an answer – the implied term must "go without saying", it must be "necessary to give business efficacy to the contract" and so on – but these are not in the Board's opinion to be treated as different or additional tests. There is only one question: is that what the instrument, read as a whole against the relevant background, would reasonably be understood to mean?
+/->-22. There are dangers in treating these alternative formulations of the question as if they had a life of their own. Take, for example, the question of whether the implied term is "necessary to give business efficacy" to the contract. That formulation serves to underline two important points. The first, conveyed by the use of the word "business", is that in considering what the instrument would have meant to a reasonable person who had knowledge of the relevant background, one assumes the notional reader will take into account the practical consequences of deciding that it means one thing or the other. In the case of an instrument such as a commercial contract, he will consider whether a different construction would frustrate the apparent business purpose of the parties. That was the basis upon which <i><a href="http://en.wikipedia.org/wiki/Equitable_Life_Assurance_Society_v_Hyman" title="Equitable Life Assurance Society v Hyman">Equitable Life Assurance Society v Hyman</a></i> [2002] 1 AC 408 was decided. The second, conveyed by the use of the word "necessary", is that it is not enough for a court to consider that the implied term expresses what it would have been reasonable for the parties to agree to. It must be satisfied that it is what the contract actually means.
+/->-23. The danger lies, however, in detaching the phrase "necessary to give business efficacy" from the basic process of construction of the instrument. It is frequently the case that a contract may work perfectly well in the sense that both parties can perform their express obligations, but the consequences would contradict what a reasonable person would understand the contract to mean. <a href="http://en.wikipedia.org/wiki/Lord_Steyn" title="Lord Steyn">Lord Steyn</a> made this point in the <i>Equitable Life case</i> (at p 459) when he said that in that case an implication was necessary "to give effect to the reasonable expectations of the parties."
+/->-24. The same point had been made many years earlier by Bowen LJ in his well known formulation in <i><a href="http://en.wikipedia.org/wiki/The_Moorcock" title="The Moorcock">The Moorcock</a></i> (1889) 14 PD 64, 68:
+/->-"In business transactions such as this, what the law desires to effect by the implication is to give such business efficacy to the transaction as must have been intended at all events by both parties who are business men"
+/->-25. Likewise, the requirement that the implied term must "go without saying" is no more than another way of saying that, although the instrument does not expressly say so, that is what a reasonable person would understand it to mean. Any attempt to make more of this requirement runs the risk of diverting attention from the objectivity which informs the whole process of construction into speculation about what the actual parties to the contract or authors (or supposed authors) of the instrument would have thought about the proposed implication. The imaginary conversation with an officious bystander in <i><a href="http://en.wikipedia.org/wiki/Shirlaw_v_Southern_Foundries_(1926)_Ltd" title="Shirlaw v Southern Foundries (1926) Ltd">Shirlaw v Southern Foundries (1926) Ltd</a></i> [1939] 2 KB 206, 227 is celebrated throughout the common law world. Like the phrase "necessary to give business efficacy", it vividly emphasises the need for the court to be satisfied that the proposed implication spells out what the contact would reasonably be understood to mean. But it carries the danger of barren argument over how the actual parties would have reacted to the proposed amendment. That, in the Board's opinion, is irrelevant. Likewise, it is not necessary that the need for the implied term should be obvious in the sense of being immediately apparent, even upon a superficial consideration of the terms of the contract and the relevant background. The need for an implied term not infrequently arises when the draftsman of a complicated instrument has omitted to make express provision for some event because he has not fully thought through the contingencies which might arise, even though it is obvious after a careful consideration of the express terms and the background that only one answer would be consistent with the rest of the instrument. In such circumstances, the fact that the actual parties might have said to the officious bystander "Could you please explain that again?" does not matter.
+/->-26. In <i><a href="http://en.wikipedia.org/w/index.php?title=BP_Refinery_(Westernport)_Pty_Ltd_v_Shire_of_Hastings&action=edit&redlink=1" title="BP Refinery (Westernport) Pty Ltd v Shire of Hastings (page does not exist)">BP Refinery (Westernport) Pty Ltd v Shire of Hastings</a></i> (1977) 180 CLR 266, 282-283 Lord Simon of Glaisdale, giving the advice of the majority of the Board, said that it was "not... necessary to review exhaustively the authorities on the implication of a term in a contract" but that the following conditions ("which may overlap") must be satisfied:
+/->-"(1) it must be reasonable and equitable; (2) it must be necessary to give business efficacy to the contract, so that no term will be implied if the contract is effective without it; (3) it must be so obvious that 'it goes without saying' (4) it must be capable of clear expression; (5) it must not contradict any express term of the contract".
+/->-27. The Board considers that this list is best regarded, not as series of independent tests which must each be surmounted, but rather as a collection of different ways in which judges have tried to express the central idea that the proposed implied term must spell out what the contract actually means, or in which they have explained why they did not think that it did so. The Board has already discussed the significance of "necessary to give business efficacy" and "goes without saying". As for the other formulations, the fact that the proposed implied term would be inequitable or unreasonable, or contradict what the parties have expressly said, or is incapable of clear expression, are all good reasons for saying that a reasonable man would not have understood that to be what the instrument meant”.
+FLAGS Hoffman; Diplock; Steyn
+
+
+
+
+NAME Implication from the parties' legal relationship (“terms implied in law”)
+TYPE Concept
+CATEGORY Interpretation of Contracts
+SUMMARY ~*Implication from the parties' legal relationship (“terms implied in law”)*~
+/->-As an alternative to the implication of a term because it is necessary to make the contract work (or by reference to what it necessarily means), it may be possible to imply a term because the contract is within a recognised class, but lacks terms which are normally found in that class of contracts. Implication on this basis is commonly referred to as the implying of terms “in law”. 
+/->-The test for making this type of implication is again said to be <i>necessity</i>, in the sense that a term will be implied if the nature of the relationship between the parties <i>requires</i> it. However, it would be wrong to conclude on that basis that there is a close link between implication in fact and implication in law. 
+/->-The basis for the implication of terms in law does differ from implication from presumed intention (“implication in fact”). There is no need to be persuaded that the parties would (at least as notionally reasonable people) at once have agreed the term had their attention been drawn to it. The courts are deciding whether to modify a paradigm contract of a certain type, and policy is arguably the principal consideration.
+/->-The speeches in the following leading case, however, are marred by the fact that the words “necessity” and “necessary” seem to have taken on separate shades of meaning. This feature of the decision is further discussed below. 
+
+
+
+
+NAME Liverpool City Council v Irwin
+CITATION Liverpool City Council v Irwin [1977] AC 239
+CATEGORY Interpretation of Contracts; Terms Implied From Parties' Legal Relationship (“Terms Implied In Law”)
+SUMMARY ~*Overview*~
+/->-The council was the owner of a large block of flats in Everton. The defendants were tenants of flats within it. There was no complete tenancy agreement between the parties, but merely a document headed “Conditions of Tenancy” which consisted of a list of obligations placed upon the tenants. The landlord had no express obligations. The block had been subject to vandalism, neglect by the landlords, and a lack of co-operation from the tenants. As a result, the lifts frequently did not work, the stairs were unlit, the rubbish chutes were blocked, and the lavatory cisterns overflowed. Following a rent strike, the council took proceedings against the tenants for possession of the flats. They counterclaimed for damages and an injunction to require the council to maintain the block properly. 
+/->-At first instance the possession order was granted, but the defendants received £10 damages on their counterclaim since the council was held to be in breach of implied and statutory covenants. The Court of Appeal reversed the first instance judgment on the ground that the council was not in breach of covenant. The House of Lords accepted that the council was in breach of implied covenants to do what was reasonable to keep the block repaired and lit.
+SUMMARY ~*Detail*~
+/->-The following extract from the speech of Lord Wilberforce is a substantial one, so that the development of his reasoning can be seen.
+/->-“At the end there is a form for signature by the tenant stating that he accepts the tenancy.<br 
+/->-On the landlords' side there is nothing, no signature, no demise, no covenant: the contract takes effect as soon as the tenants sign the form and are let into possession.
+/->-We have then a contract which is partly, but not wholly, stated in writing. In order to complete it, in particular to give it a bilateral character, it is necessary to take account of the actions of the parties and the circumstances. As actions of the parties, we must note the granting of possession by the landlords and reservation by them of the "common parts " stairs, lifts, chutes, etc. As circumstances we must include the nature of the premises, viz., a maisonette for family use on the ninth floor of a high block, one which is occupied by a large number of other tenants, all using the common parts and dependent upon them, none of them having any expressed obligation to maintain or repair them.
+/->-a name="_Hlk157677335"></a>To say that the construction of a complete contract out of these elements involves a process of "implication" may be correct: it would be so if implication means the supplying of what is not expressed. But there are varieties of implications which the courts think fit to make and they do not necessarily involve the same process. Where there is, on the face of it, a complete, bilateral contract, the courts are sometimes willing to add terms to it, as implied terms: this is very common in mercantile contracts where there is an established usage: in that case the courts are spelling out what both parties know and would, if asked, unhesitatingly agree to be part of the bargain. In other cases, where there is an apparently complete bargain, the courts are willing to add a term on the ground that without it the contract will not work—this is the case, if not of <i>The Moorcock </i>itself on its facts, at least of the doctrine of <i>The Moorcock </i>as usually applied. This is, as was pointed out by the majority in the Court of Appeal, a strict test—though the degree of strictness seems to vary with the current legal trend, and I think that they were right not to accept it as applicable here. There is a third<br 
+/->-variety of implication, that which I think Lord *Denning MR* favours, or at least did favour in this case, and that is the implication of reasonable terms. But though I agree with many of his instances, which in fact fall under one or other of the preceding heads, I cannot go so far as to endorse his principle: indeed, it seems to me, with respect, to extend a long, and undesirable, way beyond sound authority.
+/->-The present case, in my opinion, represents a fourth category, or I would rather say a fourth shade on a continuous spectrum. The court here is simply concerned to establish what the contract is, the parties not having themselves fully stated the terms. In this sense the court is searching for what must be implied.
+/->-a name="_Hlk157678412"></a>What then should this contract be held to be? There must first be implied a letting, i.e., a grant of the right of exclusive possession to the tenants. With this there must, I would suppose, be implied a covenant for quiet enjoyment, as a necessary incident of the letting. The difficulty begins when we consider the common parts. We start with the fact that the demise is useless unless access is obtained by the staircase: we can add that, having regard to the height of the block, and the family nature of the dwellings, the demise would be useless without a lift service: we can continue that there being rubbish chutes built in to the structures and no other means of disposing of light rubbish there must be a right to use the chutes. The question to be answered—and it is the only question in this case—is what is to be the legal<br 
+/->-There can be no doubt that there must be implied (i) an easement for the tenants and their licensees to use the stairs, (ii) a right in the nature of an easement to use the lifts, (iii) an easement to use the rubbish chutes.
+/->-But are these easements to be accompanied by any obligation upon the landlord, and what obligation? There seem to be two alternatives. The first, for which the council contends, is for an easement coupled with no legal obligation, except such as may arise under the Occupiers' Liability Act 1957 as regards the safety of those using the facilities, and possibly such other liability as might exist under the ordinary law of tort. The alternative<br 
+/->-s for easements coupled with some obligation on the part of the landlords as regards the maintenance of the subject of them, so that they are available for use.
+/->-My Lords, in order to be able to choose between these, it is necessary to define what test is to be applied, and I do not find this difficult. In my opinion such obligation should be read into the contract as the nature of the contract itself implicitly requires, no more, no less: a test in other words of necessity. The relationship accepted by the Corporation is that of landlord and tenant: the tenant accepts obligations accordingly, in relation <i>inter alia </i>to the stairs, the lifts and the chutes. All these are not just facilities, or conveniences provided at discretion: they are essentials of the tenancy without which life in the dwellings, as a tenant, is not possible. To leave the landlord free of contractual obligation as regards these matters, and subject only to administrative or political pressure, is, in my opinion, inconsistent totally with the nature of this relationship. The subject matter of the lease (high-rise blocks) and the relationship created by the tenancy demands, of its nature, some contractual obligation on the landlord. It remains to define the standard. My Lords, if, as I think, the test of the existence of the term is necessity the standard must surely not exceed what is necessary having regard to the circumstances. To imply an absolute obligation to repair would go beyond what is a necessary legal incident and would indeed be unreasonable. An obligation to take reasonable care to keep in reasonable repair and usability is what fits the requirements of the case. Such a definition involves—and I think rightly—recognition that the tenants themselves have their responsibilities. What it is reasonable to expect of a landlord has a clear relation to what a reasonable set of tenants should do for themselves”.
+SUMMARY ~*Discussion*~
+/->-Lord Wilberforce therefore envisages three accepted situations in which terms may be implied, and a fourth, championed by Lord Denning MR in the Court of Appeal in this case, which Lord Wilberforce rejects. The first is implication from custom, and the second is implication in fact to make the contract work. He observes that in either of these cases the contract may appear complete without the implied term, although it will not work in accordance with what must be taken to be the parties' intentions. The third case is implication in law, where the contract is manifestly incomplete and must necessarily be supplemented. It seems fair enough to remark, as Lord Wilberforce does, that these instances of implication exist upon a spectrum in so far as the notion of necessity links them. Lord Denning MR's willingness to imply terms because they would be merely reasonable is beyond the spectrum and wrong.
+SUMMARY ~*A closer look*~
+/->-_On its face, this case is confusing. It is said more than once by their Lordships that domestic occupancy of the tower block is not feasible without working lifts, lighting and rubbish chutes. The term implied by Lord Wilberforce amounts to an obligation upon the council to take reasonable care to maintain these facilities. Since it is put no higher than that, it is possible that the council might take reasonable care but still fail to deliver the service, without negligence on its part. No doubt the decision is sensible, because it is rightly pointed out that the tenants have their own obligations to work towards and not against the maintenance of the building. Nevertheless, the reasoning is hard to follow on a technical level, because a stated necessity is to be secured by a means which may fall short, being less than unconditional._
+/->-_The reason this happens is that their Lordships very properly use a two-part test for the implication of a term here, as suggested in connection with The Moorcock above. The use of the facilities, and therefore the implication of a term, are necessities (an expression denoting that they are absolutely required). The term to be implied should not go beyond what is necessary (an expression limiting the obligation to the one appropriate in all the circumstances). _
+/->-_It would have been more straightforward to concede that the test for whether to imply a term is necessity, but that the test for the specific term then to imply is reasonableness or proportionality._
+/->-_In more recent cases, “necessity” as the test for implication of terms from the parties' legal relationship has come under pressure._
+FLAGS Denning
+
+
+
+
+NAME Scally v Southern Health and Social Services Board
+CITATION Scally v Southern Health and Social Services Board [1992] 1 AC 294
+CATEGORY Interpretation of Contracts; Terms Implied From Parties' Legal Relationship (“Terms Implied In Law”)
+SUMMARY ~*Overview*~
+/->-One means for an employee to complete the legislatively required forty years of qualifying service to become eligible for a state pension was to purchase additional years at a favourable rate. The plaintiffs brought this case against their employers on the basis (inter alia) that the latter were in breach of an implied term to notify their employees of that right.
+/->-The House of Lords accepted that a term was properly to be implied, subject to a restriction on the category of contracts to which (by virtue of the doctrine of binding precedent) it would apply. It was necessary, because if there was no such obligation on the employer, then employees might have no way of knowing about a right which had been created for their benefit and it would be stultified. 
+SUMMARY ~*Detail*~
+/->-Although Lord Bridge said that he fully accepted that the criterion to justify an implication of this type was necessity, not reasonableness, he found in the authorities a distinction between the necessity which operated in the business efficacy cases, and “the search, based on wider considerations, for a term which the law will imply as a necessary incident of a definable category of contractual relationship.
+/->-Whether or not Lord Bridge intended here to give a hint to future courts, a further step was perhaps taken (obiter) in the next case,
+
+
+
+
+NAME Crossley v Faithful & Gould Holdings
+CITATION Crossley v Faithful & Gould Holdings [2004] EWCA Civ 293
+CATEGORY Interpretation of Contracts; Terms Implied From Parties' Legal Relationship (“Terms Implied In Law”)
+SUMMARY ~*Overview*~
+/->-An employee, who had resigned on mental health grounds, had followed his employer's advice to backdate his resignation for tax reasons. As a result, he lost the entitlement to benefits under his employer's insurance scheme. He argued that his employer was in breach of an implied term to take reasonable care for his economic well-being.
+/->-The Court of Appeal rejected this term as too broad to be implied generally into contracts of employment, and too burdensome if it were. In the course of his judgment, Dyson LJ described necessity as a standard in cases of this sort as “elusive” and “protean”, adding that it was preferable to recognise the role of reasonableness, fairness, and the balancing of competing policy considerations. He doubted whether necessity had in fact been the test applied in certain recent cases.
+SUMMARY ~*Discussion*~
+/->-May the law come to accept that it includes a jurisdiction to supply default clauses into classes of legal relationship on the basis, essentially, of reasonableness rather than necessity? Perhaps not, because judicial intervention of this type is often subject to the objection that the legislature is better equipped to act, and so if it is to take place at all under the auspices of a court it is most wisely explained on the basis of some necessity for the court's intervention. However, a different view is possible. As a result of Lord *Hoffman*n's judgment in <i>Attorney General of Belize</i>, the tectonic plates on which interpretation and implication rest are on the move. Implication based on the presumed intention of the parties is now an extension of contractual interpretation. That has sundered it from implication in law. The latter area may drift further away from interpretation in fact, to which it was once tethered, and to which the requirement of necessity properly belongs. Implication of terms in law may come to look far more like the process by which courts determine whether duties should be imposed in the field of tort. If that were to happen, appeals to necessity would begin to sound beside the point.

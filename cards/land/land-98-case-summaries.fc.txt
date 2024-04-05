@@ -1,0 +1,321 @@
+
+
+
+
+NAME Case Overviews for Land Registration
+TYPE Case Overviews
+CATEGORY Land Registration
+SUMMARY *General*
+@*|Halifax v Corbett|*
+/{<Whether a sale has genuinely taken place is a matter of substance not form.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Mistakes on the Register
+TYPE Case Overviews
+CATEGORY Mistakes on the Register
+
+SUMMARY *Fraud*
+@*|Gold Harp v MacLeod|*
+/{<_from wl:_ "(1) The judge had been entitled to order that J's title numbers should take priority. J's and G's leases fell within the subject matter of Sch.4 para.8. The primary effect of that provision was to confirm that the power to rectify the register was not limited to simply restoring an interest, but extended to changing what would otherwise be its priority."  {TODO *still* to do, ffs.}>}
+@*|Halifax v Corbett|*
+/{<Whether a sale has genuinely taken place is a matter of substance not form.>}
+
+SUMMARY *Fraud - Right to Apply for Rectification as Property Right*
+@*|Malory v Cheshire|*
+/{<(i) The right to apply for rectification is a property right. (ii) Registration by fraud did not give a _disposition_ within the meaning of |LRA 1925|; merely the bare legal title. The beneficial interest remained with the defrauded party. (Overruled on the second point by |Swift 1st| for having undermined the plain intention of |S58 LRA 2002|).>}
+
+SUMMARY *Fraud - Unravelling - Rectification*
+@*|Fitzwilliam v Richall|*
+/{<When B fraudulently obtains title by registration of A's land which he then transfers to C, equity will unravel the whole transaction, and rectification will not be necessary to restore the title to A. But as there is no rectification, there will be no indemnity payable to C.  Following |Malory|, fraudulent registration only confers *bare legal title* (overturned in |Swift 1st|).>}
+@*|Guy vs Barclay's|*
+/{<When land is fraudulently transferred from A to B, then should the land subsequently be transferred to an innocent party C but A should _fail_ to register a unilateral |Notice| against the title when the mistake comes to his attention, C's title will be good, and A's claim for rectification will fail.>}
+
+SUMMARY *Fraud - Indemnities*
+@*|Swift 1st v Chief Land Registrar|*
+/{<Indemnities are owed for loss as a consequence of rectification of a mistake, even when the mistake occurs through fraud. Such registration confers title definitively -- |S58 LRA 2002|.  |Malory| and |Fitzwilliam| erred in deciding such circumstances only gave rise to the bare legal title and not the equitable interest.>}
+
+SUMMARY *Rectification*
+@*|Knights Construction v Roberto Mac|*
+/{<A mistake in the register is to be rectified when the RP to whom the title was wrongly registered is *not in possession*.>}
+@*|Baxter v Mannion|*
+/{<When a wrongful RP is in possession, the threshold for rectification of the register on grounds of unfairness under |Schedule 4|(3)(2)(b) is *high*. Merely having lost title to the land is not enough. The unconscionability of a wrongful RP's connivance in the mistake, however, strongly militates in favour of rectification.>}
+@*|Cooper v Gick|*
+/{<When a wrongful RP is in possession but *bears no blame for the mistake* in the register, it would be unfair not to rectify.>}
+
+SUMMARY *Indemnities*
+@*|Williams v Mitchell|*
+/{<When rectification of the register would prejudicially affect the new RP's title, the usual remedy for the claimant will be indemnities from the Land Registry rather than rectification.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Title Guarantee
+TYPE Case Overviews
+CATEGORY Title Guarantee
+SUMMARY *General*
+@*|Guy vs Barclay's|*
+/{<When land is fraudulently transferred from A to B, then should the land subsequently be transferred to an innocent party C but A should _fail_ to register a unilateral |Notice| against the title when the mistake comes to his attention, C's title will be good, and A's claim for rectification will fail.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Mortgages
+TYPE Case Overviews
+CATEGORY Mortgages
+SUMMARY *General*
+@*|State Bank of India v Sood|*
+/{<A charge executed to secure existing debts: a mortgage where no money is received, _nevertheless_ falls within the conditions provided by S2(1)(iii) and S27(2) of LPA 1925, and sweeps equitable shares of co-ownership off the land and into the purchase price.>}
+@*|Birmingham Midshires Morgages v Sabherwal|*
+/{<Even when the rule of |Overreaching| of equitable interests in the family home 'offends natural justice,' it must nevertheless be applied.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Overreaching
+TYPE Case Overviews
+CATEGORY Overreaching
+SUMMARY *General*
+@*|Birmingham Midshires Morgages v Sabherwal|*
+/{<Even when the rule of |Overreaching| of equitable interests in the family home 'offends natural justice,' it must nevertheless be applied.>}
+@*|City of London Building Society v Flegg|*
+/{<The equitable interests of the parents had been overreached by the bank, as the two trustees, the RPs, had extinguished the parents' equitable interest by conveying the property to the bank. Cf. |Williams & Glyns Bank v Boland|.>}
+
+SUMMARY *Failure to Overreach*
+@*|Williams & Glyn's Bank v Boland|*
+/{<Overriding interests cannot be overreached when there is a single trustee/registered proprietor.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Overriding Interests
+TYPE Case Overviews
+CATEGORY Overriding Interests
+
+SUMMARY *Persons in Actual Occupation*
+@*|Saeed v Plustrado|*
+/{<The claim of an overriding interest succeeded on the grounds that the claimant was a person in actual occupation. Decided per incuriam on a misunderstanding of |Schedule 3|(2) -- overruled in |Scott v Southern Pacific Mortgages|.>}
+@*|Scott v Southern Pacific Mortgages|*
+/{<The claimant had no interest in the property. Being in actual occupation did not per se create a Schedule 3(2) overriding interest.>}
+@*|City of London Building Society v Flegg|*
+/{<The equitable interests of the parents had been overreached by the bank, as the two trustees, the RPs, had extinguished the parents' equitable interest by conveying the property to the bank. Cf. |Williams & Glyns Bank v Boland|.>}
+@*|Williams & Glyn's Bank v Boland|*
+/{<Overriding interests cannot be overreached when there is a single trustee/registered proprietor.>}
+
+SUMMARY *Meaning of Actual Occupation*
+@*|Thompson v Foy|*
+/{<Leaving property temporarily, with the intention of returning, counts as actual occupation for Schedule 3(2).>}
+
+SUMMARY *Meaning of Actual Occupation - Actual Occupation Immediately Before Conveyance*
+@*|Link Lending v Bustard|*
+/{<Inter alia, the presence of personal property is evidence from which actual occpuation can be found. The old lady was in fact in a care home, but her personal property was still in on the land in question, to which she returned from time to time.>}
+
+SUMMARY *Persons in Actual Occupation - Yielding of Right - Explicit*
+@*|RBS v Etridge|*
+/{<The claimant of an overriding interest over a new registered proprietor is deemed to have yielded the right by signing a consent form, e.g., to a bank, for a mortgage.>}
+
+SUMMARY *Persons in Actual Occupation - Yielding of Right - Implied*
+@*|Equity & Home Loans v Prestridge|*
+/{<Involvement in the creation of a mortgage was deemed to be a waiver of of an overriding interest in favour of the new RP, the mortgagee.>}
+@*|Abbey National v Cann|*
+/{<Actual occupation is distinct to *acts of preparation* for actual occupation. Involvement in a transfer (e.g., the creation of a mortgage) by the claimant of an OI in actual occupation has the effect of a waiver to the right.>}
+
+SUMMARY *Persons in Actual Occupation - Delegation of Right*
+@*|Credit & Mercantile v Wishart|*
+/{<A property right of a person in actual occupation will not override under Schedule 3(2) when the person claiming it has (implicitly) given authority to the original RP to act on his behalf.>}
+
+SUMMARY *Persons in Actual Occupation - Occupation or Use*
+@*|Chaudhary v Yavuz|*
+/{<The use of an |easement| is not *actual occupation* under Schedule 3(2).>}
+
+SUMMARY *Persons in Actual Occupation - Reasonable Discoverability*
+@*|Chhokar v Chhokar|*
+/{<The claim of an overriding interest will succeed, if its lack of reasonable discoverability on a careful inspection comes about through the transferor's malice.  Of the transferee -- 'everything he did from first to last in connection with the transaction is stamped with immoral stigma.'>}
+
+SUMMARY *Persons in Actual Occupation - Requirement to Disclose when Reasonable*
+@*|Begum v Issa|*
+/{<It may not be reasonable to expect a right-holder to disclose rights to a purchasor, in the meaning of Schedule 3(2)(b) LRA 2002, when doing so could lead to potentially-violent retribution.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Adverse Possession
+TYPE Case Overviews
+CATEGORY Adverse Possession
+
+SUMMARY *Human Rights*
+@*|Pye v UK|*
+/{<Adverse Possession is consistent with ECHR rights.>}
+
+SUMMARY *Meaning of Occupation*
+@*|Pye v Graham|*
+/{<Being in control of land for one's own benefit is enough for adverse possession. Such control might be shown by, e.g., repairing fences, excluding other people, maintaining gates and changing padlocks, but is not equivalent to an intention to own.>}
+@*|Red House v Catchpole|*
+/{<Merely tidying up a piece of land is not enough evidence from which to adduce _control_ for the purposes of adverse possession.>}
+
+SUMMARY *Continuity of Possession*
+@*|Bucks v Moran|*
+/{<A would-be adverse possessor must show *both* actual occupation *and* intention to adversely possess. Adverse possession is not defeated by the original owner's intention to use the land at a later date in a manner compatible with the adverse possession.>}
+@*|Hounslow v Minchinton|*
+/{<Having enclosed with a fence yet not having access, nor taking any action to maintain a piece of land, will not be enough to demonstrate a paper-titleholder's continued possession in order to defeat adverse possession.>}
+@*|Lambeth v Ellis|*
+/{<Adverse possession of land is not interrupted by the failure to submit a form required by statute of its occupier.>}
+
+SUMMARY *Exceptions - Boundary Disputes*
+@*|Zarb v Parry|*
+/{<Paper documents are not to be used to disturb boundaries which are settled, but incorrect to a nugatory degree. Such actions are defeated by adverse possession -- especially if the claimant is a vexatious nutter.>}
+
+SUMMARY *Adverse Possession of Residential Property as Criminal Offence*
+@*|Best v Chief Land Registrar|*
+/{<The LR may not refuse to register title to residential property to an adverse possessor as a result of the potential criminalisation of such AP by |LAPSO 2012|. The defence of _ex turpi causa_ may not be invoked.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Co-ownership
+TYPE Case Overviews
+CATEGORY Co-ownership
+
+SUMMARY *Joint Tenancy*
+@*|Gould v Kemp|*
+/{<When a joint tenant dies, his share cannot be "left" as part of his estate. A clause in a will purporting to do so is inoperative.>}
+@*|Antionades v Villiers|*
+/{<There may well be unity of title despite contracts being signed on different days. In such circumstances, they may be read together.>}
+
+SUMMARY *Quantification*
+@*|Laskar v Laskar|*
+/{<Payments to the acquisition mortgage is enough for the establishment of a resulting trust.>}
+@*|Curley v Parkes|*
+/{<Solicitor's fees, removal fees, etc, are insufficient grounds to quantifying a share of co-ownership by means of a resulting trust>}
+@*|Pettitt v Pettitt|*
+/{<For the purposes of quantification of a share of equitable co-ownership by means of a common intention constructive trust, having done DIY was _not_ evidence from which a common-intention to co-own could be found.>}
+@*|Gissing v Gissing|*
+/{<The provision of white goods was not evidence from which common intention to establish equitable co-ownership could be found.>}
+@*|Lloyd's v Rosset|*
+/{<Common intention could be shown either by *objective evidence*, or *express assurance*, but, per Lord Bridge, by no other means.>}
+@*|Stack v Dowden|*
+/{<For the purpose of quantifying shares of equitable co-ownership by means of common intention constructive trust, common intention could validly be *inferred from the whole conduct* of the parties.>}
+@*|Jones v Kernott|*
+/{<Not only can common intention be *inferred* from the parties' conduct -- it can also be *imputed*, if it could be said of the parties that, had they thought about it, they would have intended it.>}
+@*|Abbott v Abbott|*
+/{<Not only could *existing* shares of co-ownership be quantified by inferring common intention, but such shares could also be *established* by that means. (Privy Council for Australia)>}
+@*|Capehorn v Harris|*
+/{<Courts must stop short of _imputing_ common intention of equitable co-ownership as a means of _acquiring_ it.>}
+@*|Barnes v Phillips|*
+/{<The difference between imputation and inference, may not be very great, when applied to the facts of a case.>}
+@*|Kinch v Bullard|*
+/{<The notice to sever joint tenancy, as per S36(2) LPA 1925, need only be delivered, not read.>}
+@*|Burgess v Rawnsly|*
+/{<A statutory notice to sever under S36(2) LPA must show an _immediate intention_, not an expression of desire.>}
+@*|Williams v Hensman|*
+/{<Joint tenancy can be severed by (i) a legally-valid act on one's own share; (ii) mutual agreement, which can be oral; or (iii) mutual conduct.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Easements
+TYPE Case Overviews
+CATEGORY Easements
+SUMMARY *General*
+@*|Regency Villas v Diamond Resorts|*
+/{<Despite the ample textbook rhetoric about how you can't have an easement for a purely recreational purpose, this recent case may establish that in fact, you _can_.>}
+@*|Canham v Fisk|*
+/{<An easement is not extinguished by merger of dominant and servient tenements if there's an intention to re-separate the plots in future.>}
+@*|Hill v Tupper|*
+/{<The servient and dominant tenements of an easement need not be contiguous, but must be proximate. A _canal_ and a particular piece of land are _not_.>}
+@*|Moody v Steggles|*
+/{<An easement to signage may validly confer a business benefit on the dominant tenement.>}
+@*|Tara Hotels v Kensington|*
+/{<If, as in |Coventry v Lawrence|, there can be an easement to make _noise_ -- which entails sound waves flooding from dominant to servient tenement -- then there can also be an easement for people to flood out from a fire-escape onto the burdened land. See also |Fenn Tigers|.>}
+@*|Bachelor v Marlowe|*
+/{<The test for whether the burden of a claimed easement is excessive is whether the servient owner _retains reasonable use_ of his land -- that it does not _render the servient owner's use illusory_.>}
+@*|Moncreiff v Jamieson|*
+/{<Per Lord Scott, the test for whether a claimed easement imposes an excessive burden should _not_ be whether the _servient owner retains reasonable use_, but whether he _retains control_ of the servient tenement. Doubted by Lord Neuberger. Obiter -- an easement of use of a swimming pool could _not_ be valid, as would require upkeep. Cf. |Regency Villas|.>}
+@*|Crow v Wood|*
+/{<Although the burden of an easement may not, in general, be _positive_ (i.e., necessitate that owner of burdened land must _do_ something), the _easement to fencing_ is an established exception.>}
+@*|Cardwell v Walker|*
+/{<The claim of an easement to the (paid) supply of electricity from a generator, to a caravan park, was upheld.>}
+@*|Wright v Macadam|*
+/{<The use of the burdened land entailed by a claimed easement must not be excessive. Nevertheless, because the owner of a shed used to store coal for the dominant tenement retained _access_, the claim succeeded.>}
+@*|R Square v Nissan|*
+/{<An easement of parking was upheld despite that it was for _many_ cars, as the owner retained reasonable use.>}
+@*|Copeland v Greenhalf|*
+/{<A right claimed as an easement must be for something _specific_; not so general as to amount to _shared general use_ of the burdened land.  The use of an orchard to store vans, having evolved from the use established fifty years previously of mending wagon-wheels, was found to be an excessive burden on the land and did not per se confer a _specific_ benefit on the claimant's land. It amounted, instead, to a claim to shared use, and was therefore, decided per Upjohn J to be 'wholly outside the normal idea of an easement'.>}
+@*|Emcer v Miller|*
+/{<If the nature of the benefit/burden conferred/imposed necessarily entails _temporary exclusive use_, then it may nevertheless valid as the subject of an easement. Therefore, an easement of use of a lavatory was upheld.>}
+@*|Kettel v Bloomfold|*
+/{<As long as the use of a garage is not _exclusive_, it may be capable of being an easement. The right to park a single car in a double garage (a hypothetical case in the |Law Commission Report on Easements|) could be capable, therefore, as long as the owner retains access. _What about a single garage where owner uses to store tools?_>}
+@*|Fenn Tigers Case|*
+/{<As in |Coventry v Lawrence|, the making of noise is capable of being an easement.>}
+@*|Phipps v Pears|*
+/{<Protection from the elements is _not_ capable of being an easement.>}
+
+SUMMARY *Implied Creation*
+@*|Walby v Walby|*
+/{<The implied creation of easements on grounds of necessity will only succeed if not to do so would render the land in question unusable, to a significant degree. That the implied easement would be _convenient_, by contrast, is not enough.>}
+@*|Manjang v Drameh|*
+/{<A claim to imply an easement of access will fail to be sufficiently _necessary_, if another means of access is available. Even if that means by boat.>}
+@*|Stafford v Lee|*
+/{<When the parties' common intention in the transfer evinces that the plot will be used for a particular purpose, those easements _necessary for that use_ will be impliedly created. Such as, e.g., an easement to run sewerage pipes to serve a plot sold to build a house.>}
+@*|Wong v Beaumont|*
+/{<The common intention of the parties to a transfer for the purpose of a restaurant will give rise to the implied easements necessary for that purpose -- such as ventilation shafts to carry away the smell of MSG and shrimp.>}
+@*|Long v Gowlett|*
+/{<For S62(1) LPA to transform precarious personal rights into easements, there was a requirement of prior diversity of ownership or occupation. (No longer applies, since |Wood v Waddington| in 2015).>}
+@*|Sovmots v Environment Secretary|*
+/{<Confirming the rule in |Long v Gowlett|, prior diversity of occupation or ownership was necessary for S62 creation of implied easements from personal permissions following transfer. (Not good law since |Wood v Waddington| in 2015).>}
+@*|Bormann v Griffiths|*
+/{<S62(1) LPA only applies to transfers taking place by deed or registered disposition -- a claim relying on S62's means of implying easements from personal permissions, therefore, failed.>}
+@*|Platt v Crouch|*
+/{<Transforming personal rights into implied easements, under S62 of the LPA 1925, did _not_ require prior diversity of occupation. Confirmed in 2016 in |Wood v Waddington|.>}
+@*|Wood v Waddington|*
+/{<Confirming |Platt v Crouch|, implied easements created under S62 LPA 1925 does _not_ require prior diversity of occupation/ownership.>}
+@*|Wheeldon v Burrows|*
+/{<Where the transfer fails formality requirements and is therefore only equitable, easements can nevertheless implied by similar means to S62 LPA. Although under S62 the rights must have been _continous and apparent_ immediately prior to transfer, the right in question under this rule is *either* _reasonable and apparent_ *or* _necessary for reasonable enjoyment*.>}
+
+
+
+
+
+
+ -----------------

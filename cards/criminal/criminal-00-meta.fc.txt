@@ -1,0 +1,27 @@
+META subject 'criminal'
+META defcols '2'
+META enableTests true
+META currentTexture 'img/textures/cream-paper.png'
+
+TERMS-OF-ART mens rea; actus reus; novus actus interveniens
+
+
+
+NAME R v You [2016] City
+TYPE Help
+CATEGORY Liam's Criminal Law Flashcards
+SPECIAL *Hello!*<br>This is a collection of flashcards for the City GDL written and compiled by Liam. It contains cards with ^!Case Overviews!^ for a given subject and of course ^!Case!^_s_, from which the facts can be removed to leave only the ratio, by fiddling around in the <span><i class="material-icons" style="font-size: 80% !important;">menu</i></span> options. There, you can also change to a <span class="sansfont">sans</span> typeface when Garamond starts to make you want to rip out your kidneys and stuff them into your eye sockets. If the wacky cards-in-a-pile schtick gets up your nose, adjust the _messiness_, etc. <br><br>There are tests. Arguably a bit gimmicky, they're by means of multiple-guessing the ratio belonging to a case, or vice-versa. You can also do this by typing in the case name for a ratio _without_ seeing any choices. <br><br>Flipping cards back and forth, moving to the next or fetching back the last, is a matter of the *left* and *right* keys. Or, on iOS devices, a matter of greasing up the screen by *swiping* left or right.
+SUMMARY ~*These Cards*~
+/Were very kindly provided by Liam. _I hope he doesn't mind them being here for the current exam season._ If he does, they'll obviously have to be disappeared.
+SUMMARY ~*Filter*~
+/Enter names of *cases*, *categories*, *concepts*, or free text in quotes. These broaden out what's displayed. By contrast, *tags*, *courts* and *card types* all whittle down what you see.
+SUMMARY ~*Config, etc *~
+/The options button (top left) brings up a panel with options to fiddle with. They, like the cards you're looking at, are remembered when you come back a day later. But if something fouls up, a discreet link on the bottom left lets you *reset everything*.
+SUMMARY ~*iPhones*~
+/Use on iPhones is rendered more biddable and less cluttered by pressing the 'share' button (bottom centre) in safari, then *add to home screen*.
+SUMMARY ~*Tags*~
+/These, in the panel on the right, can be dragged onto or away from cards, or into the filter thingummy up top. You can also make your own. 
+SUMMARY ~*Links*~
+/Links to another cards bring them up, jiggling around and fading out unless you click/press to fasten them down. Why? No idea. *Case cards* should have *On Westlaw* or *On curia.eu* at the top left, which should take you straight to the relevant material on those sites. Other links to, e.g., legislation.gov.uk, or wikipedia, if the entry was particularly helpful, will show up when appropriate or when some inexplicable event caused my level of interest to rise above the endlessly grey and listless dysphoria constituting my mental background noise.
+SUMMARY ~*Notes*~
+@*Note well*_ -- this was chucked together _in a hurry_, so def. has bugs, glitches, etc. And it's meant for the *latest version of Safari or Chrome* on *Mac*. What, you're a law student and you don't have a Mac?

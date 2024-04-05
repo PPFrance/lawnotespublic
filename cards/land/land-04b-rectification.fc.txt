@@ -1,0 +1,84 @@
+
+NAME Walker v Burton
+CATEGORY Land Registration; Title Guarantee
+CATEGORY Mistakes on the Register; Innocent Mistakes; Alteration; Rectification
+SUMMARY Burton bought a manor next to a fell. He subsequently discovered, so he thought, that the manor gave him the fell. He asked the LR to register it for him -- they did so. Intent, it seems, on rubbing everyone up the wrong way, he put a fence around the fell, and stopped the villagers from, e.g., parking on it.  Villagers including the claimant challenged this on the grounds that the land was in fact *common land*. They were correct. At some point in the 1400s, the land had been conveyed away. 
+HELD The mistaken registration of a disposition to which there is no other claimant will not give rise to rectification.  The claim to correct the mistaken registration of _a large chunk of moorland_ merely because it seemed unjust, failed. Obiter -- it was better to have _someone_ rather than _no one_ taking care of the land.
+
+NAME Gold Harp v MacLeod
+AKA Gold Harp
+CITATION Gold Harp Properties Ltd v MacLeod [2014] EWCA Civ 1084
+LINK Dixon Article 
+CATEGORY Mistakes on the Register; Fraud
+CATEGORY Land Registration; Title Guarantee
+SUMMARY A property developer with a long lease to _roof space_ persuaded the LR to close the titles of some short leaseholders they wished to dislodge from the same space, by dishonestly claiming the titles were validly forfeited. A long lease was granted to a friend, which was assigned through various companies until it ended up with Gold Harp.
+SUMMARY At first instance, the judge found the forfeitures invalid in several ways, and ordered rectification -- but that the purportedly forfeit short-term leases be entered against the _freehold_ rather than the long lease. The question on appeal was whether Gold Harp had priority over the short-term lessors.
+
+HELD _from wl:_ "(1) The judge had been entitled to order that J's title numbers should take priority. J's and G's leases fell within the subject matter of Sch.4 para.8. The primary effect of that provision was to confirm that the power to rectify the register was not limited to simply restoring an interest, but extended to changing what would otherwise be its priority."  {TODO *still* to do, ffs.}
+COMMENT See Dixon's $!case comment on Gold Harp$$[2015] LQR 131, 207-213!$ in the LQR. 
+
+
+NAME Malory v Cheshire
+AKA Malory
+CITATION Malory Enterprises v Cheshire Homes [2002] EWCA Civ 151
+CATEGORY Land Registration; Title Guarantee; Fraud
+CATEGORY Mistakes on the Register; Fraud; Right to Apply for Rectification as Property Right
+FLAGS Overruled
+HELD (i) The right to apply for rectification is a property right. (ii) Registration by fraud did not give a _disposition_ within the meaning of |LRA 1925|; merely the bare legal title. The beneficial interest remained with the defrauded party. (Overruled on the second point by |Swift 1st| for having undermined the plain intention of |S58 LRA 2002|). 
+
+
+NAME Fitzwilliam v Richall
+AKA Fitzwilliam
+CITATION Fitzwilliam v Richall [2013] EWHC 86 (Ch)
+FLAGS Overruled
+CATEGORY Mistakes on the Register; Fraud; Unravelling; Rectification
+CATEGORY Land Registration; Title Guarantee
+HELD When B fraudulently obtains title by registration of A's land which he then transfers to C, equity will unravel the whole transaction, and rectification will not be necessary to restore the title to A. But as there is no rectification, there will be no indemnity payable to C.  Following |Malory|, fraudulent registration only confers *bare legal title* (overturned in |Swift 1st|).
+
+NAME Swift 1st v Chief Land Registrar
+AKA Swift 1st
+CITATION Swift 1st v Chief Land Registrar [2015] EWCA Civ 330
+CATEGORY Mistakes on the Register; Fraud; Indemnities
+CATEGORY Land Registration; Title Guarantee
+FLAGS Key
+HELD Indemnities are owed for loss as a consequence of rectification of a mistake, even when the mistake occurs through fraud. Such registration confers title definitively -- |S58 LRA 2002|.  |Malory| and |Fitzwilliam| erred in deciding such circumstances only gave rise to the bare legal title and not the equitable interest.
+
+
+
+
+NAME Knights Construction v Roberto Mac
+AKA Roberto Mac
+CATEGORY Mistakes on the Register; Rectification
+FLAGS Key
+SUMMARY Knights Construction was the rightful proprietor, but the title had been registered wrongly to Roberto Mac. 
+HELD A mistake in the register is to be rectified when the RP to whom the title was wrongly registered is *not in possession*.
+
+
+
+NAME Baxter v Mannion
+CATEGORY Mistakes on the Register; Rectification
+FLAGS Key
+HELD When a wrongful RP is in possession, the threshold for rectification of the register on grounds of unfairness under |Schedule 4|(3)(2)(b) is *high*. Merely having lost title to the land is not enough. The unconscionability of a wrongful RP's connivance in the mistake, however, strongly militates in favour of rectification.
+HELD The register _was_ rectified, as the defendant had behaved unconscionably.
+
+NAME Cooper v Gick 
+COURT LR Tribunal
+CATEGORY Mistakes on the Register; Rectification
+FLAGS Informative
+HELD When a wrongful RP is in possession but *bears no blame for the mistake* in the register, it would be unfair not to rectify.
+
+NAME Williams v Mitchell
+CATEGORY Mistakes on the Register; Indemnities
+HELD When rectification of the register would prejudicially affect the new RP's title, the usual remedy for the claimant will be indemnities from the Land Registry rather than rectification.
+
+NAME Guy vs Barclay's
+CITATION Guy vs Barclay's Bank Plc [2010] EWCA Civ 1396
+CATEGORY Mistakes on the Register; Fraud; Unravelling; Rectification 
+CATEGORY Title Guarantee
+HELD When land is fraudulently transferred from A to B, then should the land subsequently be transferred to an innocent party C but A should _fail_ to register a unilateral |Notice| against the title when the mistake comes to his attention, C's title will be good, and A's claim for rectification will fail.
+
+NAME Halifax v Corbett
+CITATION Halifax v Corbett [2002] EWCA Civ 1849
+CATEGORY Land Registration
+CATEGORY Mistakes on the Register; Fraud
+HELD Whether a sale has genuinely taken place is a matter of substance not form.

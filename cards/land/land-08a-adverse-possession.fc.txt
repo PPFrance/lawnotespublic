@@ -1,0 +1,147 @@
+NAME Adverse Possession
+TYPE Concept
+CATEGORY Adverse Possession
+LINK Nec vi, nec clam, nec precario https://en.wikipedia.org/wiki/Nec_vi,_nec_clam,_nec_precario
+
+SUMMARY ~*Summary*~
+/Also spelled 'squatting.' Acquisition of title by long use or control. 
+SUMMARY Most successful adverse possessors are white, middle-class folk, although not the dreadlocks-and-weed type of white middle-class folk you might imagine. |Pye v Graham|, |Zarb v Parry|.
+SUMMARY It may impress or disgust as deeply pretentious to state, in an exam, '&g&nec vi, nec clam, nec precario&g&'. 
+
+
+SUMMARY The AP's occupation may well be _deliberate_ occupation of land to which they _knew they had no right_.  No matter.  AP works like |proprietary estoppel| gone to the bad -- it stops the paper RP from enforcing their right of possession against the AP. 
+@Hence its infrequently-used name 'limitation of {TODO what?!}.' 
+
+SUMMARY The AP gains has a seaworthy property right that they can sell, inherit, register, etc, like any other. Or on which they can gain a possession order _against the registered proprietor_.
+
+SUMMARY The three |conditions for adverse possession| are:
+/->- 1. *control* of the land: |Pye v Graham|, |Red House v Catchpole| -- 2. *intention to possess*: |Bucks v Moran| -- 3. *not accepting permission*, if offered. 
+SUMMARY The three sets of |circumstances for adverse possession| are: 
+/->- 1. *unregistered* land -- 2. registered land with adverse possession of *12 years before 13th Oct 2013* -- 3. idem with 10 years *ending after* that date.
+@To which, three exceptions: 
+/->-(a) *honest and reasonable boundary disputes* (|Zarb v Parry|) -- (b) *estoppel* and, spuriously -- (c) *"other reasons"*.
+
+SUMMARY A clear policy goal of |LRA 2002| was to make it vanishingly difficult for squatters to gain possession. In this it largely succeeded.
+@S15 of the |Limitation Act 1980| (codifying the common law) had the length of use at *12 years*, and there was no notification of the original RP. 
+@|Schedule 6|(1)(1) allows registration after *10 years*, but with a subsequent *2 years* for the original RP to object and regain possession
+
+
+SUMMARY ~*Attributes of AP*~
+/It is:
+@Rooted in the organic and uncontrived nature of land law.
+@An instance of land law having: followed and _formalised how people behave in practice_, rather than how they should, thereby _making best use of a scarce resource_, land, and; arbitrating legal disputes for which not much external or documentary evidence could be produced.
+@Historically then, it had a weighty practical justification.
+$ It is also:
+@Consistent with European HR law according to the Grand Chamber in |Pye v UK|, because:
+@@AP is in the public interest, and within the 'margin of appreciation'.
+/(Although n.b., the First Tier chamber _had_ found squatting to be a breach.)
+$ And furthermore, it's also:
+@*Powerful*. The English Common Law version being the _most_ powerful.
+
+SUMMARY ~*Criminal Offence*~
+/In certain circumstances, AP of _residential_ property is an offence attracting a £5K fine, or up to 51 weeks in jail.
+@Parliament buried this deep within |LAPSO 2012|, after a whole 90 minutes of late-night debate.
+@It's retroactive, affecting APs in possession on the day the law came into force. 
+SUMMARY Potentially, you could go to jail for this but nevertheless gain the title by AP.
+@|Best v Chief Land Registrar|, in which the LR had refused to register, on principle of _ex turpi causa_. 
+@Best had _not_ been charged or convicted of anything. 
+@The EWCA held the CLR's contention of _ex turpi causa_ inapplicable, and not to have been in the contemplation of parliament.
+@Watch this space.
+
+
+NAME Conditions for Averse Possession
+TYPE Concept
+CATEGORY Adverse Possession
+SUMMARY See also |Circumstances for Adverse Possession|.
+SUMMARY There are three:
++*Control* of the land.
+@@Mending fences, changing locks, etc. |Pye v Graham|. 
+@@But not merely keeping it neat. |Red House v Catchpole|.
++*Intention to possess* 
+@@*Intention* to possess must be present as well as actual occupation. |Bucks v Moran|, cf. |Hounslow v Minchinton|.
+@@*Possession* is not interrupted by a failure to comply with a local authority's formality. |Lambeth v Ellis|.
+
++*Not having accepted permission* to be there.
+@@The RP telling the possessor, 'I give you permission to be here' does _not_ transform him from an adverse possessor to a licensee. That only happens when he says "OK, thanks!"
+
+
+NAME Circumstances for Adverse Possession
+TYPE Concept
+CATEGORY Adverse Possession
+SUMMARY There are three:
++*Unregistered Land*
+@@*12 years* adverse possession gives title -- S15 |Limitation Act 1980|. 
+@@@The previous registered title is _extinguished*.
+@@@Then the adverse possessor can choose to register -- |Cooper v Gick|, but this may be AP of a _registered_ title.
+@@*30 years* if the Crown is the owner.
++*Registered Land* adversely possessed for *12 years before ~13th Oct 2013~.*
+@@|LRA 2002| doesn't apply to the adverse possessor -- |Pye v Graham|.
+@@The adverse possessor then becomes entitled to be registered -- |Schedule 12|(18). 
++*Registered Land* where |LRA 2002| applies: 12 years *not* completed before Oct 2013.
+@@Adverse possessor may apply for title after *10 years*, |Schedule 6 LRA| applies.
+@@The RP is sent a letter informing them, and giving them *65 business days* to --
+@@@*Consent*
+/Not out of the question -- local authorities not wanting to look after grass verges, etc. Although pretty unlikely in other circumstances.
+@@@*Object*, relying on |Schedule 6|.
+/The RP then has *2 years* to get a possession order _granted_. N.B., only _granted_, not _carried out_. 
+/Failure to do so will award the title to the AP.
+@@(But what is likely to happen to the letter sent to the RP at the adversely-possessed land?)
+
+SUMMARY ~*Three Exceptions*~
+/In order of use, rather than appearance on |Schedule 6| --
++*Honest and Reasonable Boundary Disputes*
+/A fence six inches in the wrong place, that you'd neglected to notice on inspection prior to transfer. 
+@@*Settled boundaries may not be disturbed by paper documents* -- land law preferring _use_ to _ownership_.
+@@|Zarb v Parry|. Trivial amount of land. "Both psychopaths," according to MD.
++*|Estoppel|* 
+/The RP makes representations to the AP that the land is really theirs.
+@@AP is unlikely to be unnecessary, as the unconscionability of an estoppel where the assurance was to ownership may well be remedied with the award of title.
++*Some other Reason*~
+@@If there's another reason for entitlement to the land, why not use _that_ instead of AP? 
+@@Mere arse-covering by the drafters of |Schedule 6|, says MD.
+
+
+
+
+NAME Schedule 6 LRA 2002
+AKA Schedule 6 LRA
+AKA Schedule 6
+TYPE Statute
+CATEGORY Adverse Possession; Schedule 6; LRA 2002
+LEGILINK http://www.legislation.gov.uk/ukpga/2002/9/schedule/12
+SUMMARY *Blackstone's* Property Law 2015-2016 -- *p. 345*
+SUMMARY ~*Text*~
+
+
+
+NAME Schedule 12 LRA 2002
+AKA Schedule 12 LRA
+AKA Schedule 12
+TYPE Statute
+CATEGORY Adverse Possession; Schedule 12; LRA 2002
+LEGILINK http://www.legislation.gov.uk/ukpga/2002/9/schedule/12
+SUMMARY *Blackstone's* Property Law 2015-2016 -- *p. 354*
+SUMMARY ~*Intro*~
+/Governs transition to the 2002 act. Para 18 applies when 12 years of adverse possession according to |S75 LRA 1925| were *completed before 13th Oct 2013*.
+SUMMARY ~*18 -- Adverse possession*~
++Where a registered estate in land is held in trust for a person by virtue of (1) of |S75 LRA 1925| immediately before the coming into force of section 97, he is entitled to be registered as the proprietor of the estate.
++A person has a defence to any action for the possession of land (in addition to any other defence he may have) if he is entitled under this paragraph to be registered as the proprietor of an estate in the land.
++Where in an action for possession of land a court determines that a person is entitled to a defence under this paragraph, the court must order the registrar to register him as the proprietor of the estate in relation to which he is entitled under this paragraph to be registered.
++Entitlement under this paragraph shall be disregarded for the purposes of section 131(1).
++Rules may make transitional provision for cases where a rentcharge is held in trust under section 75(1) of the Land Registration Act 1925 immediately before the coming into force of section 97.
+
+
+
+NAME S75 LRA 1925
+TYPE Statute
+CATEGORY Adverse Possession; Schedule 12; LRA 2002; LRA 1925
+LEGILINK http://www.legislation.gov.uk/ukpga/2002/9/schedule/12
+FLAGS Repealed
+SUMMARY *Blackstone's* Property Law 2015-2016 -- *p. 121-122*
+SUMMARY ~*Intro*~
+/*Repealed* by the 2002 act, except for references to S75(1) |Schedule 12|(18), applying to claims of adverse possession where the 12 years were *completed before 13th Oct 2013*.
+SUMMARY ~*S75 -- Acquisition of title by possession*~
++The Limitation Acts shall apply to registered land in the same manner and to the same extent as those Acts apply to land not registered, except that where, if the land were not registered, the estate of the person registered as proprietor would be extinguished, such estate shall not be extinguished but shall be deemed to be held by the proprietor for the time being in trust for the person who, by virtue of the said Acts, has acquired title against any proprietor, but without prejudice to the estates and interests of any other person interested in the land whose estate or interest is not extinguished by those Acts.
++Any person claiming to have acquired a title under the Limitation Acts to a registered estate in the land may apply to be registered as proprietor thereof.
++The registrar shall, on being satisfied as to the applicant’s title, enter the applicant as proprietor either with absolute, good leasehold, qualified, or possessory title, as the case may require, but without prejudice to any estate or interest protected by any entry on the register which may not have been extinguished under the Limitation Acts, and such registration shall, subject as aforesaid, have the same effect as the registration of a first proprietor; but the proprietor or the applicant or any other person interested may apply to the court for the determination of any question arising under this section.
+SUMMARY (etc)

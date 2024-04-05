@@ -1,0 +1,66 @@
+TYPE-DEFAULT Concept
+CATEGORY-DEFAULT $CARDNAME
+
+
+NAME Unlawful Act Manslaughter
+CATEGORY Manslaughter
+SUMMARY AKA _Constructive Manslaughter_, this differs with |voluntary manslaughter| in the mens rea requirement. Here it is for an _unlawful act_ -- other than GBH or murder.
+
+SUMMARY In |Kennedy (No. 2)|, channelling Mustill J in |AG Ref no 3 of 1994| wise old Tom Bingham set out the *four elements* that must be *stated then addressed in a problem question*. The prosecution must prove:  *(1)* an unlawful act, which would *(2)* cause _some_ harm in estimation of sobre and reasonable person; and *(3)* brought about consciously and volitionally and that *(4)* causation is satisfied.
+
+SUMMARY *Cases*
++*An unlawful act*
+@@Which must be _criminal_ rather than tortious (|Larkin|).
+@@For which D has mens rea and actus reus (|Lamb|).
+@@@In which prosecution failed as neither assault nor |Cunningham| recklessness.
+@@Failing which -- at least the mens rea (|Newbury|).
+@@Can be |strict liability| (|Andrews|, CA).
+@@E.g., -- 
+@@@Administering a noxious substance (|Kennedy (No. 2)|) 
+@@@Affray (|Carey|).
++*Some harm* in the *anticipation* of a sobre and reasonable person.
+@@*Harm*
+@@@Not necessarily _serious_ (|Church| 1966).
+@@@But at least |ABH| (|Dawson| 1985). Distress _not_ enough on its own, unless per se gave rise to |ABH|...
+@@@... which is likely in invading an old man's house, when he looks like he's having a heart attack yet D does nothing (|Watson| 1989).
+@@*Anticipation*
+@@@Most be foreseeable (|Church|)
+@@@A heart condition is _not_ foreseeable in a 15 year-old girl (|Carey|). 
+@@@The actual harm can be much worse than anticipated by hypothetical sobre and reasonable person, as long as _some_ occurred (|R v JM and SM| 2012). 
++*Volitionally brought about*
+@@Mens rea for the unlawful act itself must an act of direct intention (|Kennedy (No. 2)|).
+@@Not necessarily against V (|Goodfellow| 1986, but cf. |Dolby|, in which it _did_).
++*|Causation|*
+@@Is satisfied by a simple lack of direct intervening cause (|Goodfellow|, cf. earlier |Dolby|).
+@@No break in the chain of causation if harm _within range of reasonably foreseeable responses_ (|Williams (1991)|). 
+@@@ Even when the response was _suicide_ (|Dhaliwal|, obiter in CA).
+
+
+NAME Gross Negligence Manslaughter
+CATEGORY Gross Negligence Manslaughter
+SUMMARY AKA _Breach of Duty Manslaughter_. Doing something legal like _driving_, but going about it in a grossly-negligent manner. After |Adomako|, |Wacker| established that the duty of care is owed rather more widely than in tort. In |Willoughby| it was held the question of whether a duty was owed was for the jury. this was established In |Gemma Evans|,  
+
+
+SUMMARY In |Adomako| (1995), Lord McKay set out a three-part test:
++Duty of Care owed by D to V, established by the ordinary principles of negligence.
+@@AR: _'What he meant to say is that all the ordinary principles _don't_ apply.'_
++Serious or significant risk of death
+@@Does it go _beyond compensation_ and amounts to _a crime _against the state_ and therefore _deserve punishment_ (the |Bateman| test) 
++Caused by D's conduct.
+
+SUMMARY But on closer inspection, the _ordinary principles_ turned out _not_ to be those of tort, but of criminal law, which the CA helpfully pointed out in |Wacker| (2002) is different from civil law. And that this is for public policy reasons.
+
+SUMMARY *Cases*
+@That duty in _tort_ might be precluded by V's (implicit) consent is irrelevant (|Wacker|).
+@Existence of duty was for the jury -- unless it was obvious, in which case the judge could direct (|Willoughby|).
+@@But this did _not_ make GNM per se a breach of ECHR art 7 (|Misra|).
+@@@D's argument -- because the legality of the conduct was in effect decided by the jury, the offence lacked the legal certainty art 7 requires. 
+@@@CA held -- jury not being asked to decide whether conduct illegal, only whether grossly negligent.
+/AR: _'Remind me how you spell *tautology*?'_
+@N.B. establishment of duty established _not_ to be a question for the jury (|Gemma Evans| 2009).
+
+NAME Reckless Manslaughter
+SUMMARY AKA _|Cunningham| Manslaughter_ -- taking a subjectively-unjustifiable risk of bringing about _serious_ injury. For this common law crime there have been no prosecutions since 
+
+
+

@@ -1,0 +1,152 @@
+
+
+
+NAME Misrepresentation - Glossary
+TYPE Concept
+CATEGORY Misrepresentation 1
+CATEGORY Misrepresentation 2
+SUMMARY Since misrepresentation and misstatement are quite distinct from actions for breach of contract, they have their own terminology. A selection from it is set out below for ready reference and to clear up any initial queries, even though several of these terms will not be relevant until the second of these two lectures on misrepresentation.
+
+SUMMARY *Representation*
+/A pre-contractual statement of fact, whether express or implied, which leads the representee to enter into a contract with the representor.
+
+SUMMARY *Misrepresentation*
+/A statement, as above, which proves false, whether made innocently, negligently or fraudulently.
+
+SUMMARY *Misstatement* 
+/A statement, whether of fact, opinion or belief, by which the maker becomes liable for loss resulting to the recipient.
+
+SUMMARY *Rescission*
+/The retroactive undoing of the contract, involving the return of its subject matter and the price paid for it.
+
+SUMMARY *Termination*
+/The withholding of further performance of the contract.
+
+SUMMARY *Indemnity*
+/Monetary compensation for obligations which the contract has (a) created; and (b) imposed on a misrepresentee.
+
+SUMMARY *Reliance*
+/The importance of the representation in the mind of the representee in deciding whether to enter into the contract, and if so, on what terms.
+
+SUMMARY *Materiality*
+/The propensity of the representation to affect the mind of a reasonable person in the sense above. 
+
+SUMMARY *Innocent*
+/(a) Before 1967: non-fraudulent.
+/(b) After 1967: without fault.
+
+
+--STOP--
+
+NAME Misrepresentation 1 - Introduction
+TYPE Concept
+CATEGORY Misrepresentation 1
+
+
+
+
+
+
+NAME Bisset v Wilkinson
+CITATION Bisset v Wilkinson [1927] AC 177
+CATEGORY Misrepresentation 1; Fact vs Opinion, Belief, Intention and (Formerly) Law
+
+
+
+
+NAME Smith v Land and House Property Corporation
+CITATION Smith v Land and House Property Corporation (1884) 28 Ch D 7
+CATEGORY Misrepresentation 1; Fact vs Opinion, Belief, Intention and (Formerly) Law
+
+
+
+NAME Edgington v Fitzmaurice
+CITATION Edgington v Fitzmaurice (1885) 29 Ch D 459
+CATEGORY Misrepresentation 1; Fact vs Opinion, Belief, Intention and (Formerly) Law
+
+
+
+
+NAME Pankhania v Hackney Borough Council
+CITATION Pankhania v Hackney Borough Council [2002] EWHC 2441
+CATEGORY Misrepresentation 1; Fact vs Opinion, Belief, Intention and (Formerly) Law
+
+
+
+
+NAME Keates v The Earl of Cadogan
+CITATION Keates v The Earl of Cadogan (1851) 10 CB 591
+CATEGORY Misrepresentation 1; Silence/Conduct
+
+
+
+
+NAME With v O'Flanagan
+CITATION With v O'Flanagan [1936] Ch 575
+CATEGORY Misrepresentation 1; Silence/Conduct
+
+
+
+
+NAME Dimmock v Hallett
+CITATION Dimmock v Hallett (1866) LR 2 Ch App 21
+CATEGORY Misrepresentation 1; Silence/Conduct
+
+
+
+
+NAME Spice Girls Ltd v Aprilia World Service BV
+CITATION Spice Girls Ltd v Aprilia World Service BV [2002] EWCA Civ 15
+CATEGORY Misrepresentation 1; Silence/Conduct
+FLAGS Arden; McKendrick
+
+
+
+
+NAME Materiality and reliance
+TYPE Concept
+CATEGORY Misrepresentation 1
+FLAGS Treitel; McKendrick
+
+
+
+
+NAME Attwood v Small
+CITATION Attwood v Small (1838) 6 Cl & F 232
+CATEGORY Misrepresentation 1; Materiality and Reliance
+
+
+
+
+NAME Redgrave v Hurd
+CITATION Redgrave v Hurd (1881) 20 Ch D 1
+CATEGORY Misrepresentation 1; Materiality and Reliance
+FLAGS Treitel
+
+
+
+
+NAME Hedley Byrne & Co Ltd v Heller & Partners
+CITATION Hedley Byrne & Co Ltd v Heller & Partners [1964] AC 465
+CATEGORY Misrepresentation 1; Negligent Misstatement: Conditions of Liability
+
+
+
+
+NAME Caparo Industries plc v Dickman
+CITATION Caparo Industries plc v Dickman [1990] 2 AC 605
+CATEGORY Misrepresentation 1; Negligent Misstatement: Conditions of Liability
+
+
+
+
+NAME Henderson v Merrett Syndicates
+CITATION Henderson v Merrett Syndicates [1995] 2 AC 145
+CATEGORY Misrepresentation 1; Negligent Misstatement: Conditions of Liability
+
+
+
+
+NAME McCullough v Lane Fox and Partners Ltd
+CITATION McCullough v Lane Fox and Partners Ltd [1996] PNLR 205
+CATEGORY Misrepresentation 1; Negligent Misstatement: Conditions of Liability

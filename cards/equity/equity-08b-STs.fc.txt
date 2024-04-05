@@ -1,0 +1,92 @@
+
+NAME Kasperbauer v Griffiths
+CITATION Kasperbauer v Griffiths (2000)
+CATEGORY Secret Trusts
+HELD Modern CA authority on the conditions for secret trusts. Per Peter Gibson LJ -- "the authorities make plain that what is needed is:  1. an *intention* by the testator to create a trust, satisfying the traditional requirements of three certainties (...) 2. the *communication* of the trust to the legatees, and 3. *acceptance* of the trust by the legatee, which can take the form of *silent acquiescence*."
+
+NAME Re Maddock
+CITATION Re Maddock (1902)
+CATEGORY Secret Trusts; Fully Secret Trusts
+HELD Should the trustee of an FST predecease the settlor, the trust will fail.
+
+
+
+NAME Ottaway v Norman
+CITATION Ottaway v Norman (1971)
+CATEGORY Secret Trusts
+FLAGS Denning
+HELD An oral FST of land was _upheld_. The evidence for existence of the trust, which gave the land to the testator's chauffeur, was an overheard phone conversation. Overheard by the _chauffeur_.  At no point was |S53(1)(b)| mentioned, although one skeleton had 's.53(1)(b)?' scribbled in the margin.
+HELD This is _not_ therefore, authority for the non-application of S53(1)(b) in STs.
+
+NAME Brown v Pourau
+CITATION Brown v Pourau (1995) NZ
+CATEGORY Secret Trusts
+HELD An oral secret trust of land was held valid. Obiter -- 'but not in England.' 
+HELD So at this point, we don’t know whether s.53(1)(b) applies to secret trusts or not.
+
+NAME Moss v Cooper
+CITATION Moss v Cooper (1861)
+CATEGORY Secret Trusts
+FLAGS Leading
+HELD Anything other than _positive rejection_ by the trustee of an FST is acceptance of trusteeship, including _silence_. Even if the testator dies immediately after communicating with the trustee. Old, but still good law.
+
+
+
+NAME Irvine v Sullivan
+CITATION Irvine v Sullivan (1869)
+CATEGORY Secret Trusts; Fully Secret Trusts
+SUMMARY A case involving the army, a hat, and a secret trust. The terms were that she was to keep _some_ of the benefit herself, then distribute the rest. So she could have kept the lot.
+HELD |Precatory words| may be compatible with a |Fully-Secret Trust| -- but without a clear obligation of trusteeship on the face of the will, they cannot establish a |Half-Secret Trust|.
+
+NAME Walgrave v Tebbs
+CITATION Walgrave v Tebbs (1855)
+CATEGORY Secret Trusts; Fully Secret Trusts
+SUMMARY Money and land had been left to a Mr. Martin and a Mr. Tebbs in testator’s will as joint tenants. _Neither one nor the other received any communication_ before the testator died. A letter subsequently emerged of the testator's wish to give the money to charity. But the trust failed, and they kept the money.
+
+HELD The intended trustees of an |FST| must have been informed of the terms whilst the testator was still living. The testator merely having written instructions to the trustees is _not_ enough.
+
+
+NAME Re Boyes
+CITATION Re Boyes (1884)
+CATEGORY Secret Trusts; Fully Secret Trusts
+SUMMARY An honest fellah went to court, saying ‘I’m the trustee in this will, but I have no idea what to do with it.’ The court _could_ have said ‘it’s a gift, keep it.’ Instead it punished him for his honesty, with a resulting trust back to the estate.
+HELD The settlor of an |FST| must communicate not only the fact of trusteeship to the intended trustees -- but also the _terms_ of the trust.
+
+NAME Blackwell v Blackwell
+CITATION Blackwell v Blackwell (1929)
+CATEGORY Secret Trusts; Half Secret Trusts
+HELD An |HST| was upheld despite communication to the intended trustees _the next day_. The rule that communication of the terms to the trustees of an HST _before or at the same time_ as the will's creation is that the trust exists from the moment the deed of will is executed, the terms of which are implicitly part of it. 
+HELD Lord Sumner -- "a testator cannot reserve to himself a power to make future unwitnessed dispositions by merely naming a trustee and leaving the purposes of the trust to be supplied afterwards. Otherwise, this would enable the testator to 'give the go-by' to the requirements of the Wills Act because he did not choose to comply with them."
+COMMENT A tipping point in the law, and the judges seem to change their mind about it half way through the judgement. They change the theory but apply the old rules.
+
+NAME Re Keen
+CITATION Re Keen (1937)
+CATEGORY Secret Trusts; Half Secret Trusts
+HELD Even though a term in a will establishing an |HST| refers to _future_ communication of the trust's terms to its trustees, if the communication has in fact already taken place, the HST will be deemed to have been established. Although in this case, it failed on other grounds. "A ship sailing under sealed orders is sailing under orders, although the captain doesn’t know the destination until later. *Problem question*: a trustee given an envelope, understanding it to contain terms of HST, but instructed *not to open until death* of settlor -- *valid HST.*
+
+NAME Re Bateman
+CITATION Re Bateman (1937)
+CATEGORY Secret Trusts; Half Secret Trusts
+HELD A letter containing the terms of an |HST| written _before_ the execution of the will, but only given to the trustee _afterwards_, will not be considered to be valid communication of terms to the trustee prior to execution of the will.
+HELD Pennycuick J -- letter given too far after making of will to be contemporaneous.
+
+
+NAME Re Rees
+CITATION Re Rees (1950)
+CATEGORY Secret Trusts; Half Secret Trusts
+HELD The trustee of an |HST| cannot be one of its beneficiaries -- especially if he or she happens to be the solicitor who drafted the will. Evershed MR -- a lot of wank about public policy, etc.
+
+
+NAME Re Colin Cooper
+CITATION Re Colin Cooper (1939)
+HELD The modification of an HST must be done by execution of a codicil to the will _and_ communication of the changes to the trustee(s) 
+SUMMARY £5000 left to trustees ‘for purposes already communicated to them.’ Executed a codicil just before he died, adding another £5000, ‘they know my wishes regarding that sum.’  But never informed them, and no clear intention on the face of the will. The extra cash resulted back to the estate, as it was impossible to decide what the terms of the second were, and whether they’d been accepted by the trustees.
+
+NAME Re Snowden
+CITATION Re Snowden [1979]
+CATEGORY Secret Trusts; Dehors the Will
+HELD Megarry VC -- secret trusts are in fact formed inter vivos. The will merely puts them together, i.e., _constitutes_ them.
+
+
+
+

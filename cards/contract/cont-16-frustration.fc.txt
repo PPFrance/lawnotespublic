@@ -1,0 +1,181 @@
+META filename herling-16-frustration.fc.txt
+
+
+
+
+
+
+NAME Frustration - Introduction
+TYPE Concept
+CATEGORY Frustration
+FLAGS Denning
+
+
+
+
+NAME The rationale for frustration
+TYPE Concept
+CATEGORY Frustration
+
+
+
+
+NAME Paradine v Jane
+CITATION Paradine v Jane (1647) Aleyn 26
+CATEGORY Frustration; Introduction; Rationale For Frustration
+
+
+
+
+NAME Taylor v Caldwell
+CITATION Taylor v Caldwell (1863) 3 B & S 826
+CATEGORY Frustration; Introduction; Rationale For Frustration
+
+
+
+
+NAME Davis Contractors Ltd v Fareham Urban District Council
+CITATION Davis Contractors Ltd v Fareham Urban District Council [1956] AC 696
+CATEGORY Frustration; Introduction; Rationale For Frustration
+
+
+
+
+NAME National Carriers Ltd v Panalpina (Northern) Ltd
+CITATION National Carriers Ltd v Panalpina (Northern) Ltd [1981] AC 675
+CATEGORY Frustration; Introduction; Rationale For Frustration
+
+
+
+
+NAME The circumstances of frustration
+TYPE Concept
+CATEGORY Frustration
+
+
+
+
+NAME Blackburn Bobbin Co Ltd v T W Allen & Sons Ltd
+CITATION Blackburn Bobbin Co Ltd v T W Allen & Sons Ltd [1918] 2 KB 467
+CATEGORY Frustration; Introduction; Circumstances of Frustration
+
+
+
+
+NAME Frustration of common purpose
+TYPE Concept
+CATEGORY Frustration
+FLAGS Atkin
+
+
+
+
+NAME Bank Line Ltd v Arthur Capel & Co
+CITATION Bank Line Ltd v Arthur Capel & Co [1919] AC 435
+CATEGORY Frustration; Introduction; Frustration of Common Purpose
+
+
+
+
+NAME Krell v Henry
+CITATION Krell v Henry [1903] 2 KB 740
+CATEGORY Frustration; Introduction; Frustration of Common Purpose
+
+
+
+
+NAME Herne Bay Steam Boat Co v Hutton
+CITATION Herne Bay Steam Boat Co v Hutton [1903] 2 KB 683
+CATEGORY Frustration; Introduction; Frustration of Common Purpose
+
+
+
+
+NAME Self-induced frustration
+TYPE Concept
+CATEGORY Frustration
+
+
+
+NAME The Super Servant Two
+CITATION J. Lauritzen AS v Wijsmuller BV, The Super Servant Two [1990] 1 Lloyds Rep 1
+CATEGORY Frustration
+FLAGS Treitel
+
+
+
+
+NAME Joseph Constantine Steamship Line Ltd v Imperial Smelting Corporation Ltd
+CITATION Joseph Constantine Steamship Line Ltd v Imperial Smelting Corporation Ltd [1942] AC 154
+CATEGORY Frustration; Introduction; Self-Induced Frustration
+
+
+
+
+NAME The role of foresight
+TYPE Concept
+CATEGORY Frustration
+FLAGS Treitel
+
+
+
+
+NAME Ocean Tramp Tankers Corporation v V/O Sovfracht, The Eugenia
+CITATION Ocean Tramp Tankers Corporation v V/O Sovfracht, The Eugenia [1964] 2 QB 226
+CATEGORY Frustration; Introduction; Role of Foresight
+FLAGS Treitel; Denning
+
+
+
+
+NAME The assessment of delay
+TYPE Concept
+CATEGORY Frustration
+
+
+
+
+NAME Bank Line Ltd v Arthur Capel & Co.
+
+
+
+
+NAME Finelvet AG v Vinava Shipping Co Ltd, The Chrysalis
+CITATION Finelvet AG v Vinava Shipping Co Ltd, The Chrysalis [1983] 2 All ER 658
+CATEGORY Frustration; Introduction; Assessment of Delay
+FLAGS Bingham
+
+
+
+
+NAME The effects of frustration
+TYPE Concept
+CATEGORY Frustration
+
+
+
+
+NAME Chandler v Webster
+CITATION Chandler v Webster [1904] 1 KB 493
+CATEGORY Frustration; Introduction; Effects of Frustration
+
+
+
+
+NAME Fibrosa SA v Fairbairn Lawson Combe Barbour Ltd
+CITATION Fibrosa SA v Fairbairn Lawson Combe Barbour Ltd [1943] AC 32
+CATEGORY Frustration; Introduction; Effects of Frustration
+
+
+
+
+NAME The Law Reform (Frustrated Contracts) Act 1943
+TYPE Concept
+CATEGORY Frustration
+
+
+
+
+NAME Law Reform (Frustrated Contracts) Act 1943
+TYPE Concept
+CATEGORY Frustration; Introduction; Law Reform (Frustrated Contracts) Act 1943

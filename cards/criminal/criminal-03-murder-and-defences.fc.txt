@@ -1,0 +1,241 @@
+TYPE-DEFAULT Concept
+CATEGORY-DEFAULT $CARDNAME
+
+NAME Mercy Killing
+AKA Sanctity of Life
+CATEGORY Manslaughter
+SUMMARY *Mercy*
+@In |Re A|, liability for homicide for an operation that would inevitably kill one twin -- in default of which both would die -- boiled down to whether the act would _avoid evil_.
+@The last case in the HL sought clarification on circs for prosecution for assisting suicide (|Debby Purdy|).
+@In 2010 the CA held it was up to Parliament to address suicide in context of mercy killing (but in the mean time, upheld a conviction for murder in |Inglis|).
+@@In 2014 the SC said the same (|Nicklinson and Others|).
+SUMMARY So it's up to Parliament. See also &g&Loi Leonetti&g& for the French approach.
+
+SUMMARY *Cases from my notes*
+/Dianne Pretty (2002)
+/Poor chook had Motor Neurone disease. Applied to DPP for a letter prospectively granting her partner immunity from prosecution for helping her to end her own life.
+/Held: Denied - challenged under S8 (private life) and S14 of European Convention on HR.
+@ UKHL held that protection of vulnerable individuals.
+SUMMARY Debby Purdy (2009)
+/N.B. this was final HL decision before it became the Supreme Court.
+/An MS sufferer. Sought clarification from DPP under Art. 8 (lack of guidance) on circumstances in which there would be prosecution for assisting suicide.
+SUMMARY R v Inglis (2010)
+/Mercy killing. Victim suffered minor injuries having been punched. Reluctantly put into an ambulance. Suffered catastrophic brain damage when fell out (jumped out, in BBC article) of ambulance. PVS. Defendant was his mother, a nurse. She went into the hospital and injected the son with heroin, once (failed) then twice (succeeded).
+@ Tried to argue loss of control. But not accepted, because she’d done it twice.
+@ Argued that he was already dead.
+@ Court held individually disabled and not dead, in the eyes of the law.
+@ Imprisoned at first instance for 5 years.
+@ EWCA held it would be for parliament to determine how to readdress policy of assisted suicide.
+SUMMARY R v Nicklinson and Others (2014)
+@ Supreme court again held that parliament must decide, not cases, as so controversial, so technically and morally difficult.
+@ Re A too slender a thread to allow the extrapolation of defence.
+
+
+NAME Murder
+FLAGS Current Law
+LINK CPS's guidance http://www.cps.gov.uk/legal/h_to_k/homicide_murder_and_manslaughter/#murder
+SUMMARY *Coke's Definition*
+/A person of _sound mind_ and of the age of discretion _unlawfully_ kills a person under the King's peace, with _malice aforethought_, either _expressed_ by the party _or implied by law_, so as the party die within _a year and a day_. 
+
+SUMMARY A crime of specific intent.
+
+SUMMARY *Elements*
+@|Actus reus|
+++0D |causes| V, a human being
++++0alive (born and breathing through own lungs |Rance v Mid-Downs HA|, |AG Ref no 3 of 1994|) 
++++0currently-living (|AG Ref no 3 of 1997|) 
+++0to die (suffer death of brain-stem |Malcherek and Steel|)
+++0unlawfully (|Airedale NHS Trust v Bland|, |Inglis|, |self defence|)
++++0i.e., with
+@|Mens rea|
+++0D intended 
++++0 directly or obliquely (|Woollin|, |Intention for Murder|)
+++0 to kill (express fault)
+++0 or cause GBH (implied fault) 
+@|Partial Defences|
+@@If successful, will reducing the conviction to |manslaughter|.
+@@|Loss of Control - S54 CJA|, which replaced common-law |provocation|.
+@@|Diminished Responsibility - S52 CJA|
+@@|Suicide Pact|
+@|Complete Defences|
+@@|Self Defence|
+@@But |duress| and |necessity| are *not available* for murder or manslaughter.
+SUMMARY The CPS's $:guidance notes for homicide$$http://www.cps.gov.uk/legal/h_to_k/homicide_murder_and_manslaughter/#murder:$ set this out well.
+
+
+SUMMARY See Cf. |Mercy Killing|.
+
+SUMMARY *Year and a Day*
+/Abolished by the |Law Reform (Year and a Day Rule) Act 1996|, given the increased capacity to keep seriously injured people alive.
+
+
+
+NAME Intention for Murder
+CATEGORY Murder; Intent
+FLAGS Current Law
+SUMMARY For oblique intent, a jury *_may_ infer intention* (but doesn't have to) should they find *D realised death or GBH was a virtually certain consequence* (|Woollin|, or |Nedrick| according to some)
+SUMMARY *Development of Law*
+/For _oblique_ intent (cf. _direct_ intent, something observed prima facie), *death or |GBH|* had to be:
+@|Hyam| -- known by D as a *highly probable result* 
+@|Moloney| -- *foreseen as a natural consequence* (obiter, should be *the same throughout criminal law*).
+@|Hancock and Shankland| -- *highly probable* once again, overturning |Moloney|.
+@|Nedrick| -- *realised as a virtually certain consequence*.
+@|Walker| -- *a very high probability*, which the CA, despite preferring *virtual certainty*, did not consider a misdirection.
+@*|Woollin|* -- *virtually certain* per |Nedrick| -- but jury remains free _not to find intention_, even if satisfied of D's realisation of virtual certainty.
+@|Matthews and Alleyne| -- reaffired *virtual certainty* of |Nedrick|/|Woollin| (obiter, an inference in favour of which would be (on the facts of the case) failure to attempt rescue). 
+SUMMARY The law still unclear, but that |Woollin| established rule of _evidence_, not law. 
+
+
+
+
+
+NAME Voluntary Manslaughter
+FLAGS Current Law
+CATEGORY Manslaughter
+SUMMARY This is what the establishment of a partial defence will turn |murder| into, which allows sentencing discretion.
+@|Loss of Control - S54 CJA|, which replaced common law |Provocation|.
+@|Diminished Responsibility - S52 CJA|
+
+
+
+
+NAME Provocation
+AKA Provoked
+FLAGS Old Law
+CATEGORY Murder; Defences
+SUMMARY _Replaced in 2009 by |Loss of Control|, this was a |partial defence| mitigating |murder| to |voluntary manslaughter|._
+SUMMARY *Overview*
+@ It required: 
+++ *A sudden and temporary* loss of control.
+++ *A reasonable person* would have lost control. |Lesbini| 1914.
+@Once raised, provocation had to be left to the jury. |Doughty|.
+@S3 of the $!Homicide Act 1957$$Homicide Act 1957!$ provided that --
+@@Words alone would _not_ establish the defence.
+@@The reaction did not have to be _proportionate_.
+@@Evidence of the loss of control was to be left to the jury.
+@@The provoking act could come from a _3rd party_.
+@Failed when too much time elapsed between provocation and (purported) loss of control. |Ibrams|, in which it was a _week_.
+@@Unless the _sudden and temporary_ loss of control happened to have, itself, lasted for days |Baillie|.
+
+SUMMARY *Invocation by Abused Wives*
+/That the loss of control had to be _sudden and temporary_, which militated _against_ its invocation by "slow-burning" women rather than men. Say the academics.
+@Failed in |Ahluwalia|, petrol poured over the husband whilst _asleep_. CA held the |Duffy| test still good law.
+@Failed in |Humphreys|, but was held must take account of _the cumulative history_ leading up to act.
+
+SUMMARY *Relevant Characteristics*
+/_Of the defendant, to be adduced to the reasonable person, are_ --
+@Age and gender. |Camplin|.
+@Being jealous and possessive -- perhaps. |Weller|.
+@'Reasonable' is not a synonym for 'morally upstanding'. Lord Goff in |Morhall| on appeal to the HL.
+
+%_But not_ --
+@Impotence. |Bedder|.
+@Being a glue-sniffer. CA in |Morhall|.
+@Feeling worthless and depressed. |AG for Jersey v Holley| PC 2005.
+/ -- followed in the CA in |James| 2006 instead of binding HL authority, |Smith (Morgan)|.
+
+
+
+
+NAME Loss of Control - S54 CJA
+AKA Loss of Control
+AKA S54 CJA
+FLAGS Current Law
+CATEGORY Murder; Defences
+
+SUMMARY S54 |CJA 2009| establishes this souped-up replacement for the |provocation| murder-to-manslaughter partial defence, which it abolishes at S56. 
+SUMMARY *S54 - Loss of Control*
++*Three-Part Test* --
+++Acts (or omissions) arising from a _loss of control_.
+++A _qualifying trigger_ -- fear of _serious_ violence, circs of _extremely grave nature_ or both: S55 (3), (4) or (5).
+++Which would have caused same acts in person of D's gender and age with _normal amount of self-mastery_, in _same circs as D_.
++ *No requirement of suddenness* -- addressing weakness of _sudden and temporary passion_ requirement (|Duffy|), opening defence to battered women.
++ *All circs except* those having bearing on D's ability to stay cool.
+@@Except if taunt connected with it, not alcoholism (|Asmelash| 2013).  
++ *Inapplicable for revenge.* (|Dawes| 2013)
++ *Burden on prosecution to disprove* beyond reasonable doubt, once admitted.
++ *Admitted if judge decides enough evidence* raised by D (|Jewell| 2014).
+
+SUMMARY *S55 - Qualifying Triggers*
++3 *Fear of serious violence from V* against D or another identified person
++4 *Things done _or_ said* of -- 
+++ *Extremely grave character*
+++ *Gave D justifiable sense* of being *seriously wronged* ('sense' not 'fear'; 'wronged' not 'injured')
++ (or both.)
++ *But not if D incited trigger* as excuse to inflict violence.
+++3 *Sexual infidelity cannot be a trigger* as a thing done or said (|Clinton| 2012, but it may be _part of the circs_ -- S54(1)(c))
+
+SUMMARY *Cases*
+@Admissability 
+@@Planning militates against admission of loss of control (|Jewell| 2014).
+@@Not to be left to jury if mere speculation (|Barnsdale-Quean|).
+@@Rigorous evaluation of evidence *on all three limbs of test* before jury troubled with it (|Gurpinar and Kojo-Smith|).
+@Circumstances
+@@Alcoholism is _not_, unless acts/words constituting trigger directly relevant (|Asmelash|).
+@@Sexual infidelity _may_ be part of the circs for S54(1)(c), even if cannot  be the trigger under S55(6)(c)  (|Clinton|, CA).
+@@... but not if it's _revenge_ (|Dawes|).
+@Qualifying Triggers
+@@No qualifying trigger in having to deal with your old man's Alzheimer's (|Zebedee| 2012), even if you "were abused" as a child.
+
+
+
+
+NAME Diminished Responsibility - S2 Homicide Act 1957
+AKA S2 Homicide Act 1957
+CATEGORY Murder; Defences
+FLAGS Old Law
+SUMMARY The idea began with the _M'Naghton Rules_, which reduced |murder| to |manslaughter| if D sufficiently bonkers in the head.
+SUMMARY *Note well* -- current text of S2 is the |S52 CJA| amendment. 
+SUMMARY *S2 as Enacted*
+/'Where a person kills or is a party to the killing of another, he shall not be convicted of murder if he was suffering from such *abnormality of mind* (whether arising from a condition of _arrested or retarded development_ of mind or any *inherent causes or _induced by_ disease or injury*) as substantially impaired his mental responsibility for his acts and omissions in doing or being a party to the killing.'
+
+SUMMARY *Cases*
+@Pleading irresistible perverted desires (to stab to death then mutilate) meant the jury had to be directed on _abnormality of mind_ -- manslaughter substituted (|Byrne|)
+@If D is a depressed alcoholic, what's important is the depression, not the alcoholism (|Deechman|)
+
+SUMMARY *Alcoholism as Abnormality of Mind*
+/To operate as a defence: 
+@Had to have reached a point where 
+++*Brain disease* causing* gross impairment* of judgment, and --
+++*First drink* of day *not voluntary*. 
+/(|Tandy| 1998).
+@... unless there was _Alcohol Dependancy Syndrome_, in which case first drink did _not_ have to be voluntary (|Wood| 2008).
+@*Premeditation negated* admissibility of abnormality (|Tulloch| 2000).
+
+
+NAME Diminished Responsibility - S52 CJA
+AKA S52 CJA 2007
+AKA Diminished Responsibility
+CATEGORY Murder; Defences
+LINK Tony Story article http://login.westlaw.co.uk/maf/wluk/app/document?&srguid=i0ad8289e00000154e90f70dceaa3bafe&docguid=I924846C0538A11E4BB54BBDF124D1E62&hitguid=I924846C0538A11E4BB54BBDF124D1E62&rank=1&spos=1&epos=1&td=553&crumb-action=append&context=76&resolvein=true
+FLAGS Current Law
+SUMMARY *Note well* -- this amended |S2 Homicide Act 1957| -- therefore is to be found on *p. 28* of Blackstone's _Criminal Law 2015-16_.
+SUMMARY Diminished responsibility now requires -- 
++An *abnormality of mental functioning* (cf. 'abnormality of mind' from 1957 Act)
+++from an *recognised medical condition* (see &g&DSM manuals&g&, &g&ICD brain conditions&g&) -- (|Dowds|)
+++which *substantially impairs* ability 
+/*(1A)* either to 
++++*understand nature of conduct* (|Golds|), or to 
++++*form rational judgment*, or to
++++*exercise *self-control.*
+++*The abnormality explains the conduct.*
+SUMMARY *Academic Reception*
+@Law Commission had wanted a _lack of developmental maturity_, but no parliamentary appetite. 
+@MacKay, $!writing$$Crim LR 2010 4 290-302!$ in Crim LR:
+++V. disappointing, esp. absence of _lack of developmental maturity_.
+++Inferior to _benevolent conspiracy_ that worked well in the past.
+++Does nothing about |mercy killing|.
+
+SUMMARY *Cases*
+@In |Dowds| --
+@@Intermittent alcoholism will not establish the defence,
+@@circumstances for which are fundamentally a matter of _public policy_.
+@Unnecessary to be _sole cause_; must be _more than trivial_ and make a _real or appreciable difference_ (|Golds|).
+@The CA reserves the right to substitute manslaughter when a jury ignores _uncontested_ medical evidence introduced by D.
+
+
+
+
+
+
+

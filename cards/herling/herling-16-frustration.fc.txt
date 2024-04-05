@@ -1,0 +1,329 @@
+META filename herling-16-frustration.fc.txt
+
+
+
+
+NAME Frustration - Introduction
+TYPE Concept
+CATEGORY Frustration
+SUMMARY ~*Introduction*~
+/->-There is a good deal of interest within the law of frustration, but the doctrine itself is of minor importance to most areas of contract law – arguably with the exception of shipping. If a contract is frustrated, then in a sense it has failed. Most contracts do not fail. If circumstances change during their performance, contracts will very often be found adequately to have allocated the risk of the consequences to one or the other party.
+/->-The effect of frustration is to terminate a contract which was capable of performance at the time it was made, but has since been overtaken by the impossibility, or the effective impossibility, of performance. 
+/->-Frustration therefore resembles the last topic, common mistake. The difference is that common mistake is operative at the time the contract is concluded, whereas frustration occurs later, before or during the period for performance.
+/->-The comparison between common mistake and frustration is of some further value. The peculiarity of common mistake is that only a mistake so fundamental as to be somewhat difficult of definition will render the contract void (see <i>Bell v Lever Brothers</i>). This is mirrored by the reluctance of courts to find frustration in most circumstances.
+/->-Various reasons for this reluctance are worth noting. The first is that contractual liability is normally strict; the failure to perform a contract is a breach for which damages must be paid, irrespective of an absence of fault. Frustration can be seen as an anomalous deviation from this principle (and as the first case shows, the law once applied the principle itself). A second reason is that frustration has historically been a singularly blunt instrument, enabling one party to walk away from a loss which is borne in its entirety by the other. This situation has been mitigated by the Law Reform (Frustrated Contracts) Act 1943.
+/->-A third reason is that from one perspective frustration could be judged theoretically impossible. In a sense, each and every contract pre-allocates every conceivable risk. In so far as it is silent about where the risk is placed, it can be seen to be impliedly providing that the loss should lie where in fact it falls. If the parties had wished otherwise, no doubt they would have agreed a provision to alter the default outcome. Where a risk has been foreseen by the parties even though it has not been expressly allocated, this view is thought by most (but not Lord *Denning*) to be all but inescapable.
+/->-Given these impediments to a doctrine of frustration, it is quite surprising that the doctrine exists. Nevertheless it does, and it occasionally assumes considerable importance when numerous commercial contracts are gravely disrupted by war (and in particular by the closure of international waterways). The cases which result from such events show how closely English courts and arbitrators will adapt the law to the realities of commercial activity.
+FLAGS Denning
+
+
+
+
+NAME The rationale for frustration
+TYPE Concept
+CATEGORY Frustration
+SUMMARY ~*The rationale for frustration*~
+/->-The following memorable case invariably heads the line of decisions which have shaped the doctrine of frustration. It illustrates the law's original position, before the doctrine began to develop. Frustration, quite simply, was not an available excuse for non-performance of a contractual duty, whatever the circumstances.
+
+
+
+
+NAME Paradine v Jane
+CITATION Paradine v Jane (1647) Aleyn 26
+CATEGORY Frustration; Introduction; Rationale For Frustration
+SUMMARY ~*Overview*~
+/->-The defendant was sued for failure to pay rent due under the lease of a farm. His answer was that he had been expelled from his land by Prince Rupert of the Rhine, head of the Royalist armies, so that he was unable to profit from it.
+/->-The court held that his plea was insufficient. Where a duty was assumed by contract, it was to be performed notwithstanding “any accident by inevitable necessity”. The opportunity to take account of such risks had been there for both parties at the time they negotiated their contract. The court remarked obiter that even if the land were surrounded (ie. cut off), or gained by the sea or made barren by wildfire, yet the lessor was entitled to his rent. It would be otherwise where a duty was created not by private agreement but by general law. In that case, impossibility of performance without fault would function as an excuse. There would have been no opportunity to bargain for protection to accompany the duty.
+/->-The next is a leading case, because it is normally taken to have introduced an express doctrine of frustration into English law. The conceptual basis given for it, however, is no longer favoured. 
+
+
+
+
+NAME Taylor v Caldwell
+CITATION Taylor v Caldwell (1863) 3 B & S 826
+CATEGORY Frustration; Introduction; Rationale For Frustration
+SUMMARY ~*Overview*~
+/->-The parties had agreed that the defendants were to have the use of the plaintiffs' property, the Surrey Gardens and Music Hall, on four dates in summer for the purpose of giving a series of grand concerts and fetes. After the agreement was made, but before the time came for performance, the Music Hall was destroyed by a fire for which neither party was to blame. 
+/->-Blackburn J examined the civil (Roman) law, and found traces of its approach in English authorities as well. The contract had been made on the footing that what was necessary for its performance would continue to exist. Since the subject matter had perished, the parties were discharged from their respective duties.
+SUMMARY ~*Detail*~
+/->-“...[W]here, from the nature of the contract, it appears that the parties must from the beginning have known that it could not be fulfilled unless when the time came for the fulfilment of the contract some particular specified thing continued to exist, so that, when entering into the contract they must have contemplated such continuing existence as the foundation of what was to be done; there, in the absence of any express or implied warranty that the thing shall exist, the contract is not to be construed as a positive contract, but as subject to an implied condition that the parties shall be excused in case, before breach, performance becomes impossible from the perishing of the thing without default of the contractor”.
+
+
+
+
+NAME Davis Contractors Ltd v Fareham Urban District Council
+CITATION Davis Contractors Ltd v Fareham Urban District Council [1956] AC 696
+CATEGORY Frustration; Introduction; Rationale For Frustration
+SUMMARY ~*Overview*~
+/->-Contractors undertook to build 78 houses for the council at a fixed price. Because of a shortage of skilled labour, the work took considerably longer and cost the contractors more than had been expected. They claimed that a pre-contractual statement had been incorporated which made the contract subject to adequate labour and materials being available; that the unavailability discharged the contract; and that they were therefore entitled to recover a sum larger than the agreed price by way of quantum meruit action.
+/->-The House of Lords held that the statement had not been incorporated, and that the contract had not been frustrated. The possibility of inadequate supplies of labour had been to some extent foreseen, and the risk lay with the contractors. They were in an unfortunate predicament, but it would be a wrong use of the doctrine of frustration to rescue them from it.
+SUMMARY ~*Detail*~
+/->-Lord Radcliffe took the opportunity to re-examine the conceptual basis of frustration, and criticised the “implied term” theory as hopelessly artificial:
+/->-“Lord Loreburn [in <i>Tamplin Steamship Co v Anglo-Mexican Petroleum</i> [1916] 2 AC 397] ascribes the dissolution to an implied term of the contract.... This approach is in line with the tendency of English courts to refer all consequences of a contract to the will of those who made it. But there is something of a logical difficulty in seeing how the parties could even impliedly have provided for something which <i>ex hypothesi</i> they neither expected nor foresaw; and the ascription of frustration to an implied term of the contract has been criticised as obscuring the true action of the court <b>which consists in applying an objective rule of the law of contract to the contractual obligations that the parties have imposed upon themselves </b>[emphasis added]. So long as each theory produces the same result as the other, as normally it does, it matters little which theory is avowed.... But it may still be of some importance to recall that, if the matter is to be approached by way of implied term, the solution of any particular case is not to be found by inquiring what the parties themselves would have agreed on had they been, as they were not, forewarned. It is not merely that no one can answer that hypothetical question: it is also that the decision must be given “irrespective of the individuals concerned, their temperaments and failings, their interest and circumstances (<i>Hirji Mulji v Cheong Yue Steamship Co Ltd</i> (1926)). The legal effect of frustration “does not depend on their intention or their opinions, or even knowledge, as to the event”.
+/->-By this time it might seem that the parties themselves have become so far disembodied spirits that their actual persons should be allowed to rest in peace. In their place there arises the figure of the fair and reasonable man. And the spokesman of the fair and reasonable man, who represents after all no more than the anthropomorphic conception of justice, is and must be the court itself. So perhaps it would be simpler to say at the outset that frustration occurs wherever the law recognises that without default of either party a contractual obligation has become incapable of being performed because the circumstances in which performance is called for would render it a thing radically different from that which was undertaken by the contract. <i>Non haec in foedera veni</i>. It was not this that I promised to do”. 
+/->-Lord Radcliffe's understanding of the foundation of frustration was fully considered and approved by the House of Lords in the next case, which also stands as authority affirming the once doubted proposition that a lease could in theory be frustrated.
+
+
+
+
+NAME National Carriers Ltd v Panalpina (Northern) Ltd
+CITATION National Carriers Ltd v Panalpina (Northern) Ltd [1981] AC 675
+CATEGORY Frustration; Introduction; Rationale For Frustration
+SUMMARY ~*Overview*~
+/->-The appellants had leased a warehouse from the respondents for a term of 10 years. After 5 years, the local authority closed the only means of access to the warehouse because of the dangerous state of a listed building. It seemed likely that the closure would continue for more than 18 months, because work to the listed building required ministerial consent. The appellants claimed that the lease had been frustrated, and therefore stopped paying rent.
+/->-The House of Lords held unanimously that on these facts the lease was not frustrated, but by a majority that frustration of a lease was possible in rare circumstances. This had traditionally been doubted because a lease is an interest in land, which endures notwithstanding events which in fact deprive the lessee of the land's practical usefulness. The majority of their lordships were of the view that a rigid distinction between leases on the one hand and all other types of contract on the other would lead to anomalies. On the facts, however, an interruption of some two years to a contract which was to last for 10 was not sufficient to constitute frustration.
+/->-Lord Russell, dissenting, was of opinion that short of the physical destruction of land, for instance through coastal erosion, a lease could not be frustrated. The bargain between the parties had passed the land and all its disadvantages and advantages to the lessee for the term of the lease. To pass such land back to the lessor, if it should become useless, was not a just solution. 
+
+
+
+
+NAME The circumstances of frustration
+TYPE Concept
+CATEGORY Frustration
+SUMMARY ~*The circumstances of frustration*~
+/->-Frustration is likely to be present where performance of the contract has become literally impossible or illegal. Its subject matter may be destroyed (as in <i>Taylor v Caldwell</i>); the party who is to render the contractual performance may die or become incapacitated; performance of the contract may be rendered illegal (for example where it would amount to trading with the enemy in wartime).
+/->-However, these situations can easily shade into others in which similar difficulties do not literally rule out performance, but rather make it more difficult. The fact that the contract has become more inconvenient or expensive or even very much more expensive for one party to perform does not normally amount to its frustration. Rather, it has become a bad bargain, though still a valid one. The policy of the law obviously is to uphold bargains irrespective of whether they are good or bad.
+
+
+
+
+NAME Blackburn Bobbin Co Ltd v T W Allen & Sons Ltd
+CITATION Blackburn Bobbin Co Ltd v T W Allen & Sons Ltd [1918] 2 KB 467
+CATEGORY Frustration; Introduction; Circumstances of Frustration
+SUMMARY ~*Overview*~
+/->-The defendants, timber merchants, contracted with the plaintiffs to deliver to them a quantity of Finnish birch timber “free on rail at Hull”. Before any deliveries could be made under the contract, the outbreak of the Great War made it impossible to ship timber from Finland because of the presence of German warships in the Baltic. The defendants claimed that the contract was frustrated, and the plaintiffs sued for damages for non-delivery.
+/->-The Court of Appeal held that the means by which the defendants were to obtain the timber was a matter wholly immaterial to the plaintiffs. For the interruption to supplies to be a frustrating event, the normal procedures for shipping timber from Finland would have had to be in the contemplation of both parties as necessary for the fulfilment of the contract.
+
+
+
+
+NAME Frustration of common purpose
+TYPE Concept
+CATEGORY Frustration
+SUMMARY ~*Frustration of common purpose*~
+/->-Beyond the clear cases in which performance of the contract has become literally impossible or illegal, and those in which the contract has merely become a bad bargain, there exists an interesting class of case in which it can be contended that the underlying <b>purpose </b>of the contract has been destroyed. These cases will be the main focus of the central part of this lecture.
+/->-The problem here is akin to the one which centres on Lord *Atkin*'s example in <i>Bell v Lever Brothers</i> of the painting believed to be by an old master, in fact valueless but a painting nonetheless. Is an equally reductive or unilateral a view taken of what the subject matter or purpose of the contract actually was? Changed circumstances are not likely to affect both parties equally, since one may very well have a relatively active and the other a relatively passive role within the contract. How far may the passive one maintain that his interest (eg. to continue to receive hire for a vessel) is unaffected by the change, even though the other protests that his commercial adventure has been altered out of all recognition and its purpose destroyed?
+FLAGS Atkin
+
+
+
+
+NAME Bank Line Ltd v Arthur Capel & Co
+CITATION Bank Line Ltd v Arthur Capel & Co [1919] AC 435
+CATEGORY Frustration; Introduction; Frustration of Common Purpose
+SUMMARY ~*Overview *~
+/->-A ship was to be chartered for 12 months from April 1915 to April 1916. In fact the vessel was requisitioned and not released until September 1915. The charterer brought an action for non-delivery.
+/->-The House of Lords held that the charterparty had been frustrated. The difference between a charter from April to April, and one from September to September (as this would now be) was said to be fundamental in business terms. It seems that freight rates had risen in the interim, so that the owner would have been prejudiced by being held to the original contract.
+SUMMARY ~*Discussion*~
+/->-Can this case be distinguished from <i>Blackburn Bobbin</i>? It seems necessary to conclude that there a single adventure was in issue, whether viewed before or after the change in circumstances (a sale of timber). Here, the House of Lords proceeded to compare two different adventures, separated in time. The ship was the same, and the use which the charterer wished to make of it was presumably unchanged. However, in the prevailing circumstances its charter was now a wholly different business proposition from the one which the parties originally transacted. The distinction is not completely convincing, and it is hard to escape the conclusion that courts may take a more tender view of certain types of dealing (those about which the law has most to say, such as hirings of ships) than they do of others.
+/->-There is another feature of <i>Bank Line v Arthur Capel</i> which is important but not very often noticed. The case includes a principled boundary to the reductive argument that a passive contracting party is not concerned with difficulties encountered by his active counterpart. The case included an airing of the argument (once thought correct) that delay will not frustrate a time charter because while the charterer's interest may be affected, the shipowner is interested only in receiving hire for the vessel. The House of Lords preferred the view that the “common object” of such a contract – and presumably other types of contract as well – is to be found in the exchange of services for payment. If an interruption makes it impossible for the ship to provide the contemplated services, that is deemed to affect the interests of both parties. 
+/->-It is surprising that this principle is not better known. Possibly it has been obscured or even put in some doubt by a series of cases in which its application leads to seemingly inconsistent conclusions. The two best known from this line of cases are given below. In common with several others, they arose from the postponement of the coronation of King Edward VII when the king suffered a bout of appendicitis. 
+
+
+
+
+NAME Krell v Henry
+CITATION Krell v Henry [1903] 2 KB 740
+CATEGORY Frustration; Introduction; Frustration of Common Purpose
+SUMMARY ~*Overview*~
+/->-The defendant replied to a newspaper advertisement stating that rooms to view the coronation processions were for hire in the plaintiff's flat at 56a Pall Mall. He spoke to the housekeeper at the premises, who pointed out to him how good the view was. A contract for the hire of the rooms on 26 and 27 June was then concluded in writing. It did not mention the processions. The defendant paid £25 in advance, and agreed to pay £50 on 24 June. When the processions were postponed, the plaintiff sued for £50 and the defendant counterclaimed for the return of the £25 (a claim later withdrawn).
+/->-Vaughan Williams LJ in the Court of Appeal held that the contract was frustrated. It was to be interpreted as a licence to use the rooms for a specific purpose. The coronation procession and the relative position of the rooms were the basis of the contract, both for the lessor and the hirer.
+SUMMARY ~*Detail*~
+/->-An example in the judgment of Vaughan Williams LJ has given rise to debate, but is seems defensible:
+/->-“It was suggested ... that if a cabman was engaged to take someone to Epsom on Derby Day at a suitable enhanced price for such a journey, say £10, both parties to the contract would be discharged in the contingency of the race at Epsom for some reason becoming impossible; but I do not think this follows, for I do not think that in the cab case the happening of the race would be the foundation of the contract. No doubt the purpose of the engager would be to go to see the Derby, and the price would be proportionately high; but the cab had no special qualifications for the purpose which led to the selection of the cab for this particular occasion. Any other cab would have done as well. Moreover, I think that, under the cab contract, the hirer, even if the race went off, could have said, “Drive me to Epsom; I will pay you the agreed sum; you have nothing to do with the purpose for which I hired the cab,” and that if the cabman refused he would have been guilty of a breach of contract, there being nothing to qualify his promise to drive the hirer to Epsom on a particular day. Whereas in the case of the coronation, there is not merely the purpose of the hirer to see the coronation procession, but it is the coronation procession and the relative position of the rooms which is the basis of the contract as much for the lessor as the hirer; and I think that if the King, before the coronation day and after the contract, had died, the hirer could not have insisted on having the rooms on the days named”.
+SUMMARY ~*A closer look*~
+/->-_It is possible to doubt this decision by arguing reductively against the “common purpose” doctrine most clearly stated in Bank Line v Arthur Capel. In what sense must the provision of facilities to view the processions be taken to be the lessor's purpose as well as that of the hirer? Vaughan Williams LJ emphasises that it is, but nowhere in his judgment is this conclusively shown. How is it possible to ascribe anything more to the lessor than the purpose of getting paid, quite irrespective of the hirer's motive for contracting to pay?_
+/->-_An answer to this can be based on the distinction between the facts and Vaughan Williams LJ's example of the cab to Epsom. There was only one conceivable reason for which 56a Pall Mall was being made available. In the contrasting cab case, there could be many reasons apart from watching the Derby for which the hirer might have wished to go to Epsom. Where there may be a multiplicity of (unexpressed) reasons for one side's decision to enter the contract, it would seem arbitrary to identify any one of them as necessarily the shared purpose of the parties. Where, on the other hand, the contract has only one objective beyond its propensity to earn one party a profit, it seems more difficult to isolate that party from the other's sole objective. Nevertheless, this is ultimately a matter of policy, which is why the clear statement of the law's policy in Bank Line v Arthur Capel is so helpful._
+
+
+
+
+NAME Herne Bay Steam Boat Co v Hutton
+CITATION Herne Bay Steam Boat Co v Hutton [1903] 2 KB 683
+CATEGORY Frustration; Introduction; Frustration of Common Purpose
+SUMMARY ~*Overview*~
+/->-The defendant chartered a steamboat, the <i>Cynthia</i>, for two days “for the purpose of viewing the naval review and for a day's cruise around the fleet” as the contract specified. His intention was to take passengers on board for payment. A deposit of £50 was paid, with another £200 to be payable before sailing. The review was cancelled in consequence of the king's illness, but the fleet remained anchored off Spithead on the two days in question. When the cancellation was announced, the plaintiff wired to the defendant “What about Cynthia? She ready to start six tomorrow”, but received no reply. The plaintiff sued for £200. 
+/->-The Court of Appeal held that the contract was not frustrated and that the plaintiff was entitled to that sum less profits made on substituted sailings on the two days. There was no particular connection between the <i>Cynthia</i> and the purpose of the contract; other ships would have done as well. Vaughan Williams LJ therefore regarded this case as covered by his cab to Epsom example.
+SUMMARY ~*Discussion*~
+/->-It has been pointed out that these cases cannot reliably be distinguished on the presence or absence of unique qualities fitting the contact's subject matter to the achievement of the contract's purpose; there may have been as many suitable rooms with views along the route of the coronation processions as there were suitable ships in the vicinity of Spithead. The key to justifying the contrasting decisions in these cases (and in the cab example) is surely multiplicity of contractual purposes. There was every reason to pay to cruise around the fleet at anchor even without the naval review, as contemporary commentators attest, just as there may have been many reasons to hire a cab to Epsom despite the cancellation of the Derby. There could only, realistically, have been one reason for a 48 hour hiring of the rooms at 56a Pall Mall.
+
+
+
+
+NAME Self-induced frustration
+TYPE Concept
+CATEGORY Frustration
+SUMMARY ~*Self-induced frustration*~
+/->-A fundamental bar to a plea of frustration is the responsibility of the party claiming it for the purportedly frustrating event. Frustration releases contracting parties from their obligations; on any view this is an exceptional and rarely granted release, and where it is claimed by a party who is to blame for the supervening event, the plea fails as a matter of policy. The same tends to be true where non-performance is not due to fault but to a commercial decision about which of several incompatible contracts to abandon. 
+/->-Questions have arisen over issues including (a) what counts as responsibility for the event which puts it out of one party's power to perform; and (b) the degree of responsibility which the law will regard as rendering frustration unavailable. 
+
+
+
+NAME The Super Servant Two
+CITATION J. Lauritzen AS v Wijsmuller BV, The Super Servant Two [1990] 1 Lloyds Rep 1
+CATEGORY Frustration
+SUMMARY ~*Overview*~
+/->-A drilling rig had been built in Japan for the plaintiffs. They contracted with the defendants to transport it to Rotterdam. The defendants had two vessels capable of carrying out this contract – the <i>Super Servant One</i> and the <i>Super Servant Two</i>. The defendants decided to use the <i>Super Servant Two</i> for the contract, and the other vessel was booked for other contracts. Some months before the time for performance, the <i>Super Servant Two</i> was lost in the Zaire River. The defendants informed the plaintiffs that they were not able to carry out the contract, and the plaintiffs sued for the additional cost of transporting the drilling rig by a different contract.
+/->-The Court of Appeal held that the contract between the parties was not frustrated. If the contract had specifically provided for the <i>Super Servant Two</i> to be used, then it would have been frustrated by the sinking of that vessel. The contract had left the choice of vessel to the defendant. It was the defendant's decision to allocate the <i>Super Servant One</i> to other contracts which put it out of its power to perform. It even appeared that the defendant had entered into some of these contracts after the other vessel sank.
+SUMMARY ~*Detail*~
+/->-The argument for Wijsmuller, the defendant, was that the sinking of the <i>Super Servant Two</i> and its inability to perform the present contract formed a single succession of events not interrupted by its decision to allocate the <i>Super Servant One</i> elsewhere. This was based on the submission that its decision was a reasonable one in the circumstances, and therefore did not break a chain of causation beginning with the loss of the <i>Super Servant Two</i> and ending with the abandonment of the contract with the plaintiffs. On this view the sinking had automatically rendered the performance of at least one of Wijsmuller's contracts impossible. Wijsmuller placed reliance on Professor *Treitel*'s opinion that a force majeure clause would not be deprived of effect simply because the party seeking its protection acted reasonably in deciding which of its obligations it would honour and which abandon.
+/->-The Court of Appeal's response was to draw a distinction between consensual force majeure clauses and claims of frustration (the first arising from agreement, and the second from independent operation of law). The court regarded itself as bound by the decision of the Privy Council in <i>Maritime National Fish Ltd v Ocean Trawlers Ltd</i> [1935] AC 524 to hold that the interposition of human choice ousted frustration. 
+SUMMARY ~*A closer look*~
+/->-_Unsurprisingly this is a case on which Professor Treitel has strong views. He argues that Maritime National Fish was distinguishable, because there it would have been possible for the party claiming frustration to perform all his contracts, though at some disadvantage to his own interests. In the Super Servant Two, a contract was inevitably going to be unperformable. Treitel states his dislike of the rule that frustration, if it occurs at all, occurs automatically. He correctly points out that it is not applied in all cases, and considers it to have been wrongly extended in the Super Servant Two. He counters the reasoning that the risk of having too many contracts to perform is properly allocated to the party who here claims frustration; the same risk exists where only one contract is undertaken, and to regard this as disapplying frustration would be to strike at the very root of the defence. The actual decision in the Super Servant Two may have been influenced by indications that Wijsmuller astutely protected its own self-interest through its actions after the vessel was lost. Professor Treitel's answer to this is that a rule of law should apply to such situations; incompatible contracts should rank in the order in which they were entered, so that the first should be performed and the last deemed frustrated._
+/->-_Where self-inducement of frustration is raised, it is for the party making that allegation to prove it, as the next case shows._
+FLAGS Treitel
+
+
+
+
+NAME Joseph Constantine Steamship Line Ltd v Imperial Smelting Corporation Ltd
+CITATION Joseph Constantine Steamship Line Ltd v Imperial Smelting Corporation Ltd [1942] AC 154
+CATEGORY Frustration; Introduction; Self-Induced Frustration
+SUMMARY ~*Overview*~
+/->-An explosion seriously damaged a chartered steamship, putting an end to the commercial purpose of the charterparty. The charterers claimed damages from the shipowner. On the facts found by an arbitrator, the cause of the explosion was unclear. The Court of Appeal held that the shipowner was liable to pay damages since he could not prove that the explosion was not caused by his negligence (the frustration was therefore regarded as potentially self-induced).
+SUMMARY ~*Detail*~
+/->-Lord Simon considered what would follow if the judgment of the Court of Appeal were allowed to stand:
+/->-“...if this were correct there must be many cases in which, although in truth frustration is complete and unavoidable, the defendant will be held liable because of his inability to prove a negative – in some cases, indeed, a whole series of negatives. Suppose that a vessel while on the high seas disappears completely during a storm. Can it be that the defence of frustration of the adventure depends on the owner's ability to prove that all his servants on board were navigating the ship with adequate skill and that there was no “default” which brought about the catastrophe? Suppose that a vessel in convoy is torpedoed by the enemy and sinks immediately with all hands. Does the application of the doctrine require that the owners shall affirmatively prove that those on board were keeping a good look-out, were obscuring lights, were steering as directed, and so forth? There is no reported case which requires us so to hold. The doctrine on which the defence of frustration depends is nowhere so stated as to place this onus of proof on the party relying on it.
+/->-If the cargo owner wants to defeat [a plea of frustration] it is for him by rejoinder to allege and prove either negligence or unseaworthiness”.
+
+
+
+
+NAME The role of foresight
+TYPE Concept
+CATEGORY Frustration
+SUMMARY ~*The role of foresight*~
+/->-If a contract expressly allocates the risk of an event which would otherwise have such an impact as to frustrate the contract, there is no frustration – the contract clearly governs.
+/->-If the contract contains no such provision but the parties when making it did foresee the event in question, it is easy to infer that they meant the loss to lie where it has in fact fallen. If they meant otherwise, the contract would presumably say so.
+/->-In other words, it has normally been thought that the foresight or even foreseeability (deemed foresight) of an event prevents its occurrence from frustrating a contract. It justifies the inference that the parties have contracted with reference, as it were, to the event.
+/->-The principal spokesman for this view is Professor *Treitel*. He points out that there are many dicta which support it, but admits that there is no English case in which foresight was the sole ground for rejecting a plea of frustration (para 19-076). He goes on to qualify the principle, however, by requiring that the parties should have had actual foresight of the event, or that it should have been highly foreseeable, and foreseeable in some detail.
+FLAGS Treitel
+
+
+
+
+NAME Ocean Tramp Tankers Corporation v V/O Sovfracht, The Eugenia
+CITATION Ocean Tramp Tankers Corporation v V/O Sovfracht, The Eugenia [1964] 2 QB 226
+CATEGORY Frustration; Introduction; Role of Foresight
+SUMMARY ~*Overview*~
+/->-The <i>Eugenia</i> was chartered to carry iron and steel goods from the Russian Black Sea port of Odessa to India. This voyage would naturally take the ship through the Suez Canal. When the charterparty was negotiated, the parties were aware of a risk that the canal might be closed. They were unable to agree on a provision to meet the risk. The contract nevertheless contained a clause which forbade the charterers from taking the ship into a “dangerous zone” without the permission of the owner. The <i>Eugenia</i>, in breach of this clause, entered the Suez Canal and became trapped there when the canal was closed. The charterers claimed that the contract was frustrated, not because the ship was trapped (this was self-induced), but because even if she had remained outside the canal the contract would have been radically changed and consequently frustrated. The only sea route to India would now have lain round the Cape of Good Hope.
+/->-The Court of Appeal held that the necessity of proceeding round the Cape did not have such an impact on the contract as to frustrate it (other courts hearing cases on similar facts generally reached the same conclusion). The voyage was obviously longer and more expensive than the one contemplated, but the additional time it would take had to be judged against the overall duration of the sailing; seen in this context it was not so excessive as to produce frustration. The cargo was not perishable and the vessel (apart from the fact that she was actually trapped in the canal) would have been ready and able to proceed via the Cape.
+SUMMARY ~*Detail*~
+/->-“It has frequently been said that the doctrine of frustration only applies when the new situation is “unforeseen” or “unexpected” or “uncontemplated”, as if that were an essential feature. But it is not so. The only thing that is essential is that the parties should have made no provision for it in their contract. The only relevance of it being “unforeseen” is this: If the parties did not foresee anything of the kind happening, you can readily infer that they have made no provision for it: whereas if they did foresee it, you would expect them to make provision for it. But cases have occurred where the parties have foreseen the danger ahead, and yet made no provision for it in the contract. Such was the case in the Spanish Civil War when a ship was let on charter to the republican government. The purpose was to evacuate refugees. The parties foresaw that she might be seized by the nationalists. But they made no provision for it in their contract. Yet, when she was seized, the contract was frustrated, see <i>W.J.Tatem Ltd v Gamboa</i> [1939] 1 KB 132. So here the parties foresaw that the canal might become impassable: it was the very thing they feared. But they made no provision for it. So there is room for the doctrine to apply if it be a proper case for it”.
+SUMMARY ~*Discussion*~
+/->-*Treitel* counters that these remarks are obiter; that the same decision could have been reached on the basis that the canal closure did not have the high degree of foreseeability he requires; and that the charter should have been taken to allocate the risk since it was to be paid for by the time the voyage took.
+/->-However, Lord *Denning*'s view is characteristically attractive. It amounts to taking foresight into account as raising a presumption that the contract will be found to have allocated the risk. However, the presumption is rebuttable; the contract, when construed, may be found not to allocate the risk despite the foresight. By contrast, Treitel creates an irrebuttable presumption which he then attenuates. The two positions are not ultimately so very different, but Lord *Denning*'s seems the more straightforward.
+/->-Closure of the Suez Canal is now generally dealt with by an express clause in shipping contracts.
+FLAGS Treitel; Denning
+
+
+
+
+NAME The assessment of delay
+TYPE Concept
+CATEGORY Frustration
+SUMMARY ~*The assessment of delay*~
+/->-A problem frequently arising in the interruption of charterparties (the hiring of ships) is the assessment of a period of delay. If it is very great (“inordinate”), it clearly may produce frustration. Of course it is likely to be otherwise if it is comparatively short. Where one party asserts that the contract is frustrated and the other contests this, the nature of the interruption will almost certainly appear quite different by the time the case reaches trial from how it appeared to the parties at the time. One question is whether the law adopts the parties' contemporary assessment of the situation, or uses the benefit of hindsight. The answer is that the law is very closely aligned with the parties' contemporaneous perspective, as the following passage from the judgment of Lord Sumner in <i>Bank Line v Arthur Capel</i> shows.
+
+
+
+
+NAME Bank Line Ltd v Arthur Capel & Co.
+SUMMARY ~*Detail*~
+/->-“Bailhache J [in <i>Anglo-Northern Trading Co Ltd v Emlyn Jones & Williams</i> [1917] 2 KB 78 at 84] says that the main thing to be considered is the probable length of the total deprivation of the use of the chartered vessel compared with the unexpired duration of the charterparty, and I agree in the importance of this feature, though it may not be the main and certainly is not the only matter to be considered. The probabilities as to the length of the deprivation and not the certainty arrived at after the event are also material. The question must be considered at the trial as it had to be considered by the parties, when they came to know of the cause and the probabilities of the delay and had to decide what to do. On this the judgments in the above cases substantially agree. Rights ought not to be left in suspense or to hang on the chances of subsequent events. The contract binds or it does not bind, and the law ought to be that the parties can gather their fate then and there. What happens afterwards may assist in showing what the probabilities really were, if they had been reasonably forecasted, but when the causes of frustration have operated so long or under such circumstances as to raise a presumption of inordinate delay, the time has arrived at which the fate of the contract falls to be decided. The fate is dissolution or continuance and, if the charter ought to be held to be dissolved, it cannot be revived without a new contract. The parties are free”.
+SUMMARY ~*Discussion*~
+/->-This aspect of the assessment of frustration is a prime example of the way in which English law, at its best, strives to keep close to the way reasonable people in commerce actually react in real situations. It does not seek to trump their decisions made, inevitably, without the benefit of hindsight.
+/->-Nor does it force the making of decisions where there is so little information that it would be rash to reach a judgment. Various cases, such as <i>Pioneer Shipping Ltd v BTP Dioxide Ltd, The Nema</i> [1981] 2 All ER 1030 show that where a situation is too unclear to call, the courts will allow the parties to wait until a sensible commercial prognosis can be made before they decide for (or against) frustration. This contrasts with the impression which could very fairly be derived from the cases on self-inducement, where it seemed that frustration had to arise automatically and without the interposition of any choice. In cases of delay, that is simply not the attitude of the courts, since it would place the parties in an intolerable position. 
+/->-The next case is not a vital one as far as the law is concerned. It is dealt with here at length because it gives a particularly vivid insight into the way in which frustration is handled by the Commercial Court in what is perhaps the one setting where it sometimes features largely – the interruption of charterparties by war. 
+/->-It also gives an indication that many frustration “rules” within this area are actually deduced from the awards of arbitrators who, as Mustill J explains below, are not expected to explain their decisions in the same way as judges. The excerpts below can be read through quite quickly, because the point is not to pore over the dates but to appreciate (a) how grass-roots adjudication applies the concept of frustration, and (b) how commercial judges defer to the arbitrator's role.
+
+
+
+
+NAME Finelvet AG v Vinava Shipping Co Ltd, The Chrysalis
+CITATION Finelvet AG v Vinava Shipping Co Ltd, The Chrysalis [1983] 2 All ER 658
+CATEGORY Frustration; Introduction; Assessment of Delay
+SUMMARY ~*Overview*~
+/->-The charterers took delivery of the <i>Chrysalis</i> at Rotterdam on time charter terms, redelivery to be made on passing Muscat (a favoured drop-off point). The ship sailed to North America to load a cargo of grain, and then to the Iraqi port of Basrah at the head of the Shatt al-Arab waterway, docking there on 14 September 1980. On 22 September open war broke out between Iran and Iraq over control of the Shatt al-Arab. On 1 October the <i>Chrysalis</i> completed unloading and was ready to sail to Muscat, but the Shatt al-Arab was the focus of active conflict between the belligerents and was already blocked by sunken vessels. On 14 November the charterers purported to cancel the charterparty (in order to avoid paying any more hire for the ship). By 24 November it was the view of most informed people in shipping circles that the waterway would remain dangerous for several more months, if not longer. A dispute arose between the parties; the shipowners claimed that the charterparty was not frustrated until 24 November, while the charterers contended that the charterparty had in fact been automatically frustrated by the declaration of war between the belligerents on 22 September. The dispute was referred to arbitration, the arbitrator holding that the date of frustration was 24 November. In his view this was the point at which to continue to hold the parties to the contract would be to impose on them radically different obligations from those they had undertaken. The charterers appealed.
+/->-In the Commercial Court, Mustill J held that the arbitrator's award was not open to criticism. A declaration of war did not automatically frustrate affected contracts. Instead, there was a rebuttable legal presumption that a war would continue for an indefinite period. The arbitrator's choice of 24 November as the date on which frustration took place was within a permissible range, and it was not necessary for him to spell out the precise reasons for his choice. To hold otherwise would be to mistake the nature of an arbitrator's award.
+SUMMARY ~*Detail*~
+/->-Mustill J stated that he would quote from the arbitrator's award at length, rather than risk distorting it by compressing it:
+/->-10. “By the third week of October a number of the trapped vessels at Basrah had suffered physical damage from military action. The foreign crew members of them were being repatriated and arrangements were being made for substitute crew members to be placed on board. By then it had become widely felt that there would be no quick victory for either side. The prospects of a settlement also receded, both sides being apparently unyielding if not fanatical. Nevertheless, during the ensuing days and months attempts were made (notably by the U.N.Envoy, Mr Olaf Palme) to negotiate a cease-fire, or at all events the release of the several score foreign vessels trapped in the Shatt al-Arab. At first hopes of their release were quite high. On 14<sup>th</sup> October, 1980, it had been reported that Iran had expressed willingness to cooperate in freeing the ships. By 27<sup>th</sup> October, 1980 Iraq, for its part appears to have indicated that it would be willing to allow the vessels to leave if they did so under the auspices of the International Red Cross flag (it was not until the end of December that it emerged that the Red Cross were not at that stage willing to lend their support to this).
+/->-11. On 14<sup>th</sup> November, 1980 the charterers purported without prejudice to the question of frustration to cancel the charterparty under Clause 42. By 24<sup>th</sup> November, 1980, various peace bids had been rejected, and it became clear beyond reasonable doubt that the war would not end rapidly. On that date Mr Olaf Palme expressed the opinion that there would be no rapid end to the war. A struggle of indefinite duration now seemed inevitable. There remained, it is true, some possibility that without further inordinate delay the trapped vessels might, despite this, be allowed by the belligerents to depart if they could. They were still precluded from sailing by the Iraqi authorities on any conditions which the vessels were in a position to satisfy. In addition already by that date it had become necessary that the river be dredged and cleared of sunken craft before it could be safely navigated. Whether either side would be willing to undertake this at its own expense, or to allow the other to undertake it, and how long such operations would take, were all wholly uncertain. By 24<sup>th</sup> November 1980 it was the view of most informed people in shipping circles that the obstacles were such that vessels were unlikely to be able safely to leave for several more months at best, and probably much longer”.
+/->-Mustill J explained that the only basis on which the arbitrator's choice of 24 November could be challenged was if it was wrong in law (a supervisory jurisdiction). He went on to consider other cases which had arisen out of the same conflict:
+/->-“This is not the only Shatt al-Arab dispute in which an arbitrator's award has been before the court.
+/->-The Evia</i> ... concerned a time charter for a period of 18 months, two months more or less. By the beginning of October 1980 it had between six and ten months left to run, depending on how the option would have been exercised. The vessel had completed discharge on 22 November 1980. The arbitrator held that the charter was frustrated on 4 October. The House of Lords declined to intervene.
+/->-In <i>International Sea Traders Inc v Hemisphere Shipping Co Ltd, The Wenjiang</i> ... the charterparty was for 12 months, one month more or less, and had four to six months left of the charter period to run at the beginning of October 1980. The arbitrator held that the contract was frustrated on 24 November. An appeal against this decision was dismissed by *Bingham J*.
+/->-Finally, in <i>Uni-Ocean Lines Pte Ltd v C-Trade SA, The Lucille</i> ... the arbitrators held that the charter was frustrated on 9 December. The contract was a time charter, which had been running since 14 July 1980. It is not clear how long the charter was to continue.... Discharge was completed on 23 October. The charterers sought leave to appeal against the award, on the ground that 24 November [sic: read 9 December?] was too late, and that 23 October was the right date. Parker J declined to grant leave”.
+/->-Towards the end of his judgment, Mustill J dealt firmly with a subsidiary objection made by the charterers to the arbitral award:
+/->-“The second general question relates to the submission made by counsel for the charterers that the award is open to objection because the arbitrator has not given reasons for what he (the arbitrator) described as his visceral reaction. I cannot accept this at all.... [T]he argument is, in my view, misconceived. The whole point of the judgmental task performed at the third stage of the arbitrator's process of thought [his making of a decision in light of the ascertained facts and law] is that it does not and indeed cannot involve detailed ratiocination and the very reason why the parties choose arbitration is that they prefer the “hunch” or “feel” or call it what one will of the arbitrator to that of the court. To force the arbitrator to give reasons for a conclusion which in truth is not reasoned would merely create opportunities for an exercise in spurious logic. The court does, I have said, retain a supervisory control, so as to make sure that the arbitrator's reaction to the problem is not based on a false premise of law. Beyond this it must not go”.
+FLAGS Bingham
+
+
+
+
+NAME The effects of frustration
+TYPE Concept
+CATEGORY Frustration
+SUMMARY ~*The effects of frustration*~
+/->-Frustration, if found, terminates the contract. However, prior to the passing of the Law Reform (Frustrated Contracts) Act 1943 this was capable of creating new problems to replace the ones to which termination gave the answer. Since termination, unlike, rescission, is not retroactive, everything done pursuant to the contract up until its discharge is unaffected. Where one party has made a payment to the other prior to discharge, it was difficult to argue that anything could be done to get the money back even though this state of affairs might seem entirely unjust.
+/->-The problem, and the partial solution developed to it by the common law, are now of historical interest since the 1943 Act imposes a scheme of solutions.
+
+
+
+
+NAME Chandler v Webster
+CITATION Chandler v Webster [1904] 1 KB 493
+CATEGORY Frustration; Introduction; Effects of Frustration
+SUMMARY ~*Overview*~
+/->-This was another Coronation Case, with facts very similar to those of <i>Krell v Henry</i> (above). Here, the contract for the hire of a room to view the procession made the fee of £141 15s payable immediately. The hirer had paid £100 on account. When the procession was cancelled, the hirer sued to recover the £100 as on a total failure of consideration. The defendant counterclaimed for £41 15s. 
+/->-The Court of Appeal held that the claim failed and the counterclaim succeeded. Everything done pursuant to a contract up to the time of its discharge by frustration was to be treated as “rightly done”. Here, the contract had required the hirer to pay before the date of the procession. It had therefore passed to him the risk that the procession might not take place and that he would have spent his money to no good. A claim for recovery on the basis of total failure of consideration could have been maintained if the contract were found to be void ab initio. However, frustration merely released the parties from the obligations of future performance. 
+SUMMARY ~*A closer look*~
+/->-_The reasoning which would be taken at the time to justify this harsh decision – in so far as it can be justified – is this. There is no total failure of consideration on these facts. In return for payment, the hirer did obtain something. He obtained the benefit of the other's promise that he would have the use of the room (if the procession went ahead). The fact is that he made a thoroughly unwise bargain, but that is no reason to deprive the more prudent party of his contractual due._
+
+
+
+
+NAME Fibrosa SA v Fairbairn Lawson Combe Barbour Ltd
+CITATION Fibrosa SA v Fairbairn Lawson Combe Barbour Ltd [1943] AC 32
+CATEGORY Frustration; Introduction; Effects of Frustration
+SUMMARY ~*Overview*~
+/->-An English engineering company agreed in July 1939 to manufacture certain machinery and to sell and deliver it to a Polish company within three or four months at Gdynia. One third of the contract price was payable in advance (in fact £1000, somewhat less than a third, was actually paid). On 3 September Britain declared war on Germany, and on 23 September Gdynia was occupied by the German Army. The contract was therefore frustrated. The London agent of the Polish company requested repayment of the £1000. The English company refused on the basis that considerable work had already been done. The High Court and the Court of Appeal held in favour of the English company, applying <i>Chandler v Webster</i>.
+/->-The House of Lords allowed the Polish company's appeal, and overruled <i>Chandler v Webster</i>. In the opinion of Lord Simon, a distinction was to be drawn between what could constitute consideration with regard to contract formation, and what constituted it in the law of total failure of consideration (this distinction has since been doubted). The mere promise of consideration was viewed as consideration in the first context, but should not be so regarded in the second context. Furthermore, to allow a restitutionary claim for total failure of consideration was possible whilst preserving the principle that everything done up to the moment of frustration was rightly done and not to be unsettled. It was not an action which purported to be based on the contract, but an action outside the contract.
+
+
+
+
+NAME The Law Reform (Frustrated Contracts) Act 1943
+TYPE Concept
+CATEGORY Frustration
+SUMMARY ~*The Law Reform (Frustrated Contracts) Act 1943*~
+/->-For the purposes of the GDL year it is not necessary to know the workings of the Act in detail, or the limited but highly complex caselaw on it. 
+/->-The main points which should be noted are that (a) the Act goes beyond <i>Fibrosa v Fairbairn</i> in so far as it allows the recovery of a sum paid before frustration even though there has admittedly been no total failure of consideration; and (b) it allows a party who has done work to the other's benefit before frustration without any accrued right to payment nevertheless to claim compensation from the other.
+/->-The Act does not alter the circumstances in which frustration will or will not be found by a court.
+
+
+
+
+NAME Law Reform (Frustrated Contracts) Act 1943
+TYPE Concept
+CATEGORY Frustration; Introduction; Law Reform (Frustrated Contracts) Act 1943
+SUMMARY ~*Law Reform (Frustrated Contracts) Act 1943*~
+/->-1 Adjustment of rights and liabilities of parties to frustrated contracts.<b>E+W+S+N.I.</b
+/->-(1) Where a contract governed by English law has become impossible of performance or been otherwise frustrated, and the parties thereto have for that reason been discharged from the further performance of the contract, the following provisions of this section shall, subject to the provisions of section two of this Act, have effect in relation thereto.
+/->-(2) All sums paid or payable to any party in pursuance of the contract before the time when the parties were so discharged (in this Act referred to as “the time of discharge”) shall, in the case of sums so paid, be recoverable from him as money received by him for the use of the party by whom the sums were paid, and, in the case of sums so payable, cease to be so payable:
+/->-Provided that, if the party to whom the sums were so paid or payable incurred expenses before the time of discharge in, or for the purpose of, the performance of the contract, the court may, if it considers it just to do so having regard to all the circumstances of the case, allow him to retain or, as the case may be, recover the whole or any part of the sums so paid or payable, not being an amount in excess of the expenses so incurred.
+/->-(3) Where any party to the contract has, by reason of anything done by any other party thereto in, or for the purpose of, the performance of the contract, obtained a valuable benefit (other than a payment of money to which the last foregoing subsection applies) before the time of discharge, there shall be recoverable from him by the said other party such sum (if any), not exceeding the value of the said benefit to the party obtaining it, as the court considers just, having regard to all the circumstances of the case and, in particular,—
+/->-(a) the amount of any expenses incurred before the time of discharge by the benefited party in, or for the purpose of, the performance of the contract, including any sums paid or payable by him to any other party in pursuance of the contract and retained or recoverable by that party under the last foregoing subsection, and
+/->-(b) the effect, in relation to the said benefit, of the circumstances giving rise to the frustration of the contract.
+/->-(4) In estimating, for the purposes of the foregoing provisions of this section, the amount of any expenses incurred by any party to the contract, the court may, without prejudice to the generality of the said provisions, include such sum as appears to be reasonable in respect of overhead expenses and in respect of any work or services performed personally by the said party.
+/->-(5) In considering whether any sum ought to be recovered or retained under the foregoing provisions of this section by any party to the contract, the court shall not take into account any sums which have, by reason of the circumstances giving rise to the frustration of the contract, become payable to that party under any contract of insurance unless there was an obligation to insure imposed by an express term of the frustrated contract or by or under any enactment.
+/->-(6) Where any person has assumed obligations under the contract in consideration of the conferring of a benefit by any other party to the contract upon any other person, whether a party to the contract or not, the court may, if in all the circumstances of the case it considers it just to do so, treat for the purposes of subsection (3) of this section any benefit so conferred as a benefit obtained by the person who has assumed the obligations as aforesaid.
+/->-(1) This Act shall apply to contracts, whether made before or after the commencement of this Act, as respects which the time of discharge is on or after the first day of July, nineteen hundred and forty-three, but not to contracts as respects which the time of discharge is before the said date.
+/->-(2) This Act shall apply to contracts to which the Crown is a party in like manner as to contracts between subjects.
+/->-(3) Where any contract to which this Act applies contains any provision which, upon the true construction of the contract, is intended to have effect in the event of circumstances arising which operate, or would but for the said provision operate, to frustrate the contract, or is intended to have effect whether such circumstances arise or not, the court shall give effect to the said provision and shall only give effect to the foregoing section of this Act to such extent, if any, as appears to the court to be consistent with the said provision.
+/->-(4)Where it appears to the court that a part of any contract to which this Act applies can properly be severed from the remainder of the contract, being a part wholly performed before the time of discharge, or so performed except for the payment in respect of that part of the contract of sums which are or can be ascertained under the contract, the court shall treat that part of the contract as if it were a separate contract and had not been frustrated and shall treat the foregoing section of this Act as only applicable to the remainder of that contract.
+/->-(a) to any charterparty, except a time charterparty or a charterparty by way of demise, or to any contract (other than a charterparty) for the carriage of goods by sea; or
+/->-(b) to any contract of insurance, save as is provided by subsection (5) of the foregoing section; or
+/->-(c) to any contract to which section 7 of the Sale of Goods Act 1979(which avoids contracts for the sale of specific goods which perish before the risk has passed to the buyer) applies, or to any other contract for the sale, or for the sale and delivery, of specific goods, where the contract is frustrated by reason of the fact that the goods have perished.
+/->-Annotations are used to give authority for changes and other effects on the legislation you are viewing and to convey editorial information. They appear at the foot of the relevant provision or under the associated heading. Annotations are categorised by annotation type, such as F-notes for textual amendments and I-notes for commencement information (a full list can be found in the Editorial Practice Guide). Each annotation is identified by a sequential reference number. For F-notes, M-notes and X-notes, the number also appears in bold superscript at the relevant location in the text. All annotations contain links to the affecting legislation.

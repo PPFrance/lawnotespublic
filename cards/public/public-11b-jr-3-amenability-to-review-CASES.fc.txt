@@ -1,0 +1,180 @@
+NAME Amenability to Review - Learning outcomes
+SUMMARY Attentive students should have acquired:
+++ A basis for building a relatively sophisticated understanding of how the supervisory jurisdiction has broadened
+++ A grasp of how modern courts determine whether institutions/ functions are subject to review
+++ Understanding of the role which the public/private law distinction has played in the growth of public law
+++ A familiarity with the leading cases on this aspect of administrative law 
+++ A basis on which to develop detailed knowledge of the issues raised by this topic through further research
+SUMMARY This lecture considers the way in which courts have responded to two connected issues: what bodies, and what functions, are subject to judicial review.  Since the scope of the supervisory jurisdiction is determined by the courts themselves, the lecture deals almost exclusively with the lines of cases by which these limits have been set.  It also explains the “exclusivity principle” requiring public law matters to be litigated in public law proceedings, and charts the cases in which the practical disadvantages of the principle have been mitigated.
+
+ 
+NAME R v Electricity Commissioners, ex p London Electricity Joint Commission
+CITATION R v Electricity Commissioners, ex p London Electricity Joint Commission [1924] 1 KB 171
+CATEGORY Judicial Review; Amenability; Supervisory Jurisdiction
+HELD TODO!
+
+NAME Ridge v Baldwin
+CITATION Ridge v Baldwin [1964] AC 40
+CATEGORY Judicial Review; Amenability; Supervisory Jurisdiction
+HELD TODO!
+
+NAME R v Criminal Injuries Compensation Board, ex p Lain
+AKA Lain
+CITATION R v Criminal Injuries Compensation Board, ex p Lain [1967] 2 All ER 770
+CATEGORY Judicial Review; Amenability; Supervisory Jurisdiction
+FLAGS Special Attention; Development
+HELD TODO!
+
+
+NAME R v Panel on Take-Overs and Mergers, ex p Datafin
+AKA Datafin
+CITATION R v Panel on Take-Overs and Mergers, ex p Datafin Plc [1987] QB 815
+FLAGS Special Attention; Development
+CATEGORY Judicial Review; Amenability; Supervisory Jurisdiction
+HELD Panel public, but not constituted by public body?
+
+
+--STOP--
+	
+	1.2	Factors negating amenability to review
+
+NAME Law v National Greyhound Racing Club
+CITATION Law v National Greyhound Racing Club [1983] 3 All ER 300
+CATEGORY Judicial Review; Amenability; Factors Negating Amenability
+HELD ...
+
+
+NAME R v ASA ex p Insurance Service
+CITATION R v Advertising Standards Authority Ltd, ex p The Insurance Service (1989) 133 SJ 1545
+CATEGORY Judicial Review; Amenability; Factors Negating Amenability
+HELD ...
+
+
+NAME R v Chief Rabbi, ex p Wachmann
+AKA Wachmann
+CITATION R v Chief Rabbi, ex p Wachmann [1993] 2 All ER 249
+FLAGS Special Attention
+CATEGORY Judicial Review; Amenability; Factors Negating Amenability
+HELD ...
+
+
+NAME R v Jockey Club, ex p Aga Khan 
+AKA Aga Khan v Jockey Club
+CITATION R v Disciplinary Committee of the Jockey Club, ex p The Aga Khan [1993] 2 All ER 853
+FLAGS Special Attention; Development
+CATEGORY Judicial Review; Amenability; Factors Negating Amenability
+HELD ...
+
+NAME R v Lord Chancellor's Dept, ex p Nangle
+AKA Nangle
+CITATION R v Lord Chancellor's Department, ex p Nangle [1992] 1 All ER 897
+CATEGORY Judicial Review; Amenability; Factors Negating Amenability
+HELD ...
+
+NAME R v Servite Houses, ex p Goldsmith
+CITATION R v Servite Houses, ex p Goldsmith (2001) 33 HLR 369
+CATEGORY Judicial Review; Amenability; Factors Negating Amenability
+HELD ...
+	
+
+
+
+NAME R v Legal Aid Board, ex p Donn
+AKA Donn
+CITATION R v Legal Aid Board, ex p Donn & Co [1996] 3 All ER 1
+CATEGORY Judicial Review; Amenability; Recent Approach
+HELD ...
+
+
+
+NAME R v Parliamentary Commissioner for Standards, ex p Al-Fayed
+CITATION R v Parliamentary Commissioner for Standards, ex p Al-Fayed [1998] 1 All ER 93
+CATEGORY Judicial Review; Amenability; Recent Approach
+HELD ...
+
+
+
+NAME Poplar Housing v Donoghue
+CITATION Poplar Housing and Regeneration Community Association Ltd v Donoghue [2002] QB 48
+CATEGORY Judicial Review; Amenability; Recent Approach
+HELD ...
+
+
+
+NAME O'Reilly v Mackman
+CITATION O'Reilly v Mackman [1983] 2 AC 237
+FLAGS Special Attention; Development
+CATEGORY Judicial Review; Amenability; Public vs Private
+HELD ...
+
+
+
+NAME Cocks v Thanet
+CITATION Cocks v Thanet District Council [1983] 2 AC 286
+FLAGS Special Attention
+CATEGORY Judicial Review; Amenability; Public vs Private
+HELD ...
+	
+	
+    
+NAME Wandsworth v Winder
+CITATION Wandsworth v Winder [1984] 3 All ER 976
+FLAGS Special Attention; Development
+CATEGORY Judicial Review; Amenability; Public vs Private
+
+
+
+NAME Roy v Kensington Family Practitioner Committee
+CITATION Roy v Kensington & Chelsea Family Practitioner Committee [1991] 2 WLR 239
+CATEGORY Judicial Review; Amenability; Public vs Private
+FLAGS Special Attention
+HELD ...
+
+
+
+
+NAME Mercury v BT
+CITATION Mercury Communications v Director General of Telecommunications and British Telecom PLC [1996] 1 WLR 48
+CATEGORY Judicial Review; Amenability; Public vs Private
+FLAGS Special Attention
+HELD ...
+
+
+
+
+NAME Bugg v DPP
+CITATION Bugg v Director of Public Prosecutions [1993] QB 473
+CATEGORY Judicial Review; Amenability; Public vs Private
+HELD ...
+
+
+
+NAME R v Wicks
+CITATION R v Wicks [1997] 2 WLR 876
+CATEGORY Judicial Review; Amenability; Public vs Private
+HELD ...
+    
+    
+    
+NAME Boddington v British Transport Police
+CITATION Boddington v British Transport Police [1998] 2 WLR 639
+CATEGORY Judicial Review; Amenability; Public vs Private
+HELD ...
+
+
+
+
+NAME Dennis Rye Pensions v Sheffield
+CITATION Trustees of the Dennis Rye Pension Fund v Sheffield CC [1998] 1 WLR 840
+CATEGORY Judicial Review; Amenability; Public vs Private
+HELD ...
+
+
+NAME Clark v Lincolnshire Uni
+CITATION Clark v University of Lincolnshire and Humberside [2000] 1 WLR 1988
+CATEGORY Judicial Review; Amenability; Public vs Private
+FLAGS Special Attention
+HELD ...
+
+
+

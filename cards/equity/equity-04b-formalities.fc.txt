@@ -1,0 +1,115 @@
+
+
+
+
+NAME Thomas v Times Books
+CATEGORY Formalities
+CITATION Thomas v Times Books (1966)
+SUMMARY Concerning the BBC radio dramatisation of _Under Milk Wood_. Takes manuscript with him on a drinking bout in Soho -- loses it. Phones agent, Cleveden. Asks for copies. Gets them in the nick of time, at London airport departing for the States. Relieved, gratefully tells agent _he could keep the manuscript_, if he could find it. Goes to the pub Thomas'd been drinking at, finds it. 
+SUMMARY "I've had 18 straight whiskies; I think that’s the record"
+SUMMARY Thomas's widow, the plaintiff in the action, then sued the agent.
+HELD An inter vivos trust of chattels may be validly established by the settlor saying of the property: "you can keep it, if you can find it."
+
+
+
+NAME Gardner v Rowe
+CITATION Gardner v Rowe (1828) 5 Russ 258
+CATEGORY Formalities
+HELD A trust of land for which there is no evidence in writing signed by the settlor is unenforceable rather than void. 
+
+NAME Rochefoucald v Boustead
+CITATION Rochefoucald v Boustead [1897] 1 Ch 196
+CATEGORY Formalities
+HELD The signed writing of a settlor attesting to a trust of land need not be contemporary with the trust's creation. Formality rules may not be applied should doing so facilitate fraud, as |equity will not allow a statute to be a cloak for fraud|.
+
+
+
+
+
+
+
+NAME Onslow v Wallis
+CITATION Onslow v Wallis (1849)
+CATEGORY Formalities; Dispositions of Equitable Interests; Subtrusts
+HELD Subtrusts can be _active_ -- the trustee of which, the beneficiary of the original trust, still retains some part of the original beneficial interest; or _passive_ -- in which _all_ the beneficiary of the original trust transfers _all_ the beneficial interest to the beneficiary of the subtrust. The original beneficiary, therefore, 'drops out of the picture.'  
+HELD Active subtrusts constitute the _only_ reliable means of avoiding the requirement of S53(1)(c) when disposing of an equitable interest.
+
+
+
+NAME Oughtred v IRC 
+CITATION Oughtred v IRC [1960] AC 206
+CATEGORY Formalities; Dispositions of Equitable Interests
+HELD If the beneficiary of an equitable interest concludes a specifically-enforceable contract to transfer that interest to a third party, then because the law considers a _constructive_ trust to have arisen in favour of the buyer at the moment the contract is concluded, the disposition falls outside the scope of the S53(1)(c) requirement (that dispositions of subsisting equitable interests be in signed writing) because of S53(2), which explicitly excludes resulting and constructive trusts.  Nevertheless, stamp duty may be payable on any subsequent writing as to the disposition.
+
+
+
+
+--STOP--
+
+NAME Grey v IRC 
+CITATION Grey v IRC [1960] AC1
+CATEGORY Formalities; Dispositions of Equitable Interests
+HELD
+
+
+NAME Vandervell v IRC 
+CITATION Vandervell v IRC [1967] AC 912
+CATEGORY Formalities; Dispositions of Equitable Interests
+HELD
+
+
+
+NAME Re Vandervell (no 2)
+CITATION Re Vandervell (no 2) [1974] Ch 269
+CATEGORY Formalities; Dispositions of Equitable Interests
+HELD
+
+
+
+NAME Grainge v Wilberforce 
+CITATION Grainge v Wilberforce (1889) 5 TLR 236
+CATEGORY Formalities; Dispositions of Equitable Interests
+HELD
+
+
+
+NAME Re Lashmar 
+CITATION Re Lashmar [1891] 1 Ch 258
+CATEGORY Formalities; Dispositions of Equitable Interests
+HELD
+
+
+
+NAME Nelson v Greening 
+CITATION Nelson v Greening & Sykes [2007] EWCA Civ 1358
+CATEGORY Formalities; Dispositions of Equitable Interests
+HELD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

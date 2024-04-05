@@ -1,0 +1,207 @@
+NAME Directives
+AKA Directive
+TYPE Concept
+CATEGORY Directives
+SUMMARY ~*Nature*~
+/|Art 288 TFEU| provides that directives have an *obligation of result*, but that the member states choose how they go about achieving it.
+SUMMARY Usually this means the state must enact *implementing legislation*. This is called *transposition*. Directives are therefore *somewhat elastic*.
+SUMMARY They come with a *Date of Entry* and a *Transposition Deadline*, by which the directive must be fully enacted in domestic law. 
+SUMMARY ~*Vertical Direct Effect*~
+/|Van Duyn| establishes that they can be relied upon *directly*, i.e., that they have *direct effect*, if after the transposition deadline, in whole or in part, they remain unimplemented at national law.
+/In the intervening period, states must *disapply national measures liable to compromise the result* - |Adeneler| [2006].
+SUMMARY |Marshall| established that the state as *employer* was subject to vertical direct effect, and in |Foster| it was held that, in a gloweringly-Orwellian turn of phrase, any *emanation of the state* would do. Cf. |Horizontal Direct Effect|.
+SUMMARY ~*Indirect Effect*~
+/Established by |Von Colson|, this is TODO
+SUMMARY ~*Incidental Effect~*
+/|Signalson| and |Unilever Italia|
+
+
+
+NAME Horizontal Direct Effect
+TYPE Concept
+LINK AG Lenz's opinion in Faccini Dori http://curia.europa.eu/juris/showPdf.jsf?text=&docid=98347&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=861882
+SUMMARY |Faccini Dori| demurred from establishing *horizontal effect* (N.B. strongly dissenting opinion of AG Lenz), but ruled that national courts are under a duty to interpret conflicting national law *purposively*, the purpose being that of the directive.
+SUMMARY  The argument can be put that in providing a very sizeable proportion of a modern state's workforce (the part employed by the government) with a set of rights not available to the rest, |Marshall| introduced quite a radical inequality. One might even suspect the intention was to set up a status quo that _had to yield_ to the inevitable establishment of |Horizontal Direct Effect| -- but that hasn't happened.
+
+
+NAME Directives - Further Reading
+TYPE Reading
+SUMMARY ~*Articles*~
+/*Dashwood*, A., _From Van Duyn to Mangold via Marshcall: Reducing Direct Effect to Absurdity?_, (2006-2007) 9 CYELS 81.
+/Editorial Comments, _Horizontal direct effect – A law of diminishing coherence_, (2006) 43 CMLRev 1
+/Craig, P., _The legal effects of Directives: policy, rules and exceptions_, (2009) 34 ELRev 349.
+/Dougan, M., _When worlds collide! Competing visions of the relationship between direct effect and supremacy_ (2007) 44 CMLRev 931.
+/Arnull, A., The European Union and its Court of Justice (Oxford: OUP, 2006 2nd ed) Ch. 7.
+/Craig, P.P., _Sovereignty of the United Kingdom Parliament after Factortame_, (1991) 11 YEL 221
+/Maltby, _Marleasing: What is all the fuss about?_, (1993) 109 LQR 301.
+/Mancini, C. F. and Keeling, D. T., _Democracy and the European Court of Justice_, (1994) 57 MLR 175.
+/Mancini, F., _The Making of a Constitution for Europe_, (1989) 26 CMLRev 595 reprinted in 
+/Mancini, F., Democracy and Constitutionalism in the European Union (Oxford: Hart Publishing, 2000) 1.
+/Pescatore, P., _The Doctrine of Direct Effect: An Infant Disease of Community Law_, 1983) 8 ELRev 155
+/Tridimas, T., _Black, White, and Shades of Grey: Horizontality of Directives Revisited_, (2002) 
+/21 YEL 327.
+/Dougan, M., _In Defence of Mangold?_ in Arnull, A., Barnard, C., Dougan, M. and Spaventa, E. (eds), _A Constitutional Order of States? Essays in EU Law in Honour of Alan *Dashwood_ (Hart Publishing, 2011) 219.
+
+
+
+NAME Art 288 TFEU
+TYPE Treaty
+CATEGORY Directives
+EUROPALINK Art 288 http://www.lisbon-treaty.org/wcm/the-lisbon-treaty/treaty-on-the-functioning-of-the-european-union-and-comments/part-6-institutional-and-financial-provisions/title-1-institutional-provisions/chapter-2-legal-acts-of-the-union-adoption-procedures-and-other-provisions/section-1-the-legal-acts-of-the-union/608-article-288.html
+SUMMARY ~*Text*~
+/To exercise the Union's competences, the institutions shall adopt regulations, directives, decisions, recommendations and opinions.
+SUMMARY A *|Regulation|* shall have general application. It shall be *binding in its entirety and directly applicable* in all Member States.
+SUMMARY A *|Directive|* shall be *binding, as to the result to be achieved*, upon each Member State to which it is addressed, but shall *leave to the national authorities* the *choice of form and methods*.
+SUMMARY A *Decision* shall be binding in its entirety. A decision which specifies those to whom it is addressed shall be binding only on them.
+SUMMARY *Recommendations* and *opinions* shall have no binding force.
+
+
+
+NAME Adeneler
+CASENUM C-212/04
+CITATION Adeneler [2006] I-6057
+CATEGORY Directives; Jurisdictional Expansion; Transposition Period
+HELD In the period between *entry* of a |Directive| but before expiration of its *transpose by* date, a member state must not only *not enact other measures* that could *compromise the attainment of the result*, but also *disapply measures* that might *jeopardise the result*.
+
+NAME Van Duyn v Home Office
+AKA Van Duyn
+CASENUM C-41/74
+FLAGS Fundamental; GB
+CITATION Van Duyn v Home Office [1974] ECR 1337
+CATEGORY Directives; Vertical Direct Effect of Directives
+SUMMARY The Home Office had sought to exclude a Dutch woman on the basis that, being a Scientologist, she was undesirable.
+HELD After the transcription deadline, in certain circumstances, a *directive* (or the bits of it not yet transcribed) *can be relied upon directly.* Just because |Art 288 TFEU| gives *regulations* direct applicability, it does not follow that in all circumstances, *directives* cannot have similar effects.
+
+
+NAME Pubblico Ministero v Ratti
+AKA Ratti
+CASENUM C-148/78
+FLAGS Important; IT
+CITATION Pubblico Ministero v Ratti [1979] ECR 1629
+CATEGORY Directives; Vertical Direct Effect of Directives
+HELD A state may not *rely on its failure to transpose* a directive. Freestyling eurojudges even go so far as to draw a parallel with _estoppel_.
+HELD [22] 'Consequently *a member-State which has not adopted the implementing measures required by the directive in the prescribed periods *may not rely*, as against individuals, *on its own failure* to perform the *obligations which the directive entails*. 
+/[23] It follows that a national court *requested* by a person [...] *not to apply a national provision incompatible with the directive not incorporated* [...] *must uphold that request if the obligation in question is unconditional and sufficiently precise.* {Van Gend criterion} 
+/[24] Therefore [...] *after the expiration of the period fixed *for the implementation of a directive *a member-State may not apply its internal law*--even if it is provided with *penal sanctions*--which has not yet been adapted in compliance with the directive, to a person who has complied with the requirements of the directive.'
+
+
+NAME Marshall 
+CITATION Marshall v Southampton and SW Hampshire AHA (no 1) [1986] ECR 523
+CASENUM C-152/84
+FLAGS Fundamental; GB
+WIKILINK https://en.wikipedia.org/wiki/Marshall_v_Southampton_Health_Authority
+LINK Equal Treatment Directive 1976 http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31976L0207:EN:HTML
+CATEGORY Directives; Jurisdictional Expansion; Vertical Direct Effect of Directives
+SUMMARY Forced to retire five years earlier than had she been a man, the claimant sought to rely on the 
+HELD Although there *is indeed _no_ horizontal direct effect for directives*, the state *as employer* must be considered liable to direct effect.
+
+NAME Faccini Dori
+CITATION Faccini Dori [1994] ECR I-3325
+CASENUM C-91/92
+LINK A-G Lenz's dissenting opinion http://curia.europa.eu/juris/showPdf.jsf?text=&docid=98347&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=861882
+WIKILINK https://en.wikipedia.org/wiki/Faccini_Dori_v_Recreb_Srl
+FLAGS Fundamental; IT
+CATEGORY Directives; Jurisdictional Expansion; Horizontal Direct Effect of Directives
+SUMMARY A woman was _sold an English course whilst waiting for a train_ in Milan. She was swindled--but Italy had not yet implemented the Directive on Doorstep Selling, which in such circumstances required a cooling off period of 28 days. 
+HELD Although there is no horizontal direct effect for directives (even if the |Van Gend| criteria are met), *national courts must must interpret existing law for the purpose of the directive*.
+HELD 30. '[...] in the absence of measures transposing the directive within the prescribed time-limit consumers cannot derive from the directive itself a right [...]. However, when applying provisions of national law, whether adopted before or after the directive, *the national court must interpret them as far as possible in the light of the wording and purpose of the directive.'
+
+
+NAME Foster v British Gas
+AKA Foster
+WIKILINK Emanation of the State https://en.wikipedia.org/wiki/Emanation_of_the_state
+WIKILINK Foster https://en.wikipedia.org/wiki/Foster_v_British_Gas_plc
+CASENUM C-188/89
+CITATION Foster and Others v British Gas Plc [1990] ECR I-3313
+CATEGORY Directives; Jurisdictional Expansion; Vertical Direct Effect of Directives
+FLAGS Important; GB
+SUMMARY Could an unimplemented directive be relied upon against *a company*,  which was *previously* nationally-owned?
+HELD Any *emanation of the state* is subject to vertical direct effect, as long as it has been made responsible for providing a public service under the control of the state.
+
+
+NAME Von Colson v Land Nordrhein-Westfalen
+AKA Von Colson
+CASENUM C-14/83
+CITATION Von Colson v Land Nordrhein-Westfalen [1984] ECR 1891
+CATEGORY Directives; Jurisdictional Expansion; Indirect Effect of Directives
+FLAGS Fundamental; DE
+SUMMARY 
+HELD
+
+
+NAME Marleasing v La Commercial Internacionale de Alimentacion
+AKA Marlseasing
+CASENUM C-106/89
+CITAITON Marleasing v La Commercial Internacionale de Alimentacion [1990] ECR I-4135
+CATEGORY Directives; Jurisdictional Expansion; Indirect Effect of Directives
+FLAGS Fundamental; ES
+SUMMARY
+HELD
+
+
+NAME Marks and Spencer Plc v Customs and Excise
+AKA Marks and Spencer
+CASENUM C-62/00
+CATEGORY Directives; Jurisdictional Expansion; Indirect Effect of Directives
+CITATION Marks and Spencer Plc v Customs and Excise [2002] ECR I-6325
+FLAGS GB
+SUMMARY
+HELD
+
+
+NAME CIA Security v Signalson and Securitel
+AKA Signalson
+CASENUM C-194/94
+CITATION CIA Security v Signalson and Securitel [1996] ECR I-2201
+CATEGORY Directives; Jurisdictional Expansion; Incidental Effect of Directives
+FLAGS 
+SUMMARY 
+HELD
+
+
+NAME Unilever Italia v Central Foods
+AKA Unilever Italia
+CASENUM C-443/98
+CITATION Unilever Italia v Central Foods [2000] ECR I-7535
+CATEGORY Directives; Jurisdictional Expansion; Incidental Effect of Directives
+FLAGS IT
+SUMMARY
+HELD
+
+
+NAME Werner Mangold v Rüdiger Helm
+AKA Mangold
+CASENUM C-144/04
+CITATION Werner Mangold v Rüdiger Helm [2005] ECR I-9981
+CATEGORY Directives; Jurisdictional Expansion; Directives and General Principles
+FLAGS DE
+SUMMARY
+HELD
+
+
+NAME Felix Palacios de la Villa 
+LINK AG Mazak's opinion http://blah
+CASENUM C-441/05
+CITATION Felix Palacios de la Villa [2007] ECR I-8531
+CATEGORY Directives; Jurisdictional Expansion; Directives and General Principles
+FLAGS
+SUMMARY
+HELD
+
+
+
+NAME Kükükdeveci v Swedex
+AKA Kükükdeveci
+CASENUM C-555/07
+CITATION Kükükdeveci v Swedex [2009] ECR I-8963
+CATEGORY Directives; Jurisdictional Expansion; Directives and General Principles
+FLAGS
+SUMMARY
+HELD
+
+
+
+
+
+
+

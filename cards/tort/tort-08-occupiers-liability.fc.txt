@@ -1,0 +1,251 @@
+NAME Occupiers' Liability
+TYPE Concept
+CATEGORY Occupiers' Liability
+SUMMARY This area is governed by two statutes, the |OLA 1957|, which governs the duties owed by occupiers to *visitors*, and the |OLA 1984|, which governs the duties owed by occupiers to *non-visitors*.
+SUMMARY The previous regime of common law drew distinctions between the occupiers, those who had a _right_ to be on the land, and those with a merely contractual right to be on the land.
+SUMMARY *S2(1)* of |OLA 1957| provides a *duty owed by occupiers to visitors*, no matter the reason for the visitor's presence -- to *take reasonable care of the premises* to ensure the *visitor* is reasonably safe *for the purpose* for which he or she is there. This applies to personal injury and property damage cause by the state of the premises.
+SUMMARY *Occupier* is famously not defined by either act. The case law suggests it is someone who has _sufficient control over the land to have the power to ensure its safety_ -- |Wheat v Lacon|. There can be several at once. The owner is not necessarily the occupier; the occupier is not necessarily the owner.
+SUMMARY *Premises*, according to S1(3)(a) |OLA 1957|, is: any fixed or moveable structure, vessel, vehicle or aircraft on the land.
+SUMMARY *Visitors*, from S1 |OLA 1957|, are those with express permission to be there; and who are using the place in the ordinary manner rather than sliding down the bannisters -- |The Calgarth|.
+
+
+NAME Occupiers' Liability - Reading
+TYPE Reading
+CATEGORY Occupiers' Liability
+SUMMARY ~*Essential*~
+SUMMARY Steele, _Tort Law_, pp.705-735.
+SUMMARY |Wheat v Lacon| -- |Glasgow v Taylor| -- |Occupiers' Liability Act 1957| -- |Tedstone v Bourne Leisure| -- |Roles v Nathan| -- |Haseldine v Daw| -- |White v Blackmore| -- |Occupiers' Liability Act 1984| -- |Tomlinson v Congleton|.
+SUMMARY ~*Additional*~
+SUMMARY J. Elvin, _Occupiers_ Liability, Free Will, and the Dangers of a "Compensation Culture"_ (2004) 8 Edinburgh Law Review 123<br> M. Jones, _The Occupiers_ Liability Act 1984_ (1984) 47 MLR 713<br> W. Norris, _Duty of Care and Personal Responsibility: Occupiers, Owners, Organisers and Individuals_ [2008] Journal of Personal Injury Law 187
+SUMMARY |The Calgarth| -- |Harvey v Plymouth| -- |1Jolley v Sutton| -- |Occupiers' Liability Act 1957| -- |Poppleton v Portsmouth YAC| -- |Hufton v Somerset| -- |Butcher v Southend| -- |West Sussex v Pierce| -- |Phipps v Rochester| -- |Maguire v Sefton| -- |Clark v Bourne Leisure| -- |Donoghue v Folkestone Properties| -- |Keown v Coventry NHS| -- |Platt v Liverpool|.
+
+
+
+NAME Wheat v Lacon
+YEAR 1966
+COURT UKHL
+CITATION Wheat v Lacon and Co Ltd [1966] UKHL 1 All ER 582
+CATEGORY Occupiers' Liability; Meaning of Occupier
+FLAG Key; Important; Leading; Denning; EPLR
+SUMMARY A publican had rented out rooms to paying guests, the claimant and her husband, who went down some stairs in the _private_ part of the pub... and was found dead at the bottom. The handrail stopped three steps short of the bottom, and the staircase was pitch dark as there was no lightbulb. The claim was against the brewery and the publican.
+HELD Denning MR defined _occupier_ for the purposes of the |OLA 1957| as someone with sufficient control over the premises that he ought to realise a lack of care on his part might cause damage to lawful visitors. The duty could be shared by several occupiers, who would be jointly and severally liable were the duty of care was not exercised.
+HELD Therefore the claim succeeded.
+
+NAME The Calgarth
+COURT EWCA
+YEAR 1927
+CITATION The Calgarth [1927] EWCA AC P 93
+CATEGORY Occupiers' Liability; Duty to Visitors; Meaning of Visitor
+FLAG Important
+HELD Having permission to be on land, but using it in non-permitted ways makes you a non-visitor. 
+HELD Scrutton LJ -- 'when you invite a person into your house, you don't expect them to slide down the bannister, you expect them to go down the stairs.'
+
+NAME Harvey v Plymouth
+YEAR 2010
+COURT EWCA
+CITATION Harvey v Plymouth City Council [2010] EWCA 860
+CATEGORY Occupiers' Liability; Duty to Visitors; Meaning of Visitor
+FLAGS Amusing
+SUMMARY The claimant ran over council land to escape an angry taxi driver to whom he owed money. The land was habitually used by, e.g., children, drinkers, wastrels, etc. He accidentally fell off the edge of the land into a car park quite a distance below, presumably over a cliff. Seriously injured, he sued claiming the council ought to have put up a _fence_.
+HELD In running frantically across the land to _escape_, the claimant had not used the land for the foreseen purpose of _recreation_. There was therefore no implied assent from the defendant: following |The Calgarth|, he was not a visitor under |OLA 1957|.
+
+NAME Glasgow v Taylor
+YEAR 1922
+COURT UKHL
+CITATION Glasgow Corporation v Taylor [1922] UKHL 1 AC 44
+FLAGS Key; Development; EPLR; Children
+CATEGORY Occupiers' Liability; Duty to Visitors; Meaning of Visitor; Allurement; Children
+SUMMARY A child had died having eaten poisonous berries in a public park. The landowner argued there was was no express or implied permission to do as the boy had done, and as such a non-visitor.
+HELD An occupier _can_ be expected to protect against hidden dangers that may be _alluring_ to children, albeit that there is no requirement to protect against obvious dangers arising from natural features.
+HELD The shrub was not fenced off and there was no warning sign -- the claim succeeded. 
+
+NAME 1Jolley v Sutton
+COURT UKHL
+YEAR 2000
+CITATION Jolley v Sutton LBC [2000] 3 All ER 409 
+CATEGORY Occupiers' Liability; Duty to Visitors; Meaning of Visitor; Allurement
+SUMMARY The boys who found and attempted to do-up a decrepit boat left abandoned on council land. Also discussed in _remoteness_ -- |Jolley v Sutton|.
+HELD It was conceded that the claimant was a visitor, even though there was no question if implied or express permission.
+HELD Steyn LJ: the boat was certainly an allurement, to a child of 14.
+
+
+NAME Occupiers' Liability Act 1957
+TYPE Statute
+LEGILINK http://www.legislation.gov.uk/ukpga/Eliz2/5-6/31/contents
+WIKILINK https://en.wikipedia.org/wiki/Occupiers%27_Liability_Act_1957
+AKA OLA 1957
+FLAGS EPLR
+CATEGORY Occupiers' Liability; Statute
+SUMMARY ~*S2 -- Extent of occupier's ordinary duty*~
++'An occupier of premises owes the same duty, the *"common duty of care"*, to *all his visitors*, except in so far as he is free to and does extend, restrict, modify or exclude his duty to any visitor or visitors by agreement or otherwise.' [I.e., the duty can be abrogated.]
++'The common duty of care is a duty to take such care as in all the circumstances of the case is reasonable to see that the visitor will be reasonably safe in using the premises for the purposes for which he is invited or permitted by the occupier to be there.'
+++An occupier must be prepared for *children to be less careful* than adults. |1Jolley v Sutton|, |Glasgow v Taylor|. 
+@@@There are however limits to the mollycoddling expected. |West Sussex v Pierce|. 
+@@@And an expectation that young children, however, will not be allowed to roam free and feral by their parents. |Phipps v Rochester|
+++Visitors with *special expertise* will be expected to guard against any risks *ordinarily incident* to it. |Roles v Nathan|.
+++If the occupier *subcontracts maintenance*, then if reasonable care was taken in *selection, supervision and checking* of work, they usually avoid liability -- |Haseldine v Daw|, |Maguire v Sefton|.
+++This duty may be disclaimed successfully by use of warning signs |White v Blackmore|. Note that |SARAH 2015| and |UCTA 1977| preclude certain exclusions in commercial circs. 
+SUMMARY ~*Defences*~ 
+@Other than for *S2(4)(a)*, |Consent| can apply -- *S2(5)*, as can *contributory negligence* -- *S2(3)*.  
+@The principles of |Remoteness| and |Causation -- Reading| applying here are the same as those in negligence.
+ 
+ 
+NAME Tedstone v Bourne Leisure
+YEAR 2008
+COURT EWCA
+CITATION Tedstone v Bourne Leisure Ltd [2008] EWCA Civ 654
+FLAGS Key; Leading; Amusing; EPLR; Trying it on
+CATEGORY Occupiers' Liability; Duty to Visitors
+
+SUMMARY The claimant slipped on a flaque of water by a jacuzzi, which hadn't been there for more than five minutes. 
+HELD It wasn't unexpected to find spillages of water in the vicinity of a Jacuzzi, and there could be no reasonable system by which an occupier could have got rid of the water so quickly -- followed |Pollard v Tesco| [1976], the slippage on spilt yoghurt.
+HELD The claimant failed to demonstrate reasonable care was not taken.
+
+NAME Poppleton v Portsmouth YAC
+YEAR 2008
+COURT EWCA
+CITATION Poppleton v Trustees of the Portsmouth Youth Activities Committee [2008] EWCA Civ 646
+CATEGORY Occupiers' Liability; Duty to Visitors
+FLAGS Key; Important
+SUMMARY The claimant was injured when he jumped from an indoor climbing wall. He'd seen others do it, and so had the defendant. At first instance his claim succeeded, albeit with reduced damages for contributory negligence.
+HELD The claimant had taken an _obvious risk_, and the law did not require occupiers to warn of obvious risks.
+
+NAME Hufton v Somerset
+YEAR 2011
+COURT EWCA
+CITATION Hufton v Somerset CC [2011] EWCA Civ 789
+CATEGORY Occupiers' Liability; Duty to Visitors
+SUMMARY The claimant, a 15-year old girl, slipped over at school and injured herself. It was raining outside. She claimed the school was negligent in allowing children to go on a wet floor before the _Caution: Wet Floor_ signs had been put in place.
+HELD The school had an appropriate system in place, and it would not be reasonable to expect a school in _England_ to have dry floors all the time. 
+COMMENT We now live in a country in which schools put out those ghastly yellow _Caution: Wet Floor_ signs when it's raining. We live in truly benighted times. 
+
+
+NAME Butcher v Southend
+YEAR 2014
+COURT EWCA
+CITATION Butcher v Southend-on-Sea BC [2014] EWCA Civ 1556
+CATEGORY Occupiers' Liability; Duty to Visitors
+SUMMARY The claimant had been walking along a tarmac path in the height of summer. The heat had meant the earth had shrunk a few inches from the edges, and. Not paying attention, they lost their footing, fell and was injured. The claim succeeded at first instance, but damages reduced for 50% contributory negligence.
+HELD As the hazard had not arisen suddenly but was plain to see and had been present for some time; the risk of injury was foreseeable; and repair straightforward to achieve, the claim succeeded. 
+HELD To be contrasted with situations in which the, such as |Tedstone v Bourne Leisure|, the hazard arises suddenly.
+
+
+NAME West Sussex v Pierce
+YEAR 2013
+COURT EWCA
+CITATION West Sussex CC v Master Lewis Pierce [2013] EWCA Civ 1230
+FLAGS Leading; Amusing; Trying it on
+CATEGORY Occupiers' Liability; Duty to Visitors; Children
+SUMMARY The nine-year-old claimant was injured by _punching a water fountain_. You read that right. This was during _horseplay_. His brother had been trying to spray him with water, but moved as the claimant threw a punch, which connected with the water fountain. 
+SUMMARY The claim, then, was that the water fountain was dangerous, with an extremely sharp bit on the underside.
+HELD Punching a metal object does not make that object, per se, dangerous. Per Sharpe LJ -- the problem wasn't the water fountain; the problem was the _boy_.
+HELD Sharpe LJ -- "The question which has to be addressed... is whether as a matter of objective fact, visitors to the School were reasonably safe in using the premises, including for this purpose, the water fountain, bearing in mind of course that children do not behave like adults, and are inclined to lark around."
+
+NAME Phipps v Rochester
+YEAR 1955
+COURT EWHC
+CITATION Phipps v Rochester Corporation [1955] EWHC 1 QB 450
+CATEGORY Occupiers' Liability; Duty to Visitors; Children; Allurement
+FLAGS Important
+SUMMARY The claimant, a five-year-old, was out looking for blackberries. Happened into a building site owned by the claimant and _fell into a ditch_. The claim was that the occupier had failed to take care, and that there was a foreseeable risk that children would be attracted onto the land.
+HELD With younger children, the occupier is entitled to assume *the parents won't let the children wonder off on their own*. But for older children, this was not to be expected.
+
+NAME Roles v Nathan
+YEAR 1963
+COURT EWCA
+CITATION Roles v Nathan [1963] EWCA 2 All ER 908
+FLAGS Leading; Important; Denning; EPLR
+CATEGORY Occupiers' Liability; Duty to Visitors; Special Skills
+SUMMARY Two chimney sweeps were called to the Manchester assembly rooms to seal a hole in a chimney. This they tried to do while the fire was burning. The caretaker -- who'd already warned them not to -- dragged them out. They waited until he'd gone, then went back in, and both succumbed to carbon monoxide poisoning. The widow sued.
+HELD There was no breach of duty -- a chimney sweep ought to be aware of the dangers of sweeping chimneys, even if manifestly they do _not_.
+
+
+NAME Haseldine v Daw
+YEAR 1941
+COURT EWCA
+CITATION Haseldine v Daw [1941] EWCA 2 KB 343
+FLAGS Key; Leading; EPLR
+CATEGORY Occupiers' Liability; Duty to Visitors; Subcontracting of Maintenance
+SUMMARY The defendant, the owner of a block of flats, hired a firm with a reasonable reputation to maintain the lift. But they did so negligently, and, nightmarishly, the lift with the claimant inside, fell to the bottom of the lift shaft. 
+HELD The occupier had fulfilled his duty of ensuring the lift was safe by employing reputable contractors, and it was unreasonable to expect them to check the work carried out in detail, for wont of expert knowledge.
+
+NAME Maguire v Sefton
+YEAR 2006
+COURT EWCA
+FLAGS Leading
+CITATION Maguire v Sefton MBC [2006] EWCA Civ 316
+CATEGORY Occupiers' Liability; Duty to Visitors; Subcontracting of Maintenance; Public Authority
+SUMMARY The claimant was injured by an incompetently or negligently-maintained piece of equipent at a gym owned by the defendant, the maintenance of which had been subcontracted out. 
+HELD The defendant was entitled to assume a company purporting to be expert in maintaining equipment were indeed expert -- the claim was denied.
+
+
+#Warning signs
+
+NAME White v Blackmore
+COURT EWCA
+YEAR 1972
+CITATION White v Blackmore [1972] EWCA 3 All ER 158
+FLAGS Leading; Key;  Denning; EPLR
+CATEGORY Occupiers' Liability; Duty to Visitors; Warning signs 
+HELD Denning MR -- to be relevant, a warning has to be useful, and a genuine attempt to avoid the danger. E.g., a warning on a rotten bridge saying 'this bridge is dangerous,' if it were the only way to get to the other side, would not avoid the liability. If there were an alternative bridge that was sound, however, it would.
+
+NAME Clark v Bourne Leisure
+YEAR 2011
+COURT EWCA
+CITATION Clark v Bourne Leisure Limited [2011] EWCA Civ 753
+FLAGS Leading; Amusing; Trying it on
+CATEGORY Occupiers' Liability; Duty to Visitors; Stupidity
+SUMMARY The claimant, a wheelchair user, was in a bar on two levels connected by some steps, and also a ramp, for wheelchair users. _He used the steps_, and was injured. He sued on the basis that there ought to have been a warning sign.
+HELD There was no need for a warning sign when the danger was obvious, and an obvious alternative existed.
+COMMENT Cite the ratio of this case, and |White v Blackmore|, the next time you hear someone say _"it's 'elf and safety gawn mad."_
+
+NAME Occupiers' Liability Act 1984
+TYPE Statute
+LEGILINK http://www.legislation.gov.uk/ukpga/1984/3
+WIKILINK https://en.wikipedia.org/wiki/Occupiers%27_Liability_Act_1984
+AKA OLA 1984
+FLAGS EPLR
+CATEGORY Occupiers' Liability; Statute
+SUMMARY This extends a duty of care for personal injury (*but not property damage*) to non-visitors if the non-visitor can prove:
+SUMMARY *S1(3)* (i) The occupier was aware of the danger or had reasonable to grounds to believe that it existed; (ii) had reasonable grounds to believe the non-visitor would be in the vicinity of the danger, or may come into the vicinity of the danger; and (iii) the risk is one against which, in all the circumstances, the occupier might be expected to offer the non-visitor some protection.
+SUMMARY The key case is |Tomlinson v Congleton|. Presumably, the courts will find more care must be taken of children, but |Keown v Coventry NHS| and |Platt v Liverpool| suggest there will be less generosity towards non-visitors.
+SUMMARY ~*Defences*~
+@*Consent* S1(6), *contributory negligence* -- not explicitly mentioned. The situation about *when a notice will exclude liability* under the '84 act is *still unclear*.
+
+NAME Tomlinson v Congleton
+COURT UKHL
+YEAR 2003
+CITATION Tomlinson v Congleton BC [2003] UKHL 47
+FLAGS Key; Leading; EPLR
+CATEGORY Occupiers' Liability; Duty to Non-visitors; Local Authorities
+SUMMARY On a hot summer's day, the claimant dived headfirst into a shallow lake in a park on the defendant's property. This was despite notices forbidding swimming. He sued as a non-visitor, claiming he should have been prevented, by, e.g., water plants around the edge to stop people swimming, as the lake was _irresistible_ to people such as he. 
+HELD On appeal to the lords, the claim failed. There was no problem with the state of the premises: the lake was not dangerous per se, only the claimant's _use_ of the lake. 
+
+
+NAME Donoghue v Folkestone Properties
+YEAR 2003
+COURT EWCA
+CITATION Donoghue v Folkestone Properties [2003] EWCA Civ 231
+CATEGORY Occupiers' Liability; Duty to Non-visitors
+FLAGS Leading
+SUMMARY The claimant jumped into the harbour, and was injured by a thing in the water, about which he claimed the occupier should have warned. In _December_.
+HELD On the third limb of the test for duty to non-visitors in the |OLA 1984|, the claim failed, as it would not be reasonable to believe people would jump into the sea in the middle of winter in England.
+
+
+NAME Keown v Coventry NHS
+YEAR 2006
+COURT EWCA
+CITATION Keown v Coventry Healthcare NHS Trust [2006] EWCA Civ 39
+CATEGORY Occupiers' Liability; Duty to Non-visitors; Children 
+FLAGS Important; Trying it on
+SUMMARY A child had climbed up the outside of a fire-escape, fell, and was injured. He sued under the |OLA 1984| on the basis that as a non-visitor, the danger was (i) known by the occupier, (ii) it was reasonable to believe the claimant would be in the vicinity, as the fire-escape gave onto ground the public had access to, and (iii) the the risk was such that precautions ought to have been taken.
+HELD Following |Tomlinson v Congleton|, the problem was not the fire-escape, but the claimant's way of _using_ the fire-escape, by using it as a climbing frame. 
+
+NAME Platt v Liverpool
+YEAR 1997
+COURT EWCA
+CITATION Platt v Liverpool City Council [1997] WL 1103745
+CATEGORY Occupiers' Liability; Duty to Non-visitors; Children; Allurement
+SUMMARY The claimant, a child, had got into a derelict property that was about to be demolished. The defendant had put up an 8ft corrugated iron fence attached to posts in concrete, but the claimant got under, through an 8" gap. Then he was killed by the property collapsing.
+HELD The defendant had taken reasonable steps in surrounding the dangerous but alluring building with an iron fence, so the claim failed on appeal.
+

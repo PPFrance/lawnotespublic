@@ -1,0 +1,65 @@
+NAME Incomplete Constitution and Failed Gifts
+TYPE Concept
+CATEGORY Constitution of Trusts
+SUMMARY _The settlor tried to make a disposition of property, but *failed*._
+SUMMARY *Intro*
+@In general, |equity will not assist a volunteer|. Note the slightly more apt variation, |equity will not complete an imperfect gift|. |Milroy v Lord|.
+@
+
+SUMMARY *Minimum Necessary*
+@ |Milroy v Lord| -- _everything which must be done_.
+/Equity thinks gifts are suspect per se.
+@ |Re Rose| -- _everything within the settlor's power to lose control of the property_. 
+/The other party had discretion about who could hold shares; the settlor could do no more.
+@ |Choithram v Pagarani| -- _an oral declaration if the settlor is also a trustee_
+/Although |equity will not assist a volunteer|, it was decided that, as well as that, |equity will not officiously strive to defeat a gift|.
+@@ Followed by |Pennington v Wayne|.
+@@@ Would have failed on |Re Rose| grounds, as the settlor, Ada Crampton, had apparently had a change of heart and had _not_ done everything necessary to divest.
+@@@ Arden LJ held, x3, that |equity tempers the wind to the shorn lamb|, and because of the donee's reliance on the gift, equity should uphold it, putting aside its usual suspicion of gifts, especially those given in ambivalence.
+@ In |Zeital v Kaye| in 2010, |Pennington| and |TCP| were doubted, |Re Rose| was reasserted. 
+
+
+
+
+NAME Constitution of Trusts - Assistance for Volunteers
+TYPE Concept
+CATEGORY Constitution of Trusts
+SUMMARY *Trusts of a Promise*
+@ The promise to create the trust may, in and of itself, be considered the subject-matter of a trust. |Fletcher v Fletcher|.
+@ (This has only been applied to trusts of _money_).
+@ But only if the property already exists. This excludes a promise about the _proceeds_ of a future sale, which do _not_. |Re Cooke's ST|. 
+SUMMARY Although the |Fletcher| cases contrive to make narrow findings to the contrary, someone to whom something is promised is a |volunteer| -- it could be argued this constitutes an additional de facto exception to the rule. 
+
+SUMMARY ~*Established Exceptions*~
+/_In three situations, equity *will* assist a volunteer._
+
+SUMMARY *(1) Rule _in_ |Strong v Bird|*
+/A flawed inter vivos gift will be perfected on the donor's death, should its legal title happen to have vested in the donee by virtue of the donee being an executor.
+/_Conditions_ --
++The donor intended the inter vivos gift.
++Such an intention persisted until death.
++The donee is appointed executor or administrator.
++The subject matter was capable of surviving the donor's demise.
+% Should the title to a trust property vest in a trustee, but by the _wrong_ means, they still ought to carry out the trust. |Re Ralli|.
+
+SUMMARY *(2) Donatio Mortis Causa*
+/An old way of making a will. A deathbed gift, a morbidity gift -- useful in situations where something unexpectedly _kills you_, but there's no solicitor to hand.
+/_Conditions_ --
+@ Gift made in contemplation of death. On being sent to Iraq, or told you've got weeks to live, etc.
+@ With a condition precedent -- the donor's death. "I want you to have this _if_ I die."
+@ Physical transfer to the donee of the property _or_ a simulacrum. 
+@@ Title deeds, cash card, house keys, etc...
+SUMMARY CdT's example: chap thought he was dying. Gave each of six people representative gifts. Went home, tried to commit suicide -- but found God. Went back to each, asking for his stuff back. Four out of the six of whom said _no_.
+@But as he hadn't actually _died_, so there was no transfer of property.
+@These are as 'bad' |secret trusts| in their avoidance of formalities -- but there's not much litigation.
+
+SUMMARY *(3) $:Contracts (Third Party Rights) Act 1999$$http://www.legislation.gov.uk/ukpga/1999/31/contents:$
+@ Expressly states that covenants are contracts.
+@ If you're expressly or impliedly named as taking a benefit, then you have *the same rights as you would in contract.*
+@ Some texts say there is doubt -- but the statute is clear.
+
+SUMMARY *(4) Proprietary Estoppel*
+@ Assurance, reliance, detriment, and in modern times, unconscionability.
+@ CdT: it ought to be called _property estoppel_, as it entails estopping the use of _your own property_.
+@ In _Land_, see also $:Proprietary Estoppel$$land.html?n=Proprietary%20Estoppel:$ and $:Gillet v Holt$$land.html?n=Gillet%20v%20Holt:$ 
+

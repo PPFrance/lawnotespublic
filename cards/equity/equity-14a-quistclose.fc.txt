@@ -1,0 +1,61 @@
+NAME Quistclose Trusts
+CATEGORY Quistclose Trusts
+TYPE Concept
+SUMMARY ~*Intro*~
+/This is a relatively recent appendage on the body of resulting trusts, albeit that an analogous arrangement had been recognised as a valid type of trust way back in 1806. Controversy and debate only after 1970, in |Barclay's Bank v Quistclose Investments|.
+SUMMARY ~*Essence*~
+@When X transfers property to Y for a specific purpose, but the purpose fails, then the property is held on resulting trust for X.
+@Therefore, when X transfers property to Y to be transferred to Z so that Z can pay a pre-announced dividend -- but in the mean-time Z becomes insolvent and so cannot legally disburse a dividend -- Y holds the property on resulting trust for X and may *not* use it in settlement of debts owed to it by Z.
+@The crucial component is *inability* of Z to use the money for any other purpose. Settlor and beneficiary have a *common intention*. 
+SUMMARY But -- 
+@This is *not* the same situation as a personal loan taken out for a new <s>yacht</s> car. The bank may ask you why you want the money, but they only do so out of *curiosity*: your response does not bind you. 
+@|Separation of Chattels|, as in |Re Goldcorp| and |Re London Wine| is evidence the property was not intended to be at the free disposal of the transferee.
+SUMMARY ~*Use*~
+/In practice these are extremely useful to business. They enable companies over whom the vultures are circling to bulk up their balance sheets by obtaining emergency funds over which the lender will retain a *proprietary interest* -- and therefore have priority should the worst come to the worst for the company in question. 
+SUMMARY *However*, the trust will end when the transfer to Z happens. In that eventuality, X will have a merely contractual claim on the money. 
+
+SUMMARY ~*Features*~
++*Transfer for a particular purpose*. This is often the same as |Quistclose| itself, a loan to pay creditors. E.g., |Rothmans v Freeman Mathews Treasure|. It could be for acquisition of property -- |Cobbold v Bakewell Management|, for investment -- |Twinsectra|, etc.  
++*Exclusively for the purpose*. The beneficiary cannot be free to do as he chooses with the property -- |Twinsectra|.
++*Separation of property*. This is evidence for (2). The money was separate in |Quistclose|, but _not_ in |Twinsectra|. 
+@@In the absence of other indicators of a trust, the property *not* being kept separate will negative it -- |R v Clowes No 2|. 
++*Failure of purpose*. Although situations such as |Re EVTR|, in which the purpose starts to be carried out, but is not completed before the company goes bust. 
+
+
+NAME Quistclose Trusts - Analysis
+CATEGORY Quistclose Trusts
+TYPE Concept
+SUMMARY ~*Summary*~
+/|Quistclose Trusts| have been explained as -- |Express Trusts| for *third parties* (|Quistclose| itself), for the *lender* (Hoffmann in |Twinsectra|) and for the *borrower* -- as |Purpose Trusts| with the beneficial interest not held by anyone (EWCA in |Twinsectra|) -- as loans specifically enforceable in equity (Chambers) -- and as pure |Resulting Trusts| (Millett in |Twinsectra|). 
+SUMMARY Each explanation has its flaws. In Virgo's view, the confusion is largely due to thinking |Quistclose| itself established a new species of trust. They are *not*, he says (p.282), citing  $!an article$$(1985) 101 LQR 269!$ by Lord Millett. 
+SUMMARY ~*Virgo's Analysis*~
+SUMMARY The fundamental flaw is the attempt to fit transfers for *different* purposes into the same conceptual mechanism. 
+@If the purpose in |Barclay's v Quistclose| was to pay a dividend to shareholders, who *could be identified*, then the trust was valid per |Re Denley|. 
+@On the other hand, had the purpose instead been _to sure up the company_, the trust would have failed initially, the beneficial interest automatically resulting back to the settlor.
+SUMMARY This reconciles Wilberforce in |Quistclose| with Millett in |Twinsectra|, and allows for other situations, e.g., money lent for the specific and exclusive purpose of paying borrowers, which would be construable as a trust for persons. It could be put in terms of an express trust for the lender without, in most situations, making any difference except for preventing the beneficiary, if a resulting trust is the preferred reading, from calling in the loan as long as the purpose could be fulfilled.
+
+
+SUMMARY ~*Competing Analyses*~
++|Express Trust| *for the third parties* -- the conventional view...
+/... and that of Lord Wilberforce in |Quistclose|, the third party beneficiaries being the shareholders of Rolls Razor. The trust failed for inability due to receivership and became replaced by a resulting trust. 
+@@This fails to explain Quistclose cases (see Virgo p.272) where identifiable beneficiaries do *not* lie behind the purpose, such trusts (non-charitable |Purpose Trusts|) being generally void.
+@@@N.B., on the |Beneficiary Principle|, a trust purporting to be for a purpose will succeed if those who will benefit can be identified -- |Re Denley|.
+@@As Lord Millett observed in |Twinsectra|, the beneficiaries of a private express trust *are at liberty to terminate* the trust and *transfer the property to themselves*. The insolvency in |Quistclose|, therefore, ought not have been an obstacle to the third parties' receiving their dividend -- as the beneficial interest *never lay with Rolls Razor* for them subsequently to be prohibited from disbursing to the shareholders.  
++|Express Trust| *for the lender*
+/Lord Hoffmann in |Twinsectra| favoured this analysis. The money been paid into the account of a fiduciary, a solicitor. 
+@@Applied to |Barclay's v Quistclose|, this would mean the beneficiary, Quistclose, would have been at liberty to call in the  
+@@But the stipulation of an exclusive and specific use deprives the beneficiaries, in this account, of their conventional rights as beneficiaries of express trusts.
++|Purpose Trusts| *in suspended animation*
+/The Court of Appeal in |Twinsectra| decided the money was held on a purpose trust, but that the beneficial interest would only precipitate one way or the other once the purpose had been (attempted to be) carried out.
+@@In the Lords, this was rejected as 'unorthodox' {i.e., 'fucking stupid'} -- the whole point of resulting trusts was to ensure that the whole beneficial interest of a trust with _someone_.
++|Express Trusts| *for the borrower* fails as an analysis on the liberty it would entail on the part of the borrower, which goes against the Quistclose requirement that the beneficiary is *not* to use the money as he pleases.
++*A loan with contractual terms enforceable in Equity* -- which would mean there was no trust at all. Favoured by Chambers in _Resulting Trusts_. Used in the Court of Appeal in |Twinsectra|, but rejected in the Lords by Millett on grounds that such a construction -- 
+@@Is inconsistent with the fiduciary obligations of the borrower -- |Twinsectra|, is inconsistent with the requirement of separation of funds, and fails to explain how the lender can have a proprietary right.
++|Resulting Trusts| *from the word go*. According to Lord Millett in |Twinsectra|, a Quistclose trust is really a resulting trust in which the borrower, the beneficiary, has a *power to dispose of the beneficial interest for the specific purpose*. Should that purpose become frustrated, the settlor can revoke the power and enforce the trust.
+@@The retention by the settlor of beneficial interest implies, however, that it must be an |Automatic Resulting Trusts|. However, such trusts arise only when an *express trust* has failed. But this analysis makes no suggestion of an express trust and ventures no explanation for how an automatic resulting trust can arises in default. 
+@@Furthermore, typically in Quistclose cases, the transfer of beneficial interest from X to Z does not fail. So the trust *cannot* be said to have failed.
+@@In Virgo's opinion (pp.281), either Lord Millett has invented a third category of resulting trusts, or his analysis is incorrect.
+
+
+
+

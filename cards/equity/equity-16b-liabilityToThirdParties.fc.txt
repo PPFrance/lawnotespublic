@@ -1,0 +1,119 @@
+
+NAME Barnes v Addy
+CITATION Barnes v Addy (1874) LR 9 Ch App 244
+CATEGORY Third Party Liability; Knowing Receipt; Dishonest Assistance
+FLAGS Historical
+HELD Strangers are not liable for breaches of fiduciary duty unless they *knowingly receive* property or *dishonestly assist* a breach of that duty.
+HELD Lord Selbourne LC -– '*Strangers are not to be made constructive trustees* in transactions within their legal powers, transactions perhaps of which a Court of Equity may disapprove, *unless* those agents *receive* and become chargeable with *some part of the trust property*, or unless they *assist* with the knowledge in a dishonest and fraudulent design on the part of the trustees. These are the principles, as it seems to me, which we must bear in mind in dealing with the facts of this case. If those principles were disregarded, I know not how anyone could, in transactions admitting of doubt as to the view which a Court of Equity might take of them, safely discharge the office of solicitor, or banker, or of agent of any sort to trustees. But, on the other hand, if persons dealing honestly as agents are at liberty to rely on the legal powers of the trustees, and are not to have the character of trustees constructively imposed upon them, then the transactions of mankind may safely be carried through, and I apprehend those who create a trust do expressly intend, in the absence of fraud and dishonesty, to exonerate such agents of all classes form the responsibilities which are expressly incumbent, by reasons of the fiduciary relation upon the trustees'
+
+
+NAME Nelson v Larholt
+CITATION Nelson v Larholt [1948]
+FLAGS Historical; Denning
+CATEGORY Third Party Liability; Knowing Receipt
+HELD Foreshadowing Peter Gibson J in |Baden| -- the receipt of *eight* cheques drawn on an estate's account by an executor ought to have put the recipient 'on a path of inquiry.'
+
+
+NAME Baden v Soc Gen
+AKA Baden
+CITATION Baden v Soc Gen [1993] 1 WLR 509
+FLAGS Leading; Peter Gibson
+CATEGORY Third Party Liability; Knowing Receipt
+HELD For |Knowing Receipt|, knowledge can be decomposed into: 1. actual knowledge; 2. wilfully shutting one's eyes to the obviou; 3. wilfully and recklessly *failing to make enquiries* an honest person would have made; 4. knowledge of circumstances which would *indicate the facts*, to an honest and reasonable man; and 5. knowledge of circumstances which would put such a man *on a course of inquiry*.
+
+
+
+
+NAME Cowan de Groot v Eagle Trust
+CITATION Cowan de Groot Properties Ltd v Eagle Trust plc [1992] 4 All ER 700
+CATEGORY Third Party Liability; Knowing Receipt; Meaning of Knowledge
+HELD For |Knowing Receipt|, a third party's knowledge of breach of fiduciary duty may be inferred from knowledge of a gross irregularity, e.g., a sale's substantial _undervalue_. 
+
+
+NAME Agip Africa v Jackson
+AKA Agip Africa
+FLAGS Key
+CITATION Agip (Africa) v Jackson [1990] Ch 265
+CATEGORY Third Party Liability; Knowing Receipt; Beneficial Receipt by Creditor
+HELD Money paid into a bank account in credit is held on trust by the bank for the holder of the account; but money paid into an account in debt entails a transfer of beneficial interest to the bank -- and therefore, _beneficial receipt_ by the bank.
+
+NAME MT Realisations v Digital Equipment Co
+CITATION MT Realisations v Digital Equipment Co [2003] EWCA Civ 494
+CATEGORY Third Party Liability; Knowing Receipt; Beneficial Receipt by Creditor
+HELD As in |Agip Africa|, a creditor who, in payment of a debt, receives money taken in breach of fiduciary duty or trust _is_ in beneficial receipt.
+
+
+
+NAME Re Montagu
+CITATION Re Montagu's Settlements [1987] Ch. 264
+CATEGORY Third Party Liability; Knowing Receipt; Meaning of Knowledge
+SUMMARY The 10th Duke of Manchester (whose title derived from the piffling village of Godmanchester, _not_ the city), the one who sold off Kimbolton Castle, had treated property from trusts settled by the 9th Duke as his own property. He had been shown the terms of the settlement, but later claimed to have forgotten what they were.
+HELD A distinction must be drawn between having *notice* of something and *knowing* about it. These are not the same, and merely having notice is not enough for |Knowing Receipt|.
+
+NAME BCCI v Akindele 
+AKA Akindele
+CITATION BCCI v Akindele [2001] Ch 437
+CATEGORY Third Party Liability; Knowing Receipt; Meaning of Knowledge; Unconscionability
+SUMMARY BCCI’s directors had entered into fraudulent transactions _within_ the bank. Akindele, a wealthy businessman from Nigeria, had negotiated an agreement with BCCI. In return for investing a substantial sum for between 2 and 5 years, he would be guaranteed a 15% return. 
+SUMMARY The arrangement was that he was to purchase shares, which were to be held by BCCI in their *own* name for up to five years. If at any point the investor indicated he wanted to keep them for *more*, they would be transferred into his own name.
+SUMMARY Akindele claimed he'd never intended to keep the money in the bank for more than five years -- but for the two years required by the contract, after which time, he’d withdraw the cash. He was not aware of the (fraudulent) internal arrangements by which BCCI had magicked up such a rate of return. But he _was_ aware they had form, and had been warned by a minister in the Nigerian government to avoid BCCI for the sake of his own reputation -- who nonetheless persuaded him not to withdraw the shares to avoid "upsetting tribal balances."
+HELD The classification of knowledge from |Baden| is of no particular value in knowing receipt. The test should be one of _unconscionability_. But in a commercial context, nothing short of the 3rd |Baden| level of knowledge will do. An interest rate two percent higher than the market average will not be enough.
+
+NAME Armstrong v Winnington
+CATEGORY Third Party Liability; Knowing Receipt; Meaning of Knowledge; Unconscionability
+HELD The disapproval of the CA in |Akindele| notwithstanding, the categories of knowledge identified in |Baden| are of useful application to measure the _unconscionability_ preferred to _knowledge_ in |Akindele|.
+
+in Akindele refuted the utility of the Baden classification, instead asserting that unconscionability should be the criterion. The two things were fudged back together in the High Court in Armstrong v Winnington [2012], which reasserted the Baden schema as a means of measuring that most epistemologically-elastic word in legal English, unconscionability.  
+
+
+
+NAME Phil Collins v Davis
+CITATION Phillip Collins v Davis [2000] 3 All ER 808
+CATEGORY Third Party Liability; Knowing Receipt; Defences; Change of Position
+HELD A defence against recovery of property knowingly received by a third party may be established if the property received led to a significant change in the position of the third party. 
+
+
+
+
+
+---------------------- dishonest assistance -----------------------------
+
+NAME Royal Brunei v Tan
+CITATION Royal Brunei Airlines v Tan [1995] 2 AC 378 
+AKA Tan
+COURT PC
+FLAGS Key; Persuasive
+CATEGORY Third Party Liability; Dishonest Assistance
+SUMMARY Tan ran a company that contracted with Royal Brunei to sell tickets. Money collected was to be held in a separate account on trust to the airline, to be accounted for within 30 days of receipt. 
+SUMMARY In difficulties, he dipped into the money. He knew doing so was wrong, but hoped to pay it back before the 30 days had arisen, and, no harm ultimately having been done, no-one would be any the wiser. His company then went insolvent. 
+SUMMARY The Airline sued him for dishonest assistance. He argued his intention was not to defraud, and that on this basis he had not been dishonest.
+HELD In the Privy Council -- |Dishonest Assistance| requires dishonesty rather than merely knowledge. Whether through actions, or passively through a lack of probity, dishonesty must be measured against how an honest person would have behaved in the circumstances. A person may therefore have a clear conscience, but by this standard nevertheless be dishonest. 
+
+
+NAME Barlow Clowes v Eurotrust
+CITATION Barlow Clowes v Eurotrust [2006] 1 All ER 333 
+AKA Eurotrust
+FLAGS Key; Persuasive
+CATEGORY Third Party Liability; Dishonest Assistance
+COURT PC
+HELD |Twinsectra| was wrong in adding to the objective test for dishonesty of |Tan|. 'Knowledge of the transaction has to be such as to render the participation contrary to normally acceptable standards of conduct. It does not require that the defendant should have had any reflection about what those normally acceptable standards were.' 
+
+
+NAME Abou-Rahman v Abach
+FLAGS Key
+CITATION Abou-Rahman v Abach [2006] EWCA Civ 1492
+CATEGORY Third Party Liability; Dishonest Assistance
+HELD The EWCA followed |Eurotrust| (PC) in preference to |Twinsectra| (EWCA). The appropriate test for dishonesty was whether the standards of conduct would permit the acts in question.
+COMMENT Followed in |Starglade v Nash|.
+
+
+
+NAME Starglade v Nash
+CITATION Starglade Properties v Nash [2010] EWCA Civ 1314
+CATEGORY Third Party Liability; Dishonest Assistance
+FLAGS Key; Leading
+HELD Albeit purporting to follow |Twinsectra|, the subjective element was nevertheless irrelevant. The test for dishonesty was generally to be *objective* -- but ultimately, the courts are at liberty to decide on the test to be applied to each pattern of facts. That a large body of opinion should dissent as to honesty is also irrelevant.
+
+
+
+

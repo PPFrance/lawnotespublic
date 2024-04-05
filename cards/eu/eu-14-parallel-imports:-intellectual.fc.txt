@@ -1,0 +1,138 @@
+META filename eu-14-parallel-imports:-intellectual.fc.txt
+
+
+
+
+
+NAME Centrafarm BV et Adriaan de Peijper v Winthrop BV
+CASENUM C-16/74
+CITATION Centrafarm BV et Adriaan de Peijper v Winthrop BV [1974] ECR 1183:
+CATEGORY Parallel Imports: Intellectual; Main Reading; The Case Of Trademarks: Subject-Matter And Exhaustion
+FLAGS
+
+
+
+
+
+
+NAME Deutsche Grammophon v Metro
+CASENUM C-78/77
+CITATION Deutsche Grammophon v Metro [1971] ECR 487
+CATEGORY Parallel Imports: Intellectual; Main Reading; The Case Of Trademarks: Subject-Matter And Exhaustion
+FLAGS
+
+
+
+
+
+
+NAME Hag I
+CASENUM C-192/73
+CITATION Hag I [1974] ECR 731
+CATEGORY Parallel Imports: Intellectual; Main Reading; Exception (I): Once There Was A Single Trademark Proprietor
+FLAGS
+
+
+
+
+
+
+NAME Hag II
+CASENUM C-10/89
+CITATION Hag II [1990] ECR I
+CATEGORY Parallel Imports: Intellectual; Main Reading; Exception (I): Once There Was A Single Trademark Proprietor
+FLAGS
+
+
+
+
+
+
+NAME Ideal Standard
+CASENUM C-9/93
+CITATION Ideal Standard [1994] ECR I
+CATEGORY Parallel Imports: Intellectual; Main Reading; The Issue Of The Existence Of An Economic Link
+FLAGS
+
+
+
+
+
+
+NAME Terrapin v Terranova
+CASENUM C-119/75
+CITATION Terrapin v Terranova [1976] ECR 1039
+CATEGORY Parallel Imports: Intellectual; Main Reading; Exception (Ii): The Risk Of Confusion
+FLAGS
+
+
+
+
+
+
+NAME Hoffmann-La Roche &CO AG v Centrafarm Vertriebsgesellschaft
+CASENUM C-102/77
+CITATION Hoffmann-La Roche &CO AG v Centrafarm Vertriebsgesellschaft 
+CATEGORY Parallel Imports: Intellectual; Main Reading; Exception (Iii): Repackaging
+FLAGS
+
+
+
+
+
+
+NAME Merck, Sharp and Dohme GmbH v Paranova Pharmazeutika HAndels
+CASENUM C-443/99
+CITATION Merck, Sharp and Dohme GmbH v Paranova Pharmazeutika HAndels 
+CATEGORY Parallel Imports: Intellectual; Main Reading; Exception (Iii): Repackaging
+FLAGS
+
+
+
+
+
+
+NAME Boehringer Ingelheim KG and others v Swingward Ltd and others
+CASENUM C-143/00
+CITATION Boehringer Ingelheim KG and others v Swingward Ltd and others 
+CATEGORY Parallel Imports: Intellectual; Main Reading; Exception (Iii): Repackaging
+FLAGS
+
+
+
+
+
+
+NAME Silhouette International Schmied GmbH & Co. KG v Hartlauer
+CASENUM C-355/96
+CITATION Silhouette International Schmied GmbH & Co. KG v Hartlauer 
+CATEGORY Parallel Imports: Intellectual; [2002] Ecr I-3579.; Eu/Eea Exhaustion Versus International Exhaustion
+FLAGS
+
+
+
+
+
+
+NAME to C-416/99 Davidoff and Levi Strauss
+CASENUM C-414/99
+CITATION to C-416/99 Davidoff and Levi Strauss [2001] ECR I
+CATEGORY Parallel Imports: Intellectual; [2002] Ecr I-3579.; Eu/Eea Exhaustion Versus International Exhaustion
+FLAGS
+
+
+
+
+
+
+NAME Silhouette, (1999) 36 CMLRev
+CASENUM C-355/96
+CITATION Silhouette, (1999) 36 CMLRev 807
+CATEGORY Parallel Imports: Intellectual; [2002] Ecr I-3579.; Eu/Eea Exhaustion Versus International Exhaustion
+FLAGS
+
+
+
+
+
+

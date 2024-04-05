@@ -1,0 +1,2142 @@
+
+
+
+NAME Smith v Hughes (Westlaw)
+CITATION Smith v Hughes 2008 Rep LR 55
+CIT 2008 Rep LR 55
+COURT EWHC
+CATEGORY Westlaw; Personal Injury Other Related Subjects: Damages; Loss of Earnings; Measure of Damages; Particulars; Pleadings
+SUMMARY _Abstract_ -- The pursuer (S) applied to allow issues for jury trial in relation to her claim for damages for personal injuries suffered in a road traffic accident.
+SUMMARY _Abstract_ -- The defender (H) objected on the ground that S's pleadings gave insufficient detail in relation to her claims for future loss of earnings and past and future necessary services. S's statement of claim sought damages for (i) future wage loss, in relation which it was pleaded that she had prospects of further promotion from her then position as a supervisor; (ii) future necessary services, as to which there was no further averment at all. H contended that the averments gave insufficient specification of the claims and should be struck out.
+SUMMARY _Abstract_ -- 
+SUMMARY _Abstract_ -- S submitted that, in the context of a jury trial, the Rules of Court Ch.43 only required her to plead abbreviated heads of damage, with the specification of those heads being given in the statement of valuation of claim, to which the court could have regard in determining the sufficiency of the pleaded heads of damage.
+SUMMARY In an action for damages for both future loss of earnings and also past and future necessary services, the Rules of Court Ch.43 required the pursuer to give sufficient details of her alleged prospects for promotion and the services which she would require in the future, since the defender was entitled to know what was being sought and upon what factual basis.
+HELD Judgment accordingly.
+HELD (1) It was appropriate to refer to the statement of valuation of claim where a question arose as to sufficiency of specification of the heads of claim, Easdon v A Clarke & Co (Smethwick) Ltd 2006 G.W.D. 19-394 applied. However, the plea that S had prospects of further promotion was not merely doubtful; it was irrelevant. It said nothing at all about what sort of prospects S had and the statement of valuation of claim added nothing. The plea was plainly insufficient. From the statement of claim, it was far from clear that S had made any averments at all in relation to the claim for future necessary services. (2) Notwithstanding the changes to Ch.43, a pursuer was still required to give fair notice of the injury and damage relied upon, Baird v Cowie [2006] CSOH 168, 2006 G.W.D. 37-736 considered. That was particularly so where the pursuer wished the case to be determined by jury trial. Both the other party and the judge had to be able to ascertain from a pursuer's pleadings what was being sought and upon what factual basis. That could not be said of S's claim in the instant case in relation to future services. (3) The deficiencies in S's pleadings were, however, capable of being cured by amendment and she was accordingly allowed an opportunity to remedy them.
+JUDGE Lord Brodie
+COUNSEL For the pursuer: E Mackenzie. For the defenders: N Mackenzie.
+
+
+
+
+
+NAME Rose v Pim (Westlaw)
+COURT EWHC
+
+
+
+
+
+NAME Hartog v Colin & Shields (Westlaw)
+CITATION Hartog v Colin & Shields [1939] 3 All ER 566
+CIT [1939] 3 All ER 566
+COURT EWHC
+CATEGORY Westlaw; Mistake
+FLAGS Approved
+JUDGE Singleton J
+
+
+
+
+
+NAME Partridge v Crittenden (Westlaw)
+CITATION Partridge v Crittenden [1968] 1 WLR 1204
+CIT [1968] 1 WLR 1204
+COURT EWHC
+CATEGORY Westlaw; Animals Other Related Subjects: Commercial Law; Advertisements; Birds; Conservation; Formation of Contract; Offers For Sale
+FLAGS Approved
+SUMMARY Wild birds; protection; offer for sale
+SUMMARY There is no offer for sale of a wild bird contrary to the Protection of Birds Act 1954 s.6(1) and Sch.4 when an advertisement constitutes in law merely an invitation to treat. P inserted an advertisement in a periodical named Cage and Aviary Birds under the general heading "Classified Advertisements" containing the words ". . .Bramblefinch cocks, bramblefinch hens, 25s. each." T sent 25s. for a hen which he duly received. On P's appeal against conviction of unlawfully offering a wild bird for sale, held that the appeal be allowed. ( Fisher v Bell [1961] 1 Q.B. 394 applied, Mella v Monahan [1961] Crim. L.R. 175 applied and dictum of Lord Herschell in Grainger & Son v Gough (Surveyor of Taxes) [1896] A.C. 325 applied).
+JUDGE Lord Parker LCJ; Ashworth J; Blain J
+
+
+
+
+
+NAME Fisher v Bell (Westlaw)
+CITATION Fisher v Bell [1961] 1 QB 394
+CIT [1961] 1 QB 394
+COURT EWHC
+CATEGORY Westlaw; Criminal Law; Offensive Weapons; Sale of Goods
+FLAGS Approved
+SUMMARY Restriction of offensive weapons
+SUMMARY A shopkeeper who exposes an offensive weapon for sale in his window does not offer it for sale contrary to the Restriction of Offensive Weapons Act 1959 s.1(1) . A shopkeeper put a flick-knife in his window with a ticket saying "ejector knife - 4s."
+HELD the knife was not offered for sale since, in the absence of any definition in the Restriction of Offensive Weapons Act, 1959, extending the meaning of that term, it must be given the meaning attributed to it in the ordinary law of contract. ( Magor and St Mellons Rural DC v Newport Corp [1947-51] C.L.Y. 5812 followed; Keating v Horwood (1926) 135 L.T. 29 distinguished and Wiles v Maddison [1943] 1 All E.R. 315 distinguished).
+JUDGE Lord Parker LCJ; Ashworth J; Elwes J
+
+
+
+
+
+NAME Pharmaceutical Society of Great Britain v Boots Cash Chemists (Westlaw)
+CITATION Pharmaceutical Society of Great Britain v Boots Cash Chemists [1953] 1 QB 401
+CIT [1953] 1 QB 401
+COURT EWCA
+CATEGORY Westlaw; Health Other Related Subjects: Sale of Goods; Pharmacists; Poisons; Sale of Goods
+FLAGS Approved
+SUMMARY Poisons; sale by or under supervision of registered pharmacist
+SUMMARY Where goods are displayed in a shop and it is intended that customers shall go and choose what they want, the contract is not completed until the customer has indicated the article which he needs and the shopkeeper or someone on his behalf accepts that offer, and it makes no difference that the shop is a "self-service" shop. The defendants had adopted a "self-service" system in their shop, which consisted in allowing persons who resorted to the shop to go to shelves where goods were exposed for sale and marked with the price. They took the article required and went to the cash desk, where the cashier or assistant saw the article, stated the price, and took the money. In one of their departments there were on certain shelves ointments and drugs coming within Part I of the Poisons List. Before any person could leave with what he had bought in that department he had to pass the scrutiny and supervision of a qualified pharmacist. The question for the opinion of the court was whether each sale was effected in accordance with the Pharmacy and Poisons Act 1933 s.18(1)(a)(iii) which provides that the sale of any poison included in Part I of the Poisons List shall not be lawful unless "the sale is effected by, or under the supervision of, a registered pharmacist."
+HELD a sale was not completed until the customer's offer to buy had been accepted by the defendants by their acceptance of the purchase price, which acceptance took place under the supervision of a registered pharmacist as required by the Pharmacy and Poisons Act 1933 s.18(1)(a)(iii) .
+JUDGE Romer LJ
+
+
+
+
+
+NAME Thornton v Shoe Lane Parking (Westlaw)
+CITATION Thornton v Shoe Lane Parking [1971] 2 QB 163
+CIT [1971] 2 QB 163
+COURT EWCA
+CATEGORY Westlaw; Contracts; Car Parks; Exclusion Clauses; Liabilities; Notice; Tickets
+FLAGS Approved
+SUMMARY Exemption clause; automatic ticket machine; whether conditions noticeable
+SUMMARY A customer, who receives from an automatic machine a ticket stated to be issued subject to conditions, is only bound by them if reasonably sufficient steps have been taken to bring them to his notice. Per curiam: The nature of the intended exemption is a factor to be taken into account in deciding as to the reasonableness of what has been done to bring it to the other party's notice. T drove his car into a new automatic car park where he had never been before. A notice outside gave the charges and stated that all cars were "parked at owner's risk." A traffic light on the entrance lane showed red and a machine produced a ticket when the car stopped beside it. T took this and, the light having turned green, drove into the garage where the car was parked. On returning to collect it there was an accident in which he was injured. In his action against the garage for damages the garage contended inter alia that the ticket incorporated a condition exempting them from liability. The ticket stated the car's time of arrival and that it was to be presented when the car was claimed. In the bottom left-hand corner in small print it was said to be "issued subject to conditions . . . displayed on the premises." On a pillar opposite the ticket machine were displayed eight lengthy conditions, one of which stated that the garage owners were not responsible for injury to a customer. On appeal by the garage against the award of damages to T, held, dismissing the appeal, that, since T did not know of the exemption condition and the garage had not done what was reasonably sufficient to bring it to his notice, it did not exempt them from liability. (Dicta of Mellish L.J. in Parker v South Eastern Railway Co (1877) 2 C.P.D. 416 applied, and of Lord Hodson in McCutcheon v David MacBrayne Ltd [1964] 1 W.L.R. 125 applied).
+JUDGE Buckley J
+
+
+
+
+
+NAME Chapelton v Barry Urban District Council (Westlaw)
+COURT EWCA
+FLAGS Approved
+
+
+
+
+
+NAME Harvey v Facey (Westlaw)
+CITATION Harvey v Facey [1893] AC 552
+CIT [1893] AC 552
+COURT UKPC
+CATEGORY Westlaw; Contracts; Completion; Contracts; Formation of Contract; Offer and Acceptance; Telegraph
+FLAGS Approved
+JUDGE Lord Morris
+
+
+
+
+
+NAME Clifton v Palumbo (Westlaw)
+COURT EWCA
+
+
+
+
+
+NAME Gibson v Manchester City Council (Westlaw)
+CITATION Gibson v Manchester City Council [1979] 1 WLR 294
+CIT [1979] 1 WLR 294
+COURT UKHL
+CATEGORY Westlaw; Real Property Other Related Subjects: Contracts; Conduct; Contracts; Local Authority Housing; Specific Performance
+FLAGS Approved
+SUMMARY Specific performance; contract to sell council house; whether enforceable; correspondence and conduct of parties
+SUMMARY A contract alleged to have been made by an exchange of correspondence in which successive communications other than the first are in reply to one another, is not an exception to the normal analysis of a contract as being constituted by offer and acceptance. G was the tenant and occupier of a council house owned M Corp., by whom he had been employed for 16 years. In November 1970, M Corp. sent G a form and a brochure giving details of how he could buy the house. G completed the form and returned it, requesting information as to its price. In February 1971, M Corp. wrote informing G of the price, and saying that if he wished to purchase the house, he should return the enclosed application. G completed the form, leaving the price blank, and returned it with a covering letter asking for consideration to be given to defects in the path to the house. M Corp. replied that the price had been fixed according to the condition of the property. G wrote back asking the corporation to "carry on with the purchase as per my application." M Corp. took the house off the list of tenant-occupied houses and G did some work on the house. Then Labour gained control of the M Corp. and passed a resolution not to sell council houses except where legally binding contracts had been previously concluded. G was notified that the sale would not proceed. The County Court judge and the Court of Appeal held that in the light of the correspondence as a whole and the conduct of the parties, there was a concluded contract, and ordered specific performances. On appeal to the House of Lords, held, allowing the appeal, that there never was an offer capable of acceptance, merely negotiations which never reached fruition. (Tiverton Estates Ltd v Wearwell Ltd [1975] Ch. 146 distinguished).
+JUDGE Lord Diplock; Lord Edmund-Davies; Lord Fraser of Tullybelton; Lord Russell of Killowen; Lord Keith of Kinkel
+
+
+
+
+
+NAME Payne v Cave (Westlaw)
+CITATION Payne v Cave 100 ER 502
+CIT 100 ER 502
+COURT EWHC
+
+
+
+
+
+NAME Warlow v Harrison (Westlaw)
+CITATION Warlow v Harrison 120 ER 925
+CIT 120 ER 925
+COURT EWHC
+
+
+
+
+
+NAME Barry v Davies (Westlaw)
+CITATION Barry v Davies [1959] CLY 88545
+CIT [1959] CLY 88545
+COURT EWHC
+CATEGORY Westlaw; Personal Injury; Measure of Damages; Personal Injury; Spine
+SUMMARY Personal injuries or death; quantum of damages; Injury to Spine
+SUMMARY Male, aged 71. Bricklayer earning GBP 9 a week. Injury to seventh thoracic vertebrae as result of fall; general bruising and shock. Was in hospital for 10 days and then had to be out-patient for six months. Was unable to continue job as a bricklayer and could not find other light work. He had expected to go on working for another five years and it was held working capacity more like three years. Although he looked well and slept well he had to lead life of leisure earlier than would have done but for accident. GBP 250.
+JUDGE Ashworth J
+
+
+
+
+
+NAME Spencer v Harding (Westlaw)
+CITATION Spencer v Harding (1869-70) LR 5 CP 561
+CIT (1869-70) LR 5 CP 561
+COURT EWHC
+CATEGORY Westlaw; Contracts; Tenders; Trading Stock; Wholesale Trade
+FLAGS Approved
+JUDGE Willes J; Keating J; Montague Smith J
+
+
+
+
+
+NAME Blackpool and Fylde Aeroclub Ltd v Blackpool Borough Council (Westlaw)
+COURT UKSC
+
+
+
+
+
+NAME Hyde v Wrench (Westlaw)
+CITATION Hyde v Wrench 49 ER 132
+CIT 49 ER 132
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Butler Machine Tool Co Ltd v Ex-Cell-O Corp (Westlaw)
+CITATION Butler Machine Tool Co Ltd v Ex-Cell-O Corp [1979] 1 WLR 401
+CIT [1979] 1 WLR 401
+COURT EWCA
+CATEGORY Westlaw; Contracts Other Related Subjects: Construction Law; Contract Terms; Offer and Acceptance
+FLAGS Approved
+SUMMARY Offer and acceptance; order to be accepted on sellers' terms; acknowledgment of order on buyers' terms
+SUMMARY Where parties to a contract have made offer and counter-offer, the documents passing between the parties must be construed as a whole, but the rules set out in Hyde v Wrench 49 E.R. 132 still apply. The plaintiff sellers offered to deliver a machine tool on condition that orders were only to be accepted on the terms set out in the quotation. The sellers' terms included a price variation clause. The defendant buyers replied with an order containing different terms and no price variation clause. The order had a tear-off slip of acknowledgment on those terms, which acknowledgment was duly signed by the sellers. Due to the buyers' delay in accepting delivery the sellers invoked the price variation clause. The sellers were successful at first instance but on appeal, held, allowing the appeal, that the buyers' reply was a counter offer which the sellers had accepted by their acknowledgment (Hyde v Wrench 49 E.R. 132 applied and Trollope & Colls Ltd (t/a Nuclear Civil Constructions) v Atomic Power Constructions Ltd [1963] 1 W.L.R. 333 applied).
+JUDGE Lord Denning MR; Lawton LJ; Bridge LJ
+
+
+
+
+
+NAME Tekdata Interconnections Ltd v Amphenol Ltd (Westlaw)
+CITATION Tekdata Interconnections Ltd v Amphenol Ltd [2009] EWCA Civ 1209
+CIT [2009] EWCA Civ 1209
+COURT EWCA
+CATEGORY Westlaw; Sale of Goods Other Related Subjects: Contracts; Conduct; Formation of Contract; Offer and Acceptance; Standard Terms
+FLAGS Approved
+SUMMARY _Abstract_ -- The appellant seller (S) appealed against a decision that the parties' dealings were on the terms of the respondent buyer (B).
+SUMMARY _Abstract_ -- The parties were part of a chain of suppliers to Rolls Royce as ultimate purchaser. Rolls Royce needed engine control systems for installation in its aero engines. It bought such systems from Goodrich which itself bought cable assembly items such as cable harnesses for internal wiring from B. In order to manufacture the harnesses B acquired connectors from S. The parties had been doing business for over 20 years. For most, if not all, of that time the supply of connectors had been controlled by Goodrich which required B to purchase the connectors from S to a specification required by Goodrich and at a price determined by Goodrich. S had also had a long term contract with Goodrich pursuant to which it agreed to supply connectors to B for the price determined by Goodrich. B sent purchase orders to S containing B's own terms and conditions. S acknowledged the purchase orders by sending an acknowledgment which stated that S's own terms and conditions applied. Although an offer to buy on the purchaser's terms which was followed by an acknowledgement of purchase on the seller's terms and then delivery would normally result in a contract on the seller's terms, the judge held that B's terms applied because it was never intended that S's terms should apply and the parties had always intended that B's terms were to apply.
+SUMMARY _Abstract_ -- S submitted that the judge should not have analysed the overall relationship between the parties and come to the conclusion which he did, but should have applied the traditional offer and acceptance analysis resulting in a contract on S's terms.
+SUMMARY A judge had erred in not applying a traditional offer and acceptance analysis to determine which of the parties' terms and conditions applied to the contracts between them.
+HELD Appeal allowed.
+HELD The traditional offer and acceptance analysis had to be adopted unless the documents passing between the parties and their conduct showed that their common intention was that some other terms were intended to prevail, Butler Machine Tool Co v Ex-cell-o Corp (England) [1979] 1 W.L.R. 401 considered. The traditional analysis would conclude that the terms on S's acknowledgment would be the terms on which the parties contracted. The judge gave weight to the fact that the connectors were items of considerable sophistication which were to be fitted into aero engine control systems so that delivery times and quality control were important; the pre-existing agreement between S and Goodrich which committed S to make supplies on terms which largely corresponded to those of B; and the fact that S did not mention its own terms before the service of the defence. The context of the parties' relationship was important but the factors on which the judge relied did not justify his conclusion. The fact that delivery times and quality control were essential was true in many commercial relationships and could be no more than a background factor. There was no precise matching between the terms of the agreement between S and Goodrich and B's terms. The parties had had an opportunity to agree a single set of terms but did not do so. The terms of the post-dispute correspondence were not as significant as the judge thought. It could not be inferred from the correspondence that S's never intended its terms and conditions to apply. Although the context of a long term relationship and the conduct of the parties might be strong enough to displace the result which a traditional offer and acceptance analysis would dictate, the circumstances were not strong enough to do so in the instant case. The judge should have held that S's terms and conditions applied.
+JUDGE Pill LJ; Dyson LJ; Longmore LJ
+COUNSEL For the appellant: Alastair Tomson. For the respondent: Malcolm Chapple.
+
+
+
+
+
+NAME Routledge v Grant (Westlaw)
+CITATION Routledge v Grant 172 ER 415
+CIT 172 ER 415
+COURT EWHC
+
+
+
+
+
+NAME Mountford v Scott (Westlaw)
+CITATION Mountford v Scott [1975] Ch 258
+CIT [1975] Ch 258
+COURT EWCA
+CATEGORY Westlaw; Real Property; Consideration; Options; Sale of Land
+FLAGS Approved
+SUMMARY Option; nominal consideration
+SUMMARY The sum of GBP 1 is a perfectly sufficient valuable consideration for the grant of an option to purchase. In December 1971 D granted P an option to purchase his house for GBP 10,000. The consideration, stated and paid, was GBP 1, and the option was for a period of six months. In January 1972 D purported to withdraw the offer. P exercised the option in March; D refused to complete. P sought and was granted an order for specific performance. On appeal by D, held, dismissing the appeal, that the option agreement was a valid and irrevocable offer to sell, and it mattered not that the consideration for it consisted of a token payment. (Decision of Brightman J. affirmed).
+JUDGE Russell LJ; Cairns LJ; Sir John Pennycuick
+
+
+
+
+
+NAME Byrne & Co v Van Tienhoven (Westlaw)
+COURT EWHC
+
+
+
+
+
+NAME Dickinson v Dodds (Westlaw)
+CITATION Dickinson v Dodds (1876) 2 Ch D 463
+CIT (1876) 2 Ch D 463
+COURT EWCA
+CATEGORY Westlaw; Contracts Other Related Subjects: Sale of Goods; Contracts of Sale; Formation of Contract; Offer and Acceptance; Specific Performance; Withdrawal
+FLAGS Approved
+JUDGE James LJ; Baggallay JA; Mellish LJ
+
+
+
+
+
+NAME Williams v Carwardine (Westlaw)
+CITATION Williams v Carwardine 110 ER 590
+CIT 110 ER 590
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Tinn v Hoffman & Co (Westlaw)
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME R v Clarke (Westlaw)
+CITATION R v Clarke [2006] EWCA Crim 2475
+CIT [2006] EWCA Crim 2475
+COURT EWCA
+CATEGORY Westlaw; Sentencing
+JUDGE Smith LJ; David Clarke J; Judge Chapman
+COUNSEL For the appellant: BN Hamid.
+
+
+
+
+
+NAME Luxor (Westlaw)
+CITATION Luxor [1941] AC 108
+CIT [1941] AC 108
+COURT UKHL
+CATEGORY Westlaw; Agency; Agents; Commission; Implied Terms
+FLAGS Approved
+JUDGE Viscount Simon LC; Romer LJ; Lord Russell of Killowen; Lord Thankerton; Lord Wright
+
+
+
+
+
+NAME Errington v Errington and Woods (Westlaw)
+CITATION Errington v Errington and Woods [1952] 1 KB 290
+CIT [1952] 1 KB 290
+COURT EWCA
+CATEGORY Westlaw; Landlord and Tenant; Contractual Rights; Equitable Interests; Licences; Tenancies at Will; Unilateral Contracts
+FLAGS Approved
+SUMMARY Licence; lease or; tenancy at will
+SUMMARY "It is of the essence of a tenancy at will that it should be determinable by either party on demand." "The difference between a tenancy and a licence is, therefore, that in a tenancy an interest passes in the land, whereas in a licence it does not. . . . Although a person who is let into exclusive possession is, prima facie, to be considered to be a tenant, nevertheless he will not be held to be so if the circumstances negative any intention to create a tenancy. Words alone may not suffice. Parties cannot turn a tenancy into a licence merely by calling it one. But if the circumstances and the conduct of the parties show that all that was intended was that the occupier should be granted a personal privilege with no interest in the land, he will be held only to be a licensee": per Denning, L.J. In 1936 a father bought a house for his son and daughter-in-law to live in. The father put down GBP 250 in cash and borrowed GBP 500 from a building society on the security of the house, repayable with interest by instalments of 15s. a week. He took the house in his own name and made himself responsible for the instalments. The father told the daughter-in-law that the GBP 250 was a present for them, but he left them to pay the building society instalments of 15s. a week themselves. He handed the building society book to the daughter-in-law and said to her: "Don't part with this book. The house will be your property when the mortgage is paid." He said that when he retired he would transfer it into their names. The daughter-in-law paid the instalments regularly from that date onwards with the result that much of the mortgage had been repaid. The father, on being informed that the couple could not pay the rates, paid those also. In 1945 the father died leaving the house to his widow. Soon after, the son left his wife. The widow sued her daughter-in-law for possession of the house. Held, (1) there was no tenancy at will as the father could not revoke his promise once the couple entered on performance of the act: his promise would only cease to bind him if they left it incomplete and unperformed, which they had not done; (2) the 15s. which the couple paid was not rent as they were not bound to pay it: the father could not sue for it or distrain for it; he could only refuse to transfer the house to them; (3) the couple were licensees, having a permissive occupation short of a tenancy, but with a contractual right or, at any rate, an equitable right to remain so long as they paid the instalments, which would grow into a good equitable title to the house itself as soon as the mortgage was paid. Lynes v Snaith [1899] 1 Q.B. 486 doubted; Thompson v Earthy [1951] 2 K.B. 596 doubted; and dictum in Foster v Robinson [1951] 1 K.B. 149 doubted
+JUDGE Somervell LJ; Denning LJ; Hodson LJ
+
+
+
+
+
+NAME Daulia Ltd v Four Millbank Nominees Ltd (Westlaw)
+CITATION Daulia Ltd v Four Millbank Nominees Ltd [1978] Ch 231
+CIT [1978] Ch 231
+COURT EWCA
+CATEGORY Westlaw; Real Property Other Related Subjects: Contracts; Contract For Sale of Land; Formation of Contract; Unilateral Contracts
+FLAGS Approved
+SUMMARY Sale of land; whether contract existed; requirement of writing; enforceability
+SUMMARY A contract to do something which has the effect of disposing of an interest in land is a contract to dispose of an interest in land within s.40 of the Act. D Ltd negotiated with F Ltd for the sale of certain properties. D Ltd alleged that there was an oral agreement that F Ltd would exchange contracts for the sale of the properties if D Ltd attended at their offices with a draft contract in terms already agreed and a banker's draft for the deposit. D Ltd complied with those conditions, but F Ltd refused to exchange contracts. D Ltd claimed damages for breach of the oral agreements. The judge struck out the statement of claim as disclosing no cause of action in that there was no note or memorandum of the agreement sufficient to satisfy s.40(1) of the Act. D Ltd appealed.
+HELD dismissing the appeal, that (1) D Ltd, having satisfied the conditions specified, there was a valid unilateral contract of which F Ltd were in breach; although the unilateral contract was not for the sale of land or an interest in land, s.40 of the Act applied to it and, in the absence of a memorandum in writing, there had to be an act of part performance before it could be enforced; (2) D Ltd's acts did not point to there being some contract so there was no act of part performance to exclude the provisions of s.40(1) of the Act. (Warlow v Harrison 120 E.R. 920 distinguished and Johnston v Boyes [1899] 2 Ch. 73 distinguished; Steadman v Steadman [1976] A.C. 536 applied).
+JUDGE Goff LJ; Buckley LJ; Orr LJ
+
+
+
+
+
+NAME Brogden v Metropolitan Railway (Westlaw)
+CITATION Brogden v Metropolitan Railway (1877) 2 App Cas 666
+CIT (1877) 2 App Cas 666
+COURT UKHL
+CATEGORY Westlaw; Contracts; Agreements; Burden of Proof; Conduct; Drafting; Formation of Contract; Intention; Signatures
+FLAGS Approved
+JUDGE Lord Cairns LC
+
+
+
+
+
+NAME British Steel Corporation v Cleveland Bridge and Engineering Co Ltd (Westlaw)
+CITATION British Steel Corporation v Cleveland Bridge and Engineering Co Ltd [1984] 1 All ER 504
+CIT [1984] 1 All ER 504
+COURT EWHC
+CATEGORY Westlaw; Contracts; Contracts; Letters of Intent; Quantum Meruit
+FLAGS Approved
+SUMMARY Quantum meruit; work done in anticipation of contract; no contract concluded
+SUMMARY Where one party does work at the request of another in anticipation of a contract, but where on the facts no contract is created, then that party is entitled to payment on a quantum meruit basis. D successfully tendered for the fabrication of steel work in the construction of a building. The parties entered into complicated negotiations and D eventually sent a letter of intent requiring P to commence work on the construction of various items pending contract. P began construction of the items. Further negotiations took place for some time during which P continued to manufacture steel nodes. Eventually negotiations broke down and D refused to make any payment for the nodes. P sued on a quantum meruit basis, D counterclaimed for breach of contract.
+HELD that no contract had in fact been made by the letter of intent, nor had an executory contract been created by P acceeding to the request to begin work on the nodes; in the circumstances D were liable to pay a reasonable sum for work done at their request (Hick v Raymond & Reid [1893] A.C. 22 applied).
+JUDGE Robert Goff J
+
+
+
+
+
+NAME Re Selectmove Ltd (Westlaw)
+CITATION Re Selectmove Ltd [1995] 1 WLR 474
+CIT [1995] 1 WLR 474
+COURT EWCA
+CATEGORY Westlaw; Contracts; Agreements; Arrears; Consideration; Instalments; Tax; Winding-Up
+FLAGS Approved
+SUMMARY Consideration; agency; winding up; petition debt disputed; company alleged agreement with Revenue to pay tax arrears in instalments; whether agreement supported by consideration; whether substantial grounds to dispute winding up
+SUMMARY The Inland Revenue petitioned for the winding-up of the company, S, on the basis of arrears of tax under the PAYE system. The winding-up order was made and S appealed on the ground that, in October 1991 at a meeting with the Revenue, it was agreed that due to S's cash flow problems the tax due would be paid in arrears. S therefore contended that the petition debt was disputed and the order should be set aside. The issues were whether the tax collector was entitled to accept the instalment proposal, whether there was consideration for the agreement and whether, if there was no agreement, estoppel prevented the Revenue from claiming the debt.
+HELD dismissing S's appeal, that (1) the collector of taxes who met with S did not have actual authority to make such an agreement or otherwise bind the Revenue. Further, there was no representation by the Revenue that the tax collector had the Revenue's authority to accept the offered instalment proposal ( Armagas Ltd v Mundogas SA (The Ocean Frost) [1986] A.C. 717 applied); (2) an agreement to pay the arrears of tax in instalments would not have been enforceable because there was no consideration on the part of the Revenue ( Foakes v Beer (1884) 9 App. Cas. 605 applied); (3) as the tax collector had no authority to make the agreement, neither could he make the promise on which the estoppel argument was based; and (4) as S had failed to pay the instalments it was entirely fair of the Revenue to seek to enforce the debt.
+JUDGE Balcombe LJ; Stuart-Smith LJ; Peter Gibson LJ
+COUNSEL For S: Christopher Nugee. For Inland Revenue: A.W.H. Charles.
+
+
+
+
+
+NAME Dresdner Kleinwort Ltd v Attrill (Westlaw)
+CITATION Dresdner Kleinwort Ltd v Attrill [2013] EWCA Civ 394
+CIT [2013] EWCA Civ 394
+COURT EWCA
+CATEGORY Westlaw; Employment Other Related Subjects: Contracts; Banking and Finance; Bonus Payments; Contracts of Employment; Investment Banks; Mutual Trust and Confidence; Promises; Staff Handbooks; Terms and Conditions
+FLAGS Approved
+SUMMARY _Abstract_ -- The appellants (D and C) appealed against a decision ([2012] EWHC 1189 (QB), [2012] I.R.L.R. 553) that D had wrongfully denied the respondents, its employees and former employees, their contractual entitlement to certain discretionary bonuses.
+SUMMARY _Abstract_ -- D was an investment bank in Dresdner Bank group (DB). On August 18, 2008, shortly before a takeover by C, D announced to its employees in a "town hall" meeting broadcast over the company intranet that DB's board had approved a "guaranteed" minimum bonus pool, which would be allocated to individuals on a discretionary basis according to individual performance "in the usual way". The aim was to retain employees at a time of speculation about DB's future. In December 2008, a letter to each employee confirmed that a discretionary bonus for 2008 had been provisionally awarded at a specified sum, subject to a "material adverse change clause" (MAC clause). On the same day, employees were reassured at a further town hall meeting that the MAC clause was unlikely to be invoked. In January 2009, after the acquisition of DB by C, the MAC clause was invoked and D's employees were told that their bonus awards would be cut by 90 per cent. The issues were (i) whether the August 18 announcement created an obligation to pay the bonus sums claimed; (ii) whether the introduction of the MAC clause was a breach of the implied duty of mutual trust and confidence. The first question involved consideration of three sub-issues: first, whether the announcement was an exercise of D's power to unilaterally vary its employees' terms and conditions under cl.1.4 of the employee handbook, which allowed such variation if the changes were made by a member of the human resources department and notified in writing, and also provided that a change affecting a group of people could be notified by "display" on the company intranet; second, whether the announcement was intended to be legally binding so as to be capable of having contractual effect; third, whether the employees had been obliged to communicate acceptance of the bonus offer. The judge found that D's communications amounted to a variation under cl.1.4 and were intended to be legally binding, and that the introduction of the MAC clause was a breach of the implied duty of mutual trust and confidence.
+SUMMARY The court determined that an employer who had made an oral promise in a "town hall" meeting to pay relevant employees a guaranteed performance-based bonus had done so in accordance with powers of unilateral variation set out in the employee handbook and with the intention that the promise would be legally binding.
+HELD Appeal dismissed.
+HELD (1) (a) The variation had been effected in accordance with cl.1.4. D's communications had been made with the approval of the board of the remuneration committee. Since the HR director was a member of that board, no further endorsement by HR was necessary. Moreover, there was no reason why compliance could not be achieved by two documents. A change affecting a group of people did not need to be in writing, but needed only to be displayed on the company intranet. The August 18 announcement could be said to have been "displayed" on D's intranet by reason of its having been broadcast, even if the broadcast could not be viewed after the event (see paras 52-54 of judgment); (b) there was overwhelming evidence that D had intended its promise to be legally binding. Where a term was being introduced into a pre-existing contractual relationship, there was a very strong presumption that it was intended to be legally binding, and the onus was on the party asserting that there was no intention to create legal relations to establish that fact. The natural inference was that any promises made to staff relating to the terms of their employment would take effect in the same way as other contractual terms. That was supported by a number of matters: D's chief executive officer had made the promise, which implied that it must have been approved at the highest level; it was part of a vitally important staff retention strategy to prevent the potential collapse of the investment banking division; the nature of the promise assured staff that the fund was guaranteed come what may; and it was related to pay, the most fundamental obligation under the employment contract (paras 80-81, 89, 96); (c) D's employees were under no obligation to communicate acceptance of the bonus offer. D had plainly dispensed with the need for any response: it had made a promise without any disadvantage to its employees, and nobody hearing the announcement would expect that an employee could only benefit if he positively accepted the offer. That would have had the bizarre result that even if only a minority of the relevant employees accepted the offer, D would have had to pay them the whole of the bonus pool. Even if there was no unilateral change pursuant to cl.1.4, there was a binding contractual obligation to pay bonus payments in the usual way, at least to the limits of the guaranteed fund (paras 97-100). (2) The introduction of the MAC clause was a breach of the implied duty of mutual trust and confidence. The judge had been entitled to find that the MAC clause had been introduced as a result of pressure from C, which had been concerned about the public's negative perception of large bonus payments. He had objectively analysed the question of whether trust and confidence had been undermined and there was ample evidence to support his conclusion that it had (paras 130-140).
+JUDGE Maurice Kay LJ; Elias LJ; Beatson LJ
+COUNSEL For the appellants: Thomas Linden QC, Martin Chamberlain, Oliver Jones. For the first respondent: Nigel Tozzi QC, Kate Livesey. For the second respondents: Andrew Hochhauser QC, David Craig.
+
+
+
+
+
+NAME Eliason v Henshaw (Westlaw)
+CITATION Eliason v Henshaw (1975) 237 EG 183
+CIT (1975) 237 EG 183
+COURT EWCA
+CATEGORY Westlaw; Contracts; Contract For Sale of Land; Postal Service
+FLAGS Approved
+SUMMARY Acceptance; mode of posting option acceptance; variation
+SUMMARY An option to purchase a certain plot of land was expressed to be exercisable by notice in writing by or on behalf of the intending purchaser to the intending vendor "such notice to be sent by registered or recorded delivery post."
+HELD that the form of posting prescribed was directory and not mandatory, or alternatively, permissive rather than obligatory, and accordingly, the option had been validly exercised by letter from the intending purchaser's solicitors to the intending vendor's solicitors sent by ordinary post. (Manchester Diocesan Council of Education v Commercial & General Investments, Ltd [1970] 1 W.L.R. 241 applied and Eliason v Henshaw 4 Wheat. 225 applied).
+JUDGE Lord Denning MR; Orr LJ; Scarman LJ
+
+
+
+
+
+NAME Entores v Miles Far East Corporation (Westlaw)
+COURT EWCA
+FLAGS Approved
+
+
+
+
+
+NAME The Brimnes (Westlaw)
+CITATION The Brimnes [1975] QB 929
+CIT [1975] QB 929
+COURT EWCA
+CATEGORY Westlaw; Shipping; Charterparties; Hiring; Payments; Repudiation; Shipowners; Shipping Contracts
+FLAGS Approved
+SUMMARY Carriage by sea; charterparty; repudiation; late payment
+SUMMARY Failure to pay punctually on a charterparty will not amount to a repudiation in the absence of evidence of such an intention by the charterers. Payment is made when money is received by the creditor. The charterers hired a vessel "hire to be paid on the first day of each month." Payments were always late and the charterers were asked to ensure that payments were punctual. In April 1970 the charterers made payments on April 2. The shipowners withdrew the vessel from service as soon as they heard that payment had not been made on April 1.
+HELD that (1) the charterers' failure to pay on the due date did not amount to a repudiation since no such intention had been evinced; but (2) the shipowners had validly exercised their right of withdrawal as they had not received payment on the due date and they had probably withdrawn before payment had been made. (Car & Universal Finance Co Ltd v Caldwell [1965] 1 Q.B. 525 referred to and Empresa Cubana de Fletes v Lagonisi Shipping Co Ltd (The Georgios C) [1971] 1 Q.B. 488 referred to).
+JUDGE Edmund Davies LJ; Megaw LJ; Cairns LJ
+
+
+
+
+
+NAME Household Fire Insurance Co v Grant (Westlaw)
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Henthorn v Fraser (Westlaw)
+CITATION Henthorn v Fraser [1892] 2 Ch 27
+CIT [1892] 2 Ch 27
+COURT EWCA
+CATEGORY Westlaw; Contracts; Formation of Contract; Letters; Offer and Acceptance; Revocation; Time
+FLAGS Approved
+JUDGE Lord Herschell LC; Kay LJ; Lindley LJ
+
+
+
+
+
+NAME Holwell Securities Ltd v Hughes (Westlaw)
+CITATION Holwell Securities Ltd v Hughes [1974] 1 WLR 155
+CIT [1974] 1 WLR 155
+COURT EWCA
+CATEGORY Westlaw; Real Property; Contract For Sale of Land; Document Exchanges; Offer and Acceptance; Options; Postal Service
+FLAGS Approved
+SUMMARY Option; exercisable by notice in writing; letter never received; whether validly exercised
+SUMMARY An option, exercisable by notice in writing, is not validly exercised by the posting of a letter which is not received. D granted P an option to purchase land, exercisable by notice in writing within six months. Shortly before the expiration of the period, P posted a notice of the exercise of the option, which never arrived. P contended that the option was validly exercised by the posting of the notice.
+HELD different considerations applied from the mere acceptance of an offer, and the option was not validly exercised. ( Henthorn v Fraser [1892] 2 Ch. 27 distinguished and Bruner v Moore [1904] 1 Ch. 305 distinguished).
+JUDGE Russell LJ; Buckley LJ; Lawton LJ
+
+
+
+
+
+NAME L J Korbetis v Transgrain Shipping BV (Westlaw)
+CITATION L J Korbetis v Transgrain Shipping BV [2005] EWHC 1345 (QB)
+CIT [2005] EWHC 1345 (QB)
+COURT EWHC
+CATEGORY Westlaw; Arbitration Other Related Subjects: Shipping; Contracts; Appointments; Arbitrators; Charterparties; Demurrage; Extensions of Time; Jurisdiction; Offer and Acceptance
+FLAGS Approved
+SUMMARY Arbitrators; Appointments; Misdirected acceptance of offer to agree to appoint arbitrator; Acceptance within reasonable time; Extension of time requiring circumstances outside reasonable contemplation of parties
+SUMMARY The applicant ship owners (O) applied for a determination that an arbitrator had been validly appointed under a charterparty, alternatively for an extension of time to commence arbitral proceedings. O had chartered a vessel to the respondent charterers (C) on an amended Centricon form for the carriage of a cargo of maize from Argentina to Algeria. A dispute had arisen about demurrage. C had failed to pay O's claim for demurrage in full, and O decided to refer the dispute to arbitration under the charterparty arbitration clause and proposed the name of an arbitrator. C had put forward three other names. Within the 12 months permitted for appointment of an arbitrator under the charterparty arbitration clause, O had composed a reply by fax agreeing to the appointment of one of the arbitrators put forward by C. That fax and another fax chasing the matter some four months later had been sent to a wrong number and were never received by C. After another four months O had made contact with C and the proposed arbitrator (R) who had accepted the appointment. C disputed R's jurisdiction on the basis that he had not been appointed within the 12 month period from final discharge prescribed by the charterparty arbitration clause. O submitted that (1) C's offer to agree to the appointment of R as sole arbitrator had been accepted at the moment when the fax was sent to the wrong number; (2) alternatively, the offer to agree to the appointment of R as sole arbitrator had remained open for acceptance until O had purported to accept it; (3) there should if necessary be an extension of time under the Arbitration Act 1996 s.12(3)(a) .
+HELD refusing the applications, that (1) rules about offer and acceptance should be clear so that parties knew where they stood. A situation in which it was unclear whether a contract had been formed until a court decided the issue in the exercise of some form of general discretion would be unsatisfactory. Acceptance by post was complete as soon as the letter, properly addressed, was put into the post-box, Adams v Lindsell 106 E.R. 250 and Entores Ltd v Miles Far East Corp [1955] 2 Q.B. 327 considered. If the letter was wrongly addressed different considerations applied. It was unfair to the intended recipient that he should be bound by something which he was unlikely to receive because of the fault of the sender. Any such rule had the potential of givng a careless would-be acceptor an unfair advantage. The postal rule should not apply to misdirected letters of acceptance. A misdirected acceptance should take effect, if at all, at the time which was least favourable to the party responsible for the misdirection. (2) The letter of offer was implicitly open for acceptance only within a reasonable period. The fax to R, which was copied to C, was sent approximately eight months after C's offer to agree to the appointment of R. In the circumstances eight months was far in excess of a reasonable period for acceptance of C's offer. It followed that there had been no agreement to the appointment of R, and that he had no jurisdiction under the charterparty. (3) An extension of time for commencement of the arbitral proceedings under s.12 was refused. The clerical error in failing to send the fax to the right number and an omission to chase matters up with any promptitude were not within the reasonable contemplation of the parties at the time when the contract was made as the kind of circumstance that might trigger an extension of time, Harbour & General Works Ltd v Environment Agency [2000] 1 W.L.R. 950 considered. It would not be just to extend the time for commencing arbitration proceedings in circumstances where C had the benefit of a contractual time bar.
+JUDGE Toulson J
+COUNSEL For the applicant: D Lewis. For the respondent: R Aswani.
+
+
+
+
+
+NAME Winn v Bull (Westlaw)
+CITATION Winn v Bull (1877) 7 Ch D 29
+CIT (1877) 7 Ch D 29
+COURT EWHC
+CATEGORY Westlaw; Landlord and Tenant; Agreements; Formation of Contract; Leases; Specific Performance
+FLAGS Approved
+JUDGE Jessel MR
+
+
+
+
+
+NAME Chillingworth v Esche (Westlaw)
+CITATION Chillingworth v Esche [1924] 1 Ch 97
+CIT [1924] 1 Ch 97
+COURT EWCA
+CATEGORY Westlaw; Real Property; Deposits; Formation of Contract; Sale of Land
+FLAGS Approved
+JUDGE Pollock MR; Sargant J; Warrington LJ
+
+
+
+
+
+NAME Branca v Cobarro (Westlaw)
+CITATION Branca v Cobarro [1947] KB 854
+CIT [1947] KB 854
+COURT EWCA
+CATEGORY Westlaw; Real Property Other Related Subjects: Contracts; Conditions; Contract For Sale of Land; Interpretation
+FLAGS Approved
+SUMMARY Contract for sale; "subject to contract"
+SUMMARY Where a document which is signed by the vendor and by the purchaser and which contains all the material terms of the contract concludes with the phrase: "This is a provisional agreement until a fully legalised agreement drawn up by a solicitor and embodying all the conditions herewith stated is signed", the effect of such a provision is not that the drawing up and signature of a formal document was to be a condition of there coming into existence a binding contract. On the contrary, it is something which, when it happens, will bring to an end a document which the parties clearly treat as being an operative document. The word "until" is not the right word to import a condition or a stipulation as to the event referred to, and the word "provisional" in this context does not mean "tentative" but means something which is going to operate until something else happens.
+JUDGE Lord Greene MR
+
+
+
+
+
+NAME Courtney & Fairbairn Ltd v Tolaini Bros (Westlaw)
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Walford v Miles (Westlaw)
+CITATION Walford v Miles [1990] 1 EGLR 212
+CIT [1990] 1 EGLR 212
+COURT EWHC
+CATEGORY Westlaw; Contracts; Collateral Contracts; Comfort Letters; Offer and Acceptance; Sale of Business
+FLAGS Overruled
+SUMMARY Offer subject to contract; whether a collateral agreement by D not to sell to anyone else was enforceable at law
+SUMMARY Where P had made an offer subject to contract to purchase a business, a further agreement whereby P would produce a comfort letter from their bank and D would break off negotiations with a rival bidder and not sell to anyone else was a collateral agreement that was not subject to contract and was enforceable at law. P made an offer subject to contract of GBP 2m to purchase a photographic business owned by D, in which rival bidders were interested. It was agreed that P would produce a "comfort" letter from their bank by a stipulated date, and would carry on and not withdraw from the transaction, and that D would break off negotiations with the rival bidder, and would not consider any other offer, dealing exclusively with P. P duly produced the comfort letter and sought to conclude the purchase, but D sold the property to the rival bidder for the same price as that offered by P.
+HELD that the agreement in relation to the comfort letter was not subject to contract, and was a legally binding collateral agreement which was enforceable in law, of which D were in breach. Accordingly P were entitled to damages to be assessed for the loss of the opportunity to purchase the business, Credit Suisse White Weld v Hyman Davis and Harold Morris (Unreported, 1977) considered.
+JUDGE Judge Bates QC
+
+
+
+
+
+NAME British Bank for Foreign Trade Ltd v Novinex Ltd (Westlaw)
+COURT EWHC
+
+
+
+
+
+NAME Sudbrook Trading Estate Ltd v Eggleton (Westlaw)
+CITATION Sudbrook Trading Estate Ltd v Eggleton [1983] 1 AC 444
+CIT [1983] 1 AC 444
+COURT UKHL
+CATEGORY Westlaw; Landlord and Tenant Other Related Subjects: Contracts; Contracts; Options; Valuation
+FLAGS Approved
+SUMMARY Option to purchase; refusal to appoint valuer
+SUMMARY Where a lessee exercises an option to purchase but the lessor refuses to appoint a valuer, the court may intervene to ascertain a fair and reasonable price and order specific performance of the contract. Various industrial premises were demised by four separate leases all due to expire in 1997, and all with clauses granting the lessees an option to purchase the reversion in fee simple at a price to be agreed by valuers appointed by both parties. The lessees exercised their options to purchase, but the lessors refused to appoint a valuer.
+HELD allowing the lessee's appeal, that since the price was capable of being ascertained, a complete contract was constituted; the court could and would, if the machinery of ascertaining a price broke down, substitute its own to ascertain a fair and reasonable price (Vickers v Vickers (1867) L.R. 4 Eq. 529 and Agar v Macklew 57 E.R. 405 overruled).
+JUDGE Lord Diplock; Lord Fraser; Lord Russell; Lord Scarman; Lord Bridge
+
+
+
+
+
+NAME Foley v Classique Coaches Ltd (Westlaw)
+CITATION Foley v Classique Coaches Ltd [1934] 2 KB 1
+CIT [1934] 2 KB 1
+COURT EWCA
+CATEGORY Westlaw; Contracts Other Related Subjects: Arbitration; Arbitration; Contract For Sale of Land; Exclusive Purchasing Agreements; Restraint of Trade; Service Stations
+FLAGS Approved
+JUDGE Scrutton LJ; Greer LJ; Maugham LJ
+
+
+
+
+
+NAME Scammell and Nephew Ltd v Ouston (Westlaw)
+COURT EWHC
+
+
+
+
+
+NAME Hillas v Arcos (Westlaw)
+COURT EWHC
+FLAGS Overruled
+
+
+
+
+
+NAME May & Butcher v The King (Westlaw)
+COURT EWHC
+
+
+
+
+
+NAME Thomas v Thomas (Westlaw)
+CITATION Thomas v Thomas [1995] 2 FLR 668
+CIT [1995] 2 FLR 668
+COURT EWCA
+CATEGORY Westlaw; Family Law; Financial Provision; Third Parties
+FLAGS Approved
+SUMMARY Financial provision; husband director of family business; court ordering lump sum and periodical payments to wife beyond husband's currently available means; whether court entitled to have regard to potential availability of wealth
+SUMMARY A husband (H) appealed against an order for financial relief awarded to his wife (W). H was joint managing director of a family business. His shareholding in the company was worth GBP 600,000 and his salary was GBP 2791 per month (the company policy being to pay low salaries and plough profits back into the business). The family home was worth GBP 250,000 with a mortgage of GBP 78,000. H was a Name at Lloyd's. He had a bank guarantee covering contingent liabilities to Lloyd's of up to GBP 100,000 and a Lloyd's losses loan of GBP 43,000. The value of his pension fund was GBP 394,000. The judge held that the home could be sold as alternative security could be found for the guarantee and Lloyd's losses loan. He thus ordered sale of the house and a payment to W of GBP 158,000. She was awarded a periodic payment of GBP 1500 per month and H had to pay the two children's school fees. The judge suggested that H's income could be increased by a change of company policy. H argued that there was no evidence that he could transfer the security of his liabilities. He also argued that there would be a deficiency of income once H had paid all his expenses and that there had been a breach of the principles of self-restraint on which the court normally acted, particularly where third parties were affected.
+HELD dismissing the appeal, that (1) H had substantial means although he faced liquidity problems. H had to satisfy the court that all means of access to funds to support W had been explored and found to be impossible. On failure of that, inferences could be drawn to the effect that he could find ways of funding the financial provision. The judge's decision was justified on the facts he had before him and in the interests of finality. Considering the accumulated costs of the case, an adjournment to allow H to rearrange his affairs or show that he could not perform what was required was unnecessary; (2) the periodic payments did not leave H destitute. His deficiency was after the expense of the luxury of private education for his sons and (3) although H would possibly require the help of his brother or mother during the transitional period this was far short of an order placing undue pressure on third parties.
+JUDGE Glidewell LJ; Waite LJ
+COUNSEL For the husband: Peter Duckworth. For the wife: Christopher Wood.
+
+
+
+
+
+NAME Wade v Simeon (Westlaw)
+CITATION Wade v Simeon 135 ER 1061
+CIT 135 ER 1061
+COURT EWHC
+
+
+
+
+
+NAME Combe v Combe (Westlaw)
+CITATION Combe v Combe [1951] 2 KB 215
+CIT [1951] 2 KB 215
+COURT EWCA
+CATEGORY Westlaw; Family Law Other Related Subjects: Civil Procedure; Causes of Action; Consideration; Divorce; Maintenance Agreements
+FLAGS Criticised
+SUMMARY Maintenance; agreement; consideration
+SUMMARY The principle stated by Denning, J., in Central London Property Trust v. High Trees House [1947-51] C.L.Y. 5601 , does not create new causes of action where none existed before. It only prevents a party from insisting on his strict legal rights when it would be unjust to allow him to do so having regard to the dealings which have taken place between the parties. In none of the decided cases was the defendant sued on a promise, assurance or assertion as a cause of action in itself. He was sued for some other cause, for example, a pension or a breach of contract, or possession, and the promise, assurance or assertion only played a supplementary role, though, no doubt, an important one. That is its true function. It may be part of a cause of action, but it is not a cause of action in itself. The principle is that where one party has, by his words or conduct, made to the other a promise or assurance which was intended to affect the legal relations between them and to be acted on accordingly, then, once the other party has taken him at his word and acted on it, the one who gave the promise or assurance cannot afterwards be allowed to revert to their previous legal relations as if no such promise or assurance had been made by him, but must accept their legal relations subject to the qualification which he himself has so introduced, even though the promise or assurance is not supported in point of law by any consideration. A divorced husband agreed in writing in 1943 to allow his former wife GBP 100 a year free of tax by way of permanent maintenance. Being aware that he was not then in good financial circumstances, she made no claim to permanent maintenance then. But in 1950 she brought an action on the agreement claiming arrears under it. Held, the wife could only enforce the agreement in writing for the payment of maintenance if there was consideration for it; there was no evidence of any intention by the husband that the wife should forbear from applying to the Court for maintenance, or, in other words, any request by the husband, express or implied, that the wife should so forbear; her forbearance was not intended by him, nor was it done at his request; therefore, it did not amount to consideration for the husband's promise. As a result the wife could not recover the arrears. Hyman v Hyman [1929] A.C. 601 applied and Gaisberg v Storr [1950] 1 K.B. 107 applied; Emanuel v Emanuel [1946] P. 115 considered; Central London Property Trust v. High Trees House distinguished and Robertson v Minister of Pensions [1949] 1 K.B. 227 distinguished; Scott v Scott [1921] P. 107 criticised).
+
+
+
+
+
+NAME Shadwell v Shadwell (Westlaw)
+CITATION Shadwell v Shadwell 141 ER 618
+CIT 141 ER 618
+COURT EWHC
+
+
+
+
+
+NAME Dickinson v Abel (Westlaw)
+CITATION Dickinson v Abel [1969] 1 WLR 295
+CIT [1969] 1 WLR 295
+COURT EWHC
+CATEGORY Westlaw; Tax; Assessment; Payments; Sale of Land
+SUMMARY Schedule D; Case VI; introduction of sale
+SUMMARY The taxpayer received several approaches from persons interested in buying farmland for the purpose of extracting gravel therefrom. He himself had no interest in the land which was vested in a bank as trustee of the will of his wife's grandfather. His wife had no interest under the will but he was a practical farmer and he dealt with matters concerning the life tenant's occupation of the farm. He passed on to the bank the enquiries as to sale. One company was prepared to offer GBP 100,000 for the land, and in answer to the taxpayer's question "What's in it for me?" a director of the company said that the taxpayer would be paid GBP 10,000 if the company purchased the land for GBP 100,000 or less. The reference to the GBP 10,000 was not passed on to the bank. When the bank asked the taxpayer for his comments on the offer of GBP 100,000 for the sale, he replied that he personally would accept it, but he made no further recommendations. The sale for GBP 100,000 was completed and the taxpayer received the promised GBP 10,000 from the company. He was assessed to income tax on this sum. The general commissioners found (a) that on the facts there was no contractual basis for the GBP 10,000 at all, (b) that this sum was not therefore a payment for services and (c) that the assessment ought therefore to be discharged. On appeal by the Revenue, held that the appeal be dismissed.
+JUDGE Pennycuick J
+
+
+
+
+
+NAME Roscorla v Thomas (Westlaw)
+CITATION Roscorla v Thomas 114 ER 496
+CIT 114 ER 496
+COURT EWHC
+
+
+
+
+
+NAME Lampleigh v Brathwait (Westlaw)
+COURT UKSC
+FLAGS Approved
+
+
+
+
+
+NAME Re Casey's Patents (Westlaw)
+CITATION Re Casey's Patents [1892] 1 Ch 104
+CIT [1892] 1 Ch 104
+COURT EWCA
+CATEGORY Westlaw; Intellectual Property; Assignment; Notices; Ownership; Patents; Registration
+FLAGS Approved
+JUDGE Lindley LJ; Bowen LJ; Fry LJ
+
+
+
+
+
+NAME Pao On v Lau Yiu Long (Westlaw)
+CITATION Pao On v Lau Yiu Long [1980] AC 614
+CIT [1980] AC 614
+COURT UKPC
+CATEGORY Westlaw; Contracts; Consideration; Contractual Liability; Economic Duress; Operating Agreements
+FLAGS Approved
+SUMMARY Consideration; subsidiary agreements; commercial pressure
+SUMMARY An agreement made in consideration of an act done before the making of the agreement may be enforceable where, inter alia, such act was done at the provisor's request. Per curiam: Economic duress is capable of vitiating an agreement where it is such as to negative consent. The plaintiffs agreed to sell their shares in a private company to a company of which the defendants were majority shareholders in consideration of the issue to them of shares in the purchasing company. So as not to depress the market value of such shares the plaintiffs further agreed with the defendants that they would not sell 60 per cent of the newly issued shares until April 1974, the defendants agreeing, so that the plaintiffs might be protected against a fall in the value of the shares during such period, to purchase them at the end of that period at USD 2.50 each. Shortly afterwards the plaintiffs realised that the effect of such subsidiary agreement would be to deprive them of any increase in the value thereof. They therefore refused to complete the main agreement unless the defendants in substitution for the subsidiary agreement agreed to indemnify them against any reduction in value of the shares below the price of USD 2.50 each during the deferment period. The defendants, fearing the consequences of delay in completion of the main agreement, so agreed, the agreement being expressed to be in consideration of the plaintiffs having agreed to sell their shares in the private company. The main agreement was performed, and thereafter the value of the shares fell below USD 2.50 each. The plaintiffs claimed an indemnity, which was refused by the defendants on the grounds, inter alia, that the consideration for the indemnity agreement was past consideration and/or that any such agreement was voidable by reason of the economic duress applied by the plaintiffs.
+HELD that (1) an antecedent act could be valid consideration where it was done at the promisor's request, where the parties understood that such act was to be remunerated by the conferment of a benefit and where such benefit would have been enforceable if promised in advance; and such criteria were here satisfied; (2) a promise to perform a contractual obligation for the benefit of a third party was good consideration; and (3) the commercial pressure to which the defendants had been subjected had not been such as to negative their consent to the indemnity agreement. (Casey's Patents, Re [1892] 1 Ch. 104 applied and New Zealand Shipping Co Ltd v AM Satterthwaite & Co Ltd (The Eurymedon) [1975] A.C. 154 applied).
+JUDGE Lord Wilberforce; Viscount Dilhorne; Lord Simon of Glaisdale; Lord Salmon; Lord Scarman
+
+
+
+
+
+NAME Collins v Godefroy (Westlaw)
+CITATION Collins v Godefroy 109 ER 1040
+CIT 109 ER 1040
+COURT EWHC
+
+
+
+
+
+NAME Hartley v Ponsonby (Westlaw)
+CITATION Hartley v Ponsonby 119 ER 1471
+CIT 119 ER 1471
+COURT EWHC
+
+
+
+
+
+NAME Pinnel's Case (Westlaw)
+CITATION Pinnel's Case 77 ER 237
+CIT 77 ER 237
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Hughes v Metropolitan Railway Co (Westlaw)
+CITATION Hughes v Metropolitan Railway Co (1877) 2 App Cas 439
+CIT (1877) 2 App Cas 439
+COURT UKHL
+CATEGORY Westlaw; Landlord and Tenant Other Related Subjects: Equity; Equitable Remedies; Forfeiture; Leases; Negotiations; Notices; Repairs; Time Limits
+FLAGS Approved
+JUDGE Lord Cairns LC
+
+
+
+
+
+NAME Birmingham and District Land Co v LNWR (Westlaw)
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Central London Property Trust v High Trees House Ltd (Westlaw)
+COURT EWCA
+
+
+
+
+
+NAME Ajayi (Westlaw)
+CITATION Ajayi Official Transcript
+CIT Official Transcript
+COURT EWHC
+CATEGORY Westlaw; Employment; Inferences; Race Discrimination; Victimisation
+JUDGE Jeffrey Burke QC; DG Smith; P Tatlow
+COUNSEL For the appellant: D Ibekwe. For the respondent: A Musgrave.
+
+
+
+
+
+NAME D & C Builders Ltd v Rees (Westlaw)
+CITATION D & C Builders Ltd v Rees [1966] 2 QB 617
+CIT [1966] 2 QB 617
+COURT EWCA
+CATEGORY Westlaw; Contracts Other Related Subjects: Banking and Finance; Accord and Satisfaction; Cheques; Defences
+FLAGS Approved
+SUMMARY Accord and satisfaction; cheque for lesser amount
+SUMMARY There is no legal accord and satisfaction where a creditor accepts form his debtor his cheque for a lesser amount in full satisfaction of a larger debt. Per Lord Denning, M.R.: If there is a genuine accord, acted on by the debtor to his detriment, equity prevents the creditor from suing for the rest of the debt. P was in desperate straits for money and accepted from D a GBP 300 cheque for a GBP 482 13s. 1d. debt "in completion of the account." This was done under pressure from D's wife, who knew of P's straits. In an action by P for the remaining GBP 182 13s. 1d., held, that the pressure prevented any true accord and there was no defence to the action. ( Pinnell's Case 77 E.R. 237 applied; Foakes v Beer (1884) 9 App. Cas. 605 applied; Goddard & Son v O'Brien (1882) 9 Q.B.D. 37 overruled; Hughes v Metropolitan Railway Co (1877) 2 App. Cas. 439 distinguished; Central London Property Trust v High Trees House [1947-51] C.L.Y. 5601 distinguished).
+JUDGE Lord Denning MR; Danckwerts LJ; Winn LJ
+
+
+
+
+
+NAME Tool Metal Manufacturing Co Ltd v Tungsten Electric Co Ltd (Westlaw)
+COURT EWHC
+FLAGS Overruled
+
+
+
+
+
+NAME Waltons Stores (Westlaw)
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Albert v Motor Insurers' Bureau (Westlaw)
+CITATION Albert v Motor Insurers' Bureau [1972] AC 301
+CIT [1972] AC 301
+COURT UKHL
+CATEGORY Westlaw; Road Traffic Other Related Subjects: Transport; Insurance; Cars; Hiring; Motor Insurance; Motor Insurers' Bureau; Passengers; Payments
+FLAGS Approved
+SUMMARY Insurance; passenger; hire or reward
+SUMMARY An employee who regularly carries fellow-employees to work in his car with the understood expectation of some compensation is carrying them "for hire or reward." Q regularly gave lifts to some of his fellow-employees. The judge found that Q expected to receive and his passengers expected to pay something for each lift, although the amount varied. The judge also found that no contractual relationship was intended by either party. A, a passenger, was killed through Q's negligence and A's widow obtained judgment against Q which remained unsatisfied because Q's insurance company failed. A's widow sued the Motor Insurers' Bureau which denied liability on the ground that the carriage concerned was not for "hire or reward."
+HELD that a contract for payment was unnecessary and that the systematic carrying of passengers in the expectation of payment constituted the vehicle one used for carrying passengers for hire or reward. ( Coward v Motor Insurers' Bureau [1963] 1 Q.B. 259 considered and Connell v Motor Insurers' Bureau [1969] 2 Q.B. 494 considered).
+JUDGE Lord Donovan; Viscount Dilhorne; Lord Pearson; Lord Diplock; Lord Cross of Chelsea
+
+
+
+
+
+NAME Balfour v Balfour (Westlaw)
+CITATION Balfour v Balfour [1919] 2 KB 571
+CIT [1919] 2 KB 571
+COURT EWCA
+CATEGORY Westlaw; Family Law Other Related Subjects: Civil Procedure; Causes of Action; Divorce; Maintenance; Marriage; Oral Contracts
+FLAGS Approved
+JUDGE Warrington LJ; Atkin LJ; Duke LJ
+
+
+
+
+
+NAME Merritt v Merritt (Westlaw)
+CITATION Merritt v Merritt [1992] 1 WLR 471
+CIT [1992] 1 WLR 471
+COURT EWHC
+CATEGORY Westlaw; Family Law Other Related Subjects: Civil Evidence; Appeals; Financial Provision
+FLAGS Criticised
+SUMMARY Ancillary relief proceedings; appeal
+SUMMARY On an appeal in respect of a financial provision order, the judge should exercise his discretion to admit fresh evidence sparingly. W was granted a financial provision order following her divorce from H. H sought leave to appeal out of time and to adduce fresh evidence relating to the value of some assets.
+HELD refusing H's application to adduce fresh evidence, that r.8.1(2)(a) deemed a financial provision order made by a district judge to be a final order; a judge hearing such an appeal should exercise his discretion to admit fresh evidence sparingly, and, in the circumstances, fresh evidence should not be admitted (G (formerly P) v P (Ancillary Relief: Appeal) [1977] 1 W.L.R. 1376 distinguished.)
+JUDGE Bracewell J
+COUNSEL For the appellant: Martin Pointer. For the respondent: Nicholas Mostyn.
+
+
+
+
+
+NAME Pettitt v Pettitt (Westlaw)
+CITATION Pettitt v Pettitt [1970] AC 777
+CIT [1970] AC 777
+COURT UKHL
+CATEGORY Westlaw; Family Law; Matrimonial Home; Sale of Land
+FLAGS Approved
+SUMMARY Matrimonial home; husband's work on wife's house
+SUMMARY The Married Women's Property Act 1882 s.17 is purely procedural; it does not confer on the court an unfettered discretion to override existing rights in property, or to apply any notion of family assets not to be found in English law in determining disputes as to title or possession after a marriage has broken down. Such issues involve questions of social policy which should be dealt with by Parliament. The legal title to H and W's former matrimonial home was in W alone. H had not paid any money towards its purchase but he had redecorated and improved the home, thus enhancing its value. Following a divorce H issued proceedings under s.17 claiming an interest in the proceeds of sale of the home.
+HELD allowing W's appeal, (1) that s.17 was merely procedural, and (2) that in the absence of any agreement or estoppel to the contrary W was absolutely entitled to the home or the proceeds of its sale. ( Appleton v Appleton [1965] 1 W.L.R. 25 overruled).
+JUDGE Lord Reid; Lord Morris of Borth-y-Gest; Lord Hodson; Lord Upjohn; Lord Diplock
+
+
+
+
+
+NAME Jones v Padavatton (Westlaw)
+CITATION Jones v Padavatton [1969] 1 WLR 328
+CIT [1969] 1 WLR 328
+COURT EWCA
+CATEGORY Westlaw; Contracts Other Related Subjects: Family Law; Enforcement; Families; Intention
+FLAGS Approved
+SUMMARY Intention to create legal relations; family agreement
+SUMMARY Per Danckwerts, L J: there is possibly a presumption that members of a family do not intend agreements between themselves to have the force of contracts. A mother agreed with her daughter, a secretary in the United States, that if she would give up her job and read for the Bar in England the mother would provide 200 (West Indian) dollars per month maintenance for her; the daughter came to England and began to read for the Bar. Later the agreement was varied, the mother agreeing to provide a house for the daughter. On the mother's claim for possession of the house, held (Salmon, L J dissenting)(1) that the arrangement was not intended to be legally binding; and (2) that, consequently, the mother was entitled to possession. Balfour v Balfour [1919] 2 K.B. 571 applied.
+JUDGE Danckwerts LJ; Salmon LJ; Fenton Atkinson LJ
+
+
+
+
+
+NAME Parker v Clark (Westlaw)
+CITATION Parker v Clark [1960] 1 WLR 286
+CIT [1960] 1 WLR 286
+COURT EWHC
+CATEGORY Westlaw; Contracts; Formation of Contract; Intention; Succession
+SUMMARY Statute of Frauds; contract to leave property on death
+SUMMARY For a contract to be made it must be the intention of both parties to create an arrangement binding in law; a written offer may be a sufficient memorandum within the Law of Property Act 1925 s.40(1), although there is no contract until after it has been accepted. C. wrote to P. offering to share his house with P. and Mrs. P. on terms as to sharing expenses, also offering that he and his wife would on their death leave their house to Mrs. P., her sister and her daughter, and suggesting that P. and Mrs. P. should sell their cottage. P. accepted the offer and the two couples shared the C.s' house until the P.s left as an alternative to being evicted.
+HELD both sides having intended to create a legally binding arrangement, there was a good contract of which C.'s letter was a sufficient memorandum; accordingly the P.s were entitled to damages for breach of their right to live in the C.s' house until the death of the survivor of the C.s, and Mrs. P. was entitled to damages for loss of the value of her prospects of taking a share of the C.s' house at their death. (Hammersley v De Biel 8 E.R. 1312 applied; not following dictum of Fry J. in Munday v Asprey (1880) 13 Ch. D. 855 applied).
+JUDGE Devlin J
+
+
+
+
+
+NAME Simpkins v Pays (Westlaw)
+CITATION Simpkins v Pays [1955] 1 WLR 975
+CIT [1955] 1 WLR 975
+COURT EWHC
+CATEGORY Westlaw; Contracts; Competitions; Formation of Contract; Intention
+SUMMARY Intention to create legal relations; competition
+SUMMARY The plaintiff, the defendant and her granddaughter had an arrangement whereby the plaintiff, who was not related to the defendant or her granddaughter, submitted a coupon every week in the name of the defendant for a newspaper fashion competition. The coupon contained three forecasts made by the plaintiff, the defendant and the granddaughter respectively. A forecast made by the granddaughter was successful and the defendant obtained the prize. The plaintiff sought to recover a third part of the prize alleging an agreement to "go shares" in the event of success. The plaintiff's evidence as to what was said about the shares was accepted.
+HELD there was mutuality in the arrangement between the parties; the plaintiff had established a contract which was contemplated to have legal consequences; consequently, the plaintiff was entitled to a one-third share.
+JUDGE Sellers J
+
+
+
+
+
+NAME Edwards v Skyways (Westlaw)
+CITATION Edwards v Skyways [1964] 1 WLR 349
+CIT [1964] 1 WLR 349
+COURT EWHC
+CATEGORY Westlaw; Contracts; Consideration; Ex Gratia Payments; Intention
+FLAGS Approved
+SUMMARY Intention to create legal relations; promise of ex gratia payment
+SUMMARY 1. Where an agreement is reached in the course of business relations and there was an intention to agree, there is a heavy onus on the party who asserts that no legal effect was intended. 2. The words "ex gratia" in a promise to pay do not carry a necessary, or even a probable, implication that the agreement is to be without legal effect. The words merely indicate that there was no pre-existing obligation to pay. An airline company agreed with the British Airline Pilots Association to make to redundant pilots "an ex gratia payment" of a specified size. There was consideration for this promise. In an action by a redundant pilot for his payment, held that there was an enforceable right to it, and the action succeeded. (Rose & Frank Co v JR Crompton & Bros Ltd [1923] 2 K.B. 261 considered).
+JUDGE Megaw J
+
+
+
+
+
+NAME Edmonds v Lawson (Westlaw)
+CITATION Edmonds v Lawson [2000] QB 501
+CIT [2000] QB 501
+COURT EWCA
+CATEGORY Westlaw; Employment; Apprenticeship; Barristers; Contract of Employment; Minimum Wage; Pupillage
+FLAGS Approved
+SUMMARY L, the head of a barristers' chambers, appealed against a declaration that E's acceptance of an unpaid pupillage was a binding apprenticeship and that E was therefore a worker entitled to the national minimum wage. L, challenging the existence of an apprenticeship, contended that the arrangement was educational in nature, not commercial, and that it was not enforceable due to a lack of consideration. The court, while finding that a binding contract did exist, held that E was not an apprentice nor a "worker" within the meaning of the National Minimum Wage Act 1998, because there had been no expectation upon her to do any work for L or do anything other than further her own training.
+SUMMARY E accepted an unpaid 12 month pupillage with a barristers' chambers. In friendly litigation brought at the Bar Council's instigation, E sought and was granted declarations ([2000] I.R.L.R. 18) that her acceptance of the pupillage created an apprenticeship contract, that she was a "worker" within the meaning of the National Minimum Wage Act 1998 s.54(3)(a) and that, being over 26 years old, she was entitled by virtue of the National Minimum Wage Regulations 1999 Reg.12 to be paid the national minimum wage during her pupillage. L, a barrister belonging to the chambers, appealed, contending that the offer to provide E with education and training was not enforceable as a contract since there had been no intention to create legal relations and E had provided no consideration. Furthermore, L argued, the relationship between the parties was regulated by Bar Council guidelines relating to pupillage which rendered a further contract unnecessary.
+HELD allowing the appeal, that (1) there was a binding contract for the provision of education and training which impliedly incorporated regulatory materials governing pupillage; (2) a broad view had to be taken of the relationship between E and the barristers' chambers. It was in the chambers' long term interests to attract talented pupils and, regardless of whether E was a prospective candidate for tenancy or not, her agreement to that potentially productive relationship had been consideration for the offer, and (3) the construction of "apprenticeship" in s.54(2) of the 1998 Act was intended to be unlegalistic and covered learned professions. However, a cardinal ingredient of an apprenticeship was a mutual covenant whereby the master undertook to educate and train the apprentice, who, in return, was bound to serve and work for the master. In the instant case, there had been no expectation on E to provide valuable service and she was not obliged to do anything which was not conducive to her own training, hence she did not work under a contract of apprenticeship or an equivalent contract.
+JUDGE Lord Bingham of Cornhill; Pill LJ; Hale LJ
+COUNSEL For E: Robin Allen Q.C. and Paul Epstein. For L: James Goudie Q.C., Sean Jones and Anya Proops.
+
+
+
+
+
+NAME Kleinwort Benson Ltd v Malaysia Mining Corporation (Westlaw)
+COURT EWHC
+
+
+
+
+
+NAME Grogan v Robin Meredith Plant Hire (Westlaw)
+CITATION Grogan v Robin Meredith Plant Hire [1996] CLC 1127
+CIT [1996] CLC 1127
+COURT EWCA
+CATEGORY Westlaw; Construction Law; Building and Engineering Contracts; Supply of Services
+FLAGS Approved
+SUMMARY Buidling and engineering contracts; whether time sheet could vary contract
+SUMMARY TCE, a civil engineering contractor, appealed against a decision that it should indemnify RM against liability for personal injuries. TCE hired a plant driver from RM who presented a time sheet for the signature of TCE's agent at the end of each week which contained the words "All hire undertaken under CPA conditions". TCE argued that this did not vary the contract to incorporate the CPA conditions and therefore they were not bound to indemnify RM against third party liability.
+HELD allowing the appeal, that a time sheet for work done under an existing contract was a record of a party's performance of contractual obligations. It was not a document with contractual effect. Contractual effect could only be established by variation of the original contract. The CPA conditions were therefore not incorporated and TCE were not bound to indemnify RM.
+JUDGE Russell LJ; McCowan LJ; Auld LJ
+COUNSEL For TCE: Stephen Males. For RM: Mark Turner. For G: Not represented.
+
+
+
+
+
+NAME Curtis v Chemical Cleaning & Dyeing Co (Westlaw)
+CITATION Curtis v Chemical Cleaning & Dyeing Co [1951] 1 KB 805
+CIT [1951] 1 KB 805
+COURT EWCA
+CATEGORY Westlaw; Contracts; Contract Terms; Enforcement; Exclusion Clauses; Misrepresentation
+FLAGS Approved
+SUMMARY Exemption clause; misrepresentation
+SUMMARY If a person wishes to exempt himself from a liability which the common law imposes on him, he can only do it by an express stipulation brought home to the party affected and assented to by him as part of the contract. If the party affected signs a written document, knowing it to be a contract which governs the relations between both parties, his signature is irrefragable evidence of his assent to the whole contract, including the exempting clauses, unless the signature is shown to be obtained by fraud or misrepresentation. Any behaviour by words or conduct is sufficient to be a misrepresentation if it is such as to mislead the other party about the existence or extent of the exemption. An innocent as well as a fraudulent misrepresentation is sufficient to disentitle the creator of it to the benefit of the exemption. The plaintiff had deposited her wedding dress with the defendants for cleaning. She was asked to sign a document which contained in it a condition excluding all liability on the part of the defendants for any damage to any article in their keeping. Before she signed the document, she asked why she was to do so and the assistant told her that the defendants would not accept any responsibility for damage to the beads or sequins on the dress. She did not read all the document. When the dress was returned there was a stain on the front of it, which had not been there before. The county court judge found that the defendants had not discharged the onus of showing that they had not been negligent, because there was a time while the dress was in their possession in transit during which the stain might have been caused, and he held that the oral statement by the assistant amounted to a misrepresentation so as to preclude the defendants from relying on the document limiting their liability for damage.
+HELD on appeal, that there plainly had been a misrepresentation, and owing to that misrepresentation the exception never became part of the contract between the parties, Low v Bouverie [1891] 3 Ch. 82 , R. v Lord Kylsant [1932] 1 K.B. 442 , L'Estrange v F Graucob Ltd [1934] 2 K.B. 394 and Olley v Marlborough Court Ltd [1948] 1 All E.R. 955 applied. Per Denning, L.J.: "I do not wish it to be supposed that the cleaners would have been better off if the assistant had simply handed over the document to the customer without asking her to sign it; or if a customer was not so inquiring as the plaintiff, but was an unsuspecting person who signed whatever she was asked without question":
+
+
+
+
+
+NAME British Crane Hire Corporation Ltd v Ipswich Plant Hire Ltd (Westlaw)
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Parker v South Eastern Railway Co (Westlaw)
+CITATION Parker v South Eastern Railway Co (1877) 2 CPD 416
+CIT (1877) 2 CPD 416
+COURT EWCA
+CATEGORY Westlaw; Personal Property Other Related Subjects: Civil Evidence; Bailment; Conditions; Deposits; Misdirections; Retrials
+FLAGS Approved
+JUDGE Mellish LJ; Baggallay LJ; Bramwell LJ
+
+
+
+
+
+NAME AEG (Westlaw)
+COURT EWHC
+
+
+
+
+
+NAME McCutcheon v David MacBrayne Ltd (Westlaw)
+CITATION McCutcheon v David MacBrayne Ltd [1964] 1 WLR 125
+CIT [1964] 1 WLR 125
+COURT UKHL
+CATEGORY Westlaw; Contracts Other Related Subjects: Negligence; Carriage By Sea; Conditions; Notice; Oral Contracts
+FLAGS Criticised
+SUMMARY Conditions and warranties; notice
+SUMMARY In the absence of any contractual document, a consignor of goods cannot, by a course of previous dealing, be bound by conditions of which he is generally aware but the specific terms of which he has no knowledge.Per Lord Devlin: Previous dealings are relevant only if they prove knowledge of the terms, actual and not constructive, and assent to them. A required his motor car to be shipped by R, and A's agent received a receipt for the freight paid. The ship sank and the car was a total loss. R contended that he was absolved from liability for negligence in accordance with the terms of the conditions of carriage displayed at his office. The normal practice in accepting goods for shipment was to give the consignor a "risk note," stating the conditions of carriage, which was to be signed by the consignor. No such note was given on this occasion, but on previous occasions A or his agent had sometimes signed a "risk note." Both A and his agent knew that certain conditions were imposed but neither knew specifically what they were.
+HELD allowing A's appeal, that this was an oral contract and the conditions relied on were not imported into it so as to exempt R from liability in negligence. (Reversing decision of Court of Session, Second Division; distinguished observations of Baggallay L.J. in Parker v South Eastern Railway Co (1876-77) L.R. 2 C.P.D. 416).
+JUDGE Lord Reid; Lord Hodson; Lord Guest; Lord Devlin; Lord Pearce
+
+
+
+
+
+NAME Oscar Chess Ltd v Williams (Westlaw)
+COURT EWHC
+
+
+
+
+
+NAME Dick Bentley Productions Ltd v Harold Smith (Westlaw)
+CITATION Dick Bentley Productions Ltd v Harold Smith [1965] 1 WLR 623
+CIT [1965] 1 WLR 623
+COURT EWCA
+CATEGORY Westlaw; Sale of Goods Other Related Subjects: Contracts; Contracts of Sale; Misrepresentation; Warranties
+FLAGS Approved
+SUMMARY Conditions and warranties; mileage of car
+SUMMARY If a representation is made in the course of dealings for a contract for the very purpose of inducing the other party to act upon it by entering into the contract, that is prima facie ground for inferring that it was intended as a warranty. The maker of the representation can rebut this by showing that he was entirely innocent of fault in making it and that it would not be reasonable in the circumstances for him to be bound by it. During negotiations for the purchase of a second-hand Bentley the seller said it had done only 20,000 miles since fitted with a replacement engine and gearbox. This was wrong, the true figure being nearer 100,000, as the seller could have discovered by asking the manufacturer. On a claim for damages for breach of warranty as to this mileage, held that it was a warranty, not a mere innocent misrepresentation, and the action succeeded. ( Heilbut Symons & Co v Buckleton [1913] A.C. 30 considered; Oscar Chess v Williams [1957] 1 W.L.R. 370 distinguished).
+JUDGE Lord Denning MR; Danckwerts LJ; Salmon LJ
+
+
+
+
+
+NAME Ecay v Godfrey (Westlaw)
+CITATION Ecay v Godfrey (1947) 80 Ll L Rep 286
+CIT (1947) 80 Ll L Rep 286
+COURT EWHC
+CATEGORY Westlaw; Shipping; Contract Terms; Sale of Assets; Ships; Warranties
+JUDGE Lord Goddard LCJ
+
+
+
+
+
+NAME Inntrepreneur Pub Co v East Crown Ltd (Westlaw)
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Couchman v Hill (Westlaw)
+CITATION Couchman v Hill [1947] KB 554
+CIT [1947] KB 554
+COURT EWCA
+CATEGORY Westlaw; Sale of Goods; Exclusion Clauses; Oral Contracts; Sale of Goods; Warranties
+FLAGS Approved
+SUMMARY Conditions and warranties; verbal condition overriding written condition
+SUMMARY A printed condition in a catalogue protecting the vendor from personal liability in the case of any error of description can be overridden by a condition or warranty orally expressed on the basis of which the contract is made. The plaintiff purchased two heifers at an auction sale which were described in the catalogue as "unserved". The catalogue contained the following condition: "The lots are sold with all faults, imperfections, and errors of description". Another condition stated that the accuracy of the information was not guaranteed and that no compensation would be paid for any errors of description. Before the sale the plaintiff asked the defendant as well as his auctioneer: "Can you confirm heifers unserved." and received from both the answer: "Yes". Two months later a six months' old foetus was removed from one of the heifers which died as a result of carrying a calf at too young an age. Held, the catalogue expressly protected the vendor in the event of an error of description and the plaintiff could not succeed so far as his action was based on the catalogue. However, the question and answer amounted to an oral offer of warranty which overrode the stultifying condition in the printed terms and that offer was accepted by the plaintiff when he bid and the contract was made on that basis when the lot was knocked down to him.
+JUDGE Scott LJ; Bucknill LJ; Tucker LJ
+
+
+
+
+
+NAME J Evans & Son (Westlaw)
+CITATION J Evans & Son [1976] 1 WLR 1078
+CIT [1976] 1 WLR 1078
+COURT EWCA
+CATEGORY Westlaw; Contracts; Exclusion Clauses; Oral Contracts; Standard Forms of Contract
+FLAGS Approved
+SUMMARY Exemption clause; printed conditions; oral promise
+SUMMARY Where printed conditions in a contract are repugnant to a binding oral promise they do not provide exemption from liability for breach of that promise. A Co. had acted as forwarding agents for E Co., who were importers of machines from Italy, since 1959. Until 1967 the machines were packed in crates and always shipped under deck. In that year it was proposed to use containers in the future. A gave E an oral assurance that if containers were used they would be shipped under deck. On the faith of that promise E agreed a new contract with A, incorporating the standard conditions of the forwarding trade for the carriage of an injection-moulding machine in a container. As a result of an oversight the container was shipped on deck. The ship met a swell and the container was lost overboard. E claimed damages for the loss alleging breach of the contract with A. A contended that there was no contractual promise that the goods would be carried under deck or, alternatively, that the printed terms and conditions exempted them from liability thereunder. The judge dismissed the action. E appealed.
+HELD allowing the appeal, that (1) the oral assurance amounted to an enforceable contractual promise; (2) the oral promise overrode the printed conditions. (Dictum of Lord Denning M.R. in Mendelssohn v Normand [1970] 1 Q.B. 177 applied).
+JUDGE Lord Denning MR; Roskill LJ; Geoffrey Lane LJ
+
+
+
+
+
+NAME Esso Petroleum Co Ltd v Mardon (Westlaw)
+CITATION Esso Petroleum Co Ltd v Mardon [1976] QB 801
+CIT [1976] QB 801
+COURT EWCA
+CATEGORY Westlaw; Contracts Other Related Subjects: Negligence; Contracts; Misrepresentation; Negligence
+FLAGS Criticised
+SUMMARY Negligence; negligent mis-statement; duty of care; special relationship in pre-contract negotiations
+SUMMARY Where a special relationship exists, a negligent mis-statement may be not only a breach of contractual warranty, but also an actionable tort as a breach of the duty of care which exists throughout pre-contractual negotiations and which survives the making of the ultimate contract. Esso granted a tenancy of a new filling station to D. During negotiations they told him that they estimated an annual "throughput" of petrol at 200,000 gallons a year by the third year. Due to the physical characteristics and layout of the site, the figure after three years was still under 100,000. D lost all his money. He entered into a new tenancy with Esso at a reduced rent plus a surcharge on petrol sold. The losses continued and D was unable to pay cash for the petrol. Esso cut off his supplies and eventually he had to surrender possession. He counterclaimed for breach of warranty, and for negligent misrepresentation.
+HELD (1) the statement as to potential throughput was a contractual warranty, and the plaintiffs were liable for damages for its breach; (2) the statement was a negligent representation made by a party holding himself out as having special expertise in circumstances where a duty of care existed to take care that it was correct; (3) the measure of damage in both cases was the same, i.e. what D had lost by being induced to enter into the contract, which should be assessed on the same lines as damages for personal injuries to include estimated loss of earnings. ( Hedley Byrne & Co Ltd v Heller & Partners Ltd [1964] A.C. 465 applied Bisset v Wilkinson [1927] A.C. 177 distinguished).
+JUDGE Lord Denning MR; Ormrod LJ; Shaw LJ
+
+
+
+
+
+NAME Lovell & Christmas Ltd v Wall (Westlaw)
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Investors' Compensation Scheme Ltd v West Bromwich Building Society (Westlaw)
+CITATION Investors' Compensation Scheme Ltd v West Bromwich Building Society [1999] Lloyd's Rep PN 496
+CIT [1999] Lloyd's Rep PN 496
+COURT EWHC
+CATEGORY Westlaw; Negligence; Building Societies; Duty of Care; Independent Financial Advisers; Investments; Mortgages
+FLAGS Approved
+SUMMARY duty of care; independent financial advisers; home income plans
+SUMMARY FPS, a financial adviser regulated by FIMBRA, sold Home Income Plans, HIPs, to elderly property owners with small incomes. Their home would be mortgaged to a percentage value of the property, the proceeds being available as a lump sum for spending or investment, with interest being added to the sum secured until a trigger percentage limit of the value of the property was reached which permitted sale; the borrower was obliged to maintain payments so as to keep the borrowing below the limit. The plan was that rises in the value of the property and/or the proceeds of investments made from the lump sum would prevent the trigger point being reached. However, many HIPs failed when the trigger point was reached or it became obvious that it was approaching given the failure of the property or investments to rise in value. The Investors Compensation Scheme Limited, ICS, took assignment of the mortgagors against WBBS, a building society lender, and solicitors involved in the scheme, although individual mortgagors pursued unassigned claims for rescission and/or abatement. ICS settled its claims against WBBS and the solicitors, but third party proceedings between the latter remained so that it was necessary to consider whether WBBS was liable to the claimants; lead claims were considered.
+HELD that there had been breaches of both contractual and statutory duties by FPS in that they had failed to give best advice with the individual needs of their particular clients in mind. They had not exercised the care and professional skill appropriate to a specialised organisation and no warnings had been given to the claimants in respect of the risk involved or potential loss resulting from entering the scheme. As there existed a joint enterprise between WBBS and FPS, WBBS were jointly liable for the torts committed and were put on constructive notice of the misrepresentations and undue influence committed by FPS. The solicitors involved were not in a position to offer advice on the financial merits of the scheme and, as such, there was no break in the chain of causation and WBBS would be liable to pay damages to the individual claimants.
+JUDGE Evans-Lombe J
+
+
+
+
+
+NAME George Mitchell (Westlaw)
+CITATION George Mitchell (1910) 4 Cr App R 115
+CIT (1910) 4 Cr App R 115
+COURT EWHC
+
+
+
+
+
+NAME Bank of Credit and Commerce International SA v Ali (Westlaw)
+CITATION Bank of Credit and Commerce International SA v Ali [2006] EWHC 2636 (Ch)
+CIT [2006] EWHC 2636 (Ch)
+COURT EWHC
+CATEGORY Westlaw; Employment
+JUDGE Briggs J
+
+
+
+
+
+NAME Chartbrook Ltd v Persimmon Homes Ltd (Westlaw)
+CITATION Chartbrook Ltd v Persimmon Homes Ltd [2009] UKHL 38
+CIT [2009] UKHL 38
+COURT UKHL
+CATEGORY Westlaw; Contracts Other Related Subjects: Construction Law; Admissibility; Agreement; Construction Contracts; Contract Terms; Interpretation; Mistake; Negotiations; Rectification
+FLAGS Approved
+SUMMARY _Abstract_ -- The appellant developer (P) appealed against a decision ( [2008] EWCA Civ 183, [2008] 2 All E.R. (Comm) 387 ) in favour of the respondent (C) concerning the interpretation of an agreement to develop C's land.
+SUMMARY _Abstract_ -- Under the agreement P was to obtain planning permission, construct a development on the site and then sell the properties. The price payable by P under the agreement included an "Additional Residential Payment" (ARP) defined as "23.4% of the price achieved for each Residential Unit in excess of the Minimum Guaranteed Residential Unit Value less the Costs and Incentives". The judge at first instance and the Court of Appeal agreed with C's interpretation of the definition of the ARP.
+SUMMARY _Abstract_ -- P's argument, if it failed on the construction issue, was that the House should take into account the pre-contractual negotiations. P submitted that the rule in Prenn v Simmonds [1971] 1 W.L.R. 1381 that pre-contractual negotiations were inadmissible in construing a contract was illogical and prevented a court from putting itself in the position of the parties and ascertaining their true intent. P also submitted that the judge and the Court of Appeal had misunderstood the principles on which rectification could be decreed.
+SUMMARY Their Lordships indicated, in obiter dicta, that there was no clearly established case for revisiting the rule in Prenn v Simmonds [1971] 1 W.L.R. 1381 that pre-contractual negotiations were inadmissible in construing a contract; furthermore, Partenreederei MS Karen Oltmann v Scarsdale Shipping Co (The Karen Oltmann) [1976] 2 Lloyd's Rep. 708 was an illegitimate extension of the "private dictionary" principle which, taken to its logical conclusion, would destroy the exclusionary rule and any advantages which it might have.
+HELD Appeal allowed.
+HELD (1) Lawrence Collins L.J. below had rightly concluded that P had demonstrated that something had gone wrong with the language in the contract. To interpret the definition of the ARP in accordance with ordinary rules of syntax made no commercial sense. The ARP had to mean the amount by which 23.4 per cent of the achieved price exceeded the minimum guaranteed residential unit value. There was no limit to the amount of "red ink" or verbal rearrangement or correction which the court was allowed when determining whether there was a clear mistake. All that was required was that it should be clear that something had gone wrong with the language and that it should be clear what a reasonable person would have understood the parties to have meant, Investors Compensation Scheme Ltd v West Bromwich Building Society (No.1) [1998] 1 W.L.R. 896 , East v Pantiles (Plant Hire) [1982] 2 E.G.L.R. 111 and KPMG v Network Rail Infrastructure Ltd [2007] EWCA Civ 363, [2007] Bus. L.R. 1336 applied. Both of those requirements were satisfied in the instant case. (2) (Obiter) (a) It would not be inconsistent with the English objective theory of contractual interpretation to admit evidence of previous communications between the parties as part of the background which might cast light on what they meant by the language they used. Prima facie, pre-contractual negotiations were potentially relevant background, Bank of Credit and Commerce International SA (In Liquidation) v Ali (No.1) [2001] UKHL 8, [2002] 1 A.C. 251 considered. However, such material would usually be inadmissible because it was irrelevant to the question before the court, namely what the parties would reasonably be taken to have meant by the language eventually used in the agreement. There was no clearly established case for departing from the exclusionary rule, even though it might mean that in some cases parties would be bound by a contract in terms which, upon a full investigation of the course of negotiations, a reasonable observer would not have taken them to have intended, Prenn considered. There was a power to depart from the rule, but that power was only intended to be applied in a small number of cases in which previous decisions of the House were thought to be impeding the proper development of the law or to have led to results which were unjust or contrary to public policy, Jones v Secretary of State for Social Services [1972] A.C. 944 considered; (b) Evidence could be adduced that the parties to a contract habitually used words in an unconventional sense in order to support an argument that words in the contract should bear a similar unconventional meaning (the "private dictionary" principle). However, the decision in Partenreederei MS Karen Oltmann v Scarsdale Shipping Co (The Karen Oltmann) [1976] 2 Lloyd's Rep. 708 , which involved a choice between two perfectly conventional meanings of the word "after", was an illegitimate extension of the "private dictionary" principle which, taken to its logical conclusion, would destroy the exclusionary rule and any advantages which it might have, The Karen Oltmann considered. (3) (Obiter) Joscelyne v Nissen [1970] 2 Q.B. 86 extended the availability of rectification to cases where there had not been any enforceable prior agreement, Joscelyne considered. In considering rectification, the question was what an objective observer would have thought the parties' intentions were, Frederick E Rose (London) Ltd v William H Pim Junior & Co Ltd [1953] 2 Q.B. 450 and Etablissements Levy (Georges et Paul) v Adderley Navigation Co Panama SA (The Olympic Pride) [1980] 2 Lloyd's Rep. 67 considered. Evidence as to what terms a party understood to have been agreed could be significant in a case where the prior consensus was based on oral exchanges or conduct, but where the prior consensus was expressed entirely in writing such evidence was likely to carry very little weight, Carmichael v National Power Plc [1999] 1 W.L.R. 2042 and George Cohen Sons & Co Ltd v Docks and Inland Waterways Executive (1950) 84 Ll. L. Rep. 97 considered. However, it would not be inadmissible. In the instant case, on the assumption that the judge was right in his construction of the ARP definition, both parties were mistaken in thinking that it reflected their prior consensus, so P was entitled to rectification.
+JUDGE Lord Hope of Craighead; Lord Hoffmann; Lord Rodger of Earlsferry; Lord Walker of Gestingthorpe; Baroness Hale of Richmond
+COUNSEL For the appellant: Christopher Nugee QC, Julian Greenhill. For the respondent: Robert Miles QC, Timothy Morshead.
+
+
+
+
+
+NAME Smith v Wilson (Westlaw)
+CITATION Smith v Wilson (1901) 3 F 981
+CIT (1901) 3 F 981
+COURT EWHC
+CATEGORY Westlaw; Company Law; Articles of Association; Offer and Acceptance; Scotland; Shareholders; Withdrawal
+FLAGS Approved
+JUDGE Sir John MacDonald L.J.C; Lord Young; Lord Trayner; Lord Moncreiff
+
+
+
+
+
+NAME Hutton v Warren (Westlaw)
+CITATION Hutton v Warren 150 ER 517
+CIT 150 ER 517
+COURT EWHC
+CATEGORY Westlaw; Contracts; Contracts; Implied Terms
+
+
+
+
+
+NAME The Moorcock (Westlaw)
+CITATION The Moorcock (1889) 14 PD 64
+CIT (1889) 14 PD 64
+COURT EWCA
+CATEGORY Westlaw; Shipping Other Related Subjects: Contracts; Damage; Docks; Duty of Care; Loading; Ships
+FLAGS Criticised
+JUDGE Lord Esher MR; Bowen LJ; Fry LJ
+
+
+
+
+
+NAME Reigate v Union Manufacturing Co (Westlaw)
+CITATION Reigate v Union Manufacturing Co [1918] 1 KB 592
+CIT [1918] 1 KB 592
+COURT EWCA
+CATEGORY Westlaw; Agency Other Related Subjects: Contracts; Agents; Contracts; Implied Terms; Liquidation; Repudiation
+FLAGS Approved
+JUDGE Pickford LJ; Bankes LJ; Scrutton LJ
+
+
+
+
+
+NAME Shirlaw v Southern Foundries Ltd (Westlaw)
+CITATION Shirlaw v Southern Foundries Ltd [1939] 2 KB 206
+CIT [1939] 2 KB 206
+COURT EWCA
+CATEGORY Westlaw; Company Law Other Related Subjects: Contracts; Articles of Association; Contract of Employment; Directors; Implied Terms; Removal
+FLAGS Approved
+JUDGE Sir Wilfrid Greene MR; Goddard LJ; Mackinnon LJ
+
+
+
+
+
+NAME Attorney General of Belize v Belize Telecom Ltd (Westlaw)
+CITATION Attorney General of Belize v Belize Telecom Ltd [2009] UKPC 10
+CIT [2009] UKPC 10
+COURT UKPC
+CATEGORY Westlaw; Contracts Other Related Subjects: Company Law; Articles of Association; Belize; Directors; Implied Terms; Interpretation; Vacation of Office
+FLAGS Criticised
+SUMMARY _Abstract_ -- The appellants (X) appealed against a decision of the Court of Appeal of Belize on the construction of an article in the articles of association of a company (B) which had been formed to take over the undertaking of the Belize Telecommunications Authority.
+SUMMARY _Abstract_ -- The article provided as follows: "The holder of the Special Share shall so long as it is the holder of C Ordinary shares amounting to 37.5% or more of the issued share capital of the Company be entitled at any time by written notice served upon the Company to appoint two of the Directors designated C Directors and by like notice to remove any Director so appointed and appoint another in his or her place". The first respondent (R) acquired from the Belize Government the special share referred to in the article and a majority of the issued share capital. It appointed eight directors, including two special C directors. R pledged the ordinary shares to the Government to secure borrowings which had financed the purchase. Within less than a year, however, it defaulted on its obligations. Pursuant to the pledge agreement, the Government took back a substantial number of the ordinary shares. The result was that R was left with the special share and C shares amounting to less than 37.5 per cent of the issued share capital. The question which then arose was whether the two special C directors appointed by R remained members of the board. Under the articles, the only person who had the power to remove them was the person who would have had the power to appoint them, namely a special shareholder holding C shares amounting to 37.5 per cent of the issued share capital. But the result of R's default was that no such person existed, nor was there any express provision in the articles that in such circumstances a special C director vacated office. The Court of Appeal rejected X's contention that the articles should be construed as providing by implication that a director appointed by virtue of a specified shareholding would vacate his office if there was no longer any holder of such a shareholding.
+SUMMARY In every case in which it was said that some provision ought to be implied in a contract, the question for the court would be whether such a provision would spell out in express words what the contract, read against the relevant background, would reasonably be understood to mean.
+HELD Appeal allowed.
+HELD (1) It was appropriate to make some general observations about the process of implying terms into a contract. The proposition that the implication of a term was an exercise in the construction of the relevant instrument as a whole was not only a matter of logic (as a court had no power to alter what the instrument meant) but also well supported by authority. In every case in which it was said that some provision ought to be implied in an instrument, the question for the court would be whether such a provision would spell out in express words what the instrument, read against the relevant background, would reasonably be understood to mean. It would be noticed from Lord Pearson's speech in Trollope & Colls Ltd v North West Metropolitan Regional Hospital Board [1973] 1 W.L.R. 601 that that question could be reformulated in various ways which a court might find helpful in providing an answer - the implied term had to "go without saying", it had to be "necessary to give business efficacy to the contract" and so on - but those were not to be treated as different or additional tests. There was only one question, namely what the instrument, read as a whole against the relevant background, would reasonably be understood to mean. In BP Refinery (Westernport) Pty Ltd v Shire of Hastings 180 C.L.R. 266, Lord Simon of Glaisdale had said that the following conditions had to be met before a term could be implied: it had to be reasonable and equitable; it had to be necessary to give business efficacy to the contract, so that no term would be implied if the contract was effective without it; it had to be so obvious that "it [went] without saying"; it had to be capable of clear expression; further, it had not to contradict any express term of the contract. That list was best regarded, not as series of independent tests which had each to be surmounted, but rather as a collection of different ways in which judges had tried to express the central idea that the proposed implied term had to spell out what the contract actually meant, or in which they had explained why they did not think that it did so, Trollope, BP Refinery, Equitable Life Assurance Society v Hyman [2002] 1 A.C. 408 and Moorcock, The (1889) 14 P.D. 64 considered. (2) The Court of Appeal had been wrong not to imply the term argued for by X into the article. The implication was required to avoid defeating what appeared to have been the overriding purpose of the machinery of appointment and removal of directors, namely to ensure that the board reflected the appropriate shareholder interests in accordance with the scheme laid out in the articles.
+JUDGE Lord Hoffmann; Lord Rodger of Earlsferry; Baroness Hale of Richmond; Lord Carswell; Lord Brown of Eaton-under-Heywood
+COUNSEL For the appellants: Richard Snowden QC, Eamon Courtenay SC (Belize Bar). For the respondents: David Oliver QC.
+
+
+
+
+
+NAME Liverpool City Council v Irwin (Westlaw)
+
+
+
+
+
+NAME Scally v Southern Health and Social Services Board (Westlaw)
+CITATION Scally v Southern Health and Social Services Board [1992] 1 AC 294
+CIT [1992] 1 AC 294
+COURT UKHL
+CATEGORY Westlaw; Employment; Collective Bargaining; Contract of Employment; Duty of Care; Economic Loss; Implied Terms
+FLAGS Approved
+SUMMARY Contract of employment; incorporating statutory superannuation scheme; failure to inform employees of rights; whether implied term requiring notification of such rights; whether claims time barred
+SUMMARY Where the terms of an employee's contract had not been negotiated with the individual employee but resulted from negotiations with a representative body or were otherwise incorporated by reference, and a particular term of the contract made available to the employee a valuable right contingent upon his taking action to avail himself of its benefit and the employee could not reasonably be expected to be aware of the term, it was an implied term of the contract that the employer was under an obligation to take reasonable steps to bring the term in question to the employee's attention. Ps were medical practitioners employed by Ds in Northern Ireland under contracts of employment which incorporated the regulations from time to time in force governing superannuation rights and liabilities of persons employed in the Health Service. Under the 1962 Regulations an employee had to complete 40 years' contributory service to qualify for a full pension. The 1974 Regulations gave employees the right to purchase "added years" on certain terms, to qualify for a full pension. The right was exercisable within 12 months of February 10, 1975, by persons already employed and within 12 months by persons taking up employment thereafter. There was a discretion to extend the 12-month time limit and to vary the terms of purchase when the time limit was extended. The 1983 Regulations removed this discretion and substituted a new less favourable right to purchase. Ps were not given notice of their right to purchase "added years" and accordingly failed to take up their rights before the 1983 Regulations came into force. Ps brought claims against Ds claiming an implied breach of contract and breach of statutory duty under s.4(1) of the 1965 Act. At trial the claims based on breach of statutory duty were abandoned. The judge dismissed the other claims. The Court of Appeal of Northern Ireland permitted Ps to revive the claims based on breach of statutory duty and allowed the appeal.
+HELD dismissing Ds' appeal, that (1) where the terms of an employee's contract of employment had not been negotiated with the individual employee but resulted from negotiations with a representative body or were otherwise incorporated by reference, and a particular term of the contract made available to the employee a valuable right contingent upon his taking action to avail himself of its benefit and the employee could not, in all the circumstances, reasonably be expected to be aware of the term unless it was drawn to his attention, it was an implied term of the contract that the employer was under an obligation to take reasonable steps to bring it to the attention of the employee. Accordingly, there was such an implied term in Ps' contract of which Ds were in breach; (2) the actions were not time-barred because Ds had been in breach of a continuing obligation to bring the right to purchase "added years" to Ps' attention under the 1974 Regulations until they were superseded by the 1983 Regulations. Per curiam: a breach by an employer of the duty imposed by s.4(1) of the 1965 Act to give an employee written particulars of the terms of his employment is remediable only by recourse to an industrial tribunal as provided by s.5 and confers no civil right of action in the employee founding in damages.
+JUDGE Lord Lowry; Lord Jauncey of Tullichettle; Lord Goff of Chieveley; Lord Roskill; Lord Bridge
+
+
+
+
+
+NAME Crossley v Faithful & Gould Holdings (Westlaw)
+CITATION Crossley v Faithful & Gould Holdings [2004] EWCA Civ 293
+CIT [2004] EWCA Civ 293
+COURT EWCA
+CATEGORY Westlaw; Employment Other Related Subjects: Contracts; Contract of Employment; Early Retirement; Employers' Duties; Ill Health; Implied Terms
+FLAGS Approved
+SUMMARY It was not an implied term of every contract of employment that an employer ought to take reasonable care of an employee's economic well being.
+SUMMARY C appealed against a decision dismissing his claim for damages for breach of an implied term of his contract of employment with F. C was a senior employee and director of F. Under his contract of employment he was entitled, if absent from work due to illness, to be paid his full salary for up to six months' absence and thereafter such remuneration as the board of F might in its discretion allow. He was a member of F's long term disability insurance scheme, under which he was entitled, so long as he remained an employee of F, to the payment of benefits in the event that he was "totally unable by reason of sickness....to follow his occupation", and thereafter to payment of such benefits as the scheme's insurer might think fit. C suffered a nervous breakdown which rendered him unfit for further work and he consequently submitted a claim under the scheme. Terms were discussed between C and F in relation to C's retirement, as a result of which C wrote a letter, in terms suggested by F, in which he tendered his resignation with effect from June 1997. As a consequence of that letter C ceased to be entitled under the scheme to payments of benefit as of right after June 1997, and the scheme insurer only continued to make discretionary payments until June 1998. C sought damages representing past and future loss of benefit on the basis that F had acted in breach of an implied term of his contract of employment to take reasonable care of C's economic well being by (i) asking him to submit a resignation letter knowing the effect that that would have on C's right to benefits under the scheme, or (ii) failing to warn him of the effect that the letter would have on his entitlement to those benefits.
+HELD dismissing the appeal, that the judge had been right to reject the proposition that it was an implied term of every contract of employment that an employer ought to take reasonable care of an employee's economic well being. In deciding whether such a term was to be implied, it was better to focus on questions of reasonableness, fairness and the balancing of competing policy considerations rather than on the elusive concept of "necessity". The implication of such a term would introduce a major extension of the relevant law, when in the recent decisions of Scally v Southern Health and Social Services Board [1992] 1 A.C. 294 and Spring v Guardian Assurance Plc [1995] 2 A.C. 296 the House of Lords had refused to do so. Secondly, such an implied term would impose an unfair and unreasonable burden upon employers, Scally , Spring , University of Nottingham v Eyett (No.1) [1999] 2 All E.R. 437 and Hagen v ICI Chemicals & Polymers Ltd [2002] I.R.L.R. 31 applied, Outram v Academy Plastics Ltd [2001] I.C.R. 367 considered, Reid v Rush & Tompkins Group [1990] 1 W.L.R. 212 doubted. On the evidence, it was clear that C had decided to retire on his own initiative. F had not caused or contributed to that decision. It was equally clear that F was reasonably entitled to conclude that C knew, or reasonably had open to him the means of finding out, the terms of the scheme, including those as to cessation of the right to benefit on termination of employment.
+JUDGE Sir Andrew Morritt VC; Dyson LJ; Thomas LJ
+COUNSEL For the appellant: A White QC. For the defendant: J Cavanagh QC, D Oudkerk.
+
+
+
+
+
+NAME Hong Kong Fir Shipping Co Ltd v Kawasaki Kisen Kaisha Ltd (Westlaw)
+COURT EWHC
+
+
+
+
+
+NAME Bunge Corporation v Tradax Export SA (Westlaw)
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Wallis, Son & Wells v Pratt & Haynes (Westlaw)
+CITATION Wallis, Son & Wells v Pratt & Haynes [1911] AC 394
+CIT [1911] AC 394
+COURT UKHL
+CATEGORY Westlaw; Sale of Goods; Contracts of Sale; Satisfactory Quality; Warranties
+FLAGS Approved
+JUDGE Lord Loreburn LC
+
+
+
+
+
+NAME Andrews Bros (Westlaw)
+CITATION Andrews Bros [1934] 1 KB 17
+CIT [1934] 1 KB 17
+COURT EWCA
+CATEGORY Westlaw; Contracts; Exclusion Clauses; Implied Terms; Motor Vehicles
+FLAGS Approved
+JUDGE Scrutton LJ; Eve J; Greer LJ
+
+
+
+
+
+NAME Karsales (Westlaw)
+CITATION Karsales [1956] 1 WLR 936
+CIT [1956] 1 WLR 936
+COURT EWCA
+CATEGORY Westlaw; Contracts Other Related Subjects: Consumer Law; Breach of Contract; Conditions of Sale; Hire Purchase; Implied Terms
+FLAGS Criticised
+SUMMARY Breach of condition
+SUMMARY In a hire-purchase agreement, when the hirer has himself previously seen and examined the goods and made application for hire-purchase on the basis of his inspection of them, there is an obligation on the lender to deliver the goods in substantially the same condition as when they were seen, and it makes no difference that the lender is a finance company which has bought the goods in the interval without seeing them. The lender must know, from the ordinary course of business, that the hirer applies on the faith of his inspection and on the understanding that the goods will be delivered in substantially the same condition, and it is an implied term of the agreement that pending delivery the goods will be kept in suitable order and repair for the purposes of the bailment. Nor can the lender rely on an exempting clause if he delivers something "different in kind" from that contracted for, or if he breaks a "fundamental term" or a "fundamental contractual obligation": in other words, a breach which goes to the root of the contract disentitles the party in breach from relying on an exempting clause. S. showed the defendant a second-hand Buick car. The defendant found it to be in excellent condition and decided to buy it, but as he had not the money to pay the price asked he arranged to buy it through M F, Ltd, a hire-purchase finance company, whose forms the defendant duly completed. In due course the forms were submitted to M F, Ltd, through the plaintiff company. M F, Ltd accepted the application, and the transaction was concluded by the plaintiff company buying the car from S and reselling it to M F, Ltd, and by M F, Ltd then letting it out an hire-purchase terms to the defendant. These terms provided, inter alia: "No condition or warranty that the vehicle is roadworthy, or as to its age, condition or fitness for any purpose is given by the owner or implied herein." When S delivered the car to the defendant it was in a deplorable condition and would not go, and he refused to accept it. It was then towed away to S's premises. M F, Ltd assigned their rights under the agreement to the plaintiffs, and the plaintiffs brought proceedings against the defendant to recover unpaid hiring charges, interest and damages. The defendant by his defence admitted the agreement between himself and M F, Ltd, but claimed that it was a term and condition, express or implied, thereof that the car to be hired thereunder should correspond with the car submitted by S.
+HELD the lender was in breach of the implied obligation to deliver the car in substantially the same condition as when the defendant saw it first, and, that breach going to the root of the contract, the lender was not entitled to rely on the exemption clause in the agreement, so that he was not entitled to succeed; in any case, when goods are let on hire-purchase and there is a refusal by the hirer to take them, the proper remedy is damages for failure to accept delivery, and, since the assignment by M F, Ltd to the plaintiff did not cover a claim for damages, the plaintiff company was on that ground debarred from succeeding. Alexander v Railway Executive [1951] 2 K.B. 882 considered; and Smeaton Hanscomb & Co v. Sassoon I Setty, Son & Co (No.1) [1953] C.L.Y. 144 considered; Andrews Bros (Bournemouth) Ltd v Singer & Co Ltd [1934] 1 K.B. 17 considered; National Cash Register Co Ltd v Stanley [1921] 3 K.B. 292 followed.
+JUDGE Denning LJ; Birkett LJ; Parker LJ
+
+
+
+
+
+NAME Photo Production Ltd v Securicor Transport (Westlaw)
+CITATION Photo Production Ltd v Securicor Transport [1980] AC 827
+CIT [1980] AC 827
+COURT UKHL
+CATEGORY Westlaw; Contracts; Contract Terms; Contractual Liability; Exclusion Clauses; Fundamental Breach; Security Companies
+FLAGS Approved
+SUMMARY Exclusion clause; fundamental breach
+SUMMARY The so-called doctrine of fundamental breach does not operate so as to prevent reliance upon an exclusion of liability clause upon the contract being brought to an end. The defendants contracted with the plaintiffs to provide a night- patrol service at the latter's factory premises. The contract excluded liability on the defendants' part for "any injurious act or default of any employee of the (defendants) unless such act or default could have been foreseen and avoided by the exercise of due diligence on the part of the employer; nor in any event shall the company be held responsible for any loss suffered through fire or any other cause except in so far as is solely attributable to the negligence of the company's employees acting within the cause of their employment." One of the defendants' employees who had been satisfactorily employed by them for some three months deliberately started a small fire in the factory, the fire getting out of control and burning down the factory. The Court of Appeal reversed the trial judge's ruling that the defendants could rely upon the contract as excluding their liability.
+HELD allowing the defendants' appeal, that whether an exclusion clause was apt to exclude or limit liability was a matter of construction of the contract; that the fact that a breach may be such as to justify the innocent party in terminating or treating as repudiated the contract did not mean that the terms of the contract in so far as they governed liability were not to be enforced; that, generally, parties to a contract, when they bargained on equal terms, should be at liberty to apportion liability in the contract as they saw fit; and that the wording of the exclusion clause in the instant case was adequate to exclude liability for what occurred. (Decision of Court of Appeal reversed Suisse Atlantique Societe d'Armement SA v NV Rotterdamsche Kolen Centrale [1967] 1 A.C. 361 ; Charterhouse Credit Co v Tolly [1963] 2 Q.B. 683 , Harbutt's Plasticine Ltd v Wayne Tank & Pump Co Ltd [1970] 1 Q.B. 447 and Wathes (Western) Ltd v Austins (Menswear) Ltd [1976] 1 Lloyd's Rep. 14 overruled).
+JUDGE Lord Wilberforce; Lord Diplock; Lord Salmon; Lord Keith of Kinkel; Lord Scarman
+
+
+
+
+
+NAME Canada Steamship Lines Ltd v The King (Westlaw)
+COURT EWCA
+FLAGS Approved
+
+
+
+
+
+NAME Hollier v Rambler Motors (Westlaw)
+CITATION Hollier v Rambler Motors [1972] 2 QB 71
+CIT [1972] 2 QB 71
+COURT EWCA
+CATEGORY Westlaw; Contracts Other Related Subjects: Negligence; Cars; Contract Terms; Exclusion Clauses; Negligence; Repairs
+FLAGS Approved
+SUMMARY Conditions and warranties; exemption clause; course of dealing
+SUMMARY Three or four transactions in five years are probably not enough to establish a course of dealing. P telephoned D's garage and asked if they would repair his car. D's manager said that they would if P had it towed to the garage. While in the garage the car was damaged by a fire which started as a result of the garage's negligence. On three or four occasions in the previous five years P had had repairs carried out at the garage and on each of those occasions had signed a form which, under the place for signature, stated "The Company is not responsible for damage caused by fire to customer's cars on the premises." In an action by P claiming damages for negligence, D contended that, although P had not signed the form on this occasion, the exemption clause thereon had been incorporated in the oral contract between them by a course of dealing, and that its effect was to exclude liability for negligently causing a fire while P's car was in their care.
+HELD that D were liable to P for their negligence because (1) they had not established a course of dealing and so the clause was not incorporated into the oral contract; and (2) even if it had been, the wording of the clause was not sufficiently plain to exclude liability for negligence. Per Salmon, L.J. In order to establish that a term has been implied into a contract by a course of dealing, it is not essential to show that the party charged had actual and not merely constructive knowledge of the term and with such actual knowledge had in fact assented to it. (Dictum of Denning, L.J. in Olley v Marlborough Court Ltd [1948] 1 All E.R. 955 applied, dicta of Scrutton, L.J. in Rutter v Palmer [1922] 2 K.B. 87 explained; and of Lord Greene M.R. in Alderslade v Hendon Laundry Ltd [1945] K.B. 189 explained; Turner v Civil Service Supply Association Ltd [1926] 1 K.B. 50 overruled and Fagan v Green & Edwards Ltd [1926] 1 K.B. 102 overruled; dictum of Lord Devlin in McCutcheon v David MacBrayne Ltd [1964] 1 W.L.R. 125 disapproved).
+JUDGE Salmon LJ; Stamp LJ; Latey J
+
+
+
+
+
+NAME Bisset v Wilkinson (Westlaw)
+CITATION Bisset v Wilkinson [1927] AC 177
+CIT [1927] AC 177
+COURT UKPC
+CATEGORY Westlaw; Contracts; Contract For Sale of Land; Misrepresentation; New Zealand; Opinions; Rescission
+FLAGS Approved
+JUDGE Lord Merrivale
+
+
+
+
+
+NAME Smith v Land and House Property Corporation (Westlaw)
+COURT EWHC
+
+
+
+
+
+NAME Edgington v Fitzmaurice (Westlaw)
+CITATION Edgington v Fitzmaurice (1885) 29 Ch D 459
+CIT (1885) 29 Ch D 459
+COURT EWCA
+CATEGORY Westlaw; Company Law; Debentures; Directors' Liabilities; Loans; Misrepresentation; Mistake
+FLAGS Approved
+JUDGE Cotton LJ; Bowen LJ; Fry LJ
+
+
+
+
+
+NAME Keates v The Earl of Cadogan (Westlaw)
+CITATION Keates v The Earl of Cadogan 138 ER 234
+CIT 138 ER 234
+COURT EWHC
+
+
+
+
+
+NAME With v O'Flanagan (Westlaw)
+CITATION With v O'Flanagan [1936] Ch 575
+CIT [1936] Ch 575
+COURT EWCA
+CATEGORY Westlaw; Contracts; Disclosure; Formation of Contract; Negotiation; Rescission
+FLAGS Approved
+JUDGE Lord Wright MR; Clauson J; Romer LJ
+
+
+
+
+
+NAME Dimmock v Hallett (Westlaw)
+CITATION Dimmock v Hallett (1866-67) LR 2 Ch App 21
+CIT (1866-67) LR 2 Ch App 21
+COURT EWCA
+CATEGORY Westlaw; Real Property; Auctions; Misrepresentation; Mortgagees; Puffs; Rescission; Sale of Land
+JUDGE Turner LJ; Cairns LJ
+
+
+
+
+
+NAME Spice Girls Ltd v Aprilia World Service BV (Westlaw)
+CITATION Spice Girls Ltd v Aprilia World Service BV [2002] EWCA Civ 15
+CIT [2002] EWCA Civ 15
+COURT EWCA
+CATEGORY Westlaw; Contracts; Misrepresentation; Music Industry; Sponsorship
+SUMMARY Certain conduct by a popular music group together with related documentation amounted to a series of continuing misrepresentations to the effect that the group was unaware that any member had declared an intention to leave before the minimum term of a tour sponsorship agreement expired.
+JUDGE Sir Andrew Morritt VC; Chadwick LJ; Rix LJ
+COUNSEL For S: Ian Mill Q.C. and Vernon Flynn. For A: Andrew Sutcliffe Q.C.
+
+
+
+
+
+NAME Attwood v Small (Westlaw)
+CITATION Attwood v Small 148 ER 837
+CIT 148 ER 837
+COURT EWHC
+
+
+
+
+
+NAME Redgrave v Hurd (Westlaw)
+CITATION Redgrave v Hurd (1881) 20 Ch D 1
+CIT (1881) 20 Ch D 1
+COURT EWCA
+CATEGORY Westlaw; Contracts; Damages; Misrepresentation; Rescission; Sale of Business; Solicitors; Specific Performance
+FLAGS Approved
+JUDGE Jessel MR; Baggallay LJ; Lush LJ
+
+
+
+
+
+NAME Hedley Byrne & Co Ltd v Heller & Partners (Westlaw)
+CITATION Hedley Byrne & Co Ltd v Heller & Partners [1964] AC 465
+CIT [1964] AC 465
+COURT UKHL
+CATEGORY Westlaw; Negligence; Advice; Banks; Duty of Care; Economic Loss; Negligent Misstatement; Professional Negligence; Reliance
+FLAGS Approved
+SUMMARY _Abstract_ -- The appellant company (H) appealed against the Court of Appeal's decision that it could not recover damages arising from moneys lost in reliance on the credit reference given by the respondent bank (X) in respect of one of X's customers (E).
+SUMMARY _Abstract_ -- H was an advertising agent who had placed substantial orders for advertising space for E, for which H was personally liable. H had then enquired of X as to the creditworthiness of E, and in reliance on the representations H refrained from cancelling the orders to relieve its personal liability. H became doubtful about the financial position of E, and it sought a further reference "without responsibility" from X. X's response to H, stated to be "for your private use and without responsibility on the part of the bank", was that E was considered good for its ordinary business engagements. After that communication, H lost money when E went into liquidation. H sought to recover the money lost by a claim in negligence against X. By authority binding upon them, both the judge at first instance and the Court of Appeal considered themselves driven to the conclusion that no such action could lie in the absence of a contract or fiduciary relationship, and that no special relationship involving a duty of care could be inferred.
+SUMMARY In making a statement at the request of another, a duty of care would be owed by the representor to the inquirer if it was plain that in seeking information or advice from the representor the inquirer was reasonably trusting him to exercise such a degree of care as the circumstances required and the representor knew or ought to have known that the inquirer was doing so. If in those circumstances the representor gave information or advice which was negligent he would be liable for any pecuniary or personal damage caused to the inquirer, but where the representor had expressly excluded responsibility for reliance on his statement no liability arose.
+HELD Appeal dismissed.
+HELD (1) (Per Lord Reid) The principle in Donoghue v Stevenson [1932] A.C. 562 had no direct bearing on the instant case. Donoghue set out to reflect the standards of the reasonable man but reasonable people often stated opinions without taking care, so the law had to treat words and acts differently . It was clear that liability for negligent misstatement could not be founded on the Donoghue principle alone; something more was required, namely that the representor had expressly or impliedly undertaken responsibility for their statement, Donoghue considered. The decision in Derry v Peek (1889) 14 App. Cas. 337 had not established any universal rule that, in the absence of any contract, an innocent (not fraudulent) but negligent misrepresentation could not give rise to an action, Nocton v Lord Ashburton [1914] A.C. 932 applied, Derry considered. In the light of the decision in Robinson v National Bank of Scotland Ltd 1916 S.C. (H.L.) 154, concerning a duty of care arising from other "special relationships",there was no logical stopping place short of all those relationships where the party seeking the advice was reasonably trusting the other to exercise such a degree of care as the circumstances required, and where the representor knew or should reasonably have known that the inquirer would rely on him, Robinson applied, Candler v Crane Christmas & Co [1951] 2 K.B. 164 overruled, Le Lievre v Gould [1893] 1 Q.B. 491 not followed and Cann v Willson (1888) 39 Ch. D. 39 approved. The relevant question in the instant case was whether an undertaking to assume a duty to take care could be inferred. Since H's inquiry had been requested "without responsibility" from X, it was clear that no such duty could be inferred. (2) (Per Lord Morris) It should be regarded as settled that if someone possessed of a special skill undertook, irrespective of contract, to apply that skill for the assistance of another person who relied upon such skill, a duty of care should arise. That the service was given by words made no difference. Where a person was so placed that others could reasonably rely on his skill, and that person allowed his advice to be passed on to another whom he knew or should have known would rely on it, a duty of care also arose. (3) (Per Lord Hodson) A banker giving references as to credit-worthiness was not under a legal obligation to do more than to give honest answers to the best of his actual knowledge. However, in accordance with Lord Morris, where a person gave advice in the knowledge that it would reasonably be relied upon, a duty of care arose. (4) (Per Lord Devlin) The problem in issue was a by-product of the doctrine of consideration in English law. The special relationship required to establish a duty of care arose in relationships "equivalent to contract" where there was an assumption of responsibility which, but for the absence of consideration, would constitute a contract. The responsibility was not one implied by law, but one which was voluntarily accepted either generally where a general relationship was created or specifically in relation to a particular transaction. Where there was a general relationship (such as that of solicitor/client, banker/customer, although there were others yet to be established) it was unnecessary to prove any more than its existence, and the duty followed. Where a particular relationship was created ad hoc (as in the instant case) the facts had to be examined to see if there was an express or implied undertaking of responsibility. (5) (Per Lord Pearce) To import a duty of care, the relationship between the parties had normally to concern a business or professional transaction whose nature made clear the gravity of the inquiry.
+JUDGE Lord Reid; Lord Morris; Lord Hodson; Lord Devlin; Lord Pearce
+COUNSEL For the appellants: Gerald Gardiner QC, DGA Lowe. For the respondents: John Foster QC, JM Shaw, L Blom-Cooper, B Anns.
+
+
+
+
+
+NAME Caparo Industries plc v Dickman (Westlaw)
+CITATION Caparo Industries plc v Dickman [1990] 2 AC 605
+CIT [1990] 2 AC 605
+COURT UKHL
+CATEGORY Westlaw; Negligence; Auditors; Duty of Care; Economic Loss; Professional Negligence; Shareholders
+FLAGS Approved
+SUMMARY Professional negligence; Auditors' report to shareholders; No duty of care owed to shareholders or investors
+SUMMARY TR, a firm of accountants, appealed against a decision of the Court of Appeal (Times, August 5, 1988) that they owed a duty of care to shareholders when preparing an auditor's report as required by statute. C had brought an action against D and another, directors of F, a public company in respect of which the report had been prepared, alleging negligent misstatement. C had purchased shares in F as part of a take over bid and, placing reliance on TR's report, had bought further shares. The report was subsequently proved to have to given a false picture of F's profits and C suffered a loss. The Court of Appeal had drawn a distinction between existing shareholders, to whom TR owed a duty and potential investors in respect of whom no duty was owed. TR submitted that it did not owe a duty to either group, since the necessary degree of proximity between the parties was missing.
+HELD allowing the appeal, that no duty was owed either to existing shareholders, or to potential investors, since for a duty to arise, three factors had to exist, namely: (1) a sufficient degree of proximity in the relationship between the parties; (2) the knowledge that the report would be communicated to the shareholder or investor in connection with a particular transaction in the contemplation of the parties, Smith v Eric S Bush (A Firm) [1990] 1 A.C. 831 applied, and (3) the shareholder or investor would place reliance on the report when deciding whether to enter into the relevant transaction. Auditors of a public company routinely preparing accounts, in contrast to the preparation of a report for a specific purpose for an identified party, owed no duty to the public at large who might place reliance on company accounts when making investment decisions. To impose such a liability would open the floodgates to an indeterminately wide class of people, JEB Fasteners Ltd v Marks Bloom & Co [1981] 3 All E.R. 289 distinguished. Furthermore, it was necessary to impose some limit on liability for economic loss arising in the absence of a contractual relationship between the parties.
+JUDGE Lord Jauncey of Tullichettle; Lord Oliver of Aylmerton; Lord Roskill; Lord Ackner; Lord Bridge of Harwich
+COUNSEL For C: Christopher Bathurst Q.C., Michael Brindle and Craig Orr. For TR: Peter Goldsmith Q.C. and Stephen Moriarty.
+
+
+
+
+
+NAME Henderson v Merrett Syndicates (Westlaw)
+CITATION Henderson v Merrett Syndicates [1995] 1 WLR 243
+CIT [1995] 1 WLR 243
+COURT EWCA
+CATEGORY Westlaw; Civil Procedure; Appeals; Time
+FLAGS Approved
+HELD that 1) appeals which would be treated as urgent and heard immediately or within a few days included appeals against committal to prison, cases in which children might suffer extraordinary prejudice, Hague Convention cases, asylum appeals concerning return to third countries, cases in which a possession order was about to be executed, cases in which an irrevocable decision was about to be implemented, cases in which allegedly unlawful material was about to be published or appeals against judicial decisions in the course of continuing proceedings, 2) the Court would try to expedite hearings where a party might lose its livelihood or home or suffer irreparable loss or extraordinary hardship, the appeal would become futile, other cases depended on the outcome, or widespread divergences of practice needed to be remedied, the interest of good public administration demanded or other members of the public would be seriously harmed, 3) except where the above criteria applied appeals on preliminary or interlocutory matters or interpretation of standard documents would normally not be expedited, 4) the court then dealt with the applications and in the case of Unilever , C were found guilty of infringing a patent belonging to U. U instigated a second action for a similar infringement of a similar product. The application did not fall within the criteria for expedition as C would suffer no detriment.
+JUDGE Sir Thomas Bingham MR; Mann LJ; Saville LJ
+COUNSEL For U: H Carr. For C: C Floyd Q.C.
+
+
+
+
+
+NAME Derry v Peek (Westlaw)
+CITATION Derry v Peek (1889) 14 App Cas 337
+CIT (1889) 14 App Cas 337
+COURT UKHL
+CATEGORY Westlaw; Torts; Deceit; Fraud; Intention; Misrepresentation; Prospectuses; Tortious Liability
+FLAGS Approved
+JUDGE Lord Halsbury LC
+
+
+
+
+
+NAME Doyle v Olby (Westlaw)
+CITATION Doyle v Olby [1969] 2 QB 158
+CIT [1969] 2 QB 158
+COURT EWCA
+CATEGORY Westlaw; Company Law Other Related Subjects: Damages; Damages; Fraud; Misrepresentation; Sale of Business
+FLAGS Approved
+SUMMARY Fraudulent misrepresentation; damages; purchase of business
+SUMMARY Damages for fraudulent misrepresentation are completely at large and extend to the limit of the loss actually suffered by the plaintiff as a result of the misrepresentation. Per curiam: wherever it can do so without injustice to the other party, the Court of Appeal will not allow a party to be prejudiced by errors on the part of his counsel at the trial. The plaintiff purchased an ironmongers' business from X. He did so on the strength of X's representations (a) as to the size of the weekly wages bill and (b) that all the trade was conducted from the shop. In fact both representations were false to the knowledge of X inasmuch as a part-time traveller was employed whose wages were not disclosed to the plaintiff and by whom half the trade of the business was conducted (ie, outside the shop). The plaintiff sued for damages for fraudulent misrepresentation and for conspiracy. He succeeded, and on his counsel's submission the judge awarded GBP 1,500 damages, this sum being based on the cost of the services of a part-time traveller. On appeal by the plaintiff, held, allowing the appeal, (1) that the damages awarded had been calculated, erroneously, on the basis that they were damages for breach of contract; (2) that the damages ought to extend to the whole of the plaintiff's loss; and (3) that, on the facts, the sum of GBP 5,500 would be awarded. (Dictum of Lord Atkin in Clark v Urquhart [1930] A.C. 28 and dictum of Lord Esher M.R. in Firbank's Executors v Humphreys (1887) L.R. 18 Q.B.D. 54 applied; McConnel v Wright [1903] Ch.546 considered).
+JUDGE Lord Denning MR; Winn LJ; Sachs LJ
+
+
+
+
+
+NAME East v Maurer (Westlaw)
+CITATION East v Maurer [1991] 1 WLR 461
+CIT [1991] 1 WLR 461
+COURT EWCA
+CATEGORY Westlaw; Damages; Deceit; Measure of Damages; Profits
+FLAGS Approved
+SUMMARY Deceit; whether loss of expected profit recoverable
+SUMMARY Damages for deceit should compensate the plaintiff for all losses suffered, including loss of profits that could reasonably have been anticipated. D ran two hairdressing salons in neighbouring areas. P purchased one of the salons. During negotiations, D had falsely represented that he personally would not be working at his other salon. P failed to make a profit, and discovered that D was working full time at his salon. P was unable to sell the salon for three years. At trial P was awarded damages of GBP 33,328, including GBP 15,000 for loss of profits during the period in which P owned the business. D appealed against the award for loss of profits.
+HELD allowing the appeal in part, that (1) damages for deceit were assessed on the basis that P should be compensated for all losses suffered, and that where the losses were made in the course of running a business, the assessment of damages would include both actual losses incurrred and loss of profits that could reasonably have been anticipated; (2) P had failed to earn expected profits from the business and was entitled to the loss of expected profits, but the judge had erred in assessing damages on the basis that D's statement amounted to a warranty that the business would have remained at the same level, and appropriate damages for loss of expected profits were GBP 10,000 (Doyle v Olby (Ironmongers) Ltd [1969] 2 Q.B. 158 applied).
+JUDGE Mustill LJ; Butler-Sloss J; Beldam LJ
+
+
+
+
+
+NAME Howard Marine & Dredging Co Ltd v A Ogden & Sons (Westlaw)
+CITATION Howard Marine & Dredging Co Ltd v A Ogden & Sons [1978] QB 574
+CIT [1978] QB 574
+COURT EWCA
+CATEGORY Westlaw; Contracts Other Related Subjects: Negligence; Contract Terms; Misrepresentation; Negligence; Warranties
+SUMMARY Negligent misrepresentation; pre-contractual statement; absolute obligation
+SUMMARY The liability of the representor under the Misrepresentation Act 1967 (c.7) s.2(1) does not depend upon his being under a duty of care. In negotiations leading to a contract, the statute imposes an absolute obligation not to state facts which the representor cannot prove he had reasonable grounds to believe. A Ltd, civil engineering contractors, entered negotiations with H Ltd for the hire of two sea-going barges, owned by H Ltd, for carrying vast quantities of clay out to sea. At a meeting on July 11, 1974, the owners' marine manager orally represented to A Ltd that the capacity of the barges was 1,600 tonnes deadweight. He based that figure on his recollection of an entry in Lloyd's Register which gave the capacities as 1,800 tonnes. The Register was erroneous, and the correct deadweight capacity was 1,055 tonnes, which could have been ascertained from the ship's document in possession of H Ltd A Ltd continued negotiations without obtaining any other figure for the vital matter of deadweight capacity, and took the barges into use under a charterparty. The charterparty included an exception clause that the charterers' acceptance at handing over the barges should be conclusive that they had examined them and found them fit for their purpose. After about six months' use, A Ltd discovered the correct capacity and paid GBP 20,000 for the hire, refusing to pay any more. H Ltd withdrew the barges and issued proceedings claiming outstanding hire charges. A Ltd denied liability, and counterclaimed for damages alleging, inter alia, (1) breaches of collateral warranties in the representations before contract; (2) negligence arising from a special relationship between the parties and (3) liability under s.2(1) of the Act. Bristow, J. gave judgment for H Ltd On appeal by A Ltd, and cross-notice by H Ltd, held, allowing the appeal in part, that (1) there was nothing in the pre-contract negotiations which could amount to a collateral warranty; (2) per Bridge and Shaw L.JJ., the misrepresentation at the meeting of July 11, 1974, as to the deadweight capacity, was a most material matter and H Ltd had not proven that their marine manager had reasonable grounds for believing, and did believe, that the facts represented were true; (3) per Shaw and Bridge, L.J.J., H Ltd could not escape liability by reliance on the exception clause, since it was a provision which came within s.3 of the Act and was therefore of no effect unless the court allowed reliance upon it as being "fair and reasonable in the circumstances of the case" and since it was not "fair and reasonable" to allow reliance upon it, the cross-appeal should be dismissed. Per Shaw L.J., A Ltd also had a cause of action in negligence at common law.
+JUDGE Lord Denning MR; Bridge LJ; Shaw LJ
+
+
+
+
+
+NAME Royscot Trust v Rogerson (Westlaw)
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Gran Gelato Ltd v Richcliff (Westlaw)
+CITATION Gran Gelato Ltd v Richcliff [1992] Ch 560
+CIT [1992] Ch 560
+COURT EWHC
+CATEGORY Westlaw; Legal Profession Other Related Subjects: Agency; Agency; Conveyancing; Duty of Care; Misrepresentation; Solicitors
+FLAGS Approved
+SUMMARY Conveyancing; duty of care; misrepresentation by vendor; whether vendor's solicitor owed duty of care to purchaser
+SUMMARY A vendor's solicitor does not owe a duty of care to a purchaser in ordinary conveyancing transactions. A plea of contributory negligence is available in answer to a claim for misrepresentation under the Misrepresentation Act 1967 s.2. R granted an underlease to G at a premium of GBP 30,000. The headlease granted to R contained a clause giving the head lessor the right to terminate the headleases for redevelopment. In negotiations for the underlease, G's solicitors enquired whether there were any rights affecting the superior, leasehold title which would inhibit G's enjoyment of the property. R's solicitors answered "not to the lessor's knowledge". Subsequently the head lessor exercised the break- clause option and G sought damages against R and against R's solicitors alleging negligent misrepresentation.
+HELD dismissing the claim against the solicitors and giving judgment for G against R, that in normal conveyancing transactions a purchaser had a remedy against the seller for any misrepresentations and so a seller's solicitor owed the buyer no duty of care. If a solicitor stepped outside the role of solicitor for his client and accepted a direct responsibility to the buyer then a duty of care might arise, but that had not happened here. The answer given to the enquiry was a misrepresentation by R upon which G had relied and G was entitled to damages. A defence that G had been contributorily negligent (by failing to call for the head lease) was open to R but, on the facts, did not succeed.
+JUDGE Sir Donald Nicholls VC
+
+
+
+
+
+NAME Whittington v Seale-Hayne (Westlaw)
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Car & Universal Finance Co Ltd v Caldwell (Westlaw)
+CITATION Car & Universal Finance Co Ltd v Caldwell [1965] 1 QB 525
+CIT [1965] 1 QB 525
+COURT EWCA
+CATEGORY Westlaw; Sale of Goods; Contracts of Sale; Rescission; Title to Goods
+FLAGS Approved
+SUMMARY Rescission; election; communication
+SUMMARY Where a fraudulent rogue absconds, a seller of goods sufficiently exercises his election to rescind if he at once, on discovering the fraud, takes all possible steps to regain the goods, even though he cannot find the rogue nor communicate with him. C sold a motor-car to N and accepted a cheque in part payment. The cheque was dishonoured the following morning, whereupon C asked both the police and the Automobile Association to trace the motor-car. N sold the car to M company, a firm of motor dealers, who had notice from which they could have inferred that N had acquired the car fraudulently. Immediately after acquiring the car, M filled up hire-purchase forms, selling the car to G and C, a finance company, in which M expressly warranted that the car belonged absolutely to themselves. Seventeen days after the transaction between C and N, C demanded the return of the car from M company, who claimed to have a good title to it. Eventually, C and U, another finance company, bought the car in good faith without notice of any defect in title. On the trial of the issue whether the car belonged to C and U or to C, held that (1) the title to the car was vested in C as he had rescinded the contract of sale when he asked the police to recover the car; but (2) M, the dealers, were not the agents of G and C, the first finance company, so as to fix G and C with notice of the defective title. (Decision of Lord Denning, M.R. ([1963] 2 All E.R. 547) affirmed in part; dicta of Lord Blackburn in Scarf v Jardine (1882) 7 App. Cas. 345 distinguished and of Lord Hatherley L.C. in Reese River Silver Mining Co Ltd v Smith (1869-70) L.R. 4 H.L. 64 distinguished).
+JUDGE Sellers LJ; Davies LJ; Upjohn LJ
+
+
+
+
+
+NAME William Sindall plc v Cambridgeshire County Council (Westlaw)
+CITATION William Sindall plc v Cambridgeshire County Council [1994] 1 WLR 1016
+CIT [1994] 1 WLR 1016
+COURT EWCA
+CATEGORY Westlaw; Real Property; Easements; Preliminary Inquiries; Real Property; Rescission; Standard Forms of Contract
+FLAGS Approved
+SUMMARY Contract for sale; rescission; mutual mistake; misrepresentation; contract for purchase of land pursuant to the National Conditions of Sale; undisclosed foul sewer discovered after completion; whether purchaser entitled to rescind; whether damages to be awarded; appropriate measure of damages
+SUMMARY In a contract for the sale of land incorporating the National Conditions of Sale, there is no action in mistake or misrepresentation when an encumbrance that was not within the knowledge of the vendor at the time of the contract is subsequently discovered to have existed at the time of the contract. A contract was concluded for the sale and purchase of development land. The contract incorporated the National Conditions of Sale (20th ed.). The property was sold subject to, inter alia, any easements, liabilities and public rights affecting it. This was subject to V's duty to disclose all latent liabilities and easements known to it. P was deemed to have full notice of all easements, rights and privileges affecting it, with no obligation on V to define them. V replied to enquiries before contract stating that so far as it was aware there were no rights of easement or public rights affecting the property other than as disclosed in the contract. After completion a private foul sewer was discovered running under the property. P purported to rescind on the grounds of misrepresentation and common fundamental mistake. P applied for a declaration that the contract had been rescinded and for repayment of the purchase price, the value of the site having halved in value since completion. The declaration was granted and V appealed.
+HELD allowing the appeal, that (1) V was required to disclose easements and encumbrances of which it had knowledge or means of knowledge. The National Conditions of Sale left no room for rescission on the grounds of mistake and cast the risk on to P as to the existence of encumbrances; (2) there was no evidence of misrepresentation by V, either negligent or otherwise; (3) the presence of the sewer did not seriously interfere with the use of the land so it would be inequitable for the contract to be rescinded. Damages would have been awarded in lieu of rescission under the Misrepresentation Act 1967 s.2(2), had there been misrepresentation (Associated Japanese Bank (International) Ltd v Credit du Nord SA [1989] 1 W.L.R. 255 applied; Grist v Bailey [1967] Ch. 532, Laurence v Lexcourt Holdings [1978] 1 W.L.R. 1128 doubted). [Per curiam: The appropriate measure of damages awarded in lieu of rescission under the Misrepresentation Act 1967, s.2(2), is different from that under s.2(1), being the difference in value between what P was misled into thinking he was buying and the value of what he in fact received, and damages should therefore never exceed the sum which would have been payable had the representation been a warranty.]
+JUDGE Russell LJ; Evans LJ; Hoffmann LJ
+COUNSEL For C: Terence Etherton Q.C. and Steven Kovats. For WS: Jules Sher Q.C. and Reziya Harrison.
+
+
+
+
+
+NAME Overbrooke Estates Ltd v Glencombe Properties Ltd (Westlaw)
+CITATION Overbrooke Estates Ltd v Glencombe Properties Ltd [1974] 1 WLR 1335
+CIT [1974] 1 WLR 1335
+COURT EWHC
+CATEGORY Westlaw; Agency Other Related Subjects: Real Property; Auctions; Clearance Areas; Misrepresentation; Sale of Land; Specific Performance
+FLAGS Approved
+SUMMARY Authority; limitation by principal; misrepresentation by agent
+SUMMARY A principal is not liable for the acts of his agent committed beyond the scope of the agent's authority where the limits of the agent's authority are communicated to the third party seeking to rely upon the agent's acts. The plaintiffs sought summary judgment under Rules of the Supreme Court Ord.86 in an action for specific performance of a contract for the sale of land entered into by the defendants, who made the successful bid for the land at an auction. The general conditions of sale applying to the auction, a copy whereof was supplied beforehand to the defendants, provided that the auctioneer had no authority to give any representation or warranty relating to the property. Before the auction the auctioneers, when asked by the defendants, stated that the G.L.C. had no plans or schemes, including compulsory purchase, for the land. After the auction the defendants found that the land was likely to be included in a slum-clearance programme.
+HELD granting summary judgment, that the defendants knew or ought to have known that the representation was beyond the auctioneer's authority; that s.3 of the 1967 Act did not affect the plaintiff's right to restrict their agent's authority. ( Mendelssohn v Normand [1970] 1 Q.B. 177 distinguished).
+JUDGE Brightman J
+
+
+
+
+
+NAME Raffles v Wichelhaus (Westlaw)
+CITATION Raffles v Wichelhaus 159 ER 375
+CIT 159 ER 375
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Falck v Williams (Westlaw)
+CITATION Falck v Williams [1900] AC 176
+CIT [1900] AC 176
+COURT UKPC
+CATEGORY Westlaw; Contracts; Burden of Proof; Mistake; Telegraph
+JUDGE Lord Macnaghten
+
+
+
+
+
+NAME Denny v Hancock (Westlaw)
+CITATION Denny v Hancock (1870-71) LR 6 Ch App 1
+CIT (1870-71) LR 6 Ch App 1
+COURT EWCA
+CATEGORY Westlaw; Real Property Other Related Subjects: Contracts; Cancellation; Contract For Sale of Land; Mistake; Plans; Title to Land
+JUDGE James LJ; Mellish LJ
+
+
+
+
+
+NAME Boulton v Jones (Westlaw)
+CITATION Boulton v Jones 157 ER 232
+CIT 157 ER 232
+COURT EWHC
+
+
+
+
+
+NAME Cundy v Lindsay (Westlaw)
+CITATION Cundy v Lindsay (1878) 3 App Cas 459
+CIT (1878) 3 App Cas 459
+COURT UKHL
+CATEGORY Westlaw; Contracts; Contracts of Sale; Fraud; Good Faith; Resale; Title to Goods; Void Contracts
+FLAGS Approved
+JUDGE Lord Cairns LC
+
+
+
+
+
+NAME King's Norton Metal Co Ltd v Edridge, Merrett & Co (Westlaw)
+COURT UKHL
+FLAGS Approved
+
+
+
+
+
+NAME Phillips v Brooks Ltd (Westlaw)
+CITATION Phillips v Brooks Ltd [1919] 2 KB 243
+CIT [1919] 2 KB 243
+COURT EWHC
+CATEGORY Westlaw; Sale of Goods Other Related Subjects: Contracts; Fraud; Passing of Property; Sale of Goods; Third Parties; Title to Goods
+FLAGS Approved
+JUDGE Horridge J
+
+
+
+
+
+NAME Ingram v Little (Westlaw)
+CITATION Ingram v Little [1961] 1 QB 31
+CIT [1961] 1 QB 31
+COURT EWCA
+CATEGORY Westlaw; Contracts Other Related Subjects: Sale of Goods; Formation of Contract; Mistake
+FLAGS Criticised
+SUMMARY Mistake
+SUMMARY Where A makes an offer to B, in the belief (known to B) that B is X, there is no offer capable of acceptance by B. B said he would buy A's motor-car for GBP 717, and produced a cheque book. A was not prepared to accept a cheque and refused to sell. B then stated that he was X and gave an address. A checked the telephone directory and discovered that there was a person named X living at the address given. A then agreed to let B have the car against a cheque for GBP 717, which was later dishonoured. B had meanwhile sold the car to the defendant, who purchased in good faith. In an action for damages for conversion Slade J. gave judgment for A, and the defendant appealed.
+HELD dismissing the appeal, as A intended to deal only with the genuine X, B was incapable of accepting A's offer to sell the car, so that the property therein remained in A. Cundy v Lindsay (1878) 3 App. Cas. 459 considered; Hardman v Booth 158 E.R. 1107 considered; and Lake v Simmons [1927] A.C. 487 considered; King's Norton Metal Co v Edridge Merrett & Co (1897) 14 T.L.R. 98 distinguished; and Phillips v Brooks Ltd [1919] 2 K.B. 243 distinguished.
+JUDGE Sellers LJ; Pearce LJ; Devlin LJ
+
+
+
+
+
+NAME Lewis v Averay (Westlaw)
+CITATION Lewis v Averay [1972] 1 QB 198
+CIT [1972] 1 QB 198
+COURT EWCA
+CATEGORY Westlaw; Contracts Other Related Subjects: Sale of Goods; Fraud; Sale of Goods; Third Parties; Title to Goods
+FLAGS Approved
+SUMMARY Mistake; identity of purchaser
+SUMMARY Where A and B are present together, and A sells goods to B, there is a very strong presumption that A intended to contract with B, and not with C, whose identity B had falsely assumed. R called on L, who had a car for sale. R called himself "G," who was a well-known television actor, and produced a film studio pass in G's name bearing R's photograph. L accepted R's cheque and allowed R to take the car and logbook away. The cheque was worthless. Later R, pretending to be L, sold the car to A, who had no reason to suspect anything was wrong. When L discovered A had the car, he sued him for its return. On appeal, held, that L had been intending to, and did, contract with R, the person physically present, so that the title to the car had passed to L and thence, the contract not having been avoided in the meantime, to A. ( Phillips v Brooks Ltd [1919] 2 K.B. 243 approved; Ingram v Little [1961] 1 Q.B. 31 doubted).
+JUDGE Lord Denning MR; Phillimore LJ; Megaw LJ
+
+
+
+
+
+NAME Shogun Finance Ltd v Hudson (Westlaw)
+CITATION Shogun Finance Ltd v Hudson [2000] CLY 2600
+CIT [2000] CLY 2600
+COURT EWHC
+CATEGORY Westlaw; Consumer Law Other Related Subjects: Contracts; Fraud; Hire Purchase; Identification; Mistake; Void Contracts
+FLAGS Approved
+SUMMARY hire purchase; agreement void due to fraudulent impersonation; mistake as to hirer's identity
+SUMMARY R obtained a vehicle on hire purchase from SF through a dealer by impersonating P, producing P's driving licence and forging his signature, thereby satisfying SF's credit checks. P was a man of good character unaware of this transaction. R then purported to sell the vehicle to H, a dealer in vehicle spare parts, who purchased it unaware of the fraud. SF sought the return of the vehicle from H or, damages in the alternative, contending that (1) the identity of the hire purchaser was crucial to the agreement and the mistake thereto rendered the agreement void rather than voidable, thereby preventing R from passing title to H, and (2) as the signature on the agreement was a forgery, the agreement was void. H contended that, the identity of the rogue was not crucial to the agreement and that the mistake rendered the agreement merely voidable rather than void; (2) SF had failed to avoid the agreement prior to the sale to H, and (3) H was a private purchaser in good faith under the Hire Purchase Act 1964 s.27 and therefore entitled to take good title.
+HELD giving judgment for SF, that (1) SF intended to contract with P, in whose name the agreement was made and whose signature had been forged by R, rather than with R, King's Norton Metal Co v Edridge Merrett & Co (1897) 14 T.L.R. 98 and Cundy v Lindsay (1878) 3 App. Cas. 459 applied; (2) the lack of direct contact between SF and R, and the fact that the agreement was in writing rather than oral, prevented this being an inter praesentes agreement, Lewis v Averay (No.1) [1972] 1 Q.B. 198 distinguished; (3) although R had conducted negotiations with the dealer, the dealer had not acted as the agent of SF, Branwhite v Worcester Works Finance Ltd [1969] 1 A.C. 552 applied; (4) the hirer's identity was crucial to the agreement and the mistake as to his identity rendered the agreement void. Although not relevant to the decision, it was further found that vehicle spare parts were not "mechanically propelled vehicles" for the purposes of s.29 of the Act, Smart v Allen [1963] 1 Q.B. 291 applied; (5) H's dealings in spare parts did not make him a dealer in vehicles, and (6) had the agreement been voidable rather than void, H would have been able to rely on the defence of private purchaser under s.27.
+JUDGE DEB Grant
+COUNSEL For SF: Sunil Iyer. For H: Nicholas George.
+
+
+
+
+
+NAME McRae v Commonwealth Disposals Commission (Westlaw)
+CITATION McRae v Commonwealth Disposals Commission 84 CLR 377
+CIT 84 CLR 377
+COURT EWHC
+CATEGORY Westlaw; Sale of Goods; Australia; Breach of Contract; Damages; Mistake
+SUMMARY Damages; non-delivery; non-existence of goods; mistake
+SUMMARY The defendants invited tenders for the purchase of a wrecked oil tanker stated to be lying at a named spot and the plaintiffs made an offer, which was accepted, and incurred expenses in fitting out and sending an expedition to the spot. In fact it was proved that the tanker did not exist and never had existed. The High Court of Australia held that the plaintiffs were entitled to recover from the defendants damages for breach of the contract promising that there was a tanker at the given locality; that the case was not one of a purported contract nullified by mistake, and that, even if it was one containing an element of mistake, the defendants could not rely on the mistake as it was induced by their servants; and that the damages to be recovered were the purchase price paid and the expenditure wasted in reliance of the promise ( Couturier v Hastie 10 E.R. 1065 explained and distinguished).
+
+
+
+
+
+NAME Cooper v Phibbs (Westlaw)
+CITATION Cooper v Phibbs (1867) LR 2 HL 149
+CIT (1867) LR 2 HL 149
+COURT UKHL
+CATEGORY Westlaw; Civil Procedure; Agreements; Declarations; Equitable Remedies; Mistake; Pleadings; Setting Aside
+FLAGS Approved
+JUDGE Lord Cranworth
+
+
+
+
+
+NAME Bell v Lever Bros Ltd (Westlaw)
+CITATION Bell v Lever Bros Ltd [1932] AC 161
+CIT [1932] AC 161
+COURT UKHL
+CATEGORY Westlaw; Contracts Other Related Subjects: Employment; Banking and Finance; Fiduciary Duty; Legal Rights; Mistake; Recession
+FLAGS Approved
+JUDGE Viscount Hailsham; Lord Blanesburgh; Lord Warrington of Clyffe; Lord Atkin; Lord Thankerton
+
+
+
+
+
+NAME Associated Japanese Bank (Westlaw)
+CITATION Associated Japanese Bank [1989] 1 WLR 255
+CIT [1989] 1 WLR 255
+COURT EWHC
+CATEGORY Westlaw; Contracts; Formation of Contract; Guarantees; Mistake
+FLAGS Approved
+HELD The issue was whether the guarantee would only become effective if four existing machines were in fact leased out. It was of prime importance that the subject matter of the contract was non existent. The test of common law mistake was satisfied and the guarantee void ab initio.
+JUDGE Steyn J
+
+
+
+
+
+NAME Solle v Butcher (Westlaw)
+CITATION Solle v Butcher [1950] 1 KB 671
+CIT [1950] 1 KB 671
+COURT EWCA
+CATEGORY Westlaw; Landlord and Tenant; Alterations; Leases; Mistake; Rent Control; Repairs; Rescission; War Damage
+FLAGS Criticised
+SUMMARY War-damaged house; loss of identity
+SUMMARY As a matter of general principle, where a house within the Landlord and tenant Acts is so structurally altered that it becomes a new dwelling-house by reason of change of identity, the new premises shed all the attributes of the old. Whether any particular alterations come within this principle is a question of fact, but the inclusion of a garage in the demise has no material effect on the identity of the dwelling-house. Where there is a mutual mistake as to the effect of the structural alteration on the identity of the house, the Court, acting on the principle laid down in Cooper v Phibbs (1867) L.R. 2 H.L. 149 , will set aside a lease entered into under such a common misapprehension. The demised premises, a flat, had been let in 1939 at a standard rent of GBP 140 a year, and in repairing war-damage the landlord had made substantial alterations to the flat. Had the necessary notices been served, the increase in respect of improvements permitted under s.2(1) of the Act of 1920 would have brought the rent up to approximately GBP 250 a year, but the landlord and the tenant, who was a surveyor and a partner with the landlord in a firm of estate agents, were satisfied that the reconstructed flat was not subject to the previous standard rent of GBP 140 a year, and no notices were served. On completion of the work, the landlord let the flat, together with a garage which had not been previously demised, on a seven years' lease at GBP 250 a year. Subsequently, the tenant sought a declaration that the standard rent was GBP 140 a year and claimed repayment of the amount overpaid. Held, (1) disregarding the garage, which was not material to the question, the alterations were not such as to change the identity of the flat, and, since it was clear from the decision in Welch v Nagy [1950] 1 K.B. 455 , that no rule of estoppel could oust the jurisdiction of the court under the Acts, the tenant was not estopped by conduct, and the standard rent of GBP 140 a year applied; (2) (Jenkins, L.J., dissenting) there was a mutual mistake which was fundamental and in no way due to any fault of the landlord, so that in equity the landlord was entitled to have the lease set aside. ( Cooper v. Phibbs and Welch v. Nagy applied; Garrard v Frankel 54 E.R. 961 applied; Paget v Marshall (1884) 28 Ch. D. 255 applied; and Langford Property Co Ltd v Batten [1949] 2 All E.R. 422 applied; Wilde v Gibson 9 E.R. 897 considered; Lansdown v Lansdown 25 E.R. 441 referred to; Bingham v Bingham 27 E.R. 934 referred to; Angel v Jay [1911] 1 K.B. 666 referred to; Bell v Lever Brothers Ltd [1931] 1 K.B. 557 referred to; MacKenzie v Royal Bank of Canada [1934] A.C. 468 referred to; Seddon v North Eastern Salt Co Ltd [1905] 1 Ch. 326 referred to; and Asher v Seaford Court Estates [1949] 2 K.B. 481 referred to).
+JUDGE Bucknill LJ; Denning LJ; Jenkins LJ
+
+
+
+
+
+NAME Great Peace Shipping Ltd v Tsavliris (Westlaw)
+CITATION Great Peace Shipping Ltd v Tsavliris [2002] EWCA Civ 1407
+CIT [2002] EWCA Civ 1407
+COURT EWCA
+CATEGORY Westlaw; Contracts; Avoidance; Equitable Principles; Mistake; Rescission; Shipping
+FLAGS Approved
+SUMMARY Defendant chartered vessel to give assistance on basis of wrong information about its location - Defendant cancelled contract and declined to pay - Contract not void at common law for mutual mistake - Vessels not so far apart as to make contractual services which could have been provided substantially different from contractual services envisaged by parties - No equitable discretion to rescind for mistake contract which was valid at law.
+SUMMARY T appealed against an order that it was liable to pay to G a sum representing the cancellation fee under a binding contract between the parties. T had been engaged to provide salvage services to a ship which had suffered serious structural damage at sea. T had contracted with G to hire G's merchant vessel for a minimum of five days to help with crew evacuation. Both parties had believed that the two ships were in close proximity to each other but it had subsequently emerged that they were not and T had cancelled the arrangement and refused to pay anything in respect of hire charges. Upon the issue of proceedings for a sum representing the hire charges for the minimum period or alternatively damages for wrongful repudiation of the contract, judgment had been given for G. In its appeal, T, relying upon the test of mistake identified in Bell v Lever Brothers Ltd [1932] A.C. 161 reasserted that the contract had been concluded by reason of a fundamental mistake of fact which had deprived the contract of the consideration underlying it. T maintained that the contract was either void in law or it was voidable so that T was entitled to relief in equity by way of rescission following Solle v Butcher [1950] 1 K.B. 671.
+HELD dismissing the appeal, that precedents covering the effect of mistake on contract had historically been difficult to reconcile and the instant case provided the first opportunity to clarify the relationship between Bell and Solle . It was important to analyse the rights and obligations created by the contract before considering the effect of an alleged mistake. Bell indicated that equitable intervention such as that demonstrated in Cooper v Phibbs (1867) L.R. 2 H.L. 149 was permissible where the common law would have ruled the contract void for mistake and it was thought to be unlikely that the court in Bell had overlooked an equitable right to rescind an agreement in different circumstances. Whereas Bell was concerned with the question whether the mistake had the effect of producing a situation where the parties were only able to provide something essentially different from that which they had contracted to provide, Solle and the cases which followed it were more concerned with circumstances where the effect of the mistake made the contract a bad bargain for one of the parties. The two cases were irreconcilable and the only way to restore coherence to that area of the law was to declare that there was no jurisdiction to grant rescission of a contract on the ground of common mistake where the contract was valid and enforceable as far as the ordinary principles of contract law were concerned, Solle doubted and Bell applied. In the instant case, the contract between the parties was binding and upon cancellation of it, there was no injustice in the cancellation fee provided for in the contract becoming payable. Cooper considered.
+JUDGE Lord Phillips MR; May LJ; Laws LJ
+COUNSEL For G: Huw Davies. For T: John Reeder Q.C. and Rachel Toney.
+
+
+
+
+
+NAME Paradine v Jane (Westlaw)
+CITATION Paradine v Jane 82 ER 897
+CIT 82 ER 897
+COURT EWHC
+
+
+
+
+
+NAME Taylor v Caldwell (Westlaw)
+CITATION Taylor v Caldwell 122 ER 309
+CIT 122 ER 309
+COURT EWHC
+CATEGORY Westlaw; Contracts; Contracts; Frustration
+
+
+
+
+
+NAME Davis Contractors Ltd v Fareham Urban District Council (Westlaw)
+COURT EWHC
+
+
+
+
+
+NAME National Carriers Ltd v Panalpina (Westlaw)
+CITATION National Carriers Ltd v Panalpina [1981] AC 675
+CIT [1981] AC 675
+COURT UKHL
+CATEGORY Westlaw; Landlord and Tenant Other Related Subjects: Housing; Real Property; Contracts; Frustration; Leases; Termination
+FLAGS Approved
+SUMMARY Lease; termination by frustration
+SUMMARY The doctrine of frustration of contracts is in principle applicable to leases, although the occasions on which it may be applied are rare. A warehouse was demised to the defendants for a 10-year period. The only access to the warehouse was by a street which the local authority closed, after five years of the term had elapsed, for a 20-month period. In an action for unpaid rent the defendants claimed that the lease had been frustrated. The judge held that a lease could not be frustrated. On appeal direct to the House of Lords, held, dismissing the appeal, (1) frustration could be applied to leases in rare cases; (2) on the facts here the doctrine did not apply. (Dictum in Davis Contractors v Fareham Urban DC [1956] A.C. 696 applied).
+JUDGE Lord Hailsham LC; Lord Wilberforce; Lord Simon of Glaisdale; Lord Russell of Killowen; Lord Roskill
+
+
+
+
+
+NAME Blackburn Bobbin Co Ltd v T W Allen & Sons Ltd (Westlaw)
+COURT EWHC
+FLAGS Overruled
+
+
+
+
+
+NAME Bank Line Ltd v Arthur Capel & Co (Westlaw)
+CITATION Bank Line Ltd v Arthur Capel & Co [1919] AC 435
+CIT [1919] AC 435
+COURT UKHL
+CATEGORY Westlaw; Shipping Other Related Subjects: Contracts; Exclusion Clauses; Frustration; Non-Performance; Requisitioning; Time Charterparties
+FLAGS Approved
+JUDGE Lord Finlay LC; Viscount Haldane; Lord Shaw of Dunfermline; Lord Sumner; Lord Wrenbury
+
+
+
+
+
+NAME Krell v Henry (Westlaw)
+CITATION Krell v Henry [1903] 2 KB 740
+CIT [1903] 2 KB 740
+COURT EWCA
+CATEGORY Westlaw; Contracts; Contracts; Frustration; Implied Terms; Impossibility; Performance
+FLAGS Approved
+JUDGE Vaughan Williams LJ; Romer LJ; Stirling LJ
+
+
+
+
+
+NAME Herne Bay Steam Boat Co v Hutton (Westlaw)
+CITATION Herne Bay Steam Boat Co v Hutton [1903] 2 KB 683
+CIT [1903] 2 KB 683
+COURT EWCA
+CATEGORY Westlaw; Shipping Other Related Subjects: Contracts; Frustration; Hiring; Shipping Contracts; Specific Performance
+FLAGS Approved
+JUDGE Vaughan Williams LJ; Romer LJ; Stirling LJ
+
+
+
+
+
+NAME Joseph Constantine Steamship Line Ltd v Imperial Smelting Corporation Ltd (Westlaw)
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Ocean Tramp Tankers Corporation v V/O Sovfracht, The Eugenia (Westlaw)
+COURT EWHC
+
+
+
+
+
+NAME Finelvet AG v Vinava Shipping Co Ltd, The Chrysalis (Westlaw)
+CITATION Finelvet AG v Vinava Shipping Co Ltd, The Chrysalis [1983] 1 WLR 1469
+CIT [1983] 1 WLR 1469
+COURT EWHC
+CATEGORY Westlaw; Shipping Other Related Subjects: Contracts; Carriage By Sea; Charterparties; Frustration; Time; War
+FLAGS Approved
+SUMMARY Carriage by sea; charterparty; war; frustration; date
+SUMMARY It is the acts of war themselves which might prevent further performance of a contract, and not the formal declaration of war. Thus, there is no automatic frustration of a contract by a declaration of war. X became trapped in the Shatt al-Arab when hostilities commenced between Iran and Iraq. A dispute arose as to when the contract became frustrated: C contended that it was the date of the formal declaration of war and O contended that it was the date on which it became generally accepted in shipping circles that passage out of the Shatt al-Arab was likely to be impossible for some considerable while to come. The arbitrator found in favour of O.
+HELD dismissing C's appeal, that the date found by the arbitrator as the date on which the contract became frustrated, was within the area of permissible dates and the court would not interfere with his findings. A declaration of war did not of itself prevent and thus discharge performance of a contract, unless it made the contract illegal, as, for example, involving trading with the enemy. It was the acts of war themselves that operated to prevent further performance of the contract, and thus the arbitrator had been entitled to conclude that it was only when the actual physical war itself was such as to prevent further performance of the contract, that it became discharged.
+JUDGE Mustill J
+
+
+
+
+
+NAME Chandler v Webster (Westlaw)
+CITATION Chandler v Webster [1904] 1 KB 493
+CIT [1904] 1 KB 493
+COURT EWCA
+CATEGORY Westlaw; Contracts Other Related Subjects: Civil Procedure; Causes of Action; Consideration; Impossibility; Performance; Repayments
+JUDGE Lord Collins MR; Mathew LJ
+
+
+
+
+
+NAME Fibrosa SA v Fairbairn Lawson Combe Barbour Ltd (Westlaw)
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Photo Production Ltd v Securicor Transport Ltd (Westlaw)
+CITATION Photo Production Ltd v Securicor Transport Ltd [1980] AC 827
+CIT [1980] AC 827
+COURT UKHL
+CATEGORY Westlaw; Contracts; Contract Terms; Contractual Liability; Exclusion Clauses; Fundamental Breach; Security Companies
+FLAGS Approved
+SUMMARY Exclusion clause; fundamental breach
+SUMMARY The so-called doctrine of fundamental breach does not operate so as to prevent reliance upon an exclusion of liability clause upon the contract being brought to an end. The defendants contracted with the plaintiffs to provide a night- patrol service at the latter's factory premises. The contract excluded liability on the defendants' part for "any injurious act or default of any employee of the (defendants) unless such act or default could have been foreseen and avoided by the exercise of due diligence on the part of the employer; nor in any event shall the company be held responsible for any loss suffered through fire or any other cause except in so far as is solely attributable to the negligence of the company's employees acting within the cause of their employment." One of the defendants' employees who had been satisfactorily employed by them for some three months deliberately started a small fire in the factory, the fire getting out of control and burning down the factory. The Court of Appeal reversed the trial judge's ruling that the defendants could rely upon the contract as excluding their liability.
+HELD allowing the defendants' appeal, that whether an exclusion clause was apt to exclude or limit liability was a matter of construction of the contract; that the fact that a breach may be such as to justify the innocent party in terminating or treating as repudiated the contract did not mean that the terms of the contract in so far as they governed liability were not to be enforced; that, generally, parties to a contract, when they bargained on equal terms, should be at liberty to apportion liability in the contract as they saw fit; and that the wording of the exclusion clause in the instant case was adequate to exclude liability for what occurred. (Decision of Court of Appeal reversed Suisse Atlantique Societe d'Armement SA v NV Rotterdamsche Kolen Centrale [1967] 1 A.C. 361 ; Charterhouse Credit Co v Tolly [1963] 2 Q.B. 683 , Harbutt's Plasticine Ltd v Wayne Tank & Pump Co Ltd [1970] 1 Q.B. 447 and Wathes (Western) Ltd v Austins (Menswear) Ltd [1976] 1 Lloyd's Rep. 14 overruled).
+JUDGE Lord Wilberforce; Lord Diplock; Lord Salmon; Lord Keith of Kinkel; Lord Scarman
+
+
+
+
+
+NAME Hochster v De la Tour (Westlaw)
+CITATION Hochster v De la Tour 118 ER 922
+CIT 118 ER 922
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Frost v Knight (Westlaw)
+CITATION Frost v Knight (1871-72) LR 7 Ex 111
+CIT (1871-72) LR 7 Ex 111
+COURT EWHC
+CATEGORY Westlaw; Contracts; Breach of Contract; Conditions; Marriage; Non-Performance; Promises
+FLAGS Approved
+JUDGE Lord Cockburn LCJ; Byles, J; Keating J; Lush J
+
+
+
+
+
+NAME Cutter v Powell (Westlaw)
+CITATION Cutter v Powell 101 ER 573
+CIT 101 ER 573
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME Sumpter v Hedges (Westlaw)
+CITATION Sumpter v Hedges [1898] 1 QB 673
+CIT [1898] 1 QB 673
+COURT EWCA
+CATEGORY Westlaw; Construction Law Other Related Subjects: Civil Procedure; Abandonment; Construction Contracts; Quantum Meruit
+FLAGS Approved
+JUDGE AL Smith LJ; Chitty LJ; Collins LJ
+
+
+
+
+
+NAME Bolton v Mahadeva (Westlaw)
+CITATION Bolton v Mahadeva [1972] 1 WLR 1009
+CIT [1972] 1 WLR 1009
+COURT EWCA
+CATEGORY Westlaw; Contracts; Part Performance; Payments
+FLAGS Approved
+SUMMARY Performance; lump sum contract; installation of water heater; defects amounting to incomplete performance
+SUMMARY Where a contractor instals for a lump sum payment a heating system which does not heat adequately and gives off fumes, he is not entitled to recover any part of the contract price. B, a plumbing and heating contractor, agreed to instal a combined heating and domestic hot water system in M's house for GBP 560. There were numerous defects in the work, which caused the system not to heat adequately and to give off fumes, and which would cost GBP 174 to repair. M refused to pay. The county court judge held that there had been substantial performance of the contract, and gave judgment for B, subject to an appropriate set-off in favour of M. On appeal by M, held, allowing the appeal, that having regard to the nature of the defects and the cost of remedying them, B could not be said substantially to have performed the contract, and he was therefore not entitled to recover anything. ( H Dakin & Co v Lee [1916] 1 K.B. 566 distinguished and Hoenig v Isaacs [1952] 2 All E.R. 176 distinguished).
+JUDGE Sachs LJ; Buckley LJ; Cairns LJ
+
+
+
+
+
+NAME Startup v MacDonald (Westlaw)
+CITATION Startup v MacDonald 134 ER 1029
+CIT 134 ER 1029
+COURT EWHC
+FLAGS Approved
+
+
+
+
+
+NAME White & Carter (Westlaw)
+CITATION White & Carter (1883) 25 Ch D 666
+CIT (1883) 25 Ch D 666
+COURT EWCA
+CATEGORY Westlaw; Banking and Finance; Bills of Exchange; Creditors; Discharge; Laches; Notice; Surety
+JUDGE Cotton LJ; Lindley LJ; Fry LJ
+
+
+
+
+
+NAME Hadley v Baxendale (Westlaw)
+CITATION Hadley v Baxendale 156 ER 145
+CIT 156 ER 145
+COURT EWHC
+CATEGORY Westlaw; Contracts Other Related Subjects: Negligence; Damages; Breach of Contract; Consequential Loss; Damages; Late Delivery; Loss of Profits; Measure of Damages; Remoteness
+FLAGS Approved
+SUMMARY _Abstract_ -- The appellant carriers (B) appealed against a decision awarding damages in negligence to the respondent mill owners (H).
+SUMMARY _Abstract_ -- The crank shaft of the steam engine used by H in their mills had broken, rendering the mill unworkable. H contracted with B for B to deliver the broken shaft to an engineering firm to be used as the model for a new one. H told B that the shaft had to be sent immediately and B promised to deliver it the next day. B was unaware that the mill was unworkable without a new shaft. B delivered the shaft seven days after receiving it. H claimed B's negligence caused the mill to be inoperable for an additional five days and sought damages covering the resulting loss of profits and payment of wages. B argued that the damages sought were too remote. H was awarded damages by the jury in excess of the amount paid into court.
+SUMMARY _Abstract_ -- H contended that they were entitled to the damages awarded as they were not only the natural consequence of B's negligence but were the losses actually sustained.
+SUMMARY Damages recoverable for a breach of contract should be such as might fairly and reasonably be considered as arising naturally from the breach or might reasonably be supposed to have been in the contemplation of the parties at the time the contract was made. This case is the basis for the term "Hadley v Baxendale remoteness"
+HELD Appeal allowed.
+HELD Damages recoverable for a breach of contract should be such as might fairly and reasonably be considered as arising naturally from the breach or might reasonably be supposed to have been in the contemplation of the parties at the time the contract was made. If there were special circumstances which had been communicated by one party to the other, the damages resulting from the breach would be the amount as might have been reasonably contemplated as flowing from such a breach in those circumstances. If those circumstances were unknown to the party alleged to have breached the contract, that party could only be supposed to have contemplated the amount of damages arising generally from such a breach. In the instant case, the jury ought to have been directed that they were not entitled to award damages for profits lost to H through the mill being inoperable and a new trial would be ordered.
+JUDGE Alderson, B
+
+
+
+
+
+NAME Victoria Laundry (Westlaw)
+CITATION Victoria Laundry [1949] 2 KB 528
+CIT [1949] 2 KB 528
+COURT EWCA
+CATEGORY Westlaw; Damages; Delay; Profits; Remoteness
+FLAGS Approved
+SUMMARY Remoteness; loss of profit arising from delay in delivery
+SUMMARY In considering the authorities on remoteness of damage the following general propositions emerge: (1) It is well settled that the governing purpose of damages is to put the party whose rights have been violated in the same position, so far as money can do so, as if his rights had been observed. This purpose, if relentlessly pursued, would provide him with a complete indemnity for all losses de facto resulting from a particular breach, however improbable, however unpredictable. This, in contract at least, is recognised as too harsh a rule; (2) in cases of breach of contract the aggrieved party is only entitled to recover such part of the loss actually resulting as was at the time of the contract reasonably foreseeable as liable to result from the breach; (3) what was at that time reasonably foreseeable depends on the knowledge then possessed by the parties, or, at all events, by the party who later commits the breach; (4) for this purpose, knowledge "possessed" is of two kinds - one imputed, the other actual. Everyone, as a reasonable person, is taken to know the "ordinary course of things" and, consequently, what loss is liable to result from a breach of that ordinary course. This is the subject-matter of the "first rule" in, Hadley v Baxendale 156 E.R. 145 , but to this knowledge, which a contract-breaker is assumed to possess, whether he actually possesses it or not, there may have to be added in a particular case knowledge which he actually possesses of special circumstances outside the "ordinary course of things" of such a kind that a breach in those special circumstances would be liable to cause more loss. Such a case attracts the operation of the "second rule" so as to make additional loss also recoverable; (5) in order to make the contract-breaker liable under either rule, it is not necessary that he should actually have asked himself what loss is liable to result from a breach. It suffices that, if he had considered the question, he would, as a reasonable man, have concluded that the loss in question was liable to result, and (6) nor, finally, to make a particular loss recoverable, need it be proved that on a given state of knowledge the defendant could, as a reasonable man, foresee that a breach must necessarily result in that loss. It is enough if he could foresee it was likely to result. It is enough - to borrow from the language of Lord du Parcq in Monarch Steamship Co v A/B Karlshamns Oljefabriker [1947-51] C.L.Y. 2562 if the loss (or some factor without which it would not have occurred) is a "serious possibility" or a "real danger". (Perhaps the colloquialism "on the cards" indicates the shade of meaning with greater accuracy than "likely" to result.) Applying these general principles to a case where the plaintiffs, a laundry company, claimed damages from the defendants, an engineering company, for delay in supplying a boiler, which - so the defendants had been informed - was to "be put into use in the shortest possible space of time", it was held that the obvious purpose for which a boiler in a business such as the plaintiff company's was to be used leapt to the eye, and that no supplier, let alone an engineering company which had promised delivery of such an article by a particular date, with knowledge that it was to be put into use immediately on delivery, could reasonably contend that it could not foresee that loss of profit or loss of business would be liable to result to the purchaser from a long delay in delivery thereof, with the consequence that the plaintiffs were entitled to damages for loss of profits resulting from the enforced delay in extending their business, Monarch Steamship Co v A/B Karlshamns Oljefabriker[1947-51] C.L.Y. 2562 ; Hadley v Baxendale 156 E.R. 145 , British Columbia Saw Mill Co Ltd v Nettleship (1867-68) L.R. 3 C.P. 499 distinguished; and Portman v Middleton 140 E.R. 1108 distinguished.
+JUDGE Asquith LJ
+
+
+
+
+
+NAME Koufos v Czarnikow Ltd (Westlaw)
+CITATION Koufos v Czarnikow Ltd [1969] 1 AC 350
+CIT [1969] 1 AC 350
+COURT UKHL
+CATEGORY Westlaw; Shipping; Charterparties; Delay; Measure of Damages
+FLAGS Approved
+SUMMARY Carriage by sea; charterparty; delay; measure of damages
+SUMMARY Where a party is in breach of a contract for the carriage of commodities, the price of which commodities is liable to fluctuate, he ought to have foreseen such fluctuation; accordingly if the price falls this is reflected in the measure of damages. The appellant shipowner entered into a charterparty with the respondents, who were merchants. Under the terms of the charterparty the ship was to be loaded with sugar at Constanza on or after October 27, 1960, and was to proceed therefrom with all convenient speed to Basrah. In fact the ship called at several ports en route to Basrah thus taking some nine days longer to arrive than it would have done had it sailed directly to Basrah. The price of sugar at Basrah fell during those nine days, and in the result the respondents' sugar was sold for GBP 4,183 16s. 8d. less than it would have been had it arrived promptly. Disputes having arisen an umpire found as facts, inter alia, (a) that sugar was regularly bought and sold at Basrah, which fact was known to the appellant; (b) that the price of sugar there fluctuated from time to time; (c) that shipowners generally knew that there was some urgency in carrying sugar, a perishable commodity, to its destination; and (d) that the appellant did not know that the respondents intended to sell the sugar promptly on arrival. The appellant admitted that the delay was in breach of the charterparty. As to the measure of damages, held (1) that on the facts the appellant ought to have foreseen that delay would involve a serious possibility of a real danger that the price of sugar would decline; and (2) that the proper damages were therefore GBP 4,183 16s. 8d., the difference between the price which the sugar ought to have fetched if it had arrived on time and the price which it in fact fetched. (The "serious possibility of real danger," per Lords Upjohn and Pearce, was expressed in differing terms by Lords Reid, Morris of Borth-y-Gest, and Hodson.) ( Parana, The (1877) 2 P.D. 118 not followed and Notting Hill, The (1884) 9 P.D. 105 not followed; Hadley v Baxendale 156 E.R. 145 applied, Victoria Laundry (Windsor) v Newman Industries [1947-51] C.L.Y. 2565 applied and Dunn v Bucknall Bros [1902] 2 K.B. 614 applied).
+JUDGE Lord Reid; Lord Hodson; Lord Morris of Borth-y-Gest; Lord Pearce; Lord Upjohn
+
+
+
+
+
+NAME H Parsons (Westlaw)
+COURT UKPC
+FLAGS Approved
+
+
+
+
+
+NAME Transfield Shipping Inc v Mercator Shipping Inc (Westlaw)
+CITATION Transfield Shipping Inc v Mercator Shipping Inc [2008] UKHL 48
+CIT [2008] UKHL 48
+COURT UKHL
+CATEGORY Westlaw; Shipping Other Related Subjects: Contracts; Damages; Breach of Contract; Charterparties; Late Delivery; Measure of Damages; Ships
+FLAGS Approved
+SUMMARY _Abstract_ -- The appellant charterer (T) appealed against a decision ([2007] EWCA Civ 901, [2008] 1 All E.R. (Comm) 685) upholding an arbitrators' ruling on the damages to which the respondent shipowner (M) was entitled following the late return of the ship which T had chartered from it.
+SUMMARY _Abstract_ -- M had let out its ship to T for a period of five to seven months, to end no later than midnight on May 2, 2004. T notified M that the ship would be back no later than then. M therefore contracted to let the ship to new charterers for a period of about four to six months, promising that they could have the ship no later than May 8, 2004. The agreed price of hire was $39,500 a day. The ship was delayed on its last voyage and M did not get it back until May 11, 2004. The new charterers agreed to take the ship, but by then the market had fallen sharply and they would only take it at a reduced price of $31,500 a day. The issue before the arbitrators was whether T was liable to pay only for the use of the ship for the number of days that it was late at the market rate then prevailing or whether, as M had argued, T was liable to pay the difference between what M would have got from the new charter had the ship been returned in time and what it in fact got. The arbitrators, by a majority, adopted the latter approach. They concluded that the loss on the new fixture fell within the first rule in Hadley v Baxendale 156 E.R. 145 as arising "naturally, i.e. according to the usual course of things, from such breach of contract itself". It fell within that rule because it was damage "of a kind which the [charterer], when he made the contract, ought to have realised was not unlikely to result from a breach of contract [by delay in redelivery]". The dissenting arbitrator did not deny that T would have known that M would be very likely to enter into a following fixture during the course of the charter and that late delivery might cause that fixture to be lost. However, he concluded that a reasonable man in T's position would not have understood that he was assuming liability for the risk of the type of loss in question. He stated that the general understanding in the shipping market was that liability was restricted to the difference between the market rate and the charter rate for the overrun period and that "any departure from this rule [is] likely to give rise to a real risk of serious commercial uncertainty which the industry as a whole would regard as undesirable".
+SUMMARY When assessing damages for the late redelivery of a chartered vessel, the court should in the usual case restrict the charterer's liability to the difference between the market rate and the charter rate for the overrun period.
+HELD Appeal allowed.
+HELD In accepting M's submission that what mattered was that the type of loss claimed was foreseeable, the majority arbitrators had applied too crude a test, and it was an error of law to adopt it. The common basis on which the parties had contracted was essential to the rule in Hadley v Baxendale as a whole. In Koufos v C Czarnikow Ltd (The Heron II) [1969] 1 A.C. 350 their Lordships had had well in mind that it was not simply a question of probability but also of what the contracting parties had to be taken to have had in mind, having regard to the nature and object of their business transaction. What mattered was whether the common intention of reasonable parties to a charterparty of this sort would have been that, in the event of a relatively short delay in redelivery, an extraordinary loss, measured over the whole term of the renewed fixture, was, in the words of Lord Reid in The Heron II , "sufficiently likely to result from the breach of contract to make it proper to hold that the loss flowed naturally from the breach or that loss of that kind should have been within [the defaulting party's] contemplation". That would not have been the common intention of reasonable contracting parties. It was contrary to the principle stated in Victoria Laundry (Windsor) v Newman Industries [1949] 2 K.B. 528, and reaffirmed in The Heron II , to suppose that the parties were contracting on the basis that T would be liable for any loss, however large, occasioned by a delay in redelivery in circumstances where it had no knowledge of, or control over, the new fixture entered into by M, Hadley v Baxendale , The Heron II and Victoria Laundry applied.
+JUDGE Lord Hoffmann; Lord Hope of Craighead; Lord Rodger of Earlsferry; Lord Walker of Gestingthorpe; Baroness Hale of Richmond
+COUNSEL For the appellant: Dominic Kendrick QC, Benjamin Parker. For the respondent: Simon Croall QC, Ruth Hosking.
+
+

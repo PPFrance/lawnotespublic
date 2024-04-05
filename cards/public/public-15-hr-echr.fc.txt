@@ -1,0 +1,110 @@
+
+NAME European Convention on Human Rights
+TYPE Concept
+CATEGORY Human Rights; ECHR
+SUMMARY *Effectiveness*
+/The ECHR contains no provision with the ambition of making it directly effective in the signatory state's domestic law; and no systematic attempt was made by the EComHR/ECtHR to establish its direct effect or supremacy à la |Costa|, |Simmenthal|, |Factortame|, etc. 
+SUMMARY The upshot of which is that the reliance on ECHR articles requires (_required_ until 1998 in the UK) exhausting all domestic legal avenues before petitioning the ECHR.
+
+NAME Use of Language in the Convention
+CATEGORY Human Rights; ECHR
+TYPE Concept
+SUMMARY *Orwell*
+@It was sussed a long time ago, particularly in England that language which is cliché-addled, imprecise and vague, often covers up for aims or means at best duplicitous and sinister, at worst, actively murderous.
+@It's no easy task, then, to read through the derogations in the text of the ECHR articles without noticing that a lot of the language it employs is -- _or became_ -- part of the palette of lazy tropes of which people who _don't have any good arguments_ typically make unselfconsciously abundant and indiscriminating use.
+
+NAME Admissibility in the ECtHR
+CATEGORY Human Rights; ECHR
+TYPE Concept
+SUMMARY To be admitted, a petitioner must satisfy --
++ Exhausted all potential domestic remedies 
++ Is not bringing a manifestly ill-founded complaint 
++ Is within 6 months of the final domestic decision
++ Is not making a claim substantively the same as one already decided.
+
+
+
+NAME Decision-Making in the ECtHR
+CATEGORY Human Rights; ECHR
+TYPE Concept
+SUMMARY A four-stage process to assess a claim:
++ Was there interference with the presumptive entitlement of an article right, by some emanation of the signatory state's government?
+% If so, was such interference -- 
++2 In pursuit of a legitimate objective?
++ Prescribed by law? |Sunday Times v UK|.
++ Necessary in a democratic society? |Handyside v UK|.
+@@Within the |margin of appreciation|?
+
+NAME ECHR in the UK
+CATEGORY Human Rights; ECHR
+TYPE Concept
+SUMMARY Attlee's postwar government was intimately involved in drafting of convention -- but his own cabinet was sharply divided over whether the UK should even sign.
+SUMMARY Not until Harold Wilson's first government (1964-1970) could UK citizens/subjects/whatevers access the ECtHR directly.
+SUMMARY *Incorporation*
+/Reasons for the lack of incorporation of the ECHR into domestic law for _nearly fifty years_ --
+@ It was considered unthinkably undemocratic until the late 1990s, to make such a large constitutional concession on the back of a parliamentary majority, a thing which one view can never amount to more than the most recent whim of the necessarily fickle and forgetful electorate; and on that view, therefore, should not be mistaken for the authority of the _people_.
+
+SUMMARY *In Domestic Courts*
+@ _Only a single mention_ in domestic law reports in the twenty years after signing.
+@ By the mid-70s -- perhaps because of the drip-drip-drip habituation of domestic courts to the |ECA 1972| having radically altered the status and relevance of _one_ source of international law to everyday disputes -- the ECHR's status in domestic law seemed to have amplified in significance.
+
+SUMMARY *Lord Denning*
+/In |Birdi v Home Sec| 1975, he --
+@ Held that statute was to be construed in line with convention rights, even when no actual _ambiguity_ needed to be teased out. 
+@ Also, radically, that judges might hold an Act of Parliament _invalid_ if it were out of step with the convention.
+%But a year later -- 
+@ He rowed back from that, in |Bhajan Singh|, albeit reiterating his assertion from |Birdi| about purposive interpretation of unambiguous statute,
+@ Then in |Salamat Bibi|, tacitly overruled himself in |Birdi|, without saying why.
+
+
+NAME Margin of Appreciation
+CATEGORY Human Rights; ECHR
+TYPE Concept
+SUMMARY This is the latitude afforded to signatory states in derogations to the convention right by the phrase _'necessary in a democratic society'_. It is not necessarily the same for each article.
+SUMMARY The fact that it differs for each article entails that the jurisdictional footprints of each article are not all the same size -- the scrutiny to which signatory states are subjected varies quite widely, depending on the issue at stake. 
+
+
+NAME Sunday Times v UK
+CITATION Sunday Times v UK [1979] 2 EHRR 245
+FLAGS Key
+CATEGORY Human Rights; ECHR; Derogations; Prescribed by Law
+HELD For the purposes of ECHR derogations the phrase _'prescribed by law'_ does exclusively entail legislation made by a High Contracting Party's legislature. Bodies of law made by judges, such as the English common law, is also 'law' for this purpose. Furthermore, the 'orderly evolution' of such a body of law does not amount to a breach of the |art 7| guarantee prohibition on punishment without law -- especially when the actions in question are morally repugnant. 
+
+NAME Handyside v UK
+CITATION Handyside v UK [1976] 1 EHRR 737
+WIKILINK https://en.wikipedia.org/wiki/The_Little_Red_Schoolbook
+FLAGS Key
+CATEGORY Human Rights; ECHR; Derogations; Necessary in a Democratic Society
+HELD The government of a signatory state, rather than ECtHR judges, is best placed to judge what is _'necessary in a democratic society'_ for the _'protection of morals'_ -- because it, after all, is the one in 'direct and continuous contact with the vital forces' of its country. 
+
+
+NAME Birdi v Home Sec
+CITATION Birdi v Home Secretary (1975) 119 Sol Jo 322, CA
+FLAGS Denning; Criticised
+CATEGORY Human Rights; ECHR; Status in Domestic Law
+HELD Lord Denning -- '... judges could and should take the Convention into account in interpreting a statute. _An Act of Parliament should be construed so as to conform to the Convention'._
+SUMMARY Denning later said the same thing à propos EU law in |Macarthys v Smith|.
+
+
+NAME R (ex p. Bhajan Singh) v Home Secretary
+AKA Bhajan Singh
+CITATION R (ex p. Bhajan Singh) v Home Secretary
+FLAGS Denning; Criticised
+CATEGORY Human Rights; ECHR; Status in Domestic Law
+HELD Lord Denning -- '... judges could and should take the Convention into account in interpreting a statute. _An Act of Parliament should be construed so as to conform to the Convention'_... and then, with rather more far-reaching implications -- _'If an Act of Parliament did not conform to the Convention, I might be inclined to hold it invalid.'_
+SUMMARY Denning said similar things about statutory interpretation à propos EU law in |Macarthys v Smith|.
+
+NAME R (ex p. Salamat Bibi) v Chief Immigration Officer
+AKA Salamat Bibi
+CITATION R (ex p. Salamat Bibi) v Chief Immigration Officer [1976] 1 WLR 979, CA
+FLAGS Denning
+CATEGORY Human Rights; ECHR; Status in Domestic Law
+HELD Lord Denning overruled his previous year's frolic that the judiciary should interpret statute purposively, even when unambiguous, in line with the Convention. He said of himself he 'would dispute altogether that the Convention is part of our law. _Treaties and declarations do not become part of our law until they are made law by Parliament.'_  Such was the position until the early '90s.
+
+
+
+
+
+
+NAME EHCR and Domestic Law - Privacy
+

@@ -1,0 +1,249 @@
+META filename eu-09-action-for-annulment-art-263-tfeu.fc.txt
+
+
+
+
+--STOP--
+
+NAME Commission v Council (re: European Road Transport Agreement)
+CASENUM C-22/70
+CITATION Commission v Council (re: European Road Transport Agreement) [1971]
+CATEGORY Action For Annulment – Art 263 Tfeu; Main Reading; What Is An Act Under Article 263 Tfeu?
+FLAGS
+
+
+
+
+
+
+NAME IBM Corporation v Commission
+CASENUM C-60/81
+CITATION IBM Corporation v Commission [1981] ECR 2639
+CATEGORY Action For Annulment – Art 263 Tfeu; Ecr 263.
+FLAGS
+
+
+
+
+
+
+NAME P Reynolds Tobacco Holdings and others v Commission
+CASENUM C-131/03
+CITATION P Reynolds Tobacco Holdings and others v Commission [2006] ECR I
+CATEGORY Action For Annulment – Art 263 Tfeu; Ecr 263.
+FLAGS
+
+
+
+
+
+
+NAME European Parliament v Council (Comitology)
+CASENUM C-302/87
+CITATION European Parliament v Council (Comitology) [1988] ECR 5615
+CATEGORY Action For Annulment – Art 263 Tfeu; Ecr 263.; Why Was The European Parliament A ‘Semi Privileged’ Applicant In Previous Treaties?
+FLAGS
+
+
+
+
+
+
+NAME European Parliament v Council (Chernobyl)
+CASENUM C-70/88
+CITATION European Parliament v Council (Chernobyl) [1990] ECR I
+CATEGORY Action For Annulment – Art 263 Tfeu; Ecr 263.; Why Was The European Parliament A ‘Semi Privileged’ Applicant In Previous Treaties?
+FLAGS
+
+
+
+
+
+
+NAME Gibraltar v Council
+CASENUM C-298/89
+CITATION Gibraltar v Council [1993] ECR I
+CATEGORY Action For Annulment – Art 263 Tfeu; Ecr 263.; What Can An Individual Challenge Under Article 263 Tfeu:
+FLAGS
+
+
+
+
+
+
+NAME Plaumann & Co v Commission
+CASENUM C-25/62
+CITATION Plaumann & Co v Commission [1963] ECR 95
+CATEGORY Action For Annulment – Art 263 Tfeu; Ecr 263.; When Is A Private Applicant Individually Concerned?
+FLAGS
+
+
+
+
+
+
+NAME A.E. Piraiki-Patraiki v Commission
+CASENUM C-11/82
+CITATION A.E. Piraiki-Patraiki v Commission [1985] ECR 207
+CATEGORY Action For Annulment – Art 263 Tfeu; Ecr 263.; When Is A Private Applicant Individually Concerned?
+FLAGS
+
+
+
+
+
+
+NAME Parti Ecologiste “Les Verts” v European Parliament
+CASENUM C-294/83
+CITATION Parti Ecologiste “Les Verts” v European Parliament [1986] ECR 1339
+CATEGORY Action For Annulment – Art 263 Tfeu; Ecr 263.; When Is A Private Applicant Directly Concerned?
+FLAGS
+
+
+
+
+
+
+NAME Alcan v Commission
+CASENUM C-69/69
+CITATION Alcan v Commission [1970] ECR 385
+CATEGORY Action For Annulment – Art 263 Tfeu; Ecr 263.; When Is A Private Applicant Directly Concerned?
+FLAGS
+
+
+
+
+
+
+NAME Timex Corporation v Council and Commission
+CASENUM C-264/82
+CITATION Timex Corporation v Council and Commission [1985] ECR 849
+CATEGORY Action For Annulment – Art 263 Tfeu; Ecr 263.; Are There Areas Of Activity Where A More Liberal Approach Has Been Applied?
+FLAGS
+
+
+
+
+
+
+NAME Metro-SB-Grossmaerkte GmbH & Co KG v Commission
+CASENUM C-26/76
+CITATION Metro-SB-Grossmaerkte GmbH & Co KG v Commission [1977] ECR
+CATEGORY Action For Annulment – Art 263 Tfeu; Ecr 263.; Are There Areas Of Activity Where A More Liberal Approach Has Been Applied?
+FLAGS
+
+
+
+
+
+
+NAME Compagnie Francaise de l’ Azote (COFAZ) SA v Commission
+CASENUM C-169/84
+CITATION Compagnie Francaise de l’ Azote (COFAZ) SA v Commission [1986]
+CATEGORY Action For Annulment – Art 263 Tfeu; Ecr 263.; Are There Areas Of Activity Where A More Liberal Approach Has Been Applied?
+FLAGS
+
+
+
+
+
+
+NAME Parti Ecologiste “Les Verts” v Parliament
+CASENUM C-294/83
+CITATION Parti Ecologiste “Les Verts” v Parliament [1986] ECR 1339
+CATEGORY Action For Annulment – Art 263 Tfeu; Ecr 391.
+FLAGS
+
+
+
+
+
+
+NAME Codorniu SA v Council
+CASENUM C-309/89
+CITATION Codorniu SA v Council [1994] ECR I
+CATEGORY Action For Annulment – Art 263 Tfeu; Cmlr 343.; A Tendency Towards A More Liberal Approach To Standing?
+FLAGS
+
+
+
+
+
+
+NAME P Unión de Pequeňos Agricultores v Council
+CASENUM C-50/00
+CITATION P Unión de Pequeňos Agricultores v Council [2002] ECR I
+CATEGORY Action For Annulment – Art 263 Tfeu; Cmlr 343.; Calls For A More Liberal Approach To Standing
+FLAGS
+
+
+
+
+
+
+NAME 1P Unión de Pequeňos Agricultores v Council
+CASENUM C-50/00
+CITATION P Unión de Pequeňos Agricultores v Council [2002] ECR I
+CATEGORY Action For Annulment – Art 263 Tfeu; Cmlr 343.; Calls Rejected
+FLAGS
+
+
+
+
+
+
+NAME 1Johnston
+CASENUM C-222/84
+CITATION Johnston [1986] ECR 1651
+CATEGORY Action For Annulment – Art 263 Tfeu; Cmlr 343.; Calls Rejected
+FLAGS
+
+
+
+
+
+
+NAME Foto-Frost
+CASENUM C-314/85
+CITATION Foto-Frost [1987] ECR 4199
+CATEGORY Action For Annulment – Art 263 Tfeu; Cmlr 343.; Calls Rejected
+FLAGS
+
+
+
+
+
+
+NAME 1P Reynolds Tobacco Holdings and others v Commission
+CASENUM C-131/03
+CITATION P Reynolds Tobacco Holdings and others v Commission [2006] ECR I
+CATEGORY Action For Annulment – Art 263 Tfeu; Cmlr 343.; Calls Rejected
+FLAGS
+
+
+
+
+
+
+NAME P Markku Sahlstedt and others v Commission
+CASENUM C-362/06
+CITATION P Markku Sahlstedt and others v Commission [2009] ECR I
+CATEGORY Action For Annulment – Art 263 Tfeu; Cmlr 343.; Calls Rejected
+FLAGS
+
+
+
+
+
+
+NAME 1P Markku Sahlstedt and others v Commission
+CASENUM C-362/06
+CITATION P Markku Sahlstedt and others v Commission [2009] ECR I
+CATEGORY Action For Annulment – Art 263 Tfeu; Cmlr 343.; Do Representative Bodies Have Standing Under Art 263 Tfeu?
+FLAGS
+
+
+
+
+
+

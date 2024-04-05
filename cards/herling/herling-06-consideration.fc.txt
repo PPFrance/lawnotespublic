@@ -1,0 +1,352 @@
+META filename herling-06-consideration.fc.txt
+
+
+
+
+
+
+
+NAME Consideration - Introduction
+TYPE Concept
+CATEGORY Consideration
+SUMMARY ~*Introduction*~
+/->-For a promise to be legally binding, it must not only be accepted, but must also be shown to have been given in return for consideration. You will immediately see from this use of the word “consideration” that it does not have its ordinary English meaning here. In this context it is a legal term of art. A working definition of consideration (but no more than a working definition) would be “the price of the promise” - what the promisor requests in return for the promise made.
+/->-Practitioners sometimes observe that cases on consideration are infrequent, and wonder why it is given such emphasis in academic courses on contract law. Lord *Denning* is on record as saying that he could not recall a case on consideration ever coming before him (though several in fact did). It is true to say that in the majority of dealings, consideration will be clear. After all, it is unusual for contractual performance, or the promise of it, to be offered gratuitously. Furthermore, the view of the law is that a promise made in response to a promise (ie. by way of acceptance) will itself constitute consideration. 
+/->-Problem cases do arise, but beyond that, the doctrine of consideration is a subtle and interesting one which richly deserves academic attention. The fact is that consideration has almost certainly meant different things at different times. This lecture will not attempt to give a systematic historical account of consideration's development in the law, but it does assume from the outset that most definitions of consideration give only a partial view of what the doctrine is, and what it means. 
+/->-At several points during the lecture, and with increasing frequency, there will be hints that a case is not quite as it seems, and reference to the topic which will be tackled at the end – Professor Atiyah's understanding of consideration. If, as you encounter these indications, you find them mystifying or irritating, you can go straight to the end to resolve the problem. However, there would be far more to be gained from the lecture by working through the cases, giving some preliminary thought to what kind of a doctrine consideration is, and focusing on the indications that another understanding of it is available just beneath the surface.
+/->-With that in mind, it is time to examine the traditional definitions. They give necessary insights into the working of consideration. 
+/->-A well-known one comes from the nineteenth century case of <i>Currie v Misa</i> (1875). There, Lush J said that “A valuable consideration, in the sense of the law, may consist either in some right, interest, profit, or benefit accruing to the one party, or some forbearance, detriment, loss or responsibility, given, suffered, or undertaken by the other”. To make sense of this, add into it the notion that it is the promisor who needs to be gaining the benefit, or the promisee who needs to be sustaining the detriment.
+/->-If it should be asked <i>why</i> there should be benefit to the promisor or, still more pertinently, detriment to the promisee, the working answer lies in the concept of bargain. One view of consideration, highly influential in the nineteenth and twentieth centuries, coupled it with the principle that the courts would not enforce gratuitous promises or gifts, but only bargains, accords, exchanges. The character of these enforceable arrangements was that each party could be seen to gain something, but also to give something up in order to realise the gain. Hence, benefit to the party who is to give, or detriment to the party who is to receive. 
+/->-A cogent exposition of the relationship between consideration and bargain, viewing it as a necessary relationship, is given by C.J.Hamson, writing in 1938:
+/->-“What is today the significance of consideration in the law of simple contract? So far from being an additional and unnecessary mystery, an accidental tom-tit in an otherwise rational theory of contract, consideration in its essential nature is an aspect merely of the fundamental notion of bargain, other aspects of which, no less but no more important, are offer and acceptance. Consideration, offer and acceptance are an indivisible trinity, facets of one identical notion which is that of bargain. Indeed, consideration may conveniently be explained as merely the acceptance viewed from the offeror's side. Acceptance is defined to be the doing of that act (which may be the giving of a promise or the rendering of a performance) which is <i>requested</i> by the offeror in return for his promise; it is the <i>response</i> to the offer. An act done at the request of the offeror in response to his promise is consideration; and consideration in its essence is nothing else but response to such a request. To a gratuitous promise the common law notion of offer and acceptance does not apply. We can no doubt separate offer, acceptance and consideration for our convenience in treating of them: but they are logical and interdependent entities abstracted from the one entire reality which is bargain. We can no more abolish one without destroying the others than we can think of a circle without a circumference...”.
+SUMMARY ~*Discussion*~
+/->-For the time being there is no reason to take issue with this account; it works well enough to explain the majority of the cases. Just to sow a seed of doubt, or record a reservation which will be expanded later, it is worth remarking that Hamson's indivisible trinity of offer, acceptance and consideration tells one nothing about why the word “consideration” is an appropriate one in this context.
+FLAGS Denning
+
+
+
+
+NAME Thomas v Thomas
+CITATION Thomas v Thomas [1842] 2 QB 851
+CATEGORY Consideration; Definitions of Consideration
+SUMMARY ~*Overview*~
+/->-A written agreement made between the plaintiff (the widow of John Thomas) and the deceased's executors provided that a cottage forming part of his estate was to be conveyed to her. The agreement further stated that by his will John Thomas had left all his property to his executors, but that since they were convinced it was his desire that his widow should have the cottage for life or as long as she remained unmarried, “in consideration of such desire” the cottage was to be hers. The agreement also required the plaintiff to make an annual payment of £1 towards the ground rent to the executors. The agreement was not carried out. A jury awarded the plaintiff £100 in damages for its breach, and it was held on appeal that she was entitled to recover. The agreement was binding, being supported by consideration in the form of the contribution towards the ground rent.
+SUMMARY ~*Detail*~
+/->-Patteson J distinguished between the named “consideration” for the promise to convey the cottage, and the consideration in law: “The cause for the gift was unquestionably respect for the memory of the testator, but we must not confound motive with consideration. A consideration, such as is recognised and known to our law, means a consideration of some value, moving from the plaintiff. Mere respect for the memory and wishes of a testator cannot be in any way construed as such. It is then argued, that, this being so, there is no consideration for the agreement at all, and that it is an agreement for a voluntary gift on certain conditions; but, looking at the agreement, we find, not a mere proviso, but an express agreement by the plaintiff to pay £1 towards a certain ground-rent...”. 
+SUMMARY ~*Discussion*~
+/->-There are two points to note here. The first is the distinction drawn between motive and consideration. If we ask why a promise is given, there will tend to be two answers. There will be the promisor's reasons for giving it; these may well not amount to consideration. Consideration must be something asked of the promisee. The second point is that what is asked of the promisee, and found here by the court to amount to consideration, is a mere <i>contribution </i>toward a ground-rent, and there is no concern to measure its worth against the benefit which is being provided to her in return. From this, an essential principle of the law of consideration can be deduced; the law pays no regard to the adequacy of consideration. No equation is set up to measure the consideration against what it is acquiring. This will be discussed in more detail very shortly.
+SUMMARY ~*A closer look*~
+/->-_The passage above includes the notion that consideration must move from the plaintiff. Hamson wrote in terms of offeror and offeree, and this lecture earlier used the expressions “promisor/promisee”. Here is potential for confusion. What is the correct terminology?_
+/->-_All these terms are in a sense correct. Consideration received in return for a promise makes that promise legally binding, and therefore it is appropriate to speak of consideration moving from the promisee. The promise may be that of the offeror (but one might equally be focusing on the offeree's promise, made binding by consideration received from the offeror). The notion that consideration must move from the plaintiff makes sense in the context of a trial; it is the plaintiff who is likely to be suing on the basis that the defendant has breached a contractual promise, and to show that the promise was a binding one, it will be for the plaintiff to establish that he gave consideration for it._
+/->-_Another formulation which it is best to avoid is one which in fact springs rather readily to mind in this area, namely that consideration makes a contract binding. In a sense this not wrong, but it may be misleading if it leads one to look at a contract to find something that can be called “consideration”, and then to conclude that this is what gives the contract its legal force. More accurately, consideration makes a promise binding. Since bilateral contracts (the majority) will comprise two promises, the one being exchanged against the other, there will be two bits of consideration within the arrangement, not one. In the context of litigation, the consideration pleaded (proved before the court) will be the consideration provided in return for the promise which allegedly has been breached. _
+/->-_All the rules regarding consideration and set out in the remainder of this lecture can be summed up in one well-known proposition; consideration must be sufficient, but need not be adequate. A moment's thought will be sufficient to suggest that this principle is ineptly phrased, since “adequate” and “sufficient” are regarded by the dictionary as synonyms. However, English contract law traditionally takes a different view. “Adequacy” is taken to mean “equal in value to the performance (or promise of it) in exchange for which the consideration is given. “Sufficient” means “consistent with the legal rules which the courts have developed in this area”._
+/->-_By drawing on what you already know of the outlook of the courts, you may well be able to suggest why consideration need not be adequate or, as it is often put, why the courts will not investigate the adequacy of consideration. If it were otherwise, the courts would be obliged to value the performances of both parties to ensure that they equalled each other in value. This would be to place an intolerably inconvenient hurdle in the way of proving a contract, and would produce serious uncertainty. More fundamentally, such a rule would fly in the face of freedom of contract. A disadvantageous exchange, by which one party forfeits value, is no less a contract than an advantageous one. Indeed, the one party's disadvantage will very probably be the other's advantage. The business of the courts is to uphold contracts, not to pass judgment on the parties' wisdom in making them._
+
+
+
+
+NAME Rules of Sufficiency
+TYPE Concept
+CATEGORY Consideration; Rules of Sufficiency
+SUMMARY ~*Rules of Sufficiency*~
+/->-In <i>Thomas v Thomas</i> (above), Patteson J states that “Consideration means something which is of some value in the eye of the law, moving from the plaintiff…”. What is “value in the eye of the law”? Presumably something other than mere “value”. 
+/->-*Treitel* considers that economic value is meant. Paragraph 3-027 of <i>The Law of Contract</i>, below the heading “Must be of economic value” proposes that “An act, forbearance or promise will amount to consideration only if the law recognises that it has some economic value. It may have such value even though the value cannot be precisely quantified. But “natural affection of itself is not a sufficient consideration”, and the same is true of other merely sentimental motives for promising. This is the reason why in <i>Thomas v Thomas</i> the desire of the testator that his widow should live in his house was not part of the consideration for the executors' promise that she might do so”.
+/->-Is economic value required, as Treitel suggests? He cites no authority to establish that, and it does not follow from the ratio decidendi of <i>Thomas v Thomas</i>. The issue came to a head in the next case.
+FLAGS Treitel
+
+
+
+
+NAME Chappell & Co v Nestle Co Ltd
+CITATION Chappell & Co v Nestle Co Ltd [1960] AC 87
+CATEGORY Consideration; Consideration Must Be of Some value In Eye of Law
+SUMMARY ~*Overview*~
+/->-Nestle, the chocolate manufacturer, advertised that it would supply a recording of a piece of music called “Rockin' Shoes” to anyone who sent in 1s 6d together with 3 wrappers from Nestle chocolates. The copyright of the music was vested in Chappell & Co. By statute, a royalty was payable to the holder of the copyright on the “ordinary retail selling price” of the copies made. Chappell sought an injunction against Nestle to prevent a breach of copyright on the basis that 1s 6d was not the ordinary retail selling price. The value of the wrappers also needed to be taken into account. The competing view was that the sending in of the wrappers constituted a mere qualification enabling a purchaser to take advantage of the offer. The House of Lords held, by a bare majority, that Chappell's contention was correct. The wrappers were part of the requested consideration, even though they were thrown away on receipt by Nestle. It follows that the wrappers would have been capable of constituting the entire consideration.
+SUMMARY ~*Detail*~
+/->-Lord Reid, in the majority, was of opinion that although the receipt of the wrappers might confer no direct benefit on Nestle in some cases, there must have been many more in which it did. The whole point of the offer of “Rockin' Shoes” was to induce people to buy more of Nestle's chocolate, and some certainly would have done so. Furthermore, “there may have been an indirect benefit by way of advertisement”.
+/->-Lord Somervell of Harrow, also in the majority, goes much further than this in his speech: “It is said that when received the wrappers are of no value to Nestle's. This I would have thought irrelevant. A contracting party can stipulate for what consideration he chooses. A peppercorn does not cease to be good consideration if it is established that the promisee [sic] does not like pepper and will throw away the corn. As the whole object of selling the record, if it was a sale, was to increase the sales of chocolate, it seems to me wrong not to treat the stipulated evidence of such sales as part of the consideration. For these reasons I would allow the appeal”.
+SUMMARY ~*Discussion*~
+/->-Professor J.C. Smith, writing in 1979, notices just how radical a view this is: “The language of benefit and detriment is, and I believe long has been, out of date. So is the idea that consideration must be an economic benefit of some kind. All that is necessary is that the defendant should, expressly or impliedly, ask for something in return for his promise. If he gets what he asked for, then the promise is given for good consideration unless there is some vitiating factor. Though lip-service has been paid to the notions of benefit and detriment, they have no substantial meaning, in light of the principle that the court will not enquire into the adequacy of the consideration. If I make a promise to you in return for your supplying me with three, quite useless, chocolate wrappers, which I will instantly throw away, there is a perfectly good contract provided that the promise was seriously intended. I have got what I asked for and that is a sufficient “benefit”. You have parted with something that you might have kept and that is a sufficient “detriment”. But the wrappers are of no value to me, and you are perhaps glad to be rid of them. As for economic value, the judges have recognised, for over a century, the validity of the contract to pay £100 if the promisee will walk to York; and no one has ever demonstrated what economic value there is in walking to York”.
+/->-Professor Smith's “mere stipulation” theory of consideration is attractive; consideration is <i>anything</i> (provided it is not vitiated by illegality etc.) which the promisor requests of the promisee. That said, the language of benefit and detriment may be out of date, but it would be unwise to discard it completely; it provides a ready and fairly reliable way of scanning for consideration on the facts of the average case, and of avoiding getting the roles of promisor and promisee mixed up. It also explains how his knock-down answer to *Treitel*'s requirement of value in fact works. There may be no economic value in walking to York, or using the carbolic smoke-ball for two weeks, but these activities certainly involve a detriment to the promisee sustained at the request of the promisor. 
+SUMMARY ~*A closer look*~
+/->-_If Professor Smith is right (and his view is worthy of very great respect), then how is one to reconcile the notion that consideration can be anything at all with Patteson J's requirement in Thomas v Thomas that it should be “of value in the eye of the law”? It can be done. Patteson J's formulation does impose a limit on Smith's proposition, but it is one which the latter would have accepted. “Value”, here, is subjectively assessed. Reference to “the eye of the law” can be understood to import the requirement that the consideration, whatever it is, should at least be capable of being objectively shown to have moved from the promisee. All that is excluded from Smith's “anything” are purported considerations which cannot be ascertained to be present or absent by the ordinary adduction of evidence before a court. So, for example, a promise coupled with the request “that you treat me more as you used to”, would probably not be given for consideration. It is too uncertain to stand up to proof or challenge._
+/->-_Before leaving <i>Chappell v Nestle</i>, and perhaps recalling it through Professor Smith's eyes, you should note that it provides a very narrow basis for his theory. The passage from Lord Somervell's speech quoted above is the only statement of such radicality in the case. The other members of the majority in the House of Lords are intent on finding some actual though derivative benefit to Nestle through the request for the wrappers (or their provision). What is more, Lord Somervell's statement, read in its immediate context, is no more than a rebuttal of the objection that the wrappers cannot be of value to Nestle since the company throws them away on receipt. His whole speech occupies a bare half page of the law report. Firmer ground for Professor Smith's view could perhaps be found in cases which minimise the importance of consideration itself as a necessary constituent of a binding agreement. The most striking example, <i>The Eurymedon</i>, is set out later in this lecture._
+/->-_The question of what is of value in the eye of the law has been discussed in a line of cases involving something which the courts have strong views – disputed legal claims._
+FLAGS Treitel
+
+
+
+
+NAME Cook v Wright
+CITATION Cook v Wright (1861)
+CATEGORY Consideration; Consideration In Compromises of Legal Claims
+SUMMARY ~*Overview*~
+/->-A claim was made against the defendant for a contribution to works carried out under a local property improvement Act. The Commissioners, bringing the claim, assumed that the defendant was liable to pay as an owner of houses in the district affected. In fact he was not, since he was merely the agent for the owner, but on being threatened with legal action he promised to pay a sum of money in three instalments to compromise the claim. He failed to pay the third instalment. He defended the present proceedings by arguing that the plaintiffs had given no consideration in return for his promise to pay, since the action for the contribution did not lie against him. He had therefore compromised a claim which, if pursued, could not have succeeded against him. The court held that he had received consideration; he had been spared the expense and trouble of legal proceedings.
+SUMMARY ~*Discussion*~
+/->-The defendant was strictly correct in asserting that the claim brought against him, if pursued, must have failed and was therefore worthless. Various factors seem in combination to prevent the court reaching the conclusion that he therefore received something which was of no value in the eye of the law. Express notice was taken of the fact that he had avoided being sued (as at the time the deal was struck, at least). It is also suggested by various commentators that there is a public policy interest in upholding agreements to compromise disputed claims, and there are judicial dicta to the effect that a claim can hardly be declared valueless unless it has been tried; this happens to correspond with the basic principle that the court will not judge the adequacy of consideration. Furthermore, to argue that a promise may be breached because it is technically unsupported by consideration is never an attractive one. *McKendrick* goes further, and suggests that the plaintiff commissioners had sustained a detriment by being induced not to take action against the actual owner of the house. 
+/->-The point to take away from this is that alongside a requested consideration which itself seems valueless, there may be alternative advantages to the promisor or concomitant disadvantages to the promise which can rank as consideration themselves. There may also be <i>good reasons</i> for upholding the deal, and they may draw the court's attention away from the technical absence of consideration. This last notion, which may well seem surprisingly sub-legal, is explored at the end of the lecture.
+FLAGS McKendrick
+
+
+
+
+NAME Wade v Simeon
+CITATION Wade v Simeon (1846) 2 CB 548
+CATEGORY Consideration; Consideration In Compromises of Legal Claims
+SUMMARY ~*Overview*~
+/->-The plaintiff had claimed two sums, totalling £2000, from the defendant, who had promised to pay them if the plaintiff would forbear from pursuing his legal action. The defendant then failed to pay, arguing that the plaintiff had no cause of action against him, and the plaintiff sued. The court found as fact that there was no cause of action, and that the plaintiff knew as much. The giving up of a claim brought in bad faith did not amount to consideration.
+SUMMARY ~*Discussion*~
+/->-*McKendrick* finds it curious that the law attributes such importance to the state of mind of the claimant: “One might expect the law to conclude either that a promise to give up a worthless claim is not good consideration (on the basis that nothing of value is given in promising to give up a worthless claim) or that it is good consideration (on the basis that the defendant is freed from the nuisance of having to defend the claim. Instead the law has adopted an uneasy compromise that rests on the knowledge of the claimant”. He attributes this balance to the need, on the one hand, to encourage the settlement of claims, and on the other hand, to discourage parties from knowingly bringing bad claims in order to extort settlement on terms.
+SUMMARY ~*A closer look*~
+/->-_This is probably right, but the situation bears comparison with what has already been seen of the snapping up cases. There, the judicial focus seemed to stray onto the offeree's actual knowledge that the offer was mistakenly being made to him, whereas the principled test was whether a reasonable person in the offeree's position would have realised the mistake. The fact is that guilty knowledge and bad faith are very hard to overlook, whether they are germane to a principled legal analysis or not. A bargain flawed by bad faith is not going to be upheld by a court, whether or not it is supported by consideration. To put it another way, it may be that the definition of consideration excludes dealings vitiated by bad faith, together with all other dealings that courts do not wish to support. This will be the subject of the final part of the lecture._
+
+
+
+
+FLAGS McKendrick
+NAME Consideration Must Be Requested
+TYPE Concept
+CATEGORY Consideration; Consideration Must Be Requested
+SUMMARY ~*Consideration Must Be Requested*~
+/->-A promise is not exchanged against consideration merely because its maker derives a benefit from making it, or its recipient sustains a detriment. Consideration in bilateral contracts (not in unilateral ones) must be <i>requested</i> of the promisee. That said, it is not at all difficult to find dicta and decisions in which this principle is not rigorously followed, so that consideration appears to inhere in the consequences of acting upon the deal. The next case, however, is one in which the requirement of a request is taken seriously.
+
+
+
+
+NAME Combe v Combe
+CITATION Combe v Combe [1951] 2 KB 215
+CATEGORY Consideration; Consideration Must Be Requested
+SUMMARY ~*Overview*~
+/->-At the time of their divorce, a husband promised his wife that he would make annual maintenance payments to her. He never did so. She had a right to apply to the Divorce Court for an order for maintenance but did not do so (in fact her income was larger than that of her husband). She sued for arrears of payment, arguing (inter alia) that she had given consideration for her husband's promise to pay by promising not to apply to the court for a maintenance order. The Court of Appeal held that this could not amount to consideration. Her husband had not asked her not to apply to court. Furthermore, had she made such a promise it would have been worthless, since it could not stand against her statutory right to apply. 
+/->-The next case indicates that the requirement for consideration to be requested (whether expressly or impliedly) has sometimes been overlooked.
+
+
+
+
+NAME Shadwell v Shadwell
+CITATION Shadwell v Shadwell (1860) CB (NS) 159
+CATEGORY Consideration; Consideration Must Be Requested
+SUMMARY ~*Overview*~
+/->-A young man (the plaintiff), who had become engaged and who intended to make a career as a Chancery barrister, received a letter from his uncle which stated the following: “I am glad to hear of your intended marriage with Ellen Nicholl, and, as I promised to assist you at starting, I am happy to tell you that I will pay to you one hundred and fifty pounds yearly during my life, and until your annual income derived from your profession as a Chancery barrister shall amount to six hundred guineas...”. The plaintiff married, and practised as a barrister, but his income never reached 600 guineas. His uncle made 12 annual payments to him but then stopped, and the plaintiff sued his uncle's executors for further instalments which had fallen due during his uncle's lifetime. The court held by a majority that the nephew had provided consideration by marrying. Byles J, dissenting, was of opinion that the uncle's letter contained no request to his nephew to marry; the words “at starting” referred to the beginning of his career at the Bar. The dissenting judgment is clearly to be preferred. Nothing was requested of the nephew. 
+SUMMARY ~*A closer look*~
+/->-_The following passage from the majority judgment of Erle CJ is flawed for a still more fundamental reason:_
+/->-_“First, do these facts show a loss sustained by the plaintiff at the uncle's request? When I answer this in the affirmative, I am aware that a man's marriage with the woman of his choice is in one sense a boon, and in that sense the reverse of a loss; yet, as between the plaintiff and the party promising an income to support the marriage, it may be a loss. The plaintiff may have made the most material changes in his position, and have induced the object of his affections to do the same, and have incurred pecuniary liabilities resulting in embarrassments, which would be in every sense a loss, if the income which had been promised should be withheld...”._
+/->-_First, the detriment found here by way of consideration is speculative. However, the majority of the House of Lords in Chappell v Nestle was content with largely speculative advantage to Nestle, so this objection is not fatal. The real problem is the way in which Erle CJ envisages the detriment crystallising to become “in every sense a loss”. The trigger is a breach of the promise which the consideration is to support. If qualifying detriment can be found in a breach of contract, then every promise comes accompanied by automatic consideration simply in so far as it may be broken. _
+/->-_ A kinder interpretation would be that Erle CJ regards the jeopardy of the nephew's (putative) financial commitments as sufficient detriment to amount to consideration, referring to the possibility of breach merely to indicate the nature of that jeopardy. But even on this view, would these commitments, whether putative or demonstrated, be sufficiently linked to the uncle's promise? In reality, what Erle CJ bases himself on here is reliance rather than consideration. _
+
+
+
+
+NAME Consideration Distinguished From Conditional Gifts
+TYPE Concept
+CATEGORY Consideration; Consideration Distinguished From Conditional Gifts
+SUMMARY ~*Consideration Distinguished From Conditional Gifts*~
+/->-Cases in which sufficient consideration is found in some consequential and perhaps even speculative detriment to the promisee shade into the next category: cases in which there is no deal at all, because the arrangement gives the promisee nothing to do except receive performance of the promise. If that is how matters stand, the promisor is making a gift, which will not be enforceable. 
+/->-The gift may be conditional upon something happening. To decide whether that amounts to consideration, it should be enough to ask whether it is to move from the promisee. If it is not, then it is not consideration, however beneficial it may be to the promisor (or detrimental to the person who is to provide it). 
+
+
+
+
+NAME Dickinson v Abel
+CITATION Dickinson v Abel [1969] 1 WLR 295
+CATEGORY Consideration; Consideration Distinguished From Conditional Gifts
+SUMMARY ~*Overview*~
+/->-This case raised the question whether £10,000 paid to Abel was taxable as having been paid pursuant to an enforceable contract. W had told Abel that he hoped to buy a farm for £100,000 or less. Abel, who had transmitted earlier offers from W to the farm's owners, asked what he would receive if the sale was achieved within that price limit. W said that he would pay Abel £10,000. It was held that this was a gift; Abel had not been asked to do anything in return for the promise of payment.
+/->-On the facts of this case, you may wonder whether it might not have been shown that the promised sum of money was in some way linked to Abel's actions on W's behalf in the past (it was obviously not in Abel's interest to argue this). The question whether sufficient consideration may be found in what has been done before a promise is made must now be addressed.
+
+
+
+
+NAME Consideration Must Not Be Past
+TYPE Concept
+CATEGORY Consideration; Consideration Must Not Be Past
+SUMMARY ~*Consideration Must Not Be Past*~
+/->-One of the main rules of sufficiency of consideration is that it must not be “past”. That is to say, the making of the promise, and the provision of the consideration which is to support it, must constitute a single transaction.
+
+
+
+
+NAME Roscorla v Thomas
+CITATION Roscorla v Thomas (1842) 3 QB 234
+CATEGORY Consideration; Consideration Must Not Be Past
+SUMMARY ~*Overview*~
+/->-The plaintiff had bought a horse from the defendant. After the transaction was complete, the defendant promised the defendant that the horse was sound and free from vice. This was not so. The plaintiff sued for breach of this promise, pleading as consideration his purchase of the horse. The action failed. It was held that since the promise came after the sale, the sale price could not be consideration for it.
+
+
+
+
+NAME Doctrine of Implied Assumpsit
+TYPE Concept
+CATEGORY Consideration; Doctrine of Implied Assumpsit
+SUMMARY ~*Doctrine of Implied Assumpsit*~
+/->-The rule stated in <i>Roscorla v Thomas</i> is subject to an important exception. By a species of legal fiction, known as the doctrine of implied assumpsit, it will sometimes be possible to argue that something done before a promise is made can make that promise bind despite the timing. The fiction consists in finding an earlier request for performance, into which a promise to pay for the performance is implied. The second promise (the real one) is then treated as fixing the amount which it to be payable pursuant to the original, implied promise. “Assumpsit”, meaning “he undertook”, is the old legal term for a legally binding promise.
+
+
+
+
+NAME Lampleigh v Brathwait
+CITATION Lampleigh v Brathwait (1615) Hob 105
+CATEGORY Consideration; Doctrine of Implied Assumpsit
+SUMMARY ~*Overview*~
+/->-Brathwait, who had killed a man, asked Lampleigh to attend upon the King at Royston in order to procure a pardon. Lampleigh successfully did so, and Brathwait then promised him £100 for his services. The court, upholding this arrangement as a binding contract, stated that the precedent request for performance coupled itself with the later promise of payment to constitute a single transaction.
+
+
+
+
+NAME Re Casey's Patents
+CITATION Re Casey's Patents (1892) 1 Ch 104
+CATEGORY Consideration; Doctrine of Implied Assumpsit
+SUMMARY ~*Overview*~
+/->-The business of which Casey was a manager wrote to him promising him a one third share in certain patents “in consideration of your services as the practical manager in working both our patents...”. He was later asked to return the letters patent, and the present action was brought against him when he refused. It was held by the Court of Appeal that the action against him failed. The share in the patents had been granted for valid consideration.
+SUMMARY ~*Detail *~
+/->-Counsel for the plaintiffs submitted (inter alia) that the purported consideration for the grant of the share was past. Bowen LJ denied that this was so: “Even if it were true, as some scientific students of the law believe, that a past service cannot support a future promise, you must look at the document and see if the promise cannot receive a proper effect in some other way. Now, the fact of a past service raises an implication that at the time it was rendered it was to be paid for, and, if it was a service which was to be paid for, when you get in the subsequent document a promise to pay, that promise may be treated either as an admission which evidences or as a positive bargain which fixes the amount of that reasonable remuneration on the faith of which the service was originally rendered. So that here for past services there is ample justification for the promise to give the third share”.
+SUMMARY ~*A closer look*~
+/->-_It's worth noticing the way in which Bowen LJ introduces his analysis – that “you must look at the document and see if the promise cannot receive a proper effect...”. It is clear which way he means to decide the case, and he is not prepared to let technical (“scientific”) argument stand in the way. It might be remarked that if the principles of consideration are to be manipulated or over-ridden by devices such as implied assumpsit, there is a risk that they will be distorted. However, it will be proposed in due course that it could be wrong to try to defend so-called principles of consideration against manipulation. Maybe consideration is not an area of principles, but a space for manoeuvre to produce a just result. _
+
+
+
+
+NAME Pao On v Lau Yiu Long
+CITATION Pao On v Lau Yiu Long [1980] AC 614
+CATEGORY Consideration; Doctrine of Implied Assumpsit
+SUMMARY ~*Overview*~
+/->-As part of a complex deal between two companies (the main agreement), the plaintiffs were to receive shares from the defendants. Since they agreed not to dispose of the shares for a stated period, they negotiated an undertaking from the defendants to buy the shares back at a stated value in order to lessen their exposure to a possible fall in the share price. When the plaintiffs later realised that this undertaking left them vulnerable to give up the shares at the same value even if they had risen above it on the open market, they insisted on the defendants granting them a guarantee that would protect them if the share price fell, but leave them free to profit if the price rose. The stated consideration was the plaintiffs' performance of the main agreement. In fact the share price slumped, and the defendants later maintained that they received no consideration for the guarantee they had given, since it was past (and they argued that the guarantee had been procured by economic duress). The Privy Council held that the main agreement was not fully executed at the time the guarantee was given, so that sufficient consideration was given by the plaintiffs' promise to perform it. It was not voidable for duress.
+/->-Lord Scarman (obiter) stated three factors which would be required for technically past consideration to be regarded as sufficient on the doctrine of implied assumpsit:
+/->-“An act done before the giving of a promise to make a payment or to confer some other benefit can sometimes be consideration for the promise. The act must have been done at the promisors' request: the parties must have understood that the act was to be remunerated either by a payment or by the conferment of some other benefit: and payment, or the conferment of a benefit, must have been legally enforceable had it been promised in advance. All three features are present in this case...”.
+SUMMARY ~*Discussion*~
+/->-The third of Lord Scarman's criteria amounts only to this – that if the timing had been the “correct” way round, there would have been nothing to deny the requested act the status of sufficient consideration (eg. illegality, duress, etc).
+/->-The <i>Pao On</i> case also deals with another aspect of the sufficiency of consideration. The stated consideration was the performance of an existing agreement. Will the law find “benefit”to the promisor in a performance which the promisee is already bound to provide? This is the subject of the next line of cases.
+
+
+
+
+NAME Performance of Existing Legal Duties as Consideration
+TYPE Concept
+CATEGORY Consideration; Performance of Existing Legal Duties as Consideration
+SUMMARY ~*Performance of Existing Legal Duties as Consideration*~
+/->-If the existing duty is one which the promise is bound by general law (not contract) to carry out, the usual view is that its performance will not amount to consideration.
+
+
+
+
+NAME Collins v Godefroy
+CITATION Collins v Godefroy (1831) 1 B & Ad 950
+CATEGORY Consideration; Performance of Existing Legal Duties as Consideration
+SUMMARY ~*Overview*~
+/->-The plaintiff attended a trial to give evidence on a subpoena (a mandatory order to testify). He sued for breach of a promise by the defendant to pay him one guinea a day for his time and trouble. His action failed on the basis that the duty to attend and testify was imposed by law. A promise to pay for carrying out this legally imposed duty was unsupported by consideration.
+SUMMARY ~*A closer look*~
+/->-_Observe the language used by Lord Tenterden CJ in this case: “If it be a duty imposed by law upon a party regularly subpoenaed to attend from time to time to give his evidence then a promise to give him any remuneration for loss of time incurred in such attendance is a promise without consideration. We think that such a duty is imposed by law; and on consideration of the Statute of Elizabeth, and of the cases which have been decided on this subject, we are all of the opinion that a party cannot maintain an action for compensation for loss of time in attending a trial as a witness. We are aware of the practice which has prevailed in certain cases, of allowing, as costs between party and party, so much per day for the attendance of professional men, but that practice cannot alter the law. What the effect of our decision may be, is not for our consideration. We think, on principle, that an action does not lie for compensation to a witness for loss of time in attendance under a subpoena”._
+/->-_This extract does establish that the case is authority for the principle for which it is usually cited, but Lord Tenterden CJ does not limit himself to saying that performance of an existing legal duty is not consideration. He goes on to state, twice, that an action cannot be maintained for compensation for loss of time in attending a trial as a witness. The relation between this statement and the consideration point is disputable. It could be read as merely a broad or general way of saying why the plaintiff fails. Alternatively, it may be that the apparently principled position on the insufficiency of performance of an existing legal duty as consideration is no more than an abstract way of stating that witnesses are not to be allowed to sue for contractual remuneration (for reasons of policy). To examine this distinction may seem a singularly pointless enquiry. It is not. The question it poses is this; are such cases resolved by the application of principles of consideration, or are they resolved on more specific grounds even though the outcome may be put in terms of consideration? This is the theme which will be addressed directly at the end of the lecture. _
+/->-_Where the activity of the promisee involves the performance of a duty imposed by general law, a court will still be able to find consideration if it appears that the promisee is in fact doing more than his duty requires. The next case shows that this may well be difficult to determine on the facts._
+
+
+
+NAME Glasbrook v Glamorgan CC
+CITATION Glasbrook Bros Ltd v Glamorgan County Council [1925] AC 270
+CATEGORY Consideration; Performance of Existing Legal Duties as Consideration
+SUMMARY ~*Overview*~
+/->-During industrial unrest at a South Wales colliery, the colliery manager became aware that there was to be an attempt to stop the “safety men” from working. If that happened, the mine would flood. The manager asked the local police superintendent to install a force of 100 men at the colliery in case of trouble. The superintendent considered that billeting a force on site was not necessary, but nevertheless agreed to provide 70 men in return for payment as well as food and accommodation. The force was provided, but the colliery refused to pay. The police authority sued for the promised payment. The colliery argued that no consideration had been received for the promise to pay since the police were doing no more than their legal duty to keep the peace. There was also a counterclaim for the cost of feeding and accommodating the 70 men. It was decided at first instance, then in the Court of Appeal and finally in the House of Lords, that the action on behalf of the police succeeded, and the counterclaim failed. However, both appellate decisions were those of bare majorities.
+SUMMARY ~*Discussion*~
+/->-The case which needed to be made on behalf of the police here was a tricky one. If, on the one hand, they were doing what was reasonably necessary to keep the peace, they would lose; this was no more than their legal duty. If on the other hand they were doing more than was necessary to keep the peace, they would need to explain why. In the Court of Appeal, *Atkin LJ* (dissenting) saw this in stark terms, suggesting that if more was being done than necessary, the contract would be contrary to public policy, illegal and void. In the House of Lords the majority considered that between the extremes of necessary and unnecessary involvement lay a middle ground in which the police could properly exercise the discretion to provide special services. This is what had been done on the facts of the case, and since it went beyond the mere duty of keeping the peace, it was regarded as consideration.
+SUMMARY ~*A closer look*~
+/->-_You may wonder if the question whether the police should be able to charge for their services is most conveniently debated in terms of consideration. It is a broad and crucial issue of public policy. The Smith & Thomas Casebook on Contract puts this issue pointedly, in the form of a question inspired by the facts of a similar case, Harris v Sheffield Football Club (1987): “1. The Rovers' F.C. secretary telephones the Chief Constable – “The crowd is fighting – police are overwhelmed – send help”. The Chief Constable replies, “Only if you agree to pay”. The secretary agrees. Does the Club have to pay the bill? If not, why not? – is it a question of consideration?”_
+/->-_Smith & Thomas, with their usual skill, are prompting their readers to realise that there are a good many factors in addition to consideration which may condition the validity of a contract; here duress, public policy, illegality and bad faith spring to mind. If one asks why the performance of an existing legal duty does not amount to sufficient consideration, it will be all but impossible to avoid giving an answer in terms of factors which seem at first to lie beyond the principles of consideration. It all depends, of course, on how widely one draws the boundaries of consideration; perhaps it is not a tight package of rules about bargain, but a broader space in which all manner of factors may interact. _
+/->-_Lord *Denning* cut through these difficulties by taking the simple view that performance of a general legal duty could amount to consideration, as the next case shows._
+FLAGS Atkin; Denning
+
+
+
+
+NAME Ward v Byham
+CITATION Ward v Byham [1956] 1 WLR 496
+CATEGORY Consideration; Performance of Existing Legal Duties as Consideration
+SUMMARY ~*Overview*~
+/->-A child's mother and father separated, and the father paid a neighbour one pound a week to look after her. The mother later wrote, proposing that she should look after her daughter for the same weekly allowance. The father said that he agreed “providing you can prove that she will be well looked after and happy and also that she is allowed to decide for herself whether or not she wishes to come and live with you”. The father stopped the payments when the mother married. She brought an action against him, and he took the point that since the child was illegitimate, the then law (s. 42 of the National Assistance Act 1948) cast the burden of providing for her upon the mother as an existing duty. The Court of Appeal upheld the mother's claim.
+SUMMARY ~*Detail*~
+/->-*Denning LJ* gave this explanation of his view of the relevant law: “I approach the case, therefore, on the footing that, in looking after the child, the mother is only doing what she is legally bound to do. Even so, I think there was sufficient consideration to support the promise. I have always thought that a promise to perform an existing duty, or the performance of it, should be regarded as good consideration, because it is a benefit to the person to whom it is given. Take this very case. It is as much a benefit for the father to have the child looked after by the mother as by a neighbour. If he gets the benefit for which he stipulated, he ought to honour his promise, and he ought not to avoid it by saying that the mother was herself under a duty to maintain the child”.
+/->-Morris LJ preferred a more conventional way of deciding in favour of the mother: “It seems to me, therefore, that the father was saying, in effect: Irrespective of what may be the strict legal position, what I am asking is that you shall prove that the child will be well looked after and happy, and also that you must agree that the child is to be allowed to decide for herself whether or not she wishes to come and live with you. If those conditions were fulfilled, the father was agreeable to pay. On those terms, which in fact became operative, the father agreed to pay £1 a week. In my judgment, there was ample consideration there to be bound for his promise, which I think was binding”.
+SUMMARY ~*A closer look*~
+/->-_Denning LJ's approach to the law in this case is cavalier, as it often was, but quite hard to dispute. Why should the fact of the existing legal duty not simply drop away as a wholly unnecessary impediment to finding consideration, given that the father requested a benefit of the mother and received it? _
+/->-_The difficulty with this approach is that it includes a disconcerting echo of an eighteenth century notion which was only briefly accepted as good law. Lord Mansfield, Chief Justice of the King's Bench in the latter part of that century, made several attempts to establish his view that a promise should bind simply as a matter of “honesty and rectitude”. In the long run he was not successful. Denning LJ goes nearly that far, because he is saying that it does not matter from what quarter the father receives the benefit of having his child looked after. The real point is that a promise should be honoured and not avoided on a technicality. This comes close to dispensing with the requirement of consideration altogether._
+/->-_Lord Mansfield himself had tried to outflank that objection by arguing (in Hawkes v Saunders (1782)) not that honesty and rectitude made consideration unnecessary, but that they were capable of being consideration: “The ties of conscience upon an upright mind are a sufficient consideration”. This is not the law; but if such factors as bad faith, duress and intention to create legal relations can operate alongside consideration – and maybe even coalesce with it – why should rectitude not also have a part to play?_
+/->-_(b) Performance of contractual duties already owed to a third party as consideration_
+FLAGS Denning
+
+
+
+
+NAME Scotson v Pegg
+CITATION Scotson v Pegg (1861)
+CATEGORY Consideration; Performance of Contractual Duties Owed to a Third Party as Consideration
+SUMMARY ~*Overview*~
+/->-The plaintiffs sued the defendant for breach of a promise to unload a cargo of coal at a stated rate. The promise had been made “in consideration that the plaintiffs, at the request of the defendant, would deliver to the defendant” the coal. The defendant argued that the delivery of the coal was in fact no consideration, since the plaintiffs were already bound to a third party to deliver the coal either to them, or to their order. The third party had sold the coal to the defendant. The plaintiffs succeeded. The court's reasoning with regard to consideration is not altogether easy to follow, but it seems that it was simply regarded as beneficial to the defendant to receive the coal. Furthermore, it is posited that the plaintiffs might have wished to breach their contract with the third party, and had therefore sustained the detriment of a further liability to the defendant if they were to do so. 
+SUMMARY ~*Discussion*~
+/->-This reasoning seems inadequate and somewhat strained. If the defendant was to receive the coal anyway, it was no added benefit to him to receive it pursuant to a direct contractual nexus with the plaintiffs. The point is similar to the one raised by <i>Ward v Byham</i> above, and again tends towards the conclusion that the defendant should simply do what he promised. As for the detriment sustained by the plaintiffs through the limitation of their freedom to breach a contract, this is not quite as unacceptable as the judgment of Erle CJ in <i>Shadwell v Shadwell</i> cited above, but it is contrived almost to the point of breakdown. 
+/->-In the next case, the House of Lords approves <i>Scotson v Pegg</i> as good law. Although there is no analysis of the earlier case, the motivation for finding consideration in tripartite commercial cases is made quite clear. 
+
+
+
+
+NAME New Zealand Shipping v Satterthwaite
+AKA The Eurymedon
+CITATION New Zealand Shipping Co Ltd v Satterthwaite (The Eurymedon) [1956] 1 WLR 496
+CATEGORY Consideration; Performance of Contractual Duties Owed to a Third Party as Consideration
+SUMMARY ~*Overview*~
+/->-A bill of lading (a contract between the consignor and the carrier of goods) provided an exclusion of liability for the carrier unless action in respect of loss was brought within one year from the date of delivery of the goods. It expressly extended this protection to the carrier's servants or agents. The carrier engaged stevedores to unload the cargo (a drilling machine), which was damaged in the process. The stevedores claimed the benefit of the exclusion clause in the bill of lading. One of the questions arising was whether the stevedores had provided any consideration which would make the “promise” in the bill of lading binding. They had unloaded the goods, but they were already contracted to the carrier to do so. The Privy Council held, by a bare majority, that the stevedores were protected by the exclusion clause.
+SUMMARY ~*Detail*~
+/->-Lord Wilberforce made the following comment on the search for consideration in this case: “If the choice, and the antithesis, is between a gratuitous promise and a promise for consideration, as it must be, in the absence of a tertium quid, there can be little doubt which, in commercial reality, this is. The whole contract is of a commercial character, involving service on one side, rates of payment on the other, and qualifying stipulations as to both. The relations of all parties to each other are commercial relations entered into for business reasons of ultimate profit. To describe one set of promises, in this context, as gratuitous, or <i>nudum pactum</i>, seems paradoxical and is prima facie implausible. It is only the precise analysis of this complex of relations into the classical offer and acceptance, with identifiable consideration, that seems to present difficulty, but this same difficulty exists in many situations of daily life, for example, sales at auction; supermarket purchases; boarding an omnibus; purchasing a train ticket; tenders for the supply of goods; offers of reward; acceptance by post; warranties of authority by agents; manufacturers' guarantees; gratuitous bailments; bankers' commercial credits. These are all examples which show that English law, having committed itself to a rather technical and schematic doctrine of contract, in application takes a practical approach, often at the cost of forcing the facts to fit uneasily into the marked slots of offer, acceptance and consideration”.
+SUMMARY ~*Discussion*~
+/->-By now it should be possible to see what is going on here. This is a complex commercial situation, in which to ask whether the parties have struck a bargain or alternatively are making gifts of their services to each other is daft. Their business is the making of bargains. If consideration in a narrow sense cannot be found, then it will be found in a broad sense. The law, as far as Lord Wilberforce is concerned, cannot refuse to handle a commercial relationship of this type because of a lack of consideration. Therefore, there is consideration. If this analysis should seem to turn upon a poor sleight of hand, revisit it once you have read the extract from Atiyah's essay on consideration below. 
+
+
+
+
+NAME “Problem” Cases
+TYPE Concept
+CATEGORY Consideration; “Problem” Cases
+SUMMARY ~*“Problem” Cases*~
+/->-Two cases which can seem surprising if encountered at an early stage during the study of consideration can now be set out. The first is comparatively trivial, although instructive. The second, a House of Lords authority, is a more serious matter.
+
+
+
+
+NAME White v Bluett
+CITATION White v Bluett (1853) 23 LJ Ex 36
+CATEGORY Consideration; “Problem” Cases
+SUMMARY ~*Overview*~
+/->-William Bluett had received a loan from his father, John. Rather than repaying the debt, William gave his father a promissory note for the sum owing. After John's death, his executor brought an action against William on the promissory note, and in debt. William's defence to this action was to plead a contract with his father to the effect that repayment would not be required, and that there would be no liability on the note. This contract was said to have arisen through William making complaints to his father that he had not been treated as favourably as his father's other children; his father admitting that this was so; and the two then agreeing that in consideration of William ceasing to bore his father with complaints, repayment of the loan would not be required. The court held that William was liable. There was no contract, since there was no consideration. Consideration could not be found in promising to do what one had no right to do in the first place.
+SUMMARY ~*Discussion*~
+/->-Had it been so minded, the court could easily have taken a different view. The judgment appears to rest on the footing that William had no right to complain. Whether or not he had a good reason to complain is immaterial; in terms of legal rights, he was free to complain if he wished, because there was no law to make his complaining illegal. If he chose to limit his freedom in return for a promise when he was not otherwise bound to do so, he gave consideration. Why, then, was the court not prepared to adopt this view?
+/->-The answer leads beneath the surface of the doctrine of consideration, following in a direction already suggested in commentary on previous cases. The court in <i>White v Bluett</i> did not want William's defence to succeed. Quite possibly they thought it a pack of lies devised to get out of a paying a debt (though it is sufficiently abject to have a slight ring of the truth). The notion of consideration is pressed into service in order to cut the legal ground from under the defence, but what is really being said is that there is <i>no good reason</i> for giving legal effect to the promise pleaded by William. 
+/->-A modern court might reach the same result by finding no intention to create legal relations, or by invoking the doctrine of undue influence, or by coming straight out with it and holding that William's evidence is not credible. Does the court of 1853 distort the doctrine of consideration by pressing it into use on these facts? In a sense of course it does. But the better answer may be that it does not, provided one accepts that “consideration” actually means the presence of a sufficient reason to enforce a promise. Here there is no such reason; ergo, there is no consideration.
+/->-It is one thing to find a mid-nineteenth century court using the doctrine of consideration to gloss over the use of what is effectively a discretion to take a case seriously or not. It is more striking when arguably the same thing is done by the House of Lords at the end of the twentieth century:
+
+
+
+
+NAME Lipkin Gorman v Karpnale Ltd
+CITATION Lipkin Gorman v Karpnale Ltd [1992] 4 All ER 512
+CATEGORY Consideration; “Problem” Cases
+SUMMARY ~*Overview*~
+/->-A dishonest solicitor stole some £200,000 from his firm's client account, and used it to gamble at the Playboy Club. The system in operation at the club was that a client would pay over money in advance of gambling, and receive in return plastic gambling chips, which could also be used to purchase refreshments. The firm of solicitors sought to recover the money from the club through the restitutionary action of unjust enrichment. The club's defence was that it had not been unjustly enriched, since it had given consideration in return for the money. The Court of Appeal held by a majority that this defence succeeded, so that the money was not recoverable. The House of Lords unanimously allowed the firm's appeal. The obtaining of the chips, and gambling with them, was a single transaction which was void by reason of s.18 of the Gaming Act 1845. Furthermore, the chips could not be regarded as consideration for the money handed over by the solicitor.
+SUMMARY ~*Detail*~
+/->-After <i>Chappell v Nestle</i>, in which worthless chocolate wrappers were held to be consideration for recordings, it may initially be hard to accept that plastic chips cannot be consideration when given in exchange for money, and the principle that consideration need not be adequate technically blocks the objection that the sum paid for the chips was astronomical. However, the reality of the transaction at the Playboy Club was not that the client was buying chips. He was buying the opportunity to gamble, which to him was substantial; otherwise he would not have paid such very large sums of money to secure it. This was the argument which impressed Parker LJ, who was in the majority in the Court of Appeal. It was set out by Lord Goff in the House of Lords in the course of his rejection of it:
+/->-“I have to say at once that I am unable to accept the alternative basis upon which Parker LJ held that consideration was given for the money, viz. that each time Cass [the solicitor] placed a bet at the casino, he obtained in exchange the chance of winning and thus of being paid. In my opinion, when Cass placed a bet, he received nothing in return which constituted valuable consideration. The contract of gaming was void; in other words, it was binding in honour only. Cass knew, of course, that, if he won his bet, the club would pay him his winnings. But he had no legal right to claim them. He simply had a confident expectation that, in fact, the club would pay; indeed, if the club did not fulfil its obligations binding in honour upon it, it would very soon go out of business. But it does not follow that, when Cass placed the bet, he received anything that the law recognises as valuable consideration. In my<br 
+SUMMARY ~*Discussion*~
+/->-Why is it not valuable consideration in the eye of the law to gain the opportunity to gamble, and the chance of winning very large sums of money as a result? It is true that, at the time of this case, gambling contracts were void pursuant to legislation, but the gambling was not illegal. Had this been a commercial case, in which one party was prepared to expend a great deal of money to enter into a very highly speculative transaction, would the court have held that he received no consideration for his outlay? 
+/->-A court which found consideration moving from the Playboy Club here would have prevented the operation of restitution to restore the stolen money to the firm which had lost it. It is not far-fetched to suggest that the House of Lords found sufficient flexibility in the doctrine of consideration to avoid this inconvenient outcome. Maybe it is very proper that consideration retains the flexibility which can enable it to be used to lever a case towards a just conclusion. 
+
+
+
+
+NAME Atiyah's Understanding of Consideration
+TYPE Concept
+CATEGORY Consideration; Atiyah's Understanding of Consideration
+SUMMARY ~*Atiyah's Understanding of Consideration*~
+/->-It is time now to examine what “consideration” actually means in the light of the authorities discussed above. As pointed out earlier, it is a legal term of art, but its legal meaning is not remote from one of its meanings in ordinary English. “Consideration” means, simply, a reason – the court's reason for enforcing a promise. The rules of sufficiency of consideration are accretions around what, at base, is a judicial discretion, and sometimes the discretionary element shows through.
+/->-This was argued at length by Professor Atiyah in a seminal essay (“Consideration: A Restatement” in <i>Essays in Contract</i> (1986)) which deserves to be quoted at length:
+/->-“It is my purpose to suggest that the conventional account of the law is unsatisfactory.... The truth is that the courts have never set out to create a doctrine of consideration. They have been concerned with the much more practical problem of deciding in the course of litigation whether a particular promise in a particular case should be enforced. Since it is unthinkable that any legal system could enforce <i>all</i> promises it has always been necessary for the courts to decide which promises they would enforce. When the courts found a sufficient reason for enforcing a promise they enforced it; and when they found that for one reason or another it was undesirable to enforce a promise, they did not enforce it. It seems highly probable that when the courts first used the word “consideration” they meant no more than that there was good “reason” for the enforcement of a promise. If the consideration was “good”, this meant that the court found sufficient reason for enforcing the promise. All this is not to suggest that the law was ever unprincipled, or that judges ever decided cases according to personal or idiosyncratic views of what promises it was desirable to enforce. As always with the common law, it was the collective view of the judges, based largely on the conditions and moral values of the community, which prevailed over a period of time....
+/->-At a relatively early date it was established that the courts would enforce a promise if another promise or an act was given in return for it; and also that they would not normally enforce a promise if it was merely intended as a gift with no return of any kind. In the first class of case it came therefore to be said that there was good consideration; there were good reasons for enforcing the promise. In the second class there was no such reason, and therefore no consideration. But it also became clear from a very early time that the whole law could not be reduced to such very simple terms. There were some cases in which a promise was given in return for another promise or act, in which for one reason or another it was felt unjust or inexpedient that the promise should be enforced. Such cases could be, and sometimes were explained by saying that there was no consideration for the promise; but as the nineteenth century wore on, an alternative approach began to manifest itself. This was to say that there was good consideration (though perhaps the word “good” would more usually be omitted) but that nevertheless the promise was unenforceable for other reasons, for example, because it had been extorted by duress, or fraud, or because it was illegal. The last type of case was often dealt with by saying that the consideration was unlawful; a judge who formulated his reasons in this way would perhaps, if pressed, have said that there was no “good” consideration.
+/->-More recently still, this alternative approach has hardened so that courts now find nothing inconsistent in holding that there is consideration for a promise, but nevertheless refusing to enforce it because the transaction is illegal. This approach also manifests itself in the relatively modern device of refusing to enforce a promise on the ground that the promisor did not “intend” to create legal relations by his promise. Where this is done (as it usually is) in a case where there is no express disavowal of the intent to create legal relations, it appears to be merely a legal justification for refusing to enforce a promise which the courts think, for one reason or another, it is unjust or impolitic to enforce. There seems to be no doubt that a hundred years ago the courts would have dealt with these problems in terms of consideration.
+/->-This change of approach is symptomatic of the change which has developed in the way lawyers think about consideration. It is no longer thought that consideration is a compendious word simply indicating whether there are good reasons for enforcing a promise; it is widely assumed that consideration is a technical requirement of the law which has little or nothing to do with the justice or desirability of enforcing a promise. Modern lawyers thus see nothing incongruous in asserting that a promise made for good consideration should nevertheless not be enforced.
+/->-As we shall see below, the restatement of the law which the actual decisions compel us to adopt, differs from the conventional view principally in recognising the importance of the untypical and marginal cases. It is not, however, merely a question of recognising that there are exceptions to the ordinary rules to which adequate attention has not always been paid. If that were all, there would be little need, or justification, for a fundamental restatement of the law. A restatement will require rather more than that; it will require in particular that lawyers start to think of consideration once again in terms of reasons for enforcing promises; it will require lawyers to recognise that the presence of factors like benefit, detriment, and bargain is taken into account not because they fit some preconceived plan or definition, but because they are often very material factors in determining whether it is just or desirable to enforce a promise; and this necessarily involves recognition that these are not the only factors to which attention must be, and is in practice paid by the Courts”.

@@ -1,0 +1,219 @@
+NAME Psychiatric Harm
+TYPE Concept
+CATEGORY Psychiatric Harm
+SUMMARY Often referred to by the curiously-antiquated expression _nervous shock_, what is meant in modern times by _pure_ psychiatric harm is something of a sausage stuffed with sweepings from the jurisprudential slaughterhouse floor: a system of often unfair and often contradictory rules. 
+SUMMARY *Primary Victims* 
+/Usual authority is |Page v Smith|. 
+/_They_ --
+@ Were *exposed to physical danger*, or had *reasonable grounds to have feared* they would be. 
+@ Are *owed a duty of care* on conventional principles.
+
+SUMMARY *Secondary Victims*
+/Bystanders, whose claim is subject to the |Alcock Test|. 
+/_They must show that they_ --
++ *Had a close tie of love and affection* with a primary victim.
+@@ Which is *rebuttably* presumed between parents and children and between spouses...
+@@ ... but for all others, the victim must go to court and let themselves be thoroughly worked-over by the defence barrister. |McFarlane v Caledonia (no 1)|.
+@@ In |Alcock| itself, *siblinghood* was not enough.
++ *Witnessed the shocking event& or its immediate aftermath* -- |Bourhill v Young|, |Loughlin v O'Brien|.
++ *With their own unaided senses*, at first hand -- |Hambrook v Stokes|. 
+%_And that there was_ --
++ *A _specific_ shocking event* -- |Liverpool Womens Hospital v Ronayne|.
+
+SUMMARY *General*
+@ Establishing a claim in psychiatric harm requires that a DSM psychiatric condition has arisen and was caused by the defendant. Not merely sadness or upset.
+@ If you remember a single case, remember |Alcock|. The famous Denning case of |Hinz v Berry| is also worth a butcher's, not least because of Denning MR's famous first sentence.   
+@ M. Brazier and J. Murphy, _Street on Torts_ (10th ed., 1999), pp.210: 'The student may be forgiven for finding this whole area of law confusing and contradictory.'
+@ N.B. |Walters v North Glamorgan|, in which 36 hours, woman sleeping in hospital with sick baby, epilleptic fit, series of awful events.
+
+NAME Psychiatric Harm - Reading
+TYPE Reading
+CATEGORY Psychiatric Harm
+SUMMARY ~*Essential*~
+SUMMARY Steele, _Tort Law_, pp.299-333
+SUMMARY |White v South Yorkshire Police| -- |Alcock v South Yorkshire Police| -- |Page v Smith| -- |W v Essex| -- |McFarlane v Caledonia (no 1)| -- |Bourhill v Young| -- |McLoughlin v O'Brian| -- |Hambrook v Stokes| -- |Liverpool Womens Hospital v Ronayne|.
+SUMMARY ~*Additional*~
+SUMMARY S. Bailey and D. Nolan, _The Page v Smith Saga: A Tale of Inauspicious Origins and Unintended Consequences_ (2010) 69 CLJ 495<BR>M. Jones, _Liability for Psychiatric Illness – More Principle, Less Subtlety?_ [1995] 4 Web JCLI<BR>D. Nolan, _Psychiatric Injury at the Crossroads_ [2004] Journal of Personal Injury Law 1<BR>H. Teff, _Liability for Negligently Inflicted Psychiatric Harm: Justifications and Boundaries_ (1998) 57 CLJ 91
+SUMMARY |Hinz v Berry| -- |Dulieu v White| -- |Chadwick v BTC| -- |Boumedien v Delta Display| -- |Monk v Harrington| -- |Taylor v A Novo|.
+
+NAME Hinz v Berry
+COURT EWCA
+CITATION Hinz v Berry [1970] 2 QB 40
+CATEGORY Psychiatric Harm
+FLAGS Denning; Traffic Accident
+SUMMARY Having pulled over in a layby to eat a picnic and enjoy the display of _endymion non-scriptus_ so generously afforded by nature at that time of year, a jag, the tire of which had burst, careered into the claimant's husband and children, killing the husband.
+HELD To recover in psychiatric harm, the claimant must demonstrate that they have a _recognised psychiatric condition_ rather than 'mere' grief and sorrow.
+HELD Denning MR -- 'It happened on April 19, 1964. It was bluebell time in Kent. Mr. and Mrs. Hinz had been married some 10 years, and they had four children, all aged nine and under. The youngest was one. Mrs. Hinz was a remarkable woman. In addition to her own four, she was foster-mother to four other children. To add to it, she was two months pregnant with her fifth child. 
+/->-{Righter than he could possibly have known about the preternaturally melancholic beauty of a carpet of bluebells in a wood in Kent in April.} 
+/->-On this day they drove out in a Bedford Dormobile van from Tonbridge to Canvey Island. They took all eight children with them. As they were coming back they turned into a lay-by at Thurnham to have a picnic tea. The husband, Mr. Hinz, was at the back of the Dormobile making the tea. Mrs. Hinz had taken Stephanie, her third child, aged three, across the road to pick bluebells on the opposite side. There came along a Jaguar car driven by Mr. Berry, out of control. A tyre had burst. The Jaguar rushed into this lay-by and crashed into Mr. Hinz and the children. Mr. Hinz was frightfully injured and died a little later. Nearly all the children were hurt. Blood was streaming from their heads. Mrs. Hinz, hearing the crash, turned round and saw this disaster. She ran across the road and did all she could. Her husband was beyond recall. But the children recovered.'
+/->-*In English law no damages are awarded for grief or sorrow caused by a person's death*. No damages are to be given for the worry about the children, or for the financial strain or stress, or the difficulties of adjusting to a new life. *Damages are, however, recoverable for nervous shock, or, to put it in medical terms, for any recognisable psychiatric illness caused by the breach of duty by the defendant*.'
+
+NAME White v South Yorkshire Police
+AKA White
+COURT UKHL
+YEAR 1998
+FLAGS Disaster; Key; Important; EPLR
+CITATION White v Chief Constable of South Yorkshire [1998] 3 WLR 1509
+CATEGORY Psychiatric Harm
+SUMMARY The claimants, who were at Hillsborough on the fateful day, developed PTSD as a result of having seen nasty stuff happen. The claim was that their employers had been negligent in allowing too many people into a certain part of the ground, but at first instance failed to show a duty of care. On appeal the claim was that they were owed such a duty as _rescuers_.
+HELD In essence, that it would not be fair to allow claims by the police officers, when in |Alcock|, claims by the relatives had failed. 
+
+NAME Alcock v South Yorkshire Police
+AKA Alcock
+COURT UKHL
+YEAR 1991
+CITATION Alcock v Chief Constable of South Yorkshire [1991] UKHL 5
+FLAGS Key; Important; Leading; EPLR; Disaster; Floodgates
+CATEGORY Psychiatric Harm; Secondary Victimhood; Public Policy
+CATEGORY Psychiatric Harm
+SUMMARY The claim was brought by secondary victims, a brother of one of the Hillsborough dead along with others, members of whose families had been killed.
+HELD Established the modern rules in psychiatric harm. Drew a fundamental but contentious distinction between _primary_, to whom a defendant owes a duty of care if a _physical_ injury was reasonably foreseeable, and _secondary_ victims, to whom _no such duty is owed_, unless four conditions are met, the |Alcock Test|. 
+And here, the claim fialed, principally on the absence of establishment of close ties of love and affection between primary and secondary victims. 
+
+-        NAME Secondary Victimhood (Alcock Test)
+-        AKA Alcock Test
+-        TYPE Concept
+-        CATEGORY Psychiatric Harm; Secondary Victimhood
+-        SUMMARY To establish secondary victimhood in a claim for psychiatric harm, the claimant must prove:
+-        +*A close tie of love and affection* to the primary victim. 
+-        @@This is restricted. *Siblinghood* was insufficient in |Alcock| itself.
+-        @@A rebuttable presumption of such a tie between *parents and children* and *spouses*...
+-        /...which is a recipe for a thorough working-over in the witness box, if ever there was one. 
+-        @@For other types of relationship, the claimant must prove it -- |McFarlane v Caledonia (no 1)|.
+-        +*They witnessed the shocking event or its immediate aftermath* -- |Bourhill v Young|, |Loughlin v O'Brien|.
+-        +*With their own unaided senses*, at first hand -- |Hambrook v Stokes|. 
+-        +*A specific shocking event_ occurred* -- |Liverpool Womens Hospital v Ronayne|.
+
+
+NAME Dulieu v White 
+COURT EWHC
+YEAR 1901
+CITATION Dulieu v White [1901] EWHC 2 KB 669 
+CATEGORY Psychiatric Harm
+FLAGS Development
+SUMMARY The first successful claim in psychiatric harm. The claimant a barmaid, a pregnant one. The defendants negligently allowed a horse-drawn cart to _barge its way into the pub._ 
+SUMMARY The shock caused her to go into labour prematurely, and she gave birth to what the court somewhat bluntly described as _an idiot child_.
+HELD An action in negligence could arise from a reasonable fear for one's own immediate safety.
+ 
+
+NAME Page v Smith
+COURT UKHL
+YEAR 1995
+CITATION Page v Smith [1995] UKHL 7
+CATEGORY Psychiatric Harm; Primary Victimhood; Remoteness
+FLAGS Important; Leading; EPLR; Traffic Accident
+SUMMARY The claimant had been in a car accident caused by the conceded negligence of the defendant. He was an ME/CFS sufferer in remission, but the accident caused it to recur. The defendant argued that this was an unforeseeable consequence.
+HELD Followed dicta in |Alcock|: the claimant was a _primary_ victim, for whom it was enough merely to show foreseeable risk of _physical_ injury.
+
+NAME W v Essex
+COURT UKHL
+YEAR 2000
+CITATION W v Essex County Council and Another [2000] 2 All ER 237
+CATEGORY Psychiatric Harm; Primary Victimhood; Local Authorities; Child Abuse
+FLAGS Important; EPLR
+SUMMARY The defendant had placed with the claimant foster family a child the defendant knew was a sex abuser, despite the claimant having specifically asked for no such children. The claimant's natural children were indeed abused by the child placed with them, and the child suffered psychiatric harm.
+SUMMARY So, claimed the parents, did they. They failed in the lower courts.
+HELD The parents were indeed _primary victims_, as they were involved in the decision to foster. 
+HELD The category of primary victims is _open-ended_, and a _function of the facts_.
+
+NAME Chadwick v BTC
+COURT EWHC
+YEAR 1967
+CITATION Chadwick v British Railways Board [1967] EWHC 2 All ER 945
+CATEGORY Psychiatric Harm; Primary Victimhood; Bystanders
+FLAGS Development; Disaster
+SUMMARY The claimant lived a short distance from where the Lewisham train crash took place. He went and helped, and saw dreadful things as he clambered through the wreckage looking for survivors. He became withdrawn and anxious.
+HELD It was reasonably foreseeable that, in the event of an accident due to the defendant's negligence, bystanders may come to the rescue, and as such, were owed a duty of care. Injury by shock to such a (physically unharmed) bystander was also reasonably foreseeable. 
+
+
+NAME Boumedien v Delta Display
+COURT EWCA
+YEAR 2008
+CITATION Boumedien v Delta Display Ltd [2008] EWCA Civ 368
+CATEGORY Psychiatric Harm; Primary Victimhood;
+FLAGS Traffic Accident; Trying it on
+SUMMARY The claimant, asleep downstairs, when the defendant crashed his car into the claimant's garden wall, and some debris hit the house. The claimant was awoken by this.
+HELD Doubtful whether he reasonably thought he was at risk of serious injury on the facts, having merely been _woken up_ by what happened.
+
+
+NAME Monk v Harrington 
+COURT EWHC
+YEAR 2008
+CITATION Monk v PC Harrington Ltd [2008] EWHC 1879
+CATEGORY Psychiatric Harm; Primary Victimhood
+FLAGS Trying it on
+SUMMARY During construction of Wembley stadium, a platform collapsed. The claimant _heard_ about the accident, rushed to the scene, helped, and suffered psychiatric damage as a result.
+HELD He had not believed he was putting himself in danger, or that if he did, he did not do so reasonably. Therefore the claim failed. 
+
+
+#Cases about secondary victimhhood:
+
+NAME McFarlane v Caledonia (no 1)
+COURT EWCA
+CITATION McFarlane v EE Caledonia Ltd [1994] 2 All ER 1
+CATEGORY Psychiatric Harm; Secondary Victimhood; Nature of Relationship
+FLAGS Key; Important; EPLR; Disaster
+SUMMARY The claimant worked on the Piper Alpha rig, but was aboard a support boat nearby at the time of the disaster. He saw his friends, engulfed in flames, jumping to their deaths. He claimed he should be exempt from the need to demonstrate a close tie of love and affection.
+HELD In the circumstances, it was not reasonably foreseeable that the claimant and other off-duty workers aboard support vessels would suffer psychiatric harm. 
+HELD There's also a difficulty, the court mused, in knowing where to draw the line when assessing what is _exceptionally horrific_. Who, it pondered, should be the judge?
+HELD The answer to that particular rhetorical question may not have been what they thought it was. 
+
+
+
+NAME Bourhill v Young
+YEAR 1942
+COURT UKHL  
+CITATION Bourhill v Young [1942] 2 All ER 396
+CATEGORY Psychiatric Harm; Secondary Victimhood; Nature of Relationship
+FLAGS Important; Amusing; EPLR
+SUMMARY A woman described as a _fishwife_ saw not the aftermath of a fatal accident, but a pool of blood in the road after the body had been removed.
+SUMMARY She, heavily pregnant, went into labour.
+HELD No duty of care owed by a motorcyclist or other road user to a member of the public who might see _not even the aftermath_ of an accident caused by his negligence.
+TRIVIA _Fishwife_ may not, in 1942, have been quite such an astonishingly insulting way of describing someone as it is now.
+
+NAME McLoughlin v O'Brian
+COURT UKHL
+YEAR 1982
+CITATION McLoughlin v O'Brian [1982] 2 All ER 298
+CATEGORY Psychiatric Harm; Secondary Victimhood; Necessity of Proximity
+FLAGS Criticised; EPLR; Floodgates
+SUMMARY A claimant had been told of a nasty accident in which her child had been killed and other members of her family seriously injured, shortly after it occurred. She rushed ot the hospital, where the victims were still in their grimy, torn, bloody clothes, etc. Claimed that this should count as the _immediate aftermath_.
+HELD In the circumstances of having the victims in hospital _still dirty and bloody_, the claim of secondary victimhood was to be upheld. 
+HELD Lord Wilberforce: 'As regards proximity to the accident, it is obvious that this must be close both in time and space.'
+
+NAME Taylor v A Novo
+COURT EWCA
+YEAR 2013
+CITATION Taylor v A Novo Ltd (UK) [2013] EWCA Civ 194 
+CATEGORY Psychiatric Harm; Secondary Victimhood; Necessity of Proximity
+SUMMARY The claimant's mother had been injured due to the defendant's negligence. The claimant had not seen the accident or its aftermath. But three weeks later, the mother collapsed and died at home, which the claimant _did_ witness. 
+HELD The passage of time between the negligence and the death, three weeks, meant that the claimant could not be said to have witnessed the aftermath, and to make the defendant liable for the psychiatric harm would require a very significant extension of the law.
+
+NAME Hambrook v Stokes
+COURT EWCA
+CITATION Hambrook v Stokes Bros [1925] 1 KB 141 
+CATEGORY Psychiatric Harm; Secondary Victimhood; Necessity of First-Hand Experience
+FLAGS Criticised; Development; Amusing; EPLR; Traffic Accident
+SUMMARY A lorry parked on a hill; a child playing in the street...
+SUMMARY The claimant's wife hadn't seen the accident, but had heard _about_ it. She suffered (it was claimed) so much fright and anxiety that she died. But not before she'd been to the races. The husband sued for _loss of her services_, which would only succeed if she had been the victim of a tort.
+HELD The claimant's wife hadn't seen the accident with her own unaided senses, so his suit for _loss of his wife's services_ failed.
+
+
+NAME Liverpool Womens Hospital v Ronayne
+COURT EWCA
+YEAR 2015
+CITATION Liverpool Womens Hospital NHS Foundation Trust v Ronayne [2015] EWCA Civ 588
+CATEGORY Psychiatric Harm; Secondary Victimhood; Necessity of Shocking Event
+FLAGS EPLR
+SUMMARY Claimant's wife caused to be seriously ill by negligently-conducted surgery. Went to see his wife, saw a couple of ‘particularly horrific' events/incidents.
+SUMMARY He saw his wife immediately before a subsequent emergency surgery (necessitated by the first, which was negligently-conducted). Wife connected up to various drips, lifeglugs, etc.
+HELD There had been too many events, and what he had seen had not been _exceptionally horrific_ according to the ordinary meanings of those words.
+COMMENTARY This reveals the state of the law on psychiatric harm as arbitrary and capricious.
+
+NAME Psychiatric Harm - Analysis of Law
+TYPE Concept
+SUMMARY The consensus is that this corner of the law is a dog's breakfast of arbitrariness. 
+SUMMARY *Lord Steyn*: it ought not be easy to sue in this area -- it costs a lot of time and expense to establish psychiatric harm on medical evidence. Litigation, he says, is an _unconscious_ disincentive to rehabilitation.
+SUMMARY He's basically just having a good old-fashioned psychiatry-doubting _reckon_, isn't he.
+SUMMARY There is a (private member's) _Negligence and Damages Bill 2016_, which is unlikely to make it.
+

@@ -1,0 +1,111 @@
+
+NAME Third Party Liability
+CATEGORY Third Party Liability
+TYPE Concept
+SUMMARY There are two means by which a *third party* may be liable for a fiduciary's breach of duty --
++|Knowing Receipt|
+@@For which, see at least |Baden| and |BCCI v Akindele|.
++|Dishonest Assistance|
+@@Margaret Carran insists the leading case is |Twinsectra| not |Tan|; but it's probably |Starglade v Nash|, following |Eurotrust| back to |Tan|.
+SUMMARY Good authority for this taxonomy is is |Barnes v Addy|.
+
+NAME Knowing Receipt
+AKA Unconscionable Receipt
+TYPE Concept
+CATEGORY Fiduciary Duties; Knowing Receipt
+CATEGORY Third Party Liability
+SUMMARY A third party receives something where he has _knowledge_, of which |Baden| established five fuzzy degrees, or, in |Armstrong v Winnington|, _unconscionability_. In commercial situations, |Akindele| confirms 1-3 will be enough to establish the claim; in other situations, 1-5.
+SUMMARY *Elements*
++*Disposition of Property in Breach of Trust or Fiduciary Duty*
++*Beneficial receipt* 
+@@That the receipt is beneficial is rebuttably presumed by the fact of transfer -- |Agip Africa v Jackson|. which established that money paid into an overdrawn account _is_ received beneficially. Approved in |MT Realisations v Digital Equipment Co|.
++*Knowledge*.
+@@Since |Armstrong v Winnington| this is also *unconscionability*. 
+@@The spectrum of |Baden|, disapproved of in |Akindele|, nevertheless holds. 1-3 in a commercial context, 1-5 otherwise. 
+@@This excuses bona fide donees and purchasors. 
+SUMMARY |Knowledge for Knowing Receipt| is a live issue in most of the cases. 
+@|Akindele| leads, but |Armstrong v Winnington| comes a close second.
+
+NAME Knowing Receipt - Knowledge
+AKA Knowledge for Knowing Receipt
+TYPE Concept
+CATEGORY Third Party Liability; Knowing Receipt
+SUMMARY In |Baden v Soc Gen|, Peter Gibson J, set out what have become known as *the five degrees of knowledge*. In decreasing order of certainty and difficulty to establish in court.
+SUMMARY _They are_ --
++Actual *knowledge*.
++*Wilfully shutting one's eyes to the obvious*.
+@@You don't know, but you _know_, because the circumstances are screaming at you.
++Wilfully and recklessly *failing to make enquiries* an honest person would have made.
++Knowledge of circumstances which would *indicate the facts* to an honest and reasonable man.
++Knowledge of circumstances which would put such a man *on a course of inquiry*.
+SUMMARY *Which count?*
+/_All five?_
+@In the '50s in |Nelson v Larholt| Denning J found knowledge in the failure to go on a *path of inquiry* in fishy circumstances -- Baden *5*
+SUMMARY _Only the first three?_
+@In |Cowan de Groot v Eagle Trust|, knowledge would only be imputed when *Gross irregularity* was ignored -- Baden *3*. A similar ratio as as |Carl Zeiss v Herbert Smith|.
+@In |Re Montagu's Settlements|, a distinction was drawn between *notice* (which was not knowledge) and *knowledge* (which was).
+SUMMARY _Currently..._
+@The leading case is |BCCI v Akindele|, in which, even while doubting the utility of the |Baden| criteria, it was held that *1-5* are knowledge for non-commercial circumstances; but only *1-3* in commerce. 
+@|Armstrong v Winnington| purports to have reconciled the two, by seeing the test in terms of _unconscionability_ rather than knowledge.
+
+SUMMARY *Defences*
++*Change of Position* 
+@Only if the receipt was in good faith.
+@@|Lipkin Gorman v Karpnale| and |Ali v Al-Basri|, a bona fide purchaser without notice.
++*Inequitable result*
+@@|Re Diplock|
+@@|Phillip Collins v Davis| -- succeeded.
+
+
+
+
+---------------------- dishonest assistance -----------------------------
+
+
+NAME Dishonest Assistance
+TYPE Concept
+CATEGORY Third Party Liability
+CATEGORY Third Party Liability; Dishonest Assistance
+SUMMARY The issue is usually not whether there has been assistance, but whether there's been enough |dishonesty|. The current binding authority is _technically_ |Twinsectra| (EWCA), which added a subjective element to the objective measure of |Tan| (PC). However, |Tan| was preferred in |Eurotrust| (PC), which was followed domestically in |Starglade v Nash|. 
+SUMMARY *Elements*
++*Fiduciary duty or trust of property. 
++*Breach of duty by fiduciary or trustee.*
+@@Originally (|Barnes v Addy|) the _breach_ itself had to be dishonest, not just the assistance.
+@@ Removed to prevent dishonest assistance _failing_ when a fiduciary had been duped into the breach by the third-party, the fiduciary themselves having acted with probity.
+@@This is *strict liability* -- but the court has the power to excuse an innocent breach.
++*Assistance by the 3rd Party*, which cannot be *inaction*.
+@@A passive role is not enough. 
+/{Query -- money 'passively' arriving in an account, observed but left unmolested by the third party? Presumably as soon as he touches it, that would be enough?}
++*|Dishonesty|* of the third party.
+/Which party has the burden of proof is somewhat blurred.
+
+
+
+
+NAME Dishonesty for Dishonest Assistance
+AKA Dishonesty
+CATEGORY Third Party Liability; Dishonest Assistance
+TYPE Concept
+SUMMARY *Development*
+/_Firstly_ --
+@|Royal Brunei v Tan| (PC)
+@@_Dishonesty_ was necessary, rather than just _knowledge_. 
+@@Its test for dishonesty was *objective* --
+/_Were the actions dishonest by the standard of an honest and reasonable person in the same circs?_
+% _But_ --
+@|Twinsectra v Yardley| (EWCA)
+@@*Technically* the current binding _domestic_ authority according to Margaret Carran. 
+@@Lord Hutton added a *subjective* limb to |Tan| --
+@@ _Were the actions dishonest by the standard of an ordinary and reasonable person (as |Tan|) *and did they realise it was dishonest by that standard*, rather than by their own?_
+% _But then_ -- 
+@|Eurotrust| (PC) actively _disaffirmed_ the subjective component of |Twinsectra| and instead followed |Tan|. 
+@|Abou-Rahman v Abach| (EWCA) controversially followed |Eurotrust| rather than |Twinsectra|.  
+% _And then_ --
+@|Starglade v Nash| (EWCA)
+@@The court purported to have follow |Twinsectra| even as it asserted an understanding of dishonesty a _lot_ more like that of |Tan|.  
+@@It pulled this off by implying that the ultimate answer as to _what_ test should apply must _depend on the facts of the case_. {This sounds a lot like a liability without any legal certainty.}
+@@To avoid the difficulty of there being two objective standards of honesty, it held the _objective_ honesty of actions was to be measured against their setting. This allowed for 'sharp' but not dishonest business practice, which members of the public would swear blind was satan-worshippingly mendacious.
+
+
+
+

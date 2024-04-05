@@ -1,0 +1,214 @@
+NAME Product Liability
+TYPE Concept
+CATEGORY Product Liability; Principles
+SUMMARY There is generally *no liability* in tort for a product that *simply doesn't work*. Pure economic loss is _not_ something tort law is keen on remedying - that is for contract. Note Lord Atkin's speech in |Donoghue| referring to *physical injury* or *damage to property*. 
+SUMMARY The leading case on product liability of local authorities for pure economic loss is |Murphy v Brentwood|, which formally overruled |Anns v Merton|.
+SUMMARY Product liability aims to provide remedy in situations where a product bought or used by someone has caused damage to person or property.
+SUMMARY The common law principle that the manufacturer of a product owes a duty of care was established, of course, by |Donoghue v Stevenson|, but who counts a s consumer has broadened out since then - |Stennett v Hancock|.
+SUMMARY The burden for proving negligence of manufacture is with the _claimant_ - |Evans v Triplex|. But sometimes the _res ipsa loquitur_. 
+
+NAME Product Liability - Reading
+CATEGORY Product Liability
+SUMMARY ~*Essential*~
+SUMMARY Steele, _Tort Law_, Ch 15, pp.347-358.
+SUMMARY |Donoghue v Stevenson| - |Grant v Aus. Knitting Mills| - |Murphy v Brentwood| - |Consumer Protection Act 1987| - |A v National Blood Authority| - |Bogle v McDonald's| - |Pollard v Tesco|.
+SUMMARY ~*Additional*~
+SUMMARY D. Fairgrieve and G. Howells, _Rethinking Product Liability: A Missing Element in the European Commission_s Third Review of the Product Liability Directive_ (2007) 70 MLR 962<br> M. Mildred and G. Howells, _Comment on “Development Risks: Unanswered Questions”_ (1998) 61 MLR 570<br> M. Mildred, _Pitfalls in Product Liability_ [2007] Journal of Personal Injury Law 141<br> P. Shears, _The EU Product Liability Directive: Twenty Years On_ [2007] Journal of Business Law 884
+SUMMARY |Stennett v Hancock| - |Evans v Triplex Safety Glass| - |Vacwell Engineering v BDH| - |Dutton v Bognor Regis| - |Junior Books v Vietchi| - |D&F Estates v CoE | - |Murphy v Brentwood| - |Aswan Engineering v Lupdine| - |Consumer Protection Act 1987| - |Worsley v Tambrands| - |Richardson v LRC Products| - |Abouzaid v Mothercare| - |A v National Blood Authority| - |Bogle v McDonald's| - |Pollard v Tesco| - |Piper v JRI|.
+
+
+
+NAME Stennett v Hancock 
+YEAR 1939
+COURT EWHC
+CITATION Stennett v Hancock [1939] EWHC 2 All ER 578
+CATEGORY Product Liability
+FLAGS Important; Development; Criticised
+SUMMARY The claimant was a member of the public, struck by a wheel which came off a lorry, following negligent repair by the defendant.  
+HELD Manufacturers and repairers could potentially owe a duty of care not just to _consumers_, but under an extension of the |Donoghue| principle, to anyone who could be _affected_ by the product.HELD The owners of the lorry weren't to blame, as they'd taken reasonable care in preparing it, having had it maintained by people whose competence could reasonably be assumed. See also |Haseldine v Daw|.
+
+NAME Evans v Triplex Safety Glass 
+AKA Evans v Triplex
+COURT EWHC
+YEAR 1939
+CITATION Evans v Triplex Safety Glass [1936] EWHC 1 All ER 283
+CATEGORY Product Liability; Proving Manufacturer's Negligence
+FLAGS Important
+SUMMARY A windscreen manufactured by the defendant suddenly shattered and injured the claimants, who were in the car.
+HELD The burden of proof for proving negligence in manufacture lies with the claimant, but the court may be quick to infer negligence. 
+HELD The claim failed on the facts, as it could easily have been, e.g., the negligence of the fitter.
+
+
+NAME Grant v Aus. Knitting Mills
+COURT UKPC
+YEAR 1936
+CITATION Grant v Australian Knitting Mills [1936] UKPC AC 85
+CATEGORY Product Liability; Proving Manufacturer's Negligence
+FLAGS Amusing; EPLR
+SUMMARY The claimant brought a pair of long-johns, and wore them for _a whole week before washing them_. This left him with dermatitis, and because, he claimed, of the presence of excess sulphite.
+HELD Although the claimant had contributed to his condition by wearing the garment for a _week_, the claim succeeded.
+
+NAME Vacwell Engineering v BDH
+AKA Vacwell v BDH Chemicals
+YEAR 1969
+COURT EWCA
+CITATION Vacwell Engineering v BDH Chemicals [1969] EWCA 3 All ER 1681 
+CATEGORY Product Liability; Manufacturer's Duty
+FLAGS Important; Amusing; Denning
+SUMMARY The danger of explosion when one of the defendant's chemical products, sold to the claimant, came into contact with water, was known about but not widely mentioned in the textbooks. When the claimant came to wash the labels off the bottles, there was an explosion. 
+HELD A manufacturer has a duty to warn a claimant of the dangers of its products.
+HELD The defendant had been negligent in the thoroughness of the research of the properties of the chemical it sold: it ought to have warned the claimant.
+
+NAME Dutton v Bognor Regis
+CITATION Dutton v Bognor Regis Urban District Council [1972] EWCA 1 QB 373
+FLAGS Overruled; Denning
+COURT EWCA
+YEAR 1972
+CATEGORY Product Liability; Manufacturer's Duty; Product Liability for Pure Economic Loss; Local Authorities
+SUMMARY A house had been put up subject to the defendant's bylaws, which required the defendant carry out a survey of the foundations. This had been carried out negligently. 
+HELD The principle of |Donoghue| as expanded in later cases applies to real-property. Obiter in |Anns v Merton|. 
+
+NAME Junior Books v Vietchi
+AKA Junior Books
+CITATION Junior Books v Vietchi Ltd [1983] UKHL 1 AC 520
+YEAR 1983
+COURT UKHL
+FLAGS Criticised
+CATEGORY Product Liability; Manufacturer's Duty; Product Liability for Pure Economic Loss
+SUMMARY The claimant hired a firm to put down a floor in their factory. The defendants had the work subcontracted to them - so on discovering the defectiveness of the floor, the claimant had no remedy in contract. There was no personal injury, and no damage to property.
+HELD Where the relationship between parties is close enough, there _is_ a duty to avoid causing pure economic loss. 
+COMMENT This is the high-water mark pure economic loss in product liability, and is criticised as too claim-happy, and as tort riding rough-shod over privity of contract. But isn't that what happens in |Donoghue|?
+
+NAME D&F Estates v CoE 
+COURT UKHL
+YEAR 1989
+CITATION D&F Estates Ltd v Church Comrs for England [1989] UKHL AC 177
+FLAGS Leading
+CATEGORY Product Liability; Manufacturer's Duty; Product Liability for Pure Economic Loss
+SUMMARY The claimant sued for defective plastering in flats built by a subcontractor of the defendant.  
+HELD There was a remedy in contract, so the claim for pure economic loss failed. 
+
+NAME Murphy v Brentwood
+YEAR 1991
+COURT UKHL
+FLAGS Criticised; EPLR
+CATEGORY Product Liability; Manufacturer's Duty; Product Liability for Pure Economic Loss; Local Authorities
+CITATION Murphy v Brentwood District Council [1991] UKHL 1 AC 398. 
+SUMMARY The pattern of facts was the same as |Dutton v Bognor Regis| and, approximately, |Anns v Merton| - negligently-inspected foundations which turned out to be faulty.
+HELD Explicitly overruling |Anns v Merton|, a local authority does *not* owe a duty to prevent pure economic loss in real property.
+HELD Lord Oliver - there is a general duty of care not to inflict physical injury, but not pure economic loss.
+
+
+NAME Aswan Engineering v Lupdine
+YEAR 1987
+COURT EWCA
+CITATION Aswan Engineering v Lupdine [1987] EWCA 1 WLR 1
+CATEGORY Product Liability; Manufacturer's Duty; One Product Damaging Another
+FLAGS Key; Leading
+SUMMARY A waterproofing product bought by the claimant had been stored in plastic containers outside in the sun - they melted. The claim was that the _containers_, as opposed to the product itself, were defective.
+HELD The container is just as much a part of the product as what it contains, and therefore subject to claims under product liability.
+HELD But the containers were not, in fact, defective, so the claim failed. 
+HELD Obiter - there would be a cause of action, for a corked bottle of wine, against the manufacturer of the _cork_.
+
+NAME Consumer Protection Act 1987
+TYPE Statute
+LEGILINK http://www.legislation.gov.uk/ukpga/1987/43
+WIKILINK https://en.wikipedia.org/wiki/Consumer_Protection_Act_1987
+AKA CPA 1987
+CATEGORY Product Liability; Consumer Protection; CPA 1987; Statutes
+FLAGS EPLR
+SUMMARY Part 1 came into force in March 1988, giving effect (more or less word-for-word) an EU directive without affecting existing rights in the common law.
+SUMMARY ~Who can claim?*~ 
+/->-Anyone who suffers damage because of a defective product.
+SUMMARY ~*For what type of loss?*~
+/->-*Personal injury* and property damage to the tune of *£275 or more*. But not just the product _not working_.
+SUMMARY ~*On whom is the liability imposed?*~
+/->-Producers, including manufacturers of components of larger products. Badge-engineered product producers *purporting to be manufacturers*. Importers into the EU. A supplier who refuses to comply with a request to name, within a reasonable time, the person supplying the product, the next link up the distribution chain. 
+SUMMARY ~*Definitions*~
+/->-*S1(2)* A *product* - 'goods or _electricity... including products comprised in other products, either as a component or raw material, or otherwise.'
+/->-*S3* A product is *defective* if - 'the safety is not such as persons generally are entiteld to expect (|Pollard v Tesco|),' in *all circumstances incuding*: 'the manner in which and purposes in which product has been marketed (incl. *packaging*, *warnings* and *instructions*) - and - 'what might reasonably be expected to be done with the product' - and - 'the time at which the product was supplied.' 
+SUMMARY It is, of course, for the claimant to prove defectiveness 
+SUMMART *General Defences* 
+/->-Are provided by *S4(1)*:
+/->-(a) defect the result of compliance with statute or EU law; (b) proceedings not started against the supplier of the product (i.e., you couldn't thieve something, be injured by it then sue _under the act_.); (c) supply _not for profit,_ i.e., gifts: note that, e.g., cakes sold in a fête would not be exempt; (d) no defect at relevant time; (e) state of technical knowledge at time of development was not such as producer would be expected to know about defect (unsuccessful in |A v National Blood Authority|); (f) misuse in a subsequent product.
+
+
+NAME Worsley v Tambrands
+YEAR 2000
+COURT EWHC
+CITATION Worsley v Tambrands [2000] EWHC PIQR 95 
+CATEGORY Product Liability; Consumer Protection; CPA 1987; CPA Defectiveness
+SUMMARY The claimant had used a tampon made by the defendant. She got _toxic shock syndrome_ through the staphyllococal overgrowth that the use of tampons can cause, and was hospitalized. She argued the packaging and leaflet was designed in such a way as to draw insufficient attention to the leaflet and its warnings, and that as such the product was defective. 
+HELD A clear message on the back of the box referred to the leaflet containing the warning. The product was not, therefore, defective. 
+COMMENT *PIQR* is *P*ersonal *I*njuries and *Q*uantum *R*eports.
+
+NAME Richardson v LRC Products
+YEAR 2000
+COURT EWHC
+FLAGS Important
+CITATION Richardson v LRC Products Ltd [2000] EWHC PIQR 164 
+CATEGORY Product Liability; Consumer Protection; CPA 1987; CPA Defectiveness
+SUMMARY The claimant became pregnant when her husband's condom split. 
+HELD The defendant had never claimed the condom would never fail; the damage, if there was any, was unlikely to be factory damage.
+
+NAME Abouzaid v Mothercare
+YEAR 2001
+COURT EWCA
+FLAGS Important; Amusing
+CITATION Abouzaid v Mothercare [2001] EWCA TLR WL 1918530
+CATEGORY Product Liability; Consumer Protection; CPA 1987; CPA Defectiveness
+FLAGS Important
+SUMMARY The claimant's mother had bought a sort of fleece-lined sleeping back attachment called _'cozytoes'_ for his pushchair, which was fastened by a system of elasticated straps. When helping his mother attach it, he was hit in the eye by a fastener catapaulted by a strap.
+HELD The design of elasticated straps, hazardous to eyes, was defective without a warning that users should _stand well back_.
+
+
+NAME A v National Blood Authority
+YEAR 2001
+COURT EWHC
+FLAGS Leading; EPLR
+CITATION A and others v National Blood Authority [2001] EWHC 3 All ER 289
+CATEGORY Product Liability; Consumer Protection; CPA 1987; CPA Defectiveness; CPA Defences
+SUMMARY Blood products were collected by defendant, some of which they _knew_ to be infected wiht Hepatitis C., but there was no way of screening. The claimant was infected, and sued under the |CPA 1987|.
+HELD The product was defective, and that it was not relevant that the harm not could be avoided. They had not warned the public, who were entitled to expect that such products were free from infections. Defence (e) under the CPA, _development risks_, was ineffective here, although the CJEU later criticised this decision - _Commission v UK C-300/95 [1997]_.
+COMMENT The decision was so long it needed an _index_. 
+
+NAME Bogle v McDonald's
+COURT EWHC
+YEAR 2002
+FLAGS Leading; Amusing; EPLR
+CITATION Bogle v McDonald's Restaurants Ltd [2002] EWHC 490
+CATEGORY Product Liability; Consumer Protection; CPA 1987; CPA Defectiveness; Trying it on
+SUMMARY The 36 claimants had all been injured in some way by _hot drinks_ served by the defendant. Some had spilt the drinks on themselves, some had had drinks spilt on them. They all claimed the coffee was too hot.
+HELD Providing the drinks were supplied with securely-fitted lids, the product was not defective.
+HELD People are entitled to expect restaurants, etc, would take precautions against burning people, but not to the point they're denied the ability to buy hot drinks. That would be utter madness. 
+
+NAME Pollard v Tesco
+COURT EWCA
+YEAR 2006
+CITATION Pollard v Tesco Stores [2006] EWCA Civ 393
+FLAGS Leading; Important; EPLR
+CATEGORY Product Liability; Consumer Protection; CPA 1987; CPA Defectiveness; Children
+SUMMARY The claimant, small child, had drunk from a bottle containing dishwasher powder, which poisoned him. The bottle was fitted with child-resistant cap, but not one conforming to the British Standard rating. Claimed that the defendant, having elected to fit such a cap, ought to have fitted the industry standard cap.
+HELD Under the |CPA 1987|, the test for presence of a defect was one of _public expectation_. 
+HELD On this, the claim failed: the public would expect the bottle to be more difficult to open than usual, but would not have specific expectations about meeting, e.g., BS-standards.
+
+
+NAME Piper v JRI 
+YEAR 2006
+COURT EWCA
+CITATION Piper v JRI (Manufacturing) Ltd [2006] EWCA Civ 1344
+CATEGORY Product Liability; Consumer Protection; CPA 1987; CPA Defences
+FLAGS Important
+SUMMARY The claimant's hip implant, made by the defendant, broke in two.
+HELD The claimant had not proved the implant was defective at time of supply.
+
+
+--END--
+NAME Commission v UK C-300/95 [1997]
+YEAR 1997
+COURT CJEU
+CITATION Commission v UK C-300/95 [1997] All ER (EC) 481
+CATEGORY Product Liability; Consumer Protection; CPA 1987; CPA Defences
+SUMMARY TODO
+HELD TODO
+

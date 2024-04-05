@@ -1,0 +1,104 @@
+META-SUBJECT EU
+
+NAME Law Making
+TYPE Concept
+SUMMARY N.B. |EU Policy|, |Competence| and |Conferral, Subsidiarity and Proportionality|, 
+
+NAME EU Policy
+TYPE Concept
+SUMMARY TODO p20
+
+NAME Competence
+TYPE Concept 
+SUMMARY TODO p26
+
+NAME Conferral, Subsidiarity and Proportionality
+TYPE Concept
+AKA Conferral
+AKA Subsidiarity
+AKA Proportionality
+EUROPALINK Art 5 TEU http://www.lisbon-treaty.org/wcm/the-lisbon-treaty/treaty-on-european-union-and-comments/title-1-common-provisions/9-article-5.html
+SUMMARY ~*Conferral of Competence*~ - |Art 5 TEU|
+/ provides this, the idea that the union *only has legal competence* to make law *to attain objectives set out in the treaties*. Competence to do everything else *not* set out in the treaties *remains with the member states*. 
+SUMMARY Competence can be conferred *exclusively* or *shared* with the member states - |Art 2 TFEU|.
+/*Exclusive* - |Art 3 TFEU| - *customs*, *competition rules* for the functioning of the internal market, *monetary policy* for the Eurozone, *overfishing*, *common commercial policy*. 
+/*Shared* -  |Art 4 TFEU| - *internal market*, *social policy* where provided for by TFEU, economic, social and territorial 'cohesion', ag-n-fish, environment, transport, consumer protection, energy, *freedom, security and justie*, *public health* where provided for by TFEU.  
+SUMMARY ~*Subsidiarity*~ - |Art 5 TEU|
+/In areas not within the Union's *exclusive* competence, it will act *only* if the aims *cannot be achieved better* by the member states. {Which implies there are on which the union *but not the member states* have competence; mainly trade.}
+SUMMARY ~*Proportionality*~ - |Art 5 TEU|
+/In acting, the Union must *not go beyond* what's *necessary* to achieve the treaty goal.
+
+NAME Law-making - Further Reading
+TYPE Reading
+SUMMARY ~*Further Reading*~
+/P. Craig, _Integration, Democracy, and Legitimacy_ in P. Craig and G. de Búrca (eds) The Evolution of EU Law (OUP, 2011, 2nd ed) 13.
+/Craig, P., _Institutions, Power, and Institutional Balance_ in P. Craig and G. de Búrca (eds) The Evolution of EU Law (OUP, 2011, 2nd ed) 41.
+/A. Arnull and D. Wincott (eds), Accountability and Legitimacy in the European Union (2002, OUP)
+/G. Davies, _Subsidiarity: The Wrong Idea, in the Wrong Place, at the Wrong Time_, 43 CMLRev (2006) 63
+/G. Bermann, _Taking Subsidiarity Seriously: Federalism in the European Community and the United States_, (1994) 94 Columbia Law Review 331
+/A. Estella, The Principle of Subsidiarity and its Critique (2002, OUP); reviewed by P. Syrpis, _In Defence of Subsidiarity_, 24 OJLS (2004) 323
+/M. Kumm, _Constitutionalising Subsidiarity in Integrated Markets: The Case of Tobacco Regulation in the European Union_, 12 ELJ (2006) 503
+/Weatherill, S., _Better Competence Monitoring_ 30 ELRev (2005) 23
+/Editorial Comments, _Taking (the limits of) competences seriously_, 37 CMLRev (2000) 1301.  
+/*Dashwood*, _The Relationship between the Member States and the European 
+/Union/European Community_, 41 CMLRev (2004) 355
+/*Dashwood*, _The Limits of European Community Powers_, (1996) 21 ELRev 113.
+
+NAME Art 5 TEU
+TYPE Treaty
+LINK Art 5 TEU http://www.lisbon-treaty.org/wcm/the-lisbon-treaty/treaty-on-european-union-and-comments/title-1-common-provisions/9-article-5.html
+SUMMARY 1. The *limits of Union competences* are governed by the *principle of |Conferral|. The *use of Union competences* is governed by the principles of |Subsidiarity| and |Proportionality|.
+SUMMARY 2. Under the principle of |Conferral|, the Union shall act only within the limits of the competences conferred upon it by the Member States in the Treaties to attain the objectives set out therein. Competences not conferred upon the Union in the Treaties remain with the Member States. 
+/{Note the logical redundance of the 2nd sentence with the 1st.}
+SUMMARY 3. Under the principle of |Subsidiarity|, in areas which do not fall within its exclusive competence, the *Union shall act only* if and insofar as the *objectives* of the proposed action *cannot be sufficiently achieved by the Member States*, either at central level or at regional and local level, but can rather, by reason of the scale or effects of the proposed action, be better achieved at Union level. 
+/The institutions of the Union shall apply the principle of |Subsidiarity| as laid down in the Protocol on the application of the principles of subsidiarity and proportionality. National Parliaments ensure compliance with the principle of subsidiarity in accordance with the procedure set out in that Protocol.
+SUMMARY 4. Under the principle of |Proportionality|, the *content and form* of Union action *shall not exceed* what is *necessary to achieve the objectives* of the Treaties.
+/The institutions of the Union shall apply the principle of proportionality as laid down in the ...
+SUMMARY*Protocol on the Application of the Principl es of Subsidiarity and Proportionality*.
+/Gives guidance on determining whether a measure is proportional, consideration of these factors:
+/The issue having a _transnational_ aspect with which states on their own would not be able adequately to deal; if, were they to do so would be for them to act in conflict with their treaty obligations; if action at Union level would produce a clear economy of scale. 
+
+
+NAME Art 4 TEU
+TYPE Treaty
+LINK Art 4 TEU http://www.lisbon-treaty.org/wcm/the-lisbon-treaty/treaty-on-european-union-and-comments/title-1-common-provisions/5-article-4.html
+SUMMARY 1. In accordance with Article 5, *competences not conferred upon the Union in the Treaties remain with the Member States*. {NB. Implication here that once ceded, competence *exclusively* with Union}
+SUMMARY 2. The Union shall *respect the equality of Member States before the Treaties as well as their national identities*, inherent in their fundamental structures, political and constitutional, inclusive of regional and local self-government. *It shall respect their essential State functions*, including *ensuring the territorial integrity* of the State, *maintaining law and order* and *safeguarding national security*. 
+/In particular, *national security remains the sole responsibility of each Member State*.
+SUMMARY 3. Pursuant to the *principle of sincere cooperation*, the Union and the Member States shall, in full mutual respect, assist each other in carrying out tasks which flow from the Treaties.
+/The Member States shall take any appropriate measure, general or particular, to ensure fulfilment of the obligations arising out of the Treaties or resulting from the acts of the institutions of the Union.
+/The Member States shall facilitate the achievement of the Union's tasks and refrain from any measure which could jeopardise the attainment of the Union's objectives.
+
+
+NAME Art 2 TFEU
+TYPE Treaty
+SUMMARY 1. When the Treaties *confer on the Union exclusive competence* in a specific area, *only the Union may legislate* and adopt legally binding acts, the *Member States* being able to do so themselves *only if so empowered by the Union or for the implementation of Union acts*.
+SUMMARY 2. When the Treaties confer on the Union a competence *shared with the Member States* in a specific area, the Union and the Member States may legislate and adopt legally binding acts in that area. The *Member States shall exercise their competence to the extent that the Union has not exercised its competence*. The Member States shall again exercise their competence to the extent that the *Union has decided to cease exercising its competence*.
+SUMMARY 3. The Member States shall coordinate their economic and employment policies within arrangements as determined by this Treaty, which the Union shall have competence to provide.
+SUMMARY 4. The Union shall have competence, in accordance with the provisions of the Treaty on European Union, *to define and implement a common foreign and security policy*, including the progressive framing of a common defence policy.
+SUMMARY 5. In *certain areas* and under the conditions laid down in the Treaties, the *Union shall have competence to carry out actions to support, coordinate or supplement the actions of the Member States*, without thereby superseding their competence in these areas. It can also 
+
+
+NAME Ordinary Legislative Procedure
+TYPE Concept
+SUMMARY This provided for by Art 294 TFEU, and used to be called _co-decision_.
+SUMMARY 1. |Commission| sends proposal to |Council| and |Pariament|.
+/2. *First reading*, from which Parliament proposes (or not) amendments to Council. *If there's agreement, the proposal becomes law*. If not, Council explains itself to Parliament.
+/3. *Second reading*, within three months. Parliament can *kill the proposal* by majority, approve it, or suggest further amendments by majority, sent to |Council| *and* |Commission|.
+/4. *Conciliation*, in which a committee composed of the Council and *an equal number* of MEPs, who are to produce a *joint text*. This has to be QMV-approved by the Council and majority-approved by committee's MEPs. If there's no agreement after six weeks, the proposal dies.
+/5. *Third reading*, which approves or rejects.
+SUMMARY At each stage, parliament can veto - but it rarely does, as they know ways would be found to circumvent their involvement and influence in the legislative process if they did.
+/Every amendment from Council or Parliament *must be approved by Commission*. Without this, the amendment can still fly, but only with the Council acting *unanimously*.
+SUMMARY See |Voting in the Council|.
+
+NAME Voting in the Council
+AKA Luxembourg Accord; Luxembourg Compromise
+TYPE Concept
+WIKILINK Voting in the Council https://en.wikipedia.org/wiki/Voting_in_the_Council_of_the_European_Union
+WIKILINK Luxembourg Compromise https://en.wikipedia.org/wiki/Luxembourg_compromise
+SUMMARY There’s a fuck-off big *but* attached to the |Ordinary Legislative Procedure|, because the Council tries to presen Council voting implies *feuding* and *bad blood*. Like Eurovision, except about things that might actually matter.
+SUMMARY So voting is often an orgy of horse-trading to nod things through, a riot of unprincipled scratching of each others backs and exchanging _quid_ for _quo_.
+SUMMARY _It wasn't designed like this._ The Council was founded to work on unanimity. But then there was the *Empty Chair Crisis* (when that petulent, prancing, clucking little thorn-in-the-side half-entity _De Gaulle_ decided  to fuck things up by empty-chairing Council meetings until he got his own way), the *Luxembourg Accord* 1996, AKA the *Luxembourg Compromise*, provided that when a member state *felt strongly* that an issue was important for its national interest, the requirement for adoption would be *unanimity*. 
+/2nd para of Luxembourg Compromise: French position is that these negotiations to arrive at a consensus should be indefinite.
+/3rd para: the other states disagree.
+/4th para: the functioning of the legislature will continue as before. 

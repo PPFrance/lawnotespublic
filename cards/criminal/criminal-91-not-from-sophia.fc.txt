@@ -1,0 +1,36 @@
+NAME Dolby
+CITATION Dolby [1982]
+CATEGORY Unlawful Act Manslaughter
+FLAGS Historical
+HELD |Causation| was only satisfied in |Unlawful Act Manslaughter| if D's act was directed against V.
+
+NAME Goodfellow 
+CITATION Goodfellow [1986]
+CATEGORY Unlawful Act Manslaughter
+FLAGS Current Law
+SUMMARY D wanted a new council house, burnt down his old one. What he didn't know was that V was still inside.
+HELD In |Unlawful Act Manslaughter|, |causation| is satisfied simply by absence of a |novus actus interveniens|. The unlawful act does not itself need to be directed against the victim; it merely has to be caused by the defendant.
+
+NAME Bateman
+CITATION Bateman (1925) 19 Cr App R 8
+CATEGORY Gross Negligence Manslaughter
+HELD In |Gross Negligence Manslaughter|, the liability is a function of the negligence rather than the harm, as it is in tort. The question for the jury is the negligence showed such disregard for the life and safety of others as to _goes beyond compensation, and amounts to a crime against the state._  Liberally used by Lord McKay in |Adomako|.
+
+
+NAME DPP v Smith (1961)
+CATEGORY Non-Fatal Offences; GBH
+HELD Grievous Bodily Harm means "really serious harm".
+
+NAME Donovan
+CITATION R v Donovan (1934)
+CATEGORY Non-Fatal Offences; ABH
+HELD For ABH, the injury has to be "more than merely transient and trifling."
+
+NAME Bollom
+CITATION R v Bollom (2003)
+CATEGORY Non-Fatal Offences; GBH
+HELD Harm that would be ABH in one person can be GBH in another. V's special characteristics (age, state of health) are to be taken into account when considering whether the harm is ABH or GBH.
+
+NAME AG Ref no. 6 of 1980
+SUMMARY Duelling schoolboys. But with fists, and in the street. Both consented. V bruised, bleeding nose. D charged with common assault/battery.
+HELD Lord Lane, discussing consent and non-fatal offences: 'no Queensbury rules here - not in the public interest to allow people to let people try to cause each other ABH for no good reason. So most fights are unlawful, but public policy exceptions apply, such as properly conducted games and sports, on which must pains must be taken to exclude. Or necessary chastisement. Or reasonable surgery.'

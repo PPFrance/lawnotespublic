@@ -1,0 +1,359 @@
+
+NAME Charities 
+TYPE Concept
+CATEGORY Charities
+SUMMARY The 160,000 charities currently registered with the Charities Commission collectively rake in ~£52bn pa. Not just for |charitable trusts| -- any flavours of company or partnership can have this status.
+SUMMARY ~*Legal Basis*~
+/The |Charities Act 2006| and the basically identical |Charities Act 2011| are both consolidating statutes which explicitly declare the continuing validity and applicability of the existing law.
+SUMMARY ~*Advantages*~
+/There are both *legal* advantages, but more significantly, *financial* ones.
+SUMMARY *Legal* 
+@Although a charitable trust must have |certainty of intention| (just the same as a |private express trust|), |certainty of object| is *not* required.
+@The |rule against perpetuity| and inalienability of land does *not* apply.
+@@I.e., by contrast with the 125-year maximum lifetime of a private express trust, a charity can continue indefinitely.
+/ {<Virgo cites King's Canterbury as the oldest charity, saying it was founded 1500 years ago. In doing so he makes himself a trustee of their marketing puff. It would be more correct to say that in 586 (about _14_ hundred years ago), an abbey was founded at which there was _some teaching_, explicit evidence for which is not found before the C9th.>}
+@Although the maximum number of trustees for a trust of land is ordinarily _four_  (&g&S34 Trustee Act 1925&g&), no such limit is imposed on a charitable trust holding land.
+@Although the trustees of PETs must in general act *unanimously*, only a *bare majority* is needed for a CT. the requirement is only majority.
+@The |Cy-près Doctrine|. Once given to a charity, then should it fold, or be unable to fulfil its obligation for some other reason, then the funds _may_ not _result back_ to the settlor(s)/testator(s), but instead be transferred by the courts to another charity.
+SUMMARY *Financial Advantages*
+@Exemption from _many_ forms of taxation, e.g., capital gains tax -- but not _automatic_ exemption from local business rates.
+@Can reclaim tax from the IR.
+@In the '60s, Gift Aid was a useful way of avoiding income tax. A salary of £100K, after tax, would be more like £40K. But if you gave £60K to charity on condition they'd *give the majority back* (a tax-exempt transfer), the treasury would far less.
+SUMMARY *Reputational Advantages*
+@Reputation, which, for instance, can make it easier to raise funds. |Independent Schools Council v Charity Commission|.
+
+SUMMARY ~*Disadvantages*~
+@The quid pro quo for the above is *particularly burdensome administrative obligations*.
+@Part 8 of the |Charities Act 2011| imposes strict duties on trustees of charities to prepare accounts, prepare for audit, and report to the Charity Commission; failure in such regards carries criminal penalties.
+
+
+
+
+
+NAME Charity - Definitions
+TYPE Concept
+CATEGORY Charities
+LINK Charities Act 2011 http://www.legislation.gov.uk/ukpga/2011/25/part/1
+LINK (2006 Act) http://www.legislation.gov.uk/ukpga/2006/50/part/1
+SUMMARY ~*Historical*~
+/Within the spirit of the preamble to the |Statute of Elizabeth 1601| as interpreted by Lord Macnaghten in |Special Commissioners of Income Tax v Pemsel|, a charitable nature had to be for --
+@Relief of Poverty, 
+@Advancement of Education, 
+@Advancement of Religion or 
+@'Other purposes Beneficial to the Community.'
+++0 {<No prizes for spotting which contained the most wiggle-room, but maybe a small one for suggesting the most appropriate unit by which to measure it. Verst? Country mile? Degrees latitude? >}
+@The |Charities Act 1993| repealed it. In any case, it was never meant to be taken literally. |Scottish Burial Reform Society v Glasgow Corporation|.
+SUMMARY ~*Current*~
+/_Section_ -- 
++ of the |Charities Act 2006| provides the first blackletter definition of _charity_. S1 of the 2011 Act is identical. They provide that a charity: 
+@@is an institution (a) established *for charitable purposes only* and (b) submitting to the jurisdiction of the High Court.
++ defines *charitable purpose* by means of a long but non-exhaustive list. 
+@@The 2011 Act is (functionally) identical, but, for the sake of clarity, shifts the list of purposes at S2(2) of the 2006 Act to a dedicated section, S3(1).
+@@Whether something is one of the |Charitable Purposes| is the meat of this subject.
++of the 2006 Act (and S4 of the 2011 Act) define the |Public Benefit| requirement.
+
+SUMMARY ~*Public Benefit*~
+@S3(2) of the 2006 Act (and S4(2) of the 2011 Act) provides that public benefit is *no longer presumed*. It must be instead be proven that it was both *established for*, and that it *continues to exist for*, public benefit. 
+@@As well as being a prong in the 2006 Act's obvious attack on Public Schools, this has the added feature of making life a little harder for the alarmingly large number of fronts for terrorist groups like Hizb-Allah or Hamas there were, at the time, masquerading as charities.
+@Public benefit. 
+@@As well as being two _words_, this is also two _tests_ -- 
+@@@Is the purpose in fact *beneficial*? 
+@@@Is it spread *widely enough* to be *public*?
+@@It must therefore be established by the facts of each case, by reference to the (very) many cases.
+@@S4 of the 2006 act imposed on the Charities Commission the obligation to produce guidance as to what constitutes public benefit. This it published in 2008. |Charities and Public Benefit|.
+
+
+
+NAME Charitable Purposes
+TYPE Concept
+CATEGORY Charities; Charitable Purposes
+SUMMARY Listed at *S3(1)* of the |2011 act|, Blackstone's _Property Law 2015-16_ *p. 381* (and S2(2) of the |2006 Act|).
+/They partly codify the existing law, and partly stake out a sensible boundary to the field of play.  The order in the statute correlates roughly with their importance and susceptibility to contention. Those, in turn, correlate with the number of cases to remember for each.
+SUMMARY *~S3 Descriptions of Purposes~*
++A purpose falls within this subsection if it falls within any of the following descriptions of purposes of the --
+++|prevention or relief of poverty|; 
+++advancement of |education|;
+++advancement of |religion|;
+++advancement of |health or the saving of lives|;
+++advancement of |citizenship or community development|;
+++advancement of |the arts, culture, heritage or science|;
+++advancement of |amateur sport|;
+++advancement of |human rights|, conflict resolution or reconciliation or the promotion of religious or racial harmony or equality and diversity;
+++advancement of |environmental protection or improvement|;
+++relief of |those in need| by reason of youth, age, ill-health, disability, financial hardship or other disadvantage;
+++advancement of animal welfare;
+++promotion of the efficiency of the armed forces of the Crown, or of the efficiency of the police, fire and rescue services or ambulance services;
+++any other purposes within subsection (4).
+
+
+NAME Prevention or Relief of Poverty
+TYPE Concept 
+CATEGORY Charities; Charitable Purposes
+SUMMARY *S3(1)(a)* of 2011 Act. Blackstone's _Property Law 2015-16_ -- *p. 381*
+/N.B., 'prevention' to the common law understanding by the 2006 Act. 
+SUMMARY ~*Poverty*~
+/ *Is* --
+@*Relative*. |Re Clark| 1923.
+@Not as bad as *destitution*, but is _going short in ordinary circumstances_. |Re Coulthurst's Will Trust| 1951.
+@The condition of people in _genuinely straitened circumstances_, unable to maintain a modest standard of living for themselves and their dependents. |Mary Clark Homes Trustees v Anderson| 1904.
+% *The working classes* --
+@Are not _inherenty_ poor. |Re Sanders Will Trust| [1954] 
+@Apart from the _Cypriot_ working classes. |Re Niyazi's Will Trust| 1978.
+% *Amongst the poor*, there are --  
+@Distressed gentlefolk. |Re Young|
+@Widows and orphans (in a particular area). |AG v Power|.
+@Unsuccessful literary men (!) |Thompson v Thompson|.
+% *But not* --
+@ Boys in need of _knickers_. Yes, _knickers_. |Re Gwyon|, which failed to discriminate in favour of _poor_ boys.
+
+SUMMARY ~*Relief*~
+@It _isn't_ enough that the gift should be for the poor. It should _also_ be for the poor *for relief of their poverty*. |IRC v Baddeley| 1955.
+@It ought not be for beer, circuses or iPhones, but *essentials*. |Joseph Rowntree Memorial Trust v AG| [1983]
+SUMMARY ~*Prevention*~
+@Discussed in |AITC Foundation's Application for Registration of Charity| [2006] -- the case of a charity primarily for those who suffered financial losses as result of unwise investment -- so who may not have been that poor.
+SUMMARY ~*Waffle*~
+/ What is the irreducible minimum for a decent life? How do the slums of Manchester measure up to the layouts of Mumbai? Can a child living in a household with only 60% of the UK average income really be said to be living in poverty -- or does that definition do no more than reveal its authors' acceptance of that least-frequently justified lemma of modern life -- that _inequality per se Is A Bad Thing_? 
+
+NAME Advancement of Education
+CATEGORY Charities; Charitable Purposes
+TYPE Concept
+SUMMARY *S3(1)(b)* |Charities Act 2011|
+/Blackstone's _Property Law 2015-16_ -- *p382*
+SUMMARY ~*Education*~
+/*Can be* --
+@Not just the narrow sense of classroom teaching; also the education of artistic taste. |Royal Choir Society v IRC| [1943]
+@The improvement of '_any_ useful branch of knowledge'. |Incorporated Council of Law Reporting for England and Wales v AG| 1973.
+@An annual chess tournament for the boys of Portsmouth, but only just. |Re Dupree's Deed Trust| 1945. Sudoku? Pin the Tail on the Donkey? 
+@A rose garden. In Australia, at any rate, such a thing is 'conducive of education for everyone but the most blasé of students'. |McGrath v Cohen|. 
+@Providing _treats_ or _field days_ for school children. |Re Melody|.
+@Or giving the little brats elephant rides -- Re Lopes [1931]. Presumably to teach them about the exploitation of animals.
+% *Cannot be* --
+@A college to training _spiritualistic mediums_. |Re Hummeltenberg| 1923.
+@A school for _pickpockets or prostitutes_. Obiter in |Re Pinion|, although some sources this as obiter in |Re Shaw|.
+@Political causes masquerading as education. Even ostensibly worthy ones, such as disarmament. |Southwood v AG| 2000.
+SUMMARY ~*Research*~
+/*Must be* --
+@Useful. |Re Shaw|.
+/The 40-letter phonic alphabet thing. Either he was taking the piss, or he was taking the piss. 
+@Intended to be _disseminated_. |Re British School of Egyptian Archeology| [1954]
+/Thereby being of more benefit than just the edification of the researchers. So not research that might end up in a pharma patent.
+% *May* be --
+@Abstruse, but still be useful, nonetheless. |Re Hopkin's Will Trust| -- whether Shakespeare's plays written by a bloke called _Bacon_ or a bloke called _Shakespeare_.
+SUMMARY ~*Public Schools*~
+/Here is your big fat opportunity to show how much or how little of a nauseating little Marxist you are by slagging off, or indeed sticking up for, public schools. Show how clued up you are by remarking that 30% of boys at Eton are on some form of scholarship; but be sure to follow up such a concession with statements to the effect that the other 70% should be strung up by their over-privileged _balls_ from the nearest quadrangle, for having had the sheer bloody-minded _gall_ not to have killed themselves in disgust at their unmerited status.
+/->-Not all such schools are charities, however -- some are run for profit. Note that since the 2006 Act, Public Schools have been *required to offer financial assistance*.
+
+
+
+NAME Advancement of Religion
+TYPE Concept
+CATEGORY Charities; Charitable Purposes
+SUMMARY *S3(1)(c)* |Charities Act 2011|
+/Blackstone's _Property Law 2015-16_ -- *p382*
+SUMMARY ~*Definition*~
+@There was no _statutory_ definition, but in |Re South Place Ethical Society| [1980], a religion was held to comprise:
+++Belief in something *supernatural*, and
+++Faith in, and worship of, the aforesaid. 
+@So Hinduism, Sikhism, Christianity, Islam, Judaism, all OK, as are the Moonies -- but not the Theosophical Society. Buddhists don't really believe in god, though. Perhaps a judge in the High Court in 1980 would have known this; perhaps not.
+@Scientology, however, lacks *worship*.
+@@Denning, in 1972, called it downright *dangerous* for its use of whacko psychiatric techniques. |Hubbard v Vosper|. {At this juncture, Margaret Carran asked if there were any scientologists present. And fuck me, someone put their hand up.}
+@@In New South Wales, it's been held to be a religion. |Church of New Faith v Commissioners for Payroll Tax|.
+@@In 2014, it was held that (for the purposes of marriage) scientology "chapels" are places of religious worship, so marriages can be conducted in them. |Re (exp Hodkin) v Registrar|.
+
+SUMMARY ~*Atheism*~
+/A common exam question: is atheism a religion charity?
+@However tempting it may be, don't answer like this: 'Of course it fucking well isn't. Atheism is not a system of belief. It's merely the laudably unobjectionable position of *refusing to accept something on bad evidence'*. 
+
+SUMMARY *~Current Position~ -- S3(2)(c) of the 2011 Act and Charity Commission Guidance*
+@Religion may involve a belief in one or more gods,
+@@or none at all (_not_ itself an attempt to cover Buddhism).
+@So what about the silly people who put "Jedi" on the census form? That, after all, is just as made up as all other religions.
+@In |Gnostic Centre| 2009, the Charity Commission listed these four conditions:
++Belief in a god/supreme being/divine/plural/transcendental being/*spiritual* principle
++Worship -- relationship between believer and entity
++Degree of cogency, cohesion, seriousness or importance.
+@@N.B. this is the Charity Commission's doing, it is not a principle appearing in the case law or statute.
++Identifiable *positive, beneficial, moral and ethical* framework.
+@@So what about the three "great" monotheisms, all of which, for the better part of their histories condoned slavery, one of which still obviously does, and each of which, to greater or lesser degrees, gives rise, explicitly because their teachings, to catalogue upon catalogue of the most acutely objectionable moral and ethical behaviour?
+@@*Druidism* is a valid religion on these grounds.
+
+
+SUMMARY ~*What is Advancement?*~ 
+@It's: *promoting* it, *spreading its message* even wider among mankind, *taking positive steps to sustain and increase* ... pastoral... missionary... zzzzz.. |United Grand Lodge of Masons v Holborn BC|.
+
+
+
+NAME Political Purpose of a Charity
+CATEGORY Charities; Invalid Charitable Purposes
+TYPE Concept
+SUMMARY It's a political purpose if it it advocates change in the law, or, arguably, maintenance of the status quo. The reasons for this ancient rule were set out nicely by Slade J in |McGovern v AG| [1982], in terms of the effect it would have on the courts. 
+/The courts:
+@Lack adequate means of judging whether the proposed change of such a purpose would be for public benefit.
+@Would trespass, were they to try, on the role of legislature...
+@...and would jeopardise their reputation for political impartiality.
+@And also risk prejudicing the relations with foreign countries. 
+/{CHECK -- as it makes bugger-all sense.}
+SUMMARY ~*Cases*~
+@Something *requiring a change in the law* is a political purpose. |National Anti-Vivisection Society v IRC| 1948.
+@So is *disarmament* . |Southwood v AG| 2000.
+@And 'dissemination of *socialist medicine*' {yes, you read that right}. |Re Bushnell| [1975]
+@Funnily enough, a gift to a political party is political. |Bonar Law Memorial Trust v IRC| (1933)
+@As is a gift to a campaign against the abolition of free milk in schools. |Baldry v Feintuck|.
+
+
+NAME Charity Commissioner's Guidance - September 2013
+TYPE Concept
+LINK Guidance https://www.gov.uk/government/collections/charitable-purposes-and-public-benefit
+CATEGORY Charities; Charity Commission
+SUMMARY Outline from lecture handout --
+/Two aspects of public benefit 
+@The *benefit* aspect:
+@@A purpose must be beneficial 
+@@Any detriment or harm that results from the purpose must not outweigh the benefit 
+@@Determined on the basis of evidence unless clearly beneficial  
+@The *public* aspect: 
+@@A purpose must benefit the public in general, or a sufficient aspect of the public 
+@@Must not give rise to more than incidental personal benefit
+@@Public in general = all of the public can benefit 
+@@Sufficient section = public class of people; no minimum number set 
+@@Limitation to people living in a geographic area (local, national or international) acceptable 
+@@Group of people may be defined by 'protected characteristics' --
+/Age, Disability, Sex, Sexual orientation, Gender reassignment, Marriage and civil partnership, Pregnancy and maternity, Race or nationality, Religion or belief 
+/BUT NOT by reference to skin colour 
+/Can be defined by reference to profession or occupation 
+/BUT NOT by reference to family relationship/ employment relationship / membership of an unincorporated association 
+/UNLESS it is for the relief of poverty 
+@Whether number is sufficient would be decided on a case by case basis 
+@Charities must not define their beneficiaries by reference to 
+@@A purpose which excluded the poor from benefiting 
+@@A purpose which is confined to a closed religious organisation 
+@@A purpose where all the potential beneficiaries are named 
+@@A purpose where the number of people who can benefit is numerically negligible 
+@@A purpose which defines beneficiaries in a capricious manner 
+@@A purpose which benefits a mutual benefit society unless it is for a relief and a sufficient section of the public can become members 
+@@Any private benefits must be incidental.
+
+
+NAME Charities - Problem Questions
+CATEGORY Charities
+TYPE Exam Advice
+SUMMARY Start (as for all problem questions in all GDL law exams) by saying what the law is, so there's no doubt you _know_. This is that --
+@The |Beneficiary Principle| usually renders purpose trusts are *void*. |Morice v Bishop of Durham|. However, they may fall within a recognised exception, of which |Charitable Trusts| are one. A charitable trust is valid if --
+@@Its purpose charitable within meaning of the |Charities Act 2011| (or 2006),
+@@satisfies the *requirement of public benefit*, and
+@@is *wholly and exclusively* charitable.
+SUMMARY *Don't* answer a charities question without reference to the |Charity Commissioner's Guidance - September 2013|
+
+
+
+NAME Other Charitable Purposes under Charities Act 2011
+AKA Health or the Saving of Lives; Citizenship or Community Development; Arts, Culture, Heritage or Science; Amateur Sport; Human Rights; Environmental Protection or Improvement; Relief of Those in Need
+CATEGORY Charities; Charitable Purposes
+TYPE Concept
+SUMMARY *S3(1)(d) to (l)* |Charities Act 2011|
+/Blackstone's _Property Law 2015-16_ -- *p382*
+SUMMARY (g), the advancement of amateur sport, was new to the 2006 act, not having been valid pre-2006.
+
+SUMMARY *~(d)~ -- Health or Saving Lives*
+/Valid:
+@ Gifts to _free_ rescue services such as the RNLI. |Thomas v Howell|.
+@ Medical care, even when a fee is charged. |Re Resch WT|. 
+@@ And even _inoperative_ medical care, such as holistic "medicine". 
+@ Funding research is charitable. Cancer Research, etc, can choose whether to live here, or under |advancement of education| under S3(1)(b).
+
+
+SUMMARY *~S3(1)(e)~ -- Citizenship or Community Development*
+@E.g., volunteering, Scouts and Guides Groups, etc. Most will validly fall under other previous categories.
+
+SUMMARY *~S3(1)(f)~ -- Arts, Culture, Heritage or Science*
+/Valid:
+@Curation of objects of historic value. |Re Verrall| 1916.
+@Study of a composer |Re Delius| 1957.
+@Putting up a monument already valid as a non-charitable |purpose trust|, from |Re Endacott|.
+@Arts, presumably, include the conventional repertoire of theatre, music, operas, carnivals, opera, literature.
+@Unless the art in question is _a worthless pile of junk_. |Re Pinion|.
+
+SUMMARY *~S3(1)(g)~ -- Amateur Sport*
+/Under the pre-2006 law, this was _not_ valid, unless it constituted advancement of education. 
+@I.e., support for amateur yacht racing was _mot_ valid. |Re Nottage| 1985.
+@But in schools, valid as advancement of education, albeit educating the body, not the mind -- |Re Marriette| _educational_ puas _educated the body_ 
+% Since 2006, must be:
+@ Amateur, not for profit.
+@ *S6(1)* not a _registered_ sports club.
+@ Involve physical exertion *or* skill/mental exertion.
+@ In Charity Commission's guidance, some sports may not qualify as potential harm outweigh potential advantages to heath.
+@@ Skiing? Polo? Eventing? 
+@@ Boxing, the reliable mainstay of a thousand projects to divert the attention of the otherwise-criminal urban yoof? They won't say until they have to
+@@ Gymnastics _is_ valid, despite long-term damage to joints, etc.
+
+SUMMARY *~S3(1)(h)~ -- Human Rights & General Loveliness*
+/This may toe the line of politics, in which case it will be _invalid_, e.g.,:
+@ Amnesty Int's campaigns. |McGovern v AG| 1982.
+/_(As a result, Amnesty divided into a limited company for conducting political activities, and Amnesty International for its less controversially charitable activities.)_
+@ Radio station promoting human rights. |R (ex p. Bull) v Radio Authority| 1998.
+% Charities may however be permitted _an element_ of political activity -- provided it is merely incidental to the main purpose. E.g., the NSPCC may campaign for changes in the law for the furtherance of protection of children, without jeopardising its charitable status.
+
+
+SUMMARY *~S3(1)(i)~ -- Environmental Protection or Improvement*
+/As well as things like _recycling_ and _waste management_, this is also taken as meaning _zoos_, notionally being concerned with the conservation of _fauna_.
+@Charity Commission guidance blurs the line. 
+@Could a campaign against fracking be a valid purpose, under this heading?
+
+
+SUMMARY *~S3(1)(j)~ -- Relief of those in Need*
+/... because of youth, age, ill-health, disability, financial hardship, or _other disadvantage_.
+@Being old was enough; poverty was _not_ necessary as well. |Re Robinson| 1951.
+@@_N.B. $!Recreational Charities Act 1958!$, now coming under this heading. Specified presumption of charitable purpose in *recreational organisations*, as long as provided for purposes of *social welfare*._
+
+
+SUMMARY *~S3(1)(k)~ -- Animal Welfare*
+/For the welfare of animals at large. For specific animals, see |PETs for Pets|.
+@Pre-2006, there had to be a benefit for _humans_. |Re Grove-Grady|.
+@But it could be found creatively, e.g., by deciding that the purpose of developing a humane method of slaughter would _make the meat taste nicer_ for those who ate it knowing its provenance. |Re Wedgwood|.
+
+
+SUMMARY *~S3(1)(l)~ -- Efficiency of the Armed Forces or Emergency Services*
+@Since at least |Re Gray| in 1925.
+@Provision of a library for army officers is valid. |Re Good| 1905.
+
+SUMMARY *~S3(1)(m)~ -- Any other Purpose
+/Future-proofing for the act. At (ii), anything that _may reasonably be regarded as in the spirit of_ (a) to (l).
+@E.g., not much change would be needed to make valid charitable purposes of promoting --
+@@ Industry and commerce in general
+@@ Agriculture
+@@ Public order
+@@ Ethics
+
+
+
+
+
+
+
+NAME The Cy-près Doctrine
+TYPE Concept
+CATEGORY Charities
+SUMMARY *Ss.61-67* of the 2011 Act. Blackstone's _Property Law 2015-16_, *from p. 388*
+SUMMARY When a validly-charitable trust complying with all |three conditions| fails, its property may be 'applied cy-près.' Rather than result back to its settlors and testators, their wishes will be respected 'aus*si près* que possible'.
+
+SUMMARY *S61* gives trustees the duty to apply trust property cy-près when it _could_ or _must_ be applied cy-près. 
+
+SUMMARY ~*Failure of Gift*~
+/This can be *initial failure* where the charity closes _before_ the property vests, or *subsequent failure* where it does so _afterwards_. In the second case, cy-près is applied automatically. In the first, it applies only if a *paramount charitable intention* be shown of the testator/settlor.
+SUMMARY *Initial Failure*
+/_T makes a will on 1st Feb '17 leaving £10K to charity C... which closes on the 28th Feb. T then dies on the 1st March, turning his will into a public document._
+SUMMARY If a *paramount charitable intention* can be shown, cy-près will apply. 
+/It will apply when:
+@Purpose mattered more than institution, especially if the institution didn't even exist. |Re Harwood| 1936.
+@A condition attached to a gift would render it invalid. |Re Lysaght|.
+@Where its context manifests a general charitable intention -- e.g., if it's one charitable gift amongst many. |Re Satterthwaite's WT|.
+
+SUMMARY *Subsequent Failure*
+/_T dies, then C folds, so T's gift vested successfully in C._
+@|Re Slevin|.
+@|Re King|.
+
+
+
+
+

@@ -1,0 +1,204 @@
+NAME Defences to Negligence
+TYPE Concept
+CATEGORY Negligence; Defence
+KEYWORDS Contributory Negligence; Consent; Ex Turpi Causa
+SUMMARY There are three main defences to negligence:
+SUMMARY ~*Contributory Negligence*~
+/This was a complete defence under the common law, but a *partial* defence since the *Law Reform (Contributory Negligence) Act 1945* S1(1), and the most commonly-invoked. The defendant must prove the claimant (i) failed to take care and (ii) that failure contributed to the damage. |Froom v Butcher|, |Owens v Brimmell|. Following |Gough v Thorne|, the defence fails when the claimant is a child.
+SUMMARY ~*Consent*~
+/AKA *volenti non fit injuria*, but there are *things to which no consent* can be given - |Baker v Hopkins|. In sport, players and spectators accept liability for injuries caused by competitors, excepting recklessness or deliberate infliction of injury - |Wooldridge v Sumner|. Statute regulates use of this defence: |UCTA 1977| ss. 1 and 2 and |SARAH 2015| ss. 65 and 62, and the |OLA 1984| S149.
+SUMMARY ~*Illegality*~
+/AKA *ex turpi causa non oritur actio*. Disreputable, criminal or immoral acts cannot give rise to causes of action. |Gray v Thames|, |Vellino|. An example of where it *didn't* apply is |Delaney v Pickett|, and |Joyce v O'Brien| is one where it _did_, but the usual rule was set aside. This is _flexible_.
+
+
+NAME Defences to Negligence - Reading
+CATEGORY Negligence; Defences
+SUMMARY ~*Essential*~
+SUMMARY Steele, _Tort Law_, pp.269-298
+SUMMARY |Froom v Butcher| - |Gough v Thorne| - |Baker v Hopkins| - |ICI v Shatwell| - |Morris v Murray| - |Revill v Newbery| - |Vellino v Manchester Police| - |Gray v Thames| - |Moore Stephens v Stone Rolls|.
+SUMMARY |Law Reform (Contributory Negligence) Act 1945| - |UCTA 1977| SS1-2 - |Road Traffic Act 1988| S149.
+SUMMARY ~*Additional*~
+SUMMARY P. Davies, _Auditors' Liability: No Need to Detect Fraud?_ (2009) 68 CLJ 505<BR>P. Davies, _The Illegality Defence and Public Policy_ (2009) 125 LQR 556<BR>C. Hopkins, _An Unlucky Escape_ (2002) 61 CLJ 257<BR>Law Commission, The Illegality Defence (Law Commission Report 320), 41-51, <br>at http://www.lawcom.gov.uk/project/illegality/<br> J. Mance, _Ex Turpi Causa - When Latin Avoids Liability_ (2014) 18 Edinburgh Law Review 175
+SUMMARY |Owens v Brimmell| - |Badger v MOD| - |Rehill v Rider Holdings| - |Co-op v Pritchard| - |Wooldridge v Sumner| - |Pitts v Hunt| - |Delaney v Pickett| - |Joyce v O'Brien|.
+
+
+
+NAME Froom v Butcher
+YEAR 1976
+COURT EWCA
+CITATION Froom v Butcher [1976] QB 286
+CATEGORY Negligence; Defences; Contributory Negligence
+FLAGS Important; Denning; EPLR; Traffic Accident
+SUMMARY In the era before seatbelts were compulsory, the defendant caused a crash in which the defendant injured his head and his finger. The claimant's car _was_ fitted with seatbelts, but he'd elected not to strap himself in because, he reckoned, if a crash occurred, he'd be trapped in the car if he wore his seatbelt. 
+HELD His negligence contributed to all his injuries except of his finger, which, the court heard, would probably have been broken even had he been wearing the seatbelt. 
+HELD Denning LJ to claimant (approx) -- _you bloody fool._
+
+NAME Owens v Brimmell 
+YEAR 1977
+COURT EWHC
+CITATION Owens v Brimmell [1977] QB 859
+CATEGORY Negligence; Defences; Contributory Negligence
+FLAGS Traffic Accident
+SUMMARY Claimant and defendant had been out on a pub-crawl in the defendant's car, and were both massively full-up on alcohol by the time, on their way home, there was a crash due to the defendant's negligence. The claimant suffered serious and permanent injuries.  
+HELD The claimant's negligence, in getting into a car with someone he knew to be drunk, contributed to his injury.
+
+NAME Badger v MOD
+YEAR 2005
+COURT EWHC
+CITATION Badger v Ministry of Defence [2005] EWHC 2941  
+CATEGORY Negligence; Defences; Contributory Negligence; Asbestos - Smoking
+SUMMARY Claimant worked for the defendant between 1954 and 1987, and died (before the trial) of mesothelioma. Poor chap. But he'd also smoked for most of his life, starting at 16, smoking a packet a day until 52, at which point he changed to _cigars_.
+HELD He was diagnosed quite a long time after the gov't had obliged ciggie manufacturers to put warnings on packets, _yet he continued smoking_. Therefore although not exclusively the author of his own downfall, he contributed to it - by 20%, according to the court.
+
+
+NAME Gough v Thorne
+YEAR 1966
+COURT EWCA
+CITATION Gough v Thorne [1966] 1 WLR 1387
+CATEGORY Negligence; Defences; Contributory Negligence; Children
+FLAGS Key; Important; Denning; EPLR; Traffic Accident
+SUMMARY The claimant was a young girl waiting to cross a road. A lorry driver slowed and signaled for her to cross. But a moron behind the lorry sped up and overtook, running down the claimant
+HELD When the claimant is a very young child, the defence of contributory negligence will fail 
+HELD Denning LJ mused that although a young child could _not_ reasonably be expected to have the road-sense to anticipate what happened, an older child _might_.
+
+NAME Co-op v Pritchard
+COURT EWCA
+YEAR 2011
+FLAGS Important
+CITATION Co-operative Group Ltd v Pritchard [2011] EWCA Civ 329
+CATEGORY Negligence; Defences; Contributory Negligence; Psychiatric Harm
+SUMMARY The claimant had been involved in an altercation at work at which she had been assaulted. The tort alleged was psychiatric harm.
+HELD Contributory negligence is not available as a defence to claims for assault and battery
+
+
+#Consent/Volenti
+
+NAME Baker v Hopkins
+YEAR 1959
+COURT EWCA
+CITATION Baker v TE Hopkins [1959] EWCA 1 WLR 966
+FLAGS Important; EPLR
+CATEGORY Negligence; Defences; Volenti
+KEYWORDS Consent
+SUMMARY The defendant was employed to clean out a well, but did so by putting some kind of petrol-driven apparatus down, which filled up the well very efficiently with _carbon monoxide_. The manager realised that no-one should go down; he told employees to hold off, two days running. 
+SUMMARY Two employees did so anyway, and promptly died. Then a doctor went down, but with a rope tied around him. He died as well. He sued.
+HELD No defence of consent can operate, in a very dangerous situation, unless the warnings are adequately clear.
+HELD The doctor had consented to some risk, but not the risk of _dying_ in the well.
+
+NAME Wooldridge v Sumner
+YEAR 1962
+COURT EWCA
+CITATION Wooldridge v Sumner [1962] 2 All ER 978
+CATEGORY Negligence; Defences; Volenti; Sport
+SUMMARY The claimant, a photographer at a horse race, was injured by a horse ridden by the defendant.
+HELD A person attending a game or competition accepts liability for any injuries caused to him by a competitor, unless the competitor has been reckless, or has injured deliberately.
+HELD The rationale for this is straightforward: errors of judgment are to be expected by sportsmen, who necessarily will concentrate on the sport, rather than avoiding injury to third parties.
+
+NAME ICI v Shatwell
+YEAR 1965
+COURT UKHL 
+CITATION ICI v Shatwell [1965] UKHL AC 656
+FLAGS Important; Denning; EPLR
+CATEGORY Negligence; Defences; Volenti
+CATEGORY Employers Liability; Primary Liability; Safe Place of Work
+SUMMARY The claimant, with his brother, was a _shot-firer_ in a quarry, a rigger-up of explosives. They were supposed to have tested everything and retreated to a safe distance, but hadn't got enough wire, so tested the charges manually. One brother was killed, the other survived and sued.
+HELD There had been no pressure exerted by their employer to do as they did: they were merely indolent, and so were found to have consented. 
+COMMENT Jesse Elvin's opinion is that the courts are, by contrast, rather paternalistic, treating employees like children who need looking after.
+
+
+NAME Morris v Murray
+YEAR 1990
+COURT EWCA
+CITATION Morris v Murray [1990] 3 All ER 801
+CATEGORY Negligence; Defences; Volenti
+FLAGS Amusing; Important; EPLR
+SUMMARY The claimant and defendant had been out on the razzle: the defendant had had the equivalent of _17 whiskies_. They decided to go for a _*flight*_. But a storm was brewing. They went a hundred yards up, more or less vertically; the plane stalled, and came back down just as vertically. The defendant died, but the claimant survived to sue for his injuries. Argued that he himself was too drunk to be able to assess how drunk the pilot was. 
+HELD The claimant had consented to be in an aeroplane piloted by a drunk, and thereby implicitly waived his rights in the event of an injury.
+
+#Illegality/public policy.
+
+NAME Revill v Newbery
+YEAR 1996
+COURT EWCA
+CITATION Revill v Newbery [1996] 1 All ER 291 
+CATEGORY Negligence; Defences; Ex Turpi Causa
+KEYWORDS Illegality; Public Policy
+FLAGS Important; Amusing; EPLR
+SUMMARY The defendant was a guy who really liked his _shed_. He slept in there with a shotgun. A burglar turned up in the wee hours, and the defendant shot _through_ the door, and hit the burglar the chest. Whoops. So the burglar sued him.
+HELD Damages reduced by 2/3 for contributory negligence, the claimant being, by being there in the first place, largely responsible. Nevertheless, you can't just blast burglars with shotguns.
+COMMENTARY Large tracts of the more brainless parts of the journalistic landscape are not entirely happy with this decision.
+
+
+NAME Vellino v Manchester Police
+AKA Vellino
+YEAR 2002
+COURT EWCA
+CITATION Vellino v Chief Constable of Greater Manchester [2002] 3 All ER 78
+FLAGS Important; Amusing; EPLR
+CATEGORY Negligence; Defences; Ex Turpi Causa
+KEYWORDS Illegality; Public Policy
+SUMMARY The claimant, a _loveable rogue of a folk hero_ (trans: a scumbag career-criminal), was collared by the fuzz on the second floor of a house he was merrily in the process of turning over. Then he jumped out of a window to try and escape. He fractured his skull, damaged his brain, and became a tetraplegic. 
+SUMMARY He claimed that (i) the police knew he would try to escape once arrested, as he had done so before, and (ii) having arrested him, they owed him a duty of care.
+HELD By majority, the claim failed on _ex turpi causa_ grounds.
+HELD Sedley LJ dissented, arguing inter alia the claim would provide an incentive for the police to do their jobs properly.
+
+NAME Pitts v Hunt
+YEAR 1990
+COURT EWCA
+CITATION Pitts v Hunt [1990] 3 All ER 344 
+CATEGORY Negligence; Defences; Ex Turpi Causa; Traffic Accident
+FLAGS Traffic Accident
+SUMMARY The claimant (18) and the defendant (16), both drunk, got on the defendant's uninsured motorbike for which the defendant had no license. The claimant encouraged the defendant to swerve from side to side to scare pedestrians. The defendant died, the claimant sued his estate.
+HELD Ex turpi causa: the claimant knew the driver was (i) drunk and (ii) unlicensed. 
+
+NAME Moore Stephens v Stone Rolls
+COURT UKHL
+YEAR 2009
+FLAGS Leading; Important
+CITATION Moore Stephens v Stone Rolls Ltd [2009] UKHL 39
+CATEGORY Negligence; Defences; Ex Turpi Causa
+SUMMARY A one-man company, set up as a vehicle to carry out a fraud, sued its accountants for _not having noticed the fraud_. 
+HELD In the circumstances, the principle of ex turpi causa applied to a one-man company and prevented their claim.
+
+NAME Delaney v Pickett
+COURT EWCA
+YEAR 2011
+CITATION Delaney v Pickett [2011] EWCA Civ 1532
+FLAGS Amusing; Traffic Accident
+CATEGORY Negligence; Defences; Ex Turpi Causa; Traffic Accident
+SUMMARY The claimant, a drug dealer, was on the way to sell drugs, when, through the negligence of the defendant, he was (catastrophically) injured in a car crash. 
+HELD Although the defendant was on the way to engage in crime, his injuries did not result from the illegality, but from the defendant's negligence. Accordingly, _ex turpi causa_ was no defence, and the claim succeeded. 
+COMMENT _Daily Mail_ bait.
+
+
+NAME Joyce v O'Brien
+COURT EWCA
+YEAR 2013
+CITATION Joyce v O'Brien [2013] EWCA Civ 546
+CATEGORY Negligence; Defences; Ex Turpi Causa; Traffic Accident
+FLAGS Amusing; Traffic Accident
+SUMMARY Claimant and defendant engaged in some thieving. Fleeing the scene, the defendant stood on the _footplate_ of their van, and was injured when he fell off. He sued the driver.
+HELD In a criminal joint enterprise, particularly one involving the need to drive recklessly to avoid arrest (!), then the usual rule (that the _turpi_ needs to have been committed by the person suffering the tort) can be set aside, if it was foreseeable that a party to the enterprise could be subject to increased/unusual risk of harm. 
+
+NAME Law Reform (Contributory Negligence) Act 1945
+TYPE Statute
+LEGILINK http://www.legislation.gov.uk/ukpga/Geo6/8-9/28
+WIKILINK https://en.wikipedia.org/wiki/Law_Reform_%28Contributory_Negligence%29_Act_1945
+CATEGORY Negligence; Defences
+SUMMARY *S1(1)* 
+
+NAME Road Traffic Act 1988
+TYPE Statute
+LEGILINK http://www.legislation.gov.uk/ukpga/1988/52/contents
+WIKILINK 
+CATEGORY Negligence; Defences
+SUMMARY *S149* 
+
+NAME Unfair Contract Terms Act 1977
+TYPE Statute
+LEGILINK http://www.legislation.gov.uk/ukpga/1977/50
+WIKILINK https://en.wikipedia.org/wiki/Unfair_Contract_Terms_Act_1977
+AKA UCTA 1977
+CATEGORY Negligence; Defences
+SUMMARY *SS1-2* 
+

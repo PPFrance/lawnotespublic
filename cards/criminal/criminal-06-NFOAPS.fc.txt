@@ -1,0 +1,167 @@
+
+NAME Assault and Battery - S39 CJA 1988
+AKA Assault
+TYPE Concept
+CATEGORY Non-Fatal Offences
+SUMMARY *~Assault~*
+/*AR* -- D causes V to fear immediate application of unlawful force. (No violence need transpire.)
+@*Cause of fear*
+@@Can be *words alone*, as long as cause fear of imminent violence -- |Constanza|.
+@@Unless the words *negate* the gestures. |Tuberville| -- 'if it were not assize time, I would run you through with this sword.'
+@@Can be *silence/heavy breathing* -- |Ireland and Burstow|.
+@*Immediacy*
+@@Given broad interpretation. |Smith v Woking Police| -- V locked inside house, D outside peering in at her. 'Immediate' enough for the CA.
+@@Satisfied even when D not at all proximate to V -- |Ireland and Burstow|.
+
+SUMMARY *MR* -- |Specific intent| or subjective |recklessness| as to causing the fear of immediate violence.
+
+
+SUMMARY ~*Battery*~
+/*AR* -- Unlawful application of force.
+@*Force*
+@A mere touch is enough. No need for pain or harm. 
+@No requirement for  need to be _force_, conventionally understood -- |DPP v Kaye|, acid in the hand-drier.
+@*Application*
+@Can be *directly* or *indirectly* applied. In |Fagan|, car on foot of bobby.
+@No need to have assaulted beforehand -- no need to have caused apprehension of the violence. |Haystead|, sleeping baby V2, dropped and injured when mother, V1 struck.
+SUMMARY *MR* -- |intention| or |recklessness|.
+
+NAME Assault Occasioning ABH - S47
+TYPE Concept
+CATEGORY Non-Fatal Offences
+SUMMARY Assault in S47 is *assault or battery*. 
+SUMMARY *AR* -- |Assault| or |battery|, from which *more than merely trivial* harm is caused to V.
+@ *Harm: Physical*
+@@ Must be *more than merely trifling* -- |Donovan|.
+@@ Or *calculated to interfere with V's health/comfort* -- |Miller|.
+@@ Or with their vanity err *self-image* -- |DPP v Smith|.
+@ *Harm: Psychological* 
+@@ Constitutes ABH -- |Miller|.
+@@ But *only if clinically recognisable* -- Hobhouse LJ in |R v Chan-Fook|.
+@@ Even if V ends up killing themselves -- |Dhaliwal|.
+
+SUMMARY _So cut off someone's pony-tail, and you've done them more than merely trivial harm -- |DPP v Smith|. But punch the person you've been victimising for years, who goes on to commit suicide that evening; and as long as you didn't punch them very _hard_, you're off the hook for S47 crime -- |Dhaliwal|. Such fucked-up arbitrariness._
+
+SUMMARY *MR* -- same as for |battery|. |Intention| or |recklessness|.
+
+
+
+NAME Wounding or Causing GBH - S20
+TYPE Concept
+CATEGORY Non-Fatal Offences
+SUMMARY Difference from S47 of _degree_. ABH is _more than merely trivial_ where as GBH is _really serious_. 
+SUMMARY *AR* -- wounding or inflicting GBH.
+@*GBH*
+@@I.e., *really serious harm* -- |DPP v Smith (1961)|.
+@@Which can be psychological -- |Ireland and Burstow|.
+@@Characteristics of V to be taken into account, e.g., age/health -- |Bollom|.
+@*Infliction*
+@@In |Clarence| in 1888, assault was necessary for infliction, and absent in consensual sex transmitting D's gonorrhoea.
+@@But *assault not necessary* for infliction since |Wilson| (1984) in HL.
+@@*Direct Application of Force?*
+@@@*Not currently required* -- |Ireland and Burstow|.
+@@@In |Wilson|, *assault not necessary* for liability under S20 if there's *intentional and direct application of force*.
+@@@Neither were previously been necessary. In |Martin| 1881, shouting 'fire' in a crowded theatre was enough.
+@@*Transmission of HIV*
+@@@Reckless transmission of disease through sexual intercourse = S20. |Dica|, explicitly overruling |Clarence|.
+
+
+@*Wounding*
+@@Is *breaking the skin*, both epidermis and dermis -- |Eisenhower|.
+
+SUMMARY *MR* -- 'maliciously'
+@Meant *intentionally or recklessly* in |Cunningham|.
+@But only as to *some physical harm*, not GBH or wounding. Leading case is |Savage|.
+
+SUMMARY *Racial or Religious Aggravation*
+@|Crime and Disorder Act 1998| increases penalties if this element present
+@Narrow definition adopted by courts:
+@|DPP v Pal|, V an elderly asian caretaker. D, a yoof, also asian, assaulted V, calling him a 'white-man’s arse-licker' and a 'brown Englishman.' Court held race irrelevant to attack.
+
+
+NAME Wounding or Causing GBH with Intent - S18
+TYPE Concept
+CATEGORY Non-Fatal Offences
+SUMMARY Principle difference is the MR, which requires direct intent. 
+
+
+NAME Consent to Non-Fatal Offences
+TYPE Concept
+CATEGORY Non-Fatal Offences
+SUMMARY _Two things to balance together -- autonomy and paternalism. Or good old libertarianism and overbearing totalitarianism. Or something._
+@Academics disagree about how consent really applies? Does it ablate the actus reus and make it lawful? Or, as uncle Al has argued, is it really an exculpatory defence?
+@A fight in a playground vs. a fight in a boxing ring? |AG Ref no. 6 of 1980|
+@Consent has been carved out by _ad hockery at its best_ -- AD.
+
+SUMMARY *Principles*
+@*S20*
+@@Cannot be consented to -- |Brown|.
+@@Unless it's just a "loving adnorment"  -- |Wilson|. 
+@@@Russell LJ: not like Brown at all, a loving married couple can lovingly adorn one another, like a tattoo, in the privacy of their own matrimonial kitchen.
+
+--STOP--
+Emmett 1999
+Lighter fluid on breasts, set alight. But no skin grafts.
+
+- EWCA: different from Wilson, funnily enough. ‘A line-drawing exercise in every case about consent, validity, and personal autonomy.’
+
+Slingsby 1995
+Caution, as not properly argued. Did there have to be foresight of harm for there to be liability?
+D involved in vigorous sexual activity, double fisting. Signet ring ripped open a blood vessel, V died.
+
+Consent in HIV?
+
+Dica 2004
+D had infected two former partners.
+
+- Trial judge: wholly irrelevant whether V knew of D’s condition, as consent of victim was irrelevant. Why? Because of Brown. Couldn’t consent to an S20 level harm, so liability here.
+- EWCA ordered retrial, as trial judge’s analysis ‘fundamentally incorrect.’ Absolutely not like Brown, as dissimilar facts, prima facie unlawful. Here, informed sexual autonomy.
+- E.g., Catholic couple, husband HIV+, who want a child.
+
+Conzani 2005
+Informed consent, HIV transmission, risk of infection, S20 harm.
+
+- Obiter: where D does not disclose their HIV status but victim has informed consent from another source, e.g., hospital/doctor, then there may not be liability.
+- The effect of which is a revivication of the Dadson argument, that a (kind of) unknown justification defence is being relied upon.
+
+Barnes 2005
+Leading case on sporting injury vs assault, footballer tackled from behind.
+
+- Where does the line get drawn?
+- At least, here, challenge was so late and violent as could not be held to be a heat-of-the-moment misjudgement.
+- Court set out some precepts jurors should consider in future, a bit like gross negligence manslaughter:
+    - Occurred in heat of moment?
+    - Serious enough to be criminal?
+    - Type of sport inherently violent?
+    - Level being played at?
+    - Nature of the act?
+    - Degree of force?
+    - Extent of risk of injury?
+    - What was state of mind of D?
+
+A public policy exception for manly diversions.
+
+- Jones 1986
+
+Given birthday bumps, then dropped. Severe spinal injuries. Court held rough horseplay. (!).
+
+- Aitkin 1992
+
+In an army barracks, rough horseplay in this case was setting the victim on fire. But that’s what you’d expect in an army barracks, the court held.
+
+Deception
+
+Richardson 1998
+A dentist, treated a patient, charged with GBH. Liability, and no vitiation of consent in S47, and none from common law about nature of act or person.
+
+Tabassum 2000
+Represented that medically qualified and conducting breast cancer survey. Fondled three victims.
+
+- Court held at common law, not just nature or act and identity of person; there can be a vitiation of consent where the deception is about the fundamental nature of the act.
+
+Dica
+
+- Court said obiter that victim may have been fraudulently deceived about risk of disease itself, no deception about act of intercourse. So couldn’t be rape, but curiously could be S20.
+
+So consent is never a defence to a common-law battery, unless it fits within a public policy exception.
+

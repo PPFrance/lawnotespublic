@@ -1,0 +1,175 @@
+META filename herling-04-communication-of-acceptance.fc.txt
+
+
+
+
+NAME Communication of Acceptance
+TYPE Concept
+CATEGORY Communication of Acceptance
+SUMMARY Acceptance must be communicated to the offeror. |Holwell v Hughes|, apart from _unilateral_ offers. |Carlill - Acceptance|.
+
+
+SUMMARY *By Conduct*
+/_Acts may validly show acceptance, |Brogden|, but only if offer does in fact exist. |British Steel v Cleveland Bridge|._ 
+@Acceptance may be demonstrated by _acts_ rather than words, |Brogden|.
+@Not by putting the offer in a drawer, but by _acting on it_.
+@But only if there was an offer in the first place. |British Steel v Cleveland Bridge|.
+
+SUMMARY *By Silence/Inaction*
+@Offers declaring themselves accepted by the offeree's _silence_ are not valid, |Felthouse v Bindley|. 
+@@Thus saving a recipient of frequent and multiple offers from going to the trouble of explicitly rejecting.
+@Silence of both parties will _not_ amount to abandonment of a contractual undertaking. |The Leonidas D|.
+@@They may arise through mutual unexpressed wish that matter will forget about them, "die a natural death." 
+@@Or through any of usual reasons of administrative bungling, indecision, downright _sloth_, etc.
+@Repudiation of a contract in breach will, nevertheless, be deemed to be "accepted" by the other party's silence.
+@Acceptance subject to no indication to contrary before a given date--and remains silent--the offer validly accepted after that date. |Re Selectmove|.
+
+SUMMARY *Means of Transmission*
+/_Offeror may nominate exclusive mode: |Eliason v Henshaw|, |Mulcaire v News Group|.  Electronic acceptance valid only on receipt: |Entores v Miles|._ 
+@An offeror is free to stipulate the means by which acceptance is to be communicated. |Eliason v Henshaw|.
+@Acceptance transmitted electronically is valid when received. |Entores v Miles|.
+@An offeror allowing electronic acceptance may not rely on failure to operate device. |The Brimnes|. 
+
+SUMMARY *Postal Rule*
+@"Posting" means handing to the control of the post office. |Adams v Linsell|.
+%_Either by_ --
+@ Popping it into a pillar box.
+@ Handing to an employee _authorised to receive mail_. 
+@ Cf. handed to a postman, which _wouldn't_ count. |Re London and Northern Bank|.
+SUMMARY _It applies_ --
+@Even if the letter never arrives. |Household Fire Insurance v Grant|.
+@Where parties could reasonably be said to have contemplated that acceptance might be posted. |Henthorn v Fraser|.
+SUMMARY _It does *not* apply_ --
+@When the offer's language implicitly "ousts" by requiring _notice_ of acceptance (which necessitates the offeror being _made aware_). |Holwell v Hughes|.
+@When misaddressed. |Korbetis v Transgrain Shipping|.
+@To _immediate_ electronic communication. |Entores v Miles|. 
+@To email. |Greenclose v Nat West|.
+@To communication _other_ than acceptance.
+
+SUMMARY *Postal Rule: withdrawal of acceptance?*
+@ No authority for whether, when the A accepts by post _but subsequently withdraws that acceptance_ in a manner reaching the offeror _before the acceptance_, whether that withdrawal is effective or not.
+@The deductive approach would be that acceptance is binding once _posted_, so subsequent withdrawal is _ineffective_, whether reaching offeror before or after acceptance does. 
+@@ But that would be bloody silly. 
+
+
+
+NAME Carlill - Acceptance
+CITATION Carlill v Carbolic Smoke Ball Co (1893) 1 QB 256
+CATEGORY Communication of Acceptance; Acceptance By Conduct
+HELD The maker of a unilateral offer implicitly dispenses with the necessity for acceptance to be communicate if it specifies an action the performance of which does not per se necessitate communication with offeror.
+
+
+
+
+NAME Brogden v Metropolitan Railway
+CITATION Brogden v Metropolitan Railway (1876) 2 App Cas 666
+CATEGORY Communication of Acceptance; Acceptance By Conduct
+HELD An act from which acceptance of an offer can reasonably be inferred by the offeror is _valid acceptance_, despite the absence of explicit words to that effect.
+
+
+
+NAME British Steel v Cleveland Bridge
+CITATION British Steel Corporation v Cleveland Bridge and Engineering Co Ltd [1984] 1 All ER 504
+CATEGORY Communication of Acceptance; Acceptance By Conduct
+HELD Acts cannot not be taken as acceptance of an offer if no clear offer has been made, e.g., if the line from negotiation to offer has not obviously been crossed.
+
+
+
+
+NAME Felthouse v Bindley
+CITATION Felthouse v Bindley (1862) 11 CBNS 869
+CATEGORY Communication of Acceptance; Acceptance By Silence/Inactivity
+HELD An offeree's silence and inaction is incapable of being valid acceptance, even should the terms of the offer stipulate otherwise.
+
+
+
+NAME The Leonidas D
+CITATION The Leonidas D [1985] 1 WLR 925
+CATEGORY Communication of Acceptance; Acceptance By Silence/Inactivity
+FLAGS Treitel
+HELD An agreement to abandon a course of action on which parties to a contract engaged, such as arbitration, may not be inferred from the protracted silence of both parties. Although long silence and inaction often comes reflects a shared desire to let a matter evaporate, silence and inaction are also consistent with forgetfulness, sloth and administrative fuckup.
+
+
+
+NAME Vitol SA v Norelf Ltd
+CITATION Vitol SA v Norelf Ltd [1996] AC 600
+CATEGORY Communication of Acceptance; Acceptance By Silence/Inactivity
+FLAGS Treitel; Steyn
+HELD The rule against acceptance by silence or inaction does _not_ apply to the repudiation of a contract by one party, which the other has breached.
+
+
+
+NAME Re Selectmove
+CITATION Re Selectmove Ltd [1995] 1 WLR 474
+CATEGORY Communication of Acceptance; Acceptance By Silence/Inactivity
+FLAGS Peter Gibson
+HELD Obiter, Peter Gibson Jahhstice: when an offeree declares the offer should be considered accepted, unless by a certain time an indication is given to the contrary, the offer has been validly accepted.
+
+
+
+--NAME Dresdner Kleinwort Ltd v Attrill
+--CITATION Dresdner Kleinwort Ltd v Attrill [2013] EWCA Civ 394
+--CATEGORY Communication of Acceptance; Acceptance By Silence/Inactivity
+--HELD ...
+
+
+
+
+NAME Mulcaire v News Group
+CITATION Mulcaire v News Group [2011] EWHC 3469 Ch
+CATEGORY Communication of Acceptance; Transmission of Acceptance
+HELD An offeror is free to stipulate that an offer can only be validly accepted in a particular way.
+
+
+NAME Eliason v Henshaw
+CITATION Eliason v Henshaw (1819) Wheat 225
+CATEGORY Communication of Acceptance; Transmission of Acceptance
+HELD An offeror is free to specify the means by which acceptance should be communicated. Acceptances communicated by other means will be invalid only should that other means be excluded by the stipulation, or by the reason for which stipulation was made.
+
+
+NAME Entores v Miles
+CITATION Entores v Miles Far East Corporation [1955] 2 QB 327
+CATEGORY Communication of Acceptance; Transmission of Acceptance
+FLAGS Denning
+HELD An acceptance transmitted electronically will be deemed to be accepted at the time and place of its receipt. Should a message accepting an offer not get through, but the sender reasonably believes it has, the offer will not have been accepted.
+
+
+
+NAME The Brimnes
+CITATION The Brimnes [1975] QB 929
+CATEGORY Communication of Acceptance; Transmission of Acceptance
+HELD An offeror whose offer allows for acceptance by electronic means may not rely on failure to check whether messages were validly received.
+
+
+
+
+
+NAME Household Fire Insurance v Grant
+CITATION Household Fire Insurance Co v Grant (1879) 4 Ex D 216
+CATEGORY Communication of Acceptance; Postal Rule
+FLAGS Bramwell
+HELD Even when a letter accepting an offer never arrives, the postal rule causes it nevertheless to be _valid acceptance_.
+
+
+
+NAME Henthorn v Fraser
+CITATION Henthorn v Fraser (1892) 2 Ch 27
+CATEGORY Communication of Acceptance; Postal Rule
+HELD The postal rule for acceptance applies when it could be said to have occurred to the parties that acceptance might be posted; i.e., only when it would be _reasonable_ to accept an offer by post.
+
+
+NAME Holwell v Hughes
+CITATION Holwell Securities Ltd v Hughes [1974] 1 WLR 155
+CATEGORY Communication of Acceptance; Postal Rule
+FLAGS Bramwell
+HELD The postal rule may be implicitly ousted by the language of an offer, such as a requirement to give _notice_ of acceptance to the offeror. Even should the accepted test for the postal rule be met -- that acceptance by post was contemplated -- the postal rule will not apply. The postal rule will not be imposed, even when logical to do so on application of precedent, when that would lead to 'manifest inconvenience and absurdity.'
+
+
+
+
+
+NAME Korbetis v Transgrain Shipping
+CITATION L J Korbetis v Transgrain Shipping BV [2005] EWHC 1345
+CATEGORY Communication of Acceptance; Postal Rule
+
+

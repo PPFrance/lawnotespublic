@@ -1,0 +1,552 @@
+NAME Defamation
+TYPE Concept
+CATEGORY Defamation; Slander; Libel
+SUMMARY As every good cabbie knows, this divides into *slander* and *libel*, which is between statements *ephemeral* in character and ones with more *permanence*. The classic distinction between things *said* and things *written* is more or less correct, but slander has a _general_ requirement of *special damage* - |Youssoupoff v MGM|, and the thing published does not have to be words - |Monson v Tussauds|.
+SUMMARY Almost all the modern cases have involved 5RB, who've assembled a very useful and well-written compendium of summaries and discussions -  http://www.5rb.com/case
+SUMMARY You can say what you like about *the dead*, *government bodies* and *political parties*. Knock yourself out. E.g., 'Hitler was a bit of a baddie,' 'The DWP is inefficient and arbitrary,' and 'UKIP is basically evil.'
+SUMMARY The |Defamation Act 2013| cleaned up and reformed this area, softening threat 'I'll sue you _in England_.' It also *removed* the presumption that *actions in defamation* are to be tried before a *jury*. 
+SUMMARY *Slander* requires proof of injury *having been* sustained, *special damage*, except when it imputes *imprisonable criminal conduct* - |Gray v Jones|, or *unfitness in business*, which is the most frequently-invoked exception - S2 _Defamation Act 1952_. There used to be two more exceptions: imputation of (certain) *contageous diseases* - |Bloodworth v Gray| and imputation of *unchastity* (!) -  _Slander of Women Act 1891_. 
+SUMMARY For a claim in defamation to succeed, the following elements must be shown of the material in question, after which the burden shifts to the defendant to establish a defence: 
+/->-*(1)* It was *defamatory* - |Sim v Stretch|, |Youssoupoff|. Words in jest _may_ be exempt, per dissent in |Berkoff v Burchill|, and that the fair-minded members of the public who have to have their estimation of the claimant lowered for an action to succeed, would read the whole of the article, headline and accompanying pictures - the _Neighbours_ case, |Charleston v News Group|. It must be be *serious* - |Thornton v Telegraph|. If it's *innuendo*, then it's either *false* (popular), which can be understood by everyone - |Lewis v Daily Telegraph|, or *true* (legal), only decodable by those with special knowledge - |Cassidy v Daily Mirror|.
+/->-*(2)* It refers to the *claimant* - and the best way of doing this is by _name_, whether or not you're making it up - |Hulton v Jones|. It can also refer to them only _by accident_ - |Newstead v London Express|. Note that the principle of accidental identification does *not* apply to lookalike photos - |O'Shea v MGN|, for ECHR Art. 10 reasons.
+/->-*(3)* It was *published* by the defendant - to at least one person _other_ than the claimant. Except the Butler - |Huth v Huth|.
+
+
+NAME Defamation - Reading
+TYPE Reading
+SUMMARY ~*Essential*~
+SUMMARY Steele, _Tort Law_, ch. 13
+SUMMARY |Youssoupoff v MGM| - |Sim v Stretch| - |Cooke v MGN| - |Byrne v Deane| - |Baturina v Times| - |Lewis v Daily Telegraph| - |Cassidy v Daily Mirror| - |Hulton v Jones| - |Godfrey v Demon| - |Bunt v Tilley| - |Tamiz v Google| - |Grobbelaar v News Group| - |British Chiropractic Association v Singh| - |Defamation Act 2013| - |Defamation Act 1996| - |Reynolds v Times Newspapers| - |Horrocks v Lowe| - |Flood v The Times| - |Steel and Morris v UK| - |John v MGN|
+SUMMARY ~*Additional*~
+SUMMARY C. de Than, _The Defamation Act 2013: The Art of Missing The Bigger Picture_, at - <br> http://inforrm.wordpress.com/2014/03/24/the-defamation-act-2013-the-art-of-missing-the-big-picture-claire-de-than/ <br> S. Gale, _Qualified Privilege in Defamation and the Evolution of the Doctrine of Reportage_ (2015) 23 Tort L Rev 16<br> D. Hooper, K. Waite, and O. Murphy, _Defamation Act 2013 - what difference will it really make?_ (2013) 24 Ent LR 199<br> A. Mullis and A. Scott, _Tilting at Windmills: The Defamation Act 2013_ (2014) 77 MLR 87<br> P. Steele, _Defamation Act 2013: A Sensible Balance or a Step Back?_ at -<br> http://inforrm.wordpress.com/2014/01/03/defamation-act-2013-a-sensible-balance-or-a-step-back-philip-steele/<br> D. Tan, _The Reynolds Privilege Revitalised_ (2013) 139 LQR 27<br> Taylor Wessing, _Defamation Act 2013: Taylor Wessing Analysis_, at - <br> http://www.taylorwessing.com/fileadmin/files/docs/The-Defamation-Act-2013.pdf
+SUMMARY |Gray v Jones| - |Bloodworth v Gray| - |Monson v Tussauds| - |Berkoff v Burchill| - |Charleston v News Group| - |Thornton v Telegraph| - |Ames v Spamhaus Project Ltd| - |Tolley v Fry| - |Morgan v Odhams Press| - |O'Shea v MGN| - |Knuppfer v London Express| - |Theaker v Richardson| - |Loutchansky v The Times (no 2)| - |Times Newspapers Ltd v United Kingdom| - |Edwards v Bell| - |Telnikoff v Matusevich| - |Waterson v Lloyd| - |Spiller v Joseph| - |A v UK| - |Watt v Longsdon| - |Clift v Slough| - |Milne v Express|
+
+
+
+NAME Youssoupoff v MGM
+AKA Youssoupoff
+YEAR 1934
+COURT EWCA
+CITATION Youssoupoff v Metro-Goldwyn-Mayer Pictures Ltd (1934) 50 TLR 581
+CATEGORY Defamation; Slander; Libel
+FLAGS Key; Development; Criticised; Amusing; EPLR
+SUMMARY The plaintiff, an emigrée Russian princess, complained that the character of Princess Natasha in the defendant's film _Rasputin, the Mad Monk_ was obviously her. The film suggested that she had been seduced by Rasputin, and she was awarded £25K damages at trial. The defendant argued that if there was an indication of nookie between Rasputin and Natasha, it was in fact _rape_, or as the headnotes on Lexis put it, _ravishing_, not seduction. 
+HELD Defamation on screen or other means of reproduction is *libel*, not slander; damages in defamation are a matter for the jury.
+HELD That implying a woman has been _ravished_ is defamatory, as it will cause her the special damage of being shunned. 
+
+NAME Gray v Jones
+YEAR 1939
+CITATION Gray v Jones [1939] 1 All ER 795
+CATEGORY Defamation; Slander; Special Damage Exceptions in Slander
+FLAGS Key; Development
+SUMMARY The defendant innkeeper had said publicly of the claimant that they were a *convict*, and refused the claimant board, saying 'I won't have you here.'  
+HELD There is no requirement to show *special damage* when the slander is an imputation of criminal conduct punishable by (more than six months) porridge.
+	
+NAME Bloodworth v Gray
+YEAR 1844
+CITATION Bloodworth v Gray (1844) 7 Man & G 334
+CATEGORY Defamation; Slander; Special Damage Exceptions in Slander
+FLAGS Key; Development; Overruled
+SUMMARY The defendant had said of the claimant 'he's got the damn pox,' meaning presumably the _French disease_.
+HELD Imputation of certain contagious diseases is actionable in slander without proof of special damage.
+
+#Fucking hell, why does westlaw not have any of these cases?!?!?! 
+
+NAME Sim v Stretch
+YEAR 1936
+COURT UKHL
+CITATION Sim v Stretch [1936] 2 All ER 1237
+CATEGORY Defamation; Meaning of Defamatory
+FLAGS Key; Leading; Test; EPLR
+SUMMARY The claim was that the defendant had sent him a telegram in which he'd accused the claimant of _enticing away a servant_. Tempora mutantur. The question in the HL was whether the words were in fact defamatory.
+HELD Lord Atkin - the conventional requirement that the material caused the claimant _exposure to hatred, ridicule or contempt_, should be replaced with a less-restrictive definition, that *defamatory* should mean '*lowering the reputation of the claimant* in the estimation of *"right-minded" members of society*.' 
+
+NAME Monson v Tussauds
+YEAR 1894
+COURT EWCA
+CITATION Monson v Tussauds Ltd [1894] 1 QB 671
+CATEGORY Defamation; Meaning of Defamatory; Innuendo
+FLAGS Key; Leading; Amusing
+SUMMARY The defendant had been tried for murder but acquitted _not proven_. The defendant put a waxwork of him alongside those of a convicted murderer, Napoleon, a suicide and another murderer, guarding the entrance to the 'Chamber of Horrors'.
+HELD Libel can be _by innuendo_, and although the publication must be in a permanent form, this need not be in words. 
+HELD His claim was allowed, and was awarded _a farthing_ in damages.
+COMMENT _Not proven_ is the Scottish half-way house between guilty and not-guilty.
+
+NAME Berkoff v Burchill
+YEAR 1996
+COURT EWCA
+CITATION Berkoff v Burchill and The Times [1996] 4 All ER 1008
+CATEGORY Defamation; Meaning of Defamatory; No imputation of improper conduct
+FLAGS Key; Leading; Amusing
+SUMMARY The defendant, a notably-waspish journalist, had said the claimant, an actor, was '_hideously ugly_' in print.
+HELD Whether words are defamatory is a matter for the jury. By majority, To call an actor '_hideously ugly_' could expose him to ridicule, and so was defamatory, even if there was no imputation of bad conduct.
+HELD Millett LJ, dissenting, held that words meant *in jest* should not be actionable. 
+
+
+NAME Charleston v New Group
+YEAR 1995
+COURT UKHL
+CITATION Charleston v News Group Newspapers Ltd [1995] UKHL 2 AC 65
+CATEGORY Defamation; Meaning of Defamatory; Totality of Published Material
+FLAGS Key; Leading; Amusing
+SUMMARY Two actors in 'Neighbours' had had their heads photoshopped onto a pornographic image. The defendant published it to accompany a headline and story. The actors sued, claiming that most people would see the photo and headline, and _jump to conclusions_.
+HELD The "right-minded" members of society, whose estimation of a claimant in defamation must be lowered, will be taken to read *the whole of the publication*, rather than just, e.g., a headline or photo that taken on its own would be defamatory.
+
+
+
+NAME Defamation Act 2013
+TYPE Statute
+LEGILINK http://www.legislation.gov.uk/ukpga/2013/26/contents/enacted
+WIKILINK https://en.wikipedia.org/wiki/Defamation_Act_2013
+CATEGORY Defamation; Statute; Meaning of Defamatory; Requirement of Seriousness; Multiple Publication; Defences; Truth; Opinion or Truth; Websites
+SUMMARY ~*Serious Harm*~
+/->-There must be actual or potential *serious harm* arising from the material. 
+/->-*S1(1)* 'A statement is not defamatory unless its publication has caused or is likely to cause serious harm to the reputation of the claimant.' *S2* - absolute defence of (substantial) *truth* - |Grobbelaar|.
+/->-*S3* - absolute defence of *honest opinion*.  
+SUMMARY ~*Opinion*~
+/->-*S3(3)* - opinion could have been held by an honest person basis of 'any fact which existed at the time [of publication]' or 'anything asserted to be a fact in a privileged statement published _before_ the statement.'
+/->-*S3(4)* - the opinion must have been held *honestly*.
+SUMMARY ~*Publication in the Public Interest*~
+/->-*S4(1)* - This defence operates when (a) the statement was *in the public interest* and (b) the *defendant reasonably believed so*.
+/->-*S4(6)* - 'The common law defence known as the Reynolds defence is abolished.' (Lol, _really?_ It's still relied upon in 2015...)
+/->-*S4(6)* - the |Reynolds| defence is 'replaced' by 'publication in the public interest.
+SUMMARY ~*Operators of Websites*~
+/->-*S5* - a website operator has *S5(3)* to show they didn't post the statement, unless the claimant can show *S5(3)* (a) the author couldn't be identified by the claimant, (b) they complained to the operator but (c) the operator didn't respond (in accordance with the Act's regulations in force). See |Godfrey v Demon|.
+SUMMARY ~*Single Publication Rule*~
+/->-*S8* provides that repeatedly publishing the same, or substantially the same, actionable statement gives rise to a cause of action on *the date of first publication*, unless *(S8(4))* the manner of subsequent publication is materially different - |Loutchansky| and |The Times v UK|.
+SUMMARY ~*New Remedies*~
+/->-*S12* and *S13* provide _publication of summary of judgment_ and _order to cease distribuing_ as new things to plead for. See |Defamation - Remedies|
+
+
+
+NAME Thornton v Telegraph
+YEAR 2010
+COURT EWHC
+CITATION Thornton v Telegraph Media Group Ltd [2010] EWHC 1414 (QB) 
+CATEGORY Defamation; Meaning of Defamatory; Requirement of Seriousness
+FLAGS Important; Amusing
+SUMMARY Lynn Barber had written a disobliging review of the claimant's book in the defendant newspaper. In it, she said of the claimant that she practiced _copy approval_, i.e., sending the transcript of an interview to an interviewee after the fact. That, she said, was something of which _real_ writers and journos disapprove with vehemence (because to do so is to jeopardise neutrality, trustworthiness, integrity, credibility and so on). 
+HELD The imputation must be _serious_ to succeed in defamation. Merely saying that a writer followed an unconventional practice, or one subject to criticism, is not enough. 
+COMMENT Lynn Barber said, on Desert Island Discs in 2010 that at Oxford, she slept with "probably 50 men" during *two terms* at Oxford: "It was quite good going. I was just jamming them in." 
+
+NAME Cooke v MGN
+YEAR 2014
+COURT EWHC
+CITATION Cooke v Mirror Group Newspapers Ltd [2014] EWHC 2831 
+CATEGORY Defamation; Meaning of Defamatory; Requirement of Seriousness; Apology or Retraction
+FLAGS Important; EPLR
+SUMMARY The scandal-sheet purveying defendant published a story about slum landlords, focusing on someone other than the claimant. They, though, were named in a 'rogue's gallery' accompanying the story, which was splashed on the front-paged with the headline MILLIONAIRE TORY CASHES IN ON TV BENEFITS STREET. A week later, the newspaper published an apology and a correction. 
+HELD The publication of an apology, so as to reach the same audience, may militate against there being _serious harm_.
+TRIVIA Paul Nischal was the first conservative parliamentary candidate of Indian origin.
+
+
+NAME Ames v Spamhaus Project
+YEAR 2015
+COURT EWHC
+CITATION Ames v The Spamhaus Project Ltd [2015] EWHC 127
+CATEGORY Defamation; Meaning of Defamatory; Requirement of Seriousness; Defamation Act 2013
+FLAGS Important
+SUMMARY The claimants owned a successful 'direct email marketing' company. The defendants published claims on their website that the claimants were spam-merchants, and as they put it, 'cybercriminals.'
+HELD Serious *claims* do not necessarily do actual or potential serious *harm* as required by S1 of the |Defamation Act 2013|.
+
+
+#Standard of Opinion
+NAME Byrne v Deane
+YEAR 1937
+COURT EWCA
+CITATION Byrne v Deane [1937] EWCA 1 KB 818
+CATEGORY Defamation; Meaning of Defamatory; Public Opinion; Reference to Claimant
+FLAGS Key; Amusing; EPLR
+SUMMARY Someone had dobbed in a golf club to the rozzers for having illegal gambling machines. A note with accusing the claimant was put on the noticeboard by the defendant.
+SUMMARY The text of the note - 'For many years upon this spot/You heard the sound of a merry bell/Those who were rash and those who were not/Lost and made a spot of cash/But he who gave the game away/May he *Byrne* in hell and rue the day.' 
+HELD The allegation complained of must tarnish the opinion of the claimant in the opinion of the _right-minded_ member of society invoked by Lord Atkin in |Sim v Stretch|. 
+HELD The action alleged of the claimant was not dishonourable.
+
+
+#Innuendo
+NAME Baturina v Times
+YEAR 2011
+COURT EWCA
+CITATION Baturina v Times Newspapers [2011] EWCA Civ 308
+CATEGORY Defamation; Meaning of Defamatory; Innuendo
+FLAGS Important; EPLR
+SUMMARY A Russian businesswoman, who'd recently made a formal declaration of assets as obliged by Russian anti-corruption law, was said in the defendant newspaper to have spent £50M on a mansion in Highgate bought via the BVIs, and was planning on emiserating her neighbours by building an iceberg-basement.
+HELD Even if an innuendo is not intended or foreseen to have a defamatory effect, it can nevertheless be actionable.  TODO, unclear.
+COMMENT This could be seen to amount to strict liability.
+
+NAME Lewis v Daily Telegraph
+YEAR 1964
+COURT UKHL
+CITATION Lewis v Daily Telegraph Ltd [1964] AC 234
+FLAGS Important; EPLR
+CATEGORY Defamation; Meaning of Defamatory; Innuendo; False (popular) Innunendo
+SUMMARY A newspaper article said the claimant company was being investigated for fraud. This was in fact _true_. The claimant sued, arguing the words amounted to a statement that they were _guilty_ of fraud.
+HELD The _right-minded_ person would not infer a person to be _guilty_ from a statement that an investigation is being conducted.
+
+
+NAME Cassidy v Daily Mirror
+YEAR 1929
+COURT EWCA
+CITATION Cassidy v Daily Mirror Newspapers Ltd [1929] 2 KB 331
+CATEGORY Defamation; Meaning of Defamatory; Innuendo; True (legal) Innunendo
+FLAGS Important; EPLR
+SUMMARY The defendant published a photo of the claimant, a noteable racehorse owner, and a young woman, with the caption saying the two had announced their engagement. But the defendant was already married. The claimant argued that those who actually _knew_ him might, on seeing the material, think he was an adulterer.
+HELD Material that superficially has no defamatory import *can* be defamatory, if the material would be cast in a different light to a certain class of people who have extra information. 
+
+NAME Trolley v Fry
+YEAR 1931
+COURT UKHL
+CITATION Tolley v JS Fry & Sons Ltd [1931] UKHL 1
+CATEGORY Defamation; Meaning of Defamatory; Innuendo; True (legal) Innunendo
+FLAGS Important
+SUMMARY The claimant, an amateur golfer, sued the defendant for having used his image in a chocolate ad without consulting him. The special knowedge was that those who knew him would think he was in breach of the rule against remuneration in amateur golfing.
+HELD An inference about someone's conduct available _only to those known personally to him_ could indee be drawn from an innocuous publication such as an advertisement, and as such,following |Cassidy v Daily Mirror|, it could be defamatory.
+
+#Reference to the claimant
+
+NAME Hulton v Jones
+YEAR 1910
+COURT UKHL
+FLAGS Important; Amusing; EPLR
+CITATION E. Hulton & Co v Jones [1910] AC 20
+CATEGORY Defamation; Reference to Claimant; Accidental Defamation
+SUMMARY A lazy journalist, wanting to add colour to a story about a motor show in France, added in a bit about having seen there 'Artemus Jones with a woman not his wife who must be you know – the other thing.' He thought that was a safe name to invent, but he was wrong, and the real Artemus Jones was a barrister.
+HELD A reasonable reader would think, on reading a publication naming a person and purporting to be factual, that the person had done what was said.
+
+
+NAME Newstead v Express
+YEAR 1940
+COURT EWCA
+CITATION Newstead v London Express Newspaper Ltd [1940] 1 KB 377
+CATEGORY Defamation; Reference to Claimant; Accidental Defamation
+SUMMARY The defendant published details of a trial, saying the defendant, 'Harold Newstead, a 30-year-old Camberwell man,' had been sent down for bigamy. But there happened to be _two_ such people, the non-incarcerated of which sued.  
+HELD A publication which is *accidentlly* defamatory is nevertheless actionable. What is to be considered is _what a fair-minded reader would think_. 
+
+NAME Morgan v Odhams Press
+YEAR 1971
+COURT UKHL
+CITATION Morgan v Odhams Press Ltd [1971] 1 WLR 1239
+CATEGORY Defamation; Reference to Claimant
+FLAGS Key; Test
+SUMMARY A story was published in the defendant's newspaper which carried the implication that the claimaint, a journalist, had been involved in a woman's kidnapping. He was not named, but he argued it carried enough implications, to those who knew him, to identify him de facto.
+HELD The test for whether a publication refers to a claimant is whether the ordinary, sensible reader would understand the words as referring to the claimant, _in light of any facts known to him_. 
+
+
+NAME O'Shea v MGN
+YEAR 2001
+COURT EWHC
+CITATION O'Shea v Mirror Group Newspapers Ltd [2001] EMLR 40
+CATEGORY Defamation; Reference to Claimant; Art. 10 in Defamation
+FLAGS Leading
+SUMMARY The defendant's website featured adverts for a porn-site in which appeared a "model" who was a dead-ringer for the claimant. So she sued, arguing those who knew her would think she was involved in the pornography business. The defendant argued the claim was incompatible with article 10(2) rights.
+HELD When the publication is a photo, then the rule of |Newstead v Express| and |Morgan v Odhams Press|, in which there was liability for innocent defamation, cannot apply. If it were to, that would amount to an infringement of ECHR Art. 10(2).
+
+
+
+
+NAME Knupffer v London Express
+YEAR 1944
+COURT UKHL
+CITATION Knupffer v London Express [1944] UKHL 1
+CATEGORY Defamation; Reference to Claimant; Group Defamation
+FLAGS Important
+SUMMARY The claimant was the head of the national branch a political party _Mlado Russ_, Young Russia, which had twenty or so members in England. It was described by the defendant newspaper as acting for Hitler.
+HELD If a reasonabe person could interpret a statement about a *group* as *applying to each member* of it, then the requirement of reference to _individual_ members of the group would be satisfied.
+
+
+
+NME Huth v Huth
+YEAR 1915
+COURT EWCA
+CITATION Huth v Huth [1915] 3 KB 32
+CATEGORY Defamation; Publication
+FLAGS Key; EPLR
+SUMMARY A husband, contemptuous of his estranged wife, sent her a bill that'd arrived at his house, on which he'd written (addressing the sender of the bill) the woman purporting to be his wife was in fact a woman by the name of [and then her maiden name]. His wife's butler opened it and read it. Their four children sued (!) the husband, on the basis that he'd published a statement implying they were illegitimate.  
+SUMMARY Had the note been published?
+HELD Communication from a man to his wife is not publication. When there is no intention for a defamatory statement to be published, and when it has only been seen by another through their immoral actions (here, an over-curious butler reading a private note), then there is no liability in defamation.
+
+
+NAME Theaker v Richardson
+YEAR 1963
+COURT EWCA
+CITATION Theaker v Richardson [1963] 1 WLR 151
+CATEGORY Defamation; Publication
+FLAGS Important
+SUMMARY The defendant had written a letter to the claimant saying, inter alia, that she was 'a very dirty whore' and 'a lying low-down brothel-keeping whore and thief.' This he put in an envelope, which he sealed, and taped down the flap, just to be sure. He put it through the claimant's door, but her _husband_ opened it, mistakenly thinking it was for him.
+HELD Sending a defamatory letter purporting to be private, but demonstrating a reasonable expectation that it might be opened and seen by others, means the letter has been published. 
+
+#Publication on the internet.
+NAME Godfrey v Demon
+YEAR 2001
+COURT EWHC
+CITATON Godfrey v Demon Internet Ltd [2001] QB 201
+CATEGORY Defamation; Publication; Websites; Defences; Innocent Dissemination
+FLAGS Key; EPLR
+SUMMARY A defamatory post had been hosted on the defendant's servers. The claimant asked the defendant to remove it. This they later did.
+HELD Although hosting of publicly-available information is publishing at common law, the host of a forum or blog is not a commercial publisher for the purposes of the |Defamation Act 1996| S1(2). Nevertheless, once notified, such a host must take steps swiftly to remove the objectionable content.
+
+NAME Bunt v Tilley
+YEAR 2007
+COURT EWHC
+CITATON Bunt v Tilley [2007] 1 WLR 1243
+CATEGORY Defamation; Publication; Websites
+FLAGS Important; EPLR
+HELD An ISP merely facilitating forum posts is not a publisher at common law *unless* they are knowingly involved - and they become knowingly involved once they are alerted to the content and refuse to remove it.
+
+NAME Tamiz v Google
+YEAR 2013
+COURT EWCA
+CITATON Tamiz v Google [2013] EWCA Civ 68
+CATEGORY Defamation; Publication; Websites
+FLAGS Key; EPLR
+SUMMARY The claimant had been roundly slagged off on a blog hosted by the respondent. He asked them to remove it; a month later they in turn contacted the blogger _asking him_ (!) to take the post down. This he did, more than a month after the claimant had first contacted the respondent.
+HELD The host of a blog who does not remove defamatory material a *reasonable time* after notification might be inferred to have *associated themselves with*, or become responsible for, the presence of the material. Thereby they would become its *publisher*.
+HELD But on the facts, the seriousness and audience were minimal, and the claim was struck out.
+
+
+NAME Loutchansky v The Times (no 2)
+AKA Loutchansky
+YEAR 2001
+COURT EWCA
+FLAGS Criticised
+CITATON Loutchansky v Times Newspapers Ltd (mo 2) [2001] EWCA Civ 1805
+CATEGORY Defamation; Multiple Publication
+SUMMARY The defendant published an article saying the claimant, an 'international businessman' (i.e., a ghastly ratbag), was a money-launderer and a _smuggler of nuclear weapons_, both serious things to be called. The article was published in print, and then was continously available online and in the defendant's archive.
+SUMMARY Did each publication give rise to a separate cause of action? 
+HELD Each time an article is viewed, for the purposes of defamation at common law, there has been a fresh publication leading to a fresh cause of action.
+
+
+NAME The Times v UK
+YEAR 2009
+COURT ECHR
+CITATON Times Newspapers Ltd v United Kingdom [2009] EMLR 14
+CATEGORY Defamation; Multiple Publication; Art. 10 in Defamation
+SUMMARY The defendant in |Loutchansky| in Strasbourg, arguing their ECHR Art. 10 rights were infringed by the severe impact on internet publishers of news of the _lack of_ a single-publication rule.
+HELD The lack of a single-publication rule was perhaps a breach of a newspaper's article 10 rights, but a justified one; and courses of action for multiple publication could in any case be avoided by publishers of internet archives simply by attaching a note to the contentious material.
+
+
+
+#Defences
+
+
+NAME Defamation - Defences I
+TYPE Concept
+CATEGORY Defamation; Defences
+SUMMARY Substantial *Truth* (known previously at common law as *justification*), provided for by *S2* |Defamation Act 2013|. An exception is given by *S8* _Rehabilitation of Offenders Act 1974_, in which the truth cannot be relied upon when  _maliciously_ publishing of details of spent convictions. (How does this square with tabloids publishing rogues galleries of, e.g., paedophiles?) 
+SUMMARY ~*Honest opinion*~
+/->-An absolute defence under *S3* |Defamation Act 2013|. The dividing line between a statement being a *fact* and an *opinion* is fuzzy - |Quacks v Singh|. To say something is scandalous, when the reported facts are correct, is opinion - |Waterson v Lloyd|. But it's generally better to signpost opinion as such, and opinion must *explain itself* - |Spiller v Joseph|, and be *genuinely* held (*S3(3)*)
+SUMMARY ~*Privilege*~ needs and deserves its own section - |Defence of Privilege|.
+SUMMARY Publication in the *Public Interest* has 'replaced' the |Reynolds Defence|, and is provided for by S4 |Defamation Act 2013|, which requires the defendant to show *S4(1)(a)* publication was in the public interest and S4(1)(b) they *reasonably believed* that.
+SUMMARY ~*Offer of Amends*~
+/->-From S2 |Defamation Act 1996|, this is an *apology and an admission of guilt*. The defendant must (1) *admit guilt*, (2) offer to make a *suitable correction* and *sufficient apology*, (3) in a *manner reasonable* and practicable in the circs., and (4) *offer compensation* and/or *costs*. If all the elements are there, the defence has wings, unless the defendant S4(3)(b) *knew* or *had reason to believe* the claims were false, i.e., the defendant was acting in bad faith - |Milne v Express|.
+SUMMARY ~*Innocent Dissemination*~
+/->-S1 |Defamation Act 1996| provides this defence to one who (1) is *not* author, editor or *publisher*; (2) had *taken care* in relation to the publication and (3) neither knew nor had reason to believe had contributed to publication of a defamatory statement.
+
+NAME Grobbelaar v News Group
+AKA Grobbelaar
+YEAR 2002 
+COURT UKHL
+CITATION Grobbelaar v News Group Newspapers Ltd [2002] UKHL 40
+FLAGS Key; Amusing; EPLR
+CATEGORY Defamation; Defences; Substantial Truth; Sting of Allegation; Remedies; Derisory Damages; Bribery
+SUMMARY The claimant had been filmed by a reporter from the defendant clearly accepting a bribe to fix a match. The defendant published, saying the claimant was a corrupt ratbag of a match-fixing _bribe-taker_. There was clear evidence that he _had_ taken a bribe. He claimed, however, he had done so only in order to get to the bottom of who was offering bribes. Astoundingly, the jury awarded £85K damages, on the basis that the defendant had not justified the _sting of the allegation_, which was to destroy the claimant's reputation. 
+SUMMARY The CA found the jury's verdict was irreconcilable with the evidence and set it aside, but held the series of publications nevertheless contained allegations going far beyond what was supported by their secret recordings. 
+HELD Defamation exists to protect those whose reputations have been trashed *unjustly*, *by others*. Not to protect those who trash their reputations by themselves and are merely *exposed* by others, who publish the (substantial) truth.
+HELD The CA erred in setting aside the jury's verdict, and so it was reinstated. But with damages reduced by £84,999.
+HELD Lord Bingham - 'The tort of defamation protects those whose reputations have been *unlawfully injured*. It *affords little or no protection* to those who have, or deserve to have, *no reputation deserving of legal protection*. Until 9 November 1994 when the newspaper published its first articles about him, the appellant's public reputation was unblemished. But he had in fact acted in a way in which no decent or honest footballer would act and in a way which could, if not exposed and stamped on, undermine the integrity of a game which earns the loyalty and support of millions.'
+
+
+
+(a)	Opinion rather than fact?
+
+NAME Telnikoff v Matusevich
+YEAR 1991
+COURT UKHL
+CITATION Telnikoff v Matusevich [1991] 2 AC 343
+CATEGORY Defamation; Defences; Opinion or Truth
+SUMMARY The claimant had written an article to which the defendant wrote a letter to the editor, insinuating the author of the piece, the claimant was racist. Read alone, the letter would clearly constitute assertions of fact, but in the context of the article, it would be merely opinion.
+HELD A letter written in reaction to an article is to be considered a separate publication, and is not to be considered in the context of the article to which it relates; the fair-minded member of the public may well read the letter, but not have read the article.
+
+NAME British Chiropractic Association v Singh
+AKA Quacks v Singh
+YEAR 2010
+COURT EWCA
+LINK Yet another reason to hate Jeremy Hunt http://www.theguardian.com/politics/2014/may/08/jeremy-hunt-homeopathy-studies-chief-medical-officer
+LINK World Homeopathy Awareness Week (10/05/2016)!  http://sfsbm.org/index.php?option=com_easyblog&view=entry&id=953&Itemid=649
+CITATION British Chiropractic Association v Singh [2010] EWCA Civ 350
+FLAGS Key; Amusing; EPLR
+CATEGORY Defamation; Defences; Opinion or Truth
+SUMMARY The claimants, purveyors of dangerous quackery, sued the defendant, an honest and diligent science journalist, for having written an excoriating piece in the Guardian in which he trashed their 'treatments' as the bogus, dangerous snake-oil that they are, undermining the public understanding of science.
+HELD Calling someone out for making a claim (on which it might happen to rely for business, for instance), but for which it has no proof, cannot give liability in defamation. To do so is not to assert a fact, but rather an opinion as to the veracity of the claims.
+
+NAME Waterson v Lloyd
+YEAR 2013
+COURT EWCA
+CITATION Waterson v Lloyd [2013] EWCA Civ 136		
+CATEGORY Defamation; Defences; Opinion or Truth
+SUMMARY The objectionable publication alleged an MP had made a _scandalously_ large expenses claim. There were no claims that the MP had acted illegally, merely that they had claimed £70K in exs for a second home a whole _60 miles_ further from their permanent address.
+HELD Calling something '_scandalous_' is an assertion of opinion, not fact.
+HELD See also |Quacks v Singh| and |Spiller v Joseph|.
+
+NAME Spiller v Joseph
+YEAR 2010
+COURT UKSC
+LINK On 5rb.com http://www.5rb.com/case/spiller-anor-v-joseph-ors/
+CITATION Spiller v Joseph [2010] UKSC 53
+CATEGORY Defamation; Defences; Opinion or Truth
+SUMMARY The relationship between a promoter and one of its acts had broken down. The promoter said on its website the act was too _unprofessional_ to feature in the their portfolio of acts and had breached were a pain to work with. They quoted from an email they'd received from the act saying  their '_contract_ did not hold water,' but said 'contract_*s*_.' 
+HELD Opinion *not* published with the facts on which the opinion is based *may not rely on the honest opinion* as a defence.
+HELD Dicta of Lord Nichols (in a PC case) - 'The comment must explicitly or implicitly indicate, at least in general terms, the facts on which it is based. The *reader or hearer should be in a position to judge for himself* how far the comment was well founded'.
+
+
+NAME Defamation Act 1996
+TYPE Statute
+LEGILINK http://www.legislation.gov.uk/ukpga/1996/31/contents
+WIKILINK https://en.wikipedia.org/wiki/Defamation_Act_1996
+CATEGORY Defamation; Defences
+FLAGS EPLR
+SUMMARY Art. 9 _Bill of Rights 1689_ - the origin of absolute privilege for defamation for *things said in Parliament*. For repeating such things in print, S1 _Parliamentary Papers Act 1840_, and S1 |Defamation Act 2013| *extended absolute privilege* to *things said in court*.
+SUMAMRY ~*Waiver of Absolute Privilege*~
+/->-*S13* - amended the Bill of Rights to allow MPs do this, a response to the 'Cash for Questions' scandal in which, in their libel actions, MPs couldn't rely on what they'd said in the house. 
+SUMMARY ~*Defence of Innocent Dissemination*~
+/->-*S1* - for one who is (1) not the author, editor or publisher; (2) having taken care, and (3) being without knowledge or reason to believe contributing to publication of defamatory statement.
+SUMMARY ~*Defence of Offer to Amends*~
+/->-*S2* - the defendant must (1) *admit guilt*, (2) offer to make a *suitable correction* and *sufficient apology*, (3) in a *manner reasonable* and practicable in the circs., and (4) *offer compensation* and/or *costs*. If all the elements are there, the defence has wings.
+/->-*S4(3)* - the defence is removed from those who act in bad faith, i.e., (c) who *know* or *have reason to believe* the was *false* and *defamatory*.
+
+NAME A v UK
+YEAR 2003
+COURT ECHR
+CITATION A v United Kingdom (2003) 36 EHRR 51
+CATEGORY Defamation; Defences; Art. 6 in Defamation; Absolute Privilege
+SUMMARY A woman and her family were described as _neighbours from hell_ in a parliamentary debate. She sued under ECHR Art. 6.
+HELD The exercise of absolute privilege in Parliament does not impose a _disproportionate_ restriction on a person's access to justice, where the privileged statement was of a defamatory character.
+
+
+NAME Defamation - Defences II - Privilege
+TYPE Concept
+CATEGORY Defamation; Defences; Absolute Privilege; Qualified Privilege
+SUMMARY ~*Absolute Privilege*~
+SUMMARY For things said in *Parliament* this dates from the _Bill of Rights 1689_. 'I dare you to say that to me outside of Parliament.' MPs can waive it since |Defamation Act 1996| S13. Absolute privilege does not restrict access to justice - |A v UK|.
+SUMMARY There is also absolute privilege for communications between *officers of the state* in the *course of their official duties*. 
+SUMMARY ~*Qualified Privilege*~ (common law)
+/->-Where potential harm to reputation is outweighed by interest of the recipient(s); and where there is *reciprocity* between parties and a *duty* to communicate, then there is the defence of *qualified privilege*. The communication must be *without malice* - |Horrocks v Lowe|.
+/->-In |Reynolds|, Lord Nicholls listed ten criteria against which a defence of qualified privilege could be judged. It is for the court to establish whether D had a *legal, moral or social duty *to communicate with the recipient. 
+/->-The *scope* of the privilege is *not to be exceeded* - |Watt v Longsdon|, |Clift v Slough|.
+/->-Although still cited, the |Reynolds| defence was replaced by S4(6) |Defamation Act 2013|.
+/->-The S15(1) |Defamation Act 1996|, amended by the Defamation Act 2013, provides the defence of qualified privilege for statements made *without malice* as listed in Sch. 1 of the Act, and the |Defamation Act 2013| S6 provides a defence for *peer-reviewed* statement in *academic journals*, presumably in response to climate panic - but there have been no cases invoking it. 
+/->-Things which are covered by qualified privilege are *letters of reference*, *denouncing someone to the police*, *whistleblowing*, etc. 
+SUMMARY Top tip: If it's covered by precedent or a reciprocal interest and duty, argue qualified privilege. 
+
+NAME Reynolds v Times Newspapers
+AKA Reynolds
+YEAR 2001
+COURT UKHL
+FLAGS Key; Test; EPLR
+CITATION Reynolds v Times Newspapers Ltd [2001] 2 AC 127,
+CATEGORY Defamation; Defences; Qualified Privilege; Reynolds Test
+SUMMARY The defendant published a story in Ireland alleging the claimant, Taoiseach until 1994, had misled the Irish parliament. It published the same article in England, omitting the paragraphs outlining the claimant's side of the story. 
+SUMMARY The defendant relied on qualified privilege, that they had a duty to the public to publish.
+HELD Where there was a duty to publish an allegation _even if it turned out to be wrong_, there could be a defence of qualified privilege, although that would be fact-specific. 
+HELD Non-exhaustive list of factors, per Lord Nicholls - (1) *Seriousness* of the allegation. (2) *Nature* of the information and whether a *matter of public concern*. (3) The *Source.* (4) *Steps taken to verify*. (5) *Status* of the information. (6) *Urgency*, as news is _a perishable commodity_. (7) *Whether comment was sought* from the plaintiff, but not always. (8) Whether it also mentioned *the plaintiff's side of the story* (9) *Tone* of the article. (10) *The circumstances* (background/timing) of publication.
+
+
+NAME Watt v Longsdon
+YEAR 1930
+COURT EWCA
+CITATION Watt v Longsdon [1930] 1 KB 130
+CATEGORY Defamation; Defences; Qualified Privilege
+SUMMARY The complainant had written a letter to the defendant alleging drunkenness and other nastinesses, who wrote with his own set of allegations, including about his fitness to do business. This letter the defendant showed to the claimant's business partner, and also his wife. 
+HELD Qualified privilege is a defence only where there is a duty to the recipient of the communication.
+HELD The court decided he _did_ have a qualified privilege to show the letter to the business partner, but _not_ the wife.
+
+
+NAME Clift v Slough
+YEAR 2010
+COURT EWCA
+FLAGS Leading; Amusing
+CITATION Clift v Slough BC [2010] EWCA Civ 1171	
+CATEGORY Defamation; Defences; Qualified Privilege; Art. 8 in Defamation
+SUMMARY The defendant organisation had included the claimant on a list of violent people who might come into contact with them. The list was emailed to everyone in the organisation and its contractors, not just to _customer-facing_ people. The claimant argued, inter alia, that his ECHR Art. 8 rights had been breached.
+HELD There had been no duty to communicate a list of violent people to anyone other than those who might come into contact with them.
+
+NAME Horrocks v Lowe
+YEAR 1975
+COURT UKHL
+CITATION Horrocks v Lowe [1975] AC 135
+FLAGS Important; EPLR
+CATEGORY Defamation; Defences; Qualified Privilege; Malice
+SUMMARY The defendant had made a speech defamatory of the claimant at a council meeting. The defendant argued justification and fair comment, but the claimant showed (at first instance) that he had acted out of malice.
+HELD When a statement is unreasonably but honestly believed to be true, and no malice can be shown, the defence of qualified privilege can operate.
+
+NAME Bryanston v De Vries (no 1)
+YEAR 1976
+COURT EWCA
+CITATION Bryanston Finance Ltd v De Vries (no 1) [1975] QB 703
+CATEGORY Defamation; Defences; Qualified Privilege
+SUMMARY Was a boss dicating a letter to his secretary _per se_ a publication?
+HELD The communication between a employees in companies is covered by qualified privilege, e.g., HR departments and managers, bosses and secretaries, etc.
+
+
+#Reynolds v Times Newspapers Ltd [2001] 2 AC 127
+
+NAME Flood v The Times
+YEAR 2012
+COURT UKSC
+CITATION Flood v Times Newspapers Ltd [2012] UKSC 11
+FLAGS Important; EPLR
+CATEGORY Defamation; Defences; Public Interest; Bribery
+SUMMARY A senior police officer had been the subject of an investigation into whether in addition to that, he was also a _bribe-taker_. The defendant published an article reporting this. He was subsequently cleared, but the article remained online, so he sued for libel, given the qualified privilege had ceased when he'd been cleared.
+HELD The |Reynolds Defence| will only succeed if reasonable steps have been taken to verify the allegations before publication.
+COMMENT This was the last case before the |Reynolds Defence| was replaced by the Public Interest defence by S4 |Defamation Act 2013|. 
+
+CASE Milne v Express
+YEAR 2005
+COURT EWCA
+CITATION Milne v Express Newspapers Ltd [2005] 1 WLR 772
+CATEGORY Defamation; Defences; Offer of Amends
+FLAGS Key 
+SUMMARY The defendant published an article alleging the claimant had lied to the Parliamentary Standards Commissioner. They offered to make amends as per S4 |Defamation Act 1996|, but the claimant thought this was in bad faith, believing they knew or had reason to believe the article was false, and so rejected their offer.
+HELD The _reason to believe_ required by S4(3) |Defamation Act 1996| is _not_ the same as _reason to *suspect*_. The bar must be set quite high for S4(3) to justify rejecting an S2 offer of amends.
+
+NAME Defamation - Remedies
+TYPE Concept
+CATEGORY Defamation; Remedies
+SUMMARY ~*Damages*~
+/->-The standard remedy for defamation - |Steel and Morris v UK|. 
+/->-They may be insultingly small - |Grobbelaar|, or reduced when the jury fuck up - |John v MGN|.
+/->-*S34* _Crime and Courts Act 2013_ contains detailed provisions for the how, why, what, when and where of *exemplary damages*, which was the issue on appeal in |John v MGN|.
+SUMMARY ~*Injunctions*~
+/->-In order to prevent publication of something, if, as the claimant, you happen to have been tipped off.
+SUMMARY ~*New Remedies*~ provided by |Defamation Act 2013|
+/->-*S12* - *Publication of summary of judgment*, to try and vindicate the damaged reputation. The court orders the defendant to publish a summary of the judgment (details as agreed between parties, or by default, the court). 
+/->-*S13* - *Order to cease distributing*.
+
+
+NAME Steel and Morris v UK
+AKA McLibel
+YEAR 2005
+COURT ECHR
+CITATION Steel and Morris v UK [2005] EMLR 15 ECHR
+FLAGS EPLR
+CATEGORY Defamation; Remedies; Damages; Art. 6 in Defamation
+SUMMARY Forty or so pamphleteers and leaflet-artists were sued by McDonalds for defamation. Their pamphlet had claimed McDonalds were: complicit in Third World starvation; buy from greedy rulers and elites and practises economic imperialism; wastes vast quantities of grain and water; destroys rainforests with poisons and colonial invasions; sells unhealthy and addictive food; alters its food with artificial chemistry; exploits children with its advertising; is responsible for torture and murder of animals; poisons customers with contaminated meat; exploits its workers and bans unions; hides its malfeasance.
+SUMMARY All of which seem unobjectionable bar from the last, which is patently false. No-one who's ever _been_ to a McDonalds could fail to be creeped out by, at least, the stark clinical lighting, putting one in mind of an execution chamber in an American prison.
+SUMMARY Anyway, the case had been the longest in English legal history, and they *could not get legal aid,* so winged it with dribs and drabs of pro-bono. McDonalds spent millions, they spent £30K, which meant they couldn't call witnesses from abroad they said would vindicate some of their claims. 
+SUMMARY They lost, and McDonalds were awarded damages - so they launched an action in Strasbourg alleging (inter alia) ECHR Art. 6 breach for lack of legal aid.
+HELD When one party spends millions and the other party, for lack of legal aid, spends a few paltry thousands, then there may have been an _unacceptable inequality of arms_, which would breach ECHR Art. 6. 
+HELD Damages were awarded to compensate their costs incurred - the damages they had to pay to McDonalds and the money they spent fighting the case.
+
+
+NAME John v MGN
+YEAR 1997
+COURT EWCA
+CITATION John v MGN Ltd [1997] QB 586
+CATEGORY Defamation; Remedies; Damages
+FLAGS Key; Amusing; EPLR
+SUMMARY The actionable statements published here were that the claimant, a singer of arguable portliness, was on a fad diet that involved _chewing up his food_ but then _not swallowing it_, and included quotes from a medical bod to the effect that this was a form of _bulemia_. At trial, a jury awarded him £75K compensatory damages and £275K exemplary damages.
+HELD The jury had not been adequately guided, and had awarded too much.
+HELD Tom Bingham MR reduced the damages to £75K. NB., S34 _Crime and Courts Act 2013_ provides for the when, why and how-much of exemplary damages.
+
+
+#Finished, but that took for fucking *EVER*.

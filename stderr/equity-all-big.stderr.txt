@@ -1,0 +1,6 @@
+META tag encountered, content of meta dict is now "{u'subject': u"'equity'"}".
+META tag encountered, content of meta dict is now "{u'defcols': u"'4'", u'subject': u"'equity'"}".
+META tag encountered, content of meta dict is now "{u'defcols': u"'4'", u'enableTests': u'true', u'subject': u"'equity'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/light-paper-fibers.png'", u'defcols': u"'4'", u'enableTests': u'true', u'subject': u"'equity'"}".
+META tag encountered, content of meta dict is now "{u'enableClaireAndCarranMode': u'true', u'currentTexture': u"'img/textures/light-paper-fibers.png'", u'defcols': u"'4'", u'enableTests': u'true', u'subject': u"'equity'"}".
+ *** Word count (in SUMMARY and HELD fields): 5980.

@@ -1,0 +1,197 @@
+META filename herling-18-remedies.fc.txt
+
+
+
+
+
+
+
+
+NAME Remedies - Introduction
+TYPE Concept
+CATEGORY Remedies
+SUMMARY ~*Introduction*~
+/->-This brief, final lecture aims to provide an introduction to contractual remedies apportioned to the syllabus and the expectations of this year. The subject of remedies is extensive, and cannot be treated in detail within the confines of the GDL.
+/->-The first section, on damages, is limited to the presentation of basic principles together with some supporting cases. The cases, given as bare citations, are provided only as signposts to lines of authority, and may be useful in the future. There is no expectation, at this stage of the year, that you will read and learn them.
+/->-The second section of the lecture deals with the rules on “remoteness of loss”, or “consequential loss”. They apply to distinguish between those of the claimant's losses for which the defendant must compensate in damages, and those for which compensation is not payable even though they were caused by the defendant's breach of contract. They cannot simply be set out but need to be taught, and that is the approach which has been taken here.
+/->-Recovery for certain types of loss is barred primarily to facilitate contracting. Bishop, Beale & Furmston posit the case of the taxi-driver booked to take Furmston to New York the following morning to negotiate a multi-million dollar deal. The taxi-driver oversleeps, so that Furmston misses his plane – and the deal. The taxi-driver cannot reasonably be made to stand the loss. If taxis are to be available for hire, and at reasonable prices, there has to be a rule that prevents that activity leading to inordinate liability.
+/->-The central issue within the area has been the test for remoteness, and whether there is a valid distinction between the rule as it operates in tort and within contract. The matter is not fully resolved.
+/->-The last two sections of the lecture address specific performance and restitution. They consist merely of elementary overviews meant to provide a basic grasp of the major issues within these areas.
+/->-For the purposes of the GDL Contract exam there is no expectation that you will have read widely beyond the material set out here.
+
+
+
+
+NAME The purpose for which damages are awarded
+TYPE Concept
+CATEGORY Remedies
+SUMMARY ~*The purpose for which damages are awarded*~
+/->-Damages are awarded to compensate the claimant for loss caused by the defendant's breach of contract.
+/->-In some cases, and perhaps many, this over-arching principle alone will be a sufficient basis to begin the quantification of loss. However, certain important sub-rules are also present within it, either explicitly or implicitly, and should be noted.
+/->-An award of damages is compensatory; punitive or “exemplary” or “aggravated” damages are not awarded in contract. See <i>Perera v Vandiyar</i> (1953).
+/->-Loss must be strictly proven; if no loss can be shown, merely nominal damages will be awarded. However, as long as loss can clearly be shown, mere difficulty in quantifying it need not be fatal to a claim; see further below.
+/->-Compensation for loss is the criterion for quantification of damages; the fact that the defendant has coincidentally profited from the breach is not <b>normally</b> relevant. See <i>The Golden Victory</i> (2007).
+
+
+
+
+NAME The basis of quantification
+TYPE Concept
+CATEGORY Remedies
+SUMMARY ~*The basis of quantification*~
+/->-The usual claim in breach of contract cases is for the “performance interest” or “expectation loss” or “loss of bargain”, which is the loss caused by the defendant's failure to perform according to the contract's terms. See <i>Robinson v Harman</i> (1848) per Parke B.
+/->-Expectation loss is usually measured by the diminution in value of what the claimant has received as against the value he would have received if the contract had been correctly performed. The claimant is entitled to the difference between the two.
+/->-It follows that if this calculation discloses no loss (because the claimant made a bad bargain), then only nominal damages will be awarded.
+/->-Expectation damages may cover the cost of procuring the benefit intended to be provided by the contract – the cost of cure – but only where the cost of cure is proportionate to the disadvantage produced by the breach. See <i>Ruxley Electronics v Forsyth</i> (1996).
+/->-Instead of claiming expectation loss, the claimant may elect to claim reliance loss. Reliance loss consists of expenditure on the performance of the contract which has been wasted because of the defendant's breach. See <i>Anglia TV v Reed</i> (1972).
+/->-A reliance claim will not succeed if it would clearly improve the claimant's position over what it would have been if the contract had been performed. In other words, it cannot be used to escape the consequences of a bad bargain. See <i>C & P Haulage v Middleton</i> (1983). A reliance claim is likely to appeal where the claimant's expectation, albeit substantial and genuine, is difficult to prove.
+/->-Claims for expectation and reliance loss can be combined, subject to the fundamental principle that the combination must not produce “double recovery” (eg. recovery of profit and the expenses which would have been incurred in earning it). See <i>Millar's Machinery v David Way & Son</i> (1935).
+
+
+
+
+NAME Special types of loss
+TYPE Concept
+CATEGORY Remedies
+SUMMARY ~*Special types of loss*~
+/->-If only a chance has been lost, so that damages cannot be assessed with certainty, the defendant is still required to pay compensation quantified on the basis of good sense. See <i>Chaplin v Hicks</i> (1911).
+/->-Damages for mental distress arising from breach of contract will not be awarded unless a major purpose of the contract was to provide pleasure and peace of mind. See <i>Farley v Skinner (No 2)</i> (2001).
+
+
+
+
+NAME The rule in Hadley v Baxendale
+TYPE Concept
+CATEGORY Remedies
+SUMMARY ~*The rule in Hadley v Baxendale*~
+
+
+
+
+NAME Hadley v Baxendale
+CITATION Hadley v Baxendale (1854) 9 Exch 341
+CATEGORY Remedies; Remoteness of Loss; Rule In |Hadley v Baxendale|
+SUMMARY ~*Overview*~
+/->-The plaintiff was the owner of a mill in Gloucester. The defendant, a carrier, was engaged by him to take the mill's crank-shaft to Greenwich as a pattern for a new shaft, and to re-deliver it. The defendant promised that delivery at Greenwich would take place the next day, but delayed so that a further five days passed. During this time the mill was at a standstill, because there was no spare crank-shaft. The plaintiff sued the defendant for damages for breach of contract, including damages for loss of profits which the mill would have earned if active.
+/->-The Court of Exchequer held that the lost profits were not recoverable from the carrier. The loss arose from the unusual circumstance that the mill had only the one crank-shaft. Therefore, although the loss was a consequence of the defendant's breach, it could not be regarded as arising in the ordinary course of things; most mills would have had a spare. Nor had the unusual circumstance been known to the defendant. If it had been, then that would have fixed him with liability for it.
+SUMMARY ~*Detail*~
+/->-Alderson B explained these two rationales for recovery in the following passage, thought by Professor Burrows to be the most cited in English contract law:
+/->-“Now we think the proper rule in such a case as the present is this:- Where two parties have made a contract which one of them has broken, the damages which the other party ought to receive in respect of such breach should be such as may fairly and reasonably be considered either arising naturally, ie. according to the usual course of things, from such breach of contract itself, or such as may reasonably be supposed to have been in the contemplation of both parties, at the time they made the contract, as the probable result of the breach of it”.
+SUMMARY ~*Discussion*~
+/->-*McKendrick* helpfully elucidates three points of importance to an understanding of <i>Hadley v Baxendale</i>. The first is that the rule focuses attention on the parties' state of mind at the time of entry into the contract. That is because the court, at least in principle, is concerned to gauge the contractual allocation of risk (out of deference to the parties' intention and to the principle of freedom of contract). Liability for unusual loss cannot be sprung on a defendant who had no opportunity to bargain for protection against it or for compensation for running the risk of it. 
+/->-The second point relates simply to how much the carrier knew. The third point is that <i>Hadley v Baxendale</i> crucially leaves it unclear whether contemplation of special circumstances is sufficient to fix the defendant with liability for the loss arising from them, or whether something more akin to an agreement to accept liability is required. This question is the subject of the important and recent House of Lords case “<i>The Achilleas</i>”.
+SUMMARY ~*A closer look*~
+/->-_The traditional understanding of the rule in Hadley v Baxendale, and more particularly its second limb, is that if the defendant gains knowledge of a risk of unusual loss that will render him liable if the loss occurs through his breach of contract. Professor Richard Danzig has made the interesting point that the relationship between this principle and the facts underlying Hadley v Baxendale is somewhat ironic._
+/->-_Most short accounts of the case describe the defendant, Baxendale, as a common carrier, and so he was. More to the point, however, Joseph Baxendale was a senior partner in the firm of Pickfords. In his article “Hadley v Baxendale: a Study in the Industrialization of the Law”, Danzig explains that the size and complexity of Pickfords' operations were such as to cause astonishment even before the date of this case (Joseph Baxendale himself had played a major role in building the firm up). Pickfords' internal organisation was so sophisticated that it required study before it could be grasped by the firm's employees. Danzig's observation is that the judgment in the case lags behind the fact; in the context of a modern mass-transaction business it was simply unrealistic to formulate a rule fitted to custom-made dealing. In Danzig's view, it is specifically the protectionism of Alderson B's approach which is irrelevant to mass-transactional business. Abnormal loss, for such a firm, will be averaged out across thousands of contracts and, in any event, covered by insurance._
+/->-_The next case narrows the distinction between the two limbs of the rule in <i>Hadley v Baxendale,</i> treating the two types of loss as existing upon a continuum of foreseeability. Its greater significance lies in the terminology used by Asquith LJ to discuss remoteness of loss. This was later taken by the House of Lords to have strayed from the contractual into the tortious approach to consequential loss._
+FLAGS McKendrick
+
+
+
+
+NAME Victoria Laundry (Windsor) Ltd v Newman Industries Ltd
+CITATION Victoria Laundry (Windsor) Ltd v Newman Industries Ltd [1949] 2 KB 528
+CATEGORY Remedies; Remoteness of Loss; Rule In |Hadley v Baxendale|
+SUMMARY ~*Overview*~
+/->-The plaintiffs, who were launderers and dyers, wished to expand their business. They ordered a new and larger boiler from the defendants, who were aware that the plaintiffs' intention was to put the boiler to use as soon as possible. For delivery, the boiler had to be dismantled, and in the course of that it was badly damaged. It was finally delivered five months late. The plaintiffs claimed (a) loss of profits which they said they would have earned through developing their business during this period; and (b) loss of profits on certain highly lucrative dyeing contracts with the Ministry of Supply which they would have taken on with the new boiler. At first instance no damages were awarded in respect of lost profits.
+/->-The Court of Appeal approached the matter on the footing that loss had to be reasonably foreseeable to the defendant at the time of contracting. The claim for general profits was therefore allowed. It would have been obvious to a reasonable person in the defendants' position that a business prepared to pay some £2000 for new plant, and wishing to obtain it as quickly as possible at a time of scarce laundry facilities, was expecting to operate it for profit. The claim for profits under the special Ministry contracts was held rightly to have been refused, since the boiler manufacturers had no knowledge of the prospects and terms of such contracts.
+SUMMARY ~*Detail*~
+/->-In giving judgment, Asquith LJ stated as a general principle that “[i]n cases of breach of contract the aggrieved party is only entitled to recover such part of the loss actually resulting as was at the time of the contract reasonably foreseeable as liable to result from the breach”. The question of foreseeability depended upon the defendant's knowledge, which consisted in what he actually knew, and what he would be deemed to have known as a reasonable person. The expression “on the cards” aptly indicated the requisite likelihood of loss occurring.
+SUMMARY ~*Discussion*~
+/->-In order to appreciate the criticism levelled against this language by the House of Lords in the next case, it is enough to take from it Asquith LJ's use of the phrase “reasonably foreseeable”. 
+
+
+
+
+NAME Contract and tort measures compared
+TYPE Concept
+CATEGORY Remedies
+SUMMARY ~*Contract and tort measures compared*~
+
+
+
+
+NAME Koufos v Czarnikow Ltd (The Heron II)
+CITATION Koufos v Czarnikow Ltd (The Heron II) [1969] 1 AC 350
+CATEGORY Remedies; Remoteness of Loss; Contract and Tort Measures Compared
+SUMMARY ~*Overview*~
+/->-The plaintiff chartered the defendant's ship, The Heron II, to load 3000 tons of sugar in Constanta, Romania, for shipment to Basrah (or, at the charterers' option, to Jeddah). In breach of contract the defendants caused the ship to deviate during the voyage, arriving nine days late at Basrah. The market price of sugar at Basrah fell during the nine days, and the plaintiff claimed the price fall in damages. At first instance, the judge found that the defendant had not known of the plaintiff's intention to sell the sugar in the market on arrival at Basrah, but had known that there was a sugar market at Basrah. The loss caused by the fall in market price was regarded as too remote. The Court of Appeal reversed this decision.
+SUMMARY ~*Discussion*~
+/->-The significance of this case lies chiefly in its explanation of the different horizons of recovery of loss in contract and tort respectively. The judgment of Asquith LJ is criticised for its use of phraseology which could be misunderstood as importing the tortious test for remoteness into contract, and for vagueness in describing the level of foreseeability proper to contract. The words “reasonably foreseeable” are too redolent of the horizon of recovery in tort established by the leading case of <i>Wagon Mound (No 2)</i> (1976). There, they include results which are far from likely, but which on ordinary tortious principles must nevertheless be deemed foreseeable.
+/->-It has rightly been said that their Lordships' speeches in <i>The Heron II</i> are unedifying in their repeated and none too persuasive attempts to compare and select phrases best suited to summing up the greater likelihood of loss required in contract than in tort. Professor Burrows suggests that the nub of the distinction sought to be drawn in the case amounts to no more than this: a slight possibility of loss is sufficient for tortious liability, whereas contract law requires the risk to be a serious one. There are several indications in the case that the defendant's “contemplation” of a serious risk is required rather than mere “foresight”, but it is questionable whether that distinction amounts to much. 
+/->-In the face of the House of Lords' insistence that contract and tort losses are to be treated differently, the next case is a rather surprising foray in the opposite direction.
+
+
+
+
+NAME H Parsons (Livestock) Ltd v Uttley Ingham & Co
+CITATION H Parsons (Livestock) Ltd v Uttley Ingham & Co [1978] QB 791
+CATEGORY Remedies; Remoteness of Loss; Contract and Tort Measures Compared
+SUMMARY ~*Overview*~
+/->-The plaintiffs ordered a feed hopper from the defendants for the purpose of storing pig nuts. The hopper's ventilated top was sealed shut for the purposes of transport, and the defendants failed to unseal it. The nuts stored in the hopper went mouldy, but the plaintiffs continued to feed them to the pigs in the belief that no harm would come of this. In fact a large number of the pigs contracted E coli from eating the mouldy nuts, and died. The plaintiffs sued for the value of the pigs. The defendant argued that this was too remote a consequence of the breach of contract.
+/->-The Court of Appeal, affirming the judgment at first instance, unanimously held that the loss was recoverable. However, Lord *Denning MR* on the one hand, and on the other hand Scarman and Orr LLJ differed in their reasoning about remoteness of loss in contract and tort. Lord *Denning MR* proposed that the “contemplation of a serious possibility” test from <i>The Heron II</i> was appropriate in the case of loss of profits, whereas the tortious test of reasonable foreseeability should be used in cases of physical damage whether brought in contract or tort. Scarman and Orr LLJ denied that this resolution of the problem was supported by the caselaw, and instead attempted to argue that the type of loss in question must have been a serious possibility, even if the manner of its occurrence was markedly less foreseeable.
+SUMMARY ~*Discussion*~
+/->-Neither the approach of Lord Denning MR nor that of the other two judges is easily reconciled with <i>The Heron II</i>. Furthermore, it has been doubted whether the majority's analysis can stand with the <i>Victoria Laundry</i> case. If the (unlikely) death of the pigs is brought within the horizon of recovery because the likelihood of mild illness from consuming mouldy feed was a serious possibility, then on a similar analysis the contemplation of loss of some profits in the earlier case should have qualified the loss of exceptional profits as recoverable. It was loss of the same kind.
+/->-Perhaps the more general problem brought to light by <i>Parsons v Uttley Ingham</i>, however, is that the test may produce varying results according to the degree of specificity with which the risk is stated. This, of course, is why the <i>Victoria Laundry</i> case was able to distinguish between two types of profit. Similarly it is one thing to ask whether it is likely that the storage of food in a container unfit for the purpose could endanger the livestock which was to eat it. To enquire as to the likelihood of an unventilated hopper causing an outbreak of E Coli may produce a different answer. The greater the specificity with which the question is posed, the more likely it is that answer will insulate the defendant from liability.
+FLAGS Denning
+
+
+
+
+NAME A new basis for deciding questions of remoteness?
+TYPE Concept
+CATEGORY Remedies
+SUMMARY ~*A new basis for deciding questions of remoteness?*~
+
+
+
+
+NAME Transfield Shipping Inc v Mercator Shipping Inc (The Achilleas)
+CITATION Transfield Shipping Inc v Mercator Shipping Inc (The Achilleas) [2008] UKHL 48
+CATEGORY Remedies; Remoteness of Loss; a New Basis For Deciding Questions of Remoteness?
+SUMMARY ~*Overview*~
+/->-Charterers were bound to re-deliver a ship by 2 May 2004. A follow-on charter of the vessel to a third party had been agreed, with a latest delivery date of 8 May. When it became apparent as a result of the charterers' delay that the ship would not be available by 8 May, the shipowners renegotiated the follow-on charter, and were obliged to agree to a reduction in hire to a significantly lower rate (the market rate having fallen sharply). Redelivery took place on 11 May. The charterers admitted liability for the difference between the originally agreed rate and the new market rate between 2 and 11 May, but the shipowners claimed the difference between the two rates for the entire duration of the follow-on fixture, which was four years. The charterers argued that this loss was too remote.
+/->-Arbitrators, by a majority, found that the full loss followed naturally from the breach and therefore fell within the first limb of <i>Hadley v Baxendale</i>. The House of Lords held unanimously that it was too remote, but for differing reasons. 
+SUMMARY ~*Detail *~
+/->-Lord *Hoffman*n and Lord Hope approached the matter by enquiring whether the charterers could be said to have <i>assumed responsibility</i> for all loss arising from the delayed start to the follow-on fixture. This was to be decided by interpretation of the contract in its commercial context; and the apparent understanding of industry experts was that loss would be limited to the overrun period. The rules in <i>Hadley v Baxendale</i> and <i>The Heron II</i> were designed to give effect to the intention of the parties, and to that end should be interpreted flexibly if necessary. 
+/->-Lord Rodger and Baroness Hale adopted an analysis akin to that of the <i>Victoria Laundry</i> case, distinguishing between the type of loss which had foreseeably arisen from the delay, and the further loss which was not within the charterers' contemplation. 
+/->-Lord Walker considered that the purpose of the <i>Hadley v Baxendale</i> rules was to identify the common basis on which the parties were contracting, and denied that the charterers were undertaking liability for any loss whatsoever arising from a situation beyond their knowledge or control. The application of the <i>Hadley v Baxendale</i> rules was general, but could be expected to vary between specialised areas of contracting. Lord Walker approved the analyses of Lords Hoffmann, Hope and Rodger.
+SUMMARY ~*A closer look*~
+/->-_There are two levels of difficulty in this case. One is to assess what its ratio is, since there is a fairly clear contrast between addressing the problem as one of contextual interpretation of the contract, and applying a default legal rule. Lord Walker's speech does not align him definitively with either of these camps._
+/->-_The second level of difficulty lies in determining what the better resolution of such a case would be. Lord Hoffmann's approach has the rather impressive characteristic of being entirely in keeping with his attitude to implied terms and to contractual interpretation generally – see lecture 10. When he points out that the quantification of compensation for loss must be preceded by a principled decision as to the kind of loss which is to be compensated, this has the ring of a good contractual analysis However, it has been criticised because of the risk that it will often lead to uncertainty. On the facts of The Achilleas, there was an industry consensus limiting the charterers' liability, but that will not be so in every case._
+/->-_Furthermore, it may be doubted as a matter of principle whether the rules on consequential loss can invariably be derived from the parties' agreement. This would seem to depend on whether they are seen as establishing how much loss can be recovered from the defendant, or whether they exist to protect the defendant from inordinate loss as a matter of policy. Sometimes they may be applied to the first of these ends, and sometimes to the second. To choose in the absence of facts may well be mistaken. _
+/->-_ In the case of frustration of common purpose it was once thought possible to have the contract govern even in circumstances which the parties had not remotely envisaged (the implied term theory of frustration). Davis Contractors v Fareham gave the quietus to that notion, replacing it by the candid recognition that frustration was a matter of legal policy rather than the parties' fictitious intentions – see lecture 16. Remoteness of loss is arguably similar, though the rules can be displaced by express agreement between the parties just as frustration can be displaced by contractual provisions. Perhaps the most appropriate attitude is one akin to Lord *Denning*'s in The Eugenia; by all means see if the contract has allocated the risk in question, but stop short of insisting that the oracle has spoken if in fact it has not. _
+/->-_Cases still more recent than <i>The Achilleas</i> concur in attributing little precedental force to Lord Hoffmann's suggested “assumption of responsibility” test, and emphasise the continued relevance of the long-standing rules on remoteness of loss._
+/->-_The bulk of this lecture has concerned damages, since this is the standard remedy for breach of contract in English law._
+/->-_Specific performance, a separate remedy, consists in the court ordering the defendant to carry out a contractual obligation._
+/->-_Beyond the obviously different objectives of damages and specific performance, the two remedies can be contrasted in various other ways. Damages (even if only nominal) are available as of right where a breach can be proven and there is no defence to it. Specific performance issues only at the discretion of the court. The award of damages is a common law remedy; specific performance is an exercise of the court's equitable jurisdiction. What is more, the relationship between the two remedies is essentially antithetical since specific performance has traditionally been withheld where damages would be an adequate remedy._
+/->-_Further limitations on the availability of specific performance derive from its equitable origins, and from considerations of practicality and policy. _
+/->-_Examples of the first type include the withholding of specific performance where the remedy would cause disproportionate hardship to the defendant; where the remedy would not be granted to enforce the claimant's own performance; and where the claimant has not acted equitably. In this last respect the handling of specific performance requires a type of awareness normally associated with legal ethics._
+/->-_Examples of the second type (there is perhaps some overlap) include the principle that specific performance will not normally be ordered if its effect would be to bind the defendant to perform personal services in the context of a failed relationship; or where the court would effectively have to supervise compliance over a lengthy period. A complex regime of supervision is all the more unattractive in view of the fact that default would amount to contempt of court and could therefore result in the imposition of disproportionate sanctions._
+/->-_The classic setting for specific performance is contracts for the sale of land. Land has traditionally been regarded by the courts as unique, so that it follows that an award of damages would not enable a claimant to acquire <i>equivalent land</i>. This reasoning has been extended to other property which can be shown on the evidence to be unique or particularly difficult to obtain._
+/->-_All restitutionary claims are based on the assertion that the defendant has acquired some benefit which ought in fairness to be returned to the claimant. They seek to prevent the defendant's unjust enrichment. _
+/->-_The major question within restitution concerns the availability of the remedy where the defendant has been enriched, but not at the expense of the claimant._
+/->-_The terminology in common use contrasts “enrichment by subtraction” with “enrichment without subtraction”. _
+FLAGS Hoffman; Denning
+
+
+
+
+NAME Enrichment by subtraction
+TYPE Concept
+CATEGORY Remedies
+SUMMARY ~*Enrichment by subtraction*~
+/->-In the first of these situations, the claimant has suffered loss by reliance, and the defendant has made a corresponding gain. This may come about because of the defendant's breach of contract, or it may occur where a contract fails. For instance, the contract may be found too uncertain to be enforced, or it may be defeated by illegality, or terminated by frustration. 
+/->-The quantum meruit action is a means of obtaining restitution where a contract has failed but the claimant has conferred a valuable benefit on the defendant. Where the claimant has paid a sum of money to the defendant but received nothing in return because of the contract's failure, the money may be recovered on a total failure of consideration. In the case of frustration, these restitutionary remedies are effectively codified and refined by the Law Reform (Frustrated Contracts) Act 1943 – see lecture 16. 
+
+
+
+
+NAME Enrichment without subtraction
+TYPE Concept
+CATEGORY Remedies
+SUMMARY ~*Enrichment without subtraction*~
+/->-In the second situation set out above, the case for restitution seems markedly less compelling. The defendant may have made a profit out of breaching a contract, but that has caused no loss to the claimant. Clearly, the compensation principle does not function well as a rationale for requiring the disgorgement of profit here, <b>unless</b> the defendant has breached a fiduciary duty, a duty of confidence, or the claimant's proprietary rights.
+/->-Where there is no such breach of duty, disgorgement of profits may nevertheless exceptionally be ordered. The leading case is <i>Attorney General v Blake [2001] 1 AC 268</i>, in which the Government successfully prevented the payment of royalties to the defendant on the publication of his memoirs (a breach of contract) in the circumstance that he had been found guilty of treason as a KGB double agent, and had fled to Moscow after escaping prison. 
+/->-The government suffered no loss by Blake's profit, but was nevertheless held by a majority of the House of Lords to have an interest in performance such as to make it just and equitable that the defendant should retain no benefit from his breach of contract.
+/->-Although the juristic basis for requiring the disgorgement of profits is controversial, the general adoption of this approach has been suggested as a means of introducing some flexibility into remedial quantification. Two government reports have examined the issue, concluding that it should be left to be worked out by the common law rather than by legislation.

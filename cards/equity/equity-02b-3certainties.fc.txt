@@ -1,0 +1,205 @@
+
+NAME Wright v Atkyns
+CITATION Wright v Atkyns (1823) Turn.R 143
+CATEGORY Three Certainties
+HELD – per Lord Eldon "first... the word must be imperative...; secondly... the subject must be certain...; and thirdly... the object must be as certain as the subject" 
+
+NAME McPhail v Doulton
+AKA Re Baden (no 1)
+CITATION McPhail v Doulton [1970] UKHL 1
+CATEGORY Three Certainties
+HELD Softening the _fixed list_ test for |certainty of object|, Lord Wilberforce held a trust will not fail for uncertainty of object, if there is _sufficient practical certainty_ in its definition such that it could be said of _any given postulant_ whether or not they belong to the class of beneficiaries.
+HELD "A trust should be upheld if there is _sufficient practical certainty_ in its definition for it to be carried out, if necessary with the administrative assistance of the court, according to the expressed intention of the settlor."
+
+
+NAME Re Baden (no. 2)
+CATEGORY Three Certainties; Certainty of Object
+CITATION Re Baden (no. 2) [1972] 
+HELD The CA accepted the trust as valid, although the test was interpreted in three different ways by the judges, in regards to the determination of conceptual and evidential certainty. 
+@*Meaning of _relative_* -- 
+@@Sachs and Megaw LJJ: *descendant of a common ancestor*, although neglecting to say how far back. 
+@@Stamp: *next of kin* or nearest blood relation. 
+@Sachs reviewed several potential examples of conceptual certainty in his judgement, holding all three concurred in their definition of 'dependent' as someone wholly or partially dependant on someone else. Wow, what insight.
+@*Test for _evidential certainty* -- 
+@@Sachs -- *a trust would never be defeated by evidential certainty*, and the ‘any given postulant’ test was entirely conceptual. 
+@@Megaw -- enough to show there were a *substantial number of objects within the class*, with 'substantial' being an issue of judgement based on *common sense and circumstances*. 
+@@Stamp -- must be shown of *any given _potential_ object* whether in class of beneficiaries. Uncertainty would invalidate the trust. 
+/ -- The most consistent with test outlined by Wilberforce LJ in all ways but one -- Wilberforce did *not* require a complete list of objects to be drawn up. 
+@@So the Sachs approach is to be preferred.
+
+NAME Paul v Constance
+CITATION Paul v Constance [1977] 1 WLR 527
+CATEGORY Three Certainties; Certainty of Intention
+HELD The essence of the requirement of certainty of intention is that the creator of the trust intended to cause someone to be under a duty to hold property for another.
+
+
+
+
+NAME Re Adams and Kensington Vestry
+YEAR 1884
+FLAGS Persuasive
+CATEGORY Three Certainties; Certainty of Intention; Precatory Words
+SUMMARY Had a trust been validly created by a will containing the words "_in full confidence_ that she would do what was right as to the disposal thereof between my children"? 
+HELD The wording did not establish an intention to create a trust; it established merely a *wish*.
+COMMENT De Than -- "there are some very sensible dead judges.” 
+
+NAME Lambe v Eames 
+CATEGORY Three Certainties; Certainty of Intention; Precatory Words
+HELD A provision in a will that left property to the testator's wife "to be at her disposal *in any way she may think best* for the benefit of herself and her family" had not successfully established a trust. Obiter, that the question of whether |precatory words| vitiate the establishment of a trust is for the judge.
+
+
+
+NAME Re Hamilton
+CITATION Re Hamilton [1895] 2 Ch 370
+FLAGS Persuasive
+CATEGORY Three Certainties; Certainty of Intention; Precatory Words
+HELD Precatory words must be read in the context of the whole will before deciding whether or not they create a trust.
+
+NAME Re Steele's WT
+CITATION Re Steele's Will Trust [1948]
+FLAGS Persuasive
+CATEGORY Three Certainties; Certainty of Intention; Precatory Words; Boilerplate
+SUMMARY A will had been drafted by copying from another that had been held in court to establish a trust.
+HELD Wynn-Parry LJ -- copying from a will that _had_ been held to be a trust elsewhere _did indeed_ establish a trust, as doing so clearly establishes intention to create a trust.
+
+NAME Re Diggles
+CITATION Re Diggles (1888) 39 Ch D 253
+FLAGS Persuasive
+CATEGORY Three Certainties; Certainty of Intention; Precatory Words
+HELD _Desire_ -- precatory words.. etc.
+
+NAME Comiskey v Bowring-Hanbury
+CITATION Comiskey v Bowring-Hanbury (1905)
+COURT UKHL
+CATEGORY Three Certainties; Certainty of Intention; Precatory Words
+SUMMARY Did the words 'absolutely in full confidence' cross the line from merely precatory _desire_ to actual _intention_?
+SUMMARY 'I give, bequeath and devise to my very dear wife the whole of my real and personal estate and property *absolutely in full confidence* left his estate to his wife 'in full confidence that she will make such use of it as I should have made myself and that at her death she will devise it to such one or more of my nieces as she may think fit and in default of any disposition by her thereof by her will... I hereby direct that all my estate and property acquired by her under this my will shall at her death be equally divided among the surviving said nieces.'
+HELD From the word 'absolutely,' in 'absolutely in full confidence,' an inference could be drawn that the testator was not merely expressing a wish, but referring to an existing arrangement.
+HELD Lord James -- '... I can quite conceive that, the word “absolutely” being used, we have to find some reason why in the first disposition he should have used the word “absolutely,” ...'
+
+ 
+
+NAME Re Kayford
+CITATION Re Kayford (In Liquidation) [1975] 1 WLR 279
+COURT EWHC
+CATEGORY Three Certainties; Certainty of Intention; The word 'Trust'
+FLAGS Megarry
+SUMMARY Worried that their company going bust, but keen to do the honourable thing, a separate bank account named 'Customers’ Trust Deposit Account' was opened, into which were paid all new customers' monies -- which they continued to accept in the hope of rescuing the business. When it did indeed go bust, was the money to be considered assets to be divvied up amongst the creditors, or had a trust the liquidator couldn't touch been established?
+HELD Opening and putting money in an account named 'Customers' Trust Deposit Account,' was, in the circs of ominous finances, enough to establish intention to create a trust (with company as both settlor and trustee with customers as beneficiaries).
+HELD Cited in the later case of |Re Challonner Club|. 
+
+NAME Re Challonner Club
+CITATION Re Challonner Club Ltd (In Liquidation) [1997]
+COURT EWHC
+CATEGORY Three Certainties; Certainty of Intention
+SUMMARY A company running a club, worried for its financial future, decided to solicit donations and increased subscriptions, to be paid into a separate bank account. The company then went insolvent; the administrator asked for direction about whether the monies in the separate account were to be considered assets.
+HELD Ambiguity and discrepancy in the conditions under which money separated off from a company's main funds in order to attempt to protect it from creditors, if the company went bankrupt, was enough to defeat the claim that an express trust had been created.
+HELD Distinguished from |Re Kayford|.
+
+
+
+
+NAME Palmer v Simmonds
+CITATION Palmer v Simmonds (1854) 2 Drew 221
+CATEGORY Three Certainties; Certainty of Subject; Identification of Trust Property
+HELD A trust will not be upheld if the description is vague. A will attempting to establish a trust for 'the bulk of' an estate was *not* upheld.
+HELD The word 'bulk' spreads over far too much of the quantitative semantic spectrum, just like 'shit load,' or 'a fuck of a lot of.' According to the judge, a 'bulk' was a 'thing that bulges out.' _Oo err, quite plainly, missus._
+
+
+
+NAME Sprange v Barnard
+CITATION Sprange v Barnard (1789)
+CATEGORY Three Certainties; Certainty of Subject; Identification of Trust Property
+SUMMARY A will tried to establish a trust for the 'remaining part of what is left, that [my husband] doesn't want for his own wants and uses.'  
+HELD A description of the subject of a trust which leaves open the possibility of _containing no property at all_, will fail for a lack of certainty of subject.
+HELD The description allowed that the husband might want all the property. This was held to be that the husband had beneficiary interest for life, at which point the remainder went to the named beneficiary/ies.
+
+
+
+NAME Re Golay
+CITATION Re Golay's WTs [1965] 1 WLR 969
+FLAGS Criticised
+CATEGORY Three Certainties; Certainty of Subject; Identification of Trust Property
+SUMMARY The will had provided the beneficiary -- name of Tossi, apparently the testator's _bit of crumpet_ -- the use of _one of_ his flats, during her lifetime; and a _reasonable income_ from other properties. What was that supposed to mean? Usually, what the judge happens to think. 
+HELD A will leaving someone a _reasonable income_ and the right to live in _one of_ the testator's flats, without specifying which, was _upheld_.
+HELD This all went on the actuarial tables. No one was happy about it. 
+
+
+NAME Re London Wine
+CITATION Re London Wine Co (Shippers) [1986] PCC 121
+COURT EWHC
+FLAGS Leading; Important
+CATEGORY Three Certainties; Certainty of Subject; Segregation of Chattels
+SUMMARY A company selling wine to investors went into administration. The idea was the wine would remain in the company's warehouses, and the owner would get a document of title. The location of each customer's wine in the warehouses was kept track of, but not in terms of which customer owned which cases at a given location, location identifying a number of cases of a particular vintage.
+HELD Physical segregation of chattels is necessary to identify the property of a trust, so the attempt to establish a trust by the purchasers failed.
+COMMENT The way to see this as consistent with the |Hunter v Moss| is that bottles of the same vintage from the same producer may look identical, but may be of different quality: some may be corked, others may not. A similar claim could not be made of shares. See also |Re Goldcorp|.
+
+
+NAME In the Estate of Last
+CITATION In the Estate of Last [1958] P 1137
+CATEGORY Three Certainties; Certainty of Subject; Identification of Trust Property
+HELD Should there be uncertainty as to the property comprising the residue of an estate, a trust purporting to have it as its subject matter will fail for a lack certainty of subject. A will attempting to do so for "anything that is left" failed, and was held instead to be an absolute gift.
+
+
+NAME Re Goldcorp
+COURT UKPC (NZ)
+CITATION Re Goldcorp [1995] 1 AC 74
+CATEGORY Three Certainties; Certainty of Subject; Segregation of Chattels 
+SUMMARY A Ponzi scheme in which lots of big rich fuckers lost out. The court helped a guy who'd ordered *~unsegregated~* medals *was* helped -- but declined to do so for a load of nutters whose property was *~numbered~ bullion bars*.  The claim, _inter alia_, was that the company had breached the fiduciary duty it owned to the claimants.
+HELD Even when each chattel comprising a trust fund is inscribed with means of unique identification, storage with non-trust fund property will defeat certainty of subject. Furthermore contractual dealings generally lack the *trust* and *confidence* that are the hallmarks of fiduciary duties.
+COMMENT Obviously wonky logic in this case, perhaps engaging in a little light ad hoc wealth redistribution. See also |Re London Wine|.
+
+
+NAME Hunter v Moss
+COURT EWCA
+CITATION Hunter v Moss [1994] 1 WLR 452
+WIKILINK https://en.wikipedia.org/wiki/Hunter_v_Moss
+FLAGS Leading; Important
+CATEGORY Three Certainties; Certainty of Subject; Intangible Property
+SUMMARY A man had promised his employee 5% of the share capital in his company, of 1000 issued shares. Would this be void for uncertainty, by application of |Re Goldcorp| or |Re London Wine|?
+HELD A trust of part of a fungible mass such as a shareholding or a bank account will not fail for uncertainty of subject, so long as the size of the part is not uncertain. 5% of 1000 _identical_ shares equals 50 shares -- the trust was upheld. Any 50 of the 1000 shares would have done. Distinguished |Re London Wine|. 
+HELD Cf. approach taken in Aus by |White v Shorthall|. There, to circumvent the problem of identification, the court imposed a trust in which both settlor and would-be beneficiary had joint (albeit unequal) beneficial interest as tenants-in-common.
+COMMENT Virgo p89 refers to this as the leading case on identifying trust property.
+
+NAME Holland v Newbury
+CITATION Holland v Newbury [1994] 1 WLR 452
+FLAGS Neuberger; Important
+CATEGORY Three Certainties; Certainty of Subject; Intangible Property
+HELD Neuberger J followed the ruling of |Hunter v Moss| earlier the same year, in which the rule requiring segregation of trust property from a larger mass was found not to apply to fungible intangibles.
+
+
+--    NAME Re Harvard Securities
+--    CITATION Re Harvard Securities [1997] 2 BCLC 335 
+--    SUMMARY TODO
+--    HELD Cf. |MacJordan v Brookmount|.
+
+--    NAME MacJordan v Brookmount
+--    CITATION MacJordan Construction Ltd v Brookmount Erostin Ltd [1992] BCLC 350 
+--    SUMMARY TODO.
+--    HELD Cf. |Re Harvard Securities|.
+
+
+NAME White v Shorthall 
+COURT NSW CA
+CITATION White v Shorthall (2006)
+FLAGS Persuasive
+CATEGORY Three Certainties; Certainty of Subject; Identification of Trust Property; Intangible Property
+HELD In the Court of Appeal in New South Wales, on very similar facts to |Hunter v Moss|, the problem of identification of the shares belonging to the claimant of the trust was neatly circumvented by finding that the settlor had declared the _entire fund_ a trust, with herself and the claimant as beneficiaries. 
+HELD In |Pearson v Lehman Bros| in 2010 the High Court held they'd _like_ to follow this principle -- but were bound by other authorities.
+
+NAME Pearson v Lehman Bros
+CATEGORY Three Certainties; Certainty of Subject; Identification of Trust Property; Intangible Property
+CITATION Pearson v Lehman Bros (2012)
+HELD Briggs J, obiter -- 1. the principle of |White v Shorthall| (which side-stepped the problem of identification of unsegregated trust property by contriving to find a trust had been declared by the settlor for the _entire_ fund, with both settlor and real beneficiary as beneficiaries of _unequal_ proportions) is preferable to the binding authority.  2. Electronic documentation was sufficient to satisfy the requirement of S53(1)(c) LPA.
+COMMENT See also |Formalities for inter vivos Express Trusts|.
+
+
+
+NAME Boyce v Boyce
+CITATION Boyce v Boyce (1869) 16 Sim 476
+CATEGORY Three Certainties; Certainty of Subject; Identification of Trust Property; Jurisdiction over Beneficiaries
+SUMMARY In the will, addressed to the eldest daughter: “whichever house she may think proper to choose or select,” leaving her other house to her other obviously less-preferred daughter.
+HELD Equity has jurisdiction over trustees, not beneficiaries. A trust with more than one beneficiary in which the size of each's share of the cake is determined as a consequence of a choice to be made by a particular, designated beneficiary, is valid -- and the court cannot compel the beneficiary in question to make the choice.
+HELD The first daughter didn't want to choose -- basically to fuck over her sister, although eventually, the father and first daughter died intestate, so the second daughter got the lot, as the trust failed and resulted back to the estate.
+
+

@@ -1,0 +1,126 @@
+TYPE-DEFAULT Concept
+CATEGORY-DEFAULT Co-ownership
+
+NAME Joint Tenancy and Tenancy in Common
+SUMMARY ~*Intro*~
+@ Legal co-ownership can only be in *joint tenancy*. 
+@ Equitable co-ownership 'underneath' the legal co-ownership can also be *tenants in common* 
+
+
+
+SUMMARY ~*Joint Tenancy*~
+@The fullest type of co-ownership, in which each of the (at most, *4* -- &g&S34(2) LPA 1925&g&) JTs has an *undivided and equal share*.  
+@*Survivorship* makes JTs _evaporate_ on death. Their 'share' automatically accrues to the other JTs. 
+@@A JT can't leave their "share in the house" to someone: it isn't exclusively theirs to give, belonging equally to the other JTs. |Gould v Kemp|.
+@*Conveyancing lawyers* tend to assume marriage or civil partnership means you want to be joint tenants, and don't even ask. 
+@@ Which is pretty dreadful. 
+@If a car crash eradicates A, B, C and D* and it can't be said who died last (to whose estate the title would accrue), it's *automatically the youngest*.
+
+SUMMARY ~*Joint Tenancy: the Four Unities*~
++ *Possession*
+/All joint tenants can possess whole of land. 
+@@And its _fruits_: D lets out room whilst abroad? Rent the property of _all_ JTs, not just D.
++ *Interest*
+/All freehold, all leasehold. Not clear before LPA 1925.
++ *Title*
+/Title for each JT must arise from *same set of conveyancing transactions*. 
+@@ Not defeated by sneakily getting them to sign on different days. |Antionades v Villiers|.
++ *Time*
+/Interests of the JTs must arise at same time. 
+@@ *Important* -- someone coming into the picture _later_ cannot be a JT.
+
+
+SUMMARY ~*Tenancy in Common*~
+@ABCD still have an (undivided) share in the land, but in any distribution they choose -- no fucks given here about equality. 
+@No survivorship -- shares of TiCs don't accrue to other co-owners on death.
+@Only unity required is *possession*. Even if you own 3%, you can _possess_ all of it, as the share is undivided. 
+@Otherwise it wouldn’t be co-ownership.
+
+NAME Tenancy in Common - Recognising 
+CATEGORY Co-ownership
+TYPE Concept
+SUMMARY *Distinguishing between TiC and JT*
++*Words in conveyancing document* must show _equitable interest_ is intended. 
+@@E.g., words like _beneficial_ and _equitable_.
+@@Conveyance _'to A and B as co-owners'_ -- not enough.
+@@Neither is stipulation that either party could may receipt. |Stack v Dowden|. 
+@@Form JO ought to be compulsory, in sensible view of Lady Hale's in |Stack|, even though wouldn't go on register for sake of |curtain principle|.
+@@_'To A,B,C,D and E equally'_ is inconclusive, as consistent with joint tenancy.
++*Words of severance* indicate tenancy in common.
++*Absence of one or more of PITT*
++*Equity follows the law*
+@@In doubt, joint tenancy will be assumed. |Stack v Dowden|, |Jones v Kernott|.
+@@Doesn't necessarily 50/50, should that be inequitable. |Stack|.
+
+
+NAME Equitable Shares of Co-ownership
+CATEGORY Co-ownership
+TYPE Concept
+SUMMARY *1. Resulting Trust*
+/_A trust of the purchase money._
+@ Requires of the claimant -- 
+@@ *Direct financial contributions to the purchase price*.
+@@ *Contribution to the acquisition mortgage*, since |Laskar v Laskar| in 2008.
+@@ *Use of a discount* (e.g., right to buy). 
+@*Proofs of payments* strongly indicate appropriateness of resulting trust. 
+@ But solicitor's fees, removal fees, do *not* count as direct . |Curley v Parkes|.
+@ They only recover in proportion to contributed. So in |Midland Bank v Cook|, where she'd only paid 5%, the judge rather gamely suggested pleading instead a _constructive_ trust -- so she got 50%.
+@ The majority in |Stack| doubted there were still any circs. in which resulting trusts would be suitable in modern domestic property dispute.
+
+SUMMARY *2. Common Intention Constructive Trust*
+/_Flexible. Require both *common intention* and (as equity does not assist a volunteer) *detrimental reliance*._
++ *Detrimental Reliance*
+@@ Usually not the live issue. May evince common intention.
+
++ *Common Intention*
+@@|Pettitt v Pettitt| (1970) -- DIY not enough.
+@@|Gissing v Gissing| (1971) -- white goods not enough.
+@@@In CA, following his own judgment in |Eves v Eves| (1975), in which there had been discussions about co-ownership, but only flimsy detriment), Denning MR held --
+/_'... If they both *contribute to it by their joint efforts, the prima facie inference is that it belongs to them both  equally* [... and] may be confirmed or rejected by looking at their conduct afterwards, when the marriage breaks up.
+@@|Burns v Burns| (1984) -- Contributed everything but the cash, so no share of equitable ownership.
+@@|Lloyd's v Rosset| (1991) -- Lord Bridge held CI from either  *objective evidence* or *express assurance*. 
+@@@_Breezy statements like "all of this is yours" or "it's as much yours as mine"._
+@@@_Cf. "you'll always have a home here", which seems _not_ to carry the payload of intention of co-ownership. More appropriate as claim in |proprietary estoppel|._
+@@|Stack v Dowden| (2007) -- CI also validly *inferred from the whole conduct*, as 'context is everything.'
+@@|Jones v Kernott| (2012) added *imputation* as means to find CI: _what they would have said if it had occurred to them._
+
+SUMMARY _For acquisition?_
+@ *Inference?*
+@@ |Abbott v Abbott| (2007) UKPC -- *yes*. Lady Hale, again. 
+* Imputation?*
+@@ |Capehorn v Harris| -- *no*, but waters muddied by commercial relationship between parties.
+@@ |Barnes v Phillips| -- *probably not*, and not clear how to tell _imputation_ from _inference_.
+
+
+
+
+
+
+
+
+
+
+NAME Severance
+SUMMARY *Conditions*
+TYPE Concept
+CATEGORY Co-ownership; Severance
++By statutory notice, S36(2) of LPA. 
+@@An unilateral method of severance to which the other members of the joint tenancy do not have to assent. Or even know. The written document does not need to announce itself to be a notice of severance. Any written communication evincing an immediate intention to sever.
+@@|Kinch v Bullard| written notice only needs to be delivered, not read. 
+@@|Burgess v Rawnsly| must show an immediate intention, not an expression of desire.
+
++Act Operating on Own Share -- |Williams v Hensman|
+@@ Which will often transfer. 
++Mutual Agreement - also from |Williams v Hensman|
+@@All JTs must agree. Doesn't have to be in writing.
+@@Doesn't have to be immediate.
+
++Mutual Conduct - also from |Williams v Hensman|
+@ They all behave as though the joint tenancy doesn’t exist any more.
+
++Unlawful Killing
+@@Weren’t expecting that, were you?
+@@Killing someone, if you’re in a joint tenancy with them, severs.
+@@N.B. forfeiture: you can’t inherit from someone you’ve murdered.
+@In Re Crippen is the example for this one. Dr. Crippen was Martin Dixon’s (wife’s) great uncle, he says. And he’s seen the bath.
+

@@ -1,0 +1,229 @@
+META filename herling-06-consideration.fc.txt
+
+
+
+
+NAME Consideration - Overview
+TYPE Concept
+CATEGORY Consideration
+SUMMARY *Consideration*
+/_It must_ --
+@Be sufficient, but need not be adequate |Currie v Misa|.
+@Be of some value |Thomas v Thomas|.
+/Or amount to evidence of detriment having passed, at least potentially, from the promisee |Chappell v Nestle|.
+@Have been requested |Combe v Combe|.
+/_Unless_ it can be read in to the promise. Read in _deeply_, if necessary -- |Shadwell v Shadwell|.
+@Entail detriment to promisee, otherwise will be an (unenforceable) conditional gift |Dickinson v Abel|.
+SUMMARY _It must *not*_ --
+@Be past |Roscorla v Thomas|.
+@@ Unless _undertaken_ on basis of payment later, in which case, can be hooked up with later promise by *implied assumpsit*, making the promise enforceable. |Pao On v Lau Long|,  |Lampleigh v Braithwait|.
+@Consist of performance of an existing _legal_ duty. |Collins v Godefroy|.
+/_Unless_ such performance goes beyond the strictly obligatory to the benefit of promisor |Glasbrook v Glamorgan|.
+% But it *may*...
+@Be forbearing to bring a legal claim, even if objectively worthless |Cook v Wright|.
+/_Unless_ the promisee knows it, and would therefore be extortion |Wade v Simeon|.
+@Performance of an existing _contractual_ duty owed to a 3rd-party, if more conventional attempts to find consideration fail |The Eurymedon|.
+SUMMARY Now read |Consideration - Detail|.
+
+
+
+NAME Consideration - Detail
+TYPE Concept
+CATEGORY Consideration
+SUMMARY *Elements of Definition*
+/_It_ -- 
+@ *Is the reason a promise becomes binding.*
+@ Entails _detriment_ to promisee and often, _benefit_ to promisor |Currie v Misa|. 
+@ Is fundamental to the nature of contract as a _bargain_, in which one promise is exchanged for another (_Hamson_).
+@@ is part of an 'indivisible trinity', along with |offer| and |acceptance|, and not just a 'coincidental &g&tom-tit&g&.'
+@ must be of some value 'in the eye of the law', Patteson J in |Thomas v Thomas|.
+@ Is a shorter way of saying 'judicial discretion' or 'the reason to enforce the contract'.
+@ must be *sufficient* but need not be *adequate* |Chappell v Nestle|.
+
+SUMMARY *Sufficiency and Adequacy*
+@Consideration must be *sufficient*: it must be consistent with the body of rules emerging from the cases. 
+@If consideration had to be _adequate_ -- of equivalent value to the promise for which it's being exchanged -- the promises would have to be able to be _valued_ by the courts, and a _bad bargain_ would turn into an _invalid contract_. 
+
+SUMMARY *Value*
+@Some value _in the eye of the law_, |Thomas v Thomas|, is taken by Treitel (3-027) to mean _economic_ value.
+@Sentiment is _not_ sufficient, |Thomas v Thomas|.
+@Evidence of benefit conferred on promisor, although worthless per se -- may be good consideration |Chappell v Nestle|.
+@@Professor Smith's view: consideration ought to be _anything_ requested of the promisee, whether or not a real benefit or detriment has been conferred or suffered. Also Denning's view in |Ward v Byham|.
+@@Which can be reconciled with conventional view by observing that performance of a request is, in and of itself, detrimental to its performer -- and getting what promisor asked for, beneficial.
+
+
+
+SUMMARY *Forbearance of Legal Claims* 
+@Being spared the expense of defending an action *is* good consideration, even if the action would prove worthless |Cook v Wright|. 
+@Should the action's _claimant_ knows it would fail, however, then such forbearance would *not* be |Wade v Simeon|.
+@Out of court settlement should be encouraged; on the other, legal force must not be given to extortion.
+
+SUMMARY *Must be Requested*
+@The consideration claimed by promisee must have been requested by promisor |Combe v Combe|.
+@Unless sufficient the promisee has changed his position sufficiently |Shadwell v Shadwell|.
+@@N.B. dicta of Erle CJ, stating, in effect, that taking the risk of the contract being breached is sufficient detriment.
+
+SUMMARY *Compared to Conditional Gifts*
+@A promise valid on a particular condition not entailing detriment to the promisee, is a *gift* |Dickinson v Abel|.
+
+SUMMARY *Past Consideration*
+@The detriment of the consideration must _not_ have been suffered by the promisee before the promise was made |Roscorla v Thomas|.
+/ _However_...
+SUMMARY *Implied Assumpsit*
+@If undertaken at request of promisor, on understanding that payment would come later, on shared assumption that arrangements for payment would be made subsequently, this doctrine may treat past consideration and later promise as one |Lampleigh v Braithwait|.
+@Comprises an act done by promisee, at request of promisor, on understanding of later payment -- Lord Scarman in |Pao On v Lau Long|. 
+
+
+SUMMARY *Legal Duties*
+@The performance of a legal duty owed independently is not good consideration |Collins v Godefroy|.
+@Unless it goes beyond what is obligatory, in which case it _might_ be |Glasbrook v Glamorgan|.
+
+SUMMARY *Contractual Duties to Third Parties*
+@The courts will exhibit significant reluctance to treat a business arrangement for which no consideration can be found along conventional lines as consisting of gratuitous (and therefore unenforceable) promises. To achieve such ends, an existing contractual duty may be construed as consideration, |The Eurymedon|.
+
+SUMMARY *|White v Bluett|*
+
+SUMMARY *|Lipkin Gorman v Karpnale|*
+
+
+
+
+
+
+
+NAME Thomas v Thomas
+CITATION Thomas v Thomas [1842] 2 QB 851
+CATEGORY Consideration; Definitions of Consideration
+HELD Consideration must be of _some value in the eye of the law_. This value need not be equivalent to that of the promise for which it is exchanged. (Sentiment, says Treitel of this case, a thing fundamentally lacking quantifiability, is _not_ enough.)
+
+
+
+
+NAME Chappell v Nestle
+CITATION Chappell & Co v Nestle Co Ltd [1960] AC 87
+CATEGORY Consideration; Consideration Must Be of Some value In Eye of Law
+FLAGS Treitel
+HELD An item of no economic value _may well_ be sufficient consideration, if it shows evidence of detriment suffered by promisee or benefit conferred on promisor. This may hold even if the evidence is no more than speculative.
+HELD Lord Reid pinned his reasoning to the observation that, on the evidence of increased sales, in at least _some_ cases, the wrappers would indeed show evidence of detriment suffered or benefit bestowed, as the sales for which they were evidence would have been induced by the promise of the contract.
+HELD Lord Somervell of Harrow presumed the consideration's lack of economic value irrelevant when considered against freedom of contract. 
+
+
+
+NAME Cook v Wright
+CITATION Cook v Wright (1861)
+CATEGORY Consideration; Consideration In Compromises of Legal Claims
+FLAGS McKendrick
+HELD Being spared the expense of defending a legal action the hypothetical _respondent_ of which knows would be worthless, is good consideration.
+
+
+
+NAME Wade v Simeon
+CITATION Wade v Simeon (1846) 2 CB 548
+CATEGORY Consideration; Consideration In Compromises of Legal Claims
+HELD Being spared the expense of defending a legal action the claimant knows would _fail_, i.e., would bring in bad faith, is *not* sufficient consideration.  For it to be otherwise would be to give contractual force to extortion by this means.
+
+
+
+
+
+NAME Combe v Combe
+CITATION Combe v Combe [1951] 2 KB 215
+CATEGORY Consideration; Consideration Must Be Requested
+HELD The consideration provided by a promisee have been requested by the promisor.
+
+
+NAME Shadwell v Shadwell
+CITATION Shadwell v Shadwell (1860) CB (NS) 159
+CATEGORY Consideration; Consideration Must Be Requested
+HELD Even though nothing was requested of the promisee, good consideration was to be found in having _got married_, as per the (albeit inexplicit) stipulation of the offer. To do so was to have suffered detriment, in the sense of a _change of position_.
+
+
+
+NAME Dickinson v Abel
+CITATION Dickinson v Abel [1969] 1 WLR 295
+CATEGORY Consideration; Consideration Distinguished From Conditional Gifts
+HELD A promise valid only on fulfilment of a condition fails to be enforceable in contract, should that condition entail no detriment passing from the promisee. 
+
+
+
+NAME Roscorla v Thomas
+CITATION Roscorla v Thomas (1842) 3 QB 234
+CATEGORY Consideration; Consideration Must Not Be Past
+HELD A promise may not be supported by a detriment incurred by the promisee _before_ the promise was made.
+
+
+
+
+
+
+NAME Lampleigh v Brathwait
+CITATION Lampleigh v Brathwait (1615) Hob 105
+CATEGORY Consideration; Doctrine of Implied Assumpsit
+HELD A service performed on the understanding that payment would come later may be employed to supporting a subsequent promise to pay, through the doctrine of implied assumpsit.
+
+
+
+-- NAME Re Casey's Patents
+-- CITATION Re Casey's Patents (1892) 1 Ch 104
+-- CATEGORY Consideration; Doctrine of Implied Assumpsit
+
+
+
+
+NAME Pao On v Lau Long
+CITATION Pao On v Lau Yiu Long [1980] AC 614
+CATEGORY Consideration; Doctrine of Implied Assumpsit
+SUMMARY As part of a complex deal between two companies (the main agreement), the plaintiffs were to receive shares from the defendants. Since they agreed not to dispose of the shares for a stated period, they negotiated an undertaking from the defendants to buy the shares back at a stated value in order to lessen their exposure to a possible fall in the share price. When the plaintiffs later realised that this undertaking left them vulnerable to give up the shares at the same value even if they had risen above it on the open market, they insisted on the defendants granting them a guarantee that would protect them if the share price fell, but leave them free to profit if the price rose. The stated consideration was the plaintiffs’ performance of the main agreement. In fact the share price slumped, and the defendants later maintained that they received no consideration for the guarantee they had given, since it was past (and they argued that the guarantee had been procured by economic duress). The Privy Council held that the main agreement was not fully executed at the time the guarantee was given, so that sufficient consideration was given by the plaintiffs’ promise to perform it. It was not voidable for duress.
+HELD Obiter, Lord Scarman stated his understanding of the conditions for implied assumpsit: *(i)* an act done by promisee for promisor, *(ii)* at promisor's request, and *(iii)* understood by both parties to have been performed for the benefit of the promise (i.e., payment). 
+
+
+
+NAME Collins v Godefroy
+CITATION Collins v Godefroy (1831) 1 B & Ad 950
+CATEGORY Consideration; Performance of Existing Legal Duties as Consideration
+HELD The performance of a legal obligation such as giving evidence on subpoena will not be good consideration for a promise of reimbursement.
+
+
+NAME Glasbrook v Glamorgan
+CITATION Glasbrook Bros Ltd v Glamorgan County Council [1925] AC 270
+CATEGORY Consideration; Performance of Existing Legal Duties as Consideration
+FLAGS Atkin; Denning
+HELD The performance of a legal duty may be good consideration should it go beyond what is obligatory.
+
+
+
+NAME Ward v Byham
+CITATION Ward v Byham [1956] 1 WLR 496
+CATEGORY Consideration; Performance of Existing Legal Duties as Consideration
+FLAGS Denning
+HELD Denning LJ doubted the rule that performance of an existing duty could not be good consideration, on the basis that merely getting something requested would be of benefit to promisor. This drew near to the C18th view articulated by Lord Mansfield, that sufficient consideration is to be found in the _"ties of conscience upon an upright mind"_.
+
+
+
+--NAME Scotson v Pegg
+--CITATION Scotson v Pegg (1861)
+--CATEGORY Consideration; Performance of Contractual Duties Owed to a Third Party as Consideration
+
+
+
+NAME The Eurymedon
+AKA New Zealand Shipping v Satterthwaite
+CITATION New Zealand Shipping Co Ltd v Satterthwaite (The Eurymedon) [1956] 1 WLR 496
+CATEGORY Consideration; Performance of Contractual Duties Owed to a Third Party as Consideration
+HELD An existing contractual duty owed _to a 3rd third party_ may pressed into the mould of good consideration, should nothing else be found to enforce a business arrangement of mutually-profitable character in the normal course of events.
+
+
+
+
+
+NAME White v Bluett
+CITATION White v Bluett (1853) 23 LJ Ex 36
+CATEGORY Consideration; “Problem” Cases
+
+
+
+
+NAME Lipkin Gorman v Karpnale
+CITATION Lipkin Gorman v Karpnale Ltd [1992] 4 All ER 512
+CATEGORY Consideration; “Problem” Cases
+

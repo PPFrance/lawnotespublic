@@ -1,0 +1,123 @@
+META filename herling-10-interpretation-of-contracts.fc.txt
+
+
+--STOP--
+
+
+
+
+FLAGS Steyn; McKendrick
+NAME Importance of Interpretation
+TYPE Concept
+CATEGORY Interpretation of Contracts; Importance of Interpretation
+
+
+
+
+NAME Development of Modern Interpretation
+TYPE Concept
+CATEGORY Interpretation of Contracts; Development of Modern Interpretation
+
+
+
+
+NAME Lovell & Christmas Ltd v Wall
+CITATION Lovell & Christmas Ltd v Wall (1911) 104 LT 85
+CATEGORY Interpretation of Contracts; Development of Modern Interpretation
+
+
+
+
+NAME Reardon Smith Line Ltd v Yngvar Hansen-Tangen
+CITATION Reardon Smith Line Ltd v Yngvar Hansen-Tangen [1976] 1 WLR 989
+CATEGORY Interpretation of Contracts; Development of Modern Interpretation
+FLAGS Hoffman
+
+
+
+
+NAME Investors' Compensation Scheme Ltd v West Bromwich Building Society
+CITATION Investors' Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 WLR 896
+CATEGORY Interpretation of Contracts; Development of Modern Interpretation
+
+
+
+
+FLAGS Hoffman; Diplock
+NAME Commentary on Lord Hoffmann's Restatement
+TYPE Concept
+CATEGORY Interpretation of Contracts; Commentary on Lord Hoffmann's Restatement
+
+
+
+
+NAME The old principles of “legal” interpretation
+TYPE Concept
+CATEGORY Interpretation of Contracts
+FLAGS McKendrick; Hoffman; Denning
+
+
+
+
+NAME George Mitchell (Chesterhall) Ltd v Finney Lock Seeds
+CITATION George Mitchell (Chesterhall) Ltd v Finney Lock Seeds [1983] 2 AC 803
+CATEGORY Interpretation of Contracts; Commentary on Lord Hoffmann's Restatement
+FLAGS Denning
+
+
+
+
+NAME Interpretation and precedent
+TYPE Concept
+CATEGORY Interpretation of Contracts
+FLAGS McKendrick; Hoffman
+
+
+
+
+NAME Bank of Credit and Commerce International SA v Ali
+CITATION Bank of Credit and Commerce International SA v Ali [2001] UKHL 8
+CATEGORY Interpretation of Contracts; Commentary on Lord Hoffmann's Restatement
+FLAGS Hoffman
+
+
+
+
+NAME Over-extending the “matrix of fact”
+TYPE Concept
+CATEGORY Interpretation of Contracts
+FLAGS Hoffman
+
+
+
+
+NAME Artificially limiting the matrix of fact
+TYPE Concept
+CATEGORY Interpretation of Contracts
+FLAGS Hoffman
+
+
+
+
+NAME Chartbrook Ltd v Persimmon Homes Ltd
+CITATION Chartbrook Ltd v Persimmon Homes Ltd [2009] UKHL 38
+CATEGORY Interpretation of Contracts; Commentary on Lord Hoffmann's Restatement
+FLAGS Bingham
+
+
+
+
+NAME The temptation to go beyond the dictionary
+TYPE Concept
+CATEGORY Interpretation of Contracts
+FLAGS Hoffman
+
+
+
+
+NAME Going beyond “mistakes” in the contract
+TYPE Concept
+CATEGORY Interpretation of Contracts
+FLAGS Hoffman
+
+

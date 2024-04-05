@@ -1,0 +1,141 @@
+
+NAME Regency Villas v Diamond Resorts 
+CITATION Regency Villas v Diamond Resorts (2015) EWHC
+CATEGORY Easements
+SUMMARY Claim to an easement to use a swimming pool and a golf club.
+HELD Despite the ample textbook rhetoric about how you can't have an easement for a purely recreational purpose, this recent case may establish that in fact, you _can_.
+
+
+
+
+NAME Canham v Fisk
+CATEGORY Easements
+HELD An easement is not extinguished by merger of dominant and servient tenements if there's an intention to re-separate the plots in future.
+
+NAME Hill v Tupper
+CATEGORY Easements
+HELD The servient and dominant tenements of an easement need not be contiguous, but must be proximate. A _canal_ and a particular piece of land are _not_.
+
+NAME Moody v Steggles
+CATEGORY Easements
+YEAR 1879
+HELD An easement to signage may validly confer a business benefit on the dominant tenement. 
+
+NAME Regency Villas v Diamond Resorts
+CATEGORY Easements
+AKA Regency Villas
+CITATION Regency Villas v Diamond Resorts [2015] EWHC 3564
+FLAGS Important
+HELD The claim of an easement to the use of _leisure_ facilities was upheld, developing the law and going against dicta in |Moncrieff v Jamieson|. Potentially not inconsistent with requirement of _necessity_ for implication of an easement,  in light of evolving modern idea as to what in fact _is_ necessary. 
+
+NAME Tara Hotels v Kensington
+CATEGORY Easements
+HELD If, as in |Coventry v Lawrence|, there can be an easement to make _noise_ -- which entails sound waves flooding from dominant to servient tenement -- then there can also be an easement for people to flood out from a fire-escape onto the burdened land. See also |Fenn Tigers|.
+
+NAME Bachelor v Marlowe
+CATEGORY Easements
+CITATION Bachelor v Marlowe [2003] EWHC
+HELD The test for whether the burden of a claimed easement is excessive is whether the servient owner _retains reasonable use_ of his land -- that it does not _render the servient owner's use illusory_.
+
+NAME Moncreiff v Jamieson
+CITATION Moncreiff v Jamieson [2007] UKHL 
+CATEGORY Easements
+HELD Per Lord Scott, the test for whether a claimed easement imposes an excessive burden should _not_ be whether the _servient owner retains reasonable use_, but whether he _retains control_ of the servient tenement. Doubted by Lord Neuberger. Obiter -- an easement of use of a swimming pool could _not_ be valid, as would require upkeep. Cf. |Regency Villas|.
+
+NAME Crow v Wood
+CATEGORY Easements
+HELD Although the burden of an easement may not, in general, be _positive_ (i.e., necessitate that owner of burdened land must _do_ something), the _easement to fencing_ is an established exception.
+
+
+NAME Cardwell v Walker
+CATEGORY Easements
+HELD The claim of an easement to the (paid) supply of electricity from a generator, to a caravan park, was upheld.
+
+NAME Wright v Macadam
+CATEGORY Easements
+HELD The use of the burdened land entailed by a claimed easement must not be excessive. Nevertheless, because the owner of a shed used to store coal for the dominant tenement retained _access_, the claim succeeded. 
+
+NAME R Square v Nissan
+CATEGORY Easements
+HELD An easement of parking was upheld despite that it was for _many_ cars, as the owner retained reasonable use.
+
+NAME Copeland v Greenhalf
+CATEGORY Easements
+FLAGS Key
+HELD A right claimed as an easement must be for something _specific_; not so general as to amount to _shared general use_ of the burdened land.  The use of an orchard to store vans, having evolved from the use established fifty years previously of mending wagon-wheels, was found to be an excessive burden on the land and did not per se confer a _specific_ benefit on the claimant's land. It amounted, instead, to a claim to shared use, and was therefore, decided per Upjohn J to be 'wholly outside the normal idea of an easement'.
+
+
+NAME Emcer v Miller
+CATEGORY Easements
+HELD If the nature of the benefit/burden conferred/imposed necessarily entails _temporary exclusive use_, then it may nevertheless valid as the subject of an easement. Therefore, an easement of use of a lavatory was upheld.  
+
+NAME Kettel v Bloomfold
+CATEGORY Easements
+HELD As long as the use of a garage is not _exclusive_, it may be capable of being an easement. The right to park a single car in a double garage (a hypothetical case in the |Law Commission Report on Easements|) could be capable, therefore, as long as the owner retains access. _What about a single garage where owner uses to store tools?_
+
+
+NAME Fenn Tigers Case
+AKA Fenn Tigers
+CATEGORY Easements
+HELD As in |Coventry v Lawrence|, the making of noise is capable of being an easement. 
+
+NAME Phipps v Pears
+CATEGORY Easements
+FLAGS Denning
+HELD Protection from the elements is _not_ capable of being an easement.
+
+
+--------- IMPLIED CREATION ----------
+
+NAME Walby v Walby
+CATEGORY Easements; Implied Creation
+HELD The implied creation of easements on grounds of necessity will only succeed if not to do so would render the land in question unusable, to a significant degree. That the implied easement would be _convenient_, by contrast, is not enough.
+
+ 
+
+NAME Manjang v Drameh
+CATEGORY Easements; Implied Creation
+HELD A claim to imply an easement of access will fail to be sufficiently _necessary_, if another means of access is available. Even if that means by boat. 
+
+
+NAME Stafford v Lee
+CATEGORY Easements; Implied Creation
+HELD When the parties' common intention in the transfer evinces that the plot will be used for a particular purpose, those easements _necessary for that use_ will be impliedly created. Such as, e.g., an easement to run sewerage pipes to serve a plot sold to build a house.
+
+NAME Wong v Beaumont
+CATEGORY Easements; Implied Creation
+HELD The common intention of the parties to a transfer for the purpose of a restaurant will give rise to the implied easements necessary for that purpose -- such as ventilation shafts to carry away the smell of MSG and shrimp.
+
+
+NAME Long v Gowlett
+CATEGORY Easements; Implied Creation
+HELD For S62(1) LPA to transform precarious personal rights into easements, there was a requirement of prior diversity of ownership or occupation. (No longer applies, since |Wood v Waddington| in 2015). 
+
+
+NAME Sovmots v Environment Secretary
+AKA Sovmots
+CITATION Sovmots v Environment Secretary [1977] UKHL 3
+CATEGORY Easements; Implied Creation
+HELD Confirming the rule in |Long v Gowlett|, prior diversity of occupation or ownership was necessary for S62 creation of implied easements from personal permissions following transfer. (Not good law since |Wood v Waddington| in 2015).
+
+NAME Bormann v Griffiths
+CATEGORY Easements; Implied Creation
+HELD S62(1) LPA only applies to transfers taking place by deed or registered disposition -- a claim relying on S62's means of implying easements from personal permissions, therefore, failed.
+
+NAME Platt v Crouch
+CITATION Platt v Crouch (2003)
+CATEGORY Easements; Implied Creation
+HELD Transforming personal rights into implied easements, under S62 of the LPA 1925, did _not_ require prior diversity of occupation. Confirmed in 2016 in |Wood v Waddington|.
+
+
+NAME Wood v Waddington 
+CITATION Wood v Waddington [2015] EWCA Civ 538
+CATEGORY Easements; Implied Creation
+FLAGS Key
+HELD Confirming |Platt v Crouch|, implied easements created under S62 LPA 1925 does _not_ require prior diversity of occupation/ownership.
+
+
+NAME Wheeldon v Burrows
+CATEGORY Easements; Implied Creation
+HELD Where the transfer fails formality requirements and is therefore only equitable, easements can nevertheless implied by similar means to S62 LPA. Although under S62 the rights must have been _continous and apparent_ immediately prior to transfer, the right in question under this rule is *either* _reasonable and apparent_ *or* _necessary for reasonable enjoyment*.
+

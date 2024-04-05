@@ -1,0 +1,215 @@
+META filename eu-11-introduction-to-the-internal-market.fc.txt
+
+
+NAME The Internal Market and Free Movement
+TYPE Concept
+FLAGS EU
+CATEGORY Internal Market; Free Movement of Goods
+LINK Schuman Declaration  http://europa.eu/about-eu/basic-information/symbols/europe-day/schuman-declaration/index_en.htm
+SUMMARY ~*Internal Markets*~
+/Are the most sophisticated form of economic cooperation, give or take. The treaties are therefore primordially concerned with it.
+@|Art 26 TFEU| -- the Union *must achieve* this and *make it work*. Not only must it *remove barriers*, it must take *positive measures*.
+@|Art 28 TFEU| -- it must *implement customs union*, for all trade in goods.
+@|Art 29 TFEU| -- imported *goods from outside* the EU are to be considered *in free circulation*, so long as they were imported legally into _a_ member state.
+@|Art 30 TFEU| -- *customs duties* and *charges having equivalent effect* are *prohibited*.
+@|Art 31 TFEU| -- customs on imports into the union shall be fixed by the |Council| on proposal of the |Commission|.
+@|Art 34 TFEU| and |Art 35 TFEU| -- |Quantitive Restrictions| and |Measures having Equivalent Effect| are prohibited on imports and exports.
+@|Art 36 TFEU| -- unless there's a jolly good reason.
+SUMMARY ~*Harmonization*~
+/This, at the outset, was seen as a necessity, but something that had to happen *incrementally*. From the _Schuman Declaration_ (delivered on the 5th anniversary of the end of WWII) --
+@_'Europe will not be made all at once or according to a single plan._ It will be built through concrete achievements which first create a de facto solidarity. The coming together of the nations of Europe requires the _elimination of the age of old opposition of France and Germany. Any action taken must in the first place concern these two countries.'_
+SUMMARY And from the Commission _White Paper on the Internal Market_ -- @'... the reason for getting rid entirely of physical and other controls between Member States is *not one of theology or appearance*, but the *hard practical fact* that maintenance of any *internal frontier controls* will perpetuate the *costs and disadvantages* of a divided market.
+SUMMARY ~*Restrictions*~
+/Come in two forms -- 
++|Fiscal Restrictions on Free Movement|
++|Quantitive Restrictions on Free Movement|, including |Measures of Equivalent Effect|.
+
+SUMMARY See also |Harmonization|.
+
+NAME Articles 26-28 TFEU
+TYPE Treaty Article
+AKA Art 26 TFEU
+AKA Art 27 TFEU
+AKA Art 28 TFEU
+FLAGS EU
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Free Movement of Goods; Art 26 TFEU; Art 27 TFEU; Art 28 TFEU
+SUMMARY *~Article 26~*
++The Union shall adopt measures with the aim of establishing or ensuring the functioning of the internal market, in accordance with the relevant provisions of the Treaties.
++The internal market shall comprise an area without internal frontiers in which the free movement of goods, persons, services and capital is ensured in accordance with the provisions of the Treaties.
++The Council, on a proposal from the Commission, shall determine the guidelines and conditions necessary to ensure balanced progress in all the sectors concerned.
+SUMMARY ~*Article 27*~
+/When drawing up its proposals with a view to achieving the objectives set out in Article 26, the Commission shall take into account the extent of the effort that certain economies showing differences in development will have to sustain for the establishment of the internal market and it may propose appropriate provisions.
+SUMMARY If these provisions take the form of derogations, they must be of a temporary nature and must cause the least possible disturbance to the functioning of the internal market.
+SUMMARY ~*Article 28*~
++The Union shall comprise a customs union which shall cover all trade in goods and which shall involve the prohibition between Member States of customs duties on imports and exports and of all charges having equivalent effect, and the adoption of a common customs tariff in their relations with third countries.
++The provisions of Article 30 and of Chapter 2 of this Title shall apply to products originating in Member States and to products coming from third countries which are in free circulation in Member States.
+
+
+
+NAME Articles 29 and 31 TFEU 
+TYPE Treaty Article
+AKA Art 29 TFEU
+AKA Art 31 TFEU
+FLAGS EU
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Free Movement of Goods; Art 29 TFEU; Art 30 TFEU; Art 31 TFEU
+SUMMARY ~*Article 29*~
+/Products coming from a third country shall be considered to be in free circulation in a Member State if the import formalities have been complied with and any customs duties or charges having equivalent effect which are payable have been levied in that Member State, and if they have not benefited from a total or partial drawback of such duties or charges.
+SUMMARY (See also -- |Art 30 TFEU|)
+SUMMARY ~*Article 31*~
+/Common Customs Tariff duties shall be fixed by the Council on a proposal from the Commission.
+
+
+NAME Article 30 TFEU 
+AKA Art 30 TFEU
+TYPE Treaty Article
+FLAGS EU
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Free Movement of Goods; Art 29 TFEU; Art 30 TFEU; Art 31 TFEU
+SUMMARY *~Summary~*
+/Article 30 bans charges *at the border*. It covers anything that could be subject to commercial transaction (|Art Treasures|), whatever the purpose of the charge (|Statistical Data Levy|, |Bresciani|), even if the recipient of the levy is *not* the state (|Cadsky|). Exceptions are where the charge is in fact payment for services rendered; to fulfil a requirement of EU law (|Bauhuis|); or international law (|Commission v NL|). 
+
+SUMMARY *~Article 30~ - Text*
+/*Customs duties on imports and exports and charges having equivalent effect shall be prohibited between Member States. This prohibition shall also apply to customs duties of a fiscal nature.*
+SUMMARY ~*Further details*~
+/|Fiscal Restrictions at the Border|.
+
+
+
+NAME Article 110 TFEU
+TYPE Treaty Article
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Art 110 TFEU
+FLAGS EU
+SUMMARY ~*Summary*~
+/This addresses *internal tax* and is accordingly *contentious*, but member states *retain* fiscal autonomy (|Commission v France|). Taxes that are *applied* differently (|Bobie|), that are applied the same but which confer advantage on the domestic product (|Capolongo|), and theoretically non-discriminating taxes which in practice *do* discriminate (|Humblot|), are all violations of Art 110. Except when they're *good for you* (|Chemial|).  _Mr. Walker's Amber Restorative_ is *not* similar to Danish fruit liquors (|Johnnie Walker|). 
+
+SUMMARY *~Article 110~ -- Text*
+/No Member State shall impose, directly or indirectly, on the products of other Member States any *internal taxation* of any kind *in excess of that imposed* directly or indirectly *on similar domestic products*.
+SUMMARY Furthermore, no Member State shall *impose on the products of other Member States* any internal taxation of such a nature as to afford *indirect protection* to other products.
+
+
+SUMMARY ~*Further details*~
+/|Fiscal Restrictions over the Border|.
+
+
+
+
+NAME Articles 114 and 115 TFEU
+TYPE Treaty Article
+AKA Art 114 TFEU
+AKA Art 115 TFEU
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Free Movement of Goods; Art 114 TFEU; Art 115 TFEU
+FLAGS EU
+SUMMARY ~*Article 114*~
++Save where otherwise provided in the Treaties, the following provisions shall apply for the achievement of the objectives set out in Article 26. The European Parliament and the Council shall, acting in accordance with the ordinary legislative procedure 	and after consulting the Economic and Social Committee, adopt the measures for the approximation of the provisions laid down by law, regulation or administrative action in Member States which have as their object the establishment and functioning of the internal market.
++Paragraph 1 shall not apply to fiscal provisions, to those relating to the free movement of persons nor to those relating to the rights and interests of employed persons.
++The Commission, in its proposals envisaged in paragraph 1 concerning health, safety, environmental protection and consumer protection, will take as a base a high level of protection, taking account in particular of any new development based on scientific facts. Within their respective powers, the European Parliament and the Council will also seek to achieve this objective.
++If, after the adoption of a harmonisation measure by the European Parliament and the Council, by the Council or by the Commission, a Member State deems it necessary to maintain national provisions on grounds of major needs referred to in Article 36, or relating to the protection of the environment or the working environment, it shall notify the Commission of these provisions as well as the grounds for	maintaining them.
++Moreover, without prejudice to paragraph 4, if, after the adoption of a harmonisation measure by the European Parliament and the Council, by the Council or by the Commission, a Member State deems it necessary to introduce national provisions based on new scientific evidence relating to the protection of the environment or the working environment on grounds of a problem specific to that Member State arising after the adoption of the harmonisation measure, it shall notify the Commission of the envisaged provisions as well as the grounds for introducing them. 
++The Commission shall, within six months of the notifications as referred to in paragraphs 4 and 5, approve or reject the national provisions involved after having verified whether or not they are a means of arbitrary discrimination or a disguised restriction on trade between Member States and whether or not they shall constitute an obstacle to the functioning of the internal market.
++In the absence of a decision by the Commission within this period the national provisions referred to in paragraphs 4 and 5 shall be deemed to have been approved.
+When justified by the complexity of the matter and in the absence of danger for human health, the Commission may notify the Member State concerned that the period referred to in this paragraph may be extended for a further period of up to six months.
++When, pursuant to paragraph 6, a Member State is authorised to maintain or introduce national provisions derogating from a harmonisation measure, the Commission shall immediately examine whether to propose an adaptation to that measure.
++When a Member State raises a specific problem on public health in a field which has been the subject of prior harmonisation measures, it shall bring it to the attention of the Commission which shall immediately examine whether to propose appropriate 	measures to the Council.
++By way of derogation from the procedure laid down in Articles 258 and 259, the Commission and any Member State may bring the matter directly before the Court of Justice of the European Union if it considers that another Member State is making improper use of the powers provided for in this Article.
++The harmonisation measures referred to above shall, in appropriate cases, include a safeguard clause authorising the Member States to take, for one or more of the non-economic reasons referred to in Article 36, provisional measures subject to a Union control procedure.
+SUMMARY ~*Article 115*~
+/Without prejudice to Article 114, the Council shall, *acting unanimously in accordance with a special legislative procedure* and after consulting the European Parliament and the Economic and Social Committee, issue directives for the approximation of such laws, regulations or administrative provisions of the Member States as directly affect the establishment or functioning of the internal market.
+
+
+
+NAME Harmonization
+TYPE Concept
+FLAGS EU
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Harmonization
+SUMMARY ~*Power to Harmonize*~
+/|Art 114 TFEU| says _obliquely_ that the Union has the power to adopt harmonization. How? By the |Ordinary Legislative Procedure| of QMV. 
+@This is *one of the most important articles* in TFEU.
+SUMMARY See also -- |Fiscal Restrictions on Free Movement|, |Fiscal Restrictions at the Border| and |Fiscal Restrictions over the Border|.
+
+
+NAME Fiscal Restrictions on Free Movement
+TYPE Concept
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Free Movement of Goods; Art 30 TFEU; Art 110 TFEU
+SUMMARY There are two _mostly_-distinct situations -- 
++The border *is being* crossed -- |Art 30 TFEU| applies.
++The border *has been* crossed -- |Art 110 TFEU| applies.
+SUMMARY Measures falling the wrong side of either may be *fiscal*, and require the trader to pay something, or *non-fiscal*, making life difficult in other ways, such as product requirements, e.g., milk to be sold in glass bottles, etc.
+SUMMARY |Fiscal Restrictions at the Border| -- applies to *everything* that can be transacted (|Art Treasures|). The purpose of the charge is irrelevant (|Statistical Data Levy|), but may (or may not -- |Bresciani|) be justified if it's in fact money for *specific services*; or to fulfil a requirement of EU law (|Bauhuis|) or International Law (|Commission v NL|).
+SUMMARY |Fiscal Restrictions over the Border| -- *domestic taxation* is prohibited if it's calculated *differently* for imported products (|Bobie|); if it's calculated *identically* but the proceeds protect the domestic product (|Capolongo|); if it only applies to imports (|Commission v France|), etc. There may be public policy exceptions (|Chemial|). *Similarity* may lie in the acceptability of substitutes (|Johnny Walker|).
+SUMMARY The |Directive on Excise Duty| does not preclude you from collective purchases with your pals  (|Joustra|)
+SUMMARY Cf. |Quantitive Restrictions on Free Movement|
+
+
+NAME Fiscal Restrictions at the Border
+#Merge into card "Art 30 TFEU"??
+TYPE Concept
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Free Movement of Goods; Art 30 TFEU
+SUMMARY *~At the Border~*
+/This situation is provided for by |Art 30 TFEU|, rather a laconic provision prohibiting *customs duties* and *charges having equivalent effect*. Those, after all, would be the very first obstacles that could be encountered by a trader wishing to take advantage of the single market in the most fundamentally way he can. The attitude of the ECJ, therefore, has been *uncompromising*. Unsurprisingly, the cases revolve around the second limb of the prohibition.
+
+SUMMARY ~*Charges Having Equivalent Effect*~
+@In |Commission v Italy (Art Treasures)|, the prohibition of Art 30 was found to apply to anything *capable of being subject to a commercial transaction*
+@@Ditto in |Diamantarbeiders|.
+@The *purpose* of the charge is irrelevant -- |Commission v Italy (Statistical Data Levy)|, in which the court held *any pecuniary charge* imposed when a product crossed a border is prohibited. 
+@As is the *recipient* of the charge -- |Cadsky|.
+SUMMARY ~*Exceptions*~
+SUMMARY However, there are *three* instances where a charge levied by customs is not a breach of Art 30 --
++For services performed by customs *specific and proportional* to the individual.
+@@In |Bresciani|, there was proportionality but no specificity, so the charge was not exempt from Art 30.
++Charges related to requirements of *EU law*.
+@@In |Bauhuis|, which related to veterinary inspections of livestock mandated by the EU.
++Charges related to requirements of *International law*.
+@@|Commission v NL|
+
+NAME Fiscal Restrictions over the Border
+TYPE Concept
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Free Movement of Goods; Art 110 TFEU
+SUMMARY *~Over the Border~ 
+/|Art 110 TFEU| prohibits the imposition of taxes on imported products similar to domestic products in a manner that discriminates directly or indirectly (para 1) or in a way that indirectly protects domestic products (para 2).  So to a degree it meddles in the internal tax affairs of member states.
+@|Commission v France|, however, explained that states do retain fiscal autonomy -- but that Art 110 obliges them to exercise 'fiscal neutrality' between imported and domestic products.
+SUMMARY ~*Considerations*~
+SUMMARY *|Art 110 TFEU| or |Art 30 TFEU|?* 
+/|Capolongo v Maya| established that an internal tax, applied indiscriminately to domestic and imported products, may be an Art 30 breach, should the money it raises be used to support the product on which it's levied. That, in effect, would be a rebate for domestic producers, but not the importers -- and therefore discrimination.
+SUMMARY *Scope* -- |Bobie| established Art 110 to be engaged if the tax is *calculated differently* for imports, even if the resultant discrepancy is negligible (or discriminates *against* domestic producers, as it did there). 
+@|Humblot| established that a tax that in practice applied *only* to importers is caught in the Art 110(1) net.
+SUMMARY *Similarity* -- in |Johnny Walker|, the meaning of *similar* in Art 110 relates to whether the ordinary punter would accept the purportedly-similar product as a substitute.
+SUMMARY National tax measures may *not* crystallize consumer habits -- |Wine and Beer|.
+SUMMARY *Exceptions* -- in |Chemial|, they may be made for taxes that discriminate, amounting to breaches of Art 110(1) -- but which are in the public interest, or as the judgment puts it, 'compatible with treaties and secondary legislation.'  {|Humblot| seems a little inconsistent with this.}
+
+
+NAME Internal Market - Discussion
+TYPE Concept
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Free Movement of Goods; Art 110 TFEU
+SUMMARY In |Fiscal Restrictions on Free Movement of Goods|, the Court is essentially quite careful to *avoid* waggling its finger around in the wasp’s nest of internal taxation. 
+SUMMARY Buy stuff in France, come back home and enjoy it -- should you be taxed in the country of origin or the country of destination?
+@Member states aren't that happy about the status quo, as, amazingly, people prefer buying things in member states that impose lower taxes.
+@The advantages of the current arrangement is *simplicity*. No paperwork is necessary, no administration.
+SUMMARY ~*Personal v Business*~
+/The distinction is is made between products purchased for personal reasons, and products purchased for business reasons.
+@Personal consumption is taxed in the *country of purchase*.
+@Commercial consumption, by contrast, is taxed in *country of destination*.
+SUMMARY The preamble of *Council Directive 91/680 (VAT)* has a stab at explaining the continuing discrepancy --
+@The deadline for determination of the definitive system was 31 December *1992*.
+@But that didn't happen, because no-one can agree.
+/_Deindi cessavit ratione._
+SUMMARY The |Directive on Excise Duty| provides for how *private* imports of, e.g., ciggies and lager, and *commercial* imports are to be distinguished and treated.
+
+
+NAME Directive on Excise Duty 92/12 (Alcohol, Tobacco, Petrol)
+AKA Directive on Excise Duty
+TYPE Directive
+FLAGS EU
+CATEGORY Internal Market; Free Movement of Goods; Fiscal Restrictions; Free Movement of Goods; Art 110 TFEU
+SUMMARY ~*Article 7*~
+/Provides for the situation of private individuals acquiring and transporting *for their own use*. They are to be subject to excise duty in the *country of purchase*.
+@What about vans full of cigs, appalling German beer and even worse French wine?
+SUMMARY ~*Article 8*~
+/Telling a commercial import from a personal one is a matter of taking account of (i) the importer's commercial status, documents related to the products, and of course the quantities involved.
+@Generous guidelines are given, below which customs can't easily fuck with you -- 800 fags, 100 bottles of wine, etc.
+@Note the appalling customs bastards at Dover had a policy of *automatically keeping your car & contents* until, a couple of weeks later, they'd decided what to do with you.
+@@Happily, the Court had no trouble in deciding this to be a violation of the directive.
+SUMMARY The seminal case on the difference is, _amazingly_, not about a knuckle-dragging English prole filling his rapist-van to the brim with  merchandise from the left-most shelf of whichever Carrefour to which his satnav led him, but |Joustra|, in which an affable Dutch piss-artist ran a sort of wine-club for his pals.
+
+
+
+
+

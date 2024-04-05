@@ -1,0 +1,55 @@
+TYPE-DEFAULT Concept
+CATEGORY-DEFAULT Constitutional Law; Basic Principles
+
+
+NAME Democracy - Elements of Definition
+SUMMARY *Democracy vs. Legitimacy*
+@ Are there _inalienable_ rights? 
+@ Or are they just the moeurs of the time, rising and falling with circumstances?
+@ _Legal_ is not necessarily _legitimate_.
+@@ Open homosexuality was unremarkable in the Berlin of the late 1920s to a comparable degree as it was in Amsterdam, until relatively recently. But that particular piece of progress was suddenly and murderously revoked. 
+@@ (Potentially on the mere whim of the enmity between Roehm and Hitler, who he thought was a vulgar, peculiar and jumped-up little twerp.)
+
+
+SUMMARY *Elective Dictatorship*
+@ The very commonly-made and irritatingly wised-up remark that the UK, the USA, etc, are elective dictatorships, is meant to convey that the speaker thinks there's not much more legitimacy in our system of government than that of, say, Venezuela. 
+@ It makes an assumption about the unlimitedness of executive power which doesn't even _begin_ to stack-up with the facts. 
+@ |Carrick v Errington|. 
+
+
+SUMMARY *Majoritarianism*
+@ An obligation to vote, and 51% 
+@ Judged by the one means of statistical quantification which, on the individual level correlates unambiguously and compellingly well with the full spectrum of personality traits necessary for the making of good decisions -- reasoning in the abstract, recognising and overcoming cognitive bias, deferring gratification, etc -- half the people in this country have an IQ no higher than a hundred. 
+@ And, it doesn't seem too far-fetched to assume, inversely correlates just as well with the individual's capacity to hop onto the train of groupthink.
+@ (Notwithstanding the straw-man made of IQ in that most celebrated masterpiece of abundant, gleeful, unselfconscious cherry-picking and wishful thinking -- which flattened its author's reputation as a scientist but magicked it immediately back to life as that of a studio-hopping rent-a-quote -- Stephen J. Gould's 1981 polemic 'The Mismeasure of Man')
+@ 51% of people can be _wrong_.
+
+
+SUMMARY *Niceness*
+@ The precise, Attic focus of 'democracy' seems to have become more than a little blurred, in modern usage. 
+@ Added to which, its prolific appearance in political rhetoric, particularly since 1997 (by my lights), runs the risk of causing it a significant degree of semantic devaluation. 
+@ Too frequently, it's used to mean nothing more than 'lenient', or even just 'right' or 'moral', in the opinion of its user.
+@ This use is somewhat deceitful. 'Moral', 'lenient' and 'right' are expressions of subjective judgement as to value. If they're to be made, they ought to be justified and therefore require justification. 
+@ 'Democratic', by contrast, is something of a lemma in the popular imagination, requiring _no_ such justification.
+
+
+NAME Constitution - Elements of Definition
+SUMMARY *Academic Definitions of _Form_* 
+@ Turpin -- 'a body of rules, conventions and practices which regulate or qualify the organisation and operation of government in the United Kingdom.'
+@ de Smith -- 'a central, but not the sole feature, of the rules regulating the system of gov't.'
+@ Bogdanor -- 'code of rules aspiring to regulate allocation of functions, powers and duties among public agencies and officers of gov't, defining relationship between them and public.'
+
+
+
+
+
+
+å
+--STOP-- 
+
+SUMMARY *Nastiness*
+@ Imagine it's three weeks before the 2020 election. A truly horrible Islamic terrorist attack takes place in London, killing tens of thousands. 
+@ From the suicide videos, it becomes clear the attack was the work of Londoners of Bangladeshi extraction; and that the attack was only the first of a series, each to break new ground in barbarity and bloodshed.
+@ By contrast to the historic shame of Spain's pusillanimity in 2004, the blood of the 'burbs and boroughs is well and truly got-up -- and Nigel Farage or similar is swept to a landslide electoral victory.
+@ A state of emergency is declared. 
+@ Legislation is speedily enacted to  

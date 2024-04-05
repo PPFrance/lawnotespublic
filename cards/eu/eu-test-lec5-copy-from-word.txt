@@ -1,0 +1,349 @@
+Lecture 5	General principles and fundamental human rights
+
+MAIN READING
+
+Craig and de Búrca, Ch. 11
+
+***	Primary law 
+
+Article 19 TEU: 
+
+The Court of Justice of the European Union shall include the Court of Justice, the General Court and specialised courts. It shall ensure that in the interpretation and application of the Treaties the law is observed. 
+
+			Article 263 subparagraph 2 TFEU:
+
+[The Court] shall for this purpose have jurisdiction in actions brought by a Member State, the European Parliament, the Council or the Commission on grounds of lack of competence, infringement of an essential procedural requirement, infringement of the Treaties or of any rule of law relating to their application, or misuse of powers.
+
+Art. 340 subpara 2  TFEU:
+In the case of non-contractual liability, the Union shall, in accordance with the general principles common to the laws of the Member States, make good any damage caused by its institutions or by its servants in the performance of their duties.
+GENERAL PRINCIPLES OF LAW 
+
+1. What are General Principles of Law (GPL)? 
+
+Note the lack of an agreed definition, and the lack of agreed treatment among textbook writers. Our focus (at least until we zoom in on fundamental rights) is on the rationale for, and legitimacy of, a body of rules which somehow exist independently of the Treaty. 
+
+There is almost no Treaty authority for the development of GPL:
+***	Art. 6(3) TEU (since Treaty of Lisbon) (‘fundamental rights… shall constitute general principles of the Union’s law.’)
+***	Art. 19 TEU (... ‘the law’ is observed);
+***	Art. 263 TFEU (... infringement of this Treaty or ‘any rule of law’ relating to its application...);
+***	Art. 340(2) TFEU (... in accordance with ‘the general principles common to the laws of the Member States’...) 
+
+…though there may be authority for the development of specific GPL, for example:
+***	Art. 2 TEU (human dignity, freedom, equality and human rights as foundational ‘values’)
+***	Art. 6 TEU (fundamental rights)
+***	Art. 5(1), (3) and (4) TEU (the principles of subsidiarity and proportionality)
+***	Arts. 18, 19, 40, 157 TFEU (various strands of ‘equality’)
+
+However, the Court has identified and applied an (open) list of GPL including:
+¥	Fundamental rights (discussed in lecture 14)
+¥	Equality
+¥	Subsidiarity 
+¥	Transparency
+¥	‘Precautionary Principle’ 
+¥	Rules of administrative justice: proportionality (discussed below), legal certainty, legitimate expectations, right to fair hearing, duty to give reasons, right to legal redress (‘due process’) etc.
+
+2. Sources of GPL
+
+***	Public international law (e.g. the European Convention of Human Rights (ECHR))
+
+***	Domestic legal systems: ‘The court … chooses from each member state those solutions which, having regard to the objects of the Treaty, appear to be the best or …the most progressive’; Case 14/61 Hoogovens v High Authority [1962] ECR 253. The preferred formulation is: the constitutional traditions common to the Member States (see below).
+
+***	The Court’s own decisions (case law e.g. on legal certainty, protection of legitimate expectations and non‑retroactivity, right to a fair hearing, legal professional privilege)
+
+
+PROPORTIONALITY
+
+***	Where to find it? 
+
+Article 5(4) TEU: ‘Under the principle of proportionality, the content and form of Union action shall not exceed what is necessary to achieve the objectives of the Treaty.’ 
+
+Article 5 of the Protocol on the Application of the Principles of Subsidiarity and Proportionality requires draft EU legislation to ‘be justified with regard to the principles of subsidiarity and proportionality. Any draft legislation should contain a detailed statement making it possible to appraise compliance with the principles of subsidiarity and proportionality…’
+
+Case C-331/88 Fedesa [1990] ECR I-4023: 
+
+‘The principle of proportionality … requires that measures adopted by the EU do not exceed the limits of what is appropriate and necessary in order to attain the objectives legitimately pursued by the legislation in question’; 
+
+***	Scope of application 
+
+FUNDAMENTAL HUMAN RIGHTS
+
+***	The initial approach of the ECJ to human rights 
+
+Case 1/58 Stork v High Authority, [1959] ECR 17 
+
+***	The turning point
+
+Case 29/69 Stauder v City of Ulm, [1969] ECR 419
+
+Case 11/70 Internationale Handelsgesellschaft [1970] ECR 1125 
+
+‘However, an examination should be made as to whether or not any analogous guarantee inherent in [EU] law has been disregarded. In fact, respect for fundamental rights forms an integral part of the general principles of Community law protected by the Court of Justice. The protection of such rights, whilst inspired by the constitutional traditions common to the Member States, must be ensured within the framework of the structure and objectives of the Community.’
+
+Case 4/73, Nold v Commission, [1974] ECR 507 
+
+***	The German courts’ reaction
+
+Internationale Handelsgesellschaft [1972] CMLR 177 (a case before a German Administrative Court); and [1974] CMLR 540 (before the Federal Constitutional Court).
+
+‘Solange I’: ‘… the guarantee of fundamental rights in the Constitution prevails so long as the competent organs of the [EU] have not removed the conflict of norms in accordance with the Treaty mechanism’.
+
+The threatened rebellion of the German Constitutional Court, to the effect that it would disapply EU acts which encroached upon human rights protected by the German Constitution, only ended with the case of Wünsche Handelsgesellschaft, [1987] 3 CMLR 225.
+
+‘Solange II’: ‘… so long as the [EU]… generally ensure[s] an effective protection of fundamental rights as against the sovereign powers of the [EU] which is to be regarded as substantially similar to the protection of fundamental rights required unconditionally by the Constitution… the Federal Constitutional Court will no longer exercise its jurisdiction to decide on the applicability of secondary [EU] legislation… and it will no longer review such legislation by the standard of the fundamental rights contained in the Constitution’.
+
+***	Sources of FR and the early case law of the Court
+
+ - Case 11/70 Internationale Handelsgesellschaft, [1970] ECR 1125: ‘Inspiration from the common constitutional traditions of the Member States’:
+
+ - Case 4/73 Nold v Commission, [1974] ECR 507: ‘International treaties for the protection of human rights on which the Member States have collaborated or of which they are signatories, can supply guidelines to be followed within the [EU] law framework.’
+
+
+***	Who is bound by human rights as protected under EU law?
+
+a. EU institutions
+
+-	Joined Cases C-402/05 P and C-415/05 P Kadi and Al Barakaat [2008] ECR I-6351 (‘Kadi I’):
+
+281    … the Community is based on the rule of law, inasmuch as neither its Member States nor its institutions can avoid review of the conformity of their acts with the basic constitutional charter, the EC Treaty, which established a complete system of legal remedies and procedures designed to enable the Court of Justice to review the legality of acts of the institutions (Case 294/83 Les Verts v Parliament [1986] ECR 1339, paragraph 23).
+
+282     It is also to be recalled that an international agreement cannot affect the allocation of powers fixed by the Treaties or, consequently, the autonomy of the Community legal system, observance of which is ensured by the Court by virtue of the exclusive jurisdiction conferred on it by Article 220 EC, jurisdiction that the Court has, moreover, already held to form part of the very foundations of the Community (see, to that effect, Opinion 1/91 [1991] ECR I‑6079, paragraphs 35 and 71, and Case C-459/03 Commission v Ireland [2006] ECR I‑4635, paragraph 123 and case-law cited).
+
+283    In addition, according to settled case-law, fundamental rights form an integral part of the general principles of law whose observance the Court ensures. For that purpose, the Court draws inspiration from the constitutional traditions common to the Member States and from the guidelines supplied by international instruments for the protection of human rights on which the Member States have collaborated or to which they are signatories. In that regard, the ECHR has special significance (see, inter alia, Case C‑305/05 Ordre des barreaux francophones et germanophone and Others [2007] ECR I‑5305, paragraph 29 and case-law cited).
+
+284    It is also clear from the case-law that respect for human rights is a condition of the lawfulness of Community acts (Opinion 2/94, paragraph 34) and that measures incompatible with respect for human rights are not acceptable in the Community (Case C‑112/00 Schmidberger [2003] ECR I‑5659, paragraph 73 and case-law cited).
+…………………..
+317    The question of the Court’s jurisdiction arises in the context of the internal and autonomous legal order of the Community, within whose ambit the contested regulation falls and in which the Court has jurisdiction to review the validity of Community measures in the light of fundamental rights.
+…………………….
+326    It follows from the foregoing that the Community judicature must, in accordance with the powers conferred on it by the EC Treaty, ensure the review, in principle the full review, of the lawfulness of all Community acts in the light of the fundamental rights forming an integral part of the general principles of Community law, including review of Community measures which, like the contested regulation, are designed to give effect to the resolutions adopted by the Security Council under Chapter VII of the Charter of the United Nations.
+
+
+- Joined Cases C-584/10 P, C-593/10 P and C-595/10 P Kadi II, judgment of 18 July 2013, not yet reported: 
+
+117    As regards court proceedings, in the event that the person concerned challenges the lawfulness of the decision to list or maintain the listing of his name in Annex I to Regulation No 881/2002, the review by the Courts of the European Union must extend to whether rules as to procedure and rules as to competence, including whether or not the legal basis is adequate, are observed (see, to that effect, the Kadi judgment, paragraphs 121 to 236; see also, by analogy, the judgment of 13 March 2012 in Case C‑376/10 P Tay Za v Council [2012] ECR I‑0000, paragraphs 46 to 72).
+
+118    The Courts of the European Union must, further, determine whether the competent European Union authority has complied with the procedural safeguards set out in paragraphs 111 to 114 of this judgment and the obligation to state reasons laid down in Article 296 TFEU, as mentioned in paragraph 116 of this judgment, and, in particular, whether the reasons relied on are sufficiently detailed and specific.
+
+119    The effectiveness of the judicial review guaranteed by Article 47 of the Charter also requires that, as part of the review of the lawfulness of the grounds which are the basis of the decision to list or to maintain the listing of a given person in Annex I to Regulation No 881/2002 (the Kadi judgment, paragraph 336), the Courts of the European Union are to ensure that that decision, which affects that person individually (see, to that effect, the judgment of 23 April 2013 in Joined Cases C‑478/11 P to C‑482/11 P Gbagbo and Others v Council [2013] ECR I‑0000, paragraph 56), is taken on a sufficiently solid factual basis (see, to that effect, Al-Aqsa v Council and Netherlands v Al-Aqsa, paragraph 68). That entails a verification of the allegations factored in the summary of reasons underpinning that decision (see to that effect, E and F, paragraph 57), with the consequence that judicial review cannot be restricted to an assessment of the abstract cogency in the abstract of the reasons relied on, but must concern whether those reasons, or, at the very least, one of those reasons, deemed sufficient in itself to support that decision, is substantiated.
+
+120    To that end, it is for the Courts of the European Union, in order to carry out that examination, to request the competent European Union authority, when necessary, to produce information or evidence, confidential or not, relevant to such an examination (see, by analogy, ZZ, paragraph 59).
+………………………….
+128   … if it turns out that the reasons relied on by the competent European Union authority do indeed preclude the disclosure to the person concerned of information or evidence produced before the Courts of the European Union, it is necessary to strike an appropriate balance between the requirements attached to the right to effective judicial protection, in particular respect for the principle of an adversarial process, and those flowing from the security of the European Union or its Member States or the conduct of their international relations (see, by analogy, ZZ, paragraph 64).
+
+b.	Member States 
+
+- Case 5/88 Wachauf, [1989] ECR 2609: the Court held that the requirements of the protection of fundamental rights in the EU legal order ‘are also binding on the Member States when they implement EU rules’.
+
+- Case C‑260/89, Elliniki Radiophonia Tileorassi (ERT), [1991] ECR I‑2925: 
+
+where such rules do fall within the scope of Community law, and reference is made to the Court for a preliminary ruling, it must provide all the criteria of interpretation needed by the national court to determine whether those rules are compatible with the fundamental rights the observance of which the Court ensures and which derive in particular from the European Convention on Human Rights.
+
+***	What type of issues do human rights cases raise for EU judges?
+
+- Case 159/90, SPUC v Grogan, [1991] ECR I‑4685
+
+-	Open door and Dublin Well Woman v Ireland, judgment of ECtHR of 23 September 1992:
+
+63. The Court cannot accept that the restrictions at issue pursued the aim of the prevention of crime since, as noted above (paragraph 59), neither the provision of the information in question nor the obtaining of an abortion outside the jurisdiction involved any criminal offence. However, it is evident that the protection afforded under Irish law to the right to life of the unborn is based on profound moral values concerning the nature of life which were reflected in the stance of the majority of the Irish people against abortion as expressed in the 1983 referendum (see paragraph 28 above). The restriction thus pursued the legitimate aim of the protection of morals of which the protection in Ireland of the right to life of the unborn is one aspect. It is not necessary in the light of this conclusion to decide whether the term "others" under Article 10 para. 2 (art. 10-2) extends to the unborn.
+
+68. The Court cannot agree that the State’s discretion in the field of the protection of morals is unfettered and unreviewable (see, mutatis mutandis, for a similar argument, the Norris v. Ireland judgment of 26 October 1988, Series A no. 142, p. 20, para. 45).
+
+It acknowledges that the national authorities enjoy a wide margin of appreciation in matters of morals, particularly in an area such as the present which touches on matters of belief concerning the nature of human life. As the Court has observed before, it is not possible to find in the legal and social orders of the Contracting States a uniform European conception of morals, and the State authorities are, in principle, in a better position than the international judge to give an opinion on the exact content of the requirements of morals as well as on the "necessity" of a "restriction" or "penalty" intended to meet them (see, inter alia, the Handyside v. the United Kingdom judgment of 7 December 1976, Series A no. 24, p. 22, para. 48, and the Müller and Others v. Switzerland judgment of 24 May 1988, Series A no. 133, p. 22, para. 35).
+
+However this power of appreciation is not unlimited. It is for the Court, in this field also, to supervise whether a restriction is compatible with the Convention.
+
+73. The Court is first struck by the absolute nature of the Supreme Court injunction which imposed a "perpetual" restraint on the provision of information to pregnant women concerning abortion facilities abroad, regardless of age or state of health or their reasons for seeking counselling on the termination of pregnancy. The sweeping nature of this restriction has since been highlighted by the case of The Attorney General v. X and Others and by the concession made by the Government at the oral hearing that the injunction no longer applied to women who, in the circumstances as defined in the Supreme Court’s judgment in that case, were now free to have an abortion in Ireland or abroad (see paragraph 25 above).
+
+74. On that ground alone the restriction appears over broad and disproportionate. Moreover, this assessment is confirmed by other factors.
+
+75. In the first place, it is to be noted that the corporate applicants were engaged in the counselling of pregnant women in the course of which counsellors neither advocated nor encouraged abortion, but confined themselves to an explanation of the available options (see paragraphs 13 and 14 above). The decision as to whether or not to act on the information so provided was that of the woman concerned. There can be little doubt that following such counselling there were women who decided against a termination of pregnancy. Accordingly, the link between the provision of information and the destruction of unborn life is not as definite as contended. Such counselling had in fact been tolerated by the State authorities even after the passing of the Eighth Amendment in 1983 until the Supreme Court’s judgment in the present case. Furthermore, the information that was provided by the relevant applicants concerning abortion facilities abroad was not made available to the public at large.
+
+76. It has not been seriously contested by the Government that information concerning abortion facilities abroad can be obtained from other sources in Ireland such as magazines and telephone directories (see paragraphs 23 and 27 above) or by persons with contacts in Great Britain. Accordingly, information that the injunction sought to restrict was already available elsewhere although in a manner which was not supervised by qualified personnel and thus less protective of women’s health. Furthermore, the injunction appears to have been largely ineffective in protecting the right to life of the unborn since it did not prevent large numbers of Irish women from continuing to obtain abortions in Great Britain (see paragraph 26 above).
+
+77. In addition, the available evidence, which has not been disputed by the Government, suggests that the injunction has created a risk to the health of those women who are now seeking abortions at a later stage in their pregnancy, due to lack of proper counselling, and who are not availing themselves of customary medical supervision after the abortion has taken place (see paragraph 26 above). Moreover, the injunction may have had more adverse effects on women who were not sufficiently resourceful or had not the necessary level of education to have access to alternative sources of information (see paragraph 76 above). These are certainly legitimate factors to take into consideration in assessing the proportionality of the restriction.
+
+***	The EU Charter on Fundamental Rights 2000
+
+The Charter was agreed and adopted in December 2000. 
+
+The Charter is made up of 54 articles and is an amalgam of existing provisions in the EC Treaty and the ECHR, of principles developed through the case law of the Court of Justice, and some novel rights. There are seven chapters including Dignity, Freedoms, Equality, Solidarity, Citizens’ Rights, Justice and Final Provisions
+
+- Case C-173/99 BECTU [2001] ECR I-4881, Opinion of AG Tizzano, paras 26-28.
+
+- Case C-377/98 Netherlands v Parliament and Council [2001] ECR I-7079, Opinion of AG Jacobs, paras 210-215; and compare the judgment of the Court, paras 78-80
+
+- Case C-540/03 European Parliament v Council [2006] ECR I-5769
+
+38. The Charter was solemnly proclaimed by the Parliament, the Council and the Commission in Nice on 7 December 2000. While the Charter is not a legally binding instrument, the Community legislature did, however, acknowledge its importance by stating, in the second recital in the preamble to the Directive, that the Directive observes the principles recognized not only by Article 8 of the ECHR but also in the Charter. Furthermore, the principal aim of the Charter, as is apparent from its preamble, is to reaffirm ‘rights as they result, in particular, from the constitutional traditions and international obligations common to the Member States…
+
+***	The Lisbon Treaty
+
+Article 2 TEU
+
+‘The Union is founded on the values of respect for human dignity, freedom, democracy, equality, the rule of law and respect for human rights, including the rights of persons belonging to minorities. These values are common to the Member States in a society in which pluralism, non-discrimination, tolerance, justice, solidarity and equality between women and men prevail.’
+
+*Article 6 TEU
+
+‘1. The Union recognises the rights, freedoms and principles set out in the Charter of Fundamental Rights of the European Union of 7 December 2000, as adapted at Strasbourg, on 12 December 2007, which shall have the same legal value as the Treaties.
+
+The provisions of the Charter shall not extend in any way the competences of the Union as defined in the Treaties. The rights, freedoms and principles in the Charter shall be interpreted in accordance with the general provisions in Title VII of the Charter governing its interpretation and application and with due regard to the explanations referred to in the Charter, that set out the sources of those provisions.
+
+2. The Union shall accede to the European Convention for the Protection of Human Rights and Fundamental Freedoms. Such accession shall not affect the Union's competences as defined in the Treaties.
+
+3. Fundamental rights, as guaranteed by the European Convention for the Protection of Human Rights and Fundamental Freedoms and as they result from the constitutional traditions common to the Member States, shall constitute general principles of the Union's law.’
+
+Article 7 TEU 
+
+1.	On a reasoned proposal by one third of the Member States, by the European Parliament or by the European Commission, the Council, acting by a majority of four fifths of its members after obtaining the consent of the European Parliament, mauy determine that there is a clear risk of a serious breach by a Member State of the values referred to in Article 2. Before making such a determination, the Council shall hear the Member State in question and may address recommendation to it, acting in accordance with the same procedure. 
+
+The Council shall regularly verify that the grounds on which such a determination was made continue to apply.
+
+2.	The European Council, acting by unanimity on a proposal by one third of the Member States or by the Commission and after obtaining the consent of the European Parliament, may determine the existence of a serious and persistent breach by a Member State of the values referred to in Article 2, after inviting the Member State in question to submit its observations.
+
+3.	Where a determination under paragraph 2 has been made, the Council, acting by a qualified majority, may decide to suspend certain of the rights deriving from the application of the Treaties to the Member State in question, including the voting rights of the representative of the government of that Member State in the Council. In doing so, the Council shall take into account the possible consequences of such a suspension on the rights and obligations of national and legal persons. 
+
+The obligations of the Member State in question under this Treaty shall in any case continue to be binding on that State.
+
+4.	The Council, acting by a qualified majority, may decide subsequently to vary or revoke measures taken under paragraph 3 in response to changes in the situation which led to their being imposed.
+ 
+5.	The voting arrangements applying to the European Parliament, the European Council and the Council for the purposes of this Article are laid down in Article 354 of the Treaty on the Functioning of the European Union.
+
+***	Scope of the Charter
+Article 51
+Scope
+
+1. The provisions of this Charter are addressed to the institutions and bodies of the Union with due regard for the principle of subsidiarity and to the Member States only when they are implementing Union law. They shall therefore respect the rights, observe the principles and promote the application thereof in accordance with their respective powers.
+
+2. This Charter does not establish any new power or task for the Community or the Union, or
+modify powers and tasks defined by the Treaties.
+
+Case C-617/70 Åkerberg Fransson ECLI:EU:C:2013:105:
+
+19      The Court’s settled case-law indeed states, in essence, that the fundamental rights guaranteed in the legal order of the European Union are applicable in all situations governed by European Union law, but not outside such situations. In this respect the Court has already observed that it has no power to examine the compatibility with the Charter of national legislation lying outside the scope of European Union law. On the other hand, if such legislation falls within the scope of European Union law, the Court, when requested to give a preliminary ruling, must provide all the guidance as to interpretation needed in order for the national court to determine whether that legislation is compatible with the fundamental rights the observance of which the Court ensures (see inter alia, to this effect, Case C‑260/89 ERT [1991] I‑2925, paragraph 42; Case C‑299/95 Kremzow [1997] ECR I‑2629, paragraph 15; Case C‑309/96 Annibaldi [2007] ECR I‑7493, paragraph 13; Case C‑94/00 Roquette Frères [2002] ECR I‑9011, paragraph 25; Case C‑349/07 Sopropé [2008] ECR I‑10369, paragraph 34; Case C‑256/11 Dereci and Others [2011] ECR I‑11315, paragraph 72; and Case C‑27/11 Vinkov [2012] ECR, paragraph 58).
+
+20      That definition of the field of application of the fundamental rights of the European Union is borne out by the explanations relating to Article 51 of the Charter, which, in accordance with the third subparagraph of Article 6(1) TEU and Article 52(7) of the Charter, have to be taken into consideration for the purpose of interpreting it (see, to this effect, Case C‑279/09 DEB [2010] ECR I‑13849, paragraph 32). According to those explanations, ‘the requirement to respect fundamental rights defined in the context of the Union is only binding on the Member States when they act in the scope of Union law’.
+
+21      Since the fundamental rights guaranteed by the Charter must therefore be complied with where national legislation falls within the scope of European Union law, situations cannot exist which are covered in that way by European Union law without those fundamental rights being applicable. The applicability of European Union law entails applicability of the fundamental rights guaranteed by the Charter.
+
+22      Where, on the other hand, a legal situation does not come within the scope of European Union law, the Court does not have jurisdiction to rule on it and any provisions of the Charter relied upon cannot, of themselves, form the basis for such jurisdiction (see, to this effect, the order in Case C‑466/11 Currà and Others [2012] ECR, paragraph 26).
+
+Case C-206/13 Siragusa ECLI:EU:C:2014:126:
+
+30      In that regard, there is nothing to suggest that the provisions of Legislative Decree No 42/04 which are relevant to the case before the referring court fall within the scope of EU law. Those provisions do not implement rules of EU law, a fact which distinguishes the case in which the present request for a preliminary ruling has been made from the case which gave rise to the judgment in Case C‑416/10 Križan and Others [2013] ECR, cited by the referring court.
+
+31      It is also important to consider the objective of protecting fundamental rights in EU law, which is to ensure that those rights are not infringed in areas of EU activity, whether through action at EU level or through the implementation of EU law by the Member States.
+
+32      The reason for pursuing that objective is the need to avoid a situation in which the level of protection of fundamental rights varies according to the national law involved in such a way as to undermine the unity, primacy and effectiveness of EU law (see, to that effect, Case 11/70 Internationale Handelsgesellschaft [1970] ECR 1125, paragraph 3, and Case C‑399/11 Melloni [2013] ECR, paragraph 60). However, there is nothing in the order for reference to suggest that any such risk is involved in the case before the referring court.
+
+***	Level of protection under the Charter
+
+Article 52 of the Charter
+
+‘Scope of guaranteed rights
+
+1. Any limitation on the exercise of the rights and freedoms recognised by this Charter must be provided for by law and respect the essence of those rights and freedoms. Subject to the principle of proportionality, limitations may be made only if they are necessary and genuinely meet objectives of general interest recognised by the Union or the need to protect the rights and freedoms of others.
+
+2. Rights recognised by this Charter which are based on the Community Treaties or the Treaty on European Union shall be exercised under the conditions and within the limits defined by those Treaties.
+
+3. In so far as this Charter contains rights which correspond to rights guaranteed by the Convention for the Protection of Human Rights and Fundamental Freedoms, the meaning and scope of those rights shall be the same as those laid down by the said Convention. This provision shall not prevent Union law providing more extensive protection.’
+
+Article 53 of the Charter
+
+‘Level of protection
+
+Nothing in this Charter shall be interpreted as restricting or adversely affecting human rights and fundamental freedoms as recognised, in their respective fields of application, by Union law and international law and by international agreements to which the Union, the Community or all the Member States are party, including the European Convention for the Protection of Human Rights and Fundamental Freedoms, and by the Member States' constitutions.’
+
+
+***	The Charter and its application to the United Kingdom 
+
+Protocol on the application of the Charter of Fundamental Rights of the European Union to Poland and to the United Kingdom 
+
+-	THE HIGH CONTRACTING PARTIES,
+WHEREAS in Article 6 of the Treaty on European Union, the Union recognises the rights, freedoms and principles set out in the Charter of Fundamental Rights of the European Union;
+
+WHEREAS the Charter is to be applied in strict accordance with the provisions of the aforementioned Article 6 and Title VII of the Charter itself;
+
+WHEREAS the aforementioned Article 6 requires the Charter to be applied and interpreted by the courts of Poland and of the United Kingdom strictly in accordance with the explanations referred to in that Article;
+
+WHEREAS the Charter contains both rights and principles;
+
+WHEREAS the Charter contains both provisions which are civil and political in character and those which are economic and social in character;
+
+WHEREAS the Charter reaffirms the rights, freedoms and principles recognised in the Union and makes those rights more visible, but does not create new rights or principles;
+RECALLING the obligations devolving upon Poland and the United Kingdom under the Treaty on European Union, the Treaty on the Functioning of the European Union, and Union law generally;
+
+NOTING the wish of Poland and the United Kingdom to clarify certain aspects of the application of the Charter;
+
+DESIROUS therefore of clarifying the application of the Charter in relation to the laws and administrative action of Poland and of the United Kingdom and of its justiciability within Poland and within the United Kingdom;
+
+REAFFIRMING that references in this Protocol to the operation of specific provisions of the Charter are strictly without prejudice to the operation of other provisions of the Charter;
+
+REAFFIRMING that this Protocol is without prejudice to the application of the Charter to other Member States;
+
+REAFFIRMING that this Protocol is without prejudice to other obligations devolving upon Poland and the United Kingdom under the Treaty on European Union, the Treaty on the Functioning of the European Union, and Union law generally,
+
+HAVE AGREED UPON the following provisions, which shall be annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union:
+
+Article 1
+1. The Charter does not extend the ability of the Court of Justice of the European Union, or any court or tribunal of Poland or of the United Kingdom, to find that the laws, regulations or administrative provisions, practices or action of Poland or of the United Kingdom are inconsistent with the fundamental rights, freedoms and principles that it reaffirms.
+
+2. In particular, and for the avoidance of doubt, nothing in Title IV of the Charter creates justiciable rights applicable to Poland or the United Kingdom except in so far as Poland or the United Kingdom has provided for such rights in its national law.
+
+Article 2
+To the extent that a provision of the Charter refers to national laws and practices, it shall only apply to Poland or the United Kingdom to the extent that the rights or principles that it contains are recognised in the law or practices of Poland or of the United Kingdom.
+
+***	The relationship between the EU and the ECHR
+
+ - Bosphorus v Ireland [2006] 42 EHRR 1:
+
+‘State action taken in compliance with [obligations entered into as a result of a transfer of powers to an international organisation such as the EU] is justified as long as the relevant organisation is considered to protect fundamental rights, as regards both the substantive guarantees offered and the mechanisms controlling their observance, in a manner which can be considered at least equivalent to that for which the Convention provides’.
+
+- Opinion 2/94, Accession by the Community to the European Convention for the protection of Human Rights and Fundamental Freedoms, [1996] ECR I-1759 
+
+29. [Article 308 EC] is designed to fill the gap where no specific provisions of the Treaty confer on the Community institutions express or implied powers to act, if such powers appear none the less to be necessary to enable the Community to carry out its functions with a view to attaining one of its objectives laid down by the Treaty.
+
+30.  That provision, being an integral part of an institutional system based on the principle of conferred powers, cannot serve as a basis for widening the scope of Community powers beyond the general framework created by the provisions of the Treaty as a whole and, in particular, by those that define the tasks and the activities of the Community. On any view, Article [308] cannot be used as a basis for the adoption of provisions whose effect would, in substance, be to amend the Treaty without following the procedure which it provides for that purpose.
+
+***	The impact of the Treaty of Lisbon
+
+Article 6(2) TEU:
+
+The Union shall accede to the European Convention for the Protection of Human Rights and Fundamental Freedoms. Such accession shall not affect the Union’s competences as defined in the Treaties. 
+
+- The Draft EU-ECHR Agreement 
+
+http://www.coe.int/t/dghl/standardsetting/hrpolicy/accession/Meeting_reports/47_1%282013%29008_final_report_EN.pdf
+
+***	The 2014 Opinion of the Court of Justice on ECHR accession
+
+Opinion 2/13 ECLI:EU:C:2014:2454:
+
+164. For the purposes of that review, it must be noted that, as is apparent from paragraphs 160 to 162 above, the conditions to which accession is subject under the Treaties are intended, particularly, to ensure that accession does not affect the specific characteristics of the EU and EU law.
+
+165. It should be borne in mind that these characteristics include those relating to the constitutional structure of the EU, which is seen in the principle of conferral of powers referred to in Articles 4(1) TEU and 5(1) and (2) TEU, and in the institutional framework established in Articles 13 TEU to 19 TEU.
+
+166. To these must be added the specific characteristics arising from the very nature of EU law. In particular, as the Court of Justice has noted many times, EU law is characterised by the fact that it stems from an independent source of law, the Treaties, by its primacy over the laws of the Member States (see, to that effect, judgments in Costa, EU:C:1964:66, p. 594, and Internationale Handelsgesellschaft, EU:C:1970:114, paragraph 3; Opinions 1/91, EU:C:1991:490, paragraph 21, and 1/09, EU:C:2011:123, paragraph 65; and judgment in Melloni, C‑399/11, EU:C:2013:107, paragraph 59), and by the direct effect of a whole series of provisions which are applicable to their nationals and to the Member States themselves (judgment in van Gend & Loos, EU:C:1963:1, p. 12, and Opinion 1/09, EU:C:2011:123, paragraph 65).
+
+167. These essential characteristics of EU law have given rise to a structured network of principles, rules and mutually interdependent legal relations linking the EU and its Member States, and its Member States with each other, which are now engaged, as is recalled in the second paragraph of Article 1 TEU, in a ‘process of creating an ever closer union among the peoples of Europe’.
+
+168. This legal structure is based on the fundamental premiss that each Member State shares with all the other Member States, and recognises that they share with it, a set of common values on which the EU is founded, as stated in Article 2 TEU. That premiss implies and justifies the existence of mutual trust between the Member States that those values will be recognised and, therefore, that the law of the EU that implements them will be respected.
+
+169. Also at the heart of that legal structure are the fundamental rights recognised by the Charter (which, under Article 6(1) TEU, has the same legal value as the Treaties), respect for those rights being a condition of the lawfulness of EU acts, so that measures incompatible with those rights are not acceptable in the EU (see judgments in ERT, C‑260/89, EU:C:1991:254, paragraph 41; Kremzow, C‑299/95, EU:C:1997:254, paragraph 14; Schmidberger, C‑112/00, EU:C:2003:333, paragraph 73; and Kadi and Al Barakaat International Foundation v Council and Commission, EU:C:2008:461, paragraphs 283 and 284).
+
+170. The autonomy enjoyed by EU law in relation to the laws of the Member States and in relation to international law requires that the interpretation of those fundamental rights be ensured within the framework of the structure and objectives of the EU (see, to that effect, judgments in Internationale Handelsgesellschaft, EU:C:1970:114, paragraph 4, and Kadi and Al Barakaat International Foundation v Council and Commission, EU:C:2008:461, paragraphs 281 to 285).
+
+171. As regards the structure of the EU, it must be emphasised that not only are the institutions, bodies, offices and agencies of the EU required to respect the Charter but so too are the Member States when they are implementing EU law (see, to that effect, judgment in Åkerberg Fransson, C‑617/10, EU:C:2013:105, paragraphs 17 to 21).
+
+172. The pursuit of the EU’s objectives, as set out in Article 3 TEU, is entrusted to a series of fundamental provisions, such as those providing for the free movement of goods, services, capital and persons, citizenship of the Union, the area of freedom, security and justice, and competition policy. Those provisions, which are part of the framework of a system that is specific to the EU, are structured in such a way as to contribute — each within its specific field and with its own particular characteristics — to the implementation of the process of integration that is the raison d’être of the EU itself.
+
+173. Similarly, the Member States are obliged, by reason, inter alia, of the principle of sincere cooperation set out in the first subparagraph of Article 4(3) TEU, to ensure, in their respective territories, the application of and respect for EU law. In addition, pursuant to the second subparagraph of Article 4(3) TEU, the Member States are to take any appropriate measure, general or particular, to ensure fulfilment of the obligations arising out of the Treaties or resulting from the acts of the institutions of the EU (Opinion 1/09, EU:C:2011:123, paragraph 68 and the case-law cited).
+
+174. In order to ensure that the specific characteristics and the autonomy of that legal order are preserved, the Treaties have established a judicial system intended to ensure consistency and uniformity in the interpretation of EU law.
+
+175. In that context, it is for the national courts and tribunals and for the Court of Justice to ensure the full application of EU law in all Member States and to ensure judicial protection of an individual’s rights under that law (Opinion 1/09, EU:C:2011:123, paragraph 68 and the case-law cited).
+
+176. In particular, the judicial system as thus conceived has as its keystone the preliminary ruling procedure provided for in Article 267 TFEU, which, by setting up a dialogue between one court and another, specifically between the Court of Justice and the courts and tribunals of the Member States, has the object of securing uniform interpretation of EU law (see, to that effect, judgment in van Gend & Loos, EU:C:1963:1, p. 12), thereby serving to ensure its consistency, its full effect and its autonomy as well as, ultimately, the particular nature of the law established by the Treaties (see, to that effect, Opinion 1/09, EU:C:2011:123, paragraphs 67 and 83).
+
+177. Fundamental rights, as recognised in particular by the Charter, must therefore be interpreted and applied within the EU in accordance with the constitutional framework referred to in paragraphs 155 to 176 above.
+
+Further reading:
+

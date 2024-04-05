@@ -1,0 +1,323 @@
+META filename herling-12-control-of-exemption-clauses-ucta-1997-cra-2015.fc.txt
+
+
+
+
+
+
+
+NAME Control of Exemption Clauses Ucta 1997, Cra 2015 - Introduction
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+SUMMARY ~*Introduction*~
+/->-The first part of this lecture occupies an intermediate position between the issue of incorporation, and legislative control over the validity of exemption clauses. On the assumption that a clause has been validly incorporated into a contract, and before any question of whether the clause can stand against relevant legislation (principally the Unfair Contract Terms Act 1977 and the Consumer Rights Act 2015), it is necessary to ask whether it covers the breach of contract which has in fact occurred. 
+/->-The second part of this lecture sets out and to some extent examines the impact of legislation on exemption clauses.
+/->-The first topic, however, is part of the interpretation of contracts. Special rules governing the construction of exemption clauses may be said to be part of the “old intellectual baggage of “legal” interpretation” which has been almost completely discarded, according to Lord *Hoffmann*'s restatement of the principles of interpretation in <i>Investors Compensation Scheme Ltd v West Bromwich Building Society</i> [1988] 1 WLR 896. However, as pointed out in the lecture on that topic, Lord *Hoffmann* may have overstated the case. There is a great deal of learning on the construction of exemption clauses. Much of it (perhaps not all) makes sense. As Lord Wilberforce used to say, one should not so readily discard reasoned authorities. Some of the main approaches taken in those authorities are set out here for information, and to promote an awareness of the way in which the law has developed within this field.
+/->-To pave the way for that examination, it seems appropriate to begin by contrasting and explaining two views which could plausibly be taken of exemption clauses. The first is memorably expressed by Professor *McKendrick* at the beginning of his chapter on the topic. They could be regarded as a social nuisance. They may be imposed upon a contracting party who lacks any real opportunity to take issue with them, or the commercial clout to insist that they should be modified. Exemption clauses may then be used to stultify the law in so far as they may be set up against the remedy which the law would otherwise give for an admitted and perhaps grave breach of contract. It is not surprising, where this is the context, that the courts have tended to construe them narrowly.
+/->-On the other hand, exemption clauses in the business to business context may perform a useful function. Absent any presumption that one experienced and well-advised party is likely to be oppressing another of comparable bargaining power and resilience, exemption clauses may be seen as one means of fine-tuning a contract. They indicate where risk is to lie, so saving the need to go to law. They provide protections to parties which may enable them to take on roles which otherwise would be too risky. They may well be used together with an insurance back-up for the party who is to take the burden of them. At their best, they can be a means of facilitating a transaction which it would otherwise be impractical to undertake. 
+/->-The basic principle running right through the common law's attitude to exemption clauses is that within certain limits (unfortunately not well defined) they will be effective if sufficiently clearly drafted. 
+FLAGS Hoffman; McKendrick
+
+
+
+
+NAME The construction of exemption clauses
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+SUMMARY ~*The construction of exemption clauses*~
+/->-The <i>contra proferentem</i> principle has already been mentioned as an exemplary item within the old intellectual rules on interpretation of contracts. Strictly, <i>contra proferentem</i> construction comes into its own where there is an ambiguity in an exemption clause, and therefore a choice of ways for the court to go. The ambiguity will be resolved against the party who is seeking to rely on the exemption.
+/->-More basically than this, however, the courts' manner of reading exemption clauses is narrow, even where it may be difficult to articulate an ambiguity which provides the courts with a choice. This is almost certainly still the case, notwithstanding Lord *Hoffmann*'s remarks in <i>West Bromwich</i>. It is hard to argue that narrow reading is not an appropriate way to construe exemption clauses. After all, they have traditionally been seen as excuses which become relevant only when one party has breached its primary obligations. 
+FLAGS Hoffman
+
+
+
+
+NAME Wallis, Son & Wells v Pratt & Haynes
+CITATION Wallis, Son & Wells v Pratt & Haynes [1911] AC 394
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015); Construction of Exemption Clauses; Narrow Reading of Exemption Clauses
+SUMMARY ~*Overview*~
+/->-The defendants sold seed to the plaintiffs, who sold it on to a sub-buyer. It was supplied as “common English sainfoin”, but when it germinated it was found to be giant sainfoin, an inferior strain. The plaintiffs settled actions brought against them by the sub-buyer, and sued the defendants. The defendants relied on a clause in the contract which read “Sellers give no warranty, express or implied, as to growth, description, or any other matters...”.
+/->-The House of Lords upheld the plaintiffs' claim for damages, approving the dissenting judgment of Fletcher Moulton LJ in the Court of Appeal. He had based himself on the distinction between warranties and conditions, observing that the failure of the seed to correspond with its contractual description was a breach of condition. The clause in the contract referred only to warranties. Since it was admitted that a condition had been breached, the clause had no application.
+SUMMARY ~*Discussion*~
+/->-As a matter of language, it obviously cannot be said that this reading of the contract is unsustainable – quite the contrary. The difficulty arises when one stands back and considers the broader picture or the matrix of fact. Is it plausible to suppose that the sellers felt it necessary to exclude all warranties, but were content to leave all conditions standing? Or is the reality that they slipped up in their drafting, and the court allowed the plaintiff to take advantage of the slip? Perhaps the answer is that one cannot really decide the matter in the absence of plentiful evidence, and that to purport to do so on a narrow linguistic basis actually does violence not so much to language, as to the public interest in true adjudication. 
+/->-The rejoinder to this would be along the lines already mapped in lecture 10; provided people in business are aware that courts apply a particular technique to the construction of exemption clauses no harm is done. They must simply take care that their documents say what they mean them to say. In the case of consumer contracts, the Consumer Rights Act 2015 now imposes on traders a tersely-worded obligation to do exactly that (s.68). By s.69, the contra proferentem rule seems to obtain statutory backing.
+
+
+
+
+NAME Exclusion and limitation clauses
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+SUMMARY ~*Exclusion and limitation clauses*~
+/->-If exemption clauses deserve narrow reading for reasons of policy, it is proper nevertheless that the narrowness of that reading should vary according the effect of the clause which is being construed. Here, a broad distinction is traditionally drawn between clauses which exclude liability altogether, and those which limit it to an agreed maximum amount payable by way of compensation. It is said that while the narrow approach applies to either type of clause, it applies with greater rigour against exclusions; see the House of Lords' case <i>Ailsa Craig Fishing Co Ltd v Malvern Fishing Co Ltd and Securicor (Scotland) Ltd</i> [1983] 1 WLR 964. This position has also been criticised on the ground that some limitation clauses may be more onerous than certain exclusion clauses. On the other hand, that will not generally be the case. It would not be difficult to take the debate further, but here is not the place.
+/->-If an exemption clause is repugnant to the contract itself, it may well be deprived of effect by the courts. However, the basis for intervening has long been a problem with significant conceptual ramifications. 
+
+
+
+
+NAME Andrews Bros (Bournemouth) Ltd v Singer & Co Ltd
+CITATION Andrews Bros (Bournemouth) Ltd v Singer & Co Ltd [1934] 1 KB 17
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015); Construction of Exemption Clauses; Narrow Reading of Exemption Clauses
+SUMMARY ~*Overview*~
+/->-The defendants appointed the plaintiffs as dealers to buy from them and sell on “new Singer cars”. The contract included a clause which read: “All cars sold by the company are subject to the terms of the warranty set out in Schedule No. 3 of this agreement and all conditions, warranties and liabilities implied by common law, statute or otherwise are excluded”. One of the cars supplied was not new, in the sense that it had already been driven some 550 miles to be shown to a potential customer. The question was whether the clause given above was effective to prevent liability arising.
+/->-The Court of Appeal held that it was not. The contract was expressly for the sale of new cars. The clause only ousted implied terms, not express ones.
+SUMMARY ~*A closer look*~
+/->-_Counsel for the defendants argued that the description of the cars as “new” was an implied term, because section 13 of the Sale of Goods Act 1893 stated that “where there is a contract for the sale of goods by description, there is an implied condition that the goods shall correspond with the description...”. In the opinion of Scrutton LJ, this submission put a very strained meaning on the word “implied” in the section. Where goods were expressly described in the contract and did not comply with the description, it was quite inaccurate to say that there was an implied term._
+/->-_Who is right? One of several difficulties with the defendant's submission is that it can be extended to prove too much. Where there is a contract for the sale of goods by description, an exemption clause which purports to make it not a sale by description attacks the contract itself. The practitioner text Benjamin on Sale says the following about this situation: “Once the court has decided that the sale was a sale by description of “new Singer cars” then nothing else could satisfy the contract and by no artifice could the seller avoid the obligation to provide new Singer cars. Startling results would follow otherwise, for, if the seller can ignore one of the three descriptive words, he can ignore the others; the article need not be a Singer car, or even a car. The seller might supply a second-hand pedal bicycle or a child's perambulator! In a sale by description one is selling a described thing or things and that is fundamental and one need not really consider conditions or warranties express or implied as ordinarily understood”. _
+/->-_The idea being put forward in the passage from <i>Benjamin on Sale</i> quoted above is a well-known one of long standing. It is often stated in terms derived from an early nineteenth century case, <i>Chanter v Hopkins</i> (1838) 4 M & W 399, in which Lord Abinger said “If a man offers to buy peas of another, and he sends him beans, he does not perform his contract”. The next case is generally taken to be a “peas and beans” decision._
+
+
+
+
+NAME Karsales (Harrow) Ltd v Wallis
+CITATION Karsales (Harrow) Ltd v Wallis [1956] 1 WLR 936
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015); Construction of Exemption Clauses; Liability For Fundamental Breaches of Contract
+SUMMARY ~*Overview*~
+/->-This case began as an action brought to recover arrears owing on the acquisition of a car by hire purchase. The car had remained in the possession of its original owner, a man named Stinton. Wallis, the intending purchaser and defendant, had been unable to buy it outright from Stinton because he lacked the money, so Stinton had sold the vehicle to Karsales, which sold it to a finance company which let it on hire purchase to Wallis. The hire purchase agreement was later taken over by Karsales. The car was subsequently towed to Wallis's premises at night and left. The cylinder head was missing, the engine valves had been burnt out, two pistons were broken, the tyres damaged and the radio had been removed. In bringing their claim for arrears, Karsales placed reliance on Clause 3(g) of the agreement which stated “No condition or warranty that the vehicle is roadworthy, or as to its age, condition or fitness for any purpose is given by the owner or implied herein”. 
+/->-In the judgment of the Court of Appeal the exemption clause could not apply. The agreement related to a car. The vehicle in question could no longer be regarded as a car, because it was so grossly damaged as to be incapable of self-propulsion.
+SUMMARY ~*Discussion*~
+/->-One of the problems with the “peas and beans” approach is that it would seem to lead to impossible exercises in line-drawing. When is a car so badly damaged as no longer to be a car? At one extreme of the spectrum it would no doubt be specious to try to maintain that a compressed block of metal was still the car that it had once been. But that simply attracts attention to the rest of the spectrum in which suitable divisions do not readily appear. One way in which the problem can be re-phrased, if not exactly solved, is to associate the peas/beans extreme with cases of non-performance of the contract rather than its defective performance. It might be posited that an exemption clause may stand in a case of defective performance, but cannot excuse non-performance. In a sense this must be true. Imagine an exemption which consists in denying all liability on the contract. That would render performance a matter of the one party's discretion, as distinct from legal obligation, and the entire contractual edifice would fall (its collapse could be put in terms of a failure of offer and acceptance, or of consideration, or of intention to create legal relations, or all three). Logically, then, an exemption clause must stop short of total efficacy. Non-performance is one way of defining the class of breach which cannot be covered by exempting words. It is a rough and ready way of doing it, not a perfect one.
+/->-Great care is needed at this point, because another conceptual problem now arises. The idea that a certain type of breach is too fundamental to be covered by an exemption clause will be found in <i>Karsales v Wallis</i> and some other cases, but it shades into an analysis which the House of Lords has overruled.
+
+
+
+
+NAME The doctrine of fundamental breach
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+SUMMARY ~*The doctrine of fundamental breach*~
+/->-In <i>Harbutt's Plasticine Ltd v Wayne Tank & Pump Co Ltd</i> [1970] 1 QB 447, Lord *Denning* proposed that where a fundamental term of a contract (ie. a condition) had been breached, and the wronged party had elected to terminate the contract, then with the termination of contract any exemption clause contained within it ceased to operate. This was an attractive notion in one respect (if only the one). Rather than requiring the court to deduce the invalidation of an exemption clause from the character of the breach, it made its invalidation consequent upon one party's uncontroversial entitlement to bring the contract to an end for breach of condition. Unfortunately it is simply wrong to assert that the termination of the contract deprives it of further effect. It remains as the instrument which created and maintains the wronged party's right to recover damages, and its exemption clauses stand by the same token.
+/->-Lord Denning was also of the view that an exemption clause would automatically cease to operate if the contract was breached in such a way which was fundamental, in the sense that the breach went to the root of the contract. Here, he was building on a rule of construction, namely that in these circumstances it will not normally be taken to be the parties' intention that the contract should exclude such liability. However, the doctrine associated with Lord Denning made this rule substantive or absolute, to the effect that exemption clauses in his view and that of other members of the Court of Appeal were quite simply ineffective in cases of fundamental breach.
+FLAGS Denning
+
+
+
+
+NAME Photo Production Ltd v Securicor Transport
+CITATION Photo Production Ltd v Securicor Transport [1980] AC 827
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015); Construction of Exemption Clauses; Liability For Fundamental Breaches of Contract
+SUMMARY ~*Overview*~
+/->-By a contract made in 1968, Securicor agreed to provide its Night Patrol Service to Photo Productions. A number of visits were to be made each night, seven nights of the week. The weekly charge was low: £8 15s. One of the clauses in the contract stated that “under no circumstances shall [Securicor] be responsible for any injurious act or default by any employee of [Securicor] unless such act or default could have been foreseen and avoided by the exercise of due diligence on the part of [Securicor] as his employer...”. One of Securicor's duty employees, in the course of a visit to the premises, decided to light a fire by throwing a match onto some cartons. The fire got out of control, and burnt down a substantial part of Photo Productions' premises, causing damage amounting to £615,000. Photo Productions sued for damages. Securicor relied on its clause.
+/->-The Court of Appeal, applying the doctrine of fundamental breach, held that the employee's behaviour had brought the contract to an end, or that the clause could not be construed to apply to the breach which had occurred. The House of Lords, reversing the Court of Appeal in this case and overruling <i>Harbutt's Plasticine</i>, held that the doctrine of fundamental breach amounted to a rule of construction only. Here the clause was effective to shield Securicor from liability. Securicor's very modest charge for its service, and its lack of knowledge of Photo Productions' premises and fire precautions, led to the inference that the contract left the risk of damage on Photo Productions.
+SUMMARY ~*Discussion*~
+/->-The bedrock of Lord Wilberforce's speech in the House of Lords is his perception that the Court of Appeal, both in this case and in its earlier decision in <i>Harbutt's Plasticine</i>, had entirely misunderstood the House's decision in <i>Suisse Atlantique Societe d'Armement Maritime SA v NV Rotterdamsche Kolen Centrale</i> [1967] 1 AC 361. The speeches in the <i>Suisse Atlantique</i> case had admittedly been less than clear. However, on a fair reading, they put paid to any suggestion that the law included a substantive doctrine of fundamental breach invalidating exemption clauses upon a contract's termination. The Court of Appeal, in holding otherwise, had based itself on mere dicta in their Lordships' speeches. While it was true to say (as a presumption to be applied when interpreting a contract) that the parties would not readily be taken to have intended a fundamental breach to be covered by an exemption clause, the ultimate question was simply whether the clause did or did not apply on the true construction of the contract. 
+
+
+
+
+NAME The deviation and bailment cases
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+SUMMARY ~*The deviation and bailment cases*~
+/->-The position taken up by the House of Lords in <i>Photo Productions v Securicor</i> is clear; a fundamental breach does not avoid the contract. Unfortunately even this corrective statement of principle needs a further note. Something very like the substantive doctrine of fundamental breach does validly operate in two linked classes of commercial contracts. In contracts for the carriage of goods, and contracts of bailment (by which goods are deposited to be kept and later restored by the bailee), any deviation from the agreed voyage, or diversion of the goods from where they were to be kept, will take the defendant “outside the four quarters of the contract” and beyond the protective reach of exclusion clauses. It is not easy to account for this special strictness in principled terms, except by renewed reference to the “peas and beans” analysis; the plaintiff has agreed a specific voyage, and therefore a different voyage cannot be the subject of the agreement or benefit from protective clauses built into it. Quite possibly a more penetrating account of these cases is the one given by Lord Wilberforce in passing in <i>Photo Productions</i>: “It may be preferable that they should be considered as a body of authority sui generis with special rules derived from historical and commercial reasons”.
+
+
+
+
+NAME Excluding liability for negligence
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+SUMMARY ~*Excluding liability for negligence*~
+/->-The next line of cases (from which only two are given here) applies a set of principles which may appear complex at first glance but in reality are not. Nevertheless, it has to be said that the principles do sheer away from an intuitive approach. Furthermore, modern commentators express doubts about whether a special attitude to negligence liability is desirable.
+/->-The leading case is a Privy Council authority, well known from for a passage setting out what are usually referred to as the <i>Canada Steamship</i> rules.
+
+
+
+
+NAME Canada Steamship Lines Ltd v The King
+CITATION Canada Steamship Lines Ltd v The King [1952] AC 192
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015); Construction of Exemption Clauses; Exclusion of Liability For Negligence
+SUMMARY ~*Overview*~
+/->-The plaintiffs' goods were stored in a shed which the defendant had leased from the Crown. As a result of the negligence of the defendant the shed caught fire and the goods were destroyed. A clause in the lease stated that the lessee should have no claim against the lessor for goods stored in the shed. 
+/->-The Privy Council held that the wording of the clause was wide enough to cover negligently caused loss (even though it did not expressly refer to it). However, its very breadth made it capable of covering not only loss caused by negligence but other types of loss as well. Here, the Civil Code in force in Quebec did in fact impose other liabilities upon the lessors. The clause would be deemed to have been intended to cover those other liabilities, and not to shield the Crown against the consequences of its servants' negligence. 
+SUMMARY ~*Detail*~
+/->-Lord Morton of Henryton summed up the courts' approach to clauses relied on against liability arising in negligence:
+/->-“Their Lordships think that the duty of a court in approaching the construction of [exemption] clauses may be summarised as follows:-
+/->-(1) If the clause contains language which expressly exempts the person in whose favour it is made (hereafter called “the proferens”) from the consequence of the negligence of his own servants, effect must be given to that provision...
+/->-(2) If there is no express reference to negligence, the court must consider whether the words used are wide enough, in their ordinary meaning, to cover negligence on the part of the servants of the proferens...
+/->-(3) If the words used are wide enough for the above purpose, the court must then consider whether “the head of damage may be based on some ground other than that of negligence,” to quote again from the <i>Alderslade</i> case. The “other ground” must not be so fanciful or remote that the proferens cannot be supposed to have desired protection against it; but subject to this qualification, which is no doubt to be implied from Lord Greene's words, the existence of a possible head of damage other than that of negligence is fatal to the proferens even if the words used are prima facie wide enough to cover negligence on the part of his servants”.
+SUMMARY ~*Discussion*~
+/->-The unintuitive characteristic of these rules consists in the way that two apparent concessions towards exclusions of negligence liability are followed by a twist. Negligence liability may be excluded by express words; it may be excluded by sufficiently broad words, but the broader the words are, the more likely that they will be taken to refer to things other than negligence.
+
+
+
+
+NAME Hollier v Rambler Motors (AMC) Ltd
+CITATION Hollier v Rambler Motors (AMC) Ltd [1972] 2 QB 71
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015); Construction of Exemption Clauses; Exclusion of Liability For Negligence
+SUMMARY ~*Overview*~
+/->-The plaintiff left his car for repair at the defendants' garage. As a result of the defendants' negligence there was a fire which badly damaged the car. The plaintiff sued for damages. The defendants attempted to rely on a clause contained in an invoice, stating that “The company is not responsible for damage caused by fire to customers' cars on the premises”. The trial judge accepted that this clause had been incorporated in the contract by a course of dealing, since on a few previous occasions the plaintiff had signed the form containing the notice.
+/->-The Court of Appeal reversed the trial judge on the incorporation point, holding the course of dealing to have been insufficient. This was enough to dispose of the case, but their lordships went on to consider whether the clause would have protected the defendants against negligence liability had it been validly incorporated. They said that it would not. 
+SUMMARY ~*Detail*~
+/->-The judgment of Salmon LJ is an instructive application of the <i>Canada Steamship</i> rules, since it measures their effect within a real setting:
+/->-“It is well settled that a clause excluding liability for negligence should make its meaning plain on its face to any ordinarily literate and sensible person. The easiest way of doing that, of course, is to state expressly that the garage, tradesman or merchant, as the case may be, will not be responsible for any damage caused by his own negligence. No doubt merchants, tradesmen and garage proprietors and the like are a little shy of writing in an exclusion clause quite so bluntly as that. Clearly it would not tend to attract customers, and might even put many off. I am not saying that an exclusion clause cannot be effective to exclude negligence unless it does so expressly, but in order for the clause to be effective the language should be so plain that it clearly bears that meaning. I do not think that defendants should be allowed to shelter behind language which might lull the customer into a false sense of security by letting him think – unless perhaps he happens to be a lawyer – that he would have redress against the man with whom he was dealing for any damage which he, the customer, might suffer by the negligence of that person.
+/->-The principles are stated by Scrutton LJ with his usual clarity in <i>Rutter v Palmer</i> [1922] 2 KB 87, 92:
+/->-“For the present purposes a rougher test will serve. In construing an exemption clause certain general rules may be applied. First the defendant is not exempted from liability for the negligence of his servants unless adequate words are used; secondly, the liability of the defendant apart from the exempting words must be ascertained; then the particular clause in question must be considered; and if the only liability of the party pleading the exemption is a liability for negligence, the clause will more readily operate to exempt him”.
+/->-Scrutton LJ was far too great a lawyer, and had far too much robust common sense, if I may be permitted to say so, to put it higher than “if the only liability of the party pleading the exemption is a liability for negligence, the clause will more readily operate to exempt him”. He does not say “if the only liability of the party pleading the exemption is a liability for negligence, the clause will necessarily exempt him”. After all, there are many cases in the books dealing with exemption clauses, and in every case it comes down to a question of construing the alleged exemption clause which is then before the court”.
+
+
+
+
+NAME The function of exemption clauses
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+SUMMARY ~*The function of exemption clauses*~
+/->-In the quotation above from the judgment of Scrutton LJ in <i>Rutter v Palmer</i>, there is a statement which has significance beyond the immediate context of exemption clauses and negligence liability. He says that “the liability of the defendant apart from the exempting words must be ascertained”, and only then do those words fall to be considered as a possible defence to an action for breach of contract.
+/->-This is not the only way in which exempting words in contracts could be understood. An alternative approach has been strongly advocated by Professor Coote in <i>Exception Clauses</i> (Sweet & Maxwell, 1964). It will indicate why he prefers “exception” to “exemption”. His view is that exemptions are no different from any other provisions in contracts. They should therefore inform the view taken of what the primary contractual obligations are, since it is artificial to decide those obligations in isolation from clauses which in fact modify them from the outset. The examples given by Professor Coote to contrast the defensive conception of exemptions with their role in defining duties ab initio are (a) the sale of a horse warranted to be sound, but an exclusion of liability for its performance in hunting; and (b) the same horse warranted sound except for hunting.
+/->-Professor Coote goes further, regarding the defensive understanding of exemptions as fallacious and impossible:
+/->-“...the true juristic function and effect of exception clauses are quite different from those currently ascribed to them by the courts. Instead of being mere shields to claims based on breach of accrued rights, exception clauses substantively delimit the rights themselves... It may seem feasible that the parties should have intended a contractual duty to remain when they excluded liability for its breach, but this is in reality a juristic impossibility. A duty of sorts there may be, but it will be a duty of honour, not a contractual one. It would follow, then, that the current approach to exception clauses is based on a fallacy”.
+/->-Against this view, it should be pointed out that the long-standing practice of the courts is to view exemptions as defences, and that Scrutton LJ's analysis cited above is therefore entirely mainstream. Certainly it would be wise for the purposes of this year to follow the procedure of asking (1) what the contract promised; (2) whether it was performed or breached; and (3) if breached, whether it includes an exemption which on its true construction provides a defence against the breach in question. 
+/->-Perhaps the real significance of Professor Coote's duty-defining approach is seen in the context of legislation dealing with exemption clauses. Section 3 of the Unfair Contract Terms Act (“Liability arising in Contract”) is drafted in such a way as to control the type of exemption clauses which stand as defences to breach, but also those which in accordance with Coote's understanding define and limit contractual undertakings in the first place. That being so, it must be recognised that the Act goes further than to set limits to contracting out of breach. It sets limits to free contracting.
+
+
+
+
+NAME Unfair Contract Terms Act 1977 - Introduction
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+SUMMARY ~*The Unfair Contract Terms Act 1977*~
+/->-The text of Part 1 of the Unfair Contract Act 1977 as modified by the Consumer Rights Act 2015 is set out below (Part 2 applies to Scotland). As a result of the 2015 Act which governs consumer contracts, UCTA 1977 now applies exclusively to non-consumer contracts.
+/->-The aim this year is to build up a working grasp of the conditions for the Act's application, and the main classes of term to which it applies. This is not a minor nor a straightforward task. Think in terms of mapping pathways through the apparatus of the Act. Often, it will be necessary to begin by examining threshold questions which affect the Act's relevance to the facts under examination. Then, assuming that the Act does apply, it will be necessary to say accurately which section controls the term in question. If the Act subjects the term to a reasonableness test, it will then be a matter of choosing the correct reasonableness test (section 11 of the Act contains four such tests). All of these are fairly workaday tasks, or at least they can be approached in that way. However, they are rather more of a challenge if you have not developed familiarity with the structure and content of the Act itself.
+/->-Rather than interrupt the text with notes, it has seemed most useful for the purposes of this year to append to it some indications of typical ways through the Act. First, read Part 1. Changes made by the Consumer Rights Act 2015 are printed in italics. The 2015 Act has made UCTA shorter than it was, but unfortunately it has also made it more complex.
+
+
+
+
+NAME Unfair Contract Terms Act 1977
+TYPE Statute
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015); Construction of Exemption Clauses; Unfair Contract Terms Act 1977
+SUMMARY ~*Unfair Contract Terms Act 1977*~
+/An Act to impose further limits on the extent to which under the law of England and Wales and Northern Ireland civil liability for breach of contract, of for negligence or other breach of duty, can be avoided by means of contract terms and otherwise, and under the law of Scotland civil liability can be avoided by means of contract terms.
+SUMMARY *S1 -- Scope of Part 1*
++ For the purposes of this Part of this Act, “negligence” means the breach—
+++ of any obligation, arising from the express or implied terms of a contract, to take reasonable care or exercise reasonable skill in the performance of the contract;
+++ of any common law duty to take reasonable care or exercise reasonable skill (but not any stricter duty);
+++ of the common duty of care imposed by the Occupiers' Liability Act 1957 or the Occupiers' Liability Act (Northern Ireland) 1957.
++ This Part of this Act is subject to Part 111; and in relation to contracts, the operation of sections 2, 3 and 7 is subject to the exceptions made by Schedule 1.
++ In the case of both contract and tort, sections 2 to 7 apply (except where the contrary is stated in section 6(4)) only to business liability, that is liability for breach of obligations or duties arising—
+++ from things done or to be done by a person in the course of a business (whether his own business or another's); or
+++ from the occupation of premises used for business purposes of the occupier;
+/->-and references to liability are to be read accordingly [but liability of an occupier of premises for breach of an obligation or duty towards a person obtaining access to the premises for recreational or educational purposes, being liability for loss or damage suffered by reason of the dangerous state of the premises, is not a business liability of the occupier unless granting that person such access for the purposes concerned falls within the business purposes of the occupier].
++ In relation to any breach of duty or obligation, it is, immaterial for any purpose of this Part of this Act whether the breach was inadvertent or intentional, or whether liability for it arises directly or vicariously.
+SUMMARY *S2 -- Negligence Liability*
++ A person cannot by reference to any contract term or to a notice given to persons generally or to particular persons exclude or restrict his liability for death or personal injury resulting from negligence.
++ In the case of other loss or damage, a person cannot so exclude or restrict his liability for negligence except in so far as the term or notice satisfies the requirement of reasonableness.
++ Where a contract term or notice purports to exclude or restrict liability for negligence a person's agreement to or awareness of it is not of itself to be taken as indicating his voluntary acceptance of any risk.
+/->-(but see the provision made about such contracts and notices in sections 62 and 65 of the Consumer Rights Act 2015).
+SUMMARY *S3 -- Liability Arising in Contract*
++ This section applies as between contracting parties where one of them deals on the other's written standard terms of business.
++ As against that party, the other cannot by reference to any contract term—
+++ when himself in breach of contract, exclude or restrict any liability of his in respect of the breach; or
++++ to render a contractual performance substantially different from that which was reasonably expected of him, or
++++ in respect of the whole or any part of his contractual obligation, to render no performance at all,
+/->-except in so far as (in any of the cases mentioned above in this subsection) the contract term satisfies the requirement of reasonableness. 
++ This section does not apply to a term in a consumer contract (but see the provision made about such contracts in section 62 of the Consumer Rights Act 2015).
+SUMMARY *S6 -- Sale and Hire Purchase* 
++Liability for breach of the obligations arising from—-
+++ [ section 12 of the Sale of Goods Act 1979] (seller's implied undertakings as to title, etc.);
+++ section 8 of the Supply of Goods (Implied Terms) Act 1973 (the corresponding thing in relation to hire-purchase),
+++ section 13, 14 or 15 of the 1979 Act (seller's implied undertakings as to conformity of goods with description or sample, or as to their quality or fitness for a particular purpose;
+++ section 9, 10 or 11 of the 1973 Act (the corresponding things in relation to hire purchase)
+/->-cannot be excluded or restricted by reference to a contract term except so far as the term satisfies the requirement of reasonableness.
++4 The liabilities referred to in this section are not only the business liabilities defined by section 1(3), but include those arising under any contract of sale of goods or hire-purchase agreement. 
++ This section does not apply to a consumer contract (but see the provision made about such contracts in section 31 of the Consumer Rights Act 2015).
+SUMMARY *S7 -- Miscellaneous contracts under which goods pass*
++ Where the possession or ownership of goods passes under or in pursuance of a contract not governed by the law of sale of goods or hire-purchase, subsections (2) to (4) below apply as regards the effect (if any) to be given to contract terms excluding or restricting liability for breach of obligation arising by implication of law from the nature of the contract.
++0 *(1A) Liability in respect of the goods' correspondence with description or sample, or their quality or fitness for any particular purpose, cannot be excluded or restricted by reference to such a term except in so far as the term satisfies the requirement of reasonableness.
++0 *(3A) Liability for breach of the obligations arising under section 2 of the Supply of Goods and Services Act 1982 (implied terms about title etc. in certain contracts for the transfer of the property in goods) cannot be excluded or restricted by reference to any such term.]
++4 Liability in respect of --
+++ the right to transfer ownership of the goods, or give possession; or
+++ the assurance of quiet possession to a person taking goods in pursuance of the contract,
++0 cannot (in a case to which subsection (3A) above does not apply), be excluded or restricted by reference to any such term except in so far as the term satisfies the requirement of reasonableness.
++0 *(4A)* This section does not apply to a consumer contract (but see the provision made about such contracts in section 31 of the Consumer Rights Act 2015).
+SUMMARY *S10 -- Evasion by means of secondary contract*
+/A person is not bound by any contract term prejudicing or taking away rights of his which arise under, or in connection with the performance of, another contract, so far as those rights extend to the enforcement of another's liability which this Part of this Act prevents that other from excluding or restricting.
+SUMMARY *S11 -- The “reasonableness” test.*
++ In relation to a contract term, the requirement of reasonableness for the purposes of this Part of this Act, section 3 of the Misrepresentation Act 1967 and section 3 of the Misrepresentation Act (Northern Ireland) 1967 is that the term shall have been a fair and reasonable one to be included having regard to the circumstances which were, or ought reasonably to have been, known to or in the contemplation of the parties when the contract was made.
+++ In determining for the purposes of section 6 or 7 above whether a contract term satisfies the requirement of reasonableness, regard shall be had in particular to the matters specified in Schedule 2 to this Act; but this subsection does not prevent the court or arbitrator from holding, in accordance with any rule of law, that a term which purports to exclude or restrict any relevant liability is not a term of the contract.
++ In relation to a notice (not being a notice having contractual effect), the requirement of reasonableness under this Act is that it should be fair and reasonable to allow reliance on it, having regard to all the circumstances obtaining when the liability arose or (but for the notice) would have arisen.
++ Where by reference to a contract term or notice a person seeks to restrict liability to a specified sum of money, and the question arises (under this or any other Act) whether the term or notice satisfies the requirement of reasonableness, regard shall be had in particular (but without prejudice to subsection (2) above in the case of contract terms) to—
+++ the resources which he could expect to be available to him for the purpose of meeting the liability should it arise; and
++ It is for those claiming that a contract term or notice satisfies the requirement of reasonableness to show that it does.
+SUMMARY *S13 -- Varieties of exemption clause*
++ To the extent that this Part of this Act prevents the exclusion or restriction of any liability it also prevents—
+++ making the liability or its enforcement subject to restrictive or onerous conditions;
+++ excluding or restricting any right or remedy in respect of the liability, or subjecting a person to any prejudice in consequence of his pursuing any such right or remedy;
+/and (to that extent) sections 2 , 6 and 7 also prevent excluding or restricting liability by reference to terms and notices which exclude or restrict the relevant obligation or duty.
++ But an agreement in writing to submit present or future differences to arbitration is not to be treated under this Part of this Act as excluding or restricting any liability.
+SUMMARY *S14 -- Interpretation of Part 1*
++0 “business” includes a profession and the activities of any government department or local or public authority;
++0 “consumer contract” has the same meaning as in the Consumer Rights Act 2015 (see section 61);
++0 “consumer notice” has the same meaning as in the Consumer Rights Act 2015 (see section 61):
++0 “hire-purchase agreement” has the same meaning as in the Consumer Credit Act 1974;
++0 “notice” includes an announcement, whether or not in writing, and any other communication or pretended communication; and
++0 “personal injury” includes any disease and any impairment of physical or mental condition.
+SUMMARY *SCHEDULE 2 E+W+S+NI* 
+/“Guidelines” for Application of Reasonableness Test
++ The matters to which regard is to be had in particular for the purposes of sections 6(1A), 7(1A) and (4), 20 and 21 are any of the following which appear to be relevant—
+++ the strength of the bargaining positions of the parties relative to each other, taking into account (among other things) alternative means by which the customer's requirements could have been met;
+++ whether the customer received an inducement to agree to the term, or in accepting it had an opportunity of entering into a similar contract with other persons, but without having a similar term;
+++ whether the customer knew or ought reasonably to have known of the existence and the extent of the term (having regard, among other things, to any custom of the trade and any previous course of dealing between the parties);
+++ where the term excludes or restricts any relevant liability if some condition was not complied with, whether it was reasonable at the time of the contract to expect that compliance with that condition would be practicable;
+++ whether the goods were manufactured, processed or adapted to the special order of the customer.
+
+
+
+
+NAME Using the Unfair Contract Terms Act 1977
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+SUMMARY ~*Using the Unfair Contract Terms Act 1977*~
+/->-As stated above, what follows is not a series of annotations or even selected notes on the Act, but rather a limited pointer towards the sort of questions likely to arise in connection with its use for the purposes of this course.
+/->-b>Section 13</b> extends the conception of exclusions or limitations of liability beyond the simple definition of an exemption clause. It may be the right starting point if a contract term seems onerous, but not a normal exemption clause
+/->-You may have noticed, reading through Part 1, that it includes some introductory provisions, then it asserts its control over various types of contract terms or other terms. That central section ends with section 7. In fact what may be regarded as the central part of the Act (that is, sections 2 – 7) is said by <b>section 1(3)</b> to apply only to business liability, save that section 6 is not limited in this way. Given that you are likely to want to use one of these central sections, it is of obvious importance to check whether you are dealing with business liability.
+/->-Among the “central” sections, <b>section 3</b> is likely to be of frequent relevance (“liability arising in contract”). Notice that its application is limited to instances where one contracting party deals on the other's written standard terms of business. There is no legislative definition of “written standard terms of business”. There is some caselaw on the topic.
+/->-Those are the likely preliminary matters, some or all of which may need to be discussed before the Act can actually be used for its main purpose.
+/->-The central <b>sections 2-7</b> vary in difficulty. An application of section 2 (negligence liability) might well be easy. By contrast, there are aspects of section 3 (liability arising in contract) which might be more challenging, perhaps because of the drafting of that section. Section 6 (sale and hire purchase) is difficult because of the relatively complex interlocking with the Sale of Goods Act 1979 and the Supply of Goods and Services Act 1982. However, the difficulty is not conceptual. With a good grasp of the sections of those two acts which were set out in the last lecture, it should be straightforward to settle who can exclude liability for what, or can do so subject to a reasonableness test.
+/->-If a clause is made subject to a reasonableness test by the Act, then the place to look in order to run that test is <b>section 11</b>. Since section 11 in fact contains four tests, it is essential to choose the correct one. The beginning words of each subsection indicate which is the appropriate one, depending on the central section from which you have come.
+/->-Only section 11(2) explicitly requires the consideration of reasonableness to be assessed in accordance with the <b>Schedule 2</b> criteria set out above. However, there is authority that Schedule 2 may be referred to whenever the question of a term's reasonableness is to be judged.
+/->-In deciding whether a term is reasonable or not, you are not required to go very far into the facts for the purposes of this year. This year, the key to handling the Unfair Contract Terms Act is to find a pathway through it which is not wrong, and to show a good understanding of where the materials required for fuller argument would be found. 
+
+
+
+
+NAME The Consumer Rights Act 2015
+TYPE Concept
+CATEGORY Exemption Clauses (UCTA 1997 and CRA 2015)
+SUMMARY ~*The Consumer Rights Act 2015*~
+/->-Part 2 of the 2015 Act now deals with all aspects of exemption clauses in consumer contracts (and with notices), leaving UCTA governing only non-consumer contracts. Amongst the other functions of the Act is to continue a well-established legislative trend towards making the control of exemptions the work of regulators, not merely of courts. The central section is s.62, which is printed below. S62(4) deserves to be committed to memory.
+/->-(3) This does not prevent the consumer from relying on the term or notice if the consumer chooses to do so. 
+/->-(4) A term is unfair if, contrary to the requirement of good faith, it causes a significant imbalance in the parties' rights and obligations under the contract to the detriment of the consumer. 
+/->-(b) by reference to all the circumstances existing when the term was agreed and to all of the other terms of the contract or of any other contract on which it depends. 
+/->-(6) A notice is unfair if, contrary to the requirement of good faith, it causes a significant imbalance in the parties' rights and obligations to the detriment of the consumer. 
+/->-(b) by reference to all the circumstances existing when the rights or obligations to which it relates arose and to the terms of any contract on which it depends. 
+/->-Other important provisions of the 2015 Act's regulation of exemptions are the following, certain aspects of which are surprising:
+/->-· S.64 prohibits the assessment of the fairness of a term to the extent that it specifies the main subject matter of the contract, or the assessment would be of the price payable (the two sides of the <i>quid pro quo</i>). This is done in order to protect the principle of freedom of contract. However, to escape assessment, the term in question must be “transparent and prominent”. The section in fact rests upon a number of value judgments, which is ironic since part of its function is to avoid scrutiny of value. It does not look straightforward to apply.
+/->-· S.65 repeats UCTA's ban on the exclusion or restriction of liability for negligence causing personal injury or death. The section's heading, “Bar on exclusion or restriction of negligence liability” appears to be misleadingly broad, since the bar does not apply to exclusions of lesser consequences of negligence.
+/->-· S.68 places an obligation on a trader to “ensure that a written term of a consumer contract, or a consumer notice in writing, is transparent”. Transparency requires expression “in plain and intelligible language”, and legibility. It is again ironic that this section itself appears to be poorly drafted, in that its definition of transparency is related only to notices, and not to terms. The Act's explanatory notes regard the definition as extending to terms as well. 
+/->-· S69 provides that an ambiguous term or notice is to receive the interpretation most favourable to the consumer. This appears to be a codification of the common law's <i>contra proferentem</i> approach to the construction of exemptions.
+/->-· S71 obliges courts to consider whether terms are fair even if no party the proceedings has raised the issue. This is subject to the proviso that the court must be satisfied that it has sufficient legal and factual material to enable the assessment to be made.
+/->-b>Schedule 2</b> of the Act gives an indicative and non-exhaustive list of terms (often referred to as “the grey list”) which may be regarded as unfair, and is based on a similar list in the Unfair Terms in Consumer Contracts Regulations 1999 which the 2015 Act revokes.
+/->-The list is a substantial one, and it is not expected that you will learn it. Nevertheless, it is interesting, not least because it confirms the validity (whilst of course putting in question the fairness) of certain types of arrangement about which you might have felt some doubt at the level of contract formation. You would do well to read through it two or three times. For that reason, it is set out below.
+/->-1 A term which has the object or effect of excluding or limiting the trader's liability in the event of the death of or personal injury to the consumer resulting from an act or omission of the trader.
+/->-2 A term which has the object or effect of inappropriately excluding or limiting the legal rights of the consumer in relation to the trader or another party in the event of total or partial non-performance or inadequate performance by the trader of any of the contractual obligations, including the option of offsetting a debt owed to the trader against any claim which the consumer may have against the trader.
+/->-3 A term which has the object or effect of making an agreement binding on the consumer in a case where the provision of services by the trader is subject to a condition whose realisation depends on the trader's will alone.
+/->-4 A term which has the object or effect of permitting the trader to retain sums paid by the consumer where the consumer decides not to conclude or perform the contract, without providing for the consumer to receive compensation of an equivalent amount from the trader where the trader is the party cancelling the contract.
+/->-5 A term which has the object or effect of requiring that, where the consumer decides not to conclude or perform the contract, the consumer must pay the trader a disproportionately high sum in compensation or for services which have not been supplied.
+/->-6 A term which has the object or effect of requiring a consumer who fails to fulfil his obligations under the contract to pay a disproportionately high sum in compensation.
+/->-7 A term which has the object or effect of authorising the trader to dissolve the contract on a discretionary basis where the same facility is not granted to the consumer, or permitting the trader to retain the sums paid for services not yet supplied by the trader where it is the trader who dissolves the contract.
+/->-8 A term which has the object or effect of enabling the trader to terminate a contract of indeterminate duration without reasonable notice except where there are serious grounds for doing so.
+/->-9 A term which has the object or effect of automatically extending a contract of fixed duration where the consumer does not indicate otherwise, when the deadline fixed for the consumer to express a desire not to extend the contract is unreasonably early.
+/->-10 A term which has the object or effect of irrevocably binding the consumer to terms with which the consumer has had no real opportunity of becoming acquainted before the conclusion of the contract.
+/->-11 A term which has the object or effect of enabling the trader to alter the terms of the contract unilaterally without a valid reason which is specified in the contract.
+/->-12 A term which has the object or effect of permitting the trader to determine the characteristics of the subject matter of the contract after the consumer has become bound by it.
+/->-13 A term which has the object or effect of enabling the trader to alter unilaterally without a valid reason any characteristics of the goods, digital content or services to be provided.
+/->-14 A term which has the object or effect of giving the trader the discretion to decide the price payable under the contract after the consumer has become bound by it, where no price or method of determining the price is agreed when the consumer becomes bound.
+/->-15 A term which has the object or effect of permitting a trader to increase the price of goods, digital content or services without giving the consumer the right to cancel the contract if the final price is too high in relation to the price agreed when the contract was concluded.
+/->-16 A term which has the object or effect of giving the trader the right to determine whether the goods, digital content or services supplied are in conformity with the contract, or giving the trader the exclusive right to interpret any term of the contract.
+/->-17 A term which has the object or effect of limiting the trader's obligation to respect commitments undertaken by the trader's agents or making the trader's commitments subject to compliance with a particular formality.
+/->-18 A term which has the object or effect of obliging the consumer to fulfil all of the consumer's obligations where the trader does not perform the trader's obligations.
+/->-19 A term which has the object or effect of allowing the trader to transfer the trader's rights and obligations under the contract, where this may reduce the guarantees for the consumer, without the consumer's agreement.
+/->-20 A term which has the object or effect of excluding or hindering the consumer's right to take legal action or exercise any other legal remedy, in particular by—
+/->-(a) requiring the consumer to take disputes exclusively to arbitration not covered by legal provisions, 
+/->-(c) imposing on the consumer a burden of proof which, according to the applicable law, should lie with another party to the contract.

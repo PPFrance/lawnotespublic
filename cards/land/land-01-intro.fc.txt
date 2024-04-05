@@ -1,0 +1,89 @@
+
+
+NAME Property Rights - Gentle Intro
+TYPE Concept
+CATEGORY Definitions
+SUMMARY ~*Intro*~
+/_What exactly does it mean to *own* a piece of land, or indeed the buildings on it? And what do we even mean by *land*? And why did I get so long-winded, here, when this is supposed to be flash-cards for cramming?_ 
+@Everything *physical* about it. Also the |Property Rights| in it, which may or may not be tangible. 
+@When someone 'owns' land, they have *an estate in land*.
+@Cf. merely |Personal Rights|, which are *incapable of biting the land*.
+SUMMARY There are two kinds of property right. *Estates in land* and *interests in land*. These are often held by people other thanto belong to someone other than the holder of the estate.
+SUMMARY ~*Estates in Land*~
+/*Freeholds* and *leaseholds*. 'ownership' and 'rental'.
++*Freeholds*, or _fees simple absolute in possession_, last for your life and that of your estate. Die intestate with no next-of-kin, and the queen gets the lot. 
+@@They are *freely alienable* -- they can be gifted or sold. 
+@@Transfer by *deed*, or since 1925, |registering| the conveyance, makes a freehold *legal*. A screwed-up deed, or a failure to register, may mean the freehold is *equitable*. 
+@@There are no modern circumstances in which a freehold can be taken away, aside from compulsory purchase. 
++*Leaseholds*, or _fees simple in term of years absolute_ (called that even if the term is only a week) are estates explicitly limited in time.
+@@Rent was traditionally due on the *quarter days* -- 29th September, 24th December, 25th March and 22nd June. Commercial rent is often still due on these days.
+@@A peppercorn rent (a nugatory amount) did not enter currency as a metaphor, but as a reality. Just as saffron and salt were used as money, and people buried their parmesan in the fire of 1666, people seem to have an inbuilt tendency to use condiments as money. _Discuss_. There must be at least a hundred thousand Herlingesque words in that.
+SUMMARY The arrangement of land ownership in this country is still more-or-less explicitly feudal:
+@*R > Freehold > Leasehold > Sublease*
+SUMMARY The crown is the _owner_. The other three are merely _estates in the land_. N.B., a leasehold can derive directly from the crown, and there can be land without any estates -- there are still surprisingly large chunks of the country lacking any estate. 
+SUMMARY ~*Interests in Land*~
+/More precisely, interests in _estates of_ land. These might well be in someone _else's_ land. They are bona fide *proprietary rights*, by which the _land_, not just the estate-holder, is bound. 
+SUMMARY The main ones for City GDL purposes are -- |Easements|, |Covenants|, |Mortgages| and |Proprietary Estoppel|. Plus a load of archaisms expressed half in medieval French, half in bad Latin. The |LPA 1925| and some textbooks call them *estates in land*. But don't do that, as you don't want to confuse the poor poppet examiner. At least, not if it's Martin Dixon et al.
+
+
+#NAME Interests of People in Estates
+#TYPE Concept
+#SUMMARY ~*Example*~
+#/->-X owns (has a freehold of) some land. A is a bank with a mortgage on the land, B has an option to purchase the land (a #property developer building up a landbank, for instance); C has a right of way over the land, and D has a right to let #children play on the land. All of these rights were accorded to A, B, C and D.
+#/->-All of these rights may have come into being as a result of contracts.
+#SUMMARY What happens if the land is then conveyed to Z? 
+#/->-If there were only contract law, disputable between living moral people, A, B, C and D would be screwed, and *all* #their rights would cease. But if the rights amount to property rights, they would bind the land in the hands of Z, or would #have binding or priority to Z.
+#/->-A, B, C and D all have *interests*, albeit that some of the textbooks, plus the |LPA 1925|, call them *estates*. But #don't confuse the marker by using that term.
+#SUMMARY ~*Terminology*~
+#/->-If the *name is on the title deed* in a problem question, this may mean the estate is *not registered*.
+
+
+
+NAME Personal Rights
+AKA Licenses
+TYPE Concept
+CATEGORY Definitions
+SUMMARY ~*Intro*~
+/Generically referred to as _licenses_, these are emphatically _not_ proprietary rights, but personal permissions to do something on land, such, for instance, as a permission to come into a cinema and watch a film, or go into A130 and be a little seduced by Martin Dixon's devil-may-care way of taking you through land law.  
+SUMMARY Licenses are not that readily amenable to taxonomy, because they encompass essentially _everything_ that can be done on land. The frontier between them and proprietary rights is marked by ambiguity, contention and flux. Parking a car used uncontroversially to be a license but has, for the last 15 years, been established by |Proprietary Estoppel| potentially to be a property right.
+SUMMARY Before |Street v Mountford|, licenses accounted for the legal character of a large proportion of short-term domestic accommodation. And, says MD, deciding they were in fact *leases* buggered up the rental sector in this country for good.
+SUMMARY ~*Telling Personal from Proprietary*~
+/This is *fundamentally examinable*. There are two tests, to be applied in this order:
++*What does the right entail?* (What is its nature? What does it provide for?)
+@@If it's *personal* by nature, stop -- it's a *merely personal right*.
++If its character seems *proprietary*, was it created with the formal statutory rules?
+@@If not, it's far harder for it to be proprietary.
+SUMMARY Aside from which:
+@*Go to the cases*. This is a positivist subject: its landscape has been made by cases. MD avers that this really means it's _an intellectually vacuous subject_. Whatever. One persuasive case might be contradicted by another persuasive case, so be *influenced* and *circumspect* rather than *bound* and *literalist*.
+@@I.e., have a healthy appetite for answering problems questions *and* essays with *cases*, in order to avoid the ignominy of 2:ii-level marks.
+@*Look at the definition*. This often comes from a case:
+@@|Lease| or |License|? |Street v Mountford|.
+@@|Easement| or license? |Re Ellenborough Park|.
+@@|Mortgage| or personal debt? |Stantley v Wilde|.
+SUMMARY In |National Provincial Bank v Ainsworth|, Lord Wilberforce had a stab at defining in the abstract what a property right is. He held it was *identifiable*, *certain* and *related to the land*. This case was the *deserted wife's equity*, and ought not judged by the merit of its obvious moral wonkiness: the important thing is its attempt, by a learned property lawyer, to define property rights.
+SUMMARY Property rights tend to be *tidy*, *forensic* and *not open-ended*. 
+
+
+NAME Possession, Occupation and Ownership
+TYPE Concept
+AKA Possession
+AKA Occupation
+AKA Ownership
+CATEGORY Definitions
+SUMMARY ~*Possession*~
+/To *control the land for your own benefit*. 
+@See |Adverse Possession|.
+
+SUMMARY ~*Occupation*~ {From Lexis, ((c))}
++*De facto possession* -- where possession means effective physical control or occupation, evidenced by an outward occasionally called or detention in contrast to the legal right to possession, and in which case, its determination is one of a matter of fact rather than law;
++*Legal possession* -- which is a type of possession recognised and protected by the law. The elements normally associated with legal possession are an intention of possessing together with an amount of occupation or control of the entire subject matter such that it is capable and sufficient for practical purposes to exclude strangers from interfering.
+SUMMARY See |Actual Occupation|.
+
+--STOP--
+
+NAME Street v Mountford
+COURT UKHL
+CITATION Street v Mountford [1985] AC 809
+CATEGORY Licenses; Leases; Proprietary Rights
+FLAGS Fundamental
+SUMMARY TODO.

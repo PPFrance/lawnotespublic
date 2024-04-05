@@ -1,0 +1,24 @@
+META tag encountered, content of meta dict is now "{u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'defcols': u"'3'", u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'defcols': u"'3'", u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'enableTests': u'false', u'subject': u"'herling'"}".
+! Spurious META tag encountered - "META-SUBJECT herling
+", which decomposed to "[u'META-SUBJECT', u'herling']".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-02-offers.fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-03-responses-to-offers.fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-04-communication-of-acceptance.fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-05-incomplete-and-vague-agreements.fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-06-consideration.fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-07-towards-promissory-estoppel.fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-08-intention-to-create-legal-relations.fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-09-incorporation-of-terms.fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-10-interpretation-of-contracts.fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-11-classification-of-terms.fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-12-control-of-exemption-clauses-ucta-1997-cra-2015.fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-13-misrepresentation-(1).fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-14-misrepresentation-(2).fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-15-mistake.fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-16-frustration.fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-17-breach-of-contract.fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/cream-paper.png'", u'defcols': u"'3'", u'filename': u'herling-18-remedies.fc.txt', u'enableTests': u'false', u'subject': u"'herling'"}".
+ *** Word count (in SUMMARY and HELD fields): 212903.

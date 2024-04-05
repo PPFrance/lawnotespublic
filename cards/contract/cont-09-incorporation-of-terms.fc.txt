@@ -1,0 +1,288 @@
+META filename herling-09-incorporation-of-terms.fc.txt
+
+
+NAME Incorporation of Negative Terms
+TYPE Concept
+CATEGORY Incorporation of Terms
+SUMMARY ~*Intro*~
+@Three valid ways according to Denning in |Olley v Marlborough Court| -- By signature, most definitively, by express written/public notice, and by express oral statement. 
+@But a course of prior dealing may, if it shows knowledge of term. |McCutcheon|. 
+@Exclusion clauses are construed _contra proferentum_, although jurisprudential disapproval of this practice since |UCTA|.
+SUMMARY ~*By Signature*~ 
+/_Requirements_ --
++ *Signature*, in general. |L'Estrange v Graucob|.
++ *Expectation of contractual effect* |Grogan v Robert Meredith Plant|.
+SUMMARY _Exceptions_ --
+@ *Onerous terms* are _potentially_ not incorporated. |Tilden v Glendenning|.
+/If A knows B has:
+++*not read* before signing; and has
+++*contrasting expectations*, of which A has not disabused them.
+@ *Mendacious/incomplete explanation of term* will replace term, causing explanation to be binding. |Curtis v Chemical Cleaning|.
+
+
+SUMMARY ~*By Notice*~
+/_Requirements_ -- 
++ *At or before contract formation*. |Olley v Marlborough Court|, |Chapleton v Barry|.
+@@ May be construed as function of nature of clause.
+@@@ *Reasonable* but a tad late due to hurried circs? *Incorporated* |British Crane Hire|.
+@@@ *Onerous* but just after? *Not incorporated* |Thornton v Shoe Lane - Incorporation|.
+@@ *Exceptions* generally for reasons of commercial expediency |Parker v South Eastern|, |Thompson v LMS|.
++ *Reasonable expectation of contractual effect* |British Crane Hire|.
+@@ The word 'receipt' is no bar. |Parker v South Eastern|.
++ *Degree of attention* in proportion to burden of clause. |Thompson v LMS| at one end, |Interfoto| at the other.
+@@ *Reasonable*: 'see terms on back' is generally enough. |Thompson v LMS| 
+@@ *Onerous*: 'fair and reasonable attention' or at rock-bottom, 'differentiation' of term. |Interfoto|. 
+/_(Or red flashing lights, per Denning LJ in |Spurling v Bradshaw|.)_
+
+SUMMARY ~*By Course of Prior Dealing*~
+@ Only relevant when *shows knowledge* of the term |McCutcheon v MacBrayne|.
+@ N.B. |British Crane Hire| _not_ decided on these grounds.
+
+
+NAME Incorporation of Positive Terms
+TYPE Concept
+CATEGORY Incorporation of Terms
+SUMMARY ~*Intro*~
+@ Positive terms/warranties failing to be incorporated receded to status of |representation|, by contrast to negative terms/exclusions, which evaporate.
+
+SUMMARY ~*A Term or a Representation?*~
+/_Essential test_ --
+@ *Intention*, objectively assessed. |Heilbut v Buckleton| per Holt CJ.
+@@ _Would an *intelligent bystander* think, on the evidence, a warranty was intended?_ |Oscar Chess| per Denning LJ.
+
+SUMMARY _Subsidiary tests_ --
+@ *Importance of Statement* |Bannerman v White|, hops.
+@ *Expertise to give Warranty* |Oscar Chess|, |Dick Bentley|; cars. 
+@@ Intelligent bystander wouldn't take non-expert's statement as a warranty, if making it would reasonably be assumed to require expertise. |Oscar Chess|.
+@@ But _would_, if made by an expert. |Dick Bentley|. 
+@ *Assumption of Responsibility*
+@@ A tells B he _doesn't_ need to inspect, as would say if anything amiss? Per se, a *warranty* |Schawel v Reade|.
+@@ A tells B he _should_ inspect, but B can't be arsed? A's statements will be *representation* |Ecay v Godfrey|.
+@ *Writing* 
+@@Failing to reflect statements coming earlier gives rise to presumption against such statements being terms. 
+@@But the later they come, the likelier that they *are*. |Inntrepreneur|.
+
+NAME Incorporation of Conflicting Terms
+TYPE Concept
+CATEGORY Incorporation of Terms
+SUMMARY *Oral contracts*
+@All exchanges between the parties will be considered, in determining what the terms were.
+
+SUMMARY *Written Contracts: Parol Evidence Rule*
+@This prevents the consideration of _extrinsic evidence_ in conflict with the paper terms. |Jacobs v Batavia|.|Jacobs v Batavia|.
+@An exception may be made for repeated, express statements precipitating the contract. |Couchman v Hill|
+
+
+
+NAME L'Estrange v Graucob
+AKA LEstrange v Graucob
+CITATION L'Estrange v Graucob [1934] 2 KB 394
+CATEGORY Incorporation of Terms; Negative; By Signature
+FLAGS Denning
+HELD Terms which one party has failed to read are successfully incorporated into a contract by that party's signature, even though the terms are onerous exclusion clauses, skewing the bargain against the party to such a degree that, had they read them, they might not have signed. Denning was counsel for the seller of the ciggie machine, in this case, and later spoke spoke in Parliament of his regret in the matter).
+
+
+
+NAME Tilden v Clendinning
+CITATION Tilden Rent-A-Car Co v Clendinning (1978) 88 DLR (3d) 400
+CATEGORY Incorporation of Terms
+FLAGS Persuasive 
+HELD Unreasonably onerous exclusion clauses might _not_ be successfully incorporated by signature when the party relying on them knows the other party is unaware of them.
+
+
+
+NAME Grogan v Robin Meredith Plant
+CITATION Grogan v Robin Meredith Plant Hire [1996] CLC 1127
+CATEGORY Incorporation of Terms; Negative; By Signature
+HELD Terms on or referred to by a document such as a timesheet, will only be validly incorporated if _a reasonable person_ would expect them to have contractual effect. 
+
+
+
+NAME Curtis v Chemical Cleaning
+CITATION Curtis v Chemical Cleaning & Dyeing Co [1951] 1 KB 805
+CATEGORY Incorporation of Terms; Negative; By Signature
+FLAGS Denning
+HELD When the party relying on terms incorporated by signature fails to explain them correctly, or does so mendaciously so as to limit the other party's understanding of them, they will be incorporated _only to the extent of the explanation_.
+
+
+
+
+
+NAME Olley v Marlborough Court Hotel
+CITATION Olley v Marlborough Court Hotel [1949] 1 KB 532
+CATEGORY Incorporation of Terms; Negative; By Notice; Timing
+FLAGS Denning
+HELD Denning LJ adumbrated ("adumbrated" ?? ffs.) the ways in which one party can show another's consent to a term thus -- _"the best way of proving it is by a written document signed by the party_ to be bound.  Another way is by handing him _before or at the time of the contract a written notice_ specifying its terms and making it clear to him that the contract is on those terms.  _A prominent public notice which is plain for all to see_ when he makes the contract or _an express oral stipulation_ would, no doubt, have the same effect.  _But nothing short_ of one of these three ways will suffice."
+
+
+
+
+NAME Thornton v Shoe Lane - Incorporation
+CITATION Thornton v Shoe Lane Parking [1971] 2 QB 163
+CATEGORY Incorporation of Terms; Negative; By Notice; Timing
+FLAGS Denning
+HELD The onerous nature of an exclusion clause may inform the court's construction as to when the contract is formed. Should it come a moment too late, it may _not_ be validly incorporated. (Clauses such as amongst those in question, seeking to exclude liability for personal injury, are now invalid, by S2(1) |UCTA|. 
+
+
+
+
+
+
+
+NAME British Crane Hire
+AKA British Crane Hire v Ipswich
+CITATION British Crane Hire Corporation Ltd v Ipswich Plant Hire Ltd [1975] QB 303
+CATEGORY Incorporation of Terms; Negative; By Notice; Nature of Document, Expectations of Parties
+FLAGS Denning
+HELD Although the parties _had_ done business twice on the same terms (such that it may plausibly have been argued that the exclusion clause was incorporated by their course of prior dealing), the exclusion clause was held validly incorporated because: (i) both parties were aware each other contracted on (flavours of) industry standard terms for such contracts so _could reasonably be expected to suppose such terms would govern_; (ii) the urgency in which it was concluded waived the usual need for formality; (iii) the written statement of terms came a little late, but the defendant had notice of it.
+
+
+
+
+NAME Parker v South Eastern
+CITATION Parker v South Eastern Railway Co (1877) 2 CPD 416
+CATEGORY Incorporation of Terms; Negative; By Notice; Ticket Cases - Reasonableness
+FLAGS Obvious Nonsense; Historical; Unsafe
+HELD A person who buys a ticket for something, on the back of which there there are terms, is nevertheless still free to accept or reject the offer on the basis of his estimation of whether he wants to be bound by those terms. Which is obviously nonsensical bollocks from every conceivable point of view -- except for _pragmatic commercial necessity_.  Melish LJ held that a railway company was entitled to expect someone depositing a bag could read English, and that a particularly ignorant, illiterate or feckless person should not be put in a better position than another, by being spared the burden of an exclusion clause to which the more careful would be held. (According to Gregory Clarke, 2008, the literacy rate in England in the 1880s was no more than 80% for men, 70% for women). 
+
+
+NAME Thompson v LMS
+CITATION Thompson v London, Midland and Scottish Railway [1930] 1 KB 41
+CATEGORY Incorporation of Terms; Negative; By Notice; Ticket Cases - Reasonableness
+FLAGS Obvious Nonsense; Historical; Unsafe
+HELD Terms set out or referred to on the face of a contractual document are usually validly incorporated.  A triply-indirect written notice of terms -- front of ticket referring to back; back of ticket referring to terms _in a variety of other documents_, obtainable elsewhere, _for a fee_ -- given _after_ conclusion of contract to a woman _who could not read_, was held to have validly incorporated them. Even at first instance, where the jury had found otherwise.
+
+
+
+NAME Interfoto
+CITATION Interfoto Picture Library Ltd v Stiletto Visual Productions Ltd [1989] QB 433
+CATEGORY Incorporation of Terms; Negative; By Notice; Onerous Or Unusual Terms
+FLAGS Bingham
+HELD Particularly onerous or unusual terms toeing the line separating them from |penalty clauses| will not be validly incorporated if not _fairly and reasonably drawn to the other's attention_ (Bingham) or at least, _differentiated_ (Dillon).
+
+NAME Crooks v Allen
+CITATION Crooks v Allen (1870) 5 QBD 38
+CATEGORY Incorporation of Terms; Negative; By Notice; Onerous Or Unusual Terms
+HELD A term that would not normally be expected by one party must be made _conspicuous_ by the other, if seeking to incorporate it by notice.
+
+
+
+NAME Spurling v Bradshaw
+CITATION Spurling v Bradshaw (1956) 
+CATEGORY Incorporation of Terms; Negative; By Notice; Onerous Or Unusual Terms
+FLAGS Denning
+HELD Denning LJ -- “Some clauses which I have seen would need to be _printed in red ink on the face of the document_ with a red hand pointing to it before the notice could be held to be sufficient”.
+
+
+NAME AEG v Logic Resource
+CITATION AEG (UK) Ltd v Logic Resource [1996] CLC 265
+CATEGORY Incorporation of Terms; Negative; By Notice; Onerous Or Unusual Terms
+
+
+
+
+NAME McCutcheon v MacBrayne
+CITATION McCutcheon v David MacBrayne Ltd [1964] 1 WLR 125
+CATEGORY Incorporation of Terms; Negative; By Course of Dealing
+FLAGS Denning
+HELD A course of prior dealing only validly incorporates an exclusion clause, when that prior dealing _demonstrates actual knowledge of the clause_ by the party against whom it is being used.
+
+
+
+NAME Heilbut v Buckleton
+AKA Heilbut
+CITATION Heilbut, Symons & Co v Buckleton [1913] AC 30
+CATEGORY Incorporation of Terms; Positive; Terms or Representations; Intention of Parties
+HELD The key question in determining whether a statement is a term or a representation, to which all other tests are subsidiary, is _the intentions of the parties_, objectively determined.
+
+
+NAME Bannerman v White
+CITATION Bannerman v White (1861) 10 CB NS 844
+CATEGORY Incorporation of Terms; Positive; Terms or Representations; Subsidiary Tests; Importance of Statement
+HELD When one party makes it clear it will only contract on the basis of the other's warranty, the warranty cannot be a "mere" representation, and must therefore be a term. 
+
+
+
+
+NAME Oscar Chess v Williams
+AKA Oscar Chess
+CITATION Oscar Chess Ltd v Williams [1957] 1 WLR 370
+CATEGORY Incorporation of Terms; Positive; Terms or Representations; Subsidiary Tests; Expertise to give Warranty
+FLAGS Denning
+HELD A statement about a detail of a contract's subject matter, the making of which would be reasonably assumed to require expertise -- which could not be reasonably assumed of the statement's maker -- would not be considered by a reasonable bystander to have been intended to have contractual effect, but merely a representation.
+/->-Denning LJ -- the meaning of 'intention' in the essential test for distinguishing between terms and representations is whether an _intelligent bystander_ would think it was intended as a term, given the objective evidence. 
+
+
+
+
+NAME Dick Bentley v Harold Smith Ltd
+AKA Dick Bentley
+CITATION Dick Bentley Productions Ltd v Harold Smith (Motors) Ltd [1965] 1 WLR 623
+CATEGORY Incorporation of Terms; Positive; Terms or Representations; Subsidiary Tests; Expertise to give Warranty
+FLAGS Denning
+HELD By contrast to |Oscar Chess|, a statement requiring expertise, coming from someone who might reasonably be expected to have that expertise, might be reasonably inferred to be a warranty rather than a mere representation.
+
+
+
+
+NAME Schawel v Reade
+CITATION Schawel v Reade [1912] IR 64
+CATEGORY Incorporation of Terms; Positive; Terms or Representations; Subsidiary Tests; Assumption of Responsibility
+HELD A's statement that B need not inspect the subject matter, because had there been anything wrong with it, he would have informed him -- is itself a warranty.
+
+
+
+NAME Ecay v Godfrey
+CITATION Ecay v Godfrey (1947) 80 Ll L Rep 286
+CATEGORY Incorporation of Terms; Positive; Terms or Representations; Subsidiary Tests; Assumption of Responsibility
+HELD When a buyer is encouraged by a seller to inspect goods for himself, his failure to do so will be taken as an assumption of responsibility for the subject matter, and will militate against the construction of statements made by the seller as warranties, rather than mere rerpesentations.
+
+
+
+NAME Inntrepreneur Pub Co v East Crown
+AKA Inntrepreneur
+CITATION Inntrepreneur Pub Co v East Crown Ltd [2000] 2 Lloyd's Rep 611
+CATEGORY Incorporation of Terms; Positive; Terms or Representations; Subsidiary Tests; Writing
+HELD The closer a statement comes to the written conclusion of a contract, the more likely it is to be seen as a factor precipitating the contract, and therefore, to be construed as a term. Statements made _earlier_, but _not in the written terms_, by contrast, will be presumed _not_ to be terms. 
+
+NAME Jacobs v Batavia
+CITATION Jacobs v Batavia (1924)
+CATEGORY Incorporation of Terms; Conflicting; Parol Evidence Rule
+HELD Authority for the Parol Evidence Rule governing |incorporation of conflicting terms|.
+
+
+NAME Couchman v Hill
+CITATION Couchman v Hill [1947] KB 554
+CATEGORY Incorporation of Terms; Conflicting; Parol Evidence Rule
+HELD When express and repeated oral assurances have been given which may have been the causative factors for the contract being made, which nevertheless conflict with the written terms, the Parol Evidence Rule might not be applied.
+
+
+--STOP--
+
+NAME Collateral Contracts
+TYPE Concept
+CATEGORY Incorporation of Terms; Positive; Conflicting Terms; Collateral Contracts
+
+
+
+
+NAME City and Westminster v Mudd
+CITATION City and Westminster Properties v Mudd [1958] 3 WLR 312
+CATEGORY Incorporation of Terms; Positive; Conflicting Terms; Collateral Contracts
+
+
+
+
+NAME J Evans & Son v Andrea Merzario
+CITATION J Evans & Son (Portsmouth) v Andrea Merzario Ltd [1976] 2 All ER 930
+CATEGORY Incorporation of Terms; Positive; Conflicting Terms; Collateral Contracts
+
+
+
+
+NAME Esso Petroleum v Mardon
+CITATION Esso Petroleum Co Ltd v Mardon [1976] QB 801
+CATEGORY Incorporation of Terms; Positive; Conflicting Terms; Collateral Contracts
+
+
+

@@ -1,0 +1,204 @@
+META-SUBJECT EU
+
+
+NAME Potted History I - Paris to Merger
+TYPE Concept
+CATEGORY History
+FAGS EU; FR; DE; IT; BE; NE; LX; GB; IE; DK; NO
+SUMMARY *~1951~ -- |Treaty of Paris| - ECSC*
+/Proposed by |Schumann| with the explicit aim of, as he put it, making war 'not only unthinkable but materially impossible,' by collectively ceding control of two of the most essential ingredients of war. This was to a body comprising --
+@*Council*, an _intra_national body acting for the interests of member states.
+@*Commission*, the _supra_national executive body, originally called the *High Authority*.
+@*Assembly*, the forerunner of the parliament, meeting in Strasbourg.
+@*Court*. 
+SUMMARY The Treaty of Paris had provided for a lifespan of 50 years -- it was in force from 1952 until 2002. FR, DE, IT and Benelux were parties to it. The UK was invited -- but declined.
+SUMMARY *~1957~ -- |Treaty of Rome|, now |TFEU|*
+/Renamed the *EC* and the *EAEC* (known as _Euratom_, the _European Atomic Energy Community_), it *shared* the assembly and court of the ECSC, but had its own commission and council.
+SUMMARY There were many commonalities between the two, but the purpose of the |EEC Treaty| and its institutions was to *create a framework*, not to create policy -- which was left to the institutions of the ECSC and EAEC.
+SUMMARY In 1961, Supermac tried to bring the UK in, but that clucking, mincing little nonentity, De Gaulle, blocked us. We eventually joined in '72, along with IE, DK and NO -- which later dropped out.
+SUMMARY *~1967~ -- Merger Treaty*
+/This put the ECSC, EAEC and EEC under one roof, *unified their institutions*, and relocated the |Commission| and |Council| to Brussels.
+
+NAME Potted History II - EFTA to Nice
+TYPE Concept
+CATEGORY History
+FLAGS GB; AT; DK; PT; NO; SW; CH; UK; IC; LI
+SUMMARY *~1991~ -- EFTA, the |European Economic Area|*
+/This established the EEA, comprising AU, DK, PT, NO, SW, CH and the UK, the *outer seven*. Current members are only IC, LI, NO and CH, the remainder having joined what's now the EU.
+SUMMARY The |ECJ| declared the EEA agreement *incompatible* with the |EEC Treaty|, for reasons reducing to the ECJ's unwillingness to have to deal with a rival court, the EEA court it proposed.
+SUMMARY *~1992~ -- |Maastricht Treaty|, now |TEU|*
+/In force 1st Nov 1993, the ratification of Maastricht which could be taken to mark the end of the era of |Permissive Consensus|. Danish voters tepidly rejected it, French voters tepidly accepted it -- but in each case by fewer than 1% of votes cast. Denmark accepted it a year later, with opt-outs for |EMU| and the |Common Security and Defence Policy|.
+SUMMARY *~1995~ -- Accession*
+/AU, SE and FI became members, making a total of 15. NO voted no.
+SUMMARY *~1999~ -- |Treaty of Amsterdam|*
+/A modification of |TEU|. It --
+@*Renumbers* the provisions of |TEU|,
+@"Develops" the idea of the |Principle of Flexibility|, and 
+@Provides for *absorption of Schengen* into the framework of the treaty (albeit with opt-outs for truculent customers such as us), and ends the UK's *social policy opt out*.
+SUMMARY *~2002~ -- Euro enters circulation*
+SUMMARY *~2003~ -- |Treaty of Nice|*
+/Paved the way for enlargement, and "developed" the principle of |Enhanced Cooperation|.
+
+NAME Potted History III - Accession to the Present
+TYPE Concept
+CATEGORY History
+SUMMARY *~2004~ -- Accession*
+/Hungary, Poland, the Czech Republic, Slovakia, Slovenia, Estonia, Latvia and Lithuiania, along with Malta and Cyprus, all joined the EU -- followed in 2007 by Bulgaria and Romania, and finally, in 2011, Croatia, making a *total of 28 member states*. There is talk of admitting Turkey, but the people of Europe balk at the idea, and flee to the ghosts of the nationalism they have apparently forgotten caused a whole _century_ of immiseration.  SUMMARY *~2003~ -- Constitution*
+£/The almost-caricaturally ridiculous Valerie Giscard, whose grandfather, in common with a lot of Frenchmen with 'de' in their name, added "d'Estaing" for effect, 
+/The text, rejected by the French and the Dutch in 2005, was an attempt to simplify, unify, modernise, but made the fatal mistake of referring to itself as a _constitution_, which in the popular mind is something only *countries* and *cricket clubs* have. It marks the low water mark of |Permissive Consensus|, which hasn't exactly been in spate since.
+SUMMARY *~2008~ -- |Lisbon Treaty|*
+/A constitution in all but _name_. Scared by 2005, and apparently unconcerned to demonstrate the popular legitimacy of the project, only one country ratified by referrendum, Ireland, which rejected by 4%. But when given another chance to say _yes_, with concessions relating to matters of sovereignty (tax and abortion), it accepted decisively, 2 to 1. *In force Dec 2009*
+
+
+NAME EU History and Institutions - Reading
+TYPE Reading
+SUMMARY ~*Further Reading*~
+/Ashiagbor, Countouris and Lianos (eds), The European Union After the Treaty of Lisbon (Cambridge: CUP, 2012)
+/Craig, The Lisbon Treaty: Law, Politics and Treaty Reform (OUP, 2010)
+/Biondi, Eeckhout and Ripley (eds), EU Law After Lisbon (Oxford: OUP, 2012)
+/Craig, P.,_The Treaty of Lisbon, Process, Architecture and Substance_ (2008) 33 ELRev 137.
+/De Búrca, _The EU on the Road from the Constitutional Treaty to the Lisbon Treaty_, Jean Monnet working paper 03/08,
+/ http://www.jeanmonnetprogram.org/papers/papers08.html
+/Nic Shuibhne, N., _Double Take_, (2007) 32 ELRev 605. 
+/Dougan, M., _The Treaty of Lisbon 2007: Winning Minds, not Hearts_ (2008) 45 CMLRev 617 {Panos comment: very good, but much too detailed for your purposes.} 
+/Editorial Comments, _The post-Lisbon institutional package: Do old habits die hard?_ (2010) 47 CMLRev 597.
+/Editorial Comments, _An ever mighty European Council – some recent institutional developments_  46 CMLRev (2009) 1383 
+/De Waele and Broeksteeg, 49 CMLRev (2012) 1039 _The semi-permanent European Council Presidency: Some reflections on the law and early practice_ 
+/Athanassiou, P., _Of Past Measures and Future Plans for Europe_s Exit from the Sovereign Debt Crisis: What is Legally Possible (and What is Not)_, (2011) 36 ELRev 558
+/Editorial, _Some thoughts concerning the Draft Treaty on a Reinforced Economic Union_, (2012) 49 CMLRev 1
+/*Koutrakos, P.*, 'Is there such a thing as too much law?', (2012) 37 ELRev 1.
+/Craig, _The Stability, Coordination and Governance Treaty: Principle, Politics and Pragmatism_ (2012) 37 ELRev 231
+
+
+
+NAME Schuman
+AKA Schuman
+AKA Robert Schuman
+TYPE Concept
+WIKILINK Schuman https://en.wikipedia.org/wiki/Robert_Schuman
+SUMMARY Jean-Baptiste Robert Schuman, twice prime-minister of France; of Luxembourgish origin; called up to fight for Germany in 1914, an illustrious career as a _resistant_; tortured by the Gestapo; preached the inevitable defeat of Germany and need for postwar cooperation even as the blitzkrieg rolled further and angrilier afield.
+SUMMARY The ECSC was essentially his idea.
+SUMMARY In Strasbourgh in '49: 'Audacious minds, such as Dante, Erasmus, Abbé de St-Pierre, Rousseau, Kant and Proudhon, had created in the abstract the framework for systems that were both ingenious and generous. The title of one of these systems became the synonym of all that is impractical: *Utopia, itself a work of genius, written by Thomas More, the Chancellor of Henry VIII, King of England.*'
+SUMMARY Those who say the EU is an _utopian* project, then, are not far wrong.
+SUMMARY Bonus marks in the exam for not spelling it 'Schuman*n*'.
+
+
+NAME Treaty of Rome
+AKA TFEU
+TYPE Treaty
+YEAR 1958
+SUMMARY ~*Naming*~
+/This is the *TFEU*. Formerly, formally, it was the *Treaty establishing the European Economic Community (TEEC)*. 
+
+NAME Treaty of Lisbon
+AKA Lisbon Treaty
+YEAR 2008
+TYPE Treaty
+EUROPALINK TFEU http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:C:2007:306:FULL&from=EN
+SUMMARY ~*Naming*~
+/This is the |TFEU|.
+SUMMARY ~*Purpose*~
+/To replace the EU and EC treaties with the |TEU| and the |TFEU|, although leaving untouched the separate body of rules (with a more _intergovernmental_ character) of the Common Foreign and Security Policy. 
+/To further develop |Enhanced Cooperation|, i.e., _multi-speed Europe_.
+/Increase *majority voting* within the |Council of Ministers|.
+/Modify statement on the *values* and *objectives* of the Union, although insubstantially.
+/Introduces office of High Representative for Foreign Affairs and Security Policy.
+/Introduces a *permanant president* of the European Council.
+/Increases the power of the parliament
+/Changes the process of *modification of the treaties* - art 48 |TEU|.
+/Provides for *how states may withdraw* from the union - art 49 |TEU|.
+
+
+
+
+NAME Treaty on European Union
+AKA TEU; Maastricht Treaty
+TYPE Treaty
+SUMMARY ~*Article 2*~
+/Declares the objectives - the EU is 'founded on the values of *respect for human dignity*, *freedom*, *democracy*, *equality*, the *rule of law* and respect for *human rights*, including the rights of persons belonging to minorities.' 
+
+
+
+
+NAME The Institutions
+TYPE Concept
+SUMMARY Here are three things *not to confuse*: the |European Council|, the  |Council of the European Union| (aka the Council of Ministers) and the |Council of Europe|. 
+SUMMARY |European Parliament| 
+SUMMARY |European Commission|
+SUMMARY |Court of Justice|
+
+NAME European Council
+TYPE Institution
+SUMMARY ~*Purpose*~ 
+The European Council looks out *for the interests of the EU*, defining its political aims and direction - art 15 |TEU|.
+SUMMARY ~*Membership*~
+/Heads of State/Government as appropriate, the President of the Council, currently Donald Tusk, *and* the President of the Commission, currently Jean-Claude Juncker.
+SUMMARY ~*Decision Making*~
+/Art 15(4) |TEU| and 235-236 |TFEU| provide that this will *normally* be by *consensus*.
+SUMMARY ~*Meetings*~
+/Summits every quarter, to make political decisions the implementation of which is for the (normal) |Council of Ministers|. 
+/Their importance has greatly increased, in recent years.
+SUMMARY ~*President*~
+/A contentious provision of art 15(5,6) |TEU|. He or she *must not* hold national office, and serves for a (renewable) 2 1/2 year term. 
+
+NAME Council of the European Union
+AKA Council of Ministers
+TYPE Institution
+SUMMARY (_Sometimes just "the Council." Cf. |European Council| and |Council of Europe|._)
+SUMMARY ~*Purpose and Membership*~ 
+/To represent the interests of the *member states*, each of which sends a government minister with responsibility for whatever happens to be on the agenda.
+/Art 16(6) |TEU| stipulates a different configuration when the agenda is foreign affairs, as presided over by the EU's quasi-'Foreign Minister' person.
+SUMMARY Since |Lisbon| there is a stronger commitment to openness and transparency in council meetings - art 16(8) |TEU|.
+SUMMARY ~*Powers*~
+/Has *the final word* on most bits of EU *legislation* under the |Ordinary Legislative Procedure|. It meets when convened by its (six-month rotating) president, or at the request of a member state - Art 237 |TFEU|.
+/*Voting* can happen in *three* ways, in circumstances provided for by the treaties. The main one is QMV. 
+SUMMARY ~*Qualified Majority*~
+/*From 2003 to 2014*, or at request of any member state, until Sep 2017, the |Nice| rules for QMV were: *(1)* at least *15* states in favour - but *18* if proposal not from |Commission|; *(2)* 260 of the 352 voing weights (about *74%* of the weight); *(3)* at least *313.6M* citizens represented. 
+/*From 2014* or 2017, the |Lisbon| conditions apply: *(1)* At *55%* of members (15), but, as before, *72%* (20) if proposal not from |Commission| or High Rep.; *(3)* votes representing at least 65% of population of union. 
+/*QMV* was rarely used before
+SUMMARY ~*Simple Majority*~ and ~*Unanimity*~
+/There are few situations in which *simple majority voting* is used - one is by a thing called the _Anti-Dumping Advisory Committee_.
+/When something is politically sensitive or important - security, tax, etc, then voting is by *unanimity*.
+
+NAME European Commission
+AKA Commission
+TYPE Institution
+SUMMARY This is, in effect, the *legislature*. Art 17(1) |TEU| says it is to 'promote the general interest of the Union and take appropriate initiatives to that end.' 
+SUMMARY ~*Nature and Composition*~
+/*Consists of* a national from *each member state*, although art 17(5) seeks, from 2014, to reduce this by 1/3. 
+/*Appointment* of the Commission, Since |Lisbon|, takes place according to a somewhat complex process by which the |European Council|, under QMV, proposes a *President of the Commission* to the |European Parliament|, on which they must then vote, looping back to the European Council if they don't approve, etc. On successful installation, the *president* then nods through each state's commissionner nominee. The commissionners are to be chosen for their *general competence* and *committedness to Europe*, and their undoubted independence - art 17(3). The new Commission is then subject to a vote of approval by the Parliament. 
+/*Commissionners* each have their own portfolio, the allocation of which is a matter of consensus and informal negotiation. And of course their own staff, expenses, car, offices, cook, etc.
+/The *President of the Commission* goes to G8 summits, delivers to the |Parliament| a _State of the Union_ address (!), and presents them the legislative programme.
+/Each Commissionner has a *Director General* answering to him, the civil servant heading the *Directorate General* for the portfolio. These subdivide into *Directorates* directed by *Directors* and *Divisions*, directed by *Heads of Division*.
+/Should a Commissionner fuck up in some way, the |Council| or the Commission can apply to the |Court| to have them 'Compulsorily Retired' - art 245 & 247 |TFEU|. But since |Lisbon|, they can also be dismissed at the behest of the President. 
+/The *whole Commission* can be *dismissed* by the |Parliament|, if it carries a motion of censure - art 17(8) TEU. And in March 1999, they *all flounced off together*, having been damned in a report of a committee of the |Parliament| for mismanagement, fraud and nepotism.  
+SUMMARY ~*Powers*~
+/They are the *legislature* and the *executive*, and the '*guardian of union law*' - art 17(1) TEU.
+/*Legislative powers* - it has the absolute right to initiate legislation, by making a proposal to the |Council| - art 17(2), and can actively participate in their proceedings. It can also *pass implementing legislative measures* upon delegating from the Council. In a few circs., it can pass *its own* measures. 
+/*Executive powers* - administration of funds, spend the budget, and represent the EU to other _groups_ of states and traditing orgs. - art 207(3) and 218 |TFEU|.
+/As *guardians of union law*, the Commission can institute *infringement proceedings* against a member state it considers in default of its treaty obligations or of compliance with a judgment from the |Court| - art 260 |TFEU|. 
+
+
+
+NAME European Parliament
+TYPE Institution
+SUMMARY ~*Intention and Practicalities*~
+/To represent the *peoples of the EU*. The way in which each country elects its MEPs is not uniform, but always involves PR. Art 223 |TFEU| asks the Parliament itself to reform this. 
+/The number of MEPs each state sends is *not* perfectly in proportion to its population. Germany is underrepresented; Luxembourg, underrepresented.
+/The president is elected by secret ballot, by simple majority.
+/The admin is done in *Strasbourg*, but, *Ridiculously*, it sits in *both* Strasbourg and Brussels. 90% of MEPs want a single seat, 80% want Brussels. See _France v Parliament_ |C-238/11|. 
+SUMMARY ~*Powers*~
+/Each amendment of the treaties has conferred on it more powers, but it clearly plays third fiddle to |Council| and |Commission|. It can:
+/*Participate* in legislative process. How it does so depends on what's at issue. Note that it *cannot initiate legislation*. 
+/*Initiate annulment action* against Council and Commission - art 263(1) |TFEU|.
+/*Censure the Commission* by 2/3rds majority - art 234 |TFEU|. 
+/*Establish the Union's budget*.
+/*_Ask_ the Commission to submit measures*, if they feel it necessary to do so to implement the treaty objectives. This has no teeth: the Commission does not have to act on their request.
+/*Set up temporary committees of inquiry* to investigate corruption, etc. 
+
+NAME Court of Justice
+AKA ECJ; CJEU
+TYPE Institution
+
+SUMMARY No dissenting judgments, but a non-binding opinion of an Advocate-General.
+

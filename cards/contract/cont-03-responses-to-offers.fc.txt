@@ -1,0 +1,188 @@
+META filename herling-03-responses-to-offers.fc.txt
+
+
+
+
+
+
+NAME Responses to Offers
+CATEGORY Responses to Offers
+TYPE Concept
+SUMMARY *Counter-Offers*
+/_Counter-offer terminates offer -- |Hyde v Wrench|.  Enquiry does not -- |Stevenson v McLean|.  Even if enquiry is about a new term, even price, as long as not a proposal -- |Gibson - Counter-Offers|._
+/
+@A counter-offer terminates the offer to which it responds. |Hyde v Wrench|.
+@An enquiry following an offer which does not evince new terms does _not_ do so. |Stevenson, Jacques v McLean|.
+@As long as a response falls short of _proposing_ new terms, it may _enquire_ about them without being a counter-offer. |Gibson - Counter-Offers|.
+
+SUMMARY *Battle of the Forms*
+/_Last Ts&Cs presented and (tacitly) accepted govern -- |BRS v AVC|. Prospective annulation of further terms ineffective itself annulled by counter-offer -- |Ex-Cell-O|.  Intention as to whose Ts&Cs assessed objectively -- |Tekdata|._
+/
+@The last to present terms makes the offer, for which acceptance may be by conduct. |BRS v Arthur Crutchley|.
+@A term purporting to prospectively exclude imposition of other party's terms is good only for as long as not implicitly cancelled by other party's presentation of terms. |Butler v Ex-Cell-O|, Denning.
+@The parties' intentions about whose terms apply is a matter for objective evaluation, even if contradicted by prior dealing. |Tekdata v Amphenol|.
+
+
+SUMMARY *Withdrawal and Lapse*
+/_Offers open for a period may be withdrawn -- |Routledge v Grant|.  Unless offeree has an option -- |Mountford v Scott|.  Communication of withdrawal must be effective -- |Byrne v Van Tienhoven|.  Need not be direct -- |Dickinson v Dodds|. Expires after a reasonable time -- |Victoria Hotel v Montefiore|._
+/
+@An offer announcing open for a specific period may be validly withdrawn before the period expires. |Routledge v Grant|.
+@Unless the prospective offeree has in effect paid for an option. |Mountford v Scott|.
+@Withdrawal must be communicated to offeree(s) effectively, and the |postal rule| does not apply. |Byrne v Van Tienhoven|.
+@Such communication need not happen directly, but offeree must _know_ about it. |Dickinson v Dodds|.
++/_In |Byrne v Van Tienhoven|, offeree knew offer *was* intended; in |Dickinson v Dodds|, offeree knew it was *not*_.
+@Unilateral offers made publicly must be withdrawn in the same manner as they were made. |Shuey v US|.
+@An offer which makes no stipulation as to its period of validity nevertheless lapses after a reasonable time. |Ramsgate Victoria Hotel v Montefiore|.
+
+SUMMARY *Knowledge of Offer*
+/_Offeree's motive in accepting offer irrelevant -- |Williams v Carwardine|.  Identical cross-offers not a contract -- |Tinn v Hoffmann|.  No acceptance in ignorance of offer -- |R v Clarke|._
+/
+@The motive for which an offeree performs the action stipulated a unilateral contract _known_ to the offeree is irrelevant as to the validity of offeree's acceptance. |Williams v Carwardine|.
+@An offeree must know about the offer. |R v Clark|.
+@When identical offers are made by both parties but cross in the post, there is no acceptance, so no contract. |Tinn v Hoffmann|.
+
+SUMMARY *Acceptance In Unilateral Contracts*
+/_Traditionally -- when the action is fully performed.  Modern view -- may come when begins if action of significant detriment to offeree. |Errington v Errington|.  Except if action nugatory. |Luxor v Cooper|.  Offeror may not withdraw by nixing perf of action -- |Daulia v Four Millbank Nominees|._
+
+@A specified action being significantly long and detrimental goes in favour of finding the contract is binding when offeree _begins_ to perform. |Errington v Errington|, Denning.
+@By contrast, should the detriment in performing the action be insignificant, or amount to an ordinary business risk, the traditional view will prevail and require the action to be completed before parties are bound. |Luxor v Cooper|).
+@An offeror may not frustrate the action for acceptance in an effort to withdraw the offer. |Daulia v Four Millbank Nominees|.
+
+
+NAME Hyde v Wrench
+CITATION Hyde v Wrench (1840) 3 Beav 334
+CATEGORY Responses to Offers; Counter-Offer
+FLAGS Key
+HELD Responding to an offer with a suggestion of a lower price cancels the original offer and makes a new one. The original offer cannot then validly be accepted. 
+
+
+
+NAME Stevenson, Jacques v MacLean
+CITATION Stevenson, Jacques v MacLean (1880) 5 QBD 346
+CATEGORY Responses to Offers; Counter-Offer
+FLAGS Key
+HELD An enquiry in response to an offer is not a counter-offer, therefore does not terminate the original offer. The difference between a counter-offer and an enquiry may be discerned by asking whether the response leaves open the possibility of accepting the offer -- or shows an intention to modify the terms.
+
+NAME Gibson - Counter-Offers
+FLAGS Key
+CITATION Gibson v Manchester CC (Counter-Offers) [1978] 1 WLR 520
+CATEGORY Responses to Offers; Counter-Offer
+HELD A response to an offer _enquiring_ about the possibility of new terms rather than _proposing_ new terms, will not be a counter offer.
+
+
+
+NAME BRS v Arthur Crutchley
+AKA BRS v AVC
+CITATION BRS v Arthur Crutchley Ltd [1968] 1 All ER 811
+FLAGS Key
+CATEGORY Responses to Offers; Battle of the Forms
+HELD The last set of terms and conditions presented by a party will govern a contract, should the other party be deemed by conduct to have accepted them, as by doing so, the first party has proposed different terms, and has therefore made a counter-offer, annulling the first.
+
+
+
+NAME Butler v Ex-Cell-O
+AKA Ex-Cell-O
+FLAGS Key
+CITATION Butler Machine Tool Co Ltd v Ex-Cell-O Corp [1979] 1 WLR 401
+CATEGORY Responses to Offers; Battle of the Forms
+HELD Prospectively entrenching the operation one's own terms and conditions will only succeed in doing so while the offer of which they are a part is valid. As soon as the other party makes a counter-offer, the purported term ceases to have any relevance. 
+
+
+
+NAME Tekdata v Amphenol
+AKA Tekdata
+CITATION Tekdata Interconnections Ltd v Amphenol Ltd [2009] EWCA Civ 1209
+CATEGORY Responses to Offers; Battle of the Forms
+FLAGS Key
+HELD Modern authority for the standard analysis in 'battle of the forms' cases. The "last shot" wins even should there be contradictory evidence from the business context and the parties' prior dealings as to which set of terms and conditions _was_ intended to govern. 
+
+
+
+NAME Routledge v Grant
+CITATION Routledge v Grant (1828) 4 Bing 653
+CATEGORY Responses to Offers; Withdrawal and Lapse
+FLAGS Key
+HELD An offer valid for a certain period can nevertheless be withdrawn by the offeror before the period elapses -- who, there being no acceptance and consideration, is not bound.
+
+
+NAME Mountford v Scott
+CITATION Mountford v Scott [1975] All ER 198
+CATEGORY Responses to Offers; Withdrawal and Lapse
+FLAGS Key
+HELD If the prospective offeree of an offer valid during a certain period only has _paid_ for the chance to accept, then he has paid for an option to contract, and the principle offer cannot validly be withdrawn before the period elapses.
+
+
+
+NAME Byrne v Van Tienhoven
+CITATION Byrne v Van Tienhoven (1880) 5 CPD 344
+CATEGORY Responses to Offers; Withdrawal and Lapse
+HELD The withdrawal of an offer must be communicated to the offeree _effectively_. The postal rule does not apply to such communication. Were it to do so, the sender of an acceptance by post would not know whether the offeror had received it before sending a withdrawal.
+
+
+
+NAME Dickinson v Dodds
+CITATION Dickinson v Dodds (1876) 2 Ch 463
+CATEGORY Responses to Offers; Withdrawal and Lapse
+FLAGS Key; Treitel
+HELD Communication to the offeree of an offer's withdrawal may be indirect, as long as the offeree knows of it. Should such an offeree then purport to accept, doing so would itself demonstrate the absence of a consensus ad idem, and could not therefore be effective.
+
+
+NAME Shuey v United States
+CITATION Shuey v United States (1865) 92 US 73
+CATEGORY Responses to Offers; Withdrawal and Lapse
+FLAGS Key
+HELD An offer made publicly will be held to have been validly withdrawn, if done so by the same means. There is no requirement, however, that such withdrawal should have been seen by anyone in particular, e.g., someone engaged in performing the action for the offer's acceptance.
+
+
+NAME Victoria Hotel v Montefiore
+CITATION Ramsgate Victoria Hotel v Montefiore (1866) LR 1 Ex 109
+CATEGORY Responses to Offers; Withdrawal and Lapse
+HELD An offer that is not explicitly of validity for a limited period will nevertheless be deemed to have elapsed, invalidating a purported acceptance coming much later.
+
+
+NAME Williams v Carwardine
+CITATION Williams v Carwardine (1833) 5 C & P 566
+CATEGORY Responses to Offers; Acceptance; Knowledge of Offer
+HELD An action conforming to the requirement for acceptance of a unilateral offer was held to have accepted the contract, even though the person was unaware of the offer. 
+
+
+NAME Tinn v Hoffman
+CITATION Tinn v Hoffman & Co (1873) 29 LT 271
+CATEGORY Responses to Offers; Acceptance; Knowledge of Offer; Cross-offers
+SUMMARY Parties treated by post about sale of 800 tons of iron. One party sent letter offering sale at 69s/ton. Before that letter arrived, the other party sent letter offering purchase at 69s/ton. Second letter held by majority of court to be counter offer. But in obiter, judgement that offers crossed in the post do not form a contract. Further communication would have been necessary (from either party) for a contract.
+SUMMARY Blackburn J expressed the opinion that it would go against established practice to admit this concatenation of circumstances as a contract.
+SUMMARY Honeyman J dissented, as the parties were plainly ad idem.
+SUMMARY The impression is given that the concrete of the principles of contract law had not, by this time, wholly firmed and dried.
+HELD Functionally identical crossed-offers do not form a contract.
+
+
+
+NAME R v Clarke
+CITATION R v Clarke (1927) 40 CLR 227
+CATEGORY Responses to Offers; Acceptance; Knowledge of Offer
+FLAGS McKendrick
+HELD A unilateral contract cannot be validly accepted by someone unaware of its existence -- especially if they happen to be a wanted man.
+
+
+
+NAME Luxor v Cooper
+CITATION Luxor (Eastbourne) Ltd v Cooper [1941] AC 108
+CATEGORY Responses to Offers; Acceptance; In Unilateral Contracts
+FLAGS Key
+HELD The traditional view, that a unilateral offer is validly accepted when its specified action is _complete_, will prevail when the action entails no significant detriment to the offeree distinguishable from an _ordinary business risk_.
+
+NAME Errington v Errington
+CITATION Errington v Errington and Woods [1952] 1 KB 290
+CATEGORY Responses to Offers; Acceptance; In Unilateral Contracts
+FLAGS Key; Denning
+HELD Should the action for acceptance of a unilateral offer entail a significant detriment to the offeree, then the offer may be deemed to have been accepted when its performance _begins_ -- by contrast to the traditional approach, in which acceptance occurs when the action is complete.
+
+
+NAME Daulia Ltd v Four Millbank Nominees Ltd
+CITATION Daulia Ltd v Four Millbank Nominees Ltd [1978] Ch 231
+CATEGORY Responses to Offers; Acceptance; In Unilateral Contracts
+FLAGS Key
+HELD Once the offeree has started to perform the action for acceptance of a unilateral offer, its offeror may not effect withdrawal by scotching the offeree's performance.
+
+
+

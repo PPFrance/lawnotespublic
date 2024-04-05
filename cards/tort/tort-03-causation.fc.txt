@@ -1,0 +1,208 @@
+NAME Causation - The But For Test
+TYPE Concept
+AKA But For
+CATEGORY Negligence; Causation
+SUMMARY To recover damages, the claimant _generally_ has to show the breach of duty was in _fact_ a cause of the damage. I.e., _but for_ the breach of duty, on a balance of probabilities, the damage would not have occurred. The cases to go for are |Barnett v Chelsea and Kensington Hospital| and |Hotson v East Berkshire|.
+SUMMARY But there is |Causation - The Fairchild Exception|. 
+SUMMARY Note the slapstick hunter cases like |Cook v Lewis|, then |Sindell v Abbott Laboratories|, in which the strict application of _but for_ would have led to perverse outcomes.
+
+NAME Causation - Reading
+TYPE Reading
+CATEGORY Negligence; Causation
+SUMMARY ~*Essential*~
+SUMMARY Steele, _Tort Law_ (Oxford, 14th Ed) pp. 167-182, 216-268
+SUMMARY |Barnett v Chelsea and Kensington Hospital| -- |Hotson v East Berkshire| -- |Wilsher v Essex AHA| -- |McGhee v National Coal Board| -- |Fairchild v Glenhaven| -- |Chester v Afshar| -- |Gregg v Scott| -- |Cox v Ministry of Justice| -- |Sanderson v Hull| -- |Wooten v J Docter| -- |Barker v Corus| -- |Compensation Act 2006| -- |Sienkiewicz v Greif|.
+SUMMARY ~*Additional*~
+SUMMARY A. Kramer, _Smoothing the Rough Justice of the Fairchild Principle_ (2006) 122 LQR 547 <BR>T. Clark and D. Nolan, _A critique of Chester v Afshar_ (2014) 34 OJLS 659<BR>E. Peel, _Loss of a Chance in Medical Negligence_ (2005) 121 LQR 364<BR>J. Stapleton, _Factual Causation, Mesothelioma and Statistical Validity_ (2012) 128 LQR 221<BR>S. Steel and D. Ibbetson, _More Grief on Uncertain Causation in Tort_ (2011) 70 CLJ 451 <BR>T. Weir, _Making it More Likely v. Making it Happen_ 61 (2002) CLJ 519
+SUMMARY |Cook v Lewis| -- |Sindell v Abbott Laboratories| -- |Baker v Willoughby| -- |Jobling v Associated Dairies|.
+
+
+
+NAME Barnett v Chelsea and Kensington Hospital
+YEAR 1968
+COURT EWHC
+FLAGS Key; Important; EPLR
+CITATION Barnett v Chelsea & Kensington Hospital Management Committee [1968] 2 WLR 422
+CATEGORY Negligence; Causation; But For Test
+CATEGORY Negligence; Clinical Negligence
+SUMMARY A night-watchman at a student hall of residence was given some tea containing, unfortunately, an lethal dose of arsenic. He went to hospital, but was cursorily sent away on the supposition that he was merely _drunk_. His widow sued in negligence. 
+HELD For a cause of action in negligence, the negligent action must be a _but for_ cause of the harm. 
+HELD The claimant would have died even had he been diagnosed swiftly and given an antidote. The breach by the doctor, therefore, was not the  _but for_ cause of death.
+
+NAME Hotson v East Berkshire
+YEAR 1987
+CITATION Hotson v East Berkshire AHA [1987] UKHL AC 50
+COURT UKHL
+FLAGS Key; EPLR
+CATEGORY Negligence; Causation; But For Test
+CATEGORY Negligence; Clinical Negligence
+SUMMARY A 13-year-old boy fell some 12 feet out of a tree he'd been climbing and injured his hip. He was given incorrect treatment for five days, and developed a permanent disability from the vascular necrosis that developed. The trial judge, hearing evidence that there was a 75% chance he would have suffered the disability _anyway_, awarded 25% damages.
+HELD Non-optimal treatment resulting in the _loss of a chance of improvement_ from an injury does _not_ give a cause of action in negligence.
+HELD The claimant had failed to establish the breach was the _but for_ cause, so the claim failed.
+
+NAME Wilsher v Essex AHA
+CITATION Wilsher v Essex Area Health Authority [1988] UKHL AC 1074
+YEAR 1988
+COURT UKHL
+FLAGS Important; EPLR
+CATEGORY Negligence; Causation; But For Test
+CATEGORY Negligence; Clinical Negligence
+SUMMARY The claimant was born prematurely and needed oxygen -- but unfortunately was given too much, to such an extent, it was claimed, of making him go blind. 
+HELD For liability in negligence, it must be able to be said that the defendant's conduct was either a _but for_ cause, or a _material contribution_ to the harm.
+HELD The blindness could have in fact been caused by five things, and the claimant failed to show on the balance of probabilities the oxygen was the _but for_ cause.
+HELD In the minority, Mustill LJ -- conduct in breach of a common law duty that _materially adds_ to the risk of injury, and if the injury is the kind to which the conduct related, then the defendant is taken to have caused the injury even though the existence and extent of the contribution made by the breach cannot be ascertained.
+
+NAME Causation - The Fairchild Exception
+TYPE Concept
+AKA Fairchild Principle
+CATEGORY Negligence; Causation; Fairchild
+SUMMARY ~*The Fairchild Principle*~ (sometimes, the _McGhee/Fairchild Principle_)
+/Established by |McGhee v National Coal Board| and more definitively in |Fairchild v Glenhaven|, this broadens the scope for successful claims in exceptional cases where _but for_ would lead to a perverse outcome. 
+/When |Fairchild| applies, the court looks for an *increase in material risk*.  
+SUMMARY ~*Quantification of damages*~
+/Happens according to the likelihood the breach caused the harm -- per Lord Hoffman in |Barker v Corus|.
+SUMMARY See also |Cook v Lewis|, |Barnett v Chelsea and Kensington Hospital|, |Hotson v East Berkshire|, |Wilsher v Essex AHA|, |Fairchild v Glenhaven|, |Baker v Willoughby|, |Barker v Corus|.
+
+NAME Cook v Lewis
+CITATION Cook v Lewis [1951] SCR 83
+YEAR 1988
+COURT Canada SC
+CATEGORY Negligence; Causation; Exceptions; Pragmatism
+SUMMARY Two hunters had fired shotguns simultaneously in the direction of the claimant, of whose presence they were presumably unaware. The claimant was hit by _a single_ pellet. So which hunter to blame?
+HELD Would be unfair to apply the _but for_ test in such situations. The claimant had been injured, and both possible firers were negligent. So the court found them both liable.
+
+NAME Sindell v Abbott Laboratories
+CITATION Sindell v Abbott Laboratories, 26 Cal. 3d 588 (1980)
+COURT California SC
+YEAR 1980
+CATEGORY Negligence; Causation; Exceptions; Market Share Rule
+FLAGS Test
+SUMMARY Claimant injured by exposure to diestrylsilbestrol (DES); developed cancer. This (fungible) stuff had been manufactured by about 200 different manufacturers. So which of them had made the dose that gave her cancer?
+HELD Court held each manufacturer liable in accordance with its market share for the drug; that the manufacturers were better able to bear the costs of cancer treatment.
+REMARK The occasional departure from the _but for_ test, particularly in this circumstance, encourages manufacturers to behave themselves.
+
+NAME Baker v Willoughby
+CITATION Baker v Willoughby [1969] UKHL 8 
+COURT UKHL
+YEAR 1970
+FLAGS Criticised
+CATEGORY Negligence; Causation; Exceptions; Supervening Acts and Combined Events
+SUMMARY The claimant was injured twice: once whilst crossing the road -- run over, his left leg injured. Couldn't do his job any more, but found work in a scrap metal yard. But then injured again during an attempted robbery -- shot in the same leg, which had to be amputated. Sued the driver of the car that caused the first injury.
+HELD The supervening gunshot should be ignored, and damages awarded on that basis, fully compensating for the injury tortiously inflicted. The gunman, were he to be apprehended, would then be liable for the difference between a gammy leg and no leg at all.
+
+NAME Jobling v Associated Dairies
+CITATION Jobling v Associated Dairies [1982] UKHL AC 794
+COURT UKHL
+YEAR 1982
+FLAGS Criticised
+CATEGORY Negligence; Causation; Exceptions; Supervening Acts and Combined Events
+SUMMARY The claimant, who worked in a butcher's shop, had slipped over and injured his back in 1973, reducing his capacity to earn by 50%. Then an _unrelated condition_ which rendered him unable to work at all. He sued, and the trial judge applied |Baker v Willoughby|. 
+HELD The supervening injury could not be disregarded, as it did not arise from a tort. 
+
+NAME McGhee v National Coal Board
+CITATION McGhee v National Coal Board [1972] UKHL 3 All ER 1008
+COURT UKHL
+YEAR 1972
+FLAGS Criticised; EPLR
+CATEGORY Negligence; Causation; Fairchild
+SUMMARY Claimant worked in hot and dusty conditions without anywhere to wash. Plus he commuted on his bike, so got very sweaty. Developed bad dermatitis. Sued, claiming the duty of care owed by his employer had been breached in providing no washing facilities. 
+HELD There had indeed been a breach, but it was unclear whether it was the _but for_ cause of the damage. Nevertheless, as the breach _materially increased the risk_ of the damage, the claim was allowed. Lord Wilberforce held a departure from the _but for_ test to be  appropriate, as there was no way of quantifying the extent to which the breach caused the damage.
+
+NAME Fairchild v Glenhaven
+AKA Fairchild
+CITATION Fairchild v Glenhaven Funeral Services Ltd [2002] UKHL 22
+YEAR 2002
+COURT UKHL
+FLAGS Key; Leading; EPLR
+CATEGORY Negligence; Causation; Fairchild; Mesothelioma
+SUMMARY The claimant(s) had developed mesothelioma as a result of exposure to asbestos at the defendant's premises. However, he'd also been exposed to the stuff elsewhere. 
+HELD A _material contribution_ to the harm, in exceptional circumstances, gives rise to actionable liability in negligence.
+HELD Lords Bingham and Rogers each listed six requirements for the courts to depart from the _but for_ test. 
+HELD Lord Nichols called for 'restraint', adding that policy considerations will still loom large.
+
+NAME Chester v Afshar 
+CITATION Chester v Afshar [2004] UKHL 41
+YEAR 2004
+COURT UKHL
+FLAGS Important; EPLR
+CATEGORY Negligence; Causation; Fairchild
+CATEGORY Negligence; Clinical Negligence
+SUMMARY The claimant had undergone surgury with an inherent risk _about which she had not been informed_, and suffered a Cauda Equina lesion as a result, a nasty neurological injury. The claimant admitted, however, that she couldn't honestly say that she wouldn't have had the surgery anyway.
+HELD By 3-2 majority, on the facts, she only had to prove she may have had the surgery at a *later date* (having fully understood and evaluated the risks) rather than that she would not have had the surgery at all, for the claim to succeed. Also that it was important to send a message to surgeons about importance of warning patients of surgical risks.
+HELD Lord Steyn -- 'standing back from the detailed arguments, I have come to the conclusion that, as a result of the surgeon's failure to warn the patient, she cannot be said to have given informed consent to the surgery in the full legal sense.'
+
+NAME Gregg v Scott
+CITATION Gregg v Scott [2005] UKHL 2
+YEAR 2005
+COURT UKHL
+FLAGS Leading; Important; EPLR; Floodgates
+CATEGORY Negligence; Causation; Fairchild
+CATEGORY Negligence; Clinical Negligence
+SUMMARY The claimant had gone to his GP complaining of a lump, and been sent away. A year later, referred by another GP to an oncologist who found the lump was malignant. Sued the original GP, attempting to apply |Fairchild|.
+HELD As the chances of surviving were reduced from 42% to 10% by the first GP's negligence, it could not be said that on the balance of probabilities he would have survived _but for_ the negligence. The court was also wary of opening the floodgates to claims against GPs.
+
+NAME Bailey v MOD
+CITATION Bailey v Ministry of Defence [2008] EWCA Civ 883
+YEAR 2008
+COURT EWCA
+FLAGS Key; Leading; EPLR
+CATEGORY Negligence; Causation; Fairchild; Supervening Acts and Combined Events
+CATEGORY Negligence; Clinical Negligence
+SUMMARY A patient with gallstones was admitted to a hospital run by the defendants. A whole series of negligent events ensued, the end result of which was serious brain damage.
+HELD Although the claim would fail the _but for_ test on examination of each instance of negligence, the court applied |Fairchild| and ruled the significant increase in _material risk_ caused by the the defendant hospital was sufficient to establish causation.
+
+NAME Sanderson v Hull
+CITATION Sanderson v Hull [2008] EWCA Civ 1211
+YEAR 2008
+COURT EWCA
+FLAGS EPLR; Criticised
+CATEGORY Negligence; Causation; Fairchild
+SUMMARY Claimant an employee of defendant in a poultry farm, who contracted a zoonotic infection she claimed was due to negligence of the employer. Claimed on |Fairchild| grounds, won at first instance.
+HELD Could not prove that breach of duty probably called her infection, and that the trial judge had given no explanation for applying |Fairchild|, which is for exceptional cases.
+
+NAME Wooten v J Docter
+CITATION Wooten v J Docter [2008] EWCA Civ 1361
+YEAR 2008
+COURT EWCA
+FLAGS Important; EPLR
+CATEGORY Negligence; Causation; Fairchild
+CATEGORY Negligence; Clinical Negligence
+SUMMARY The claimant sued a pharmacy that had dispensed her a different kind of contraceptive pill than the one she'd been prescribed. She inadvertantly became a mother, and claimed for the costs involved (!), and the loss of earnings incurred by having suffered from post-natal psychosis. At first instance, she presented expert evidence that her risk of pregnancy had been increased by the (negligently-supplied) pill, but lost. 
+HELD There was ample (competing) expert evidence on which the first-instance decision had been based; her claim was denied.
+
+NAME Barker v Corus
+CITATION Barker v Corus (UK) [2006] UKHL 20
+YEAR 2006
+COURT UKHL
+FLAGS Key; Leading; Important
+CATEGORY Negligence; Causation; Fairchild; Mesothelioma; Quantification of Damages
+SUMMARY As in |Fairchild|, this action was brought by the sufferers, and estates of sufferers, of mesothelioma.
+HELD Whereas in |Fairchild|, the employers were held _jointly and severally_ liable, here, each was held liable according to their contribution to the harm. "The harm may be indivisible, but the material contribution to the risk can be divided."  
+/->-The implication of both |Fairchild| and this case -- that the _damage_ in negligence could validly be the _risk of damage_, was nipped in the bud in the Supreme Court in |The Trigger Litigation|.
+HELD Lord Walker -- the 'loss of a chance' approach from |Gregg v Scott| went too far. The |Fairchild| principle is to be restricted to mesothelioma cases.
+HELD Lady Hale -- it is _not_ that each potential defendant caused or materially contributed to the harm -- only that each has materially contributed to the _risk of harm_. 
+
+
+NAME Compensation Act 2006
+TYPE Statute
+LEGILINK http://www.legislation.gov.uk/ukpga/2006/29/section/1
+WIKILINK https://en.wikipedia.org/wiki/Compensation_Act_2006
+CATEGORY Negligence; Causation; Fairchild; Mesothelioma
+SUMMARY ~*Damages in Mesothelioma*
+SUMMARY *S4* 'in determining the extent of contributions of different responsible persons in accordance with subsection *(3)(a)*, a court shall have regard to the relative lengths of the periods of exposure for which each was responsible; but this subsection shall not apply
+/*(a)* if or to the extent that responsible persons agree to apportion responsibility amongst themselves on some other basis, or
+/*(b)* if or to the extent that the court thinks that another basis for determining contributions is more appropriate in the circumstances of a particular case.' 
+SUMMARY See |Sienkiewicz v Greif|.
+
+NAME Sienkiewicz v Greif
+CITATION Sienkiewicz v Greif (combined appeals) [2011] UKSC 10
+YEAR 2011
+COURT UKSC
+CATEGORY Negligence; Causation; Fairchild; Mesothelioma; Quantification of Damages
+FLAGS Leading; Key
+SUMMARY How should S3 |Compensation Act 2006| apply? The claimant's mother had died of mesothelioma, having been exposed to asbestos dust for several years while working for the defendant. Although there was a low level of asbestos dust in the atmosphere, which could also have caused the cancer.
+HELD The risk had been increased by only 18%. The claim would fail on |but for| grounds -- however, the |Fairchild Principle| was applied, albeit that here, _the other defendant was the atmosphere_. S3 |Compensation Act 2006| could _not_ be invoked, however, as it was not proven the risk had doubled, which is the statutory stipulation. 
+
+
+
+#End of causation, thank fuckery.

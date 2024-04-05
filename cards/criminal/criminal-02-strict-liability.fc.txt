@@ -1,0 +1,46 @@
+TYPE-DEFAULT Concept
+CATEGORY-DEFAULT $CARDNAME
+
+NAME Strict Liability
+CATEGORY Elements
+SUMMARY Offences are either _mala per se_ or _mala prohibita_ (|Sweet v Parsley| per Diplock and Reed). 
+@Necessity of |mens rea| is _strongly presumed_ without _compellingly clear_ evidence for leaving it aside (|B (a minor) v DPP|)
+@Strict liability encourages vigilance (|Jackson| 2006).
+@A profusion of new statutory offences under Blair.
+
+SUMMARY *Examples*
+@Not ensuring your children go to school (|Barnfather|).
+@Gambling while insolvent (|Muhammed| 2003).
+@Importing ivory (|Matudi| 2003).
+@Flying just above the ground (|Jackson| 2006)
+@Possessing a _stun gun_, even if you "honestly thought" it was a torch (|Deyemi and Another| 2007)
+@Statutory rape (|R v G|)
+
+SUMMARY *Determination*
+/|B (a minor) v DPP| per Lords Nicholls and Steyn, factors for telling strict from non-strict:
+@Language of statute -- _permitting_ or _allowing_ imply strict liability in context of driving; as does _causing_ for pollution offences; _possessing_ for drugs.
+@@Cf. _wilfully_, _maliciously_, etc.
+@@Rule of thumb -- the smaller the penalty, the more likely to be strict liability -- but N.B., possession of a firearm, for which a substantial helping of porridge is the condign reward. 
+@Nature of the offence
+@Mischief it addresses
+@"Other relevant circumstances"
+
+SUMMARY *Defences -- Ignorance of Fact*
+@Drugs slipped into D's pocket without their knowledge may excuse strict liability possession (|Warner|)
+@Also "not knowing" about dope in the rooms of D's lodgers (|Sweet v Parsley|) 
+
+SUMMARY *Defences -- Honest, Mistaken Belief*
+@May succeed for sexual offences for which _facts stray into margins of mischief_ of strict liability offence (|B (a minor) v DPP|).
+@The belief _may_ not need to be reasonable (|R v G| 2008).
+
+SUMMARY *Pros*
+@Speeds up criminal justice
+@Promotes vigilance in matters of road safety, pollution, hygiene, etc.
+@Lack of stigma as not "true" crime.
+
+SUMMARY *Cons*
+@@Uses criminal law for policy goals.
+@@Criminal convictions _do_ stigmatise
+@@@In some circs may cause perverse swellings of honour and pride in the breast of the defendant -- ASBOs.
+@@Conduct in question (usually of negligible significance, taken individually) ought to be disaggregated from "true" crime.
+

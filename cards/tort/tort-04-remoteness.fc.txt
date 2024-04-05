@@ -1,0 +1,207 @@
+NAME Remoteness
+TYPE Concept
+CATEGORY Negligence; Remoteness
+SUMMARY The damage caused by the negligence must *not be too remote* in the chain of causation.
+SUMMARY W.V.H Rogers in _Winfield and Jolowicz on Tort_ -- 'any student expecting a scientific analysis of this principle will be grievously disappointed.' Yeah.
+SUMMARY The cases are vague and often invoke _common sense_ and _instinct_. 
+SUMMARY A *new intervening act* of a third party generally *breaks the chain of causation* -- |The Sivand|, |Lamb v Camden|, |Knightly v Johns|.
+SUMMARY Such an act *done by the claimant* _may_ do so -- |McKew v Holland|, |Wieland v Cyril Lord Carpets|, |Spencer v Wincanton Holdings|, |Emeh|, |Reeves v The Met|. 
+/*Except* when the tort interfered with the claimant's mental (stability or) health, in which case the standard is not *reasonableness* but *foreseeabiity* -- |Meah v McCreamer|, |Gray v Thames|, |Corr v IBC|.
+SUMMARY *Foreseeability* -- if the type of harm *was* foreseeable, the chain of events bringing it about can be obtuse and itself *improbable* without defeating liability -- |Hughes v Lord Advocate|, |Jolley v Sutton|. 
+SUMMARY The *extent* may be disproportionately great -- but if of a reasonably foreseeable type, the defendant will be liable -- |Smith v Leech Brain|.
+SUMMARY *Ommissions* are generally *less likely* to *break the chain of causation* than *commissions* -- |Knightly v Johns|.
+
+NAME Remoteness - Reading
+TYPE Reading
+CATEGORY Negligence; Remoteness
+SUMMARY ~*Essential*~
+SUMMARY Steele _Tort Law_, p.182-215 
+SUMMARY |Lamb v Camden| -- |Knightly v Johns| -- |McKew v Holland| -- |Reeves v The Met| -- Gray v Thames Trains| -- |Corr v IBC| -- |The Wagon Mound (no 1)| -- |Hughes v Lord Advocate| -- |Jolley v Sutton LBC| -- |Smith v Leech Brain|.
+SUMMARY ~*Additional*~
+SUMMARY R. Dias, _Remoteness of Liability and Legal Policy_ [1962] CLJ 178<BR>M. Staunch, _Risk and Remoteness of Damage in Negligence_ (2001) 64 MLR 191<BR>T. Weir, _Suicide in Custody_ (1998) 57 CLJ 241
+SUMMARY |Wieland v Cyril Lord Carpets| -- |Spencer v Wincanton Holdings| -- |Emeh| -- |Meah v McCreamer| -- |Meah v McCreamer (no 2)| -- |Doughty v Turner Manufacturing|.
+
+
+
+
+
+NAME The Sivand
+YEAR 1998
+CITATION Humber Oil v The Owners of the Ship 'The Sivand' [1998] EWCA Civ 100
+CATEGORY Negligence; Remoteness; New Intervening Act
+FLAGS Important
+SUMMARY The defendant's boat damaged harbour installations as a result of negligent handling. The claimant then engaged contractors to carry out repairs under a contract with _standard Institute of Chartered Engineers terms_, stipulating an extra payment if unforeseen events occurred which an experienced engineer could not have reasonably foreseen. An unforeseen event occurred -- a bit of the seabed, on which a load-bearing strut had been placed, collapsed causing damage. The claimant sued for the extra sum due under the contract. The defendant argued there had been a new intervening act. 
+HELD An intervening act can be construed as the _effective cause_ of the damage when it is independent of the negligent conduct. 
+HELD per Evans LJ -- when the independent act of a 3rd party is properly regarded as the effective cause of the damage... then that is because the intervening act was independent... This... is a question of _fact_, to be answered on a _common sense_ basis... although considerations both of negligence and reasonable foreseeability may be relevant.
+
+
+NAME Lamb v Camden
+YEAR 1981
+CITATION Lamb v Camden LBC [1981] 2 All ER 408
+COURT EWCA
+FLAGS Key; Denning; EPLR
+CATEGORY Negligence; Remoteness; New Intervening Act
+SUMMARY The claimant had rented out her house in Camden. The defendant, working on the street, struck a water main, and the foundations of the claimant's house were damaged. As a result, the occupants had to vacate. And then what happened was that _squatters_ took possession and trashed the place. 
+HELD New intervening _squatters_ had broken the chain of causation, so the claim was allowed for the flood damage but not for the squatter damage. 
+HELD Denning LJ, in effect -- _you ought to have taken out insurance, darlin'.
+HELD Watkin LJ, in effect -- allowing the claim for the squatter damage would be to absolve them of responsibility for their actions.
+
+NAME Knightly v Johns 
+TYPE Case
+YEAR 1982
+COURT EWCA
+FLAGS Important; Amusing; EPLR
+CITATION Knightly v Johns [1981] EWCA Civ 6
+CATEGORY Negligence; Remoteness; New Intervening Act; Police
+SUMMARY The defendant had caused a crash in a one-way tunnel. Police turned up to deal with it. But the officer in charge _forgot to seal off the tunnel_, and told the claimant, another policeman, to go back against the flow of traffic and shut off the tunnel. Not surprisingly, he was hit by a car. Was it too remote to blame the driver who'd caused the accident?
+HELD The claim failed, as there had been not one but two intervening acts of negligence, by the officer in charge.
+COMMENT Why are policemen sometimes such phenomenal numpties?
+
+NAME McKew v Holland
+COURT UKHL
+YEAR 1969
+CITATION McKew v Holland & Hannen & Cubitts (Scotland) Ltd [1969] 3 All ER 1621
+CATEGORY Negligence; Remoteness; New Intervening Act; Personal Injury
+FLAGS Amusing; EPLR
+SUMMARY The claimant had fallen over at work, resulting in his leg giving way occasionally, without warning. Then he had a rather nasty domestic fall. In order to avoid crushing his daughter, who he was carrying, he *threw her back up the stairs*. And then, in what was presumably a display of balletic slapstick worthy of Rick Mayall in _Bottom_, ended up at the bottom of the stairs with a broken leg.
+HELD Having suffered an injury, a claimant will not be said to be acting reasonably if he does not take account of his condition in his conduct.
+HELD He had behaved unreasonably in the way he went down the stairs. He ought to have realised he could only go down the stairs safely with assistance, or very slowly. The judgement castigated him in different and interesting ways.
+
+NAME Wieland v Cyril Lord Carpets
+YEAR 1969
+COURT EWHC
+CITATION Wieland v Cyril Lord Carpets [1969] EWHC 3 All ER 1006
+CATEGORY Negligence; Remoteness; New Intervening Act; Personal Injury
+SUMMARY The claimant suffered a neck injury due to the defendant's negligence. She was taken to hospital and given a neck collar, which meant she couldn't use her bifocals with, as the judge put it, 'her usual skill.' Shaken up and in need of tea and sympathy, she went to her son's workplace to be looked after. And there, she fell over, going down the stairs.
+HELD The claim succeeded: the fall was not too remote a consequence. 
+HELD Eveleigh J: If foreseeability is required, it is enough if it is foreseeable that one injury may affect a person's ability to _cope with the vicissitudes of life_ and thereby be the cause of another injury.
+HELD Cf. |McKew v Holland|.
+
+NAME Spencer v Wincanton Holdings
+YEAR 2009
+COURT EWCA
+CITATION Spencer v Wincanton Holdings Ltd [2009] EWCA Civ 1404
+CATEGORY Negligence; Remoteness; New Intervening Act; Personal Injury
+CATEGORY Negligence; Remoteness; Defences; Contributory Negligence
+FLAGS Amusing
+SUMMARY The claimant was injured in a minor accident. But the injury got worse and worse, and after three years, he had to have a leg lopped off. For this, the defendant accepted liability. But then, one day, in a petrol station, _in a hurry_, got out of his car without neither walking stick nor prosthesis, felt his way to the pump, filled up, went back to car, tripped over a manhole cover and knackered up his other leg. Claimed against the original defendant, citing |McKew v Holland|. 
+HELD The court distinguished |McKew v Holland|, and upheld the claim, albeit with reduced damages.
+COMMENT Jesse Elvin raises an eyebrow to the idea that there were genuine grounds for distinction from |McKew v Holland|.
+
+NAME Emeh v Kensington & Chelsea
+AKA Emeh
+YEAR 1984
+COURT EWCA
+FLAGS Overruled
+CITATION Emeh v Kensington & Chelsea AHA [1984] EWCA 3 All ER 1044
+CATEGORY Negligence; Remoteness; New Intervening Act; Personal Injury; Unwanted Pregnancy
+CATEGORY Negligence; Clinical Negligence
+SUMMARY The claimant had undergone an (elective) sterilization performed by the defendant hospital, but not altogether successfully, as she discovered some time later, when she realised she was heavily pregnant. Offered an abortion, she declined, fearful of the risks. The baby, unfortunately, was born severely disabled. 
+SUMMARY She claimed for the harm of having become a mother. At trial, she was awarded damages for the pregnancy _up to the point it was discovered_, and for a (second) sterilization op, on the basis that her unreasonable refusal to have an abortion was a new intervening act.
+HELD Omitting to have an _abortion_, on discovering that because of a tort you were pregnant, would not be a new intervening act breaking the chain of causation.
+HELD The defendant ought to have foreseen that, should she become pregnant through their negligence, she may wish to keep the child. The courts should never declare that a woman in the claimant's position should have an abortion.
+
+NAME Reeves v The Met
+YEAR 1999
+COURT UKHL
+FLAGS Important; EPLR
+CITATION Reeves v Metropolitan Police Commissioner [1999] 3 All ER 897
+CATEGORY Negligence; Remoteness; New Intervening Act; Suicide
+SUMMARY The claimant was the estate of a police-cell suicide. The claim was that the police owed a duty to people they incarcerate in cells to prevent them from killing themselves. The poor chook had hanged himself from the hatch in the door. At trial, the judge agreed a duty of care had been owed. In the Lords, the defendant admitted the breach but argued there had been a new intervening act by the claimant.
+HELD There was contributory negligence by the defendant... in having killed himself, so damages reduced to 50%.
+
+NAME Meah v McCreamer
+COURT EWHC
+YEAR 1985
+CITATION Meah v McCreamer [1985] EWHC 1 All ER 367
+CATEGORY Negligence; Remoteness; New Intervening Act
+CATEGORY Negligence; Remoteness; Defences; Ex Turpi Causa
+FLAGS Important; Amusing
+SUMMARY The claimant, a passenger in the defendant's car, was seriously injured when the car crashed. Both were drunk. The claimant underwent a personality change -- from just a drunk, to _a violent criminal_. He attacked and sexually assaulted two women, for which he was given life in stir. He sued the driver for the personality change, claiming it was ultimately caused by their negligence. He won.
+HELD A claim for the damage of a personality change and resulting imprisonment for a crime committed as a consequence may succeed, where the personality change arose as a consequence of an injury caused by the defendant's negligence.
+HELD His claim was allowed, but the damages were extremely low-balled to reflect the fact that he was *in receipt of free accommodation*. See also |Meah v McCreamer (no 2)|
+
+NAME Meah v McCreamer (no 2)
+YEAR 1986
+COURT EWHC
+CITATION Meah v McCreamer (no 2) [1986] EWHC 1 All ER 943 
+CATEGORY Negligence; Remoteness; New Intervening Act
+CATEGORY Negligence; Remoteness; Defences; Ex Turpi Causa
+SUMMARY The claimant sued to recover his costs from pursuing |Meah v McCreamer|. 
+HELD Sueing someone to recover your costs of sueing them, especially if you're a murderer, will be seen as too remote from the original damage.
+
+NAME Gray v Thames
+YEAR 2009
+COURT UKHL
+CITATION Gray v Thames Trains [2009] UKHL 33
+CATEGORY Negligence; Remoteness; New Intervening Act
+CATEGORY Negligence; Remoteness; Defences; Ex Turpi Causa
+FLAGS Leading; Important; EPLR; Train Crash
+SUMMARY Through the defendant's negligence which caused the Ladbroke Grove train crash, the claimant suffered PTSD and personality changes. He killed someone and was detained in a psychiatric hospital. He claimed for what he called *total loss*. By this he meant loss -- of reputation, liberty, feeling of wellbeing; also for indemnity against any claims potentially to be brought against him by the family of the person he'd killed; loss of future earnings, etc. What a badass mofo. 
+SUMMARY At first instance, his claim was rejected on the basis that there is no cause of action when something illegal or immoral has been done -- like, just for instance, killing someone. _Ex turpi causa non oritur actio_.
+HELD _Ex turpi causa_ precludes recovery of general damages.
+
+
+NAME Corr v IBC
+YEAR 2008
+COURT UKHL
+FLAGS Important; EPLR
+CITATION Corr v IBC Vehicles Ltd [2008] UKHL 13
+CATEGORY Negligence; Remoteness; New Intervening Act; Suicide; 
+SUMMARY A man who'd suffered a severe injury and subsequent depression due to the defendant's negligence, committed suicide. His wife sued; the defendant claimed the damage was too remote.
+HELD The suicide of a man whose depression arose through suffering a serious injury as a result of negligence is not too remote from the negligence to preclude recovery. 
+HELD Lord Bingham -- 'Mr Corr's suicide was not a voluntary, informed decision taken by him as an adult of sound mind making and giving effect to a personal decision about his future. It was *the response of a man suffering from a severely depressive illness* which impaired his capacity to make reasoned and informed judgments about his future, such illness being, as is accepted, a consequence of the employer's tort.'
+
+
+NAME Foreseeability
+TYPE Concept
+CATEGORY Negligence; Foreseeability
+SUMMARY The type of harm resulting from the negligence must be *reasonably foreseeable* and *not too remote* -- |The Wagon Mound (no 2)|.
+SUMMARY If the type of harm is reasonably foreseeable it doesn't have to be clear how it is reasonably foreseeable- the sequence of events by which the injury was brought about need not be -- |Hughes v Lord Advocate|, |Jolley v Sutton|, but see also |Doughty v Turner Manufacturing| for an example of a case falling outside the limit.
+SUMMARY There is a *Thin Skull Rule* -- the _extent_ of the injury can be much worse than reasonably foreseeable, if the _type_ of injury was, itself, foreseeable. 
+
+NAME Hughes v Lord Advocate
+YEAR 1963
+COURT EWCA
+FLAGS Important; EPLR
+CITATION Hughes v Lord Advocate [1963] AC 837
+CATEGORY Negligence; Remoteness; Foreseeability; Children
+SUMMARY A manhole had been left open overnight by people working on a gas main, with a tent around it to stop people falling in, illuminated by paraffin lamps, left burning. Can you guess how this ends? The claimant, an eight-year-old boy, accompanied by his *uncle, ten*, found this concatenation of circumstances too good to pass up, and managed to knock one of the lamps into the manhole, causing an explosion.
+HELD That burns were reasonably foreseeable, even if the manner in which they'd occurred, by an explosion of a substance of which the claimant had not been aware, was not.
+
+
+
+NAME Jolley v Sutton
+YEAR 2000
+COURT UKHL
+FLAGS Leading; Important; Amusing; EPLR
+CITATION Jolley v Sutton LBC [2000] 3 All ER 409
+CATEGORY Negligence; Remoteness; Foreseeability; Children
+SUMMARY A 14-year-old boy and his pal found a decaying _boat_ left abandoned on the defendant's land. In order to sail it to Cornwall -- *as that's where pirates are to be found*, they set about fixing it up. They were _six weeks_ into this project when, jacking it up to paint it, but with an inadequate jack, the boat collapsed on the claimant, infliciting on him severe spinal injuries and rendering him paraplegic.
+SUMMARY The defendant had attached a notice to the boat warning not to touch it, and that if it wasn't claimed within _seven days_ it would be taken removed. That hadn't happened.
+HELD If the type of damage suffered was reasonably foreseeable, the defendant will be liable for it even if the actual damage is far greater in extent than could have been foreseen. 
+HELD An injury was reasonably foreseeable; it was foreseeable that a child might _meddle_ with the boat, and in doing so injure himself. The fact that it was not foreseeable that the hypothetical child might jack the boat up with an inadequate jack and have the boat collapse on him, was deemed irrelevant. Cf. |Doughty v Turner Manufacturing|.
+
+
+NAME Doughty v Turner Manufacturing
+COURT EWCA
+YEAR 1964
+FLAGS Criticised
+CATEGORY Negligence; Remoteness; Foreseeability
+CITATION Doughty v Turner Manufacturing Co [1964] 1 All ER 98
+SUMMARY The claimant was injured by an _eruption_ from a vat of molten metal, into which an asbestos-cement cover had accidentally been dropped. 
+HELD This turn of events had not been foreseeable. A splash _would_ have been, which would have produced the same injury. But not a _magnified splash_, which is how the court characterised the incident. Cf. |Jolley v Sutton|.
+HELD This hasn't yet been explicitly overturned, and westlaw still has a 'C' next to it, but Jesse Elvin is doubtful as to whether it would be followed today.
+
+
+NAME Smith v Leech Brain
+COURT EWHC
+YEAR 1962
+FLAGS Important; EPLR
+CATEGORY Negligence; Remoteness; Foreseeability; Thin Skull Rule
+CITATION Smith v Leech Brain and Co Ltd [1962] 2 QB 405
+SUMMARY The claimant, who had a premalignant skin condition, suffered chemical burns at work through the defendant's negligence. He developed skin cancer and died.
+HELD That the injury sustained was much worse than the injury that could reasonably have been foreseen does not evaporate liability, if the injury is of _the same type_ as that which is foreseeable.
+HELD On the _thin skull rule_, the claim succeeded.
+
+

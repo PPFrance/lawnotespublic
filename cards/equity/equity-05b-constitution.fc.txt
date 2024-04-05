@@ -1,0 +1,137 @@
+NAME Milroy v Lord
+CITATION Milroy v Lord 
+CATEGORY Constitution of Trusts; Incompleteness
+HELD For equity to step in and complete an imperfect gift, the settlor must have done _everything required by the nature of the trust property_ to ensure it was transferred. Where a trust fails, equity will _not_ construe the donor's words to make the donee a trustee, as to do so imposes obligations not entailed by a gift.
+
+NAME Re Rose (of 1949)
+CATEGORY Constitution of Trusts; Incompleteness
+HELD Although equity will not compel an imperfect gift to be completed, it may not consider a gift to be so, where the donor did _everything within their power_ to divest themselves of the property. In such circumstances, it will step in and complete the transfer. Approved in a later case with the same name and the same Judge.
+
+
+NAME Re Rose (of 1952)
+AKA Re Rose
+CITATION Re Rose [1952] EWCA Civ 4
+CATEGORY Constitution of Trusts; Incompleteness
+SUMMARY The transferor intended to make a gift of shares to his wife; he completed the relevant documentation, and in _March_, delivered it to the company in question. The company didn't register the transfer until _June_. Had they done so March, no tax would have been payable on them by the donor.
+HELD Equity will complete a transfer when the transferor has done _everything within their power_ to achieve the transfer.
+
+NAME Choithram v Pagarini
+AKA Choithram
+AKA TCP
+CITATION Choithram v Pagarini (2001)
+CATEGORY Constitution of Trusts; Incompleteness
+HELD When the donor to a trust is also a trustee, |equity will not strive officiously to defeat a gift|, and so may complete an imperfect gift which would fail on |Re Rose| grounds.  It could be argued that, TCP being in extremis and drifting in and out of consciousness, he _did_ in fact do everything within his power to divest himself of the property, _everything in his power_ naturally being a function of his _circumstances_.
+
+
+
+NAME Pennington v Waine
+AKA Pennington
+CITATION Pennington v Waine [2002] EWCA Civ 227
+CATEGORY Constitution of Trusts; Incompleteness
+SUMMARY Google “Pennington McGhee QC Harold”
+@ Share declaration transferring shares from Ada to Harold (Pennington?) left in desk drawer.
+@ Then she died. Under Milroy, transfer not completed. Trying to give a gift, no attempt to create a trust. Share transfer needed to qualify Harold to be a director, presumably of her company.
+@ Court decided on TCP grounds. Unconscionable to go back on Ada’s wishes.
+@ But why would TCP’s new equitable maxim step in to make a man a company director?
+@ Arden LJ: “equity tempers the wind to the shorn lamb” x 3.
+@@ CdT: "This is actually a plagiarism from a Frenchman who died 400 years ago."
+@@ Retrofitted into Psalm 6 verse 2.
+@@ All of this is according to de Than. Book chapter called “Equity’s Special Tenderness”
+@ Pennington v Waine is basically Milroy v Lord. But decided the other way, because of TCP.
+@ Arden LJ: policy reasons.
+@ N.B. this case ignores Pehrsson v von Greyerz (1999) PC.
+HELD Equity will not step in to complete an incomplete gift given ambivalently, except where not doing so would be unconscionable. (Approved |Choithram|, but subsequently doubted in |Zeital|).
+
+
+NAME Zeital v Kaye
+AKA Zeital
+CITATION Zeital v Kaye (2010)
+CATEGORY Constitution of Trusts; Incompleteness
+HELD The |Re Rose| doctrine, that the donor must do _everything in their power_ to divest themselves of the property,  is still good law. Notwithstanding contradictory dicta in |Pennington|, a donor's change of heart has never been capable of being _unconscionable_.
+
+
+
+
+
+NAME Fletcher v Fletcher
+CITATION Fletcher v Fletcher (1844)
+FLAGS Key
+AKA Fletcher
+CATEGORY Constitution of Trusts
+SUMMARY An unprecedented attitude to IP rights, implications of which are that every time you make a promise, the promisee could sue on it. Which would make things a little complex.
+SUMMARY Claire thinks it was wrongly decided. 
+/_This chap Fletcher:_
+@ owned a farm, had an immense fortune, keeping his wife in the dark about the size of his wealth or the number of illegitimate sprogs he'd sired.
+@ died.
+@ without having made provision for the bastards -- _could have used a secret trust, but didn't._
+@ but had written a deed of covenant leaving £60,000 for any of them reaching the age of 21.
+SUMMARY _But:_
+@ But no one knew about the covenant, which was found in a desk drawer.
+@ One child _did_ make it to 21, and promptly sued to enforce the covenant.
+@ He won, as the court found the father had held the covenant on trust for the son.
+HELD Given that a promise is a chose in action, a piece of intangible intellectual property, a promise can be held on trust. 
+HELD There were, then, two trusts. 
+@ The primary trust of the cash, and
+@ *The promise to create the trust*.
+HELD This is clearly madness. Wigram LJ, says Claire, was "out of date by about 30 years on contract and equity."
+@ There used to be something called meritorious consideration. Relied on Williamson, which was the leading case on meritorious consideration.
+@@ Seemed to be using an outdated rule on certainty of intention.
+@ Followed by (at least) 13 cases in CA and HL, which Claire thinks is quite a lot.
+@ The textbooks say it isn't much used.
+
+NAME Re Cooke's ST
+CITATION Re Cooke's ST (1965)
+CATEGORY Constitution of Trusts; Fletcher Cases
+SUMMARY Son had promised father, seeking to avoid tax, that if he sold any family-owned portraits, then money would go to him. Son gave Rembrandt's Titus to his wife, "on the understanding" that she'd sell it."
+HELD Buckley LJ -- |Fletcher| couldn't be applied to property that didn't yet exist. The _proceeds of sale_ of a thing are not the same thing as the thing.
+
+
+NAME Lloyd's v Harper
+CITATION Lloyd's v Harper (1880)
+CATEGORY Constitution of Trusts; Fletcher Cases
+HELD Son promises to pay off debt, father signs to say he'll pay in default.
+
+
+NAME Re Flavell
+CITATION Re Flavell (1883)
+CATEGORY Constitution of Trusts; Fletcher Cases
+SUMMARY Promise to pay an annuity of £350 from proceeds of professional practice.
+HELD A promise to pay an annuity of £350 was deemed to have been held on trust for the beneficiary.
+
+
+NAME Les Affreteurs v Walford
+CITATION Les Affreteurs v Walford (1919)
+CATEGORY Constitution of Trusts; Fletcher Cases
+FLAGS Important
+
+NAME Don King v Frank Warren
+CITATION Don King Productions v Frank Warren (1999)
+CATEGORY Constitution of Trusts; Fletcher Cases
+HELD Even though no submissions were made on |Fletcher|, the principle was nevertheless used in the judgment, the judge apparently keen to flaunt his familiarity with the more arcane shafts and crevices of equity.
+
+
+
+
+
+
+
+
+
+
+NAME Strong v Bird 
+CITATION Strong v Bird (1874)
+CATEGORY Constitution of Trusts; Rule in Strong v Bird
+HELD The failure of a gift will be perfected should the legal title to the property vest in the donee when the settlor dies, by virtue of the donee being an executor.
+
+
+
+NAME Re Ralli
+CITATION Re Ralli's Will Trusts [1964] Ch 288
+CATEGORY Constitution of Trusts; Rule in Strong v Bird
+HELD If someone was intended to be a trustee should end up with the _right_ property, but by the _wrong_ means, doing so would nevertheless give them the ability to carry out the trust -- which is what they must do.
+HELD "A sorry example of equity abused" -- Meagher and Lehane (Australia)
+
+NAME Sen v Hedley
+CITATION Sen v Headley (1990)
+CATEGORY Constitution of Trusts; Deathbed Gifts
+

@@ -1,0 +1,78 @@
+
+NAME Formalities for Testamentary Trusts
+TYPE Concept
+CATEGORY Formalities
+SUMMARY This is the straightforward counterpart to the |formalities for inter vivos trusts|. 
+SUMMARY A will trust can be _either_ --
+@ Compliant with the requirements of $!S9 Wills Act 1837$$http://www.legislation.gov.uk/ukpga/Will4and1Vict/7/26/section/9!$ 
+@@ I.e., intended and signed by the testator in presence of two witnesses, etc.
+%_or_ --
+@ *Void*
+SUMMARY See also |secret trusts|, the exception.
+
+
+
+
+
+--NAME Formalities for Inter-Vivos Trusts
+--TYPE Concept
+--CATEGORY Formalities
+--SUMMARY _How do the trustees get their hands on the trust property?_ 
+--@ |Disposition of Personalty and Land|.
+--@@ _The disposition of chattels to trustees of an inter vivos trust does *not* require any formality. For land, S53(1)(b) requires signed writing by the settlor._
+--@ |Disposition of Equitable Interests|.
+--@@ _This is the tricky one_.
+
+
+NAME Formalities for Inter Vivos Express Trusts
+AKA Formalities for Inter Vivos Trusts
+TYPE Concept
+CATEGORY Formalities 
+SUMMARY ~*Intro*~
+SUMMARY ~*Trusts of Personalty*~
+/_Rule_ -- no formalities are needed for the creation of express inter vivos trusts of personal property, an oral declaration is enough. |Thomas v Times Books|.
+
+SUMMARY ~*Trusts of Land*~
+/_Rule_ -- S53(1)~(b)~ |LPA 1925| requires _evidence in signed writing_ of the trust trust and its terms, for an inter vivos express trust of which any part of the subject is land.
+@ The evidence may come _later_.
+@ Without it, the trust is not void but _unenforceable_. |Gardner v Rowe|.
+/ ... although nothing prevents the trustees from upholding the trust.
+
+SUMMARY _Exceptions_ -- S53(1)(b) may be _disapplied_, should a trustee be relying on it to swindle the beneficiaries. |Rochefoucald v Boustead|. The rationale: |equity will not allow a statute to be an instrument of fraud|.
+
+SUMMARY ~*Trusts of Subsisting Equitable Interests*~
+/_Rule_ -- S53(1)~(c)~ |LPA 1925| requires the disposition _itself_ must be in signed writing, rather than merely signed _evidence_ as for land.
+@ N.B. this might be _email_ -- per Briggs J, obiter in |Pearson v Lehman Bros|.
+
+SUMMARY Within the meaning of Disposition in S53(1)(c) --
+@ *Assignment to a third party* of the beneficial interest, directly by the original beneficiary. |Timson's Executors v Yerbury|.
+@ *Instructing bare trustee to hold for someone else*. |Grey v IRC|.
+@ *Declaration of a |passive sub-trust|* (in which the original beneficiary drops out of the picture).
+
+SUMMARY Outside S53(1)(c)
+@ *Declaration of an |active sub-trust|* (in which _some_ actions remain for the beneficiary of the super-trust). 
+  
+
+SUMMARY _N.B._ --
+@ Signed writing _asking_ the trustee to effect a transfer is _not_, itself, a disposition.
+
+
+
+
+NAME Disposition of Equitable Interests
+TYPE Concept
+CATEGORY Formalities
+SUMMARY *What Counts as Disposition?*
+@The assignation of beneficial interest to another 
+
+SUMMARY ~*Subtrusts*~
+@Here, *T holds property P on trust for B. 
+@But P is itself what happens when P is itself the beneficial interest in a trust?
+establishes a trust for property P, -- _property P_ T -- B*
+/What happens when 
+
+
+
+
+
+

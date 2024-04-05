@@ -1,0 +1,349 @@
+META filename eu-18-free-movement-of-persons-ii.fc.txt
+
+NAME EU Citizenship
+TYPE Concept
+FLAGS EU
+CATEGORY Free Movement of People; Citizens; Citizenship
+SUMMARY First appearing at |Maastricht|, this is the idea that rights should be given to the *non-economically active*, as well as workers. |Art 18 TFEU| provides for non-discrimination on the grounds of nationality, without reference to the categories of people to whom it might refer. |Art 20 TFEU| boldly establishes *Citizenship of the Union* as an additional (rather than replacement) nationality. At *2(a)*, it accords them the right to move and freely reside anywhere in the EU -- albeit with limits. 
+SUMMARY |Art 21 TFEU| explicitly provides for what happens if the situation envisaged *doesn't* arise naturally -- at *2*, provisions adopted by the Parliament and the Council, according to the |Ordinary Legislative Procedure|, and at *3*, the Council, according to the |Special Legislative Procedure|.
+SUMMARY Just as for |Art 45 TFEU|, the enjoyment of these rights is contingent on having *crossed a border*.
+SUMMARY Detail is coloured in by the |Citizens Rights Directive - I|, stipulating the different conditions applying to stays of differing lengths, and how the member state must treat you -- |Citizens Rights Directive - II|.
+/See also |Citizens Rights Directive - Digested|.
+SUMMARY ~*Swarthy, Benefit-Scumming Scroungebags*~
+/Although most of the cases turn on technical issues, the exquisitely-sensitive bigger picture is more than worthy of consideration. |Dano| and |Alimanovic| rip to shreds the _Daily Mail_ paranoia about knuckle-dragging benefit tourists from Eastern Europe (or ought to, if that view were susceptible to debate), as does a quick glance at the black-letter treaty and directive provisions. Some will be emboldened, some will be disheartened, to note the recent jurisprudential gathering-up of skirts to the extent that 'EU Citizenship' has apparently dropped out of the Court's vocabulary. Its reluctance in |Zambrano| is clear; its relief not to have to follow it in |McCarthy|, clearer still.
+
+NAME Articles 18, 20 and 21 TFEU
+AKA Art 18 TFEU
+AKA Art 20 TFEU
+AKA Art 21 TFEU
+TYPE Treaty
+CATEGORY Free Movement of People; Citizens; Citizenship
+SUMMARY See also |Citizens Rights Directive - I| and |Citizens Rights Directive - II| (summarized by |Citizens Rights Directive - Digested|, for the Directive 2004/38, which adds in much detail. 
+SUMMARY *~Art 18~ -- Principle of Non-Discrimination*
+/Within the scope of application of the Treaties, and without prejudice to any special provisions contained therein, any discrimination on grounds of nationality shall be prohibited.
+SUMMARY The European |Parliament| and the |Council|, acting in accordance with the |Ordinary Legislative Procedure|, may adopt rules designed to prohibit such discrimination.
+
+SUMMARY *~Art 20~ -- Establishment of Citizenship*
++Citizenship of the Union is hereby established. Every person holding the nationality of a member state shall be a citizen of the Union. Citizenship of the Union shall be additional to and not replace national citizenship.
++Citizens of the Union shall enjoy the rights and be subject to the duties provided for in the Treaties. They shall have, inter alia:
+++the right to move and reside freely within the territory of the member states; 
+++the right to vote and stand as candidates in elections to the European Parliament and in municipal elections in their member state of residence, under the same conditions as nationals of that State; [...]
+SUMMARY ->-These rights shall be exercised in accordance with the conditions and limits defined by the Treaties and by the measures adopted thereunder.
+
+SUMMARY *~Art 21~ -- Freedom to Move and Reside*
++Every citizen of the Union shall have the right to move and reside freely within the territory of the member states, subject to the limitations and conditions laid down in the Treaties and by the measures adopted to give them effect.
++If action by the Union should prove necessary to attain this objective and the Treaties have not provided the necessary powers, the European Parliament and the Council, acting in accordance with the ordinary legislative procedure, may adopt provisions with a view to facilitating the exercise of the rights referred to in paragraph 1.
++For the same purposes as those referred to in paragraph 1 and if the Treaties have not provided the necessary powers, the Council, acting in accordance with a special legislative procedure, may adopt measures concerning social security or social protection. The Council shall act unanimously after consulting the European Parliament.
+
+NAME Citizens Rights Directive 2004/38 - I 
+AKA Citizens Rights Directive - I
+AKA Art 6 CRD
+AKA Art 7 CRD
+AKA Art 16 CRD
+TYPE Directive
+FLAGS Fundamental; EU
+CATEGORY Free Movement of People; Citizens; Citizenship; Citizens Rights Directive
+SUMMARY See also -- |Citizens Rights Directive - I| for Art 24 on Equal Treatment. 
+SUMMARY *~Art 2~ -- Definitions*=
+/For the purposes of this Directive:
++"Union citizen" means any person having the nationality of a member state;
++"Family member" means:
+++the *spouse*;
+++the *partner* with whom the Union citizen has contracted a *registered partnership*, on the basis of the legislation of a member state, *if* the legislation of the host member state treats *registered partnerships as equivalent to marriage* and in accordance with the conditions laid down in the relevant legislation of the host member state;
+++the *direct descendants* who are under the age of 21 or are dependants and those of the spouse or partner as defined in point (b);
+++the *dependent direct relatives* in the *ascending* line and those of the spouse or partner as defined in point (b);
++"Host member state" means the member state to which a Union citizen moves in order to exercise his/her right of free movement and residence.
+SUMMARY *~Art 3~ -- Beneficiaries*
++This Directive shall apply to all Union citizens who move to or reside in a member state other than that of which they are a national, and to their family members as defined in point 2 of Article 2 who accompany or join them.
++Without prejudice to any right to free movement and residence the persons concerned may have in their own right, the host member state shall, in accordance with its national legislation, facilitate entry and residence for the following persons:
+++any other family members, irrespective of their nationality, not falling under the definition in point 2 of Article 2 who, in the country from which they have come, are dependants or members of the household of the Union citizen having the primary right of residence, or where serious health grounds strictly require the personal care of the family member by the Union citizen;
+++the partner with whom the Union citizen has a durable relationship, duly attested. The host member state shall undertake an extensive examination of the personal circumstances and shall justify any denial of entry or residence to these people.
+
+SUMMARY *~Art 6~ -- 3 months or less*
++Union citizens shall have the right of residence on the territory of another member state for a period of up to three months without any conditions or any formalities other than the requirement to hold a valid identity card or passport.
++The provisions of paragraph 1 shall also apply to family members in possession of a valid
+passport who are not nationals of a member state, accompanying or joining the Union citizen.
+
+SUMMARY *~Art 7~ -- 3 months to 5 years*
++All Union citizens shall have the right of residence on the territory of another member state for a period of longer than three months if they:
+++are workers or self-employed persons in the host member state; or
+++have *sufficient resources for themselves and their family members not to become a burden on the social assistance system* of the host member state during their period of residence and have *comprehensive sickness insurance cover* in the host member state; or
+++are enrolled at a private or public establishment, accredited or financed by the host
+member state on the basis of its legislation or administrative practice, for the principal
+purpose of following a course of study, including vocational training; and
+/have comprehensive sickness insurance cover in the host member state and assure the relevant national authority, by means of a declaration or by such equivalent means as
+they may choose, that they have sufficient resources for themselves and their family members not to become a burden on the social assistance system of the host member state during their period of residence; or
+++are family members accompanying or joining a Union citizen who satisfies the conditions
+referred to in points (a), (b) or (c).
++The right of residence provided for in paragraph 1 shall extend to family members who are not nationals of a member state, accompanying or joining the Union citizen in the host member state, provided that such Union citizen satisfies the conditions referred to in paragraph 1(a), (b) or (c).
++For the purposes of paragraph 1(a), a Union citizen who is no longer a worker or self-employed person shall retain the status of worker or self-employed person in the following circumstances:
+++he/she is temporarily unable to work as the result of an illness or accident;
+++he/she is in duly recorded involuntary unemployment after having been employed for more
+than one year and has registered as a job-seeker with the relevant employment office;
+++he/she is in duly recorded involuntary unemployment after completing a fixed-term
+employment contract of less than a year or after having become involuntarily unemployed during the first twelve months and has registered as a job-seeker with the relevant
+employment office. In this case, the status of worker shall be retained for no less than six
+months;
+++he/she embarks on vocational training. Unless he/she is involuntarily unemployed, the
+retention of the status of worker shall require the training to be related to the previous
+employment.
++By way of derogation from paragraphs 1(d) and 2 above, only the spouse, the registered partner provided for in Article 2(2)(b) and dependent children shall have the right of residence as family members of a Union citizen meeting the conditions under 1(c) above. Article 3(2) shall apply to his/her dependent direct relatives in the ascending lines and those of his/her spouse or registered partner.
+
+SUMMARY *~Art 16~ -- 5+ years*
++Union citizens who have resided legally for a continuous period of five years in the host
+member state shall have the right of permanent residence there. This right shall not be subject to the conditions provided for in Chapter III.
++Paragraph 1 shall apply also to family members who are not nationals of a member state and have legally resided with the Union citizen in the host member state for a continuous period of five years.
++Continuity of residence shall not be affected by temporary absences not exceeding a total of six months a year, or by absences of a longer duration for compulsory military service, or by one absence of a maximum of twelve consecutive months for important reasons such as pregnancy and childbirth, serious illness, study or vocational training, or a posting in another member state or a third country.
++Once acquired, the right of permanent residence shall be lost only through absence from the host member state for a period exceeding two consecutive years.
+
+NAME Citizens Rights Directive 2004/38 - II
+AKA Citizens Rights Directive - II
+AKA Art 24 CRD
+TYPE Directive
+FLAGS Fundamental; EU
+CATEGORY Free Movement of People; Citizens; Citizenship; Citizens Rights Directive
+SUMMARY *~Article 24~ -- Right to Equal Treatment*
++Subject to such specific provisions as are expressly provided for in the Treaty and secondary law, all *Union citizens residing on the basis of this Directive* in the territory of the host member state *shall enjoy equal treatment with the nationals of that member state* within the scope of the Treaty. The benefit of *this right shall be extended to family members who are not nationals of a member state* and who have the right of residence or permanent residence.
++By way of derogation from paragraph 1, the *host member state shall not be obliged to confer entitlement to social assistance during the first three months* of residence *or, where appropriate, the longer period* provided for in Article 14(4)(b), *nor shall it be obliged, prior to acquisition of the right of permanent residence, to grant maintenance aid for studies*, including vocational training, consisting in student grants or student loans to persons other than workers, self-employed persons, persons who retain such status and members of their families.
+
+
+
+NAME Citizens Rights Directive - Digested
+TYPE Concept
+FLAGS Fundamental
+CATEGORY Free Movement of People; Citizens; Citizenship
+SUMMARY *~Intro~*
+/Elaborating on |Art 20 TFEU| and |Art 21 TFEU|, this paints in detail about *who* has rights, *what* they are, and what the *exceptions* are.
+
+SUMMARY *~Scope~ (Arts 2-3)*
+/*Art 2* defines *citizen* and *family member*, etc. *Civil partners* are included _*if*_ the domestic legislation of the host state treats them as equivalent to spouses.
+/*Art 3* provides the necessity to live in *another member state* to have these rights. 
+/*Art 3(2)(a)* extends residence rights to miscellaneous other non-Citizen family members where 'serious health grounds strictly require the personal care' of the citizen family member. 
+SUMMARY *~Residence~ (Arts 6, 7 and 16)*
+SUMMARY *Art 6* 
++*Up to 3 months*, in any member state *without formalities* other than having ID/passport.
+@@On condition (Art 14) of not becoming *an _unreasonable_ burden* on the social assurance system of the state -- i.e., no *benefit tourism*. 
+@@Without (Art 24(2)) any right to *social assistance*.
++Applies too to non-citizen family members may accompany.
+SUMMARY *Art 7* 
++*3 months* to *5 years*, if:
+++They're *economically active* in the host state; *or* 
+++have *sufficient resources not to become a burden* on the social assistance programme of the host state *and* ...
+/... have *comprehensive sickness insurance*. But it would be disproportionate to interpret 'comprehensive' too strictly -- |Baumbast|, and the insurance should cover, but need not necessarily be held by, the citizen -- |Zhu and Chen|.
+@@@Thresholds for being a burden are not to be set by member states. Being a burden is a fact for each case.
+++Or be a family member accompanying a citizen who fulfils (a), (b) or (c). 
++Or be a *non-Citizen* family-member accompanying a citizen fulfilling 1(a), (b) or (c) -- |Zhu and Chen|.
++You still have the status of *worker* if you're no longer employed because *(a)* you're ill, *(b)* you got sacked after more than a year of work and have registered as a jobseeker. But if  *(c)* your fixed-term contract of less than a year ended, then you're still a 'worker' for six months only.
+/*(d)*, you retain the status of worker if you're doing retraining *related to* the previous employment.
+SUMMARY @The member state can require registration.
+@@Although it cannot rely on a failure to register when a its own national would not have to do so -- |Martinez Sala| 
+@It can expel you on *proportionate* and *case-specific* grounds. E.g., |Van Duyn|, which turned on Art 27 and 28.
+@The *right to equal treatment* of Art. 7 of the Directive begins *after one year*.
+SUMMARY *Art 16*
++*Permanent residence* is from *from five years onwards*, and of course also applies to
++non-Citizen family members.
++The clock is not reset by *temporary absences* amounting to more than six months a year (or longer ones for, e.g., compulsory military service, pregnancy, serious illness, study, 'posting' in another member state)
++But being absent from the host state for two years on the trot lands you on a snake leading back to Art 6. 
+SUMMARY *~Equal Treatment~ (Art 24)*
+/At (2), this gives three restrictions on free movement: 
+@No social assistance during first three months.
+@No rights to social assistance for job-seekers.
+@No obligation to grant maintenance aids for studies (including for vocational training). 
+SUMMARY The directive's preamble asserts that the rights granted are subject to not *unreasonably burdening* the member state. 
+SUMMARY In the previous year-and-a-half to two-years, there has been *a distinct change of direction* in the case law. 
+
+NAME Equal Treatment - Social Assistance
+TYPE Concept
+SUMMARY ~*Evolution*~
+/The court originally interpreted |Art 18 TFEU| on equal treatment *broadly*, treating EU Citizenship as unshakable and primordial. By contrast, the recent and unfortunate almost-total boiling away of |Permissive Consensus| is reflected in |Dano|, |Alimanovic|, and |McCarthy| reiterates the need to have crossed a border.
+SUMMARY ~*Social Assistance*~
+Para 2 of |Art 24 CRD| *excuses* the host state from having to provide *social assistance* --
+@For |Art 6 TFEU| residents (< 3 months, or longer where appropriate -- see |Art 14 CRD|).
+@Also from having to provide *student maintenance* to other than permanent residents under |Art 16 CRD|...
+@@..uUnless they can show *some degree of integration* -- |Bidar|.
+SUMMARY However --
+@*Child-rearing allowances* may *not* be withheld by the host state for failure to comply with a requirement *not* imposed on a national of the host state -- |Martinez Sala|.
+@*Minimum-subsistence allowances*, likewise, may *not* be conditional on nationality -- |Grzelczyk|.
+@@Because, although extending such benefits to nationals from other member states would impose a burden, it would not be an *unreasonable* one. In any case, member states should show 'a certain degree of financial solidarity.' (!)
+@|Art 24 CRD| restricts *student assistance* to permanent (|Art 16 CRD|) residents
+@@But someone with |Art 7 CRD| rights (conceivably even |Art 6 CRD|), but who shows a degree of *integration* into the state, may nevertheless be eligible -- |Bidar|.
+SUMMARY *Jobseekers* are excluded from discrimination in social assistance by |Art 24 CRD|, but may be covered by |Freedom of Movement - Workers| under |Art 45 TFEU|.
+@|Collins| establishes that *the dole* may be lawfully withheld, in the absence of a *genuine link* to the host state's labour market.
+@@But |Ioannidis| found that the genuine link is *not absent* merely because the person completed their secondary education elsewhere. 
+@@Note that in |D'Hoop|, concerning the same 'tideover' allowance as |Ioannidis|, the claimant could rely on her EU citizenship rights *against her own country* on the flimsy grounds of having crossed a border in the past.
+@@The *genuine link* is a matter for national authorities, and the success of a claim also depends on whether the *purpose* of the benefit is for *social assistance* or improving access to the jobs market.
+SUMMARY It *may* be that you don't have to cross a border to benefit, in special circumstances. 
+@@|Zambrano|, the judgment establishing this, is a parody of references, citations, conditions and stipulations, and is a world away from the jurisprudential boldness of earlier years -- there was a pragmatic imperative in the facts, though. 
+@@Cf. |McCarthy|, in which the rationale for *not* following |Zambrano| was that McCarthy would't have had to leave the EU, unlike the citizens in Zambrano.
+
+
+
+
+
+NAME Baumbast
+CASENUM C-413/99
+CITATION Baumbast [2002] ECR I-7091
+CATEGORY Free Movement of People; Citizens; Families; Comprehensive Sickness Insurance
+FLAGS GB; DE; Essential
+SUMMARY The starting point for discussing the Court's interpretation of right afforded to Citizens under |Directive 2004/38|. A German citizen, married to a Colombian, had two children. They lived in the UK. Baumbast had worked for *three* years, then travelled to Asia to work for German companies. His Colombian wife. The UK authorities *refused* to renew their residence. But they had sufficient funds under Art 7(1)(b) of the Directive, and comprehensive sickness insurance. The UK argued it was *not*, as it didn't cover *emergency care*.
+HELD Article 21 TFEU is directly effective, as is the clear intention of its direct and unambiguous wording. It confers rights directly on every citizen, not just workers. The comprehensive sickness insurance requirement (of Art 7(1)(b) of Directive 2004/38) must be applied proportionately. It does not fail just because the insurance might not cover emergency care. 
+
+
+
+
+NAME Grzelczyk
+CASENUM C-184/99
+CITATION Grzelczyk [2001] ECR I-6183
+CATEGORY Free Movement of People; Citizens; Social Assistance
+FLAGS BE; FR; Expansion
+SUMMARY A French student living in Belgium applied for the 'minimex,' a minimum subsistence allowance. Belgian law provided that this was for all Belgian *citizens* and for *non-Belgian* *workers*. 
+HELD Union citizenship is destined to be the fundamental status of nationals of the member states. They can rely on the non-discrimination provision of |Art 18 TFEU| for all provisions of EU law. Whilst the provision of the a benefit (e.g., the minimex) to citizens of oher member states might involve a certain degree of financial burden, this would not be unreasonable, and that member states should show a certain degree of financial solidarity. (!)
+HELD Sir David Edward, the rapporteur who drafted the judgment, later explained the Court, in effect, had the choice between treating the citizenship provisions as rhetorical flourishes expressing a statement of will, or as specifically conferring rights on individuals. The choice was not obvious -- but the consideration that it would have been absurd for the treaty to contain such clear and unambiguous provisions had the intention merely been the former, was what ultimately persuaded the Court. 
+
+
+
+NAME Zhu and Chen
+CASENUM C-200/02
+CITATION Zhu and Chen [2004] ECR I-9925
+CATEGORY Free Movement of People; Citizens; Rights Of Family Members; Unreasonable Burden; Comprehensive Healthcare
+FLAGS GB
+SUMMARY A girl born in Ireland to Chinese parents, who'd moved to the UK when mother was six months pregnant. The baby, of course, had Irish citizenship. They moved to Wales, as soon as she was born, but the British authorities told them to scram. They protested they were no burden, and that they were family members of an EU citizen.
+HELD The requirements of sufficient resources and comprehensive sickness insurance of article Article 7(1)(2) of Directive 2004/38 will be met when the non-Citizen family member fulfils them: they do not have to be possessed personally by the Citizen, for the requirements to be met. 
+HELD For it to be otherwise would, in effect, allow states to expel the non-Citizen parents of Citizen children. It was 'clear that the primary carer must accompany the child, and therefore, they, the parents, must be allowed to reside.'
+
+
+
+
+
+NAME Martinez Sala
+CASENUM C-85/96
+CITATION Martinez Sala [1998] ECR I-2691
+CATEGORY Free Movement of People; Citizens; Right To Equal Treatment; Social Assistance
+FLAGS DE; ES; Expansionist
+SUMMARY A Spanish citizen, resident in Germany, worked for a number of years, but had neglected to obtain a resident's permit. She sought a child-rearing allowance from the state, but, reverting somewhat to type, the state replied, as it were, *"Diene Papiere Bitte!!!"*
+HELD When a member state does not require its own nationals to produce a resident's permit to obtain a benefit, such as in this case, a child-rearing allowance, it may not impose such a requirement on nationals other member states.
+ 
+
+
+
+NAME D'Hoop
+CASENUM C-224/98
+CITATION D'Hoop [2002] ECR I-6191
+CATEGORY Free Movement of People; Citizens; Right To Equal Treatment; Social Assistance
+FLAGS BE; FR
+SUMMARY As in the later case of |Ioannidis|, this concerned the Belgian 'tideover' allowance,  for school-leavers not yet in employment. By contrast, Ms. D'Hoop was herself Belgian -- but she'd done her _bac_ in France. She was refused the allowance. She couldn't rely on |Art 45| rights or those of |Citizenship|, as she was in her home member state. Nevertheless, a reference was made to the ECJ. 
+SUMMARY It was argued that merely having *resided* in another member state was not enough to bring the rights of EU citizenship to bear, and that the education she had received in France did not amount to the vocational (job-related) training envisaged by the treaty provisions.
+HELD "Community law precludes a member state from refusing to grant the tideover allowance to one of its nationals, a student seeking her first employment, on the sole ground that that student completed her secondary education in another member state."
+
+
+NAME Trojani
+CASENUM C-456/02
+CITATION Trojani [2004] ECR I-7573
+CATEGORY Free Movement of People; Citizens; Right To Equal Treatment; Social Assistance
+FLAGS BE
+HELD As in |D'Hoop| and |Grzelczyk|, the nationality qualifying criteria of the Belgian 'tideover' allowance, aka 'minimex' was found in vreach of |Art 18 TFEU|.
+
+
+
+
+NAME Bidar
+CASENUM C-209/03
+CITATION Bidar [2005] ECR I
+CATEGORY Free Movement of People; Citizens; Right To Equal Treatment; Social Assistance
+FLAGS FR; GB; Leading
+SUMMARY A French citizen had been living chez her Grandmama in London for three years, and wanted to study Economics at UCL. So she applied for a (subsidised) Student Loan. She was lawfully resident, but entitled to the loan?
+HELD Showing a non-negligible degree of integration into the society of the member state may qualify you for social advantages such as subsidised student loans/grants.
+HELD "58. In the case of assistance covering the maintenance costs of students, it is thus legitimate for a Member State to grant such assistance only to students who have demonstrated a certain degree of integration into the society of that State."
+
+
+
+NAME Collins
+CASENUM C-138/02
+CITATION Collins [2004] ECR I
+CATEGORY Free Movement of People; Citizens; Right To Equal Treatment; Social Assistance
+FLAGS IE; UK; Leading
+SUMMARY An Irishman, maybe or maybe not a toe-rag, arrived in the UK and promptly tried to *sign on*. He was refused on the basis that he was not *habitually resident*.
+HELD |Art 24 CRD| para 2 does not give equal access to benefits, but a jobseeker is nonetheless an EU citizen, and as such, has access to social advantages.  However, the lack of a genuine link between the citizen and the labour market of the host state may be a legitimate reason to withhold, e.g., job-seeker's allowances. Evidence of such a link is likely to be demonstrated by genuine efforts to find work. A member state may impose a minimum length of residence in order to qualify, but this must not be proportionate. I.e., it cannot be longer than would be necessary to demonstrate a genuine link.
+
+
+
+NAME Ioannidis
+CASENUM C-258/04
+CITATION Ioannidis [2005] ECR I
+CATEGORY Free Movement of People; Citizens; Right To Equal Treatment
+FLAGS GR; BE
+SUMMARY Belgian legislation made only those who'd completed their secondary education in Belgium eligible to claim the dole, the 'tideover' allowance. The Greek claimant had not done so, and was ineligible. He claimed the requirement was indirectly discriminatory. See also |D'Hoop|.
+HELD Restricting eligibility for a jobseeker's allowance to those who have completed their secondary education in the member state is too general and exclusive, and only weakly effective as a means of restricting the allowance to those who could reasonably be connected to the employment market.
+
+
+
+NAME Vatsouras
+CITATION Vatsouras et al [2009] ECR I-4585
+CASENUM C‑22/08
+CATEGORY Free Movement of People; Citizens; Right To Equal Treatment; Social Assistance
+FLAGS GR
+HELD When a jobseeker claims social assistance in a host member state, the state's competent national authorities and courts must decide not only whether the claimant has a genuine link to the labour market (|Collins|, |Ioannidis|), but also the purpose -- and should the purpose be to facilitate access to the labour market, then it will not be social assistance as meant by para 2 of |Art 24 CRD|.
+
+
+
+
+NAME Dano
+CASENUM C-333/13
+CITATION Dano ECLI:EU:C:2014:2358
+CATEGORY Free Movement of People; Citizens; Right To Equal Treatment; Social Assistance
+FLAGS RO; DE
+SUMMARY A Romanian citizen and her offspring in Germany. A case about child benefits. The father was unknown. Not a worker. Relied on the social security system of Germany. Germany urged the court to revisit the confusing and complex case law.
+HELD Applying a strictly faithful and non-teleological reading of the |Art 7 CRD|, and not once referring to EU Citizenship, the Court held that failure to comply with the requirement to have sufficient resources for the citizen or the family invalidated the claim to social assistance. This was to prevent an unreasonable burden on the host state's social security. Freedom of movement solely to claim social security is not covered by the article. 
+
+
+NAME Alimanovic
+CASENUM C-67/14
+CITATION Alimanovic ECLI:EU:C:2015:597
+CATEGORY Free Movement of People; Citizens; Right To Equal Treatment; Social Assistance
+FLAGS SE; DE
+SUMMARY The claimant, a Swede of Bosniak origin, had her benefits stopped by Germany. 
+HELD In an operative judgment rich in citation of directives and regulations, |Dano| was followed -- the right to social assistance had lapsed after six months, as |Art 7 CRD| provided.
+
+
+
+NAME Zambrano 
+CITATION Gerardo Ruiz Zambrano v Office national de l’emploi [2011] ECR I-1177
+CASENUM C-34/09
+CATEGORY Free Movement of People; Citizens; No Movement
+FLAGS BE; EU
+SUMMARY A Columbian citizen and his family, living in Belgium. His wife and eldest child were Columbian, but his two youngest were born in Belgium, hence citizens. He applied for asylum -- but was denied. However, he was not deported, due to the state of war in Colombia. He applied again and was again denied. He was employed, a contributor to the social security system. But then lost his job and applied for benefits. He had never crossed a border -- in effect, EU Citizenship rights were being claimed (by the Belgian children) against the *home* member state, not a *host* member state. 
+SUMMARY A situation like this had been referred to hypothetically in |Derici|.
+HELD In a notably-succinct judgment, and following |Derici|, the Court found that |Art 20 TFEU| precludes national measures having the effect of depriving citizens of the union (the children) of the genuine enjoyment of the substance of their rights as EU citizens.  {As Prof. Sir Alan Dashwood QC puts it, "the CJEU just can't resist being Big Daddies to people!"} The brevity of the judgment is perhaps best understood as a result of not wanting, in effect, to allow the parents of young EU citizens to be, in effect removed; doing so, especially to a war-zone, might be seen as de facto deportation of EU citizens.
+HELD "42. |Art 20 TFEU| precludes national measures which have the effect of depriving citizens of the Union of the genuine enjoyment of the substance of the rights conferred by virtue of their status as citizens of the Union.
+HELD 43. A refusal to grant a right of residence to a third country national with dependent minor children in the Member State where those children are nationals and reside, and also a refusal to grant such a person a work permit, has such an effect"
+
+NAME Derici
+CITATION Derici 	
+CASENUM C-267/07
+SUMMARY Austrian nationals trying to assert rights on behalf of their (non-EU) family members, argued *they* would be deprived of the full enjoyment of their rights as EU citizens, if, for example, an aged father, not from an EU country, were not allowed to join them.
+HELD Referring to situations in which an EU citizen would effectively be forced not only to leae the member state but also the EU, free movement ought to be seen as disconnected from nationality.
+
+
+
+
+
+
+NAME McCarthy
+CASENUM C-434/09
+CITATION Shirley McCarthy v Secretary of State for the Home Department [2011] ECR I
+CATEGORY Free Movement of People; Citizens; No Movement
+FLAGS
+SUMMARY Mrs. McCarthy, a dual UK/Irish citizen, who'd never crossed a border within the EU, always having lived in the UK. Her Jamaican husband sought to rely on |Art 18 TFEU| equal treatment. 
+HELD In order to rely on |Art 18 TFEU| right to equal treatment as a family member of an EU citizen, the EU-citizen would have to have crossed a border within the EU. |Zambrano| was distinguished, as there would be no effective obligation on the claimant of this case to leave the EU.
+
+
+
+
+
+
+
+NAME Commission v UK C-308/14
+CITATION Commission v UK C-308/14
+CASENUM C-308/14
+CATEGORY 
+SUMMARY At time of writing (14th May), judgment not yet given, but this may come in useful in the exam.

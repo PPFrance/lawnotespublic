@@ -1,0 +1,563 @@
+NAME Private Nuisance
+TYPE Concept
+CATEGORY Nuisance; Private Nuisance
+SUMMARY Private Nuisance _would have been an excellent name for a character in a 1960s American army sitcom._
+SUMMARY ~*What types are there?* ~
+/->-From |Hunter v Canary Wharf| per Lord Lloyd:
+/->-*(1)* Encroachment, e.g., branches of trees; *(2)* direct physical injury to the _land_, and *(3)* interference.  Observe the absence of *personal injury* from that list.
+SUMMARY *Private Nuisance*, per Scott LJ in |Read v Lyons|, is 'an unlawful interference with a person's use or enjoyment of his land, or some right over, or in connection with, that land.' 
+#SUMMARY *(1)* An unreasonable interference; *(2)* with the claimant's _use_ or _enjoyment_ of the land; *(3)* the defendant was responsible.
+SUMMARY The damage must be *foreseeable* -- |Cambridge Water v Eastern Counties Leather|.
+SUMMARY Factors the court will examine include:
+/->-*Locality of the nuisance* -- |Sturges v Bridgman| [1879], |St Helens Smelting v Tipping|, |Coventry v Lawrence|.
+/->-*Sensitivity of the claimant's use* of his land will be assessed objectively -- |Robinson v Kilvert|, although not if the defendant has acted *maliciously* -- |Hollywood Silver Fox Farm|.
+/->-*Duration* -- even a single event is enough |British Celanese v Hunt|, |Crown River Cruises v Kimbolton|. 
+/->-*Public benefit* of the nuisance -- |Miller v Jackson| and C19th case of |Bamford v Turnley|. Only relevant for remedy: _damages_ rather than the more usual _injunction_.
+/->-*Article 8* rights may be claimed if the benuisanced property is a family home, and if the common law requirement of having property rights is not fulfilled.
+SUMMARY ~*Is _Fault_ Required?*~ 
+/->-Not if the nuisance is adopted and continued, and no measures are taken to stop it -- |Sedleigh-Denfield v O'Callaghan|, |Lippiatt v South Gloucestershire|, even if the nuisance is of natural origin -- |Holbeck Hall Hotel v Scarborough|.
+SUMMARY ~*Who can sue?*~
+/->-See |Hunter v Canary Wharf| per, again, Lord Lloyd. The *owner* or the *occupier* with rights of exclusive occupation: those having _an interest in the land_. Not mere licensees -- |Malone v Laskey|. A departure for pragmatism is |Khoransandjian|, but this has been overruled.
+SUMMARY ~*Who can _be_ sued?*~ 
+/->-The *creator* of the nuisance -- |Hussain v Lancaster|, the *occupier* -- |Matania v National Provincial|. The occupier who *adopts or continues* a nuisance created by a *trespasser* -- |Sedleigh-Denfield v O'Callaghan|, or by *mother nature* -- |Holbeck Hall Hotel v Scarborough|.
+/->-The (absent) *landlord* who, impliedly, expressedly or foreseeably, authorizes a nuisance -- |Tetley v Chitty|, |Hussain v Lancaster|, |Lippiatt v South Gloucestershire|. But only if the nuisance was a highly-probable result of the let -- |Coventry v Lawrence (no 2)|.
+
+NAME Nuisance - Reading
+TYPE Reading
+CATEGORY Nuisance; Public Nuisance; Private Nuisance; Rylands v Fletcher
+SUMMARY ~*Essential*~
+SUMMARY Steele, _Tort Law_, chapters 10 and 11
+SUMMARY |Hunter v Canary Wharf| -- |Cambridge Water v Eastern Counties Leather| -- |Sturges v Bridgman| -- |St Helens Smelting v Tipping| -- |Coventry v Lawrence| -- |Dennis v MoD| -- |Marcic v Thames Water| -- |Sedleigh-Denfield v O'Callaghan| -- |Lippiatt v South Gloucestershire| -- |Dobson v Thames Water| -- |McKenna v British Aluminium| -- |Coventry v Lawrence (no 2)| -- | 1Barr & Ors v Biffa| -- |AG v PYA Quarries| -- |Rylands v Fletcher| -- |Transco v Stockport| -- |Rickards v Lothian|
+SUMMARY ~*Additional*~
+SUMMARY R. Bagshaw, _Rylands Confined_ (2004) 120 LQR 388<br> D. Howarth, _Noise and Nuisance_ (2014) 73 LQR 247<br> M. Lee, _Private Nuisance in the House of Lords: Back to Basics_ (2004) 15 KCLJ 417<br> M. Lee, _What is Private Nuisance?_ (2003) 119 LQR 298<br> D. Nolan, _The Distinctiveness of Rylands v Fletcher_ (2005) 121 LQR 421<br> S. Tofaris, _Rylands v Fletcher Restricted Further_ (2009) CLJ 273<br> D. Wilkinson, _Cambridge Water Company v Eastern Counties Leather Plc: Diluting Liability for Continuing Escapes_ (1994) MLR 1994 799
+SUMMARY |Read v Lyons| -- |Robinson v Kilvert| -- |British Celanese v Hunt| -- |Crown River Cruises v Kimbolton| -- |Miller v Jackson| -- |Bamford v Turnley| -- |Christie v Davey| -- |Hollywood Silver Fox Farm v Emmett| -- |Holbeck Hall Hotel v Scarborough| -- |Malone v Laskey| -- |Khoransandjian v Bush| -- |Dobson v Thames Water| -- |McKenna v British Aluminium| -- |Hussain v Lancaster| -- |Matania v National Provincial| -- |Harris v James| -- |Tetley v Chitty| -- |Adams v Ursell| -- |Allen v Gulf Oil Refining| -- |Gillingham v Medway Dock Co| -- |Kennaway v Thompson| -- |Bone v Searle| -- |R v Rimmington and R v Goldstien| -- |Dymond v Pearce | -- |Tate & Lyle v GLC| -- |The Rule in Rylands v Fletcher| -- |Gore v Stannard (Wyvern Tyres)| -- |LMS Int v Styrene| -- |Ellison v MoD| -- |Ponting v Noakes| -- |Rickards v Lothian| -- |Tennent v Earl of Glasgow|.
+
+NAME Read v Lyons
+YEAR 1945
+COURT EWCA
+CITATION Read v Lyons [1945] EWCA KB 216
+FLAGS Development
+CATEGORY Nuisance; Private Nuisance
+SUMMARY The claimant, employed by the MoD, was injured by a shell that exploded as she inspected an armaments factory. 
+HELD Scott LJ -- nuisance is _'an unlawful interference with a person's use or enjoyment of his land, or some right over, or in connection with, that land.'_
+
+NAME Hunter v Canary Wharf 
+YEAR 1997
+COURT UKHL
+CITATION Hunter v Canary Wharf Ltd [1997] UKHL AC 655
+FLAGS Key; Development; Amusing; EPLR
+CATEGORY Nuisance; Private Nuisance; Who can sue; Trying it on
+SUMMARY The claimant and others brought an action against the defendant construction company because the buildings they'd erected _interfered with their telly reception_. The CA ruled, however, that there was no cause of action in private nuisance for this. 
+HELD The HL confirmed the CA ruling that the right to build was not restricted by potential for interrupting reception of TV signals on another's land. This case was akin to a vista having been spoiled by the legal putting-up of an ugly building: for this there is no cause of action in English law. 
+HELD Lord Lloyd -- private nuisances are of three kinds: (1) encroachment (e.g., tree branches); (2) direct physical injury to a neighbour's land; and (3) interference.  
+HELD "... In cases (1) and (2) it is the owner, or the occupier with the right to exclusive possession, who is entitled to sue. It has never, so far as I know, been suggested that anyone else can sue, for example, a visitor or a lodger."
+
+
+NAME Cambridge Water v Eastern Counties Leather
+COURT UKHL
+YEAR 1994
+CITATION Cambridge Water Co v Eastern Counties Leather plc [1994] UKHL 2 AC 264
+CATEGORY Nuisance; Private Nuisance; Foreseeability of Nuisance; Reasonableness of Use; Rylands v Fletcher
+FLAGS Key; Leading; EPLR
+SUMMARY A dangerous chemical stored by the defendant seeped into the groundwater, polluting a borehole belonging to the claimant. 
+HELD The use of the land from which the nuisance arises must be reasonable, and here it was _not_. But the damage caused by the nuisance must be reasonably foreseeable. On the facts, therefore, the claim failed. 
+HELD Goff LJ -- |Rylands v Fletcher| liability is an offshoot of nuisance.
+
+
+NAME Sturges v Bridgman
+YEAR 1879
+COURT EWCA
+CITATION Sturges v Bridgman (1879) EWCA 11 CH D 852
+FLAGS Important; EPLR
+CATEGORY Nuisance; Private Nuisance; Coming to the Nuisance; Local Circumstances; Defences
+SUMMARY The claimant, a doctor, moved next door to the defendant, a confectioner, who for many years had produced sweets in his kitchen, using employing some or other species of loud and clattery machinery for the purpose. The doctor built a _shed_ (!) in his garden from which to practise. Disturbed by the constant noise, he sued his neighbour in private nuisance. 
+HELD Coming to the nuisance is not a defence, and "what is not OK in Belgrave Square is OK in Bermondsey," i.e., the character of the local environment must be accounted for when deciding whether something is a nuisance. 
+HELD Had there been twenty years' continuous nuisance, by contrast, the claim would have failed. See |Coventry v Lawrence|.
+
+
+
+NAME St Helens Smelting v Tipping
+YEAR 1865
+COURT UKHL
+CITATION St Helens Smelting Co v Tipping (1865) 11 UKHL Cas 642
+FLAGS Important; EPLR
+CATEGORY Nuisance; Private Nuisance; Coming to the Nuisance; Local Circumstances; Local Circumstances irrelevant where Property Damage
+SUMMARY The claimant bought a manor and 1300 acres a short distance from the defendant's industrial premises. The fumes and ashes damaged the claimant's crops and woodland. The defence claimed their use was reasonable, given the character of the locality, i.e., the presence of other factories and foundries. 
+HELD The character of the locality is of _no_ relevance where the nuisance has sustained property damage.
+
+NAME Coventry v Lawrence
+YEAR 2014
+COURT UKSC
+CITATION Coventry v Lawrence [2014] UKSC 13
+FLAGS Important; EPLR
+CATEGORY Nuisance; Private Nuisance; Planning Permission as Defence; Coming to the Nuisance; Defences; 20 years' Prescription
+SUMMARY The defendant operator of a 'speedway' had planning permission for one sort of activity (racing) dating back to 1975, but not for another sort (stock-car racing), which began in 1984. All this caused rather a lot of noise, blighting the claimant's house, who sued in private nuisance. The defendant argued the absence of planning permission for stock-car racing had become irrelevant after *twenty years' continuous operation*.
+HELD Planning permission is not a _key_ factor in establishing a cause of action in private nuisance.
+HELD Lord Neuberger -- the twenty years do *not* have to be *consecutive*.
+COMMENT This case important also in Land Law for what Lord Neuberger says about easements: you _can_ have an easement to create noise.  
+
+NAME Robinson v Kilvert
+YEAR 1889
+COURT EWCA
+CITATION Robinson v Kilvert (1889) EWCA 41 Ch D 88
+FLAGS Important
+CATEGORY Nuisance; Private Nuisance; Sensitive Claimant
+SUMMARY The first floor of a commercial premises, the basement of which was kept toasty at a constant 80&deg;F, was rented by the claimant for use as a paper warehouse. Some of the paper was damaged by the heat.
+HELD There was no nuisance, as an objectively _ordinary_ use of the premises would not have suffered the interference as _unreasonable_.
+COMMENT _Being particularly vulnerable is not a defence._ Take heed, Peter.
+
+NAME British Celanese v Hunt
+YEAR 1969
+COURT EWHC
+CITATION British Celanese Ltd v AH Hunt (Capacitors) Ltd [1969] 1 WLR 959
+CATEGORY Nuisance; Private Nuisance; Duration of Interference
+FLAGS Important
+SUMMARY Some metal foil strips blew from the defendant's factory, on the same industrial estate as the claimant's, into the estate's electricity substation. This caused a power failure halting the claimant's machines and necessitating their (costly and time-consuming) cleaning. The same thing had taken place three years before, for which the defendant had been warned by the electricity company. The claim was in |Rylands v Fletcher| strict liability, negligence, and (public and private) nuisance. 
+SUMMARY The defendant argued this was a mere _damnum abseque injuria_. 
+HELD An isolated happening was enough for a claim in nuisance to succeed.
+
+NAME Crown River Cruises v Kimbolton
+YEAR 1996
+COURT EWHC
+CITATION Crown River Cruises Ltd v Kimbolton Fireworks Ltd [1996] 2 Lloyd's Rep 533
+CATEGORY Nuisance; Private Nuisance; Duration of Interference
+FLAGS Important
+SUMMARY Cinders from a firework display given by the defendant started a fire on a barge belonging to the claimant.
+HELD Although the nuisance only lasted just twenty minutes, the defendant was liable.
+
+NAME Bamford v Turnley
+YEAR 1862
+COURT 
+CITATION Bamford v Turnley (1862) 3 B&S 66
+FLAGS Important; Development
+CATEGORY Nuisance; Private Nuisance; Public benefit of nuisance
+SUMMARY The defendants, pioneers of self-reliance, fired their own kiln to make bricks to build a themselves a house. The fumes, however, poisoned the claimants _and their servants_, who sued to prevent the nuisance. 
+HELD Reasonable use of land _in the public interest_, which nevertheless creates a nuisance, ought to be allowed to continue -- but there is still liability for remedies other than injunction.
+
+
+
+NAME Dennis v MoD
+YEAR 2003
+COURT EWHC
+CITATION Dennis v Ministry of Defence [2003] EWHC 793 
+CATEGORY Nuisance; Private Nuisance; Defences; Public Benefit
+FLAGS Important; Amusing; EPLR
+SUMMARY The defendant flew aeroplanes close over the top of the claimant's house.
+HELD Public benefit of nuisance will not operate as a defence to injunction where the nuisance is _unreasonable_.
+
+NAME Marcic v Thames Water
+COURT UKHL
+YEAR 2003
+CITATION Marcic v Thames Water Utilities Ltd [2003] UKHL 66
+CATEGORY Nuisance; Private Nuisance; Art. 8 in Nuisance
+FLAGS Important; EPLR
+SUMMARY Effluent from the defendant's sewerage system backed up into a house regularly, flooding it. The claimant argued this amounted to a breach of his Art 8 (family life) rights.
+HELD The claim failed on the facts, but there might be a cause of action in Art 8 where there's none in nuisance.
+
+
+NAME Christie v Davey
+YEAR 1893
+COURT EWCA
+CITATION Christie v Davey [1893] 1 Ch 316
+CATEGORY Nuisance; Private Nuisance; Malicious Nuisance
+FLAGS Amusing
+SUMMARY The claimants were music teachers, whose music had got so thoroughly up the nose of the defendant that he began banging on the walls, clashing pots and pans, shouting and generally being an obnoxious little _fucker_. 
+HELD Actions motivated by malice can indeed constitute a nuisance.
+
+NAME Hollywood Silver Fox Farm v Emmett
+AKA Hollywood Silver Fox Farm
+YEAR 1936
+COURT EWCA
+CITATION Hollywood Silver Fox Farm v Emmett [1936] 2 KB 141
+CATEGORY Nuisance; Private Nuisance; Malicious Nuisance
+FLAGS Amusing
+SUMMARY The defendant property developer objected to a neighbour breeding _silver foxes_ (on grounds, presumably, of bad taste), so had someone go around the perimeter of the land firing off a shotgun, to stop the foxes breeding. Such beasts are, say the headnotes, particularly timid.
+HELD Although there was abnormal sensitivity, the defendant was liable for nuisance because he acted out of malice. Cf. |Robinson v Kilvert|.
+
+#Requirement of fault?
+
+NAME Sedleigh-Denfield v O'Callaghan
+YEAR 1940
+COURT UKHL
+CITATION Sedleigh-Denfield v O'Callaghan [1940] UKHL 8
+CATEGORY Nuisance; Private Nuisance; Fault for Nuisance; Adoption or Continuation of Nuisance
+FLAGS Key; Important; EPLR
+SUMMARY The local authority had undertaken work to improve the drainage of the defendant's land. This work was undertaken negligently -- the grill to a culvert, a type of gulley, had been put in the wrong place. 
+HELD Adoption or continuation of a nuisance (i.e., with knowledge or presumed knowledge, not having taken reasonable steps to address it) gives rise to liability, whether or not the defendant _caused_ the nuisance.
+
+
+NAME Lippiatt v South Gloucestershire
+YEAR 2000
+COURT EWCA
+CITATION Lippiatt v South Gloucestershire Council [2000] QB 51
+CATEGORY Nuisance; Private Nuisance; Fault for Nuisance; Adoption or Continuation of Nuisance
+FLAGS Important; Amusing; EPLR
+SUMMARY Gypsies had set up camp on a field owned by the defendant next to the claimant's property. They used the land as a "lauchpad" for causing nuisance to a the surrounding land including that of the claimant, getting up to all sorts of standard-issue Gypsy nuisance. The council knew of this but reacted ineffectually, and did not evict.
+HELD Following |Hussain v Lancaster|, there is liability for repeated acts of nuisance caused by third parties in occupation of a defendant's land, where no steps are taken to evict. 
+
+NAME Holbeck Hall Hotel v Scarborough
+YEAR 2000
+COURT EWCA 
+CITATION Holbeck Hall Hotel Ltd v Scarborough Borough Council [2000] QB 836
+FLAGS Key; Important
+CATEGORY Nuisance; Private Nuisance; Fault for Nuisance; Nuisance caused by Acts of Nature
+SUMMARY The cliffs under the claimant gave way during a particularly heavy storm, in a fairly large-scale textbook example of a _rotational sheer_ landslide. The claimant sued for their loss of amenity, arguing the landowner, knowing of the hazard, owed them a duty.
+HELD There was indeed a duty to prevent foreseeable natural risks of nuisance, but on the facts, the magnitude of the hazard affecting the claimant's land was unforeseeable.
+
+
+NAME Malone v Laskey
+COURT
+YEAR 1907
+CITATION Malone v Laskey [1907] 2 KB 141
+CATEGORY Nuisance; Private Nuisance; Who can sue
+FLAGS Important; Overruled; Amusing
+SUMMARY Vibrations from an engine on the defendant's property, which ajoined the tithe house in which she lived, caused the lavatory cistern to work loose and fall on her. She and her husband only had a license to live there.
+HELD To sue in nuisance requires a proprietary interest in the affected land -- a mere licensee cannot sue.
+
+NAME Khoransandjian v Bush
+AKA Khoransandjian
+COURT EWCA
+YEAR 1993
+CITATION Khoransandjian v Bush [1993] QB 727
+FLAGS Overruled
+CATEGORY Nuisance; Private Nuisance; Who can sue
+SUMMARY The claimant wanted an injunction to prevent the defendant, a 23-year-old chap, continuing to harass her, an 18-year-old chapesse -- but the chief manifestation of the nuisance was telephone calls to her _parents' house_, where the claimant had no proprietary interest. 
+HELD Harassment was actionable in private nuisance _despite_ not having a proprietary interest in the affected property. 
+HELD Cf. |Malone v Laskey|.
+COMMENT What might explain such a departure from precedent (since overruled) was that this took place before the law contained adequate protection for victims of harassment in the form of, e.g., the _Protection from Harassment Act 1997_.
+
+
+
+NAME Dobson v Thames Water
+COURT EWCA
+YEAR 2009
+CITATION Dobson v Thames Water Utilities [2009] EWCA Civ 28
+FLAGS Interesting; Important; EPLR
+CATEGORY Nuisance; Private Nuisance; Art. 8 in Nuisance
+SUMMARY A joint claim by more than a thousand people, freeholders, leaseholders and those _without any property rights_ in the affected properties. Mogden Sewage Works, operated by the defendant, was a cause of smell and mosquitos. The point of law was whether art. 8 claims the second class of claimants would be entitled to damages in addition to those who received damages in nuisance.
+HELD No double-remedies were to be awarded. The common-law damages paid for the nuisance to householders were intended to recompense the households, not merely the household_ers_.
+
+NAME McKenna v British Aluminium
+COURT EWHC 
+YEAR 2003
+CITATION McKenna v British Aluminium Ltd [2003] Env LR 30
+FLAGS Key; EPLR
+CATEGORY Nuisance; Private Nuisance; Who can sue; Art. 8 in Nuisance
+SUMMARY A group of claimants sued the defendant in nuisance for emissions from their factory.
+HELD Although the law conferred a course of action in |Rylands v Fletcher| only on those with an interest in the affected land, the HRA 1998 in effect extended the rule to include those who did _not_.
+COMMENT A Neuberger J case.
+
+NAME Hussain v Lancaster
+COURT 
+YEAR 2000
+CITATION Hussain v Lancaster CC [2000] QB 1
+FLAGS Key; Important
+CATEGORY Nuisance; Private Nuisance; Who can be sued
+SUMMARY The claimant, a shopkeeper, was subject to serious incidents of racial abuse by tenants from the council estate on which he had his shop. He sued the council for negligence and nuisance, on the grounds that they had failed to throw out the ratbag racists for breaching the express term forbidding racial abuse in their tenancy agreements.
+HELD The person to sue is _generally_ the creator of the nuisance, not the landlord, unless they had authorized the nuisance. 
+HELD See also |Lippiatt v South Gloucestershire|.
+
+#Occupier 
+#(i) Occupier of the land
+
+NAME Matania v National Provincial
+COURT EWCA
+YEAR 1936
+CITATION Matania v National Provincial Bank [1936] 2 All ER 633
+FLAGS Important
+CATEGORY Nuisance; Private Nuisance; Who can be sued
+SUMMARY A singing teacher leased a second-floor flat from which to teach. He moved in and began giving lessons. Then a first-floor flat was granted to someone else, who, with the landlords permission, set about three months of enthusiastic structural modifications, necessitating the usual repertoire of dismaying noise -- hammering, sawing and drilling. The effect of this was to prevent the singing teacher from teaching. He sued the landlord.
+HELD In consenting to a nuisance being caused, an owner is liable for the nuisance caused by another from his land.
+
+
+
+NAME Harris v James
+COURT EWHC
+YEAR 1876
+CITATION Harris v James (1876) 45 LJ QB 545
+FLAGS Important; Development
+CATEGORY Nuisance; Private Nuisance; Who can be sued; Landlords
+SUMMARY The facts of this case are nowhere to be found. Neither the googles, nor westlaw, nor lexis nexis has a copy, and I'm certainly not thumbing around upstairs for it.
+HELD A landlord who authorizes a nuisance, expressedly or impliedly, is liable.
+
+
+NAME Tetley v Chitty
+COURT EWHC
+YEAR 1986
+CITATION Tetley v Chitty [1986] EWHC 1 All ER 663
+FLAGS Important
+CATEGORY Nuisance; Private Nuisance; Who can be sued; Landlords
+SUMMARY The defendant had given permission to its tenant to open a _go-kart club_ on their land. 
+HELD A landlord who authorizes an activity which could _foreseeably_ be a nuisance, is liable.
+
+
+NAME Coventry v Lawrence (no 2)
+YEAR 2014
+COURT UKSC 
+CITATION Coventry v Lawrence (no 2) [2014] UKSC 46
+FLAGS Important; EPLR
+CATEGORY Nuisance; Private Nuisance; Who can be sued; Landlords
+SUMMARY Some washing up from |Coventry v Lawrence|, including on the point of whether the landlord had authorized the nuisance.
+HELD In order to be said to have authorized the nuisance, a landlord must not only have been *aware* and have *neglected to take steps* to reduce it, *but also* the claimant must show a high probability that the nuisance was an inevitable consequence of letting the property out.
+
+
+Summary: Whether a landlord had directly participated in a noise nuisance from a motor-sports stadium was largely a question of fact for the trial judge. The fact that a landlord had done nothing to stop or discourage the nuisance could not amount to participation.
+
+
+NAME Private Nuisance - Defences and Remedies
+AKA Nuisance Remedies
+TYPE Concept
+CATEGORY Nuisance; Private Nuisance; Defences; Remedies
+SUMMARY ~*Generally Ineffective Defences*~
+@*Coming to the nuisance* -- |Sturges v Bridgman|, |Coventry v Lawrence|. 
+@*Public utility* -- |Adams v Ursell|, |Dennis v MoD|.
+SUMMARY ~*Generally Effective*~
+@*Twenty years' prescription* -- |Sturges v Bridgman|, in which the court explicitly stated that had the nuisance already lasted twenty years, the claim would have failed. 
+@*Statutory authority*, which trumps common law claims in tort. |Allen v Gulf Oil Refining|, |Gillingham v Medway Dock Co|.
+SUMMARY ~*Remedies*~
+@The standard *remedy* is always the *equitable injunction*. Otherwise you'd be able to buy the right to commit a tort, which wouldn't really be _on_, would it -- |Kennaway v Thompson|. But if damages are more appropriate, then the judge might freestyle it along _personal injury_ lines -- |Bone v Searle|.
+@There is also *abatement*, a 'self-help remedy,' which should be used very carefully by the claimant so as to avoid any counter claim being raised. TODO -- Clarify this.
+
+
+
+NAME Adams v Ursell
+COURT EWHC
+YEAR 1913
+CITATION Adams v Ursell [1913] 1 Ch. 269
+FLAGS Important
+CATEGORY Nuisance; Private Nuisance; Defences; Public Utility
+SUMMARY The defendant set up a fish and chip shop in rather a smart street, mainly catering for those from poorer parts of town. All this caused consternation and dismay for the residents of the street, curtain-twitching bastards with too much time on their hands that they may well have been. 
+SUMMARY The claim was that the odour was was a nuisance. The defendant argued his shop provided public utility. 
+HELD Public utility is not an effective defence to nuisance. 
+
+
+NAME Allen v Gulf Oil Refining
+COURT UKHL 
+YEAR 1981
+CITATION Allen v Gulf Oil Refining Ltd [1981] UKHL AC 1001
+FLAGS Key; Important; Leading
+CATEGORY Nuisance; Private Nuisance; Defences; Statutory Authority
+SUMMARY An oil refinery authorized by statute and built on the defendant's land caused a nuisance of smell, noise and vibration on the claimant's.
+HELD Lord Wilberforce -- to defeat a claim in private nuisance caused by something for which there is explicit statutory authority, the defendant must show there was *no other way to fulfil Parliament's intention* that avoided creating the nuisance.
+
+NAME Gillingham v Medway Dock Co
+COURT EWHC
+YEAR 1993
+CITATION Gillingham Borough Council v Medway (Chatham) Dock Co Ltd [1993] EWHC QB 343
+FLAGS Important
+CATEGORY Nuisance; Private Nuisance; Defences; Planning Permission
+SUMMARY The claimant had changed the planning permission of its dockyard, to open it up to commercial use. This entailed HGVs chewing up the tarmac at all hours of the day and night, and local residents complained. 
+HELD Where a nuisance had arisen from lawfully-passed planning permissions, the nuisance was to be judged on the basis of the character of the locality *after* not *before* the change of use. 
+HELD That lawful use of the roads would only constitute a public nuisance in extreme circumstances.
+
+
+
+#NAME 1Barr & Ors v Biffa
+#COURT EWCA
+#YEAR 2012
+#CITATION Barr & Ors v Biffa Waste Services Limited [2012] EWCA Civ 312
+#FLAGS EPLR
+#CATEGORY
+#SUMMARY
+#HELD
+
+
+NAME Kennaway v Thompson 
+COURT EWCA
+YEAR 1981
+CITATION Kennaway v Thompson [1981] QB 88
+FLAGS Key; Important
+CATEGORY Nuisance; Private Nuisance; Remedies -- injunction
+SUMMARY The claimant built a house next to a lake into which she moved, shortly before the defendant waterskiing and boat-racing club increased its activites in frequebncy and noise. She sued in nuisance and at first instance was awarded £1K for past nuisance and £15K for future nuisance, the judge ruling that such was the public interest, it would be oppressive to injunct.
+HELD The *routine* remedy for nuisance must be an *equitable injunction*. Were it damages, people would in effect be able to buy the right to commit a tort.
+HELD An injunction was, therefore, granted.
+
+
+
+NAME Bone v Searle
+COURT EWCA
+YEAR 1975
+CITATION Bone v Searle [1975] 1 All ER 787
+FLAGS Important
+CATEGORY Nuisance; Private Nuisance; Remedies -- damages
+SUMMARY The claimants sued a pig-farmer for the nuisance caused by his pigs, particularly the squalid and overpowering smell of pig-shit.
+HELD The assessment of damages for loss of amenity caused by nuisance might well be inspired by, or be parallel to, damages for loss of amenity in personal injury.
+
+
+
+NAME Public Nuisance
+TYPE Concept
+CATEGORY Nuisance; Public Nuisance
+SUMMARY This differs from |Private Nuisance| in being a *crime* as well as a tort, but equally, there's no cause of action for personal injury in public nuisance.
+SUMMARY The accepted definition, from |AG v PYA Quarries| per Romer LJ -- 
+@'An act or omission which materially affects the reasonable comfort and convenience of life of *a class of HM's subjects*. The sphere of the nuisance may be described as generally "the neighbourhood" (|Donoghue|); but the question whether the local community within that sphere comprises a sufficient number of persons to construe a class is a question of fact in every case.'
+SUMMARY *General rule* 
+/A successful claim must prove --  
++ There was *interference* which was *unreasonable*
++ with a *class of HM's subjects*,
++ which caused *special damage to the claimant* beyond that caused to the class;
++ that the *defendant was responsible the interference.*
+
+NAME AG v PYA Quarries
+YEAR 1957
+COURT EWCA
+CITATION Attorney General v PYA Quarries Ltd (no 1) [1957] 2 QB 169 
+CATEGORY Nuisance; Public Nuisance
+FLAGS Key; EPLR
+SUMMARY People living on a road leading to a quarry complained of vibration and dust.
+HELD When something materially affects the comfort and convenience of a class of citizens in a particular place, and enough people are affected, then there can be liability in |Public Nuisance|. 
+HELD Romer LJ -- '...an act or omission which materially affects the reasonable comfort and convenience of life of a class of Her Majesty’s subjects. The sphere of the nuisance may be described generally as "the neighbourhood"; but the question whether the local community within that sphere comprises a sufficient number of persons to constitute a class of the public is a question of fact in every case.'
+
+
+NAME R v Rimmington and R v Goldstien
+YEAR 2005
+COURT UKHL
+CITATION R v Rimmington; R v Goldstien [2005] UKHL 63
+FLAGS Important
+CATEGORY Nuisance; Public Nuisance
+SUMMARY The defendant was *charged* with public nuisance. He'd had sent 538 separate postal packages to members of the public, containing racist material. He'd picked them out by *going through the phone book* and *taking a guess at their race*. What a _cunt_.
+SUMMARY Did the recipients constitute a class of Her Majesty's subjects?
+HELD The court held there were instead 538 separate acts, rather than a _single_ act of public nuisance affecting a large group of the public.
+HELD Lady Hale -- multiple, discrete instances of harm suffered by individuals do not add up to a _common injury_, however similar the harm, in each instance.
+
+NAME Dymond v Pearce 
+YEAR 1972
+COURT EWCA
+CITATION Dymond v Pearce [1972] EWCA 1 All ER 1142
+CATEGORY Nuisance; Public Nuisance
+SUMMARY The passenger of a motorcyclist tried to sue for public nuisance in relation to a road accident. The motorcyclist had managed to crash into a 7'6"-wide lorry parked under a streetlamp (and therefore in a 30mph zone), on a road that was 48' wide, with a clear view from 200 yards ahead.
+SUMMARY He claimed he'd suffered special damage by virtue of being the _one_ member of the public who'd actually crashed into the lorry
+HELD To establish a cause of action in public nuisance for personal injuries, at least in relating to a nuisance on the roads, it must be established that the nuisance was in fact *dangerous*. 
+HELD On the facts, clearly, the accident was the fault of the motorcyclist, and no-one else. 
+
+
+NAME Tate & Lyle v GLC
+YEAR 1983
+COURT UKHL
+CITATION Tate & Lyle Industries v Greater London Council [1983] UKHL 2 
+CATEGORY Nuisance; Public Nuisance
+SUMMARY The claimant owned a stretch of riverbank adjoining its factory, to which it had built jetties for the transport of goods. The defendant built ferry terminals upstream, causing the claimant's to silt up. As their own land rights had not been affected, they could not sue in _private_ nuisance.
+HELD As members of the public had been affected, in the decreased navigability of the river, and as the claimant had suffered special damage, the claim was allowed.
+
+
+#RYLANDS AND FLETCHER
+
+NAME The Rule in Rylands v Fletcher
+AKA Rylands Rule
+TYPE Concept
+CATEGORY Nuisance; Rylands v Fletcher
+SUMMARY From |Rylands v Fletcher| per Blackburn J as amended by Lord Cairns in the HL --  
+@'...the person who for his own purposes *brings on his land* and *collects and keeps there* anything likely to do mischief if it *escapes*, must keep it *in* at his peril, and, if he does not do so, is *prima facie answerable* for all the damage which is the natural consequence of its escape' 
+@The use of the land must be *non-natural*.
+SUMMARY This is a tort of *strict liability*. There is no need to show faulty conduct.
+/Per Blackburn J in |Rylands| -- 
+@... The general rule, as above stated, seems on principle just. The person whose grass or corn is eaten down by the escaping cattle of his neighbour, or whose mine is flooded by the water from his neighbour's reservoir, or whose cellar is invaded by the filth of his neighbour's privy, or whose habitation is made unhealthy by the fumes and noisome vapours of his neighbour's alkali works is *damnified without any fault of his own* ...'
+
+SUMMARY ~*Compared to |Private Nuisance|*
+/The relationship with vanilla nuisance is uncertain. 
+@In |Cambridge Water v Eastern Counties Leather|, Goff LJ considered it was merely an offshoot of nuisance. Or, at least, an expansion of nuisance to suit patterns of facts in which the nuisance was not *continued* or *repeated*. 
+SUMMARY ~*Elements*~
++*Dangerousness* -- in |Rylands v Fletcher| itself, water in a reservoir. In |Transco v Stockport|, water in pipes. In |Cambridge Water v Eastern Counties Leather|, chemicals for tanning.
++*Escape* does not need to be _likely_. There is no requirement for negligence.  |Gore v Stannard (Wyvern Tyres)|
++*Collects/accumulates* -- this cannot be something _natural_ -- |Ellison v MoD|, and has to be done _deliberately_ -- |LMS Int v Styrene|.
++*Non-natural use* amounts to whatever the judge says it does. But it can't be the act of a third party -- |Rickards v Lothian|, although that's Privy Council. It's also natural to have (water) pipes running across the land -- |Transco v Stockport|.
+SUMMARY ~*Who can sue?*~
+@Those who have an interest in the land -- |Cambridge Water v Eastern Counties Leather|, |Transco v Stockport|, |McKenna v British Aluminium|. And *Who can be sued?* The occupier -- |Rylands v Fletcher|.
+SUMMARY ~*Defences*~
+@*Claimant's own fault* -- |Ponting v Noakes|, *Act of a 3rd Party* -- |Tennent v Earl of Glasgow|. There is also *consent*, which may be express or implied, and *legislation*.
+SUMMARY ~*Remedy*~
+@Usually *damages*, cf. |Nuisance Remedies|.
+SUMMARY Note there have been no successful claims under the Rylands v Fletcher rule since the war.
+
+NAME Rylands v Fletcher
+AKA Rylands
+YEAR 1868
+COURT UKHL
+CITATION Rylands v Fletcher [1861] UKHL 1
+CATEGORY Nuisance; Rylands v Fletcher
+FLAGS Key; Important; EPLR
+SUMMARY The defendant had contracted to have a reservoir constructed. The contractors discovered improperly shut-off mine-shafts, but chose to work on, rather than blocking them up for good. The reservoir was duly filled, flooding the workings underneath. But they were connected to mines under a neighbour's land, which were also flooded. The neighbours sued for the sum of, in modern cash, about £100K.
+HELD Amended in the Lords by Lord Cairns, Blackburn J -- '...the person who for his own purposes *brings on his land* and *collects and keeps there* anything likely to do mischief if it *escapes* [and is non-natural use--Lord Cairns], must keep it *in* at his peril, and, if he does not do so, is *prima facie answerable* for all the damage which is the natural consequence of its escape.
+/->-... The general rule, as above stated, seems on principle just. The person whose grass or corn is _eaten down by the escaping cattle_ of his neighbour, or whose _mine is flooded _by the water from his neighbour's reservoir, or whose _cellar is invaded by the filth of his neighbour's privy_, or whose habitation is made unhealthy by the fumes and noisome vapours of his neighbour's alkali works is _damnified without any fault of his own_.'
+/->-I.e., _strict liability_.
+
+
+NAME Transco v Stockport 
+COURT UKHL
+YEAR 2003
+CITATION Transco Plc v Stockport MBC [2003] UKHL 61
+CATEGORY Nuisance; Rylands v Fletcher; Meaning of Dangerous
+FLAGS Important; EPLR
+SUMMARY A leak had developed in a watermain supplying a block of flats, the responsibility for maintenance of which lay with the defendant. The water collected by and damaged a gas main belonging to the claimant, who repaired the damage then sued for their costs of repair under |Rylands|.
+HELD The use of land must be _non-natural_ for claims under the |Rylands| rule to succeed. Running water pipes across land is hardly that, and so the claim failed.
+HELD Lord Bingham suggested the test ought to be _ordinary user_ rather than _natural user_, to make the circumstances of application of the rule, which are extraordinariness and unusualness, clearer -- but that in any case the test is not to be applied inflexibly.
+
+NAME Gore v Stannard (Wyvern Tyres)
+YEAR 2012
+COURT EWCA
+CITATION Gore v Stannard (trading as Wyvern Tyres) [2012] EWCA Civ 1248
+FLAGS Important
+CATEGORY Nuisance; Rylands v Fletcher; Nuisance compared to Rylands; Escape
+SUMMARY Some tyres were brought onto the defendant's land, which caught fire. As Jesse Elvin puts it, 'which as you might know if you've ever seen The Simpsons is something tyres do.' The *fire* escaped, not the tyres. 
+HELD If something likely to cause mischief is brought onto the land; *and* it *escapes*, *and* it causes *harm*, then there will be liability. 
+
+
+NAME LMS Int v Styrene
+COURT EWHC
+YEAR 2005
+CITATION LMS International v Styrene Packaging Ltd [2005] EWHC 2065 
+CATEGORY Nuisance; Rylands v Fletcher; Deliberate Accumulation
+FLAGS Important; Amusing
+SUMMARY Packaging being cut by the defendant using a hot-wire cutter caught fire, and the *fire* escaped and caused damage to the claimant, whose premises were next door.
+HELD For the purposes of the |Rylands v Fletcher| rule, deliberately accumulating something not _per se_ dangerous if it escapes, but could give rise to something that itself could escape -- e.g., something flammable and _fire_ -- is enough to fulfil the requirement. 
+COMMENT Wrongly decided according to Jesse Elvin, because of |Gore v Stannard|. In _Westlaw_'s opinion, it's good law. Lexis by contrast does *not* give an opinion.
+
+NAME Ellison v MoD
+YEAR 1997
+COURT EWHC
+CITATION Ellison v Ministry of Defence (1997) 81 BLR 101 
+CATEGORY Nuisance; Rylands v Fletcher; Deliberate Accumulation
+FLAGS Important
+SUMMARY The claimant owned land adjacent to the defendant's land, the drainage of which they'd altered. A summer storm in 1986 caused an accumulation of water on the defendant's land which, argued the claimant under |Rylands|, escaped and flooded their land.
+HELD If what has escaped is something naturally present, or apt to be naturally present such as rainwayter, then it cannot be said to have been deliberately accumulated.
+
+
+NAME Rickards v Lothian 
+YEAR 1913
+COURT UKPC	
+CITATION Rickards v Lothian [1913] AC 263
+CATEGORY Nuisance; Rylands v Fletcher; Non-natural use; Defences; Act of a Stranger
+FLAGS Amusing; EPLR
+SUMMARY The claimant's premises, on the second floor of a building owned by the defendant, had been flooded when an unknown prankster blocked all the sinks in the lavs two floors above and turned on all the taps.
+HELD When the escape is caused by the act of a _third party_, the use of the land cannot be said to be _non-natural_.
+
+
+NAME Ponting v Noakes
+YEAR 1894
+COURT EWHC
+CITATION Ponting v Noakes [1894] 2 QB 281
+CATEGORY Nuisance; Rylands v Fletcher; Defences; Claimant's own fault
+SUMMARY A horse belonging to the claimant was poisoned when it stuck its head _over the defendant's fence_ and nibbled at some leaves from a yew tree. Poor thing. The claimant argued |Rylands|, saying the yew tree had _escaped_ from the defendant's land.
+HELD When nothing escapes, and the damage is caused by the claimant's own acts, there is no liability in |Rylands v Fletcher|.
+
+
+NAME North Western v London Guarantee
+YEAR 1939
+COURT UKPC
+CITATION North Western Utilities Ltd v London Guarantee Co [1939] AC 108
+CATEGORY Nuisance; Rylands v Fletcher; Defences; Act of a Stranger
+SUMMARY *Summary missing* 
+HELD If an escape is due to the actions of a third party, and the claimant knows of their actions, then there is a strong presumption against liability in |Rylands v Fletcher|.
+
+
+NAME Tennent v Earl of Glasgow
+YEAR 1864
+COURT UKHL
+CITATION Tennent v Earl of Glasgow (1864) 2 M (HL) 22
+CATEGORY Nuisance; Rylands v Fletcher; Defences; Act of God
+SUMMARY *Summary Missing*
+HELD When an escape is down to an act of God, there will be no liability under the |Rylands Rule|. 
+HELD Provided a useful definition of an act of God -- 'circumstances which *no human foresight* can provide against, and of which human *prudence is not bound to recognize the possibility*, and which when they do occur, therefore, are *calamities* that *do not involve the obligation* of paying for the *consequences* that may result from them.'
+COMMENT Jesse thinks this has been used _once_, in 1876.
+
+

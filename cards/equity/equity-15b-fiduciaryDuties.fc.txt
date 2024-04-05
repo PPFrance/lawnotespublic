@@ -1,0 +1,245 @@
+
+NAME Bristol and West BS v Mothew 
+CITATION Bristol and West Building Society v Mothew [1997] 2 WLR 436
+CATEGORY Fiduciary Duties
+#CATEGORY Fiduciary Duties; No Conflict Rule
+FLAGS Important; Definitions
+HELD Useful modern authority for the nature of a fiduciary, which comprises an undertaking to act in another's best interest, generally or for specifics. That the beneficiary has not solicited the fiduciary duty is immaterial.
+HELD "A fiduciary is, simply someone who *undertakes to act for or on behalf of another in some particular matter or matters*. That undertaking may be of general character. It may be specific and limited. It is immaterial whether the undertaking is gratuitous. And the undertaking may be officiously assumed without request... [A fiduciary] is expected to act in the interest of the other – to act selflessly and with undivided loyalty" (Finn, Fiduciary Obligations). 
+
+NAME Tesco v Pook
+CITATION Tesco Stores v Pook [2003] EWHC 823 (Ch) 
+CATEGORY Fiduciary Duties; Categories of Relationships; Unauthorised Profits
+SUMMARY The respondent, the e-Commerce manager for Tesco in South Korea, was paid £500K invoices for services that were never delivered. He argued it was in fact a loan.
+HELD A senior employee may owe a fiduciary duty to his employer.
+
+
+NAME Reading v AG
+CITATION Reading v Attorney General [1951] AC 507
+CATEGORY Fiduciary Duties; Bribes
+SUMMARY An army sergeant in Egypt had fallen into the somewhat absent-minded habit of accepting large sums of cash to drive lorries crammed with illicit spirits from place to place, *wearing his uniform* so he wouldn't get stopped. He claimed he _suspected_, but did not _know, what was in the lorries. He was imprisoned. On release, he claimed for the return of the cash. 
+HELD A fiduciary duty is owed by a soldier to the Crown. A fiduciary who makes a profit by abuse of the fiduciary duty, whether legal or illegal, will be liable for accounting of profits. {TODO: Check whether this is *equitable* accounting of profits.}
+
+HELD Per Lord Normand -- 'the soldier owed a fiduciary duty to the Crown and profits gained by him by the use or abuse of his military status were recoverable by it. _Quaere_ whether the Crown could have recovered on the footing of money had and received.'
+
+
+
+NAME AG v Blake
+CATEGORY Fiduciary Duties
+SUMMARY Secrets divulged by George Blake in _No Other Choice_ had been learnt about whilst still hush-hush, although they'd ceased to be so by the time he published. The Crown sued for the royalties, arguing that since they'd come about in breach of fiduciary duty, Blake had been unjustly enriched.
+-- SUMMARY As to whether the book was one long and very tiring exercise in special pleading and self-exculpation -- the clue's in the title.
+HELD (i) A fiduciary unjustly enriched by a breach that caused no detriment to the principal will nevertheless be liable to account for profits. (ii) The categories of relationships in which a fiduciary duty arises is not closed.  Cf. |Reading v AG|.
+
+
+
+NAME English v Dedham Vale
+CITATION English v Dedham Vale Properties Ltd [1978] 1 WLR 93
+CATEGORY Fiduciary Duties
+HELD The categories of relationships in which a there is a fiduciary duty are *not* closed.
+
+
+NAME Bray v Ford
+CITATION Bray v Ford [1896] AC 44
+CATEGORY Fiduciary Duties; No Profit Rule
+CATEGORY Fiduciary Duties; No Conflict Rule
+FLAGS Important; Definitions
+HELD In the absence of express permission, a fiduciary may not make a profit from his duty, and must not put himself in a position where his interests conflict with his fiduciary duty. However, there are potentially *many* cases in which departing from these two rules would not be immoral, would do no damage, and would not make anyone think anything *wrong* was being done.
+HELD Lord Hershell -- 'it is an inflexible rule of a Court of Equity that a *person in a fiduciary position* ... is *not*, unless otherwise expressly provided, *entitled to make a profit*; he is not allowed to put himself in a position where his interest and duties conflict. ... But I am satisfied that it might be departed from in many cases, without any breach of morality, without any wrongdoing being inflicted and without any consciousness of wrong-doing'
+
+NAME Aberdeen Railway v Blaikie
+WIKILINK https://en.wikipedia.org/wiki/Aberdeen_Rly_Co_v_Blaikie_Bros
+CITATION Aberdeen Rly v Blaikie Bros (1854) 1 Macq. 461
+CATEGORY Fiduciary Duties; No Conflict Rule; Self-Dealing
+HELD A director has a fiduciary duty to his company, and may not enter into an engagement which will set his personal interests against those of his company. 
+
+NAME Re Macadam
+CITATION Re Macadam [1946] Ch 73
+CATEGORY Fiduciary Duties; No Profit Rule
+HELD A fiduciary may not profit, even when the profit is not from the trust fund itself, but arises indirectly.
+
+
+NAME Keech v Sandford
+CITATION Keech v Sandford (1726) Sel.Cas.Ch. 61
+FLAGS Important
+WIKILINK https://en.wikipedia.org/wiki/Keech_v_Sandford
+CATEGORY Fiduciary Duties; No Profit Rule
+CATEGORY Fiduciary Duties; No Conflict Rule
+SUMMARY In infancy, Keech had inherited the lease on Romford market, and Sandford had been entrusted with the property. The lease came up for renewal, but the landlord refused to renew it to an infant, on the basis that he would lack legal remedies of enforcement against a lesor not _sui juris_. So Sandford himself took the title to the lease himself. When Keech grew up, he sued Sandford for the profit he'd made, on the basis that _he_ ought to have made it.
+HELD A trustee owes a fiduciary duty to the trust's beneficiaries. He is therefore prevented from pursuing opportunities related to the trust property from which conflicts of interest would arise, and may *not* profit from the property. 
+HELD The court decided the defendant in fact held the lease and its profits on trust for the claimant.
+
+
+
+NAME O'Sullivan v Management Agency
+NAME O'Sullivan v Management Agency [1985] QB 428
+CATEGORY Fiduciary Duties; No Profit Rule; Remuneration of Trustees
+HELD Even where there has been wrongdoing, it may be appropriate to remunerate trustees.
+
+
+NAME Re Duke of Norfolk's STs
+AKA Re Duke of Norfolk
+CATEGORY Fiduciary Duties; Remuneration of Trustees
+CITATION Re Duke of Norfolk’s Settlement Trusts [1982]
+HELD It may be appropriate to award remuneration to trustees who undertake *significantly more than would normally be expected* -- such as the total redevelopment of a large landed estate belonging to the trust.
+
+
+NAME Ex p Lacey
+CITATION Ex p Lacey (1802) 6 Ves 625 
+CATEGORY Fiduciary Duties; Self-Dealing
+HELD Where a trustee has bought the property of the trust, the transaction is voidable by the beneficiaries.
+
+
+NAME Ex p James
+CITATION Ex p James (1803) 8 Ves 337
+CATEGORY Fiduciary Duties; Self-Dealing
+HELD 'The purchase of trust property by the trustee on his own account is not permitted in any case, *however honest the circumstances*. The general interest of justice requiring it to be destroyed in every interest... as no court is equal to the examination and ascertainment of the truth in much the greater number of cases'
+
+
+NAME Holder v Holder
+CITATION Holder v Holder [1968] Ch 353
+CATEGORY Fiduciary Duties; Self-Dealing; Exception
+SUMMARY The executor of a will was also a minor beneficiary. But he wanted to buy the will's main property, a farm. He realised he was prevented from doing so as executor, although his duties as such were only minor. He attempted to disclaim executorship, explaining why. The beneficiaries didn't object. Unbeknownst to all, the disclaimer was ineffective, as it hadn't been done by deed -- he remained in a fiduciary relationship with the beneficiaries as he purchased their property.
+SUMMARY He went ahead and purchased, and later got sued. 
+HELD A claim for rescission of a self-dealing transaction by a fiduciary usually succeeds. But when there is no dishonesty, and a genuine attempt to end the fiduciary relationship which everyone concerned believes has succeeded; and when the beneficiaries assented to the purchase; and when the purchase is not as a result of knowledge obtained as a fiduciary -- then the court may *refuse* to rescind. The maxim _Delay Defeats Equity_ may further militate against such a claim.
+COMMENT Margaret Carran's view is that this is nevertheless wrongly decided, as assent of beneficiaries provides no defence.  
+
+NAME Re Thompson's Settlement
+AKA Re Thompson
+CITATION Re Thompson's Settlement [1986] Ch 99
+
+
+NAME Regal Cinemas v Gulliver
+CITATION Regal Cinemas (Hastings) Ltd v Gulliver [1942] 1 All ER 378
+CATEGORY Fiduciary Duties; Unauthorised Profits; Corporate Opportunity
+SUMMARY A parent company created a subsidiary company with a share capital of £5K, only £2K of which was paid-up. The landlord of two cinemas from which the subsidiary company was to lease two cinemas _refused_ to agree to the lease unless all the shares were paid-up. Regal couldn't find the extra £3K, so authorised the four directors, the solicitor, plus one of the chairman's pals, to forward £500 each. Everything went ahead. The company was then bought out, and a substantial profit was made each of those who'd forwarded money. The acquiring company sued them on the basis that such profits were unauthorised. The four directors _were_ liable, but neither the solicitor nor the chairman’s friend. The solicitor was not accountable as his profit was fully authorized.
+HELD Profits made through knowledge arising by virtue of a fiduciary duty are the property of the person to whom the duty is owed.
+
+
+NAME Boardman v Phipps
+CITATION Boardman v Phipps [1967] 2 AC 46
+CATEGORY Fiduciary Duties; Unauthorised Profits; Corporate Opportunity
+FLAGS Key
+SUMMARY The subject of a family trust was a minority shareholding in a textiles concern in the black country and Australia. In the opinion of the two active trustees, the shares produced a poor return through inefficient management. Together with their solicitor, Boardman, they hatched a plan to appoint one of the beneficiaries (Phipps) a director of the company. The appointment was duly made. 
+SUMMARY As a director, Phipps, accompanied by Boardman as proxy on behalf of the trust, attended internal meetings at which he learnt of confidential information about the inner workings of the company. Boardman recommended to the trust that it purchase more shares. It declined to do so, so Boardman bought them himself. He revitalised the company, realising a substantial profit for the trust -- but also for his *own* shares.   
+SUMMARY No-one had lost out, but one of the beneficiaries nevertheless sued Boardman for the profit his shares had made, claiming that the *information* leading him to buy the shares had been obtained in performance of his fiduciary duty to the trust.
+SUMMARY Could _information_ be the subject property of a trust? 
+
+HELD Confidential information that becomes known to a fiduciary as a consequence of carrying out his or her fiduciary duties, may have proprietorial characteristics, and therefore be rightly considered part of the trust property held for the beneficiaries. Profits made as a result of acting on this information, therefore, may belong to the trust fund.
+COMMENT Critics argue that this case demonstrates the harshness of fiduciary duties. On the other hand, Boardman could have sought the authorisations he needed.
+
+
+NAME Industrial Development v Cooley
+CITATION Industrial Development Consultant Ltd v Cooley [1972] 1 WLR 443
+CATEGORY Fiduciary Duties; Unauthorised Profits; Corporate Opportunity; End of Fiduciary Duty
+SUMMARY The defendant, an architect, resigned from board, pretending to be ill. He then 'recovered' and took up the offer of a contract that had been made to him when a director. In fact the company would not have been able to take the contract, but that didn’t matter.
+HELD Profits made from the exploitation of a corporate opportunity learnt as a fiduciary, which was dishonesty ended in order to profit from the opportunity, will be considered secret profits, the equitable interest of which belongs to the principal to whom the fiduciary duty was owed.
+
+
+NAME Guinness v Saunders
+CITATION Guinness Plc v Saunders [1990] 2 AC 663
+CATEGORY Fiduciary Duties; Unauthorised Profits; No Profit Rule
+SUMMARY Saunders had been appointed to negotiate a takeover bid, for  successful completion of which he was to be paid £5.2M. Whence a conflict of interests -- his job as a director was to act in the best interest of the company, and his interests as a man who stood to make £5.2M was to make £5.2M. He negotiated the takeover and was paid... but had to pay it back. Also wound up in jail.
+HELD A purported authorisation for a fiduciary to make a profit is ineffective if the party purporting to make it has no power to do so -- and only a board of directors can authorise remuneration to board members.
+
+
+NAME Bhullar v Bhullar
+CITATION Bhullar v Bhullar [2003] 2 BCLC 241
+CATEGORY Fiduciary Duties; Unauthorised Profits; Corporate Opportunity
+SUMMARY A grocery was owned equally by two families, who fell out. They agreed to live on what they had, and not to invest in anything else. But one of the directors saw an opportunity to buy a property next to the one they already had -- so he created a new company, Silvercrest and bought the new property. 
+HELD A fiduciary can be accountable for the exploitation of a corporate opportunity *even though* the principal may have foresworn its exploitation.
+
+
+NAME Island Export v Umuna
+CITATION Island Export finance Ltd v Umuna [1986]
+CATEGORY Fiduciary Duties; Unauthorised Profits; Corporate Opportunity; End of Fiduciary Duty
+
+
+NAME Balston v Headline
+CITATION Balston Ltd v Headline Filters Ltd [1990] FSR 385
+CATEGORY Fiduciary Duties; Unauthorised Profits; Corporate Opportunity; End of Fiduciary Duty
+HELD A director's intention to exploit a corporate opportunity after the  termination of directorship is _not_ per se a breach of fiduciary duty, particularly when the opportunity _was_ exploited by the principal, who decided to _cease_  doing so. Neither is failure to disclose such an intention a breach.
+HELD Falconer J -- 'In my judgment an intention by a director of a company to set up business in competition with the company after his directorship has ceased is *not to be regarded as a conflicting interest* within the context of the principle, having regard to the rules of public policy as to restraint of trade, nor is the taking of any preliminary steps to investigate or forward that intention so long as there is no actual competitive activity, such as, for instance, competitive tendering or actual trading, while he remains a director.'
+
+
+NAME Lister v Stubbs
+CITATION Lister v Stubbs (1890) 45 Ch D 1
+CATEGORY Fiduciary Duties; Bribes
+FLAGS Key
+SUMMARY A chap had taken bungs to buy dyes from a particular company, to the potential detriment of his own. He invested the money in land, which went up in value. Should the claimant get the benefit of the increased value of the land?
+HELD In order to avoid unjust enrichment, a fiduciary who took a bribe was personally liable, rather than subject to a proprietary remedy. Ultimately overturned (after much criticism) in |Mankarious 2|
+
+
+
+NAME AG for HK v Reid
+AKA HK v Reid
+CITATION Attorney General for Hong Kong v Reid [1994] 1 AC 324
+COURT UKPC
+CATEGORY Fiduciary Duties; Bribes; Proprietary Remedies
+FLAGS Persuasive; Criticised
+WIKILINK https://en.wikipedia.org/wiki/A-G_for_Hong_Kong_v_Reid
+SUMMARY Reid, the equivalent of the DPP of HK, had accepted bribes to prevent prosecutions. Invested in some property in New Zealand -- he was himself a Kiwi.
+SUMMARY The argument was put that, as _equity looks as done that which ought to be done_, he *ought* to have done on having received the bribes, was to give them straight to the principle, the Crown. The bribe, it was therefore asserted, belonged to the principle.
+
+HELD A bribe paid to a fiduciary is recoverable by the principal in equitable accounting, along with any profits it may have made. _Equity considers as done that which *ought* to have been done_, so a fiduciary who takes a bribe ought to transfer it immediately to his principal. The beneficial interest of a bribe received by a fiduciary, therefore, belongs ab initio to the principal. 
+
+
+HELD Lord Templeman -- 'the false fiduciary who received the bribe in breach of duty *must pay and account for the bribe to the person to whom that duty was owed. In the present case, as soon as the first respondent received a bribe in breach of the duties he owed to the Government of Hong Kong, he became a debtor in equity to the Crown for the amount of that bribe.* So much is admitted. 
+/->-But if the *bribe consists of property which increases in value* or if a cash bribe is invested advantageously, the false *fiduciary will receive a benefit* from his breach of duty *unless he is accountable not only for the original amount* or value of the bribe *but also for the increased value of the property* representing the bribe. 
+/->-As soon as the bribe was received it should have been paid or transferred instanter to the person who suffered from the breach of duty. Equity considers as done that which ought to have been done. As soon as the bribe was received, whether in cash or in kind, the false fiduciary held the bribe on a constructive trust for the person injured. Two objections have been raised to this analysis. First it is said that if the fiduciary is in equity a debtor to the person injured, he cannot also be a trustee of the bribe. But there is no reason why equity should not provide two remedies, so long as they do not result in double recovery. If the property representing the bribe exceeds the original bribe in value, the fiduciary cannot retain the benefit of the increase in value which he obtained solely as a result of his breach of duty. Secondly, it is said that if the false fiduciary holds property representing the bribe in trust for the person injured, and if the false fiduciary is or becomes insolvent, the unsecured creditors of the false fiduciary will be deprived of their right to share in the proceeds of that property. But the unsecured creditors cannot be in a better position than their debtor. The authorities show that property acquired by a trustee innocently but in breach of trust and the property from time to time representing the same belong in equity to the cestui que trust and not to the trustee personally whether he is solvent or insolvent. Property acquired by a trustee as a result of a criminal breach of trust and the property from time to time representing the same must also belong in equity to his cestui que trust and not to the trustee whether he is solvent or insolvent.
+
+
+
+NAME Swindle v Harrison
+CITATION Swindle v Harrison [1997] 4 All ER 705
+CATEGORY Fiduciary Duties; Bribes
+
+
+NAME Daraydan Holdings v Solland
+CITATION Daraydan Holdings Ltd v Solland International Ltd [2004] EWHC 622 (Ch) 
+CATEGORY Fiduciary Duties; Bribes
+SUMMARY The price of a purchase was inflated by 10%, as a bribe.
+HELD A bribe paid to a fiduciary *mixed into the principle fund* will give rise to an equitable remedy. {TODO - Check this, seems inconsistent with Sinclair, Mankarious, etc.}
+
+
+
+NAME Sinclair Investments v Versailles
+AKA Sinclair
+CITATION Sinclair Investment (UK) Ltd v Versailles Trade Finance Ltd [2011] 4 All ER 335
+CATEGORY Fiduciary Duties; Bribes; Remedies
+FLAGS Neuberger
+WIKILINK https://en.wikipedia.org/wiki/Sinclair_Investments_(UK)_Ltd_v_Versailles_Trade_Finance_Ltd
+SUMMARY Sinclair had paid substantial sums to a network of companies operated by two gentlemen impressive in their capacity to keep everyone hoodwinked for half a decade. In 1999 they were found out and jailed, and Versailles put into administration. Sinclair sued, claiming a proprietary interest in the monies made by the two ratbag fraudsters. 
+SUMMARY At first instance, Lewison J followed |Lister v Stubbs|, regretting that he could not apply |AG for HK v Reid|. Finding that no trust had arisen, Sinclair's claim was merely as a common-law creditor.
+HELD Attractive Privy Council decisions notwithstanding, the general rule in established precedent is that the remedy for unauthorised profits made in breach of fiduciary duty is *personal*. A proprietary remedy is only available if the asset of money was, or had been, *beneficially* the property of the claimant -- or where the trustee acquired the asset by taking advantage of an opportunity or right which was the property of the beneficiary.  
+HELD This preference for personal remedies has the advantage of leaving more assets available to be distributed to the creditors of an insolvent company.
+HELD Neuberger MR, obiter -- the Court of Appeal can only get away with preferring a non-binding Privy Council decision to a binding domestic authority when it's a _foregone conclusion_ that the Supreme Court would do likewise.
+COMMENT Virgo praises this; others argue it ignores the public policy consideration animating |AG for HK v Reid|.
+
+
+
+
+NAME FHR v Mankarious 
+AKA Mankarious 1
+COURT EWCA
+CITATION FHR European Ventures LLP v Mankarious [2014] 3 WLR 535
+CATEGORY Fiduciary Duties; Bribes
+
+
+NAME FHR v Cedar Capital 
+AKA Mankarious 2
+COURT UKSC
+FLAGS Neuberger; Leading
+CITATION FHR European Ventures LLP v Cedar Capital Partners LLC [2014] UKSC 45
+WIKILINK https://en.wikipedia.org/wiki/FHR_European_Ventures_LLP_v_Cedar_Capital_Partners_LLC
+CATEGORY Fiduciary Duties; Bribes
+SUMMARY Mankarious, the ratbag behind Cedar Capital, had acted for both sides in negotiations for the Monte Carlo hotel, including a 'fee' of $10M. 
+HELD Tacitly overruling Neuberger MR in |Sinclair|, the leading speech given by Lord Neuberger found the general rule to be that a principal does indeed own the beneficial interest of a benefit or opportunity acquired by a fiduciary by virtue of the fiduciary duty.
+HELD 'An agent having acquired benefit which came to his notice as a result of his fiduciary position, or through an opportunity resulting from that position, *the general rule was that he was to be treated as having acquired the benefit on behalf of his principal,* so that the benefit was owned by the principal, who had acquired *proprietary as well as personal* remedies against the agent'
+
+
+
+
+
+
+
+

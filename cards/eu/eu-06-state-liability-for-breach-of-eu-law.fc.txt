@@ -1,0 +1,217 @@
+--STOP--
+
+META filename eu-06-state-liability-for-breach-of-eu-law.fc.txt
+
+
+
+
+
+NAME Rewe v Landwirtschaftskammer für das Saarland
+CASENUM C-33/76
+CITATION Rewe v Landwirtschaftskammer für das Saarland [1976] ECR 1989:
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; The Principle Of Procedural Autonomy
+FLAGS
+
+
+
+
+
+
+NAME and C-431/93 Van Schijndel and Van Veen v SPF
+CASENUM C-430/93
+CITATION and C-431/93 Van Schijndel and Van Veen v SPF [1995] ECR I
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; What Does It Mean For National Courts?
+FLAGS
+
+
+
+
+
+
+NAME R v Sec of State for Transport ex p. Factortame
+CASENUM C-213/89
+CITATION R v Sec of State for Transport ex p. Factortame [1990] ECR I
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; Effectiveness
+FLAGS
+
+
+
+
+
+
+NAME Unibet
+CASENUM C-432/05
+CITATION Unibet [2007] ECR I
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; Summarising The Position So Far
+FLAGS
+
+
+
+
+
+
+NAME Johnston
+CASENUM C-222/84
+CITATION Johnston [1986] ECR 1651
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; Summarising The Position So Far
+FLAGS
+
+
+
+
+
+
+NAME Rewe
+CASENUM C-33/76
+CITATION Rewe [1976] ECR 1989
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; Summarising The Position So Far
+FLAGS
+
+
+
+
+
+
+NAME Safalero
+CASENUM C-13/01
+CITATION Safalero [2003] ECR I
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; Summarising The Position So Far
+FLAGS
+
+
+
+
+
+
+NAME 1Rewe
+CASENUM C-158/80
+CITATION Rewe [1981] ECR 1805
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; Summarising The Position So Far
+FLAGS
+
+
+
+
+
+
+NAME Rewe, paragraph 5; Comet, paragraph 16; and Factortame, paragraphs 19 to
+CASENUM C-33/76
+CITATION Rewe, paragraph 5; Comet, paragraph 16; and Factortame, paragraphs 19 to 23)
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; Summarising The Position So Far
+FLAGS
+
+
+
+
+
+
+NAME to C-89/90 Verholen and Others
+CASENUM C-87/90
+CITATION to C-89/90 Verholen and Others [1991] ECR I
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; Summarising The Position So Far
+FLAGS
+
+
+
+
+
+
+NAME Rewe, paragraph 5; Comet, paragraphs 13 to 16; Peterbroeck, paragraph 12; Courage and Crehan, paragraph 29; Eribrand, paragraph 62; and Safalero, paragraph 49).
+CASENUM C-33/76
+CITATION Rewe, paragraph 5; Comet, paragraphs 13 to 16; Peterbroeck, paragraph 12; Courage and Crehan, paragraph 29; Eribrand, paragraph 62; and Safalero, paragraph 49). 
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; Summarising The Position So Far
+FLAGS
+
+
+
+
+
+
+NAME Aktien-Zuckerfabrik Schoeppenstedt v Council
+CASENUM C-5/71
+CITATION Aktien-Zuckerfabrik Schoeppenstedt v Council [1971] ECR 975:
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; The Notion Of Liability For Illegal Acts
+FLAGS
+
+
+
+
+
+
+NAME and C-9/90 Francovich and Bonifaci v Italy
+CASENUM C-6/90
+CITATION and C-9/90 Francovich and Bonifaci v Italy [1991] ECR I
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; The Introduction Of The Principle Of State Liability
+FLAGS
+
+
+
+
+
+
+NAME and 48/93 Brasserie du Pecheur SA v Germany and R v Secretary for
+CASENUM C-46/93
+CITATION and 48/93 Brasserie du Pecheur SA v Germany and R v Secretary for 
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; Which Violations?
+FLAGS
+
+
+
+
+
+
+NAME Gerhard Koebler v Austria
+CASENUM C-224/01
+CITATION Gerhard Koebler v Austria [2003] ECR I
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; Which Organs Of The State?
+FLAGS
+
+
+
+
+
+
+NAME and 48/93 Brasserie du Pecheur and Factortame III:
+CASENUM C-46/93
+CITATION and 48/93 Brasserie du Pecheur and Factortame III: 
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; What Is A ‘Sufficiently Serious Breach’?
+FLAGS
+
+
+
+
+
+
+NAME Bergaderm
+CASENUM C-352/98
+CITATION Bergaderm [2000] ECR I
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; What Is A ‘Sufficiently Serious Breach’?
+FLAGS
+
+
+
+
+
+
+NAME and C-9/90
+CASENUM C-6/90
+CITATION and C-9/90 Francovich
+CATEGORY State Liability For Breach Of Eu Law; Main Reading; The Role Of National Courts
+FLAGS
+
+
+
+
+
+
+NAME R v Ministry of Agriculture, Fisheries and Food ex parte Hedley Lomas 	(Ireland) Ltd
+CASENUM C-5/94
+CITATION R v Ministry of Agriculture, Fisheries and Food ex parte Hedley Lomas 	(Ireland) Ltd [1996] ECR I
+CATEGORY State Liability For Breach Of Eu Law; Ecr I-1631
+FLAGS
+
+
+
+
+
+

@@ -1,0 +1,178 @@
+
+NAME Land Registration
+CATEGORY Land Registration
+WIKILINK Land Registration Act 2002 https://en.wikipedia.org/wiki/Land_Registration_Act_2002
+WIKILINK Land Registration Act 1925 https://en.wikipedia.org/wiki/Land_Registration_Act_1925
+WIKILINK Land Registry Act 1862 https://en.wikipedia.org/wiki/Land_Registry_Act_1862
+TYPE Concept
+SUMMARY ~*Registered vs Unregistered Title*~
+/Unregistered land (unregistered _title_ to land, to be correct) isn’t on the syllabus, for the practical reason that about 87% of all transactions are for registered land. By area it’s less, about 70%.
+SUMMARY Unregistered land comprises big areas of largely uninhabited land — coastlines, river beds, etc. The the second law of thermodynamics holds for land registration; but maximum registration-entropy would be about 95%, not 100%, as there are some parcels of land on which there will never be transactions —- land held by the crown, charities, etc.
+SUMMARY It comes with it's very own _theory_ -- |Land Registration - Theory|. 
+SUMMARY ~*Potted History in the UK*~
+@Registration of deeds was established by the |Title Registration Act 1880|, and there had been equivocal, partial, muddled and failed attempts to introduce Land Registration since 1862. 
+@@Note that Land Registration should really be spelled "Registration of Title." 
+@The |LRA 1925| was drafted in 1919. In 1925, 10% owned 90%. It introduced a *voluntary* and *comprehensive* system of registration.
+@It did not *replace* the existing system until 1950. Until then, the system of unregistered land ran in parallel.
+@*By 1990*, the majority of land was registered.
+@The original ambition was that the process would be complete *thirty years* after 1925.
+@On 1st December 1990, *first registration became compulsory* in England and Wales --
+@@When the land was *sold*, *given*, *leased*, *mortgaged*. 
+@@The penalty for non-compliance was and is *loss of title*, as the title comes about *by registration* and not by execution of the deed.
+@The current regime is the |LRA 2002|, which provides for a system of |Electronic Conveyancing|, which is a notable failure.
+SUMMARY ~*Discussion*~
+/Notwithstanding |Electronic Conveyancing|, land registration is a *success*. Transactions are now cheaper and quicker -- and |Adverse Possession| has become all but impossible. Conveyancing takes an afternoon, not a couple of months -- although greedy bastard solicitors like to spin it out to a couple of months, by pretending it's complex and involved.
+
+
+
+NAME Electronic Conveyancing
+TYPE Concept
+CATEGORY Land Registration; Electronic Conveyancing
+SUMMARY ~*Intro*~
+/->-The regime since the 13th October 2003 is the |LRA 2002|. This introduced -- but did not implement) *electronic conveyancing.*
+SUMMARY ~*Electronic Conveyancing*~
+/->-This is the idea of making the whole transaction a matter of pressing one button to pay the fee, and another button to update the register. Sounds simple, right?
+/->-A pilot scheme was meant to be up and running in 2007. It coughed and spluttered to life in 2012 -- but was a complete disaster and is now *on hold*, or *shelved*, depending on who you talk to. Talk to Martin Dixon, and you'll hear  cheerfully-expressed scoffing at the idea that this system will come to pass in a 2016 GDL student's working lifetime.
+
+
+NAME Land Registration - Theory
+AKA Theory of Land Registration
+CATEGORY Land Registration
+LINK NY Times article on Greece and LR. http://www.nytimes.com/2013/05/27/world/europe/greeces-tangled-land-ownership-is-a-hurdle-in-recovery.html?_r=0
+TYPE Concept
+SUMMARY ~*Intro*~
+/The theory of land registration -- aside from being a convenient way of padding out Land Law textbooks by a few thousand words -- is the analysis of  how well a system of LR maniests the *mirror principle*, *curtain principle* and *insurance principle*, or |Title Guarantee|.
+SUMMARY ~*Mirror Principle*~
+@The registry must reflect the *truth* -- the registration document should be a fair reflection of the reality of the property and its attributes.
+@Cadastral systems exhibit this. They reproduce in fairly fine detail, up to and including ancient-monument trees, the content of the land and the rights on it. 
+@But a system of Registration _of Title_, such as ours, falls quite a long way short. It fails to record significant potential attributes, chief amongst which are |Overriding Interests|, |Short Term Leases| and |Proprietary Estoppel|.
+@But it isn't even supposed to. Its intention was not to preclude the need to use common sense, i.e., to _inspect the land_ and politely ask a few pointed questions of the seller. 
+SUMMARY ~*Curtain Principle*~
+@The registration should draw a veil over certain _equitable_ interests. In practice this means _beneficiaries of trusts of land_ -- |Equitable Co-ownership|.
+SUMMARY ~*Insurance Principle*~
+@AKA |Title Guarantee| -- the state should stand behind the content of the register as *definitive*. |S58 LRA 2002|, which provides for title guarantee, is headed 'Conclusiveness.'
+SUMMARY ~*Commentary*~
+/MD unbosoms himself of the opinion that some sizeable part of Greece's modern ration of woe can be chalked up to its archaic system of title. See link for article from New York Times. 
+
+
+NAME Title Guarantee
+AKA Insurance Principle
+CATEGORY Land Registration; Title Guarantee
+TYPE Concept
+SUMMARY ~*Intro*~
+/|S58 LRA 2002| provides that *the register is conclusive*. It's not _registration *of* title_, it's _title *by* registration_. The title arises when the registry makes an entry on the register, having received Form AP1 and the 'title' deed. At which point, the documents have no further significance -- they are usually destroyed.
+SUMMARY ~*Problems*~
+/Imagine a crooked solicitor helps Dixon, a fraudster, to persuade the LR that he's the owner of the your land. He then sells it to a bank. Could you get it back? *No*. Because of |S58 LRA 2002|, the registration is conclusive. (See |Mistakes and Indemnities|). 
+SUMMARY *|Malory| and |Fitzwilliam|* vs *|Swift 1st|* 
+/Current textbooks illustrate rectification of the register in cases of fraud by |Malory v Cheshire| and |Fitzwilliam v Richall|. But note that these two cases seriously undermined the Title Guarantee Provision (S58).
+@On this point, both were overruled by |Swift 1st v chief Land Registrar| [2015] as wrongly decided _per incuriam_. *Ignore what the textbooks say*.
+
+
+
+NAME S58 LRA 2002
+AKA S58 LRA
+TYPE Statute
+CATEGORY Land Registration; Title Guarantee; LRA 2002
+LEGILINK http://www.legislation.gov.uk/ukpga/2002/9/section/58
+SUMMARY *Blackstone's* Property Law 2015-2016 -- *p.321*
+SUMMARY ~*Intro*~
+/Provides for the conclusiveness of the |Title Guarantee| of the register.
+SUMMARY ~*S58 -- Conclusiveness*~
++If, on the entry of a person in the register as the proprietor of a legal estate, the legal estate would not otherwise be vested in him, it shall be deemed to be vested in him as a result of the registration.
++Subsection (1) does not apply where the entry is made in pursuance of a registrable disposition in relation to which some other registration requirement remains to be met.
+
+
+
+
+NAME Priority Rules
+TYPE Concept
+AKA Basic Priority Rule
+AKA Special Priority Rule
+CATEGORY Land Registration; Priority Rules
+SUMMARY *~Summary~*
+/Priority is the system of establishing which property rights _bite_ land, and bind the RP at first registration or transfer. 
+@Don't count on passing a Land Law exam without a decent acquaintance with |S28 LRA 2002| and |S29 LRA 2002|.
+SUMMARY ~*S28 -- Basic Priority Rule*~
+/For *transfer not for value* -- all existing property rights are binding.
+@{This appears to have been missed in |Gold Harp v MacLeod|.}
+SUMMARY ~*S29 -- Special Priority Rule*~
+/The new RP the is a transferee for valuable consideration, i.e., a purchasor. In assessing whether there has in fact been such a transfer is a matter of substance not form -- |Halifax v Corbett|. The transferee could be a lessee; a purchasor of the freehold; the bank lending money to X as a mortgage.
+/The rule, *which you must not get wrong*, is -- 
+@The purchasor takes the land *free from everything except*...
+++*Entries on the Register*
+@@@Which cannot surprise the purchasor, unless he _hasn't even looked_.
+++*Overriding Interests*
+@@@I.e., property rights *not* on the register, but nevertheless *binding*.
+@@@|Schedule 3 LRA 2002| lists what these are. There are ten, seven of which are trivial.
+@@@*The purchasor finds out about them by inspecting the land, and asking the seller questions.* 
+@@@... and shows why the mirror principle doesn't really apply. 
+
+
+NAME S28 LRA 2002
+AKA S28 LRA
+TYPE Statute
+CATEGORY Land Registration; Priority Rules; Basic Rule; LRA 2002
+LEGILINK http://www.legislation.gov.uk/ukpga/2002/9/section/28
+SUMMARY *Blackstone's* Property Law 2015-2016 -- *p.315*
+SUMMARY ~*Intro*~
+This gives the |Basic Priority Rule|, applicable to first registration, and all transfers except those for *valuable consideration*, i.e., gifts and inheritance.
+SUMMARY ~*S28 -- Basic Rule*~
++Except as provided by |S29 LRA 2002| and S30, the *priority of an interest affecting a registered estate or charge is not affected by a disposition of the estate or charge*.
++It makes no difference for the purposes of this section whether the interest or disposition is registered.
+
+
+NAME S29 LRA 2002
+AKA S29 LRA
+TYPE Statute
+CATEGORY Land Registration; Priority Rules; Basic Rule; LRA 2002
+LEGILINK http://www.legislation.gov.uk/ukpga/2002/9/section/29
+SUMMARY *Blackstone's* Property Law 2015-2016 -- *p.315*
+SUMMARY ~*Intro*~
+Governing priority contests where the land has changed hand for money. The purchasor *takes the land free from everything except* (i) entries on the register, inc. |RPIs| and (ii) |Overriding interests|. These are given by |Schedule 3|.
+SUMMARY ~*S29 -- Effect of registered dispositions: estates*~
++If a registrable disposition of a registered estate is made *for valuable consideration*, completion of the disposition by registration has the effect of postponing to the interest under the disposition any interest affecting the estate immediately before the disposition whose priority is not protected at the time of registration.
++For the purposes of subsection (1), the *priority of an interest is protected*-—
+++in any case, if the interest—-
++++is a registered charge or the *subject of a notice in the register*, 
++++falls within any of the paragraphs of |Schedule 3|, or
++++appears from the register to be excepted from the effect of registration, and
+++in the case of a disposition of a leasehold estate, if the burden of the interest is incident to the estate.
++Subsection (2)(a)(ii) does not apply to an interest which has been the subject of a notice in the register at any time since the coming into force of this section.
++Where the grant of a leasehold estate in land out of a registered estate does not involve a registrable disposition, this section has effect as if—-
+++the grant involved such a disposition, and
+++the disposition were registered at the time of the grant.
+
+
+
+NAME Schedule 3 LRA 2002
+AKA Schedule 3 LRA
+AKA Schedule 3
+TYPE Statute
+CATEGORY Land Registration; Priority Rules; Schedule 3; LRA 2002
+LEGILINK http://www.legislation.gov.uk/ukpga/2002/9/schedule/3
+SUMMARY *Blackstone's* Property Law 2015-2016 -- *p. 340*
+SUMMARY ~*Text*~
+/*Leasehold estates in land*
++leasehold estate in land granted for a term not exceeding seven years from the date of the grant, except for—-
+++a lease the grant of which falls within section 4(1)(d), (e) or (f);
+++a lease the grant of which constitutes a registrable disposition.
+
+SUMMARY *|Interests of Persons in Actual Occupation|*
++2 An interest belonging at the time of the disposition to a person in actual occupation, so far as relating to land of which he is in actual occupation, except for—-
+++an interest under a settlement under the Settled Land Act 1925 (c. 18);
+++an interest of a person of whom inquiry was made before the disposition and who failed to disclose the right when he could reasonably have been expected to do so;
+++an interest—
++++which belongs to a person whose occupation would not have been obvious on a reasonably careful inspection of the land at the time of the disposition, and
++++of which the person to whom the disposition is made does not have actual knowledge at that time;
+++a leasehold estate in land granted to take effect in possession after the end of the period of three months beginning with the date of the grant and which has not taken effect in possession at the time of the disposition.
+
+SUMMARY *|Easements| and Profits a Prendre*
++3 (1) A |Legal Easement| ... *except for an easement* ... *which is not registered* ..., which at the time of the disposition—
+++is not within the actual knowledge of the person to whom the disposition is made, and
+++would *not have been obvious on a reasonably careful inspection of the land over which the easement or profit is exercisable.
++0 The exception in sub-paragraph (1) does not apply if the person entitled to the easement or profit proves that it has been exercised in the period of one year ending with the day of the disposition.
+
+
+
+
+

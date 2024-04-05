@@ -1,0 +1,197 @@
+TYPE-DEFAULT Concept
+CATEGORY-DEFAULT $CARDNAME
+
+NAME Elements of an Offence
+CATEGORY Elements
+SUMMARY Other than those of |strict liability| where |mens rea| is forgone, the prosecution must prove beyond reasonable doubt (|Woolmington|) these two elements:
++*|Actus Reus|*
+@@For _conduct crimes_, doing things the law prohibits.
+@@For _result crimes_, |voluntarily| |causing| the prohibited result.
+@@@ By commission not omission (|Airdale NHS Trust v Bland|), with six exceptions: 
+/*1. contract* -- |Pittwood|, *2. family* -- |Gibbins and Proctor|, |Smith (1975)|, |Gemma Evans|;  *3. voluntary assumption* -- |Stone and Dobinson|, |Fagan|; *4. creation of a dangerous situation* -- |Miller|, |Santana|, also |Gemma Evans|; *5. statutory duty* -- traffic offences, etc, and *6. holding public office* -- |Dytham|.
++*|Mens Rea|*
+@@ The mental element of the crime. 
+@@@ For some, only |intention| will do -- e.g., |murder|.
+@@@ For others the baseline is |recklessness| or |negligence| -- e.g., |rape|.
+@@@ For others D1 only has to have had |knowledge| or belief -- e.g., handling stolen goods. 
+@@The mens rea must generally _match_ the actus reus (|Deller|).
+SUMMARY Should it fail to do so, |transferred malice|, |single transaction doctrine| or |continuing act doctrine| may bridge the gap.
+SUMMARY Liability further requires D cannot establish any complete or partial defences.
++3 *|Defences|*
+@@*Knowledge* which would excuse the actus reus must be _known_ to D (|Dadson|, the copper; |Deller|, the car-seller).
+@@*Mistake of fact* may succeed if _reasonable_ (|Gladstone Williams|).
+@@@But not if _dishonest_ (|Morgan v DPP|).
+@@*Mistake of law* will not (|Lee|), otherwise 
+
+NAME Omissions as Actus Reus
+CATEGORY Elements; Actus Reus
+SUMMARY ~*Omissions*~
+/There is generally no liability for omissions. |Airedale NHS Trust v Bland|. At common law, courts reluctant to extend. E.g., you can't pervert the course of justice by an omission. |Clark (2003)|. 
+SUMMARY *Six exceptions* --
++*Contractual duty*
+@@|Pittwood|, the level-crossing keeper who nodded off.
++*Family duty*
+@@|Gibbins and Proctor|, who let their daughter starve to death. |Smith (1975)|, whose wife had pleaded with him not to call an ambulance and died giving birth. |Gemma Evans|, who left her young sister to die of an overdose.
++*Voluntary assumption/preclusion*
+@@|Stone and Dobinson|, whose actions showed they'd taken responsibility for an infirm cousin they then let starve. Never been followed. 
++*Creation of a dangerous situation* 
+@@|Miller|, who'd a mattress left smouldering and was found guilty on |supervening fault|. Followed in |Santana| and |Gemma Evans|. Also of course |Fagan|, who parked his car on a policeman's foot: '_consider yourself_ parked on my foot' -- 'fuck off officer, you can wait.'
++*Statutory duty* 
+@@Traffic offences, e.g., failure to stop -- &g&S170 Road Traffic Act 1988&g&.
+@@&g&Dangerous Dogs Act&g& -- |Greener v DPP|, savage beast slipped its lead.
+@@&g&Terrorism Act 2000&g& -- not reporting to the filth.
++*Duty from holding public office*
+@@|Dythan|, the copper who walked on by.
+@@Or if a cop asks you assistance 'in keeping the peace' -- |Brown (1941)|.
+SUMMARY ~*Essay Questions*~
+/_Titles from past papers_
+@2013 _'In general, the criminal law prohibits the doing of harm but does not impose criminal liability for an omission. However, there are justifiable exceptions to this general principle' Discuss._
+@2014 _'A number of people who stand around a shallow pool in which a child is drowning and let it drown without taking the trouble to ascertain the depth of the pool, are no doubt shameful cowards, but they can hardly be said to have killed the child.' Critically discuss this statement. How far, if at all, should liability apply to individuals who fail to act?_
+@2015 _How far, if at all, should failure to act be the subject of criminalisation?_
+
+SUMMARY _Textbook arguments against_
+@ Criminalisation of omissions is an affront to:
+@@ Individual autonomy.
+@@ Legal certainty of action -- not knowing what's criminal.
+
+SUMMARY _Textbook arguments for_
+@ Courts have general jurisdiction for _morality_.
+
+SUMMARY _Wanky arguments_ 
+@ *Not omissions at all*
+@@ Seeing them as such relies on our tendency to package up "action" into small, manageable parcels we can deal with. This is increasingly out of step with our understanding of the way the mind works. 
+@@ Assuming there to be nothing magical about doing information processing with _meat_ (the picture neuroscience presents as to what the human brain amounts to -- and presents compellingly, with no coherent alternative view) then the decisions humans take are merely consequences of the prior states of their brains. This is certainly a depressing thing to concede, especially given the heavy payload of implication it carries about free-will and determinism, and by further implication,  very basic idea of criminal law that people should be punished for their wicked choices.
+@@ _Wow, this has nothing to do with law. Don't write this._
+
+@*Argument from Experience* 
+@@The magnets in peoples' moral compasses seem to be variable, weak on average, and prone to attract and repel one another and spin wildly about when present en masse. 
+@@For society to maintain its coherence -- to remain a body of people bound together by a broad consensus on what's right and wrong -- those with the weakest and most easily influenced senses of morality need ground rules, even if the effect of those ground rules is to punish them for what they themselves don't (or might not) think are wrong.
+@@|Dythan| (public office), |Gibbins and Proctor| and |Gemma Evans| (family), |Miller|, |Fagan|, |Santana| (dangerous situation) all fall squarely clearly into this category. 
+@@|Pittwood| 
+
+
+
+NAME Mens Rea
+AKA Guilty Mind
+CATEGORY Elements
+SUMMARY _Aside from crimes of |strict liability|, this is the requirement that the inventory of D's mind contains a *guilty element*. Which this must be depends on the crime._  
+@Only |intention| will suffice for |murder|.
+@For some, |recklessness| (|assault|) or merely |negligence| (|rape|) is enough.
+@Others require only |knowledge|, e.g., handling stolen goods. 
+SUMMARY *Coincidence with |Actus Reus|*
+@|Transferred malice|, where D1 has the mens rea for _one crime_, but achieves the actus reus for _another_. |Pembliton|, |Gnango|.
+@|Continuing Act Doctrine|, where actus reus is construed as the _dangerous situation_ created by D _and its consequences. |Fagan|, |Miller|, |Gemma Evans|.
+@|Single Transaction Doctrine|, where establishing mens rea for _one part_ of a sequence of events is enough to establish it for _all parts_ subsequently. |Masilela|, |Church|, |Le Brun|.
+
+
+
+
+NAME Transferred Malice
+CATEGORY Elements; Coincidence of MR and AR
+SUMMARY _Shackling the mens rea of one crime with the actus reus of another. D makes to give V1 a belting but misses, and hits V2 by accident._  
+@The mens rea can only transfer to the actus reus, should they be both pertain to the _same type_ of crime. |Pembliton|.
+
+SUMMARY *Landmarks*
+@|Latimer| -- a fight in a pub in 1886. Intention to injure A, injured B, instead. Malice transferred.
+@|Pembliton| -- another fight in a pub in the C19th. Malice *not* transferred.
+@|Mitchell| -- elements of |unlawful act manslaughter| made out when a man pushed another, who fell onto an frail old woman and killed her.
+@|AG Ref no 3 of 1994| -- stabbed pregnant girlfriend, who survived. Child born alive, died 120 days later. In CA, Taylor LJ -- *malice can be doubly transferred*. HL, notably Mustill, disagreed and substituted |unlawful act manslaughter|.
+@|Gnango| -- transferred malice applied as D had connived in the attempt on his life by |Red Bandana Man|, at whom was firing back.
+
+
+NAME Single Transaction Doctrine
+CATEGORY Elements; Coincidence of MR and AR
+SUMMARY Contrasting wth |transferred malice| and the |continuing act doctrine|, here the |mens rea| for one part of a _sequence_ of events is construed as continuing through to the final act. 
+@In |Thabo Meli|, from the premise that an |actus reus| can comprise a *continuing transaction* or chain of events, establishment of the |mens rea| for one part was enough to do so through to the conclusion of death from hypothermia.
+@|Masilela| in 1968 saw things the same way, as 
+@Used in |Le Brun| [2002] CA.
+@@In |Church|, liability lay in the _first_ act being unlawful, and a causal linkage to the result lacking a |novus actus interveniens|.
+
+
+NAME Continuing Act Doctrine 
+CATEGORY Elements; Coincidence of MR and AR
+SUMMARY AKA *Creation of a Dangerous Situation*
+SUMMARY Instead of finding the |mens rea| continuous, as in |single transaction doctrine|, here the |actus reus| is considered in terms of a chain of events, rather than, e.g., the one in particular for which |mens rea| has been established.
+SUMMARY Typical cases involve a dangerous situation _created_ D has created, but not subsequently been bothered to do anything about.
+SUMMARY *Cases*
+@|Fagan| -- _"$!consider yourself$$https://www.youtube.com/watch?v=a0a1HYYmiXM!$ parked on my bleedin' foot!"_ -- "fuck off, officer."_ 
+@|Miller| -- smouldering mattress.
+@|Santana-Bermudez| -- lied about having any 'sharps' on him when searched by the filth.
+@|Gemma Evans|.
+
+
+
+
+
+
+NAME Recklessness
+CATEGORY Elements; Mens Rea; Recklessness
+SUMMARY Taking a silly risk. The law was clear this had to be from D's *subjective* view (|Cunningham|), but in |Caldwell| the recklessness could also be *objective*, for, at least property crimes. This was annulled by |Gemmell and Richardson|.  
+
+SUMMARY *Development of Law*
+/_The risk run by D's act had to be:
+@In |Cunningham| 1957, not something to which _D was subjectively inadvertent_.
+@In |Caldwell| 1986, something *consciously considered and obvious to the |reasonable person|*, qv.
+/{_So in the 1980s, punch someone, breaking their glasses and nose -- the mens rea for the GBH: based on your _subjective_ intention; the mens for criminal damage, on your _objective_ intention._}
+@In |Elliott v C (a minor)| 1983, judged objectively even though girl _too stupid to see consequences_, so |Caldwell| reluctantly applied, as it did in |Malcolm|.
+%_Then_ --
+@In |Gemmell and Richardson| 2004, |Caldwell| was in effect _annulled_ in the Court of Appeal, returning to a thing to be assessed subjectively. 
++0 Bingham LJ --
+++Tests in criminal law ought generally be *subjective*.
+++Judges ought to intervene to to prevent injustice.
+++Ought to look at what the academics say (!)
+++|Caldwell| went beyond spirit of Law Com. report on which the |Criminal Damage Act 1971| was based.
++0 Steyn LJ --
++++Recklessness 'out of kilter' with consciousness of a child. 
++++Exists where D _thinks_ the risk exist, and _thinks_ the risk unreasonable.
+
+
+
+
+
+
+
+NAME Causation
+AKA Causes; Novus Actus Interveniens; New Intervening Act; Eggshell Skull Rule
+CATEGORY Elements
+SUMMARY *Overview*
+@D's unlawful acts must be the _sine qua non_ of the unlawful result, the _but for_ cause. |White|. 
+@D's contribution to the death must be _more than minimal_. |Hughes|. 
+SUMMARY *Legal and Factual* 
+/_Not always the same._
+@Legal causation without factual causation gives liability. |Hughes|. 
+@Factual causation without legal causation does *not*. |Dalloway|.
+
+SUMMARY *Novus Actus Interveniens*
+@3rd-party's _free, deliberate and informed_ intervening act _may_ break the chain of causation. |Pagett|, per Lord Goff.
+@Being set up by HMRC _did_ so in |Latif|, but not vandals in |Environment Agency v Empress Car Company|. 
+
+SUMMARY *NAIs -- Slapstick Doctors*
+@Bad medical treatment breaks the chain only in _extraordinary and unusual_ circs. |Cheshire|, per Beldam LJ.
+@Earlier case of |Smith| turned on whether original wound _operative and substantial_ cause of death or _merely the background_, as did |Dear|.
+
+SUMMARY *NAIs -- Drug overdoses*
+@V injecting themselves with drugs supplied by D _is_ a new intervening act. |Dias|.
+@If D _tied the tourniquet_, would be a |joint principle offender|. |Rogers|. 
+@Or _acting in concert together_ (|Kennedy (No. 2)|)
+@Academic opinion is that the chain should not be considered broken between D handing V an overfull syringe and V injecting (Cherkassky, 2008 article).
+
+SUMMARY *Take Your Victim as You Find Them*
+/_The 'Eggshell Skull' Rule. _
+@D is liable for _full extent_ of harm, even should some attribute of V causes severity far worse than intended. |Holland|.
+@The _thin skull rule_ is also the _thick brain rule_: D cannot say V ought to have taken better care, unless D took a _wholly unreasonable_ act. |Blaue|.
+@D neglecting themselves after the fact is irrelevant. |Dear|. 
+@Question is whether original wounds were _operative and substantial_ cause (|Dear| per Rose LJ, also |Smith|).
+@V's unforeseen inability to swim. |Rafferty|. provides no defence particularly in circs of _cold white psychopathy_, but --
+@V's unforeseen heart-condition _may_. |Carey|.
+
+
+SUMMARY *Fright and Flight*
+@D is liable for V's rash act in trying to _escape_, if a foreseeable natural consequence. |Roberts|.
+@In the _agony of the moment_, after all, V might do something _inapposite_. |Williams (1991)|.
+@V's characteristics must be taken into account  when assessing whether 'daft' or not. Also |Williams (1991)|.
+@The rash act _may_ happen hours later. |Dhaliwal|, but hasn't been followed or invoked.
+
+
+
+

@@ -1,0 +1,674 @@
+
+
+
+
+NAME Case Overviews for Attempt
+TYPE Case Overviews
+CATEGORY Attempt
+SUMMARY *General*
+@*|Millard and Vernon|*
+/{<for attempted criminal damage, there needs to be an intention to destroy someone else's property.>}
+@*|Mohan|*
+/{<Not guilty. Intent is an essential ingredient of an attempt and is only mens rea of attempts. Recklessness would often suffice as the mens rea for the full offence, attempt was a separate and often more serious offence with its own separate mens rea.>}
+@*|Pace and Rogers|*
+/{<not liable because the defendants did not have the requisite mens rea for the crime. The prosecution needed to show that the defendants intended to commit the full crime, and there was no evidence to support that claim>}
+@*|Shivpuri|*
+/{<The court held that they could still be held liable for the fault crime Anderton v Ryan was overruled. The only occasion where impossibility applies for there not to be an attempt is "abstract legal possibility" (no substantive offense)>}
+
+SUMMARY *Murder*
+@*|Walker and Hayles|*
+/{<liable for attempted murder. Talked about difference between direct and oblique intention; oblique intention would now be a misdirection because of Woollin.>}
+
+SUMMARY *Preparatory Actions*
+@*|AG Ref no 1 of 1992|*
+/{<liable, because his actions were more than merely preparatory. He did not have to attempt or achieve penetration to be guilty of attempted rape.>}
+@*|Jones [1990]|*
+/{<not liable for attempt because the defendant still needed to remove the safety, put his hand on the trigger, and pull the trigger.>}
+@*|Whybrow|*
+/{<for attempted murder, prima facie requires that the mens rea be to kill.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Complicity
+TYPE Case Overviews
+CATEGORY Complicity
+SUMMARY *General*
+@*|Blakely and Sutton v Chief Constable of West Mercia|*
+/{<defendant liable under Cunningham recklessness.>}
+@*|Bourne (1952)|*
+/{<the defence that the wife had did not extend to her husband helping her get away with it.>}
+@*|Bryce|*
+/{<the jury were allowed to infer that the defendant intentionally assisted the killer. That act was committed knowing that it was likely the killer would commit a crime. Liable as a secondary party.>}
+@*|Callow v Tillstone|*
+/{<liable, but not as a principal offender. The fault for the crime applies, but not strict liability. Minimal acts are needed to be liable. The essence of complicity has become fault based. The act of being a party to an illegal act all depends on mens rea.>}
+@*|Carter v Richardson|*
+/{<liable. The instructor could have intervened but chose not to.>}
+@*|Cogan and Leak|*
+/{<Cogan could not be convicted of rape (marital rape had not been established), but was convicted as an accomplice to the commission of the actus reus; he was aiding and abetting a crime.>}
+@*|Coney|*
+/{<not guilty for merely being present, even if he did want to join in. He would have needed positive action.>}
+@*|Gianetto|*
+/{<guilty. The jury simply has to be satisfied that the defendant is either the principal or secondary offender to convict.>}
+@*|Gillick v West Norfolk Health Authority|*
+/{<Not guilty because it was in the best interests of the patients.>}
+@*|Khan|*
+/{<secondary liability applies. There does not have to be an exactitude between the harm that occurred and the secondary defendant foreseeing the level of violence that actually occurs, provided that the secondary defendant should have seen the possibility of serious harm occurring.>}
+@*|Lane and Lane|*
+/{<both parties held liable for the death under s.5 of the Domestic Violence Crime and Victims Act.>}
+@*|Wilcox v Jeffrey|*
+/{<because the defendant vocalised his support, he was considered to be liable.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Conspiracy
+TYPE Case Overviews
+CATEGORY Conspiracy
+SUMMARY *General*
+@*|Barnard|*
+/{<not liable for conspiracy. In order for a conspiracy to be formed, the parties agree on a conduct which will necessarily result in the commission of a crime. However, all of the parties do not need to know each other. It is a conspiracy even though something intervenes.>}
+@*|El Ghazal|*
+/{<The conspiracy is reached_ _as soon as the agreement occurs between the parties. If at that point, someone decides to abandon the plan that is irrelevant. You have the complete crime when you have agreement.>}
+@*|Walker|*
+/{<not guilty. The parties had not gone beyond the stage of discussing the possibility of the ulterior offense and there was no definite action taken to do so/no agreement>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Corruption of Public Morals
+TYPE Case Overviews
+CATEGORY Corruption of Public Morals
+SUMMARY *General*
+@*|Knuller|*
+/{<examined the correctness of Shaw but did not overturn it. Test for corruption of public morals: something that members of the jury find to be destructive of the very fabric of society.>}
+@*|Shaw v DPP|*
+/{<the jury needed to look at the conduct and decide if it ‘disgusted and annoyed them as ordinary citizens.' If yes, then there were elements of corruption.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Criminal Liability
+TYPE Case Overviews
+CATEGORY Criminal Liability
+SUMMARY *General*
+@*|Dalloway|*
+/{<not liable for the death even though he had been driving dangerously; even if he had been driving perfectly there was no way he could have stopped in time to avoid the child.>}
+@*|Pagett|*
+/{<Pagett was liable for the death because it was his actions that caused the police officers to react instinctively, leading to the death of the girl.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Elements
+TYPE Case Overviews
+CATEGORY Elements
+SUMMARY *General*
+@*|Woolmington v DPP|*
+/{<in the House of Lords, Lord Sankey made his "Golden Thread" speech, where he stated that the "golden thread" of English Criminal Law was for the prosecution to prove the guilt of the defendant beyond a reasonable doubt. The conviction was overturned, and the presumption of innocence became the new standard.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Fraud
+TYPE Case Overviews
+CATEGORY Fraud
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for General Defences
+TYPE Case Overviews
+CATEGORY General Defences
+
+SUMMARY *Duress - Of Circumstances*
+@*|Bell|*
+/{<still liable, because the defendant should have stopped driving as soon as they were safe. As soon as the threat passes, there is a duty to desist.>}
+@*|Martin [1989]|*
+/{<actually duress by threat, but treated as duress of circumstances. Test for duress of circumstances: 1) Was the defendant compelled to act because they had a reasonable belief that death of serious injury would occur if they did not act? 2) would a sober person of reasonable firmness sharing the characteristics of the defendant responded to the situation in the same way?>}
+@*|Pommell|*
+/{<duress of circumstance could apply here. It can apply to everything except murder, attempted murder, and some forms of treason.>}
+@*|Symonds|*
+/{<Could be either Duress of Circumstances or Self-Defence. The CoA said that both defences should be left to the jury with a very careful direction as to the differences between them. Where it is self-defence and it might include a mistaken belief in circumstances, the judge should tell the jury should that the defendant's belief should not only be honest and genuine, but also reasonable belief.>}
+
+SUMMARY *Self-Defence*
+@*|AG Ref no 2 of 1983|*
+/{<possession of the bomb while the threat was still in place would excuse it. However, as soon as the threat passed, it had to be destroyed because having it would no longer be justified.>}
+@*|Bird|*
+/{<self-defence was valid. Whilst withdrawing or demonstrating an unwillingness to fight is good evidence that the defendant is acting reasonably and in good faith in self-defence, there was no absolute obligation to demonstrate an unwillingness to retreat.>}
+@*|Devlin v Armstrong|*
+/{<The plea of self-defence may afford a defence when used if the defendant honestly and reasonably believed in the threat of attack, so long as the threat of attack is imminent>}
+@*|Martin [2002]|*
+/{<all-or-nothing defence. Self-defence did not apply because of excessive force. Guilty for murder.>}
+@*|Palmer v the Queen|*
+/{<guilty. The defendant attempted to appeal that manslaughter should have been offered as an alternative to self-defence, but the appeal was dismissed. There is no option for a verdict of manslaughter where a defendant uses excessive force in self-defence. The defence either succeeds in its entirety or fails.>}
+@*|Symonds|*
+/{<Could be either Duress of Circumstances or Self-Defence. The CoA said that both defences should be left to the jury with a very careful direction as to the differences between them. Where it is self-defence and it might include a mistaken belief in circumstances, the judge should tell the jury should that the defendant's belief should not only be honest and genuine, but also reasonable belief.>}
+
+SUMMARY *Necessity - Medical Grounds*
+@*|Bourne|*
+/{<defendant acquitted. The doctor was acting in the best interests of his patient>}
+
+SUMMARY *Necessity*
+@*|Buckoke v GLC|*
+/{<no liability, although the case went through litigation. It was suggested that to avoid confusion in the future, that the discretion not to prosecute be exercised.>}
+@*|Dudley and Stephens|*
+/{<necessity is not a defence to murder.>}
+@*|Kitson|*
+/{<no necessity; DUI upheld.>}
+
+SUMMARY *Mistaken Belief - Fact*
+@*|Clegg|*
+/{<defence that the defendant was following orders was rejected. Also established that defences are "all-or-nothing" in the UK; they either work or they don't. Defendant later released on ballistic evidence.>}
+@*|Gladstone Williams|*
+/{<the mistaken belief in this case was reasonable, not liable for the crime.>}
+
+SUMMARY *Mistaken Belief - Law*
+@*|Lee|*
+/{<a genuinely-held but mistaken belief as to law will not provide a defence.>}
+
+SUMMARY *Justification - Unknown*
+@*|Dadson|*
+/{<the office was still found guilty because you cannot rely on an exemption to form an unknown justification. However, there is academic disagreement over the decision in this case.>}
+
+SUMMARY *Necessity - Medical Issues*
+@*|F v West Berkshire Health Authority|*
+/{<the operation would be lawful if the doctor considered it to be in the best interests of the patient.>}
+
+SUMMARY *Mistaken Belief - Intoxication*
+@*|O'Grady|*
+/{<no defence, liable for the crime. Where a defendant forms a mistaken belief after the voluntary consumption of alcohol, there is no defence for the crimes.>}
+
+SUMMARY *Justification - Prevention of a Crime*
+@*|R v Jones (Margaret)|*
+/{<The defendants said that their actions were justified because they were acting to prevent a crime (an illegal war in Iraq). The HoL said that where it says "prevention of a crime" it means prevention of a potential crime under domestic law; not something that could potentially be a crime under international law.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Gross Negligence Manslaughter
+TYPE Case Overviews
+CATEGORY Gross Negligence Manslaughter
+SUMMARY *General*
+@*|Adomako|*
+/{<Test for Gross Negligence Manslaughter (Lord Mackay): 1) Was there a breach of duty against the victim? 2) Did that breach of duty cause the death of the victim? 3) Were the actions of the defendant so far departed from the standard of care as to be considered criminal?>}
+@*|Gemma Evans|*
+/{<Liable for Gross Negligence Manslaughter as had supplied heroin for her sister, there by created, and not acted to resolve, a dangerous situation. The question of whether a duty of care in GNM is of law, therefore for the judge, not the jury.>}
+@*|Misra|*
+/{<upheld test from Adomako. The jury decides whether the actions of the defendant are grossly negligent; if so, then it is a criminal act. Conviction upheld.>}
+@*|R v S|*
+/{<guilty, although appeal on sentence term allowed. It was grossly negligent to point the gun and pull the trigger without ensuring that it was safe to do so. Objective test: would a person of the defendant's age and experience have foreseen the risk of death? If so, was the defendant's conduct so far below the standard of care required that it was grossly negligent and it constituted a crime?>}
+@*|Wacker|*
+/{<Consent does not preclude liability for harm; irrespective of consent, there was a duty of care owed. Defendant liable for gross negligence manslaughter.>}
+@*|Willoughby|*
+/{<followed Wacker; consent is irrelevant. Defendant liable for gross negligent manslaughter. Established the circumstances where the judge will tell the jury where there is a duty owed to the victim (instead of the jury deciding): Doctor/patient relationships, creation of duty by statute>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Inchoate Liability
+TYPE Case Overviews
+CATEGORY Inchoate Liability
+SUMMARY *General*
+@*|Gullefer|*
+/{<liable. The crime begins when the merely preparatory acts come to an end. You have to ask whether the defendant has ‘embarked on the crime proper.'>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Intoxication
+TYPE Case Overviews
+CATEGORY Intoxication
+SUMMARY *General*
+@*|Majewski|*
+/{<When the defendant is voluntarily intoxicated, there has been a delineation of crimes of specific intent (where intoxication could be relevant for fault) and for cases where there are basic intent crimes (no specific intent)>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Joint Enterprise
+TYPE Case Overviews
+CATEGORY Joint Enterprise
+SUMMARY *General*
+@*|Chan Wing Siu|*
+/{<liable for murder. Court: turns on contemplation or, putting the same idea in other words, authorization, which may express but is more usually implied. It meets the case of a crime foreseen as a possible incident of the common unlawful enterprise. The criminal culpability lies in participating in the venture with that foresight (Sir Cook).>}
+@*|Davies v DPP|*
+/{<this action was outside the original plan and the other perpetrators were not liable for murder.>}
+@*|English and Weddle|*
+/{<even though the defendant did not know that the principal had a knife, he was still liable for the actions of the principal as part of the joint enterprise.>}
+@*|Greatrex|*
+/{<liability still exists, but a retrial was ordered on a question of fact and degree. An indictment for murder should include any alternative lesser verdict which carries a proper reflection of the seriousness of the factual situation.>}
+@*|Hui Chi-Ming|*
+/{<liable as a secondary party. You can be liable for the crime if you contemplate/realise that there is a realistic possibility that D1 would commit the crime.>}
+@*|Mahmood (Asaf)|*
+/{<not liable. The defendant jumping out of the car was ‘fundamentally different.'>}
+@*|Powell and Daniels|*
+/{<the defendants argued that they needed to intend death or serious injury, claimed that it was unfair that recklessness constituted liability. The court disagreed; defendants cannot insulate themselves on policy: the protection of society requires that they be held liable.>}
+@*|Rahman|*
+/{<the court rejected this argument. Just because the principal had an undisclosed intent to kill, it did not automatically change the fact that it is reasonably foreseeable. The principal is liable for murder if they intend to kill or cause GBH. The secondary is liable for murder if they foresee the possibility of the principal doing so.>}
+@*|Roberts [1993]|*
+/{<the fault of a secondary perpetrator for murder does not need to be the same mens rea as a primary perpetrator; they simply need to be liable for recklessness (they only need to contemplate the crime as a realistic possibility, not even a probability).>}
+@*|Stringer|*
+/{<it was up to the jury as to whether or not Stringer encouraged the crime because he was not present at the time. Initial conviction was unsafe, overturned on appeal.>}
+@*|Uddin|*
+/{<still liable, but retrial ordered on question of fact and degree.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Manslaughter
+TYPE Case Overviews
+CATEGORY Manslaughter
+SUMMARY *General*
+@*|Airedale NHS Trust v Bland|*
+/{<although euthanasia is not allowed at common law (Lord Goff), merely withdrawing treatment was an omission (not commission) and was acceptable>}
+@*|AG Ref no 4 of 1980|*
+/{<when the particular action in a sequence that causes death cannot be identified, the jury should be directed to find manslaughter should the _first_ act be unlawful.>}
+@*|Dawson|*
+/{<was not sufficient to see the victim having emotional distress to be liable for manslaughter; will only suffice if the distress goes beyond a normal level and causes the level of harm that would indicate a heart attack>}
+@*|Dear|*
+/{<liable for the death. Rose, LJ: We should not look to whether the victim treated himself with negligence or neglect, we should ask whether the initial wounds were, and remained, a significant/operative cause of death.>}
+@*|Goodfellow|*
+/{<no novus actus interveniens, defendant held liable since their actions led to the death of the victim.>}
+@*|R v JM and SM|*
+/{<it was foreseeable that some harm would occur, and a reasonable bystander could see that the actions of the defendant would lead to some harm against the victim, and physical harm in the form of shock would occur as a question of fact not law. However, there was found to be no liability in this case because the medical condition was outside the realm of foreseeability.>}
+@*|Watson|*
+/{<question was whether it could be reasonably foreseen that the victim would be distressed. The defendant was aware that the victim needed help and chose to do nothing. Held liable for manslaughter.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Murder
+TYPE Case Overviews
+CATEGORY Murder
+SUMMARY *General*
+@*|Abbott|*
+/{<duress is not a viable defence for murder for principal offenders.>}
+@*|AG Ref no 4 of 1980|*
+/{<when the particular action in a sequence that causes death cannot be identified, the jury should be directed to find manslaughter should the _first_ act be unlawful.>}
+@*|Dear|*
+/{<liable for the death. Rose, LJ: We should not look to whether the victim treated himself with negligence or neglect, we should ask whether the initial wounds were, and remained, a significant/operative cause of death.>}
+
+SUMMARY *Defences - Diminished Responsibility*
+@*|Ahluwalia|*
+/{<the original judge's direction on provocation was correct (Duffy test). On those grounds, the appeal was not allowed. However, the appeal was allowed on grounds of diminished responsibility, although the court stressed that it was exceptional for new evidence to be allowed.>}
+@*|Dietschmann|*
+/{<Changed to manslaughter. Court: We should stay focused on the mental abnormality, not the intoxication. The diminished responsibility relies on his depression.>}
+
+SUMMARY *Defences - Loss of Control*
+@*|Doughty|*
+/{<the judge should have let the jury decide whether or not the defendant lost control.>}
+
+SUMMARY *Defences - Diminished Responsibility - Intoxication*
+@*|Dowds|*
+/{<Voluntary and temporary drunkenness is not adequate for defence of diminished responsibility. Also, principle: just because something is listed as a medical condition, it does not make it relevant to the defence.>}
+
+SUMMARY *Defences - Provocation/Loss of Control*
+@*|Ahluwalia|*
+/{<the original judge's direction on provocation was correct (Duffy test). On those grounds, the appeal was not allowed. However, the appeal was allowed on grounds of diminished responsibility, although the court stressed that it was exceptional for new evidence to be allowed.>}
+@*|AG for Jersey v Holley|*
+/{<the court did not consider this part of the diminished powers of self-control; they only consider the age and sex of the defendant for this defence. If the defendant wants other factors taken into account, they should claim diminished responsibility. Solidifies an objective test.>}
+@*|Baillie|*
+/{<the sudden and temporary loss of control can last for an undefined amount of time, assuming that you are still operating under the Duffy test.>}
+@*|Barnsdale-Quean|*
+/{<no loss of control; no evidence to support that fact.>}
+@*|Bedder v DPP|*
+/{<impotency was a characteristic of a reasonable person and does not provide sufficient evidence for provocation.>}
+@*|Camplin|*
+/{<Appeal allowed on misdirection of jury. In terms of power and control, you need to look at the age and sex of the person. It's about the gravity of the provocation to that particular defendant.>}
+@*|Dawes|*
+/{<Appeal rejected. There was insufficient evidence to support loss of control.>}
+@*|Duffy|*
+/{<liable because loss of control was not sudden/temporary. Test for loss of control (Justice Devlin): At the time of the fatal action, the defendant had to have lost control through a sudden and temporary passion. Difference between men and women are treated: believed that men had sudden, temporary reactions where women were more of a "slow burn.">}
+@*|Humphreys|*
+/{<you can take into account of the cumulative history leading up to the final act, but at the time of the act itself, the defendant has to be operating at a sudden and temporary loss of self-control or it doesn't qualify for provocation>}
+@*|Ibrams|*
+/{<defendant guilty of murder. Time period was too long; no "sudden and temporary loss of control.">}
+@*|Pearson|*
+/{<changed to manslaughter; the actions of their father should have been considered during the original trial. The defendant can claim provocation where the supposedly provocative behaviour is not unlawful or unreasonable, or where he is mistaken (perhaps through voluntary intoxication) as to the meaning of the other person's behaviour, or even where the supposedly provocative behaviour was in fact a response to his own.>}
+@*|R v Jewell|*
+/{<insufficient evidence of any loss of control. Convicted of murder, appealed. COA: the killing had too much preparation to be considered loss of control; re-affirmed R v Clinton>}
+@*|R v Zebedee|*
+/{<no loss of control, no "justifiable sense of being seriously wronged">}
+@*|Smith (Morgan)|*
+/{<it isn't necessarily about the reasonable person; you should leave it to the jury's good sense about the loss of self-control. If their emotions were disturbed, loss of control should be offered as a partial defence (Lord Hoffman). Overturned by A-G for Jersey v Holley>}
+@*|Thornton (No. 2)|*
+/{<conviction quashed on misdirection. The jury should have been directed to take into account her mental characteristics in assessing the standard of control expected of the defendant. Overturned in A-G for Jersey v Holley.>}
+
+SUMMARY *Defences - Diminished Responsibility - Medical Condition*
+@*|Golds|*
+/{<Appeal dismissed. In order to be usable for diminished responsibility your medical condition needs to substantially impair one of three things: 1) your ability to understand conduct; 2) your ability to form a rational judgment; 3) your ability to control yourself.>}
+
+SUMMARY *Defences - Provocation*
+@*|AG for Jersey v Holley|*
+/{<the court did not consider this part of the diminished powers of self-control; they only consider the age and sex of the defendant for this defence. If the defendant wants other factors taken into account, they should claim diminished responsibility. Solidifies an objective test.>}
+@*|Humphreys|*
+/{<you can take into account of the cumulative history leading up to the final act, but at the time of the act itself, the defendant has to be operating at a sudden and temporary loss of self-control or it doesn't qualify for provocation>}
+@*|R v Zebedee|*
+/{<no loss of control, no "justifiable sense of being seriously wronged">}
+
+SUMMARY *Intent - Oblique*
+@*|Hyam v DPP|*
+/{<mens rea for murder is the intention to kill or cause GBH. The jury can find intention when the defendant commits an act which kills, during which they know that it is highly probable that their actions will cause death or serious injury>}
+@*|Moloney|*
+/{<the "golden rule" (Lord Bridge) of murder. The defendant has to intend to kill the victim or cause serious injury. Test: Was the death a natural consequence of the defendant's action? If it was a natural consequence, did the defendant foresee it as a natural consequence? If the answer to both questions in yes, then the defendant intended the consequences. No requisite mens rea for murder, changed to manslaughter.>}
+@*|Nedrick|*
+/{<Jury was misdirected. Test of virtual certainty. Where there is a charge for murder, simple direction (direct intention) is not enough. The jurors should be instructed to find intention. Was there a realisation on behalf of the defendant that death or serious injury was a virtually certain consequence? It is for the jury to decide.>}
+@*|Woollin|*
+/{<Charge of murder changed to manslaughter. Where the charge is murder and in the simple direction is insufficient, the jury should be directed that they are not entitled to infer the intention unless they feel sure that death or serious bodily harm was a vital certainty as a result of the defendant's actions, and that the defendant appreciated that such was the case. Leading precedent.>}
+
+SUMMARY *End of a Life*
+@*|Malcharek and Steel|*
+/{<the defendant was liable because the court defined the end of life as "brain stem death" which happened when the victim was stabbed.>}
+
+SUMMARY *Defences - Diminished Responsibility - Abnormality of Mind*
+@*|Byrne|*
+/{<allowed, changed to manslaughter. "Abnormality of mind" was wide enough to cover the mind's activities in all its aspects, including the ability to exercise will power to control physical acts in accordance with rational judgment. But "abnormality of mind" means a state of mind so different from that of ordinary human beings that a reasonable man would term it abnormal.>}
+@*|Tandy|*
+/{<Two predicates for alcoholism as an abnormality of mind. 1) The alcoholism has to have impaired the judgment evidenced by a brain disease (there must be brain damage) so that the defendant _had_ to drink (involuntary). 2) if the first drink of the day had been voluntarily consumed, then the defence would not be available. Contradicted by Wood [2009]>}
+@*|Wood|*
+/{<disagreed with Tandy, accepted ADS as a mental condition defence; no requirement for it to be an organic brain disease, however if it has progressed that far it strengthens the case. The first drink does not have to be involuntary; it is the effect of the alcohol consumed by the defendant as it appears as a disease when it comes to relevancy.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Non-Fatal Offences
+TYPE Case Overviews
+CATEGORY Non-Fatal Offences
+
+SUMMARY *GBH*
+@*|A v United Kingdom|*
+/{<the law did not provide adequate protection to the applicant -- English law needed to be changed. Lawful chastisement is no longer a valid defence.>}
+@*|Aitken|*
+/{<no liability. If the officer had consented or the defendants believed that the officer had consented it was open for the judge to find that no offence had been committed>}
+@*|Clarence|*
+/{<not guilty of battery because the sex was consensual. Decision overturned in |Dica|.>}
+@*|Dica|*
+/{<Overturns decision in Clarence. People suffering from serious STDs who recklessly transmit them through intercourse inflict GBH will be liable under s. 20.>}
+@*|Emmett|*
+/{<guilty of causing GBH. Went "far beyond" Wilson. Court said that someone could not consent to the level of harm in this case. Line-drawing exercise in terms of personal autonomy and consent.>}
+@*|Golding|*
+/{<sentenced reduced, but appeal dismissed. Transmission of herpes constitutes GBH. No need for battery or physical violence for a section 20 offence.>}
+@*|Jones|*
+/{<Convictions quashed. Consent to rough and undisciplined horseplay is a defence, even if there was no consent by the victims. If the appellants had a genuine belief in consent they should be allowed the defence (no requirement for it to be reasonably held, provided it was genuine.>}
+@*|Konzani|*
+/{<defendant liable for GBH. Even where there is no physical harm to the victim's body, the transmission of HIV constitutes GBH and is classified as a section 20 offence.>}
+@*|Lewis|*
+/{<the defendant was liable for the victim's injury because his actions caused her to react; her reaction was reasonably foreseeable.>}
+@*|Martin|*
+/{<liable for GBH. Principle: infliction of GBH can be indirect.>}
+@*|Savage|*
+/{<it was not necessary to demonstrate the defendant had the mens rea in relation to the level of harm inflicted. It was enough that they intended/could foresee some harm as a result of their actions. Constructive liability: actus reus/mens rea is needed for the lesser crime, but the actual liability depends on the degree of harm.>}
+@*|Wilson|*
+/{<liable for GBH. GBH occurs either where the defendant has directly inflicted the injury by assaulting the victim, or where the defendant has inflicted GBH by doing something intentionally that directly results in force being applied to the body of the victim, so that the victim suffers GBH (Lord Roskill).>}
+
+SUMMARY *Consent*
+@*|Aitken|*
+/{<no liability. If the officer had consented or the defendants believed that the officer had consented it was open for the judge to find that no offence had been committed>}
+@*|Barnes|*
+/{<conviction unsafe. Determined: 1) Criminal proceedings should only be used where conduct is sufficiently grave to be necessitate them (otherwise civil proceedings should be used). 2) In contact sports, implied consent excuses bodily harm so long as it is reasonably expected. 3) Conduct within the rules of the sport is unlikely to be criminal.>}
+@*|Brown|*
+/{<Consent will only be a defence to the level of a common law battery and only if there is no injury caused or intended. Where harm is intended and/or caused, then consent is never a defence in criminal law unless there was some reason to justify it being in the public interest (Lord Templeman)>}
+@*|Dica|*
+/{<Overturns decision in Clarence. People suffering from serious STDs who recklessly transmit them through intercourse inflict GBH will be liable under s. 20.>}
+@*|Jheeta|*
+/{<no true consent because there was ‘improper pressure' on the complainant.>}
+@*|Jones|*
+/{<Convictions quashed. Consent to rough and undisciplined horseplay is a defence, even if there was no consent by the victims. If the appellants had a genuine belief in consent they should be allowed the defence (no requirement for it to be reasonably held, provided it was genuine.>}
+@*|Morgan v DPP|*
+/{<guilty, because the belief was not genuine. Principle: the belief in consent must be genuine and honest. There was requirement that the belief be reasonable. Applied as a general principle to other crimes where the fault is intention or Cunningham recklessness. No longer applies to rape cases, still used in other offences.>}
+@*|Richardson|*
+/{<no liability for battery. Identity and nature of the act can vitiate consent. Principle: what vitiates consent? 1) The nature of the act itself 2) the identity of the person.>}
+@*|Slingsby|*
+/{<not liable. There was no harm intended, and the court determined that it was not sufficient for the prosecution to show that injury was caused, they also had to prove that harm was intended.>}
+@*|Tabassum|*
+/{<guilty. Principle: it is not just the nature of the act/identity of the person; there can be vitiation of consent where there is a situation that goes to the quality of the act as well as to the nature of the act itself.>}
+@*|Wilson [1996]|*
+/{<no liability for battery, did not follow Brown. This was a "loving adornment" (like a tattoo), and was a consensual act between husband and wife. Not a matter for criminal investigation (Justice Russell).>}
+
+SUMMARY *Battery*
+@*|Collins v Wilcock|*
+/{<the lady-policeman was guilty of battery; defendant's action was therefore self-defence and her conviction was quashed. Also established principle of ‘implied consent' in crowded/public places: jostling, handshakes, back slapping, etc. are all examples of this implied consent provided that only reasonable force is used (Goff LJ).>}
+@*|DPP v K|*
+/{<defendant was guilty for battery for indirectly causing the harm.>}
+@*|Fagan|*
+/{<Although the mens rea created actus reus first part of the crime was accidental, the court held there was liability because Fagan then did not rectify the situation and the court interpreted the incident as one continuing act. His omission made him criminally liable. Court sets out elements of battery: intentionally or recklessly inflicting harm on another>}
+@*|Haystead v CC of Derbyshire|*
+/{<liable for harm to child because a causal linkage could be established between the actions of the defendant and the unlawful force which injured the child.>}
+@*|Richardson|*
+/{<no liability for battery. Identity and nature of the act can vitiate consent. Principle: what vitiates consent? 1) The nature of the act itself 2) the identity of the person.>}
+@*|Venna|*
+/{<liable for assault and battery. Recklessness does not excuse the harm caused. Established Cunningham recklessness as the predominant test for assault/battery cases.>}
+
+SUMMARY *Assault*
+@*|Constanza|*
+/{<there can be an apprehension of violence that extends over a period of time provided that there is the risk of violence in the immediate future.>}
+@*|Ireland|*
+/{<liable for assault. Silence can amount to an assault and psychiatric injury can amount to bodily harm.>}
+@*|Ireland and Burstow|*
+/{<assault can be committed by a caller on a telephone, ad satisfies immediate threat of violence. It would be for the jurors to decide whether the threats constituted assault.>}
+@*|Tuberville v Savage|*
+/{<words can negate a threatening action (assault). The defendant's gesture may have been threatening, but the words indicated that no violence would ensue.>}
+@*|Venna|*
+/{<liable for assault and battery. Recklessness does not excuse the harm caused. Established Cunningham recklessness as the predominant test for assault/battery cases.>}
+
+SUMMARY *ABH*
+@*|A v United Kingdom|*
+/{<the law did not provide adequate protection to the applicant -- English law needed to be changed. Lawful chastisement is no longer a valid defence.>}
+@*|DPP v Smith|*
+/{<hair was part of a person and their identity, and it was ruled a battery.>}
+@*|R (on the Application of T) v DPP|*
+/{<this constitutes actual bodily harm.>}
+
+SUMMARY *Unlawful Wounding*
+@*|JJC v Eisenhower|*
+/{<defendant not guilty of wounding because a wound is a break in the continuity of the whole skin (dermis and epidermis); an internal rupturing of blood vessels is not a wound.>}
+
+SUMMARY *Wounding*
+@*|Savage|*
+/{<it was not necessary to demonstrate the defendant had the mens rea in relation to the level of harm inflicted. It was enough that they intended/could foresee some harm as a result of their actions. Constructive liability: actus reus/mens rea is needed for the lesser crime, but the actual liability depends on the degree of harm.>}
+
+SUMMARY *Foreseeability*
+@*|Slingsby|*
+/{<not liable. There was no harm intended, and the court determined that it was not sufficient for the prosecution to show that injury was caused, they also had to prove that harm was intended.>}
+
+SUMMARY *Assault - Immediacy*
+@*|Smith v Woking Police|*
+/{<peering in through a window to a bedroom in which a woman is getting dressed or undressed can constitute assault. The 'immediacy' requirement of assault, properly understood, cannot just mean in the _seconds_ immediately afterwards.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Racially or Religiously Motivated Offences
+TYPE Case Overviews
+CATEGORY Racially or Religiously Motivated Offences
+SUMMARY *General*
+@*|DPP v Pal|*
+/{<not a racially motivated crime because the slurs were directed specifically at the victim, not against all Asians. Principles: where there is a nonfatal crime with a racial/religious motivation behind it, there is potentially a more severe punishment. Courts have adopted a narrow meaning of what is racially motivated.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Sexual Offences
+TYPE Case Overviews
+CATEGORY Sexual Offences
+
+SUMMARY *Rape - Consent*
+@*|Bowler|*
+/{<defendant guilty for gross negligent manslaughter, but sentence reduced on appeal. However, had the victim not died, the circumstances may have been different. The court said that the actions of the parties involved were consensual and it was not for the court to interfere.>}
+@*|Bree|*
+/{<appeal allowed. No alcohol grid system in terms of how intoxication affects consent. A trial judge will never be wrong if he defines consent for the jury and tells them to find it. The capacity of complainant to consent may stop before the complainant passes out but it will be fact-specific on each case. Intoxicated consent is still consent and if the complainant regrets it later, it does not vitiate consent.>}
+
+SUMMARY *Indecent Assault*
+@*|Court|*
+/{<guilty. Where facts show that an act may be either indecent or not indecent, the prosecution must prove not only that the accused intentionally assaulted the victim, but that in doing so, he intended to commit an assault which right-minded persons would think was indecent.>}
+@*|Heard|*
+/{<guilty. Voluntary intoxication is not a valid defence to sexual offences.>}
+@*|R v H|*
+/{<guilty because of sexual motive. Two part test: would reasonable people consider the conduct in the particular circumstances before them to be sexual in nature? If so, then would reasonable people consider the conduct of the defendant in the view of the circumstances to have intended them to be sexual?>}
+
+SUMMARY *Rape*
+@*|Devonald|*
+/{<conclusive presumption, no consent. The victim was deceived as to the purpose of the video.>}
+@*|Elbekkay|*
+/{<no consent. The restriction to deception of identity was not limited to spouses, but to partners as well. Also, in order for the deception of identity to vitiate consent, the complainant has to believe that the defendant is someone they know (ex. If the defendant says they are a celebrity when they aren't, consent is still valid).>}
+@*|Kaitamaki v the Queen|*
+/{<defendant was guilty. Principle: sexual intercourse starts at penetration and "continues: until it stops. If the act continues when consent is withdrawn the offence is complete.>}
+@*|Linekar|*
+/{<not rape, inducement of intercourse under false pretences. The fraud did not affect the fact that the intercourse was consensual.>}
+@*|McNally|*
+/{<defendant guilty of rape. The deception of gender vitiated consent. Obiter: in HIV cases, if the defendant is asked about their status and lies, that is an act of deception and there may be a conclusive presumption of lack of consent.>}
+@*|Morgan v DPP|*
+/{<guilty, because the belief was not genuine. Principle: the belief in consent must be genuine and honest. There was requirement that the belief be reasonable. Applied as a general principle to other crimes where the fault is intention or Cunningham recklessness. No longer applies to rape cases, still used in other offences.>}
+@*|Olugboja|*
+/{<guilty. Test for consent: a trial judge directing the jurors should tell them that they need to "apply their combined good sense, experience, and knowledge of human nature and modern behaviour" in order to answer a question of consent.>}
+@*|R v B|*
+/{<no liability for rape. The intercourse was consensual; the HIV status of the defendant did not change the nature of the act itself.>}
+@*|R v B (2013)|*
+/{<no deception as to the nature/purpose of the act.>}
+@*|R (F) v DPP and A|*
+/{<the defendant refusing to comply with the wishes of the complainant vitiated consent. The complainant was deprived of the choice relating to the crucial feature on which the original consent to sexual intercourse was based.>}
+@*|Williams|*
+/{<guilty of rape because the deception went to the nature of the act itself.>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Theft
+TYPE Case Overviews
+CATEGORY Theft
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Transaction Theory
+TYPE Case Overviews
+CATEGORY Transaction Theory
+SUMMARY *General*
+@*|Le Brun|*
+/{<the original unlawful act with its accompanying mens rea was not the direct cause of death, but the unlawful act causing the death was part of the same sequence of events and that was enough to be guilty of manslaughter>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Unlawful Act Manslaughter
+TYPE Case Overviews
+CATEGORY Unlawful Act Manslaughter
+SUMMARY *General*
+@*|Dhaliwal|*
+/{<even where the victim takes their own life, the abuse may not causally break the chain of causation for unlawful act manslaughter; potentially labelling the actions of the defendant as a cause for the unlawful death. Has not been applied in any other case. Four elements of unlawful act manslaughter: actus reus and mens rea for unlawful act, the unlawful act must be dangerous, the unlawful act must be volitional and intentional by the defendant, the unlawful act must cause the death of the victim without novus actus interveniens.>}
+@*|Newbury|*
+/{<there was an unlawful act, the mens rea for that was sufficient for the defendant to be held liable for the unlawful death>}
+@*|R v JF and NE|*
+/{<appeal dismissed by sentence reduced. The defendants were aware that there were people in the building, and had the necessary actus reus and mens rea for arson. Ratio: all that was needed for conviction for unlawful act manslaughter was actus reus and mens rea for the initial crime; if that was shown, then it was a normative question of dangerousness: would the danger have been foreseeable to a normal and reasonable person?>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Voluntary Association
+TYPE Case Overviews
+CATEGORY Voluntary Association
+SUMMARY *General*
+@*|Hasan|*
+/{<Guilty. No defence; it was precluded where the risk to which the defendant exposed himself is pressure compelling him to commit any type of crime that he ought to have foreseen>}
+
+
+
+
+
+
+ -----------------
+NAME Case Overviews for Voluntary Exposure to Risk
+TYPE Case Overviews
+CATEGORY Voluntary Exposure to Risk
+SUMMARY *General*
+@*|Fitzpatrick|*
+/{<An individual will be unable to rely on duress as a defence if they voluntarily associate with people who are likely to commit a crime>}
+@*|Sharp|*
+/{<defence of duress was removed because he knowingly exposed himself to the risk of duress by earlier engagement with the other guilty parties. Followed principle from Fitzpatrick.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Non-Fatal Offences - GBH
+TYPE Case Overviews
+CATEGORY Non-Fatal Offences
+SUMMARY *General*
+@*|DPP v Smith (1961)|*
+/{<Grievous Bodily Harm means "really serious harm".>}
+@*|Bollom|*
+/{<Harm that would be ABH in one person can be GBH in another. V's special characteristics (age, state of health) are to be taken into account when considering whether the harm is ABH or GBH.>}
+
+
+
+
+
+
+ -----------------

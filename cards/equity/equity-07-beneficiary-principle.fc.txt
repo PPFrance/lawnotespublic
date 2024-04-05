@@ -1,0 +1,69 @@
+
+
+
+
+The Beneficiary Principle
+Private trust must have identifiable human beneficiaries (not purposes).
+Princess, in 1997, inherited more than anyone else that year. Also an igunana. Also a blue whale.
+
+- Trusts for pets should not exist, says English law.
+- But it often upholds them anyway.
+
+The problem of perpetuity.
+People die, but purposes don't. So trusts with inbuilt beneficiaries are necessarily limited by human lifespan.
+
+- Rule against inalienability.
+- Life in being, plus 21 years at common law.
+- I.e., a lifespan plus a child's minority.
+- Rather unpredictable.
+- Current statutory provisions is PandA, which gives 125 years of benefit.
+@ Probably because of those bloody mediterraneans who live so bloody long.
+- Without human beneficiaries, a trust can only run 21 years.
+- But some pets can live rather a long time. Parrots, sloths, etc.
+
+When will a trust without human beings be enforced despite beneficiary principle?
+
+The General Rule
+An express, non-charitable trust will not be valid unless it has identifiable human beneficiaries.
+
+- So a trust for non-humans should be void, and a trust for non-charitable purposes should be void.
+- Trusts must be enforceable. How could a purpose, or a pet, as a beneficiary of a trust, sue to enforce trust duties on trustees?
+- People are easy to describe precisely. A purpose is rather more difficult to describe.
+- Also, a purpose doesn't (necessarily) die. And a pet can live quite a long time.
+
+--STOP--
+
+Morice v Bishop of Durham (1804)
+Testator left her stuff "for such objects of benevolence and liberality as (the bishop of Durham) in his own discretion shall most approve of"
+
+- Not charitable, according to the MR. No identifiable human beneficiaries. Therefore void.
+- Not enforceable. Who could sue?
+- Not certain. What do benevolence and liberality mean?
+- Perpetual - what is the expiry date on these beneficiaries.
+
+Re Astor's Settlement Trusts (1952)
+Lady Astor left her stuff "for the establishment, maintenance, and improvement of good understanding, sympathy and co-operation between nations", "the preservation of the independence and integrity of newspapers", "the promotion of the freedom of the press."
+
+- Trustee's wait and see principle - wait until the perpetuity period has elapsed.
+- But without human beneficiaries.
+
+Re Shaw (1957)
+George Bernard Shaw's trust, to teach deportment to young ladies.  Claire thinks Shaw was just having a laugh.
+
+- "For 21 years for experimentation in the possible reform of the english alphabet of 26 letters by its substitution for a phonetic alphabet of 40 letters … then Androcles the Lion to be translated into the new alphabet and put on in schools to test its validity."
+- Void - trust without human beneficiaries.
+
+Re Endacott (1960)
+This bloke was a cunt. "For the purpose of providing some useful memorial to myself."
+
+- Setting up a statute to oneself has been held, surprisingly, not to be charitable.
+- He wanted a giant statue of himself in bronze on a giant horse he couldn't ride, with medals he hadn't won.
+- Problematic to know what he really meant by "useful." A public lavatory? A fountain?
+- Too vague, too uncertain, too capricious (i.e., a waste of money).
+
+Re Osoba (1979)
+Left a (small) sum of money "for the training of my daughter Abiola up to university grade."
+
+- Which looks more like a trust for training than a trust for Abiola.
+- Court held a gift with extra words, so gave her the lot, pragmatically turning what's obviously a trust into a gift — saving a lot of tax, as it happens.
+- The court didn't like him trying to disinherit his daughter, so gave her the lot.

@@ -1,0 +1,128 @@
+
+NAME Property Rights
+CATEGORY Property Rights; Formalities
+TYPE Concept
+SUMMARY ~*Intro*~
+/The foundation-stone of modern property law is |S1 LPA 1925|. 
+@It lists property rights that *may* be legal -- |Freeholds|, |Leaseholds|, |Mortgages|, |Easements|, and some other non-examined entities like profits and rent-charges.
+@These are the *only*  property rights enforceable at common law.
+@*Every other* type must therefore be *equitable* -- |Options|, |Covenants|, preemptions, |Estoppel|, |Equitable Co-ownership|, and whatever else the courts hold to be an (equitable) property right.
+SUMMARY ~*Requirements*~
+/Property rights need |Formalities| to exist. These boil down to the need for a *deed* *_plus_* *registration* (for a legal right) and *signed writing* for equitable rights, usually, but 
+SUMMARY ~*Legal v Equitable*~
+/Before 1925, this mattered. Now, the only noticeable difference is for remedies.
+@A cause of action for a *legal easement* is remedied by damages *by right*. But for an *equitable easement, the court can decide *not* to award.
+@A legal mortgage gives the mortgagee a right to take possession of the land *without* a court order. An equitable mortgage, by contrast, means they need a judge's say-so.
+SUMMARY ~*See also*~
+
+
+
+NAME S1 LPA 1925
+AKA LPA 1925 S1
+CATEGORY Property Rights; Formalities
+LEGILINK http://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/1
+TYPE Statute
+SUMMARY This fundamentally significant provision lists the things which can be *Legal Property Rights*.
+SUMMARY ~*Text*~
+/*Legal estates and equitable interests.*
++The only estates in land which are capable of subsisting or of being conveyed or created at law are—-
+++An estate in fee simple absolute in possession;
+++A term of years absolute.
++The only interests or charges in or over land which are capable of subsisting or of being conveyed or created at law are—-
+++An easement, right, or privilege in or over land for an interest equivalent to an estate in fee simple absolute in possession or a term of years absolute;
+++A rentcharge in possession issuing out of or charged on land being either perpetual or for a term of years absolute;
+++A charge by way of legal mortgage;
+++and any other similar charge on land which is not created by an instrument;
+++Rights of entry exercisable over or in respect of a legal term of years absolute, or annexed, for any purpose, to a legal rentcharge.
++All other estates, interests, and charges in or over land take effect as equitable interests.
++The estates, interests, and charges which under this section are authorised to subsist or to be conveyed or created at law are (when subsisting or conveyed or created at law) in this Act referred to as “legal estates,” and have the same incidents as legal estates subsisting at the commencement of this Act; and the owner of a legal estate is referred to as “an estate owner” and his legal estate is referred to as his estate.
++A legal estate may subsist concurrently with or subject to any other legal estate in the same land in like manner as it could have done before the commencement of this Act.
++A legal estate is not capable of subsisting or of being created in an undivided share in land or of being held by an infant.
++Every power of appointment over, or power to convey or charge land or any interest therein, whether created by a statute or other instrument or implied by law, and whether created before or after the commencement of this Act (not being a power vested in a legal mortgagee or an estate owner in right of his estate and exercisable by him or by another person in his name and on his behalf), operates only in equity.
++Estates, interests, and charges in or over land which are not legal estates are in this Act referred to as “equitable interests,” and powers which by this Act are to operate in equity only are in this Act referred to as “equitable powers.”
++The provisions in any statute or other instrument requiring land to be conveyed to uses shall take effect as directions that the land shall (subject to creating or reserving thereout any legal estate authorised by this Act which may be required) be conveyed to a person of full age upon the requisite trusts.
++The repeal of the Statute of Uses (as amended) does not affect the operation thereof in regard to dealings taking effect before the commencement of this Act.
+
+
+NAME Formalities
+CATEGORY Property Rights; Formalities
+TYPE Concept
+SUMMARY ~*Intro*~
+/Formalities exist because, as MD puts it, 'who gives a _monkey's_ *why* they exist?' By which it should be understood that they *(i)* exist, and that *(ii)* the arbitrariness of their rules may be, in fact, _arbitrariness_. 
+SUMMARY They provide --
+@*Certainty*. The historical tendency is towards _more_ formality. For an origin, look to the |Statute of Frauds 1677|, material from which is to be detected in the modern regime given by the |LPA 1925|, |LPA (Misc Provisions) 1989| and the |LRA 2002|.
+@the frontier between *legal* and *equitable* property rights. This is _not_ the frontier between *strong* and *weak* property rights. Before 1925, the distinction was crucial, but as of May 2016, most of the the distinction has evaporated away from the difference it once represented.
+SUMMARY |LRA 2002| attempted, by its introduction of |Electronic Conveyancing|, to do away with the need for formalities. But be doubtful in the face of bold assertions that e-conveyancing is the revolutionary future, and cite the 6-fold increase in fraud that gleefully met the implementation of e-conveyancing in New Zealand.
+SUMMARY ~*Rules*~
+/There are |Formality Rules for Legal Property Rights| and |Formality Rules for Equitable Property Rights|. At minimum, they require a *writing*, although there are exceptions in both cases.
+
+
+NAME LPA (Misc Provisions) 1989
+AKA LPA 1989
+TYPE Statute
+SUMMARY *Blackstone's* Property Law 2015-2016 -- *p.235*
+SUMMARY ~*Text*~
+SUMMARY *S1 -- Deeds and their execution*
++2An instrument shall not be a deed unless—
+++it makes it clear on its face that it is intended to be a deed by the person making it or, as the case may be, by the parties to it (whether by describing itself as a deed or expressing itself to be executed or signed as a deed or otherwise); and
+++it is validly executed as a deed by that person or, as the case may be, one or more of those parties.
+
+
+NAME Formality Rules - Legal
+AKA Formality Rules for Legal Property Rights
+TYPE Concept 
+CATEGORY Property Rights; Formalities
+SUMMARY ~*Overview*~
+/A property right is legal if it's: 
+/->-1. *listed in |S1 LPA|* -- 2. *established by deed* -- 3. *registered* --  4. *not an exception*.
+SUMMARY ~*Detail*~
++2Legal property rights must be established by *deed* (a document declaring itself to be a deed, signed with a single witness -- S1(3) |LPA 1989|). 
++In _most_ situations, the property right arises _by registration of the deed_ -- |S58 LRA|.
+@@|Freeholds|, |Mortgages|, |Easements|, |Leases over 7 Years|, plus profits and rent-charges.
+SUMMARY Fulfilling these requirements gives you a *registered disposition*.
+@@In default of which (usually because of absence/failure of the deed), the |Formality Rules - Equitable| may still be fulfilled.
+SUMMARY ~*Exceptions*~
++*|Short leases|* -- |S52 LPA|, |S54 LPA|. 
+@@Short means *three years or less*. 
+@@Can be purely verbal, or, by reference to the parties' conduct, an *implied periodic lease*.
+@@Rent paid every month (at a term, for exclusive occupation, naturally) is this, at rock bottom. |Prudential Assurance v LRB|. 
+@@N.B., means, nevertheless, being booted out on a month's notice.
++*|Adverse Possession|* 
+@@Control over someone's land for a minimum period gives a copper-bottomed legal title to it.
++*Prescription*
+@@A little like |adverse possession|, this explains paths closed for one day a year to prevent prescriptive rights arising.
+
+
+NAME Formality Rules - Equitable
+AKA Formality Rules for Equitable Property Rights
+CATEGORY Property Rights; Formalities; Equitable Rights
+TYPE Concept
+SUMMARY ~*Rules*~
++*Signed writing* within S2 |LPA 1989|, which must contain all the terms and be signed by both parties.
++*A trust of land*, although by S58 |LPA 1989|, this must be established in writing.
+SUMMARY ~*Exceptions*~
+However, there are two notable exceptions where no formality is required, and these generate quite a lot of cases, controversy, and land law lectures. They are:
+@|Proprietary Estoppel|, in which assurance, reliance, detriment *and unconscionability* (which is sometimes forgotten, and which is emphatically *not* the same as *unfairness*) can be ground up and fed by the courts into the sausage-skin of a _crystalized property right_.
+@|Resulting Trusts| and |Constructive Trusts|, to quantify (or, recently, also to _establish_) an equitable share of ownership.  
+
+
+NAME Formalities - Problem Questions
+CATEGORY Property Rights; Formalities; Exam Advice
+TYPE Exam Advice
+SUMMARY ~*Is the right _legal_?*~
++Was there a *registered disposition*? 
+@@This means a registered deed -- it's a *legal* right.
++Was there a *grant* or *conveyance*?
+@@If it was then *registered*, it's *legal*. 
+@@If it wasn't registered, then it *could be equitable*.
++Is it a lease of *3-7 years* created by deed?
+@@It's *legal*.
++Is it a lease of 3 or fewer years?
+@@It's 
+SUMMARY ~*Is it _equitable_?*~
++Was there *writing* or *signed writing* or an *instrument in writing*?
+@@This means *not a deed*, so a *legal* right is out of the question. It may be equitable -- |S2 LPA 1989|
++Is it a *trust of land* created *in writing*?
+@@This is an *e
+
+

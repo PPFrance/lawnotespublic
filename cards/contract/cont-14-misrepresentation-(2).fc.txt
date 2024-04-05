@@ -1,0 +1,145 @@
+META filename herling-14-misrepresentation-(2).fc.txt
+
+
+--STOP--
+
+NAME Misrepresentation (2) - Introduction
+TYPE Concept
+CATEGORY Misrepresentation (2)
+
+
+
+
+NAME Section 1: treating a contract term as a misrepresentation
+TYPE Concept
+CATEGORY Misrepresentation (2)
+
+
+
+
+NAME Section 2(1)
+TYPE Concept
+CATEGORY Misrepresentation (2)
+
+
+
+
+NAME Fraudulent, negligent and innocent misrepresentation
+TYPE Concept
+CATEGORY Misrepresentation (2)
+
+
+
+
+NAME Derry v Peek
+CITATION Derry v Peek (1889) 14 App Cas 337
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Fradulent Misrepresentation
+
+
+
+
+NAME Doyle v Olby (Ironmngers) Ltd
+CITATION Doyle v Olby (Ironmngers) Ltd [1969] 2 QB 158
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Fradulent Misrepresentation
+
+
+
+
+NAME East v Maurer
+CITATION East v Maurer [1991] 2 All ER 733
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Fradulent Misrepresentation
+
+
+
+
+NAME Negligent Misrepresentation
+TYPE Concept
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Negligent Misrepresentation
+
+
+
+
+NAME Howard Marine & Dredging Co Ltd v A Ogden & Sons (Excavation) Ltd
+CITATION Howard Marine & Dredging Co Ltd v A Ogden & Sons (Excavation) Ltd [1978] QB 574
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Negligent Misrepresentation
+
+
+
+
+NAME Royscot Trust v Rogerson
+CITATION Royscot Trust v Rogerson [1991] 2 QB 297
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Negligent Misrepresentation
+FLAGS Treitel; McKendrick
+
+
+
+
+NAME Gran Gelato Ltd v Richcliff (Group) Ltd
+CITATION Gran Gelato Ltd v Richcliff (Group) Ltd [1992] 1 All ER 865
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Negligent Misrepresentation
+
+
+
+
+NAME Innocent Misrepresentation
+TYPE Concept
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Innocent Misrepresentation
+
+
+
+
+NAME Whittington v Seale-Hayne
+CITATION Whittington v Seale-Hayne (1900) 82 LT 49
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Innocent Misrepresentation
+
+
+
+
+FLAGS McKendrick
+NAME Rescission
+TYPE Concept
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Rescission
+
+
+
+
+NAME Car & Universal Finance Co Ltd v Caldwell
+CITATION Car & Universal Finance Co Ltd v Caldwell [1965] 1 QB 525
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Rescission Generally
+FLAGS Treitel
+
+
+
+
+NAME William Sindall plc v Cambridgeshire County Council
+CITATION William Sindall plc v Cambridgeshire County Council [1994] 1 WLR 1016
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Rescission Generally
+
+
+
+
+FLAGS Hoffman
+NAME Common Law Bars to Rescission
+TYPE Concept
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Common Law Bars to Rescission
+
+
+
+
+NAME Overbrooke Estates Ltd v Glencombe Properties Ltd
+CITATION Overbrooke Estates Ltd v Glencombe Properties Ltd [1974] 1 WLR 1355
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Exemption of Liability For Misrepresentation
+
+
+
+
+NAME Cremdean v Nash
+CITATION Cremdean v Nash (1977) 244 EG 547
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Exemption of Liability For Misrepresentation
+
+
+
+
+NAME Beyond section 3
+TYPE Concept
+CATEGORY Misrepresentation (2)

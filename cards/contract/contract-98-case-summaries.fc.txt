@@ -1,0 +1,464 @@
+
+
+
+
+NAME Case Overviews for Offers
+TYPE Case Overviews
+CATEGORY Offers
+
+SUMMARY *Objective Determination of Intention*
+@*|Smith v Hughes|*
+/{<Parties to a contract are deemed to have contracted under terms that can be objectively determined, rather than according to their subjective beliefs.  An offeror's mistaken assumption about an attribute of the subject matter _not_ stipulated in the terms does not give a good cause of action, even should the offeree know of the other party's mistaken assumption. (Should the mistaken assumption concern an attribute of the subject matter _provided for by the terms_, on the other hand, the offeree's acceptance will not be valid, see |Hartog|.)>}
+@*|Rose v Pim|*
+/{<An offeror who takes bad advice, on the basis of which makes an incorrect assumption about an attribute of the subject matter for which no contractual term provides, does _not_ have a cause of action against the party who gave the advice.>}
+@*|Hartog v Colin & Shields|*
+/{<A term of an offer made in error, having the effect of skewing the bargain considerably in favour of the offeree, will not be held to be valid, should the offeree snap it up, knowing or strongly suspecting the offeror's mistake _as to a term_. Cf. situation in which mistake is as to *assumption* for which there is no term.>}
+@*|Centrovincial v Merchant Investors|*
+/{<A mistake in the terms of an offer, of which it would be reasonable say the offeree must have realised was a mistake, will negative consensus ad idem and voiding the contract. However, as this is a matter of fact to be established in court, and an application for summary judgment on such grounds will therefore fail.>}
+@*|Chwee Kin Kong v DigilandMall.com|*
+/{<By contrast to earlier cases in which the morality of an offeree's taking advantage of an offeror's mistake, about which he knew or could be said to have known, was of negligible importance, the unconscionable "indecent haste" of those accepting such offers "in the dead of night" may be of more relevance to snapping-up cases in modern times.>}
+
+SUMMARY *Distinguished from Invitation to Treat - Generally*
+@*|Partridge v Crittenden|*
+/{<An advert in a newspaper with a brief description and a price is an invitation to treat, not an offer.>}
+@*|Fisher v Bell|*
+/{<A display in a shop window is an invitation to treat, not an offer.>}
+@*|Grainger v Gough|*
+/{<A published price list is an invitation to treat, not an offer -- for the solid commercial reason of not turning unfulfillable orders into lawsuits for non-completion.>}
+@*|Boots Cash Chemists|*
+/{<Taking goods off shelves and placing them in your basket is to prepare to make an offer to buy them at the checkout.>}
+@*|Thornton v Shoe Lane Parking|*
+/{<When a machines dispenses tickets in exchange for money, the machine makes the offer, which is accepted by the putting in of money. Terms incorporated afterwards, such as printed on the ticket, are not validly incorporated.>}
+@*|Chapelton v Barry|*
+/{<In arrangements where it may not come to the attention of the provider of a service that the service is being used until _after_ that performance begins, the contract is nevertheless concluded when the performance of the service _begins_, and not at the point where payment is sought. The availability of the service constitutes the offer, the act of beginning to use it, the acceptance. Terms may not ordinarily be incorporated, therefore, when payment is sought.>}
+
+SUMMARY *Distinguished from Invitation to Treat - In Unilateral Contracts*
+@*|Carlill v Carbolic Smoke Ball Company|*
+/{<An advertisement promising a reward for the performance of a specific action is not a puff nor an invitation to treat, but a unilateral contract, binding on the parties on valid performance as stipulated.>}
+
+SUMMARY *Distinguished from Invitation to Treat - Contracts Involving Land*
+@*|Harvey v Facey|*
+/{<As the law deems each plot of land unique, the courts will not impute intention to dispose of it lightly.>}
+@*|Clifton v Palumbo|*
+/{<When the subject matter is land, the higher the sums involved, the more vagueness will militate against the presumption of intention to contract.>}
+@*|Gibson v Manchester|*
+/{<Although on appeal Lord Denning had construed the whole course of dealing as forming the contract, the Lords held the wording 'may be prepared' vitiated finding a letter in a land transaction constituted an offer.>}
+
+SUMMARY *Distinguished from Invitation to Treat - Sales by Auctions*
+@*|Payne v Cave|*
+/{<A bid made in an auction is an offer. Should it be the highest, it is accepted when the gavel comes down.>}
+@*|Harris v Nickersen|*
+/{<An advertisement for the sale of specific goods at auction does _not_ form a unilateral offer which is accepted by attendance. Otherwise, the auctioneer would be liable for breach to all those who "accepted" by showing up.>}
+@*|Warlow v Harrison|*
+/{<The advertisement of a sale by auction _without reserve_ is a unilateral offer, accepted by the highest bid.>}
+@*|Barry v Davies|*
+/{<Modern authority for advertisements of a sale by auction without reserve being unilateral offers accepted by placing the highest bid.>}
+
+SUMMARY *Distinguished from Invitation to Treat - Sales by Tender*
+@*|Spencer v Harding|*
+/{<An invitation to submit tenders for purchase lacks contractual character and, forbidding promises amounting to a unilateral contract to sell to the highest bidder, is not a unilateral contract.>}
+@*|Blackpool and Fylde|*
+/{<An invitation to submit tenders conforming to certain criteria until a certain date, after which they will be examined, has made a unilateral offer promising the opening and consideration of the bids in exchange for their timely and conforming submission. No promise, however, is implied about which will ultimately be accepted.>}
+@*|Harvela v Royal Trust of Canada|*
+/{<When an invitation is made to submit closed bids promises to sell to the highest bidder, a bid putting itself in terms of _another_ bid will not be valid.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Responses to Offers
+TYPE Case Overviews
+CATEGORY Responses to Offers
+
+SUMMARY *Counter-Offer*
+@*|Hyde v Wrench|*
+/{<Responding to an offer with a suggestion of a lower price cancels the original offer and makes a new one. The original offer cannot then validly be accepted.>}
+@*|Stevenson, Jacques v MacLean|*
+/{<An enquiry in response to an offer is not a counter-offer, therefore does not terminate the original offer. The difference between a counter-offer and an enquiry may be discerned by asking whether the response leaves open the possibility of accepting the offer -- or shows an intention to modify the terms.>}
+@*|Gibson - Counter-Offers|*
+/{<A response to an offer _enquiring_ about the possibility of new terms rather than _proposing_ new terms, will not be a counter offer.>}
+
+SUMMARY *Battle of the Forms*
+@*|BRS v Arthur Crutchley|*
+/{<The last set of terms and conditions presented by a party will govern a contract, should the other party be deemed by conduct to have accepted them, as by doing so, the first party has proposed different terms, and has therefore made a counter-offer, annulling the first.>}
+@*|Butler v Ex-Cell-O|*
+/{<Prospectively entrenching the operation one's own terms and conditions will only succeed in doing so while the offer of which they are a part is valid. As soon as the other party makes a counter-offer, the purported term ceases to have any relevance.>}
+@*|Tekdata v Amphenol|*
+/{<Modern authority for the standard analysis in 'battle of the forms' cases. The "last shot" wins even should there be contradictory evidence from the business context and the parties' prior dealings as to which set of terms and conditions _was_ intended to govern.>}
+
+SUMMARY *Withdrawal and Lapse*
+@*|Routledge v Grant|*
+/{<An offer valid for a certain period can nevertheless be withdrawn by the offeror before the period elapses -- who, there being no acceptance and consideration, is not bound.>}
+@*|Mountford v Scott|*
+/{<If the prospective offeree of an offer valid during a certain period only has _paid_ for the chance to accept, then he has paid for an option to contract, and the principle offer cannot validly be withdrawn before the period elapses.>}
+@*|Byrne v Van Tienhoven|*
+/{<The withdrawal of an offer must be communicated to the offeree _effectively_. The postal rule does not apply to such communication. Were it to do so, the sender of an acceptance by post would not know whether the offeror had received it before sending a withdrawal.>}
+@*|Dickinson v Dodds|*
+/{<Communication to the offeree of an offer's withdrawal may be indirect, as long as the offeree knows of it. Should such an offeree then purport to accept, doing so would itself demonstrate the absence of a consensus ad idem, and could not therefore be effective.>}
+@*|Shuey v United States|*
+/{<An offer made publicly will be held to have been validly withdrawn, if done so by the same means. There is no requirement, however, that such withdrawal should have been seen by anyone in particular, e.g., someone engaged in performing the action for the offer's acceptance.>}
+@*|Victoria Hotel v Montefiore|*
+/{<An offer that is not explicitly of validity for a limited period will nevertheless be deemed to have elapsed, invalidating a purported acceptance coming much later.>}
+
+SUMMARY *Acceptance - Knowledge of Offer*
+@*|Williams v Carwardine|*
+/{<An action conforming to the requirement for acceptance of a unilateral offer was held to have accepted the contract, even though the person was unaware of the offer.>}
+@*|R v Clarke|*
+/{<A unilateral contract cannot be validly accepted by someone unaware of its existence -- especially if they happen to be a wanted man.>}
+
+SUMMARY *Acceptance - Knowledge of Offer - Cross-offers*
+@*|Tinn v Hoffman|*
+/{<Functionally identical crossed-offers do not form a contract.>}
+
+SUMMARY *Acceptance - In Unilateral Contracts*
+@*|Luxor v Cooper|*
+/{<The traditional view, that a unilateral offer is validly accepted when its specified action is _complete_, will prevail when the action entails no significant detriment to the offeree distinguishable from an _ordinary business risk_.>}
+@*|Errington v Errington|*
+/{<Should the action for acceptance of a unilateral offer entail a significant detriment to the offeree, then the offer may be deemed to have been accepted when its performance _begins_ -- by contrast to the traditional approach, in which acceptance occurs when the action is complete.>}
+@*|Daulia Ltd v Four Millbank Nominees Ltd|*
+/{<Once the offeree has started to perform the action for acceptance of a unilateral offer, its offeror may not effect withdrawal by scotching the offeree's performance.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Communication of Acceptance
+TYPE Case Overviews
+CATEGORY Communication of Acceptance
+
+SUMMARY *Acceptance By Conduct*
+@*|Carlill - Acceptance|*
+/{<The maker of a unilateral offer implicitly dispenses with the necessity for acceptance to be communicate if it specifies an action the performance of which does not per se necessitate communication with offeror.>}
+@*|Brogden v Metropolitan Railway|*
+/{<An act from which acceptance of an offer can reasonably be inferred by the offeror is _valid acceptance_, despite the absence of explicit words to that effect.>}
+@*|British Steel v Cleveland Bridge|*
+/{<Acts cannot not be taken as acceptance of an offer if no clear offer has been made, e.g., if the line from negotiation to offer has not obviously been crossed.>}
+
+SUMMARY *Acceptance By Silence/Inactivity*
+@*|Felthouse v Bindley|*
+/{<An offeree's silence and inaction is incapable of being valid acceptance, even should the terms of the offer stipulate otherwise.>}
+@*|The Leonidas D|*
+/{<An agreement to abandon a course of action on which parties to a contract engaged, such as arbitration, may not be inferred from the protracted silence of both parties. Although long silence and inaction often comes reflects a shared desire to let a matter evaporate, silence and inaction are also consistent with forgetfulness, sloth and administrative fuckup.>}
+@*|Vitol SA v Norelf Ltd|*
+/{<The rule against acceptance by silence or inaction does _not_ apply to the repudiation of a contract by one party, which the other has breached.>}
+@*|Re Selectmove|*
+/{<Obiter, Peter Gibson Jahhstice: when an offeree declares the offer should be considered accepted, unless by a certain time an indication is given to the contrary, the offer has been validly accepted.>}
+
+SUMMARY *Transmission of Acceptance*
+@*|Mulcaire v News Group|*
+/{<An offeror is free to stipulate that an offer can only be validly accepted in a particular way.>}
+@*|Eliason v Henshaw|*
+/{<An offeror is free to specify the means by which acceptance should be communicated. Acceptances communicated by other means will be invalid only should that other means be excluded by the stipulation, or by the reason for which stipulation was made.>}
+@*|Entores v Miles|*
+/{<An acceptance transmitted electronically will be deemed to be accepted at the time and place of its receipt. Should a message accepting an offer not get through, but the sender reasonably believes it has, the offer will not have been accepted.>}
+@*|The Brimnes|*
+/{<An offeror whose offer allows for acceptance by electronic means may not rely on failure to check whether messages were validly received.>}
+
+SUMMARY *Postal Rule*
+@*|Household Fire Insurance v Grant|*
+/{<Even when a letter accepting an offer never arrives, the postal rule causes it nevertheless to be _valid acceptance_.>}
+@*|Henthorn v Fraser|*
+/{<The postal rule for acceptance applies when it could be said to have occurred to the parties that acceptance might be posted; i.e., only when it would be _reasonable_ to accept an offer by post.>}
+@*|Holwell v Hughes|*
+/{<The postal rule may be implicitly ousted by the language of an offer, such as a requirement to give _notice_ of acceptance to the offeror. Even should the accepted test for the postal rule be met -- that acceptance by post was contemplated -- the postal rule will not apply. The postal rule will not be imposed, even when logical to do so on application of precedent, when that would lead to 'manifest inconvenience and absurdity.'>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Consideration
+TYPE Case Overviews
+CATEGORY Consideration
+
+SUMMARY *Consideration Must Be of Some value In Eye of Law*
+@*|Chappell v Nestle|*
+/{<An item of no economic value _may well_ be sufficient consideration, if it shows evidence of detriment suffered by promisee or benefit conferred on promisor. This may hold even if the evidence is no more than speculative.>}
+
+SUMMARY *Consideration In Compromises of Legal Claims*
+@*|Cook v Wright|*
+/{<Being spared the expense of defending a legal action the hypothetical _respondent_ of which knows would be worthless, is good consideration.>}
+@*|Wade v Simeon|*
+/{<Being spared the expense of defending a legal action the claimant knows would _fail_, i.e., would bring in bad faith, is *not* sufficient consideration.  For it to be otherwise would be to give contractual force to extortion by this means.>}
+
+SUMMARY *Consideration Must Be Requested*
+@*|Combe v Combe|*
+/{<The consideration provided by a promisee have been requested by the promisor.>}
+@*|Shadwell v Shadwell|*
+/{<Even though nothing was requested of the promisee, good consideration was to be found in having _got married_, as per the (albeit inexplicit) stipulation of the offer. To do so was to have suffered detriment, in the sense of a _change of position_.>}
+
+SUMMARY *Consideration Distinguished From Conditional Gifts*
+@*|Dickinson v Abel|*
+/{<A promise valid only on fulfilment of a condition fails to be enforceable in contract, should that condition entail no detriment passing from the promisee.>}
+
+SUMMARY *Consideration Must Not Be Past*
+@*|Roscorla v Thomas|*
+/{<A promise may not be supported by a detriment incurred by the promisee _before_ the promise was made.>}
+
+SUMMARY *Doctrine of Implied Assumpsit*
+@*|Lampleigh v Brathwait|*
+/{<A service performed on the understanding that payment would come later may be employed to supporting a subsequent promise to pay, through the doctrine of implied assumpsit.>}
+@*|Pao On v Lau Long|*
+/{<Obiter, Lord Scarman stated his understanding of the conditions for implied assumpsit: *(i)* an act done by promisee for promisor, *(ii)* at promisor's request, and *(iii)* understood by both parties to have been performed for the benefit of the promise (i.e., payment).>}
+
+SUMMARY *Performance of Existing Legal Duties as Consideration*
+@*|Collins v Godefroy|*
+/{<The performance of a legal obligation such as giving evidence on subpoena will not be good consideration for a promise of reimbursement.>}
+@*|Glasbrook v Glamorgan|*
+/{<The performance of a legal duty may be good consideration should it go beyond what is obligatory.>}
+@*|Ward v Byham|*
+/{<Denning LJ doubted the rule that performance of an existing duty could not be good consideration, on the basis that merely getting something requested would be of benefit to promisor. This drew near to the C18th view articulated by Lord Mansfield, that sufficient consideration is to be found in the _"ties of conscience upon an upright mind"_.>}
+
+SUMMARY *Performance of Contractual Duties Owed to a Third Party as Consideration*
+@*|The Eurymedon|*
+/{<An existing contractual duty owed _to a 3rd third party_ may pressed into the mould of good consideration, should nothing else be found to enforce a business arrangement of mutually-profitable character in the normal course of events.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Towards Promissory Estoppel
+TYPE Case Overviews
+CATEGORY Towards Promissory Estoppel
+
+SUMMARY *Existing Contractual Obligations as Consideration*
+@*|Stilk v Myrick|*
+/{<Performance of a contractual obligation already owed by promisee to promisor cannot provide consideration for a new promise, which, by consequence, will not be enforceable by the promisee.>}
+@*|Hartley v Ponsonby|*
+/{<Should a promise purporting to be in exchange for performance of existing contractual obligations entail, in point of fact, performance for which the contract does _not_ provide, a new contract will have been established, and the promise will be enforceable.  The rule that existing contractual duties are not good consideration for such a promise cannot therefore apply in such circumstances.>}
+
+SUMMARY *Evasion of the Rule in Stilk v Myrick*
+@*|Williams v Roffey|*
+/{<In a contract to supply goods or services, if the inadequacy of the performance of one party comes to the attention of the other, who then promises additional payment, should the performance be completed adequately and on time; the benefit the adequate and timely completion of performance would confer (e.g., by avoiding a penalty under another contract) will be good consideration for the promise, which in consequence will be enforceable.>}
+@*|Re Selectmove - PE|*
+/{<The recent finding that performance of existing contractual duties can be good consideration for a promise, if such duties are unlikely to be fulfilled on time, causing a detriment to the other party -- does _not_ apply to situations where the performance in question is the repaying of a debt.>}
+
+SUMMARY *Existing Contractual Obligations as Consideration - Part Payment of a Debt as Consideration*
+@*|Pinnel's Case|*
+/{<Part-payment of a debt _on the due day_ is not good consideration for a promise to discharge the debt. Should it come _before_, or _be made in another place_, however, it may be.>}
+@*|Foakes v Beer|*
+/{<The rule against part payment of a debt as valid consideration from |Pinnel's Case| was upheld.>}
+@*|Vanbergen v St Edmunds|*
+/{<The rule in |Pinnel's Case| on the insufficiency of part-payment of a debt as consideration is _avoided_ when payment is proffered _in another place_ from where the debt is due.>}
+
+SUMMARY *Existing Contractual Obligations as Consideration - Evasion of Rule In Pinnel's Case*
+@*|Hirachand Punamchand v Temple|*
+/{<A debt payed in part _by a third party_ was held to avoid the rule of |Pinnel's Case|.>}
+
+SUMMARY *Promissory Estoppel - Equity's Evasion of Pinnel's Case*
+@*|Hughes v Metropolitan Railway|*
+/{<When one party acts in such a way as to suppose they will not enforce a right under contract -- and the other party relies on it -- then they will be estopped from enforcing it, if doing so would be inequitable.>}
+@*|Central London v High Trees|*
+/{<Obiter, Denning J held that a party who agreed not to enforce a right of payment would be estopped from then claiming the money, under under |Hughes|. Promissory estoppel generally _suspends_ legal rights rather than _extinguishing them_.>}
+
+SUMMARY *Characteristics of Promissory Estoppel - Reliance and Inequity*
+@*|The Post Chaser|*
+/{<Promissory estoppel is only open as a defence, not an attack. It does _not require detrimental reliance_ by the party hoping to establish it, but it _does require inequitability_ to the assurance, by the other.>}
+@*|D&C Builders v Rees|*
+/{<The defence of promissory estoppel _fails_ when the party seeking to rely on it has himself behaved inequitably.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Incorporation of Terms
+TYPE Case Overviews
+CATEGORY Incorporation of Terms
+SUMMARY *General*
+@*|Tilden v Clendinning|*
+/{<Unreasonably onerous exclusion clauses might _not_ be successfully incorporated by signature when the party relying on them knows the other party is unaware of them.>}
+
+SUMMARY *Negative - By Signature*
+@*|L'Estrange v Graucob|*
+/{<Terms which one party has failed to read are successfully incorporated into a contract by that party's signature, even though the terms are onerous exclusion clauses, skewing the bargain against the party to such a degree that, had they read them, they might not have signed. Denning was counsel for the seller of the ciggie machine, in this case, and later spoke spoke in Parliament of his regret in the matter).>}
+@*|Grogan v Robin Meredith Plant|*
+/{<Terms on or referred to by a document such as a timesheet, will only be validly incorporated if _a reasonable person_ would expect them to have contractual effect.>}
+@*|Curtis v Chemical Cleaning|*
+/{<When the party relying on terms incorporated by signature fails to explain them correctly, or does so mendaciously so as to limit the other party's understanding of them, they will be incorporated _only to the extent of the explanation_.>}
+
+SUMMARY *Negative - By Notice - Timing*
+@*|Olley v Marlborough Court Hotel|*
+/{<Denning LJ adumbrated ("adumbrated" ?? ffs.) the ways in which one party can show another's consent to a term thus -- _"the best way of proving it is by a written document signed by the party_ to be bound.  Another way is by handing him _before or at the time of the contract a written notice_ specifying its terms and making it clear to him that the contract is on those terms.  _A prominent public notice which is plain for all to see_ when he makes the contract or _an express oral stipulation_ would, no doubt, have the same effect.  _But nothing short_ of one of these three ways will suffice.">}
+@*|Thornton v Shoe Lane - Incorporation|*
+/{<The onerous nature of an exclusion clause may inform the court's construction as to when the contract is formed. Should it come a moment too late, it may _not_ be validly incorporated. (Clauses such as amongst those in question, seeking to exclude liability for personal injury, are now invalid, by S2(1) |UCTA|.>}
+
+SUMMARY *Negative - By Notice - Nature of Document, Expectations of Parties*
+@*|British Crane Hire|*
+/{<Although the parties _had_ done business twice on the same terms (such that it may plausibly have been argued that the exclusion clause was incorporated by their course of prior dealing), the exclusion clause was held validly incorporated because: (i) both parties were aware each other contracted on (flavours of) industry standard terms for such contracts so _could reasonably be expected to suppose such terms would govern_; (ii) the urgency in which it was concluded waived the usual need for formality; (iii) the written statement of terms came a little late, but the defendant had notice of it.>}
+
+SUMMARY *Negative - By Notice - Ticket Cases - Reasonableness*
+@*|Parker v South Eastern|*
+/{<A person who buys a ticket for something, on the back of which there there are terms, is nevertheless still free to accept or reject the offer on the basis of his estimation of whether he wants to be bound by those terms. Which is obviously nonsensical bollocks from every conceivable point of view -- except for _pragmatic commercial necessity_.  Melish LJ held that a railway company was entitled to expect someone depositing a bag could read English, and that a particularly ignorant, illiterate or feckless person should not be put in a better position than another, by being spared the burden of an exclusion clause to which the more careful would be held. (According to Gregory Clarke, 2008, the literacy rate in England in the 1880s was no more than 80% for men, 70% for women).>}
+@*|Thompson v LMS|*
+/{<Terms set out or referred to on the face of a contractual document are usually validly incorporated.  A triply-indirect written notice of terms -- front of ticket referring to back; back of ticket referring to terms _in a variety of other documents_, obtainable elsewhere, _for a fee_ -- given _after_ conclusion of contract to a woman _who could not read_, was held to have validly incorporated them. Even at first instance, where the jury had found otherwise.>}
+
+SUMMARY *Negative - By Notice - Onerous Or Unusual Terms*
+@*|Interfoto|*
+/{<Particularly onerous or unusual terms toeing the line separating them from |penalty clauses| will not be validly incorporated if not _fairly and reasonably drawn to the other's attention_ (Bingham) or at least, _differentiated_ (Dillon).>}
+@*|Crooks v Allen|*
+/{<A term that would not normally be expected by one party must be made _conspicuous_ by the other, if seeking to incorporate it by notice.>}
+@*|Spurling v Bradshaw|*
+/{<Denning LJ -- “Some clauses which I have seen would need to be _printed in red ink on the face of the document_ with a red hand pointing to it before the notice could be held to be sufficient”.>}
+
+SUMMARY *Negative - By Course of Dealing*
+@*|McCutcheon v MacBrayne|*
+/{<A course of prior dealing only validly incorporates an exclusion clause, when that prior dealing _demonstrates actual knowledge of the clause_ by the party against whom it is being used.>}
+
+SUMMARY *Positive - Terms or Representations - Intention of Parties*
+@*|Heilbut v Buckleton|*
+/{<The key question in determining whether a statement is a term or a representation, to which all other tests are subsidiary, is _the intentions of the parties_, objectively determined.>}
+
+SUMMARY *Positive - Terms or Representations - Subsidiary Tests - Importance of Statement*
+@*|Bannerman v White|*
+/{<When one party makes it clear it will only contract on the basis of the other's warranty, the warranty cannot be a "mere" representation, and must therefore be a term.>}
+
+SUMMARY *Positive - Terms or Representations - Subsidiary Tests - Expertise to give Warranty*
+@*|Oscar Chess v Williams|*
+/{<A statement about a detail of a contract's subject matter, the making of which would be reasonably assumed to require expertise -- which could not be reasonably assumed of the statement's maker -- would not be considered by a reasonable bystander to have been intended to have contractual effect, but merely a representation.>}
+@*|Dick Bentley v Harold Smith Ltd|*
+/{<By contrast to |Oscar Chess|, a statement requiring expertise, coming from someone who might reasonably be expected to have that expertise, might be reasonably inferred to be a warranty rather than a mere representation.>}
+
+SUMMARY *Positive - Terms or Representations - Subsidiary Tests - Assumption of Responsibility*
+@*|Schawel v Reade|*
+/{<A's statement that B need not inspect the subject matter, because had there been anything wrong with it, he would have informed him -- is itself a warranty.>}
+@*|Ecay v Godfrey|*
+/{<When a buyer is encouraged by a seller to inspect goods for himself, his failure to do so will be taken as an assumption of responsibility for the subject matter, and will militate against the construction of statements made by the seller as warranties, rather than mere rerpesentations.>}
+
+SUMMARY *Positive - Terms or Representations - Subsidiary Tests - Writing*
+@*|Inntrepreneur Pub Co v East Crown|*
+/{<The closer a statement comes to the written conclusion of a contract, the more likely it is to be seen as a factor precipitating the contract, and therefore, to be construed as a term. Statements made _earlier_, but _not in the written terms_, by contrast, will be presumed _not_ to be terms.>}
+
+SUMMARY *Conflicting - Parol Evidence Rule*
+@*|Jacobs v Batavia|*
+/{<Authority for the Parol Evidence Rule governing |incorporation of conflicting terms|.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Implication of Terms
+TYPE Case Overviews
+CATEGORY Implication of Terms
+SUMMARY *General*
+@*|Smith v Wilson|*
+/{<A term may be implied into a contract by local custom, presumably as a concession to backwardness. E.g., "1000" not, in a given place, meaning "1000" but "1200.">}
+
+SUMMARY *Implied In Fact (by Presumed Intentions)*
+@*|The Moorcock|*
+/{<A term sought to be implied into a contract must not detract from the *business efficacy* of the dealings at hand.>}
+@*|Reigate v Union|*
+/{<A term can only be implied in fact if it is *necessary* for the contract -- that the parties to the contract would have have said "but of course" had they thought of whether the term ought to be present.>}
+@*|Shirlaw v Southern Foundries|*
+/{<The test for implication of a term in fact is the _officious bystander test_ -- that such a person would say "but of course!">}
+
+SUMMARY *Implied in Law (by Legal Relationship of Parties)*
+@*|Liverpool CC v Irwin|*
+/{<In the Lords: a term required by law of the relationship between parties will be implied into a contract lacking it, should to do so be _necessary_. In the Court of Appeal, Denning had slipped up in holding the test to be one of _reasonableness_.>}
+@*|Scally v Southern Health Board|*
+/{<Policy and fairness may be considered when assessing whether a term should be implied by law.>}
+@*|Crossley v Faithful|*
+/{<The contractual relationship between employer and employee does not require the employer to look after the employee's _financial_ wellbeing, and a term to that effect cannot be implied.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Mistake
+TYPE Case Overviews
+CATEGORY Mistake
+
+SUMMARY *Mutual Mistake*
+@*|Raffles v Wichelhaus|*
+/{<A contract was undermined by one party's uncertainty as to which of the two ships named _Peerless_ the contract pertained.>}
+@*|Falck v Williams|*
+/{<When one party thinks a contract has been formed for a large shipment of _bird-shit_, yet the other thinks it's for _shale_ -- yet neither is capable of demonstrating why their understanding was the only realistic one -- the contract will be void for mutual mistake.>}
+@*|Denny v Hancock|*
+/{<A situation which at first sight appears to be a mutual mistake may, on closer inspection, really be a unilateral mistake.>}
+
+SUMMARY *Unilateral*
+@*|Denny v Hancock|*
+/{<A situation which at first sight appears to be a mutual mistake may, on closer inspection, really be a unilateral mistake.>}
+
+SUMMARY *Unilateral Mistake - "Mistaken" Identity - Inter Absentes*
+@*|Cundy v Lindsay|*
+/{<When parties contract at a distance, their identities will be construed from the contract itself. Should the contract have been induced by one party fraudulently misrepresenting themselves to be someone else, the contract will be _void_ ab initio. (In person, however, there is a strong presumption that the parties to the contract are the people physically present.)>}
+@*|King's Norton Metal v Edridge|*
+/{<A contract concluded at a distance with a fraudster operating under a _fictitious_ alias, rather than the identity of someone else, will be voidable for misrepresentation -- but _not_ void ab initio.>}
+@*|Shogun Finance|*
+/{<By majority, the rule that contracts inter praesentes are voidable for mistake of identity, but those inter absentes are void ab initio, remains good law. Dissenting, Lord Nicholls criticised the arbitrary nature of the distinction.>}
+
+SUMMARY *Unilateral Mistake - "Mistaken" Identity - Inter Praesentes*
+@*|Phillips v Brooks|*
+/{<A contract in person with a fraudster, who induces the contract by assuming the identity of someone else, is voidable for misrepresentation, but not void ab initio.>}
+@*|Ingram v Little|*
+/{<The presumption that parties contracting in person are those physically present can be rebutted, by showing the true intention of the innocent party was to contract with the person whose identity the fraudster had assumed. (Later overturned for wont of true distinction from earlier authority.)>}
+@*|Lewis v Averay|*
+/{<|Ingram v Little| was wrongly decided -- there were no true grounds for distinguishing from |Phillips v Brooks|,>}
+
+SUMMARY *Common Mistake - Res Extincta*
+@*|Couturier v Hastie|*
+/{<A contract for something which doesn't exist is _void_.>}
+@*|McRae v Commonwealth Disposals Commission|*
+/{<If the subject matter of a contract does not in fact exist, then the contract is incapable of performance and as such, is void.>}
+
+SUMMARY *Common Mistake - Res Sua*
+@*|Cooper v Phibbs|*
+/{<A contract that purports to sell goods to their owner cannot be performed. Consequently, it is _void_.>}
+
+SUMMARY *Common Mistake - Subject Matter*
+@*|Bell v Lever Bros|*
+/{<Common mistake as to a quality of subject matter must be _fundamental_ before it voids the contract.>}
+@*|Associated Japanese Bank v Credit du Nord|*
+/{<Common mistake of subject matter, as to whether a debt is secured or unsecured, may cause the contract to be voidable.>}
+@*|Solle v Butcher|*
+/{<Equity may recognise a _somewhat less_ fundamental mistake than the common law admits, as grounds for setting aside a contract.>}
+@*|Great Peace Shipping|*
+/{<The decision in |Solle v Butcher| was fundamentally incompatible with the rule in |Bell v Lever Bros|. It was therefore not followed.>}
+
+
+
+
+
+
+ -----------------

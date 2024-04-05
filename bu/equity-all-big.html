@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css" media="print">
+        @page 
+        {
+            size: auto;   /* auto is the current printer page size */
+            margin: 0mm;  /* this affects the margin in the printer settings */
+        }
+
+        body 
+        {
+            background-color:#FFFFFF; 
+            margin: 0px;  /* the margin on the content before printing */
+       }
+</style>
+
+<style>
+@media print{
+  body{ background-color:#FFFFFF; background-image:none; color:#000000 }
+  #ad{ display:none;}
+  #leftbar{ display:none;}
+  #contentarea{ width:100%;}
+}
+
+
+@font-face {
+    font-family: SourceSansPro;
+    src: url('res/SourceSansPro-Light.otf.woff');
+}
+@font-face {
+    font-family: SourceSansPro;
+    src: url('res/SourceSansPro-Semibold.otf.woff');
+    font-weight: bold;
+}
+@font-face {
+    font-family: SourceSansPro;
+    src: url('res/SourceSansPro-LightIt.otf.woff');
+    font-style: italic;
+}
+@font-face {
+    font-family: SourceSansPro;
+    src: url('res/SourceSansPro-SemiboldIt.otf.woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+p {
+padding: 2px 0px 2px 0px;
+margin: 9px 0px 9px 0px;
+}
+
+.page {
+	display: flex;
+	justify-content: center; /* align horizontal */
+	align-items: center; /* align vertical */
+	text-align: center;
+	position: relative;
+	width: 26cm;
+	display: table;
+	font-family: SourceSansPro, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+.front {
+	justify-content: center;
+}
+.back {
+	justify-content: space-between;
+}
+
+
+.box {
+	position: relative;
+	float: left;
+	width: 12.4cm;
+	height: 11.6cm;
+	display: flex;
+	align-items: center; /* align vertical */
+	text-align: center;
+	padding: 5px;
+	overflow: hidden;
+	border-top: solid 2px darkgrey;
+	border-left: solid 2px darkgrey;
+	
+}
+
+
+
+
+.box-l {
+	
+}
+.box-r {
+	border-right: solid 2px darkgrey;
+}
+.box-b {
+	border-bottom: solid 2px darkgrey;
+}
+
+
+.bigbox {
+	position: relative;
+	float: left;
+	width: 24.8cm;
+	height: 11.6cm;
+	display: flex;
+	align-items: center; /* align vertical */
+	text-align: center;
+	padding: 5px;
+	overflow: hidden;
+	border-top: solid 3px darkgrey;
+	border-left: solid 3px darkgrey;
+	border-right: solid 3px darkgrey;
+	
+}
+
+
+.bigbox-t {
+}
+.bigbox-m {
+}
+.bigbox-b {
+	border-bottom: solid 3px darkgrey;
+}
+
+
+
+
+
+
+
+
+.case-name {
+	font-weight: bold;
+	font-size: 24pt;
+}
+
+.case-name-container {
+}
+
+.bd {
+	font-weight: bold;
+}
+.it {
+	font-style: italic;
+}
+.ul {
+	text-decoration: underline;
+}
+
+.caselink {
+	font-style: italic;
+	text-decoration: underline;
+}
+
+.details-title {
+	font-size: 18pt;
+	font-weight: bold;
+	padding-bottom:15px;	
+}
+
+.details-facts {
+	font-size:15pt;
+	text-align: justify;
+}
+
+.details-held {
+	font-size:15pt;
+	text-align: justify;
+	padding-top:15px;
+	font-style: italic;
+}
+.details-held .it {
+	font-style: normal;
+}
+
+.details-trivia {
+	text-align: justify
+	font-size:10pt;
+	padding-top:15px;
+}
+.details-comment {
+	text-align: justify
+	font-size:10pt;
+	padding-top:15px;
+}
+
+</style>
+
+
+<script src="js/jquery-2.3.3.js"></script>
+<script>
+
+$( document ).ready(function() {
+	
+	var len = $('.back').length;
+	console.log('Number of backs: '+len);
+	for (var i=0; i<len; i++)
+	{
+		var div = $('.back')[i];
+		var sh = $(div)[0].scrollHeight;
+		var ih = $(div).innerHeight();
+		console.log('scrollHeight of back '+i+' is '+sh +', innerHeight is '+ih+'.');
+		if (sh > ih)
+		{
+			console.log('Adjusting font-size until sh < ih...');
+			
+			var maxIterations = 50;
+			var j=0;
+			while (sh > ih && j < maxIterations)	//j<maxIterations for 'safety.' 
+			{
+				$(div).find('.details, p').each(function() {
+					var fontSize = parseInt($(this).css('font-size'))-1 + 'px';
+					$(this).css('font-size',  fontSize);
+				});
+				
+				sh = $(div)[0].scrollHeight
+				ih = $(div).innerHeight();
+				j+= 1
+				
+				console.log('In loop, after '+j+' iterations, scrollHeight: '+sh +', innerHeight: '+ih+'.');
+			} 		
+		}
+	
+	}
+});
+
+</script>
+
+
+
+</head>
+<body>
+
+<div class='page' id='page-1'>
+	<div class='front bigbox bigbox-t' id='box-1'> <div style='case-name-container'><div class='case-name'>Valid Express Trust</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-2'> <div style='case-name-container'><div class='case-name'>Three Certainties</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-3'> <div style='case-name-container'><div class='case-name'>Wright v Atkyns (1823) Turn.R 143</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-2'>
+	<div class='back bigbox bigbox-t' id='box-4'> <div style='case-details-container'><div class='details details-title'>Express Trusts - Three Certainties</div><div class='details details-facts'><p><span class="ud"><span class="bd">How the Valid Express Trust Cake is Baked</span></span></p><p>@A valid express trust is one where it is clear the <span class="it">sui juris</span> settlor intended to create a trust, the property to be held on trust is identifiable, as are the beneficiaries.</p><p>@I.e., it has the <span class="caselink">Three Certainties</span> of <span class="caselink">Intention</span>, <span class="caselink">Subject</span> and <span class="caselink">Object</span>, per Eldon LC in <span class="caselink">Wright v Atkyns</span>.</p><p>@The courts generally try to respect the wishes of the settlor/testator, trying to uphold the trust if they can - <span class="caselink">McPhail v Doulton</span></p><p>@For a non-charitible express trust, the essential ingredients are the <span class="caselink">Three Certainties</span> - Langdale LJ in <span class="caselink">Knight v Knight</span> (1840).</p><p>@<span class="it">Sui juris</span> might not be completely certain until <span class="it">soon after</span> the 18th birthday - <span class="caselink">Edwards v Carter</span>.</p><p><span class="ud"><span class="bd">When an express trust fails</span></span></p><p>@The &#8216;trustee&#8217; may take the beneficial interest of the property - <span class="caselink">Lassence v Tierney</span> (1849).</p></div><div class='details details-held'></div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-5'> <div style='case-details-container'><div class='details details-title'>Three Certainties</div><div class='details details-facts'><p><span class="ud"><span class="bd">Intro</span></span><br>Their conceptual distinction in the law was made clear income into the law courtesy of Langdale LJ in <span class="caselink">Knight v Knight</span> (1840).</p><p><span class="bd"><span class="caselink">Certainty of Intention</span></span></p><p>@Equity looks to intent rather than form &mdash; did the settlor <span class="it">intend</span> to create a trust, or something <span class="it">other</span> than a trust?</p><p>@It has to be more likely than not (on the balance of probabilities) that the intention was <span class="it">not</span> to give a gift, but rather, create a trust. For this there should be (documentary) evidence of the intention was to oblige the recipient to accept the responsibilities of trusteeship.</p><p>@Not much evidence sought to prove this before the C18th, but <span class="it">Executors Act</span> 1830 established need for clear action or clear language.</p><p><span class="bd"><span class="caselink">Certainty of Subject</span></span></p><p>@A trust must be for property, real, chattel or intangible. Vagueness of description defeats a trust - <span class="caselink">Palmer v Simmonds</span> (but not always <span class="caselink">Re Golay</span>).</p><p>@A trust for certain chattels amongst many must be segregated from the rest - <span class="caselink">Re London Wine</span>, but no segregation is necessary for true fungibles, such as shares or money - <span class="caselink">Hunter v Moss</span>.</p><p><span class="bd"><span class="caselink">Certainty of Object</span></span><br>TODO</p></div><div class='details details-held'></div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-6'> <div style='case-details-container'><div class='details details-title'>Three Certainties</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; – per Lord Eldon &#8220;first... the word must be imperative...; secondly... the subject must be certain...; and thirdly... the object must be as certain as the subject&#8221;</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-3'>
+	<div class='front bigbox bigbox-t' id='box-7'> <div style='case-name-container'><div class='case-name'>McPhail v Doulton [1970] UKHL 1</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-8'> <div style='case-name-container'><div class='case-name'>Certainty of Intention</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-9'> <div style='case-name-container'><div class='case-name'>Precatory Words</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-4'>
+	<div class='back bigbox bigbox-t' id='box-10'> <div style='case-details-container'><div class='details details-title'>Express Trusts - Certainty of Object - Fundamental Principles</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Lord Wilberforce &mdash; &#8216;a trust should be upheld if there is sufficient practical certainty in its definition for it to be carried out, if necessary with the <span class="it">administrative assistance</span> of the court, according to the expressed intention of the settlor.&#8217;</div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-11'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Intention</div><div class='details details-facts'><p>The settlor of the trust <span class="it">intended</span> to create a trust. The intent is more relevant than the form.</p><p><span class="caselink">Precatory Words</span>, to which people are especially given when contemplating writing a will <span class="it">themselves</span>, will seriously jeopardise certainty of intention, but context is everything <span class="caselink">Lambe v Eames</span>, and the boundary between <span class="it">desire</span> and <span class="it">intention</span> can be crossed by the use of sufficiently emphatic wording - <span class="caselink">Comiskey v Bowring-Hanbury</span>.</p><p>The word &#8216;trust&#8217; is not of itself significant - <span class="caselink"></span></p></div><div class='details details-held'></div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-12'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Intention</div><div class='details details-facts'><p><span class="bd">Precatory</span> words &mdash; are of little value as evidence of intention, but it&#8217;s up to the judge - <span class="caselink">Lambe v Eames</span>, in which precatory words showed <span class="it">desire</span> not <span class="it">intention</span>. <span class="ilc">Which isn&#8217;t absolutely a distinction without a difference &mdash; but is fucking close.</span> SUMMARY The textbook example is <span class="caselink">Re Adams and Kensington Vestry</span>, but the words must be read in context of the whole will - <span class="caselink">Re Hamilton</span>.</p><p>@&#8216;It is my desire&#8217; - <span class="caselink">Re Diggles</span></p><p>@&#8216;Feeling confident&#8217; - <span class="caselink">Mussoorie Bank v Raynor</span></p><p>@&#8216;In full confidence&#8217; - <span class="caselink">Re Adams and Kensington Vestry</span></p><p>@&#8216;I wish them&#8217; - <span class="caselink">Re Hamilton</span></p><p>@&#8216;In the fullest confidence&#8217; - <span class="caselink">Re Williams</span></p><p>@&#8216;I specially desire&#8217; - <span class="caselink">Re Connolly</span></p><p>@&#8216;I request that&#8217; - <span class="caselink">Re Johnson</span>.</p><p>These cases turn on context</p><p>If boilerplate from successful wills has been used, the act of employing the words as authoritative is more important than the words themselves, as copying them is an action manifesting intention &mdash; <span class="caselink">Re Steele&#8217;s WT</span>.</p><p>Whether certainty of intention is a <span class="it">rule of law</span> or a task of <span class="it">construction</span></p></div><div class='details details-held'></div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-5'>
+	<div class='front bigbox bigbox-t' id='box-13'> <div style='case-name-container'><div class='case-name'>Re Adams and Kensington Vestry [1884]</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-14'> <div style='case-name-container'><div class='case-name'>Re Hamilton [1895] 2 Ch 370</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-15'> <div style='case-name-container'><div class='case-name'>Re Steele&#8217;s Will Trust [1948]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-6'>
+	<div class='back bigbox bigbox-t' id='box-16'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Intention - Precatory Words</div><div class='details details-facts'><p>Had a trust been validly created by a will containing the words &#8220;<span class="it">in full confidence</span> that she would do what was right as to the disposal thereof between my children&#8221;?</p></div><div class='details details-held'><b>Held</b>&mdash; The wording did not establish an intention to create a trust; it established merely a <span class="bd">wish</span>.</div><div class='details details-held'><b>Comment</b>&mdash; de Than &mdash; &#8220;there are some very sensible dead judges.”</div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-17'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Intention - Precatory Words</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Precatory words must be read in the context of the whole will be fore deciding whether or not they create a trust.</div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-18'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Intention - Precatory Words - Boilerplate</div><div class='details details-facts'><p>A will had been drafted by copying from another that had been held in court to establish a trust.</p></div><div class='details details-held'><b>Held</b>&mdash; Wynn-Parry LJ - copying from a will that <span class="it">had</span> been held to be a trust elsewhere <span class="it">did indeed</span> establish a trust.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-7'>
+	<div class='front bigbox bigbox-t' id='box-19'> <div style='case-name-container'><div class='case-name'>Re Diggles (1888) 39 Ch D 253</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-20'> <div style='case-name-container'><div class='case-name'>Comiskey v Bowring-Hanbury (1905)</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-21'> <div style='case-name-container'><div class='case-name'>Re Kayford (In Liquidation) [1975] 1 WLR 279</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-8'>
+	<div class='back bigbox bigbox-t' id='box-22'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Intention - Precatory Words</div><div class='details details-facts'><p>A will with</p></div><div class='details details-held'></div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-23'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Intention - Precatory Words</div><div class='details details-facts'><p>Did the words &#8216;absolutely in full confidence&#8217; cross the line from merely precatory <span class="it">desire</span> to actual <span class="it">intention</span>?</p><p>&#8216;I give, bequeath and devise to my very dear wife the whole of my real and personal estate and property <span class="bd">absolutely in full confidence</span> left his estate to his wife &#8216;in full confidence that she will make such use of it as I should have made myself and that at her death she will devise it to such one or more of my nieces as she may think fit and in default of any disposition by her thereof by her will... I hereby direct that all my estate and property acquired by her under this my will shall at her death be equally divided among the surviving said nieces.&#8217;</p></div><div class='details details-held'><b>Held</b>&mdash; From the word &#8216;absolutely,&#8217; in &#8216;absolutely in full confidence,&#8217; an inference could be drawn that the testator was not merely expressing a wish, but referring to an existing arrangement.<br>Lord James &mdash; ... I can quite conceive that, the word “absolutely” being used, we have to find some reason why in the first disposition he should have used the word “absolutely,” ...</div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-24'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Intention - The word 'Trust'</div><div class='details details-facts'><p>Worried that their company going bust, but keen to do the honourable thing, a separate bank account named &#8216;Customers’ Trust Deposit Account&#8217; was opened, into which were paid all new customers&#8217; monies &mdash; which they continued to accept in the hope of rescuing the business. When it did indeed go bust, was the money to be considered assets to be divvied up amongst the creditors, or had a trust the liquidator couldn&#8217;t touch been established?</p></div><div class='details details-held'><b>Held</b>&mdash; Opening and putting money in an account named &#8216;Customers&#8217; Trust Deposit Account,&#8217; was, in the circs of ominous finances, enough to establish intention to create a trust (with company as both settlor and trustee with customers as beneficiaries).<br>Cf. Cited in the later case of <span class="caselink">Re Challonner Club</span>.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-9'>
+	<div class='front bigbox bigbox-t' id='box-25'> <div style='case-name-container'><div class='case-name'>Re Challonner Club Ltd (In Liquidation) [1997]</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-26'> <div style='case-name-container'><div class='case-name'>Certainty of Subject</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-27'> <div style='case-name-container'><div class='case-name'>Palmer v Simmonds (1854) 2 Drew 221</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-10'>
+	<div class='back bigbox bigbox-t' id='box-28'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Intention</div><div class='details details-facts'><p>A company running a club, worried for its financial future, decided to solicit donations and increased subscriptions, to be paid into a separate bank account. The company then went insolvent; the administrator asked for direction about whether the monies in the separate account were to be considered assets.</p></div><div class='details details-held'><b>Held</b>&mdash; Ambiguity and discrepancy in the conditions under which money separated off from a company&#8217;s main funds in order to attempt to protect it from creditors, if the company went bankrupt, was enough to defeat the claim that an express trust had been created.<p>Distinguished from <span class="caselink">Re Kayford</span>.</p></div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-29'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Subject</div><div class='details details-facts'><p>The trust has to be for some <span class="bd">property</span>, which must either clearly defined by the settlor/testator or be ascertainable. A trust of chattels must be segregated, if part of a larger whole - <span class="caselink">Re Goldcorp</span>.</p><p><span class="ud"><span class="bd">Definition by Settlor/Testator</span></span><br>In early cases e.g., <span class="caselink">Palmer v Simmonds</span> and <span class="caselink">Sprange v Barnard</span>, vagueness as to <span class="it">quantity</span> defeated the trusts the wills sought to establish. Then in <span class="caselink">Re Golay</span> in the sixties, the court employed more pragmatism to overcome the vagueness.</p><p><span class="ud"><span class="bd">Wine and Gold vs Shares and Money</span></span><br>Different rules apply to chattels (such as wine - <span class="caselink">Re London Wine</span> or gold - <span class="caselink">Re Goldcorp</span>) than apply to fungibles and intangibles such as financial instruments.</p><p><span class="ud"><span class="bd">Problem Questions</span></span><br>Argue all possibilities. How should the goods be construed, and what cases would apply? Are they tangible/intangible? Fungible or non-fungible?</p></div><div class='details details-held'></div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-30'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Subject - Identification of Trust Property - Woolly Description</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A trust will not be upheld if the description is vague. A will attempting to establish a trust for &#8216;the bulk of&#8217; an estate was <span class="bd">not</span> upheld.<p>The word &#8216;bulk&#8217; spreads over far too much of the quantitative semantic spectrum, just like &#8216;shit load,&#8217; or &#8216;a fuck of a lot of.&#8217; According to the judge, a &#8216;bulk&#8217; was a &#8216;thing that bulges out.&#8217; <span class="it">Oo err, quite plainly, missus.</span></p></div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-11'>
+	<div class='front bigbox bigbox-t' id='box-31'> <div style='case-name-container'><div class='case-name'>Sprange v Barnard (1789)</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-32'> <div style='case-name-container'><div class='case-name'>Re Golay&#8217;s WTs [1965] 1 WLR 969</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-33'> <div style='case-name-container'><div class='case-name'>Re London Wine Co (Shippers) [1986] PCC 121</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-12'>
+	<div class='back bigbox bigbox-t' id='box-34'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Subject - Identification of Trust Property - Woolly Description</div><div class='details details-facts'><p>A will containing ‘remaining part of what is left, that [my husband] doesn’t want for his own wants and use, to be held in trust for...’</p></div><div class='details details-held'><b>Held</b>&mdash; A description of the subject of a trust allowing for the possibility that it contains <span class="it">no property</span> will not be upheld.<p>The description allowed that the husband might want all the property. This was held to be that the husband had beneficiary interest for life, at which point the remainder went to the named beneficiary/ies.</p></div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-35'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Subject - Identification of Trust Property - Woolly Description</div><div class='details details-facts'><p>The beneficiary, by the name of Tossi &mdash; apparently the <span class="it">bit of crumpet</span> of the testator &mdash; had been granted in the will the use of <span class="it">one of</span> his flats during her lifetime, and a <span class="it">reasonable income</span> from other preoperties. What was that supposed to mean? Usually, what the judge happens to think.</p></div><div class='details details-held'><b>Held</b>&mdash; The gift of a <span class="it">reasonable income</span>, and the right to live in a property belonging to a testator&#8217;s estate without specifying which, may be upheld.<p>This all went on the actuarial tables. No one was happy about it. Piss off everybody? You&#8217;ve got it - equity.</p></div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-36'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Subject - Identification of Trust Property - Segregation of Chattels</div><div class='details details-facts'><p>A company selling wine to investors went into administration. The idea was the wine would remain in the company&#8217;s warehouses, and the owner would get a document of title. The location of each customer&#8217;s wine in the warehouses was kept track of, but not in terms of which customer owned which cases at a given location, location identifying a number of cases of a particular vintage.</p></div><div class='details details-held'><b>Held</b>&mdash; Physical segregation of chattels is necessary to identify the property of a trust, so the attempt to establish a trust by the purchasers failed.</div><div class='details details-held'><b>Comment</b>&mdash; the way to see this as consistent with the <span class="caselink">Hunter v Moss</span> is that bottles of the same vintage from the same producer may look identical, but may be of different quality: some may be corked, others may not. A similar claim could not be made of shares. See also <span class="caselink">Re Goldcorp</span>.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-13'>
+	<div class='front bigbox bigbox-t' id='box-37'> <div style='case-name-container'><div class='case-name'>In the Estate of Last [1958] P 1137</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-38'> <div style='case-name-container'><div class='case-name'>Re Goldcorp [1995] 1 AC 74</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-39'> <div style='case-name-container'><div class='case-name'>Hunter v Moss [1994] 1 WLR 452</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-14'>
+	<div class='back bigbox bigbox-t' id='box-40'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Subject - Identification of Trust Property - Segregation of Chattels</div><div class='details details-facts'><p>TODO</p></div><div class='details details-held'></div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-41'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Subject - Identification of Trust Property -  Segregation of Chattels</div><div class='details details-facts'><p>A Ponzi scheme in which lots of big rich fuckers lost out. The court helped a guy who&#8217;d ordered <span class="bd"><span class="ud">unsegregated</span> medals</span> was helped &mdash; but declined to do so for a load of nutters whose property was <span class="bd"><span class="ud">numbered</span> bullion bars</span>.</p></div><div class='details details-held'><b>Held</b>&mdash; Even when each chattel is inscribed with a number, storing everything together will defeat certainty of subject.<p>Obviously wonky logic in this case, perhaps engaging in a little light ad hoc wealth redistribution. See also <span class="caselink">Re London Wine</span>.</p></div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-42'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Subject - Identification of Trust Property - Intangible Property</div><div class='details details-facts'><p>A man had promised his employee 5% of the share capital in his company, of 1000 issued shares. Would this be void for uncertainty, by application of <span class="caselink">Re Goldcorp</span> or <span class="caselink">Re London Wine</span>?</p></div><div class='details details-held'><b>Held</b>&mdash; A trust of part of a fungible mass such as a shareholding or a bank account will not fail for uncertainty as long as the size of the part is not uncertain. 5% of 1000 <span class="bd">identical</span> shares equals 50 shares &mdash; the trust was upheld, as any 50 of the 1000 shares would have done just as well, on which basis, narrowly distinguished from <span class="caselink">Re London Wine</span>.<p>Cf. the approach taken in Aus by <span class="caselink">White v Shorthall</span>, in which to circumvent the problem of identification, the court imposed a trust in which both settlor and would-be beneficiary had joint (albeit unequal) beneficial interest.</p></div><div class='details details-held'><b>Comment</b>&mdash; virgo p89 refers to this as the leading case on identifying trust property.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-15'>
+	<div class='front bigbox bigbox-t' id='box-43'> <div style='case-name-container'><div class='case-name'>Re Harvard Securities [1997] 2 BCLC 335</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-44'> <div style='case-name-container'><div class='case-name'>MacJordan Construction Ltd v Brookmount Erostin Ltd [1992] BCLC 350</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-45'> <div style='case-name-container'><div class='case-name'>White v Shorthall (2006)</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-16'>
+	<div class='back bigbox bigbox-t' id='box-46'> <div style='case-details-container'><div class='details details-title'></div><div class='details details-facts'><p>TODO</p></div><div class='details details-held'><b>Held</b>&mdash; Cf. <span class="caselink">MacJordan v Brookmount</span>.</div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-47'> <div style='case-details-container'><div class='details details-title'></div><div class='details details-facts'><p>TODO.</p></div><div class='details details-held'><b>Held</b>&mdash; Cf. <span class="caselink">Re Harvard Securities</span>.</div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-48'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Subject - Identification of Trust Property - Intangible Property</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; In the Court of Appeal in New South Wales, on very similar facts to <span class="caselink">Hunter v Moss</span>, the problem of identification of the shares belonging to the claimant of the trust was neatly circumvented by finding that the settlor had declared the <span class="it">entire fund</span> a trust, with herself and the claimant as beneficiaries.<p>In <span class="caselink">Pearson v Lehman Bros</span> in 2010 the High Court held they&#8217;d <span class="it">like</span> to follow this principle &mdash; but were bound by other authorities.</p></div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-17'>
+	<div class='front bigbox bigbox-t' id='box-49'> <div style='case-name-container'><div class='case-name'>Boyce v Boyce (1869) 16 Sim 476</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-50'> <div style='case-name-container'><div class='case-name'>Certainty of Object</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-51'> <div style='case-name-container'><div class='case-name'>Charitable Status</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-18'>
+	<div class='back bigbox bigbox-t' id='box-52'> <div style='case-details-container'><div class='details details-title'>Three Certainties - Certainty of Subject - Identification of Trust Property - Jurisdiction over Beneficiaries</div><div class='details details-facts'><p>In the will, addressed to the eldest daughter: “whichever house she may think proper to choose or select,” leaving her other house to her other obviously less-preferred daughter.</p></div><div class='details details-held'><b>Held</b>&mdash; Equity has jurisdiction over trustees, not beneficiaries. A trust with more than one beneficiary, where certainty of the size of each beneficiaries interest will only be ascertained when a given one makes a choice is valid, and the court cannot compel the choice to be made.<p>The first daughter didn&#8217;t want to choose &mdash; basically to fuck over her sister, although eventually, the father and first daughter died intestate, so the second daughter got the lot, as the trust failed and resulted back to the estate.</p></div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-53'> <div style='case-details-container'><div class='details details-title'></div><div class='details details-facts'><p><span class="ud"><span class="bd">Intro</span></span><br>Except for purpose trusts, the trust&#8217;s human beneficiaries must be identifiable with sufficient certainty such that the trustees can excute the intentions of the settlor or testator. Pre <span class="caselink">McPhail v Doulton</span> (1971), AKA <span class="caselink">Re Baden</span>, this meant</p><p>@A <span class="bd">fixed trust</span> is one in which the settlor has said who gets what beneficial interest, <span class="it">fin d&#8217;histoire</span>. So this is the least flexible, as the trustee has bollocks-all choice.</p><p>@There is also the <span class="bd">mere power</span>, that can be chosen to be exercised or not. Over this, the courts have no jurisdiction &mdash; excepting fiduciaries with mere powers, but that&#8217;s different.</p><p>@In between the <span class="bd">fixed trust</span> and the <span class="bd">mere power</span>, there’s the <span class="bd">discretionary trust</span>, in which the trustee(s) <span class="bd">must</span> choose:</p><p>++<span class="bd">Who</span> the beneficiaries are to be;</p><p>++<span class="bd">What</span> they should each received; or</p><p>++Both <span class="bd">who</span> and <span class="bd">what</span>.</p><p>@A <span class="bd">power in the nature of a trust</span> is a fourth thing of rarity, usually arising, says CdT, out of <span class="it">fuckings-up of the drafting of wills</span>: the settlor <span class="it">tried</span> to give choices to trustees, but failed and gave to someone else.</p><p>@There is also a <span class="bd">gift subject to a condition</span>. In equity there’s a presumption that <span class="it">gifts don’t really exist</span>, apart from for <span class="it">fathers</span> transferring property to their children or <span class="it">husbands</span> to their wives.</p><p>@@So, CdT informs us, if she got married (which, she says, would be impossible &mdash; although she tells us she can&#8217;t say why) and transferred some of her vast wealth to her husband, a resulting trust would arise and she’d get it all back. Wut?</p></div><div class='details details-held'></div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-54'> <div style='case-details-container'><div class='details details-title'>Charities</div><div class='details details-facts'><p>&emsp;&emsp;The 160,000 charities currently registered with the Charities Commission collectively rake in some £52bn per annum, which by the reckoning of poor and rich alike is certainly a lot of chateaux in the Dordogne.<br>&emsp;&emsp;This is something that can be had by many flavours of company, partnership, etc, not only <span class="caselink">Charitable Trusts</span>.</p><p><span class="ud"><span class="bd">Legal Basis</span></span><br>&emsp;&emsp;The <span class="caselink">Charities Act 2006</span> and the basically identical <span class="caselink">Charities Act 2011</span> are both consolidating statutes, explicitly declaring that the existing law continues to be valid and applicable.</p><p><span class="ud"><span class="bd">Advantages</span></span><br>&emsp;&emsp;There are <span class="bd">legal</span>, and more significantly, <span class="bd">financial</span> advantages of charitable status.</p><p><span class="bd">Legal Advantages</span></p><p>@As for <span class="caselink">Private Express Trusts</span> (PETs), <span class="caselink">Certainty of Intention</span> is necessary &mdash; but <span class="caselink">Certainty of Object</span> is <span class="bd">not</span>.</p><p>@The <span class="caselink">Rule against Perpetuity</span> and inalienability of land does not apply.</p><p>@@I.e., by contrast with the 125-year maximum lifetime of a PET, a charity can continue indefinitely &mdash; <span class="caselink">TODO - AUTHORITY!</span></p><p>@@<span class="ilc">Virgo cites King&#8217;s Canterbury as the oldest charity, saying it was founded 1500 years ago. In doing so he makes himself a trustee of their marketing puff. It would be more correct to say that in 586 (about <span class="it">14</span> hundred years ago), an abbey was founded at which there was <span class="it">some teaching</span>, explicit evidence for which is not found before the C9th.</span></p><p>@In a trust for land, the maximum number of trustees is <span class="bd">4</span>. But for a charity holding land, there is no such limit. &mdash; <span class="caselink">TODO - AUTHORITY!</span></p><p>@Although the trustees of PETs must in general act <span class="bd">unanimously</span>, only a <span class="bd">bare majority</span> is needed for a CT. the requirement is only majority.</p><p>@The <span class="caselink">Cy-près Doctrine</span>. Once given to a charity, then should it fold, or be unable to fulfil its obligation for some other reason, then the funds <span class="it">may</span> not <span class="it">result back</span> to the settlor(s)/testator(s), but instead be transferred by the courts to another charity.</p><p><span class="bd">Financial Advantages</span></p><p>@Exemption from (lots of forms of) taxation &mdash; capital gains tax.</p><p>@@N.B. not <span class="it">automatic</span> exemption from local business rates.</p><p>@Can reclaim tax from the IR.</p><p>@In the &#8216;60s, Gift Aid was a means of avoiding tax. A salary of £100K, after tax, would be more like £40K. But if you gave £60K to charity on condition they&#8217;d <span class="bd">give the majority back</span> (a tax-exempt transfer), the treasury would far less.</p><p><span class="bd">Reputational Advantages</span></p><p>@Reputation, which, for instance, can make it easier to raise funds &mdash; <span class="caselink">Independent Schools Council v Charity Commission</span>.</p><p><span class="ud"><span class="bd">Disadvantages</span></span></p><p>@The quid pro quo for the above is <span class="bd">particularly burdensome administrative obligations</span>.</p><p>@Part 8 of the <span class="caselink">Charities Act 2011</span> imposes strict duties on trustees of charities to prepare accounts, prepare for audit, and report to the Charity Commission; failure in such regards carries criminal penalties.</p></div><div class='details details-held'></div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-19'>
+	<div class='front bigbox bigbox-t' id='box-55'> <div style='case-name-container'><div class='case-name'>Charitable Trusts</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-56'> <div style='case-name-container'><div class='case-name'>Charity - Definitions</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-57'> <div style='case-name-container'><div class='case-name'>Charitable Purposes</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-20'>
+	<div class='back bigbox bigbox-t' id='box-58'> <div style='case-details-container'><div class='details details-title'>Charities</div><div class='details details-facts'><p><span class="ud"><span class="bd">Intro</span></span></p><p>&emsp;&emsp;A Charitable Trust (CT) is type of <span class="caselink">Purpose Trust</span> &mdash; this is the major exception to the <span class="caselink">Beneficiary Principle</span>, by which a trust must be for the benefit of <span class="it">living people</span> who can enforce the trust by <span class="it">suing the trustees</span>.<br>&emsp;&emsp;This exception is made because charities Do Good Works for the Community &mdash; <span class="caselink">Gaudiya Mission v Brahmachary</span>.</p><p>&emsp;&emsp;See also <span class="caselink">Charitable Status</span>.</p></div><div class='details details-held'></div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-59'> <div style='case-details-container'><div class='details details-title'>Charities</div><div class='details details-facts'><p><span class="ud"><span class="bd">Historical Position</span></span><br>&emsp;&emsp;Within the spirit of the preamble to the <span class="caselink">Statute of Elizabeth 1601</span> as interpreted by Lord Macnaghten in <span class="caselink">Special Commissioners of Income Tax v Pemsel</span>, a charitable nature had to be for &mdash;<br>&emsp;&emsp;Relief of Poverty, Advancement of Education, Advancement of Religion or &#8216;Other purposes Beneficial to the Community.&#8217; <span class="ilc">No prizes for identifying which of those contain the most wiggle-room, but perhaps a small one for suggesting the most appropriate unit by which to measure it. Verst? Country mile? Degrees latitude?</span><br>&emsp;&emsp;The <span class="caselink">Charities Act 1993</span> repealed it. Anyway, it was never meant to be taken literally &mdash; <span class="caselink">Scottish Burial Reform Society v Glasgow Corporation</span>.</p><p><span class="ud"><span class="bd">Current Definitions</span></span><br>Section &mdash;</p><p>+of the <span class="caselink">Charities Act 2006</span> provides the first blackletter definition of <span class="bd">charity</span>. S1 of the 2011 Act is identical. They provide that a charity:</p><p>@@is an institution (a) established for charitable purposes <span class="bd">only</span> and (b) submitting to the jurisdiction of the High Court.</p><p>+defines <span class="bd">charitable purpose</span>, by means of a long but non-exhaustive list.</p><p>@@The 2011 Act is (functionally) identical, but, for the sake of clarity, shifts the list of purposes at S2(2) of the 2006 Act to a dedicated section, S3(1).</p><p>@@Whether something is one of the <span class="caselink">Charitable Purposes</span> is the meat of this subject.</p><p>+of the 2006 Act (and S4 of the 2011 Act) define the <span class="caselink">Public Benefit</span> requirement.</p><p><span class="ud"><span class="bd">Public Benefit</span></span></p><p>@S3(2) of the 2006 Act (and S4(2) of the 2011 Act) provides that public benefit is <span class="bd">no longer presumed</span>. It must be instead be proven that it was both <span class="bd">established for</span>, and that it <span class="bd">continues to exist for</span>, public benefit.</p><p>@@As well as being a prong in the 2006 Act&#8217;s obvious attack on Public Schools, this has the added feature of making life a little harder for the alarmingly large number of fronts for terrorist groups like Hizb-Allah or Hamas there were, at the time, masquerading as charities.</p><p>@Public benefit.</p><p>@@As well as being two <span class="it">words</span>, this is also two <span class="it">tests</span> &mdash;</p><p>@@@Is the purpose in fact <span class="bd">beneficial</span>?</p><p>@@@Is it spread <span class="bd">widely enough</span> to be <span class="bd">public</span>?</p><p>@@It must therefore be established by the facts of each case, by reference to the (very) many cases.</p><p>@@S4 of the 2006 act imposed on the Charities Commission the obligation to produce guidance as to what constitutes public benefit. This it published in 2008 &mdash; <span class="caselink">Charities and Public Benefit</span>.</p></div><div class='details details-held'></div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-60'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes</div><div class='details details-facts'><p>Listed at S2(2) of the 2007 Act and S3(1) of the 2011 act, they in part codify case law, and in part lay down sensible boundaries to what can be a charitable purpose.  Their order of appearance in the statute correlates approximately with their importance and susceptibility to contention. And those, in turn, correlate approximately with the number of cases you need to remember for each.</p><p><span class="bd"><span class="ud">S2(2) / S3(1)</span> &mdash; Text</span><br>A purpose falls within this subsection if it falls within any of the following descriptions of purposes—<br>&emsp;&emsp;<span class="bd">(a)</span> the <span class="caselink">Prevention or Relief of Poverty</span>;<br>&emsp;&emsp;<span class="bd">(b)</span> the <span class="caselink">Advancement of Education</span>;<br>&emsp;&emsp;<span class="bd">(c)</span> the <span class="caselink">Advancement of Religion</span>;<br>&emsp;&emsp;<span class="bd">(d)</span> the advancement of health or the saving of lives;<br>&emsp;&emsp;<span class="bd">(e)</span> the advancement of citizenship or community development;<br>&emsp;&emsp;<span class="bd">(f)</span> the advancement of the arts, culture, heritage or science;<br>&emsp;&emsp;<span class="bd">(g)</span> the advancement of amateur sport;<br>&emsp;&emsp;<span class="bd">(h)</span> the advancement of human rights, conflict resolution or reconciliation or the promotion of religious or racial harmony or equality and diversity;<br>&emsp;&emsp;<span class="bd">(i)</span> the advancement of environmental protection or improvement;<br>&emsp;&emsp;<span class="bd">(j)</span> the relief of those in need by reason of youth, age, ill-health, disability, financial hardship or other disadvantage;<br>&emsp;&emsp;<span class="bd">(k)</span> the advancement of animal welfare;<br>&emsp;&emsp;<span class="bd">(l)</span> the promotion of the efficiency of the armed forces of the Crown, or of the efficiency of the police, fire and rescue services or ambulance services;<br>&emsp;&emsp;<span class="bd">(m)</span> any other purposes within subsection (4).</p></div><div class='details details-held'></div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-21'>
+	<div class='front bigbox bigbox-t' id='box-61'> <div style='case-name-container'><div class='case-name'>Prevention or Relief of Poverty</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-62'> <div style='case-name-container'><div class='case-name'>Advancement of Education</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-63'> <div style='case-name-container'><div class='case-name'>Advancement of Religion</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-22'>
+	<div class='back bigbox bigbox-t' id='box-64'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Poverty</div><div class='details details-facts'><p>S2(2)(a) of the 2006 Act, S3(1)(a) of the 2011 Act. The 2005 act added &#8216;prevention&#8217; to the common law understanding.</p><p><span class="ud"><span class="bd">Poverty</span></span></p><p>@Is <span class="bd">relative</span> &mdash; <span class="caselink">Re Clark</span> [1923].</p><p>@But <span class="bd">destitution</span> is unnecessary. It&#8217;s enough &#8216;to go short in ordinary circumstances&#8217; &mdash; <span class="caselink">Re Coulthurst&#8217;s Will Trust</span> [1951].</p><p>@You&#8217;re poor if you&#8217;re in &#8216;genuinely straitened circumstances and unable to maintain modest standard of living for himself and dependents.’ <span class="caselink">Mary Clark Homes Trustees v Anderson</span> [1904].</p><p>@The &#8216;working classes&#8217; are <span class="bd">not</span> inherently poor &mdash; <span class="caselink">Re Sanders Will Trust</span> [1954] ...</p><p>@... but a working men&#8217;s hostel <span class="bd">is</span> inherently for the poor &mdash; <span class="caselink">Re Niyazi&#8217;s Will Trust</span> [1978].</p><p>@@N.B., the amount of money left had been minuscule, but enough to construct a very basic shelter in Cyprus.</p><p>@A general intention to benefit the following can be validly for relief of poverty &mdash;</p><p>@@&#8216;distressed gentlefolk&#8217; &mdash; <span class="caselink">Re Young</span></p><p>@@&#8216;Widows and orphans in a particular area&#8217; &mdash; <span class="caselink">AG v Power</span></p><p>@@&#8216;Gifts for unsuccessful literary men&#8217; (!) &mdash; <span class="caselink">Thompson v Thompson</span></p><p>@But not:</p><p>@@To provide <span class="it">knickers</span> to boys (!) &mdash; <span class="caselink">Re Gwyon</span>, unless perhaps the instrument manifests an explicit intention to discriminate in favour of <span class="it">poor</span> boys, which in this case it did <span class="it">not</span>. And it may not have escaped your notice that, added to this, it was <span class="it">massively capricious</span>.</p><p>What is the irreducible minimum for a decent life? Are layabout northerners in Manchester slums in poverty compared to Dalits in the slums of Bangalore, a foot shorter than their neighbours through chronic undernutrition? Can a child living in a household bringing in only 60% of the UK average really be said to be living in poverty? Or does such a definition do no more than show its authors&#8217; submission to the often proposed but infrequently justified idea that inequality, per se, is a <span class="it">Bad Thing</span>?</p><p><span class="ud"><span class="bd">Relief</span></span></p><p>@It <span class="it">isn&#8217;t</span> enough that the gift should be for the poor. It should <span class="it">also</span> be for the poor <span class="bd">for relief of their poverty</span> &mdash; <span class="caselink">IRC v Baddeley</span> [1955].</p><p>@It ought not be for beer, circuses or iPhones, but <span class="bd">essentials</span> &mdash; <span class="caselink">Joseph Rowntree Memorial Trust v AG</span> [1983]</p><p><span class="ud"><span class="bd">Prevention</span></span></p><p>@Discussed in <span class="caselink">AITC Foundation&#8217;s Application for Registration of Charity</span> [2006] &mdash; the case of a charity primarily for those who suffered financial losses as result of unwise investment &mdash; so who may not have been that poor.</p></div><div class='details details-held'></div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-65'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Education</div><div class='details details-facts'><p>S2(2)(b) of the 2006 Act, S3(1)(b) of the 2011 Act.</p><p><span class="ud"><span class="bd">Public Schools</span></span><br>&emsp;&emsp;Here is your big fat opportunity to show how much or how little of a nauseating little Marxist you are, by slagging off &mdash; or indeed defending &mdash; the charitable status of public schools. Show how clued up you are by remarking that 30% of the boys at Eton are on some form of scholarship or bursary, but be sure to follow it up with words to the effect that the other 70% &mdash; ghastly bunch of proto-toffs, seething, every one, with nannies, skis, malice for the poor and <span class="it">a casual sense of superiority</span> &mdash; should be strung up by their balls from the nearest quadrangle, for having had the sheer bloody-minded <span class="it">gall</span> to have been born to successful parents.<br>&emsp;&emsp;Not all such schools are charities, however. Some are run for profit. Note that since the 2006 Act, Public Schools have been <span class="bd">required to offer financial assistance</span>.</p><p><span class="ud"><span class="bd">Education</span></span> <span class="bd">can be</span> &mdash;</p><p>@Not just the narrow sense of classroom teaching; also the education of artistic taste &mdash; <span class="caselink">Royal Choir Society v IRC</span> [1943]</p><p>@The improvement of &#8216;<span class="it">any</span> useful branch of knowledge&#8217; &mdash; <span class="caselink">Incorporated Council of Law Reporting for England and Wales v AG</span> [1973].</p><p>@An annual chess tournament for the boys of Portsmouth, but only just &mdash; <span class="caselink">Re Dupree&#8217;s Deed Trust</span> [1945]. Sudoku? Pin the Tail on the Donkey?</p><p>@A rose garden. In Australia, at any rate, such a thing is &#8216;conducive of education for everyone but the most blasé of students&#8217; &mdash; <span class="caselink">McGrath v Cohen</span>.</p><p>@Providing <span class="it">treats</span> or <span class="it">field days</span> for school children &mdash; <span class="caselink">Re Melody</span>.</p><p>@Or giving the little brats elephant rides &mdash; Re Lopes [1931]. Presumably to teach them about the exploitation of animals.</p><p><span class="ud"><span class="bd">Education <span class="it">cannot</span> be</span></span> &mdash;</p><p>@A college to train spiritualistic mediums (!) &mdash; <span class="caselink">Re Hummeltenberg</span> [1923].</p><p>@A school for <span class="bd">pickpockets or prostitutes</span> &mdash; <span class="caselink">Re Pinion</span> [1965]</p><p>@A political purpose masquerading as education, such as <span class="bd">disarmament</span> &mdash; <span class="caselink">Southwood v AG</span> [2000].</p><p><span class="ud"><span class="bd">Research</span></span> <span class="bd">must be</span> &mdash;</p><p>@<span class="bd">Useful</span> &mdash; <span class="caselink">Re Shaw</span> [1957]</p><p>@@The provision of a 40-letter phonic alphabet all languages could use. Either he was taking the piss, or he was taking the piss.</p><p>@Usefulness might be fairly recondite and still be useful &mdash; <span class="caselink">Re Hopkin&#8217;s Will Trust</span> [1965], money to research whether Shakespeare&#8217;s plays were written by some bloke called Bacon or some bloke called Shakespeare.</p><p>@Intended to be <span class="bd">disseminated</span> &mdash; <span class="caselink">Re British School of Egyptian Archeology</span> [1954]</p><p>@And thereby benefit not only the person doing the research. So not research that might end up in a pharma patent.</p></div><div class='details details-held'></div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-66'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Religion</div><div class='details details-facts'><p>S2(2)(c) of the 2006 Act, S3(1)(c) of the 2011 Act.<br>It has to be for <span class="bd">religion</span> &mdash; it also has to be for <span class="bd">advancement</span>.</p><p><span class="ud"><span class="bd">What is a Religion?</span></span></p><p>@There was no <span class="it">statutory</span> definition, but in <span class="caselink">Re South Place Ethical Society</span> [1980], a religion was held to comprise:</p><p>++Belief in something <span class="bd">supernatural</span>, and</p><p>++Faith in, and worship of, the aforesaid.</p><p>@So Hinduism, Sikhism, Christianity, Islam, Judaism, all OK, as are the Moonies &mdash; but not the Theosophical Society. Buddhists don’t really believe in god, though. Perhaps a judge in the High Court in 1980 would have known this; perhaps not.</p><p>@Scientology, however, lacks <span class="bd">worship</span>.</p><p>@@Denning, in 1972, called it downright <span class="bd">dangerous</span> for its use of whacko psychiatric techniques &mdash; <span class="caselink">Hubbard v Vosper</span>. <span class="ilc">At this juncture, Margaret Carran asked if there were any scientologists present. And fuck me, someone put their hand up.</span></p><p>@@In New South Wales, it&#8217;s been held to be a religion &mdash; <span class="caselink">Church of New Faith v Commissioners for Payroll Tax</span>.</p><p>@@In 2014, it was held that (for the purposes of marriage) scientology &#8220;chapels&#8221; are places of religious worship, so marriages can be conducted in them &mdash; <span class="caselink">Re (exp Hodkin) v Registrar</span>.</p><p><span class="ud"><span class="bd">Atheism</span></span><br>A common exam question: is atheism a religion charity?</p><p>@However tempting it may be, don&#8217;t answer like this: &#8216;Of course it fucking well isn’t. Atheism is not a system of belief. It&#8217;s merely the laudably unobjectionable position of <span class="bd">refusing to accept something on bad evidence&#8217;</span>.</p><p><span class="bd"><span class="ud">Current Position</span> - S3(2)(c) of the 2011 Act</p><p>@Religion may involve a belief in one or more gods, or none at all.</p><p>@@Despite this, not an attempt to involve Buddhism.</p><p>@So what about the silly people who put &#8220;Jedi&#8221; on the census form? That, after all, is just as made up as all other religions.</p><p>@The Charity Commission have listed four conditions for charitable status as a religion:</p><p>+Belief in a god/supreme being/divine/plural/transcendental being/spiritual principle</p><p>+A relationship between believer and entity (“worship”)</p><p>+Degree of cogency, cohesion, seriousness or importance.</p><p>@@N.B. this is the Charity Commission&#8217;s doing &mdash; it is not a principle appearing in the case law.</p><p>+Identifiable positive, beneficial, moral and ethical framework.</p><p>@@So what about the three &#8220;great&#8221; monotheisms, all of which have for the better part of their histories, and one of which (in part still does) condone slavery, and give rise by a catalogue of means to deeply objectionable moral and ethical frameworks?</p><p>@@Druidism is a valid religion on these grounds.</p><p><span class="ud"><span class="bd">What is Advancement?</span></span></p><p>@It&#8217;s: <span class="bd">promoting</span> it, <span class="bd">spreading its message</span> even wider among mankind, <span class="bd">taking positive steps to sustain and increase</span> ... pastoral... missionary... zzzzz. &mdash; <span class="caselink">United Grand Lodge of Masons v Holborn BC</span>.</p></div><div class='details details-held'></div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-23'>
+	<div class='front bigbox bigbox-t' id='box-67'> <div style='case-name-container'><div class='case-name'>Political Purpose of a Charity</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-68'> <div style='case-name-container'><div class='case-name'>Baldry v Feintuck [1972] 1 WLR 552</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-69'> <div style='case-name-container'><div class='case-name'>Independent Schools Council v Charity Commission</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-24'>
+	<div class='back bigbox bigbox-t' id='box-70'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes</div><div class='details details-facts'><p>It&#8217;s a political purpose if it it advocates change in the law, or, arguably, maintenance of the status quo. The reasons for this ancient rule were set out nicely by Slade J in <span class="caselink">McGovern v AG</span> [1982], in terms of the effect it would have on the courts.<br>The courts:</p><p>@Lack adequate means of judging whether the proposed change of such a purpose would be for public benefit.</p><p>@Would trespass, were they to try, on the role of legislature...</p><p>@...and would jeopardise their reputation for political impartiality.</p><p>@And also risk prejudicing the relations with foreign countries.</p><p>@@TODO check this, as it makes bugger-all sense.</p><p><span class="ud"><span class="bd">Principles</span></span> <span class="bd">from case law</span> &mdash;</p><p>@Something <span class="bd">requiring a change in the law</span> is a political purpose &mdash; <span class="caselink">National Anti-Vivisection Society v IRC</span> [1948].</p><p>@So is <span class="bd">disarmament</span>  &mdash; <span class="caselink">Southwood v AG</span> [2000].</p><p>@And &#8216;dissemination of <span class="bd">socialist medicine</span>&#8216; <span class="ilc">yes, you read that right</span> &mdash; <span class="caselink">Re Bushnell</span> [1975]</p><p>@Funnily enough, a gift to a political party is political &mdash; <span class="caselink">Bonar Law Memorial Trust v IRC</span> (1933)</p><p>@As is a gift to a campaign against the abolition of free milk in schools &mdash; <span class="caselink">Baldry v Feintuck</span>.</p></div><div class='details details-held'></div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-71'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes</div><div class='details details-facts'><p>Tony Baldry (head of chambers at 1 Essex Court) sued the students&#8217; union of his university, that of Sussex. The students&#8217; union was an charitable trust for education, but had purported to amend its constitution to make its aims the promotion of subjects of interest to its members. Resolutions were passed voting money to something called &#8220;War on Want,&#8221; and to a campaign against the ending of free milk in schools.</p></div><div class='details details-held'><b>Held</b>&mdash; A charitable trust for education, purporting to have amended its aims to allow for them to be nakedly political, has done so ultra vires.</div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-72'> <div style='case-details-container'><div class='details details-title'>Charities - Purposes</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; TODO</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-25'>
+	<div class='front bigbox bigbox-t' id='box-73'> <div style='case-name-container'><div class='case-name'>Gaudiya Mission v Brahmachary</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-74'> <div style='case-name-container'><div class='case-name'>Statute of Elizabeth 1601</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-75'> <div style='case-name-container'><div class='case-name'>Re Clarke [1923] 2 Ch 407</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-26'>
+	<div class='back bigbox bigbox-t' id='box-76'> <div style='case-details-container'><div class='details details-title'>Charities - Purposes</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; TODO</div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-77'> <div style='case-details-container'><div class='details details-title'>Charities - Purposes</div><div class='details details-facts'><p>TODO</p></div><div class='details details-held'></div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-78'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Poverty is <span class="bd">relative term</span> to be understood with reference to circumstances.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-27'>
+	<div class='front bigbox bigbox-t' id='box-79'> <div style='case-name-container'><div class='case-name'>Re Coulthurst Will Trust [1951] Ch 66</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-80'> <div style='case-name-container'><div class='case-name'>Mary Clark Homes Trustees v Anderson [1904] 2 KB 645</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-81'> <div style='case-name-container'><div class='case-name'>Re Sanders&#8217; Will Trust [1954] Ch 265</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-28'>
+	<div class='back bigbox bigbox-t' id='box-82'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; To be in poverty, it is not necessary to be destitute, merely to &#8216;go short in ordinary circumstances.&#8217;</div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-83'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; People will be considered poor if their circumstances are &#8216;genuinely straitened&#8217; and they are unable to maintain a &#8216;modest standard of living&#8217; for themselves and any dependents.</div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-84'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The &#8216;working classes&#8217; are not inherently poor.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-29'>
+	<div class='front bigbox bigbox-t' id='box-85'> <div style='case-name-container'><div class='case-name'>Re Niyazi&#8217;s Will Trust [1978] 1 WLR 910</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-86'> <div style='case-name-container'><div class='case-name'>Re Young [1951] Ch 344</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-87'> <div style='case-name-container'><div class='case-name'>AG v Power</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-30'>
+	<div class='back bigbox bigbox-t' id='box-88'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The intended users of a &#8220;working men&#8217;s hostel&#8221; in Cyprus are inherently poor.</div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-89'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A charitable trust for &#8216;distressed gentlefolk,&#8217; members of a Pall Mall club who had &#8216;fallen on evil days&#8217; was held to be a valid charitable trust for the relief of poverty.</div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-90'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; &#8220;Widows and orphans in a particular areas&#8221; may be poor for the purposes of the validity of a charitable trust.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-31'>
+	<div class='front bigbox bigbox-t' id='box-91'> <div style='case-name-container'><div class='case-name'>Re Lucas</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-92'> <div style='case-name-container'><div class='case-name'>Thompson v Thompson</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-93'> <div style='case-name-container'><div class='case-name'>Re Gwyon</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-32'>
+	<div class='back bigbox bigbox-t' id='box-94'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A charitable trust giving &#8220;5 Guinea a week to the eldest respectable inhabitant in Gunville&#8221; was a valid purpose.</div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-95'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A charitable trust to give &#8220;gifts to unsuccessful literary men&#8221; was valid.</div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-96'> <div style='case-details-container'><div class='details details-title'>Charities - Purposes</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The purpose of &#8220;providing knickers to boys&#8221; was not a valid charitable purpose for the relief of poverty.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-33'>
+	<div class='front bigbox bigbox-t' id='box-97'> <div style='case-name-container'><div class='case-name'>IRC v Baddeley [1955]</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-98'> <div style='case-name-container'><div class='case-name'>Joseph Rowntree Memorial Trust Housing Association Ltd v AG [1983] 2 WLR 284</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-99'> <div style='case-name-container'><div class='case-name'>AITC Foundation&#8217;s Application for Registration of Charity [2006]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-34'>
+	<div class='back bigbox bigbox-t' id='box-100'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A charitable purpose for poverty must also aim to <span class="bd">relieve</span> the poverty.</div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-101'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A charitable purpose for poverty must not be to amuse the poor, but <span class="bd">relieve</span> their poverty.</div><div class='details details-held'><b>Comment</b>&mdash; seems a little unfair. What do the poor need than having their minds taken off their misery? Well, clothes, shoes, shelter and food, I suppose. But also <span class="bd">cheering up</span>.</div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-102'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Discussing what <span class="bd">prevention</span> of poverty might mean, a valid charitable purpose was <span class="bd">not</span> the mitigation of financial losses resulting from unwise investments.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-35'>
+	<div class='front bigbox bigbox-t' id='box-103'> <div style='case-name-container'><div class='case-name'>Re Dupree&#8217;s Deed Trust [1945]</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-104'> <div style='case-name-container'><div class='case-name'>McGrath v Cohen [1978] 1 NSWLR 621</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-105'> <div style='case-name-container'><div class='case-name'>Re Melody</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-36'>
+	<div class='back bigbox bigbox-t' id='box-106'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A chess tournament (for boys in Portsmouth) was a valid charitable purpose for advancement of education, albeit that the judgment averred that this was near the limit, and cautioned against slipping down the slope at the bottom of which today there would presumably competitions for Sudoku, if not outright Cannabis-n-Wanking.</div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-107'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The provision of a rose garden at a university was a valid charitable purpose for the advancement of education &mdash; in Australia.</div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-108'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The &#8216;provision of an annual treat or field day for school children&#8217; was a valid charitable purpose for education.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-37'>
+	<div class='front bigbox bigbox-t' id='box-109'> <div style='case-name-container'><div class='case-name'>Royal Choir Society v IRC [1943]</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-110'> <div style='case-name-container'><div class='case-name'>Incorporated Council of Law Reporting for England and Wales v AG [1973]</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-111'> <div style='case-name-container'><div class='case-name'>Re Hummeltenberg [1923]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-38'>
+	<div class='back bigbox bigbox-t' id='box-112'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A charitable purpose of advancement of education is not limited to book learning in classrooms, but includes education of, e.g., the aesthetic taste.</div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-113'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Advancement of education for a charitable purpose can include any useful branch of knowledge.</div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-114'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The establishment of a school to train spiritualistic mediums is not valid as a charitable purpose for the advancement of education.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-39'>
+	<div class='front bigbox bigbox-t' id='box-115'> <div style='case-name-container'><div class='case-name'>Re Pinion [1965]</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-116'> <div style='case-name-container'><div class='case-name'>Southwood v AG [2000]</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-117'> <div style='case-name-container'><div class='case-name'>Re Shaw [1957] 1 WLR 729</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-40'>
+	<div class='back bigbox bigbox-t' id='box-118'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The establishment of a school for <span class="bd">pickpockets</span> and <span class="bd">prostitutes</span> is not a valid charitable purpose for the advancement of education.</div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-119'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Education - Political Purpose</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A political aim masquerading as an educative one is not a valid charitable purpose.</div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-120'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Education - Frivolous</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Research into a 40-letter alphabet <span class="bd">fails</span> as a valid charitable purpose for education, for a lack of utility bordering on the frivolous.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-41'>
+	<div class='front bigbox bigbox-t' id='box-121'> <div style='case-name-container'><div class='case-name'>Re Hopkin&#8217;s Will Trust [1965]</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-122'> <div style='case-name-container'><div class='case-name'>Re British School of Egyptian Archeology [1954]</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-123'> <div style='case-name-container'><div class='case-name'>Re South Place Ethical Society [1980]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-42'>
+	<div class='back bigbox bigbox-t' id='box-124'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Research into whether the Shakespeare plays were written by someone called Francis Bacon or someone called William Shakespeare was a <span class="bd">valid</span> educational charitable purpose, despite its recondite and rather obsessive character.</div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-125'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Research carried out in fulfilment of a charitable purpose for education must be intended to be disseminated, rather than kept private or simply for the private satisfaction of the researcher.</div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-126'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Religion</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A religion is both (i) belief in something <span class="bd">supernatural</span>, and (ii) faith in and worship of the aforesaid.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-43'>
+	<div class='front bigbox bigbox-t' id='box-127'> <div style='case-name-container'><div class='case-name'>Hubbard v Vosper</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-128'> <div style='case-name-container'><div class='case-name'>Church of New Faith v Commissioners for Payroll Tax</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-129'> <div style='case-name-container'><div class='case-name'>Re (exp Hodkin) v Registrar</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-44'>
+	<div class='back bigbox bigbox-t' id='box-130'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Religion</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Scientology is <span class="bd">not</span> a valid religion as a charitable purposes.</div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-131'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Religion</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Scientology <span class="bd">is</span> a valid religion for a charitable purpose &mdash; in Australia.</div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-132'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Religion</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; For purposes of being a valid place to hold a marriage, a scientology &#8220;chapel&#8221; is a place of worship.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-45'>
+	<div class='front bigbox bigbox-t' id='box-133'> <div style='case-name-container'><div class='case-name'>United Grand Lodge of Masons v Holborn BC</div></div> </div>
+	<div class='front bigbox bigbox-m' id='box-134'> <div style='case-name-container'><div class='case-name'>McGovern v AG [1982]</div></div> </div>
+	<div class='front bigbox bigbox-b' id='box-135'> <div style='case-name-container'><div class='case-name'>National Anti-Vivisection Society v IRC [1948]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-46'>
+	<div class='back bigbox bigbox-t' id='box-136'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Religion - Advancement</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Advancement of religion is <span class="bd">promoting</span> it, <span class="bd">spreading its message</span> even wider among mankind, <span class="bd">taking positive steps to sustain and increase</span>, with pastoral and missionary characteristics, etc.</div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-137'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Politics</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Advocacy for a political change cannot be a charitable purpose as the courts would have no way of adjudicating whether it would be <span class="bd">for public benefit</span><p>Slade J &mdash; the courts lack means of judging whether the proposed change of such a purpose would be for public benefit. They would trespass, were they to try, on the role of legislature and would jeopardise their reputation for political impartiality.</p></div></div> </div>
+	<div class='back bigbox bigbox-b' id='box-138'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Politics</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Advocacy for something requiring a change in the law is political, and therefore not a valid charitable purpose.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-47'>
+	<div class='front bigbox bigbox-t bigbox-b' id='box-139'> <div style='case-name-container'><div class='case-name'>Re Bushnell [1975]</div></div> </div>
+	<div class='front bigbox bigbox-m bigbox-b' id='box-140'> <div style='case-name-container'><div class='case-name'>Bonar Law Memorial Trust v IRC</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-48'>
+	<div class='back bigbox bigbox-t' id='box-141'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Politics</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The purpose of &#8216;disseminating <span class="bd">socialist medicine</span>&#8216; is not a valid charitable purpose.</div></div> </div>
+	<div class='back bigbox bigbox-m' id='box-142'> <div style='case-details-container'><div class='details details-title'>Charities - Charitable Purposes - Politics</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A donation to a political party is not a valid charitable purpose.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+</body></html>

@@ -1,0 +1,21 @@
+META tag encountered, content of meta dict is now "{u'subject': u"'eu'"}".
+META tag encountered, content of meta dict is now "{u'defcols': u"'4'", u'subject': u"'eu'"}".
+META tag encountered, content of meta dict is now "{u'defcols': u"'4'", u'enableTests': u'true', u'subject': u"'eu'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/clean-paper.png'", u'defcols': u"'4'", u'enableTests': u'true', u'subject': u"'eu'"}".
+META tag encountered, content of meta dict is now "{u'panosModeEnabled': u'true', u'currentTexture': u"'img/textures/clean-paper.png'", u'defcols': u"'4'", u'enableTests': u'true', u'subject': u"'eu'"}".
+! Spurious META tag encountered - "META-SUBJECT EU
+", which decomposed to "[u'META-SUBJECT', u'EU']".
+! Spurious META tag encountered - "META-SUBJECT EU
+", which decomposed to "[u'META-SUBJECT', u'EU']".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/clean-paper.png'", u'panosModeEnabled': u'true', u'defcols': u"'4'", u'filename': u'eu-06-state-liability-for-breach-of-eu-law.fc.txt', u'enableTests': u'true', u'subject': u"'eu'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/clean-paper.png'", u'panosModeEnabled': u'true', u'defcols': u"'4'", u'filename': u'eu-07-eu-international-relations-law.fc.txt', u'enableTests': u'true', u'subject': u"'eu'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/clean-paper.png'", u'panosModeEnabled': u'true', u'defcols': u"'4'", u'filename': u'eu-08-enforcement-proceedings-art-258260.fc.txt', u'enableTests': u'true', u'subject': u"'eu'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/clean-paper.png'", u'panosModeEnabled': u'true', u'defcols': u"'4'", u'filename': u'eu-09-action-for-annulment-art-263-tfeu.fc.txt', u'enableTests': u'true', u'subject': u"'eu'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/clean-paper.png'", u'panosModeEnabled': u'true', u'defcols': u"'4'", u'filename': u'eu-11-introduction-to-the-internal-market.fc.txt', u'enableTests': u'true', u'subject': u"'eu'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/clean-paper.png'", u'panosModeEnabled': u'true', u'defcols': u"'4'", u'filename': u'eu-12-nonfiscal-restrictions:-quantitative.fc.txt', u'enableTests': u'true', u'subject': u"'eu'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/clean-paper.png'", u'panosModeEnabled': u'true', u'defcols': u"'4'", u'filename': u'eu-13-quantitative-restrictions-and.fc.txt', u'enableTests': u'true', u'subject': u"'eu'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/clean-paper.png'", u'panosModeEnabled': u'true', u'defcols': u"'4'", u'filename': u'eu-14-parallel-imports:-intellectual.fc.txt', u'enableTests': u'true', u'subject': u"'eu'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/clean-paper.png'", u'panosModeEnabled': u'true', u'defcols': u"'4'", u'filename': u'eu-16-harmonization-and-free-movement-of-goods.fc.txt', u'enableTests': u'true', u'subject': u"'eu'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/clean-paper.png'", u'panosModeEnabled': u'true', u'defcols': u"'4'", u'filename': u'eu-17-free-movement-of-persons-i.fc.txt', u'enableTests': u'true', u'subject': u"'eu'"}".
+META tag encountered, content of meta dict is now "{u'currentTexture': u"'img/textures/clean-paper.png'", u'panosModeEnabled': u'true', u'defcols': u"'4'", u'filename': u'eu-18-free-movement-of-persons-ii.fc.txt', u'enableTests': u'true', u'subject': u"'eu'"}".
+ *** Word count (in SUMMARY and HELD fields): 22319.

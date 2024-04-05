@@ -1,0 +1,72 @@
+META filename eu-07-eu-international-relations-law.fc.txt
+
+
+--STOP--
+
+
+NAME Donckerwolke
+CASENUM C-41/76
+CITATION Donckerwolke [1976] ECR 1921
+CATEGORY Eu International Relations Law; Title Vi: The Union'S Relations With International; A Central Feature Of Ccp: Exclusive Competence
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Commission v Council (re: ERTA)
+CASENUM C-22/70
+CITATION Commission v Council (re: ERTA) [1971] ECR 263
+CATEGORY Eu International Relations Law; Title Vi: The Union'S Relations With International; Introducing The Principle Of Implied Competence
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME ATAA
+CASENUM C-366/10
+CITATION ATAA ECLI:EU:C:2011:864
+CATEGORY Eu International Relations Law; [1993] Ecr I-1061:; Interesting Examples Of The Eu’S International Influence
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME (corrigendum in
+CASENUM C-210/1
+CITATION (corrigendum in [2010] OJ C 217
+CATEGORY Eu International Relations Law; [1993] Ecr I-1061:; European External Action Service
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Commission v Council (re: ECOWAS)
+CASENUM C-91/05
+CITATION Commission v Council (re: ECOWAS) [2008] ECR I
+CATEGORY Eu International Relations Law; [1993] Ecr I-1061:; How To Draw The Line Between Different Areas Of Eu International Relations And Why It Matters
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+
+NAME Commission v Council (re: EU-Mauritius Agreement)
+CASENUM C-658/11
+CITATION Commission v Council (re: EU-Mauritius Agreement) EU:C:2014:2025
+CATEGORY Eu International Relations Law; [1993] Ecr I-1061:; How To Draw The Line Between Different Areas Of Eu International Relations And Why It Matters
+FLAGS
+SUMMARY TODO.
+HELD
+
+
+
+

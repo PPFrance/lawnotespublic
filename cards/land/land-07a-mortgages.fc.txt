@@ -1,0 +1,20 @@
+--STOP--
+NAME Mortgages
+TYPE Concept
+CATEGORY Mortgages
+LINK Jarndyce and Jarndyce https://en.wikipedia.org/wiki/Jarndyce_and_Jarndyce
+
+SUMMARY ==Intro==
+/A mortgage is two things at once: (1) a personal contract of debt and (2) "one of the big ones," an interest in land under |LPA 1925 S1|(2)(c) or (d).
++*Contract o
+
+
++*Contract of Debt*
+/The early days of mortgages, the C18th and C19th, happened also to be the high-tide of freedom of contract. An unscrupulous lender could impose unscrupulous terms on the naive or desperate, who would be held to them by the common law courts. Consequently, the courts of chancery were chock full of borrowers after remedies for the unconscionability of lenders -- and by modern standards, took an interventionist approach, protecting lenders at the expense of borrowers. Although _Dickens_ was not a fan.
+
+could do what they Mortgages were often dissimilar in character and terms from one another. In con
+
+
+was also the high-tide of freedom of contract -- and mortgages from  coincided with the high tide of freedom of contract, the C18th and C19th, 
+
+ -- an estate in land on a par with freeholds and leaseholds. It itwo things at once *(i)* a contract of debt, and  in which the parties may 

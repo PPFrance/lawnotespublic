@@ -1,0 +1,64 @@
+
+NAME Pye v Graham
+CITATION Pye Ltd v Graham [2002] UKHL 30
+FLAGS Key
+CATEGORY Adverse Possession; Meaning of Occupation
+SUMMARY The paper owner was Pye Developments. The land was 29 hectares of mixed rural land in Oxfordshire. One year, a grazing license was granted to Graham. When it ran out, he wrote to Pye asking for another. They didn't respond. Graham sent out another three. Still no response -- but needed to graze his animals, so used the land anyway. Twelve years went by.
+HELD Being in control of land for one's own benefit is enough for adverse possession. Such control might be shown by, e.g., repairing fences, excluding other people, maintaining gates and changing padlocks, but is not equivalent to an intention to own. 
+COMMENT Pye then took the case to Strasbourg -- |Pye v UK|. 
+/Cf. |Red House v Catchpole|, in which _tidying up_ land wasn't enough to establish control. 
+
+
+NAME Pye v UK
+COURT ECtHR Grand Chamber
+CATEGORY Adverse Possession; Human Rights
+HELD Adverse Possession is consistent with ECHR rights.
+
+
+
+NAME Red House v Catchpole
+CITATION Red House v Catchpole [1977] 1 EGLR 125 
+CATEGORY Adverse Possession; Meaning of Occupation
+SUMMARY A would-be adverse possessor used land on the other side of a river from his own, for 'unting wildfowl. For this he kept it tidy, keeping pathways clear, etc. 
+SUMMARY And wasn't a poacher.
+HELD Merely tidying up a piece of land is not enough evidence from which to adduce _control_ for the purposes of adverse possession.
+COMMENT Cf. |Pye v Graham|, where in addition to keeping the land tidy, its fences, gates and padlocks were also maintained.
+
+
+NAME Bucks v Moran
+CITATION Bucks CC v Moran [1990] Ch 623
+CATEGORY Adverse Possession; Continuity of Possession
+SUMMARY Buckinghamshire CC had acquired a plot of land onto which gave the garden of Moran's house -- without a fence, although the plot was fenced off on the other side. Buckinghamshire had acquired the plot to build a road. Moran's predecessor in title occupied the plot as a piece of his own garden; Moran continued the practice. 
+HELD A would-be adverse possessor must show *both* actual occupation *and* intention to adversely possess. Adverse possession is not defeated by the original owner's intention to use the land at a later date in a manner compatible with the adverse possession. 
+
+
+NAME Hounslow v Minchinton
+CITATION Hounslow LBC v Minchinton (1997) 74 P&CR 221
+CATEGORY Adverse Possession; Continuity of Possession
+SUMMARY Like |Bucks v Moran|, the plot of land gave on to the defendant's garden without a fence. A fence _at the bottom_ had been erected by Hounslow's predecessor in title, as had a tree or two.  Minchinton applied for planning permission to build a summer house spilling onto the plot. This was duly granted and work began.  The council sought an injunction that it be knocked down.  Both parties sought a declaration as to the boundary.  From the presence of the fence and trees, the council sought to establish their continued possession.  They succeeded at first instance.
+HELD Having enclosed with a fence yet not having access, nor taking any action to maintain a piece of land, will not be enough to demonstrate a paper-titleholder's continued possession in order to defeat adverse possession.
+
+
+
+NAME Lambeth v Ellis
+COURT EWCA
+CITATION Lambeth LBC v Ellis (2000) 32 HLR 596
+CATEGORY Adverse Possession; Continuity of Possession
+HELD Adverse possession of land is not interrupted by the failure to submit a form required by statute of its occupier.
+
+
+NAME Zarb v Parry
+FLAGS Neuberger
+CITATION Zarb v Parry [2011] EWCA Civ 1306
+CATEGORY Adverse Possession; Exceptions; Boundary Disputes
+SUMMARY The fence between the gardens of Zarb and Parry was out by a couple of feet or thereabouts, in favour of the Parrys. Mrs. and Mrs. Zarb, evidently utter psychopaths, uprooted the fence, cut down an elderflower tree and banged in new posts.  Winding up in court, the Parrys relied upon adversely possessed the land. At first instance this was successful. The Zarbs appealed.
+SUMMARY From Mrs. Parry's witness statement:
+/->- "19. On Sunday 29 July 2007, it was a lovely morning and we were taking photographs around the house and garden, _we had heard the Zarbs making a noise but that was not unusual as at weekends they frequently used a chain saw, tractor and post rammer around their property_. On going behind the Coach House _we were absolutely amazed to find Mr and Mrs Zarb on [the Plot] banging fence posts into our lawn_. They had removed some of Mr Little's original post and wire fence from the eastern boundary of [the Plot], _cut down an elderflower tree_ on our property that I used for making elderflower champagne and cordial and had uprooted our 12 foot post rail fence on the southern boundary of [the Plot] and had thrown it onto the lawn. 
+/->-I instantly took photographs, I think they thought we were away (we have a camper van) and were very surprised at being caught, my husband asked them to remove themselves from our garden immediately and I fetched a little dictating machine to record any conversations. Both of them refused to leave. Mr Zarb actually unwound a long surveyor's tape from the bottom of our garden (east) in a westerly direction towards the walnut tree that was roughly on the boundary between [the Plot] and [the Zarbs' property] and approximately 5 feet inside the boundary hedge to the south of [the Zarbs' property] enclosing not only the entire hedge but also our Victoria and Mirabelle plum trees in the garden and saying that he was taking it by force as it belonged to him. We asked him to explain and he said that he had a map (plan B) that showed that the eastern boundary of [the Plot] (that he later referred to as C-B2) should be 40 feet long and because on the ground that distance from post B2 to the hedge measured 42.5 feet, the southern hedge and nearby trees belonged to him and he was taking them."
+HELD Paper documents are not to be used to disturb boundaries which are settled, but incorrect to a nugatory degree. Such actions are defeated by adverse possession -- especially if the claimant is a vexatious nutter.
+
+
+
+NAME Best v Chief Land Registrar
+CATEGORY Adverse Possession; Adverse Possession of Residential Property as Criminal Offence
+HELD The LR may not refuse to register title to residential property to an adverse possessor as a result of the potential criminalisation of such AP by |LAPSO 2012|. The defence of _ex turpi causa_ may not be invoked.

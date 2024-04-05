@@ -1,0 +1,32 @@
+META filename eu-12-nonfiscal-restrictions:-quantitative.fc.txt
+
+
+NAME Quantitative Restrictions on Free Movement
+AKA Quantitative Restrictions
+CATEGORY Internal Market; Free Movement of Goods; Quantitative Restrictions; MEQRs; Art 34 TFEU; Art 35 TFEU; Art 36 TFEU
+TYPE Concept
+SUMMARY ~*Intro*~
+/By contrast to |Fiscal Restrictions on Free Movement|, a Quantitative Restriction (QR) and a Measure of Equivalent Effect (MEQR) are, in effect, domestic measures with which an importer must comply. 
+SUMMARY If you remember one thing on QRs and MEQRs, remember the oft-quoted 5th para of |Dassonville|, which gives an all-encompassing definition of what kinds of measures will catch the court's eye. 
+
+SUMMARY ~*Bans, Quotas and Licenses*~
+@These involve the expense of paperwork, and so are considered QRs -- |UHT Milk|.
+
+
+NAME Articles 34, 35 and 36 TFEU
+TYPE Treaty Article
+AKA Art 34 TFEU
+AKA Art 35 TFEU
+AKA Art 36 TFEU
+CATEGORY Internal Market; Free Movement of Goods; Quantitative Restrictions; MEQRs; Art 34 TFEU; Art 35 TFEU; Art 36 TFEU
+SUMMARY *~Article 34~ -- Imports*
+/Quantitative restrictions on imports and all measures having equivalent effect shall be prohibited between Member States. 
+SUMMARY *~Article 35~ -- Exports*
+/Quantitative restrictions on exports, and all measures having equivalent effect, shall be prohibited between Member States.
+SUMMARY *~Article 36 -- Exceptions*
+The provisions of Articles 34 and 35 shall not preclude prohibitions or restrictions on imports, exports or goods in transit justified on grounds of *public morality, public policy or public security*;
+/->-the *protection of health and life of humans, animals or plants*; /->-the *protection of national treasures* possessing artistic, historic or archaeological value; or 
+/->-the protection of industrial and commercial property. 
+/->-Such prohibitions or restrictions shall *not*, however, *constitute a means of arbitrary discrimination* or a *disguised restriction* on trade between Member States.
+
+

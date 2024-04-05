@@ -1,0 +1,29 @@
+
+NAME Equity will not Assist a Volunteer
+TYPE Concept
+CATEGORY Equity; Equitable Maxims
+SUMMARY The beneficiary of a gift or a promise will not, generally, find a remedy in equity. 
+SUMMARY *Exceptions*
+/_When the volunteer isn't really a volunteer:_
++ |Fletcher v Fletcher| and the ^Fletcher cases^.
+/Here, the maxim was not overlooked, but a promise, a piece of _intellectual_ property, was held  it was  to find that a promise _could_ be held on trust for its promisee.
+
+
+NAME Equity will not allow a Statute to be an Cloak for Fraud
+TYPE Concept
+CATEGORY Equity; Equitable Maxims
+SUMMARY A statutory provision on which a fraudulent party relies may be disapplied.
+SUMMARY Used where a trustee to whom a disposition, contrary to statute, was _not_ made in writing, and who decides to claim the disposition was a gift. 
+SUMMARY _Examples_ --
+@ |Rochefoucald v Boustead| -- the predecessor to |S53(1)(b)|.
+@ |Secret Trusts - Theory|
+
+
+NAME Equity tempers the wind to the Shorn Lamb
+TYPE Concept
+CATEGORY Equity; Equitable Maxims
+SUMMARY A calque from Psalms 6:2 -- _Send not forth the fury of thy tempest against so weak a vessel. *Temper the wind to the shorn lamb.* Be tender and pitiful to a poor withering flower, and break it not from its stem._
+
+SUMMARY _Equity is tender and pitiful to poor withering flowers_ would sound a lot better.
+
+SUMMARY This "maxim" seems to be an invention of Arden LJ in |Pennington v Waine|, to justify not applying the binding authority of |Re Rose| in favour of the PC decision in |Choithram v Pagarini|.

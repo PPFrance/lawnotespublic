@@ -1,0 +1,310 @@
+META filename herling-17-breach-of-contract.fc.txt
+
+
+
+
+
+NAME Breach of Contract - Table of Contents
+TYPE Table of Contents
+CATEGORY Breach of Contract
+SUMMARY ~*Introduction*~
+/ *Breach of Contract – Basic Rights*
+@|Photo Production Ltd v Securicor Transport Ltd|
+/ *Election to Terminate*
+@|Vitol SA v Norelf Ltd|
+/ *Anticipatory Breach*
+@|Hochster v De la Tour| -- |Frost v Knight|
+/ *Entire and Severable Obligations*
+@|Cutter v Powell|
+/ *Contractual Quantum Meruit*
+@|Sumpter v Hedges|
+/ *Substantial Performance*
+@|Bolton v Mahadeva| -- |Forman & Co Proprietary Ltd v The Ship “Liddesdale”|
+/ *Tender of Performance*
+@|Startup v MacDonald|
+/ *Insistence on Performance*
+@|White & Carter (Councils) Ltd v McGregor|
+/ *Penalties/Agreed Sums Payable on Breach*
+@|Dunlop Pneumatic Tyre Co Ltd v New Garage and Motor Co Ltd| -- |Cavendish Square Holding BV v Talal El Makdessi; ParkingEye Ltd v Beavis|
+
+
+
+
+NAME Breach of Contract - Introduction
+TYPE Concept
+CATEGORY Breach of Contract
+SUMMARY ~*Introduction*~
+/->-This lecture examines the rights which arise upon breach of contract. The subject overlaps with the classification of terms of the contract. For that reason the lecture has been kept brief; the basic concepts should already be familiar. 
+/->-The cases cited have been chosen either because they are usefully illustrative of a doctrine, or because they are leading cases (the last three are in the latter category). It would not have been difficult to give entire lines of authority around each of them, but nor would it have been obviously helpful at this stage of the course.
+/->-It is necessary to bear in mind that if, after this year, you encounter a point on one of these topics, the material provided here gives only the briefest of working introductions.
+
+
+
+
+NAME Breach of contract – the basic rights
+TYPE Concept
+CATEGORY Breach of Contract
+SUMMARY ~*Breach of contract – the basic rights*~
+/->-When the time for performance of the contract has come, and one party's performance is either withheld or deficient, various remedies may be available to the other. Those of specific performance and injunction arise from the court's equitable discretion, and not from any mechanism triggered by breach. For that reason they will not be further considered in this lecture. The remedies of termination and damages do derive from the contract which has been breached.
+/->-The basic position has already been set out in lecture 11. Termination of the contract is available for breach of any of its terms which the parties have agreed (and the court confirms) to be conditions, or for breaches which deprive the innocent party of substantially the whole benefit of his bargain (the innominate term analysis). Damages, however, are available for breach of any contractual terms, including less important ones (warranties). 
+/->-Where the right to terminate exists, the innocent party may elect to forego it, suing only for damages. For breach of warranty, the innocent party is entitled only to damages.
+/->-One may wonder by what reasoning a contract, which may well have nothing to say about termination or payment of damages, affords these rights when breached. This is given a principled explanation by Lord *Diplock* in a case already cited in lecture 12. In <i>Photo Productions v Securicor</i> the House of Lords swept away Lord *Denning*'s doctrine of fundamental breach, which had been based on the notion that such a breach disapplies the contract in all its aspects. The true position is that the contract continues to govern in the matter of remedies, at least by implication of the common law.
+FLAGS Denning; Diplock
+
+
+
+
+NAME Photo Production Ltd v Securicor Transport Ltd
+CITATION Photo Production Ltd v Securicor Transport Ltd [1980] AC 827
+CATEGORY Breach of Contract; Introduction; Breach of Contract – Basic Rights
+SUMMARY ~*Overview*~
+/->-By a contract made in 1968, Securicor agreed to provide its Night Patrol Service to Photo Productions. A number of visits were to be made each night, seven days of the week. The weekly charge was low: £8 15s. One of the clauses in the contract stated that “under no circumstances shall [Securicor] be responsible for any injurious act or default by any employee of [Securicor] unless such act or default could have been foreseen and avoided by the exercise of due diligence on the part of [Securicor] as his employer...”. One of Securicor's duty employees, in the course of a visit to the premises, decided to light a fire by throwing a match onto some cartons. The fire got out of control, and burnt down a substantial part of Photo Productions' premises, causing damage amounting to £615,000. Photo Productions sued for damages. Securicor relied on its clause.
+/->-The House of Lords held that the exemption applied notwithstanding the gravity of the breach. 
+SUMMARY ~*Detail*~
+/->-Lord *Diplock* said the following about the relationship between the contract's express terms and the remedies which arise on their breach:
+/->-“A basic principle of the law of contract, to which there are no exceptions that are relevant in the instant case, is that parties to a contract are free to determine for themselves what primary obligations they will accept. They may state these in express words in the contract itself and, where they do, the statement is determinative; but in practice a commercial contract never states all the primary obligations of the parties in full; many are left to be incorporated by implication of law from the legal nature of the contract into which the parties are entering. But if the parties wish to reject or modify primary obligations which would otherwise be so incorporated, they are fully at liberty to do so by express words.
+/->-Leaving aside those comparatively rare cases in which the court is able to enforce a primary obligation by decreeing specific performance of it, breaches of primary obligations give rise to substituted or secondary obligations on the part of the party in default, and, in some cases, may entitle the other party to be relieved from further performance of his own primary obligations.
+/->-Every failure to perform a primary obligation is a breach of contract. The secondary obligation on the part of the contract breaker to which it gives rise by implication of the common law is to pay monetary compensation to the other party for the loss sustained by him in consequence of the breach; but, with two exceptions, the primary obligations of both parties so far as they have not yet been performed remain unchanged. This secondary obligation to pay compensation (damages) for non-performance of primary obligations I will call the “general secondary obligation”. It applies in the cases of the two exceptions as well.
+/->-The exceptions are: (1) Where the event resulting from the failure by one party to perform a primary obligation has the effect of depriving the other party of substantially the whole benefit which it was the intention of the parties that he should obtain from the contract, the party not in default may elect to put an end to all primary obligations of both parties remaining unperformed.... (2) Where the contracting parties have agreed, whether by express words or by implication of law, that any failure by one party to perform a particular primary obligation (“condition” in the nomenclature of the Sale of Goods Act 1893), irrespective of the gravity of the event that has in fact resulted from the breach, shall entitle the other party to elect to put an end to all primary obligations of both parties remaining unperformed....
+/->-Where such an election is made (a) there is substituted by implication of law for the primary obligations of the party in default which remain unperformed a secondary obligation to pay monetary compensation to the other party for the loss sustained by him in consequence of their non-performance in the future and (b) the unperformed primary obligations of the other party are discharged...”.
+SUMMARY ~*Discussion*~
+/->-A breach of the type envisaged by Lord Diplock in his “exception (1)” above, being so serious as to deprive the innocent party of effectively the whole benefit of his bargain, might be given various labels. The accepted and uncontroversial term to use is “repudiatory breach”. For reasons which should be obvious, “fundamental breach” would not be a happy description even though it is factually accurate.
+SUMMARY ~*A closer look*~
+/->-_It is tempting to take the test for repudiatory breach (loss of effectively the whole benefit of the bargain) and interpret it as fixing a threshold already established for common mistake and frustration. Where the true situation at the time of contracting, unbeknown to the parties, has that effect upon the bargain, common mistake renders the contract void. Where events produce that effect without either party's fault, and the contract cannot be taken to govern the situation, the contract is frustrated. Where effective loss of the whole bargain is the one party's responsibility, that is a repudiatory breach. _
+FLAGS Diplock
+
+
+
+
+NAME The election to terminate
+TYPE Concept
+CATEGORY Breach of Contract
+SUMMARY ~*The election to terminate*~
+/->-The law does not impose a formal requirement. In the next case (cited already as an authority on acceptance by silence in lecture 3), Lord *Steyn* states that all that is required by way of election is that the fact of the one party's decision should come clearly and unequivocally to the notice of the other.
+FLAGS Steyn
+
+
+
+
+NAME Vitol SA v Norelf Ltd.
+SUMMARY ~*Overview*~
+/->-The intending buyers of a cargo of propane sent a telex to the sellers in which they recorded that since the vessel would complete loading outside the contractually agreed period, they were terminating the contract. The sellers made no response to this message. An arbitrator later held that the sellers' silence and failure to take further steps to perform the contract had amounted to an acceptance of the buyers' repudiation. This decision was upheld by the House of Lords.
+SUMMARY ~*Detail*~
+/->-Lord *Steyn* “It is now possible to turn directly to the first issue posed, namely whether non-performance of an obligation is ever as a matter of law capable of constituting an act of acceptance. On this aspect I found the judgment of Phillips J [at first instance] entirely convincing. One cannot generalise on the point. It all depends on the particular contractual relationship and the particular circumstances of the case. But, like Phillips J, I am satisfied that a failure to perform may sometimes signify to a repudiating party an election by the aggrieved party to treat the contract as at an end. Postulate the case where an employer at the end of a day tells a contractor that he, the employer, is repudiating the contract and that the contractor need not return the next day. The contractor does not return the next day or at all. It seems to me that the contractor's failure to return may, in the absence of any other explanation, convey a decision to treat the contract as at an end. Another example may be an overseas sale providing for shipment on a named ship in a given month. The seller is obliged to obtain an export licence. The buyer repudiates the contract before loading starts. To the knowledge of the buyer the seller does not apply for an export licence with the result that the transaction cannot proceed. In such circumstances it may be that an ordinary businessman, circumstanced as the parties were, would conclude that the seller was treating the contract as at an end”. 
+FLAGS Steyn
+
+
+
+
+NAME Anticipatory Breach
+TYPE Concept
+CATEGORY Breach of Contract; Introduction; Anticipatory Breach
+SUMMARY ~*Anticipatory Breach*~
+/->-Anticipatory breach occurs where one party to an executory contract (one not yet performed) either renounces future performance or puts it out of his power to perform. On one view this cannot accurately be described as a breach of the contract, since no obligation to perform has yet arisen. However, the common law has adopted the position that an anticipatory breach gives rise immediately to rights for the innocent party. This can be explained on the basis, approved in the next case, that the breach is of an implied contract that neither party will do anything inconsistent with the substantive contract in the time between entry into it and performance. 
+/->-The rights arising on anticipatory breach are to elect to treat the contract as repudiated and sue for damages forthwith, or to disregard the repudiation. It should be noted that if the latter course is adopted, and the other party does in fact perform, there will be no remedy for the earlier indication that he was not going to do so.
+/->-An anticipatory breach only occurs where the threshold for repudiation is reached (see above). It must be apparent that the breach would deprive the innocent party of effectively his entire bargain. 
+
+
+
+
+NAME Hochster v De la Tour
+CITATION Hochster v De la Tour (1853) 2 E & B 678
+CATEGORY Breach of Contract; Introduction; Anticipatory Breach
+SUMMARY ~*Overview*~
+/->-The plaintiff had been engaged to act for the defendant as a travel courier for three months starting on 1 June 1852. The contract was made in April of that year. On 11 May, the defendant informed that plaintiff in breach of contract that his services would no longer be required. On 22 May the plaintiff brought an action claiming damages for breach of contract.
+/->-The Court of Queen's Bench held that this claim could properly be initiated even before the date for performance of the contract had arrived. It was not necessary for the plaintiff to prove that he had still been ready to carry out his side of the bargain on the due date for the commencement of contractual performance.
+SUMMARY ~*Detail*~
+/->-Lord Campbell CJ: “If the plaintiff has no remedy for breach of the contract unless he treats the contract as in force, and acts upon it down to the 1<sup>st</sup> June 1852, it follows that, until then, he must enter into no employment which will interfere with his promise “to start with the defendant on such travels on the day and year,” and that he must then be properly equipped in all respects as a courier for a three months' tour on the continent of Europe. But it is surely much more rational, and more for the benefit of both parties, that, after the renunciation of the agreement by the defendant, the plaintiff should be at liberty to consider himself absolved from any future performance of it, retaining his right to sue for any damage he has suffered from the breach of it. Thus, instead of remaining idle and laying out money in preparations which must be useless, he is at liberty to seek service under another employer, which would go in mitigation of the damages to which he would otherwise be entitled for a breach of the contract. It seems strange that the defendant, after renouncing the contract, and absolutely declaring that he will never act under it, should be permitted to object that faith is given to his assertion, and that an opportunity is not left to him of changing his mind”.
+/->-The law is particularly clearly explained in the next case, which is authority for the innocent party's freedom to accept or reject the other's repudiation.
+
+
+
+
+NAME Frost v Knight
+CITATION Frost v Knight (1872) LR Exch 111
+CATEGORY Breach of Contract; Introduction; Anticipatory Breach
+SUMMARY ~*Overview*~
+/->-The defendant made a contract of engagement (then binding) with the plaintiff by which he promised to marry her when his father died. Before that event occurred, the defendant made it clear that he would not perform the contract. The plaintiff sued.
+/->-The Court of Exchequer Chamber applied <i>Hochster v De la Tour</i>, holding that an immediate action for damages lay.
+SUMMARY ~*Detail*~
+/->-Cockburn CJ: “The law with reference to a contract to be performed at a future time, where the party bound to performance announces prior to the time his intention not to perform it … may be thus stated. The promisee, if he pleases, may treat the notice of intention as inoperative, and await the time when the contract is to be executed, and then hold the other party responsible for all the consequences of non-performance: but in that case he keeps the contract alive for the benefit of the other party as well as his own; he remains subject to all his own obligations and liabilities under it, and enables the other party not only to complete the contract, if so advised, notwithstanding his previous repudiation of it, but also to take advantage of any supervening circumstances which would justify him in declining to complete it.
+/->-On the other hand, the promisee may, if he thinks proper, treat the repudiation of the other party as a wrongful putting an end to the contract, and may at once bring his action as on a breach of it; and in such action he will be entitled to such damages as would have arisen from the non-performance of the contract at the appointed time, subject, however, to abatement in respect of any circumstances which may have afforded him the means of mitigating his loss”. 
+
+
+
+
+NAME Entire and severable obligations
+TYPE Concept
+CATEGORY Breach of Contract
+SUMMARY ~*Entire and severable obligations*~
+/->-This topic is linked to the preceding one in the following way. The question whether a breach of contract is such as to deprive the innocent party of substantially their entire bargain depends not only on the magnitude of the breach, but also upon the purpose and structure of the contract. In some instances it will easily be shown that a given breach leaves little or nothing of value for the other party (for example, wholly defective goods are delivered). Statute confirms the traditional view of the common law that in this situation the contact may be terminated.
+/->-However, if the contract is for the delivery of several consignments of goods, and one such consignment proves wholly defective, it is not so obvious that this would justify termination of the overall contract. No doubt the affected consignment could be rejected, but a common sense view of the breach in the context of the broader relationship between the parties tends to confine its impact to one part of the contract. The rest is not affected.
+/->-This shift in perspective is particularly significant where the contract specifies a sum of money to be paid by one party in return for the other's performance. If that performance is regarded as entire, then the innocent party may withhold his own performance (the making of payment). If the contract is divisible, payment must be made, though it may be reduced to take account of the other's default.
+/->-The next case is a well-known example of an “entire” contract, and the injustice to which that analysis is capable of leading.
+
+
+
+
+NAME Cutter v Powell
+CITATION Cutter v Powell (1795) 6 TR 320
+CATEGORY Breach of Contract; Introduction; Entire and Severable Obligations
+SUMMARY ~*Overview *~
+/->-The master of the <i>Governor Parry</i> had agreed “...to pay to Mr T. Cutter the sum of 30 guineas, provided he proceeds, continues and does his duty as second mate in the said ship from [Kingston, Jamaica] to the port of Liverpool”. Cutter, after performing his duties for somewhat more than half the voyage, died. His widow, who was his executrix, sued for payment of a proportionate part of 30 guineas.
+/->-The court held that she could recover no part of the money. On its true construction, the contract made payment dependent on completed performance, and it had not been rendered. The fact that the agreed sum was very much higher than normal wages appeared to amount to a form of insurance or an inducement to Cutter to complete his duties, allocating to him the risk of non-performance. The plaintiff had attempted to mount a restitutionary claim for reasonable and proportionate remuneration on an implied contract. No contract could be implied against the express one.
+/->-There exist two routes away from the harshness of this outcome, even where a contract is regarded as indivisible. They will be examined in turn.
+
+
+
+
+NAME Contractual quantum meruit
+TYPE Concept
+CATEGORY Breach of Contract
+SUMMARY ~*Contractual quantum meruit*~
+/->-The first (alluded to in the case above) is the more complex of the two. Where performance of an entire contract has been left incomplete, the contract price cannot be claimed, but it may be possible to imply a fresh contract. Into this implied contract there can be implied in turn a “quantum meruit”; in other words a promise to pay a reasonable sum for a benefit conferred. 
+/->-For this device to work, it will be necessary for the party in default to show that the other exercised a free choice to take the benefit of as much work as the first had done, by building on it in some sense and thereby adopting it. The partial performance of the contract is regarded as the offer of a fresh contract, and the other's adoption of it is regarded as an acceptance.
+
+
+
+
+NAME Sumpter v Hedges
+CITATION Sumpter v Hedges [1898] 1 QB 673
+CATEGORY Breach of Contract; Introduction; Contractual Quantum Meruit
+SUMMARY ~*Overview*~
+/->-The plaintiff, a builder, contracted to erect two houses and a stable on the defendant's land for payment of £565. After he had done work to the value of approximately £333, and received payment of part of the overall price, he announced that he had run out of money and was unable to complete the work. The defendant finished the buildings himself, using materials which the plaintiff had left on site. The plaintiff sued for the value of the work done and the materials used. At first instance he recovered a sum in respect of the materials, but not the work.
+/->-The Court of Appeal dismissed his appeal. It was not possible, on these facts, to regard the defendant as having had a choice whether or not to leave the buildings in their unfinished state. He had, however, exercised choice in making use of the materials left by the plaintiff, and was rightly held liable to pay for those on the quantum meruit basis.
+SUMMARY ~*Detail*~
+/->-This outcome was more fully explained by Collins LJ: “There are cases in which, though the plaintiff has abandoned the performance of a contract, it is possible for him to raise the inference of a new contract to pay for the work done on a <i>quantum meruit</i> from the defendant's having taken the benefit of that work, but, in order that that may be done, the circumstances must be such as to give an option to the defendant to take or not to take the benefit of the work done. It is only where the circumstances are such as to give that option that there is any evidence on which to ground the inference of a new contract. Where, as in the case of work done on land, the circumstances are such as to give the defendant no option whether he will take the benefit of the work or not, then one must look to other facts than the mere taking the benefit of the work in order to ground the inference of a new contract. In this case I see no other facts on which such an inference can be founded. The mere fact that a defendant is in possession of what he cannot help keeping, or even has done work upon it, affords no ground for such an inference. He is not bound to keep unfinished a building which in an incomplete state would be a nuisance on his land. I am therefore of opinion that the plaintiff was not entitled to recover for the work which he had done”.
+
+
+
+
+NAME Substantial performance
+TYPE Concept
+CATEGORY Breach of Contract
+SUMMARY ~*Substantial performance*~
+/->-Even where a contract is found to be entire and indivisible, the party breaching it may still be able to claim payment provided he has rendered “substantial performance”. The principle is normally derived from the judgment of Lord Mansfield in <i>Boone v Eyre</i> (1779). 
+/->-This seems to be an application of the distinction between conditions and warranties. If the contract breaker's default amounts to breach of condition, then in not paying any part of the contract price the other is merely asserting his right to withhold further performance of his own contractual duties, and specifically, the obligation he would otherwise have to pay the contract price. If the default amounts only to a breach of warranty, then substantial performance has been rendered. The innocent party is not free to elect termination of the contract, and must therefore pay the contract price less the amount by which he can show the value of the performance to have been reduced by reason of the breach. 
+/->-If the matter comes to litigation, then the innocent party will seek to raise the breach of warranty by way of set-off to the price claimed by the other.
+
+
+
+
+NAME Bolton v Mahadeva
+CITATION Bolton v Mahadeva [1972] 1 WLR 1009
+CATEGORY Breach of Contract; Introduction; Substantial Performance
+SUMMARY ~*Overview*~
+/->-The plaintiff undertook to install central heating in the defendant's house for payment of £560. The finished system did not heat the house properly (the shortfall in heat output was 10%), and it emitted fumes. The county court judge held that the contract had been substantially performed, but assessed the cost of putting the deficiencies right at £174.50.
+/->-The Court of Appeal held that the contract had not been substantially performed on the basis that the system did not work properly and emitted fumes. The defendant was therefore justified in withholding payment in its entirety, even though work of some value had been done for him. The court commented that this outcome was not unjust; the plaintiff had been asked to remedy the defects, but had refused to do so.
+/->-There may be a failure of substantial performance even if the work performed by one party is not objectively of poor quality. The next case gives quite a striking example.
+
+
+
+
+NAME Forman & Co Proprietary Ltd v The Ship “Liddesdale”
+CITATION Forman & Co Proprietary Ltd v The Ship “Liddesdale” [1900] AC 190
+CATEGORY Breach of Contract; Introduction; Substantial Performance
+SUMMARY ~*Overview*~
+/->-After the “Liddesdale” ran aground off the coast of Western Australia, the shipowner agreed a programme of repair work with the plaintiffs for a fixed sum. Work was done, competently, and it increased the value of the ship. However, it was not the contractually specified work. Iron instead of steel girders had been used; iron girders were more expensive, and the plaintiffs maintained that they were to the advantage of the ship.
+/->-The Privy Council held that the contract had not been substantially performed, so that the plaintiffs could not mount an action based on the agreed price. They were not able to recover on a quantum meruit basis, because no implied contract could be found in these circumstances; the shipowner had had no option but to take back his ship. The case was to be distinguished from one in which non-contractual goods were delivered and then kept after the discrepancy had been realised.
+
+
+
+
+NAME Tender of performance
+TYPE Concept
+CATEGORY Breach of Contract
+SUMMARY ~*Tender of performance*~
+/->-There is one circumstance (apart from frustration, etc.) in which a failure to perform contractual duties will not amount to breach. One party may be wrongfully prevented from performing by the default of the other, in which case the law will give him a measure of protection. The doctrine of “tender of performance” is akin to an estoppel.
+
+
+
+
+NAME Startup v MacDonald
+CITATION Startup v MacDonald (1843) 6 Man & G 593
+CATEGORY Breach of Contract; Introduction; Tender of Performance
+SUMMARY ~*Overview*~
+/->-A contract for the sale of 10 tons of linseed oil required the seller to deliver it to the buyer “within the last fourteen days of March”. The oil was delivered within that period, although at 8.30pm on 31 March, a Saturday. The buyer refused to take delivery of it at that hour. A jury found that the conduct of the seller was unreasonable, but that had the buyer taken delivery, he would have had the opportunity to inspect the oil before the delivery period expired at midnight.
+/->-The court held that the buyer was wrong to refuse to take delivery, so that the seller could maintain an action for breach of contract.
+SUMMARY ~*Detail*~
+/->-Baron Rolfe's statement of the law is rightly regarded by the editors of <i>Cheshire & Fifoot</i> as a model of lucidity: “In every contract by which a party binds himself to deliver goods or pay money to another, he in fact engages to do an act which he cannot completely perform without the concurrence of the party to whom the delivery or the payment is to be made. Without acceptance on the part of him who is to receive, the act of him who is to deliver can amount only to a tender. But the law considers a party who has entered into a contract to deliver goods or pay money to another as having, substantially, performed it if he has tendered the goods or the money... provided only that the tender has been made under such circumstances that the party to whom it has been made has had a reasonable opportunity of examining the goods, or the money, tendered, in order to ascertain that the thing tendered really was what it purported to be. Indeed, without such an opportunity an offer to deliver or to pay does not amount to a tender. Now to apply this principle to the present case. The contract was to deliver the oil before the end of March. The plaintiffs did in pursuance of that contract tender the oil to the defendant at a time which, according to the express finding of the jury, left him full opportunity to examine, weigh and receive it before the end of March. If he had then accepted it ... the contract would have been literally performed; and the neglect of the defendant to perform his part of the contract ... cannot in my opinion in any manner affect the rights of the plaintiffs ...They fulfilled all they had contracted to do.
+SUMMARY ~*A closer look*~
+/->-_Only the last sentence of the passage quoted above requires qualification. The seller had not, of course, fulfilled all he had contracted to do because he still had the oil. Therefore, an action for the contract price could not be maintained, because it would amount to “double recovery”._
+/->-_In fact, the maxim that “tender of performance is as good as performance” needs to be applied with care. Its effect here is not to put the seller in the position in which he would have been but for the buyer's default. Rather, it provides a complete defence to an action by the buyer for non-delivery, and it enables the seller to bring a claim for damages. The measure of that claim would be the difference between the market value of the oil, and the price (if it was indeed higher) which would have been payable pursuant to the contract. The seller would be under no further obligation to attempt to deliver the oil, since the buyer's default would amount to a repudiatory breach of contract._
+/->-_In the case of an attempt to pay a debt, the “tender of performance” doctrine would work rather differently. The debtor, having tendered payment, clearly could not be sued for non-payment. However, the debtor would have no action for damages, and the debt would still be owed. The difference between the two situations consists in this; in the second, the debtor continues in possession of something belonging to the creditor, so that his obligation to restore it remains. In the case of a sale of goods, the same analysis cannot be applied._
+/->-_In the case of a contract of employment, the situation is again different. Here, the doctrine of “tender of performance” simply has no application. This is a matter of policy. The courts' distaste at the prospect of an employee pointlessly holding himself available for work when his services have (albeit wrongfully) been refused is apparent in Hochster v De la Tour above, and will be met with again below. Here, its effect is to disapply the doctrine of tender of performance. _
+
+
+
+
+NAME Insistence on performance
+TYPE Concept
+CATEGORY Breach of Contract
+SUMMARY ~*Insistence on performance*~
+/->-The “tender of performance” doctrine provides fair protection to a party who has sought to perform but been prevented from doing so by the other's default. Where performance is in fact possible, notwithstanding the fact that the other no longer wants it, is it possible to insist on providing it in order to claim the agreed price for it?
+/->-In certain circumstances it is. This answer derives from basic contractual principle, but has caused a degree of consternation.
+
+
+
+
+NAME White & Carter (Councils) Ltd v McGregor
+CITATION White & Carter (Councils) Ltd v McGregor [1962] AC 413
+CATEGORY Breach of Contract; Introduction; Insistence on Performance
+SUMMARY ~*Overview*~
+/->-The appellants supplied litter bins to councils, and obtained income by contracting with third parties to advertise their businesses on plates attached to the sides of the bins. The respondents' garage had been advertised in this way for three years. The respondent's sales manager then made a new contract with the appellants for a further three years of advertising. He had apparent authority to do so (and the contract was therefore valid) but no actual authority. His employer immediately wrote to the appellants to cancel the contract – an anticipatory repudiation. The appellants declined to accept this repudiation, and began to advertise the garage business on the bins. When the respondent failed to pay any instalments as they fell due, the appellant took advantage of a clause in the contract entitling them to bring an action immediately for the entirety of the agreed price.
+/->-The House of Lords held, by a bare majority, that basic contractual principle gave the appellants the right which they were asserting. The respondent's repudiation of the contract allowed the other party to elect whether to accept that breach and sue for damages or, as they had opted to do, refuse to accept it and continue to perform. It could not be objected that the appellants had failed to mitigate, because the doctrine of mitigation applied only to claims for damages. This was an action for an agreed sum.
+SUMMARY ~*Detail*~
+/->-Lord Reid, in the majority, recognised that in some circumstances the right claimed here by the appellants might be defeated on the grounds of policy, or by equitable considerations:
+/->-“The other ground [in preference to a case which his lordship considered wrongly decided] would be that there is some general equitable principle or element of public policy which requires this limitation of the contractual rights of the innocent party. It may well be that, if it can be shown that a person has no legitimate interest, financial or otherwise, in performing the contract rather than claiming damages, he ought not to be allowed to saddle the other party with an additional burden with no benefit to himself. If a party has no interest to enforce a stipulation, he cannot in general enforce it: so it might be said that, if a party has no interest to insist on a particular remedy, he ought not to be allowed to insist on it. And, just as a party is not allowed to enforce a penalty, so he ought not to be allowed to penalise the other party by taking one course when another is equally advantageous to him. If I may revert to the example which I gave of a company engaging an expert to prepare an elaborate report and then repudiating before anything was done, it might be that the company could show that the expert had no substantial or legitimate interest in carrying out the work rather than accepting damages: I would think that the <i>de minimis</i> principle would apply in determining whether his interest was substantial, and that he might have a legitimate interest other than an immediate financial interest. But if the expert had no such interest then that might be regarded as a proper case for the exercise of the general equitable jurisdiction of the court. But that is not this case. Here the respondent did not set out to prove that the appellants had no legitimate interest in completing the contract and claiming the contract price rather than claiming damages; there is nothing in the findings of fact to support such a case, and it seems improbable that any such case could have been proved. It is, in my judgment, impossible to say that the appellants should be deprived of their right to claim the contract price merely because the benefit to them, as against claiming damages and reletting their advertising space, might be small in comparison with the loss to the respondent: that is the most that can be said in favour of the respondent”.
+SUMMARY ~*Discussion*~
+/->-White & Carter</i> is a curious case, showing that extrapolation from basic contractual principles will not invariably yield attractive results. Yet the extrapolation is irresistible; repudiatory breach of contract (specifically, breach of condition) does give the innocent party a choice, and in the making of that choice there is no rule that the interests of the contract breaker must be protected.
+/->-It has been remarked that this situation will not arise where performance requires the other party's co-operation. The co-operation will not be forthcoming, so performance will not take place and the innocent party will be restricted to damages for breach by way of remedy. However, that is merely a practical limitation on the applicability of the rule in <i>White & Carter</i>, not a principled one.
+/->-A principled limitation on the rule was advocated by Lord *Denning*, among others, who was stridently critical of <i>White & Carter</i>. He said (in <i>The Puerto Buitrago</i> (1976)) that he would follow it only because it was House of Lords authority, but added that in his view the rule could not be reconciled with principle governing the availability of specific performance. Specific performance issues only at the discretion of the court, and will not be granted where damages would be an adequate remedy. To invoke the rule in <i>White v Carter</i> is to extort the equivalent of specific performance which, if it had depended on the court, would have been refused.
+/->-In employment cases, Lord Denning's doubts have hardened into legal fact. An employee, dismissed in breach of contract, cannot rely on <i>White & Carter</i> in any circumstances, any more than he would be able to obtain specific performance (or invoke the doctrine of tender of performance).
+FLAGS Denning
+
+
+
+
+NAME Penalties/Agreed sums payable on breach
+TYPE Concept
+CATEGORY Breach of Contract
+SUMMARY ~*Penalties/Agreed sums payable on breach*~
+/->-Where there has been performance, or at least substantial performance, the agreed (or “liquidated”) sum for which the claimant sues is the contract price. On fundamental principles of consideration the court cannot concern itself with the question of whether the relationship between performance and price represents a bad or an extravagantly good bargain for either party. This is a matter of freedom of contract.
+/->-However, the contract may prescribe a sum to be paid, not upon completed performance, but upon breach. Here, it has traditionally been thought that the court may take a close and a comparatively paternalistic interest in the parties' deal.
+/->-If a sum made payable in these circumstances is nothing more than a pre-agreed estimate of the damage likely to be caused by the breach, then there is no objection. This feature of a contract is known as “liquidated damages”. If, however, it appears that the agreed sum is so disproportionate to the innocent party's actual loss that it must have been included in the contract “<i>in terrorem</i>” of the other (to “terrify” the other into not committing a breach) then it is a penalty. The policy of the law is to disallow penalty clauses.
+
+
+
+
+NAME Dunlop Pneumatic Tyre Co Ltd v New Garage and Motor Co Ltd
+TYPE Concept
+CATEGORY Breach of Contract; Introduction; Penalties/Agreed Sums Payable on Breach
+SUMMARY ~*Dunlop Pneumatic Tyre Co Ltd v New Garage and Motor Co Ltd*~
+SUMMARY ~*Overview*~
+/->-Dunlop supplied tyres to the defendant dealers subject to a price maintenance agreement. The contract provided that the tyres were not to be resold at less than a stipulated price, and stated that for every tyre sold in breach of this requirement the dealer would pay Dunlop £5 (a substantial sum at the time) “by way of liquidated damages and not as a penalty”. When breaches of this agreement were discovered, Dunlop brought an action for liquidated damages. It was allowed by the trial judge, but his decision was reversed by the Court of Appeal on the ground that the payment clause was a penalty. 
+/->-The House of Lords reversed the Court of Appeal's decision. The £5 payment was a genuine pre-estimate of loss. It was necessary to bear in mind the extent of the harm which Dunlop would be likely to suffer from under-cutting. The agreement of an admittedly large sum by way of compensation was not unreasonable, given the further fact that actual loss of this extended type would be difficult to quantify.
+SUMMARY ~*Detail*~
+/->-Lord Dunedin gave guidelines for distinguishing between penalties and genuine pre-estimates of loss, which have since become very well known. They are paraphrased here.
+/->-1. The sum payable is a penalty if it is extravagantly large in comparison with the greatest loss which the breach could possibly cause.
+/->-2. The sum is a penalty if the breach consists in failing to pay money, and the forfeit is larger than the amount which was to be paid.
+/->-3. If the sum is made payable on only one specified breach (rather than many), there is a presumption that it represents a genuine pre-estimate of loss.
+/->-4. If the sum is made payable for a range of breaches, there is a presumption that it is a penalty.
+/->-As seen in <i>Dunlop</i> itself, the guidance above will not prevent a court from taking a lenient view of a payment clause if it is apparent that actual loss would be difficult to assess.
+/->-It remains to be pointed out that the burden of proof lies on the party from whom payment is demanded to show that the obligation should be disallowed as a penalty. This is reasonable, since the clause has been the subject of agreement. However, the parties' description of the clause will be taken into account by the court. If it is described as a pre-estimate of loss, it will be presumed to be so. If (somewhat naively) it has been described as a penalty, the burden shifts to one of disproof.
+/->-A recent Supreme Court case, decided exactly 100 years after <i>Dunlop</i>, has examined the question of penalty clauses in detail. The account below gives no more than an introduction to it.
+
+
+
+
+NAME Cavendish Square Holding BV v Talal El Makdessi; ParkingEye Ltd v Beavis
+CITATION Cavendish Square Holding BV v Talal El Makdessi; ParkingEye Ltd v Beavis [2015] UKSC 67
+CATEGORY Breach of Contract; Introduction; Penalties/Agreed Sums Payable on Breach
+SUMMARY ~*Overview*~
+/->-The first appeal arose from the sale of Mr Makdessi of a business founded by him which had grown to be the largest advertising and marketing communications group in the Middle East. The contract of sale relevantly stipulated that if, after sale, Mr Makdessi were to be in breach of restrictive covenants designed to prevent him from competing against the business (a) he would not be paid the final two instalments of the sale price (clause 5.1); and (b) he could be required to sell his remaining shares in the business at a price which excluded the value of its goodwill (clause 5.6). He breached the covenants, but argued that the two clauses were unenforceable against him since they were penalties. The Court of Appeal upheld his case.
+/->-The second appeal arose from the imposition of a £85 charge upon Mr Beavis for leaving his car for about one hour longer than the two hour limit in a car park managed by ParkingEye Ltd on behalf of a retail park in Chelmsford. He argued that the charge was invalid at common law as a penalty, and breached the provisions of the Unfair Terms in Consumer Contracts Regulations 1999, then in force, since it was unfair. The Court of Appeal rejected both his arguments.
+/->-The Supreme Court found against Makdessi and, (by a majority of 6:1, Lord Toulson dissenting) against Beavis. In Makdessi's case, the two clauses in question were primary obligations of the contract of sale, serving to fix the price (see the distinction between primary and secondary or remedial obligations as explained by L. *Diplock* in <i>PhotoProductions v Securicor</i> <i>(1980</i>)). Primary contractual obligations cannot be impugned as penalties. In Beavis, the charge notice was secondary, but was not penal in view of the amount payable and the fact that ParkingEye had a legitimate interest in levying it on overstayers. Lord Toulson, dissenting, was of opinion that that charging notice fell foul of the 1999 Regulations.
+SUMMARY ~*Discussion*~
+/->-The problem with the penalty rule is that on the one hand it is an infringement upon freedom of contract, whilst on the other hand it has been deemed contrary to public policy to permit parties albeit by agreement to set up private punitive regimes.
+/->-Lords Neuberger and Sumption begin their joint speech by observing that the penalty rule is “an ancient, haphazardly constructed edifice which has not weathered well...”. They trace its emergence from the inclination of equity to consider relief against forfeiture and against the inordinate penalties inherent within the device (encountered in <i>Pinnel's Case</i>) of the penal bond with conditional defeasance. The common law appears to have taken over the latter concern, staying the action on a penalty provided that the original debt were paid with interest and costs. 
+/->-The four tests proposed by Lord Dunedin in the <i>Dunlop</i> case for identifying penalties were observed to have “achieved the status of a quasi-statutory code in the subsequent case-law”. This was not said by way of approval, but rather to introduce the need to consider the rationale of the penalty rule at a more fundamental level. The appropriate level was found in the speech of Lord *Atkin*son: what was the nature and extent of the innocent party's interest in the performance of the relevant primary obligation? Lords Neuberger and Sumption formulated the following test: “... whether the impugned provision is a secondary obligation which imposes a detriment on the contract-breaker out of all proportion to any legitimate interest of the innocent party in the enforcement of the primary obligation”.
+/->-Their Lordships had been invited by the respective parties either to abrogate or to extend the rule, but declined to do so. Against abrogation, some equivalent to the rule was to be found in almost all major western systems of law. Against extension to circumstances not involving a strict breach of contract, the rule was already an inroad upon freedom of contracting, and not therefore to be broadened by judicial decision-making.

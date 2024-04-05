@@ -1,0 +1,101 @@
+CATEGORY-DEFAULT Easements
+TYPE-DEFAULT Concept
+
+NAME Easements
+AKA Capable of Being Easement
+SUMMARY ~*General*~
+@From |Re Ellenborough Park|, an easement must have these four attributes: (i) dominant and servient tenements -- (ii) in separate occupation or ownership -- (iii) servient tenement confers benefit on dominant, and -- (iv) easement itself must be capable of forming the subject matter of a grant.
+
+
+SUMMARY ~*|Re Ellenborough Park| Criteria*~
+/_For *capability* of being an easement._
+
++ *Both dominant and servient tenement*
+@@ Can't exist without both. 
++ *Separate ownership ~or occupation~*
+@@ Merger of plots via S29 TFV? 
+@@@ Easement is *extinguished by merger* if intention to treat plots as one.
+@@@ Easement is merely *suspended* if intention to re-separate in future. |Canham v Fisk|.
++ *Accommodation of dominant tenement*
+@@ Proximity -- *but not contiguity* -- of plots is necessary. |Hill v Tupper|, a failed attempt to get an easement to run boats along a canal. Not _land_.
+@@ |Moody v Steggles|, a pub sign.
+@@ *Leisure*
+@@@ Maybe possible after |Regency Villas v Diamond Resorts|.
++ *Capable of being subject matter of grant*
+@@ Can be reduced to writing. 
+@@ Legally-capable grantor and grantee. _N.B. Lunatics, bankrupts, minors, companies w/o capacity of grant in arts. of assoc., etc._
+@@ |Tara Hotels v Kensington|, easement to *flood out* of a fire-escape, followed |Coventry v Lawrence| on basis of comparability of sound-waves. See also |Fenn Tigers|.
+
+
+SUMMARY ~*Capability of a Right to be an Easement*~
++5 *No positive burden* on servient tenement.
+@@ |Moncreiff v Jamieson|, obiter -- couldn't have an easement of a swimming pool, as would require upkeep. 
+@@ Compatible with ratio of |Regency Villas|?
++0 _Exceptions_
+@@ *Established*: easement to fencing. |Crow v Wood|.
+@@ *Surprising*: easement to *generate and supply 'leccie*, |Cardwell v Walker|. 
+@@@ Not quite so bonkers as that sounds, on its facts.
++6 *Impact not excessive* on burdened land. 
+@@ Test in |Bachelor v Marlowe| (2003, EWHC) was whether servient owner's reasonable use is retained, and *not rendered illusory*. 
+@@ Test in |Moncrieff v Jamieson| (2007, UKHL) per Lord Scott -- not whether servient owner retains reasonable use, but whether *retains control*. Lord Neuberger unconvinced.
+@@ Wouldn't be practical. |Emcer v Miller|, use of lavatory, inherently entails such exclusion. 
+@@ *Examples*
+@@@ |Wright v Macadam| -- too much coal? Maybe, but use was not exclusive, therefore upheld.
+@@@ |R Square v Nissan| -- too many cars? Nevertheless, upheld as owner retained right.
+@@ *Must not amount to shared use*
+@@@ The claimed right must be *specific*, not a claim to general use of the land. |Copeland v Greenhalf|.
+
+SUMMARY ~*Notes*~
+@ *Storage, Parking and Garages, etc*
+@@ Double vs. single garage -- |Kettel v Bloomfold|.
+@@ Garage with a lock? |Law Commission - Easements|.
+@ *Incapable of Being Easements*
+@ Protection from the weather -- |Phipps v Pears|, Denning MR, S62 LPA.
+
+NAME Easements - Creation
+SUMMARY ~*Intro*~
+@*Express Creation*
+/Legal if deed sent to LR, equitable otherwise.
+@@*Agreement* -- the landowners collaborate, a deed is granted. 
+@@*Splitting of land* -- in which easements are *reserved* in the transaction.
+@*Implied Creation*
+@@X sells part of the land to Y, but they fail:
+@@@to mention the easements in the deed, and
+@@@to exclude the creation of implied easements by an explicit clause per &g&S62(4) LPA 1925&g&.
+@@_MD: "I've only ever seen cases about rights of way"._
+
+
+SUMMARY *Situations for Implied Creation*
++*Absolute Necessity*
+@@Without the claimed easement, the dominant tenement would be, to some significant degree, unusable. 
+@@Not merely inconvenient. |Walby v Walby|.
+@@An easement to a right of way will fail, when, instead, when you could go by boat (!) |Manjang v Drameh|.
++*Common Intention*
+@@The easement is clearly necessary for the purpose for which the land was sold. E.g., splitting up a plot, and selling it to someone so they can build a house.
+@@@Sewerage pipes -- |Stafford v Lee|.
+@@@Ventilation shaft -- |Wong v Beaumont|. _MD -- a case everyone remembers as it involves a Chinese Restaurant (!)_
+@@In principle, for *reservation* of easements. |Chaffe v Kingsley|.
++*S62 LPA* 
+/Blackstone's _Property Law 2015-16_ at *p.61*
+@@ Has been _read_ as implicitly converting _precarious_ rights, personal permissions, etc, in existence _before_ the transfer, into cast-iron easements. |Long v Gowlett|, the mill on the Cam, and |Sovmots|.
+@@ _... but that's not what the words say._
+@@ *Conditions*
++++ *Transfer by deed or RDP*, except of course legal leases up to 3 years. Inoperative for transfers by _contract_. |Bormann v Griffiths|.
++++ *No explicit exclusion* in deed, per S62(4).
++++ *|Capable of being easement|* 
++++ *Continuous and apparent* existence of rights immediately before sale. |Long v Gowlett|.
+
++++ *Prior diversity of occupation* -- needed in |Platt v Crouch| before |Wood v Waddington| confirmed |Platt v Crouch|, *not* now needed.
+@@ SG -- _you don't sell an orange with the juice, the pips, the skin, the pith... you just sell the *orange*._
++ *|Wheeldon v Burrows|*
+@@ Used to be like S62 without its prior-diversity requirement. 
+@@ Now it is identical, except:
++++Transfer can be equitable as well.
++++Instead of the requirement of continuous and apparent existence, under |Wheeldon|, the right in question has to be _reasonable and apparent *and necessary for the reasonable enjoyment* of the land_.
+@@ Like going to pick up a second-hand car, and being asked if you want the tyres as well.
+
+SUMMARY *Prior Diversity*
+@The ratio of |Wood v Waddington|, that prior diversity is _not_ necessary, introduces a danger for the seller.
+@Sell the house and keep the field, and now, everything _you_ could do on the field, _they_ can now do.
+
+

@@ -1,0 +1,102 @@
+
+
+
+
+NAME Case Overviews for Judicial Review
+TYPE Case Overviews
+CATEGORY Judicial Review
+SUMMARY *General*
+@*|R v Somerset CC, ex p Fewings|*
+/{<Judicial Review is concerned *exclusively* with the legality of decisions, not their merits.>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Judicial Review - Standing
+TYPE Case Overviews
+CATEGORY Judicial Review
+SUMMARY *General*
+@*|R v HM Treasury, ex p Smedley|*
+/{<[_R v HM Treasury, ex p Smedley_ -- not mentioned in lecture, but present in handout.]>}
+@*|R v Felixstowe, ex p Leigh|*
+/{<In its discretion, the court  declaration was given, but not the mandatory order.>}
+@*|R v Welfare Secretary, ex p Child Poverty Action Group|*
+/{<[_R v Welfare Secretary, ex p Child Poverty Action Group_ -- not mentioned in lecture, but present in handout.]>}
+@*|Rose Theatre Trust|*
+/{<(i) Standing cannot not be *cumulative*. Many instances of *insufficient* standing do not assemble themselves into a single instance of *sufficient* standing, however objectionable this may be to one's intuitions derived from the functioning of politics.  (ii) Being consulted by the decision maker does not _per se_ give rise to standing. Were it otherwise, there would be a strong disincentive against consultation. (iii) The requirement of |S31(3) SCA| is for *sufficient interest*. This means there may sometimes *not* be anyone with standing -- i.e., situations in which the executive could act without the check of JR. This is unfortunate, but Statute cannot be ignored.>}
+@*|R v Secretary of State ex p Rees-Mogg|*
+/{<A member of the public has standing to seek judicial review of the signing of a treaty.>}
+@*|R v HM Inspectorate of Pollution, ex p Greenpeace|*
+/{<Being a respected, responsible charity, with a genuine concern in the matter -- and therefore being well-placed to mount a carefully-selected, focused, relevant and well-argued challenge, may go in favour of having standing. Consultation, by contrast to |Rose Theatre Trust|, may well be evidence in favour of standing.>}
+@*|R v Environment Secretary, ex p Friends of the Earth|*
+/{<[_R v Environment Secretary, ex p Friends of the Earth_ -- not mentioned in lecture, but present in handout.]>}
+@*|R v Foreign Minister, ex p World Development Movement|*
+/{<The claimant had standing. This arose not from connectedness but from pragmatism, and the merits of the case. E.g., the rule of law was to be vindicated; the issues raised were of considerable importance importance; the odds of anyone else mounting a challenge were slim; the alleged breach was egregious; the claimant was prominent and well-respected. The merits, therefore, were the important, if not the *dominant* factor giving rise to standing.>}
+@*|R v Somerset, ex p Dixon|*
+/{<Sedley J -- 'the real question is whether the applicant can show *some substantial default or abuse* and not whether his personal rights or interest are involved.' As to the differential standing for remedies, he continued, the time was long gone when *doctrinal niceties* could distinguish them.>}
+@*|R v North Somerset, ex p Garnett|*
+/{<[_R v Environment Secretary, ex p Friends of the Earth_ -- not mentioned in lecture, but present in handout.]>}
+@*|R v Home Secretary, ex p Bulger|*
+/{<[_R v Environment Secretary, ex p Friends of the Earth_ -- not mentioned in lecture, but present in handout.]>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Judicial Review - Amenability
+TYPE Case Overviews
+CATEGORY Judicial Review
+
+SUMMARY *Supervisory Jurisdiction*
+@*|R v Electricity Commissioners, ex p London Electricity Joint Commission|*
+/{<TODO!>}
+@*|Ridge v Baldwin|*
+/{<TODO!>}
+@*|R v Criminal Injuries Compensation Board, ex p Lain|*
+/{<TODO!>}
+
+
+
+
+
+
+ -----------------
+
+
+
+
+NAME Case Overviews for Human Rights
+TYPE Case Overviews
+CATEGORY Human Rights
+
+SUMMARY *ECHR - Derogations - Necessary in a Democratic Society*
+@*|Handyside v UK|*
+/{<The government of a signatory state, rather than ECtHR judges, is best placed to judge what is _'necessary in a democratic society'_ for the _'protection of morals'_ -- because it, after all, is the one in 'direct and continuous contact with the vital forces' of its country.>}
+
+SUMMARY *ECHR - Status in Domestic Law*
+@*|Birdi v Home Sec|*
+/{<Lord Denning -- '... judges could and should take the Convention into account in interpreting a statute. _An Act of Parliament should be construed so as to conform to the Convention'._>}
+@*|R (ex p. Bhajan Singh) v Home Secretary|*
+/{<Lord Denning -- '... judges could and should take the Convention into account in interpreting a statute. _An Act of Parliament should be construed so as to conform to the Convention'_... and then, with rather more far-reaching implications -- _'If an Act of Parliament did not conform to the Convention, I might be inclined to hold it invalid.'_>}
+@*|R (ex p. Salamat Bibi) v Chief Immigration Officer|*
+/{<Lord Denning overruled his previous year's frolic that the judiciary should interpret statute purposively, even when unambiguous, in line with the Convention. He said of himself he 'would dispute altogether that the Convention is part of our law. _Treaties and declarations do not become part of our law until they are made law by Parliament.'_  Such was the position until the early '90s.>}
+
+
+
+
+
+
+ -----------------

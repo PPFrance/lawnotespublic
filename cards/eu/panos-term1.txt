@@ -1,0 +1,1538 @@
+
+
+Lecture 6  State Liability for Breach of EU Law 
+
+MAIN READING
+
+Craig and de Burca, Ch. 16.
+
+***	The principle of procedural autonomy 
+
+Case 33/76 Rewe v Landwirtschaftskammer für das Saarland [1976] ECR 1989:
+
+5 … Applying the principle of cooperation laid down in Article [4] of the Treaty, it is the national courts which are entrusted with ensuring the legal protection which citizens derive from the direct effect of the provisions of Community law. 
+
+Accordingly, in the absence of Community rules on this subject, it is for the domestic legal system of each Member State to designate the courts having jurisdiction and to determine the procedural conditions governing actions at law intended to ensure the protection of the rights which citizens have from the direct effect of Community law, it being understood that such conditions cannot be less favourable than those relating to similar actions of a domestic nature. 
+………….
+In the absence of … measures of harmonisation the right conferred by Community law must be exercised before the national courts in accordance with the conditions laid down by national rules.
+
+The position would be different only of the conditions and time-limits made it impossible in practice to exercise the rights which the national courts are to protect. 
+
+***	What does it mean for national courts?
+
+Joined Cases C-430/93 and C-431/93 Van Schijndel and Van Veen v SPF [1995] ECR I-	4705: 
+
+‘19. [E]ach case which raises the question whether a national procedural provision renders application of Community law impossible or excessively difficult must be analysed by reference to the role of that provision in the procedure, its progress and its special features, viewed as a whole, before the various national instances. In the light of that analysis the basic principles of the domestic judicial system, such as protection of the rights of the defence, the principle of legal certainty and the proper conduct of procedure, must, where appropriate, be taken into consideration’.
+
+***	Effectiveness
+
+Case C-213/89 R v. Sec of State for Transport ex p. Factortame [1990] ECR I-2433:
+
+19 In accordance with the case-law of the Court, it is for the national courts, in application of the principle of cooperation laid down in Article 5 of the EEC Treaty, to ensure the legal protection which persons derive from the direct effect of provisions of Community law
+
+20 The Court has also held that any provision of a national legal system and any legislative, administrative or judicial practice which might impair the effectiveness of Community law by withholding from the national court having jurisdiction to apply such law the power to do everything necessary at the moment of its application to set aside national legislative provisions which might prevent, even temporarily, Community rules from having full force and effect are incompatible with those requirements, which are the very essence of Community law ( judgment of 9 March 1978 in Simmenthal, cited above, paragraphs 22 and 23 ). 
+
+21 It must be added that the full effectiveness of Community law would be just as much impaired if a rule of national law could prevent a court seised of a dispute governed by Community law from granting interim relief in order to ensure the full effectiveness of the judgment to be given on the existence of the rights claimed under Community law . It follows that a court which in those circumstances would grant interim relief, if it were not for a rule of national law, is obliged to set aside that rule. 
+………………………………
+
+23. … Community law must be interpreted as meaning that a national court which, in a case before it concerning community law, considers that the sole obstacle which precludes it from granting interim relief is a rule of national law must set aside that rule.’
+
+***	Summarising the position so far
+
+Case C-432/05 Unibet [2007] ECR I-2271
+
+37     … according to settled case-law, the principle of effective judicial protection is a general principle of Community law stemming from the constitutional traditions common to the Member States, which has been enshrined in Articles 6 and 13 of the European Convention for the Protection of Human Rights and Fundamental Freedoms (Case 222/84 Johnston [1986] ECR 1651, paragraphs 18 and 19; Case 222/86 Heylens and Others [1987] ECR 4097, paragraph 14; Case C-424/99 Commission v Austria [2001] ECR I-9285, paragraph 45; Case C-50/00 P UPA [2002] ECR I-6677, paragraph 39; and Case C-467/01 Eribrand [2003] ECR I-6471, paragraph 61) and which has also been reaffirmed by Article 47 of the Charter of fundamental rights of the European Union, proclaimed on 7 December 2000 in Nice… 
+
+38      Under the principle of cooperation laid down in Article 10 EC, it is for the Member States to ensure judicial protection of an individual’s rights under Community law (see, to that effect, Case 33/76 Rewe, [1976] ECR 1989, paragraph 5; Case 45/76 Comet [1976] ECR 2043, paragraph 12; Case 106/77 Simmenthal [1978] ECR 629, paragraphs 21 and 22; Case C-213/89 Factortame and Others [1990] ECR I-2433, paragraph 19; and Case C-312/93 Peterbroeck [1995] ECR I-4599, paragraph 12).
+
+39      It is also to be noted that, in the absence of Community rules governing the matter, it is for the domestic legal system of each Member State to designate the courts and tribunals having jurisdiction and to lay down the detailed procedural rules governing actions for safeguarding rights which individuals derive from Community law (see, inter alia, Rewe, paragraph 5; Comet, paragraph 13; Peterbroeck, paragraph 12; Case C‑453/99 Courage and Crehan [2001] ECR I-6297, paragraph 29; and Case C-13/01 Safalero [2003] ECR I-8679, paragraph 49).
+
+40      Although the EC Treaty has made it possible in a number of instances for private persons to bring a direct action, where appropriate, before the Community Court, it was not intended to create new remedies in the national courts to ensure the observance of Community law other than those already laid down by national law (Case 158/80 Rewe [1981] ECR 1805, paragraph 44).
+
+41      It would be otherwise only if it were apparent from the overall scheme of the national legal system in question that no legal remedy existed which made it possible to ensure, even indirectly, respect for an individual’s rights under Community law (see, to that effect, Case 33/76 Rewe, paragraph 5; Comet, paragraph 16; and Factortame, paragraphs 19 to 23).
+
+42      Thus, while it is, in principle, for national law to determine an individual’s standing and legal interest in bringing proceedings, Community law nevertheless requires that the national legislation does not undermine the right to effective judicial protection (see, inter alia, Joined Cases C-87/90 to C-89/90 Verholen and Others [1991] ECR I‑3757, paragraph 24, and Safalero, paragraph 50). It is for the Member States to establish a system of legal remedies and procedures which ensure respect for that right (Unión de Pequeños Agricultores v Council, paragraph 41).
+
+43      In that regard, the detailed procedural rules governing actions for safeguarding an individual’s rights under Community law must be no less favourable than those governing similar domestic actions (principle of equivalence) and must not render practically impossible or excessively difficult the exercise of rights conferred by Community law (principle of effectiveness) (see, inter alia, Case 33/76 Rewe, paragraph 5; Comet, paragraphs 13 to 16; Peterbroeck, paragraph 12; Courage and Crehan, paragraph 29; Eribrand, paragraph 62; and Safalero, paragraph 49). 
+
+44      Moreover, it is for the national courts to interpret the procedural rules governing actions brought before them, such as the requirement for there to be a specific legal relationship between the applicant and the State, in such a way as to enable those rules, wherever possible, to be implemented in such a manner as to contribute to the attainment of the objective, referred to at paragraph 37 above, of ensuring effective judicial protection of an individual’s rights under Community law.
+
+***	The notion of liability for illegal acts 
+
+		Article 340(2) TFEU
+
+In the case of non-contractual liability, the Union shall, in accordance with the general principles common to the laws of the Member States, make good any damage caused by its institutions or by its servants in the performance of their duties.
+
+Case 5/71 Aktien-Zuckerfabrik Schoeppenstedt v Council [1971] ECR 975:
+
+‘11. In the present case the non-contractual liability of the Community presupposes at the very least the unlawful nature of the act alleged to the cause of the damage, where legislative action involving measures of economic policy is concerned, the Community does not incur noncontractual liability for damage suffered by individuals as a consequence of that action, …, unless a sufficient flagrant violation of a superior rule of law for the protection of the individual has occurred. 
+
+***	The introduction of the principle of State liability 
+
+Cases C-6/90 and C-9/90 Francovich and Bonifaci v. Italy [1991] ECR I-5357.
+
+33. The full effectiveness of Community rules would be impaired and the protection of the rights which they grant would be weakened if individuals were unable to obtain redress when their rights are infringed by a breach of Community law for which a member State can be held responsible. 
+
+34. The possibility of obtaining redress from the Member State is particularly indispensable where, as in this case, the full effectiveness of Community rules is subject to prior action on the part of the state and where, consequently, in the absence of such action, individuals cannot enforce before the national Courts the rights conferred upon them by Community law.
+
+35. It follows that the principle whereby a state must be liable for loss and damage caused to individuals as a result of breaches of Community law for which the state can be held responsible is inherent in the system of the Treaty.
+
+36. A further basis for the obligation of Member States to make good such loss and damage is to be found in article [10] of the Treaty, under which the Member States are required to take all appropriate measures, whether general or particular, to ensure fulfilment of their obligations under Community law. Among these is the obligation to nullify the unlawful consequences of a breach of Community law … 
+
+37. It follows from the foregoing that it is a principle of Community law that the Member States are obliged to make good loss and damage caused to individuals by breaches of Community law for which they can be held responsible.
+
+38. Although State liability is thus required by Community law, the conditions under which that liability gives rise to a right to reparation depend on the nature of the breach of community law giving rise to the loss and damage. 
+
+***	Substantive conditions 
+
+39 Where, as in this case, a Member State fails to fulfil its obligation under the third paragraph of Article 189 of the Treaty to take all the measures necessary to achieve the result prescribed by a directive, the full effectiveness of that rule of Community law requires that there should be a right to reparation provided that three conditions are fulfilled. 
+40 The first of those conditions is that the result prescribed by the directive should entail the grant of rights to individuals. The second condition is that it should be possible to identify the content of those rights on the basis of the provisions of the directive. Finally, the third condition is the existence of a causal link between the breach of the State' s obligation and the loss and damage suffered by the injured parties. 
+41 Those conditions are sufficient to give rise to a right on the part of individuals to obtain reparation, a right founded directly on Community law. 
+
+***	Which violations? 
+
+Joined Cases C-46/93 and 48/93 Brasserie du Pecheur SA v Germany and R v Secretary for 
+Transport, ex parte Factortame Ltd and Others [Factortame III] [1996] ECR I-1029:
+	
+32. [The] principle [of State liability in damages] holds good for any case in which a Member State breaches Community law, whatever be the organ of the State whose act or omission was responsible for the breach
+
+***	Which organs of the State? 
+
+ *Case C-224/01 Gerhard Koebler v Austria, [2003] ECR I-10239. 
+
+33. In the light of the essential role played by the judiciary in the protection of the rights derived by individuals from [EU] rules, the full effectiveness of those rules would be called in question and the protection of those rights would be weakened if individuals were precluded from being able, under certain conditions, to obtain reparation when their rights are affected by an infringement of [EU] law attributable to a decision of a court of a Member State adjudicating at last instance. …
+
+36. Consequently, it follows from the requirements inherent in the protection of the rights of individuals relying on [EU] law that they must have the possibility of obtaining redress in the national courts for the damage caused by the infringement of those rights owing to a decision of a court adjudicating at last instance. 
+
+Case C-17303 Traghetti del Mediterraneo v Italy [2006 ECR I-5177
+
+***	What is a ‘sufficiently serious breach’?
+
+Joined Cases C-46/93 and 48/93 Brasserie du Pecheur and Factortame III: 
+47 … where a Member State acts in a field where it has a wide discretion, comparable to that of the Community institutions in implementing Community policies, the conditions under which it may incur liability must, in principle, be the same as those under which the Community institutions incur liability in a comparable situation. 
+……………………….
+51 In such circumstances, Community law confers a right to reparation where three conditions are met: the rule of law infringed must be intended to confer rights on individuals; the breach must be sufficiently serious; and there must be a direct causal link between the breach of the obligation resting on the State and the damage sustained by the injured parties. 
+………………………..
+55 … as regards both Community liability under Article [288] and Member State liability for breaches of Community law, the decisive test for finding that a breach of Community law is sufficiently serious is whether the Member State or the Community institution concerned manifestly and gravely disregarded the limits on its discretion. 
+
+56 The factors which the competent court may take into consideration include the clarity and precision of the rule breached, the measure of discretion left by that rule to the national or Community authorities, whether the infringement and the damage caused was intentional or involuntary, whether any error of law was excusable or inexcusable, the fact that the position taken by a Community institution may have contributed towards the omission, and the adoption or retention of national measures or practices contrary to Community law. 
+
+57 On any view, a breach of Community law will clearly be sufficiently serious if it has persisted despite a judgment finding the infringement in question to be established, or a preliminary ruling or settled case-law of the Court on the matter from which it is clear that the conduct in question constituted an infringement. 
+
+Joined Cases C-178, 179, 188, 189, 190/94 Dillenkofer and other v. Germany [1996] ECR I-4845:
+23 ‘In substance, the conditions laid down in [Factortame/Brasserie] are the same [as in Francovich], since the condition that there should be a sufficiently serious breach, although not expressly mentioned in Francovich, was nevertheless evident from the circumstances of that case. 
+
+24 When the Court held that the conditions under which State liability gives rise to a right to reparation depended on the nature of the breach of [EU] law causing the damage, that meant that those conditions are to be applied according to each type of situation. 
+
+Case C-352/98 Bergaderm [2000] ECR I-5291 (extract in Craig and De Burca, p. 562)
+
+43 ‘…as regards both [EU] liability under Article [340]… and Member State liability for breaches of [EU] law, the decisive test for finding that a breach of [EU] law is sufficiently serious is whether the Member State or the [EU] institution concerned manifestly and gravely disregarded the limits of its discretion.
+
+***	The role of national courts 
+Cases C-6/90 and C-9/90 Francovich
+
+	42. … In the absence of [EU] legislation, it is for the internal legal order of each 	Member State to designate the competent courts and lay down the detailed 	procedural rules for legal proceedings intended fully to safeguard the rights which 	individuals derive from [EU] law … 
+
+	’43. … the substantive and procedural conditions for reparation of loss and damage 	laid down by the national law of the Member States must not be less favourable than 	those relating to similar domestic claims and must not be so framed as to make it 	virtually impossible or excessively difficult to obtain reparation.’
+
+R. v Secretary of State for Transport, Ex parte Factortame Ltd. and Others, judgment of the House of Lords, [2000] 1 A.C. 524, [1999] 3 C.M.L.R. 597.
+
+***	What happens in practice? 
+
+Case C-392/93 [1996] R v. HM Treasury ex parte British Telecommunications plc [1996] 
+	ECR I-1631 
+
+Case C-5/94 R v. Ministry of Agriculture, Fisheries and Food ex parte Hedley Lomas 	(Ireland) Ltd [1996] ECR I-2553. 
+
+Joined Cases C-283, 291 and 292/94 Denkavit International v Buendesamt fuer FInanzen 
+	[1996] ECR I-5063.
+
+***	Which response by national courts?
+
+R. v Secretary of State for Transport, Ex parte Factortame Ltd. and Others, judgment of 
+	the House of Lords, [2000] 1 A.C. 524, [1999] 3 C.M.L.R. 597.
+
+Further Reading: 
+
+Davies, A., “State Liability for Judicial Decisions in European Union and International Law” 	(2012) 61 ICLQ 585
+Dougan, M., 'The Vicissitudes of Life at the Coalface: Remedies and Procedures for 	Enforcing Union Law before the National Courts' in G. De Búrca and P Craig (eds), 	The Evolution of EU Law (2nd ed., 2011 OUP) 407
+Granger, ‘National applications of Francovich and the construction of a European 
+administrative jus commune’, (2007) 32 ELRev 157.
+Nassimpian, D., ‘… And we keep on meeting: (de-)fragmenting state liability’, (2008) 32 
+ELRev 819.
+Wakefield, J., 'Retrench and Reform: The Action for Damages', (2009) 28 YEL 390
+Beutler, ‘State Liability for Breaches of Community Law by National Courts: Is the 	Requirement of a Manifest Infringement of the Applicable Law and Insurmountable 	Obstacle?’ (2009) 46 CMLRev 773
+Anagnostaras ‘Erroneous Judgments and the Prospect of Damages: the scope of the 
+Principle of Governmental Liability for Judicial Breaches’, (2006) 31 ELRev 735.
+Dougan, National Remedies before the Court of Justice (2004)
+Tridimas ‘Liability for Breach of Community Law: Growing Up and Mellowing Down?’ 38 (2001) CMLRev 301.
+Lock, T., ‘Is private enforcement of EU law through State liability a myth? An assessment 20 years after Francovich’, (2012) 49 CMLRev 1675.
+
+Lecture 7 	EU International Relations Law 
+
+MAIN READING
+
+*Koutrakos, ‘External Action: Common Commercial Policy, Common Foreign and Security Policy and Security Policy, Common Security and Defence Policy’ in Arnull and Chalmers (eds), The Oxford Handbook of European Union Law (OUP, 2015) Ch.11 (chapter available on Reading Lists Online).
+
+Craig and de Burca, Ch. 10.
+
+***	The ambition
+
+Laeken Declaration on the Future of the European Union (15 December 2001):
+
+
+‘What is Europe’s role in this changed world? Does Europe not, now that is finally unified, have a leading role to play in a new world order, that of a power able both to play a stabilising role worldwide and to point the way ahead for many countries and peoples? Europe as the continent of humane values, the Magna Carta, the Bill of Rights, the French Revolution and the fall of the Berlin Wall; the continent of liberty, solidarity and above all diversity, meaning respect for others’ languages, cultures and traditions. The European Union’s one boundary is democracy and human rights. The Union is open only to countries which uphold basic values such as free elections, respect for minorities and respect for the rule of law.
+
+Now that the Cold War is over and we are living in a globalised, yet also highly fragmented world, Europe needs to shoulder its responsibilities in the governance of globalisation. The role it has to play is that of a power resolutely doing battle against all violence, all terror and all fanaticism, but which also does not turn a blind eye to the world’s heartrending injustices. In short, a power wanting to change the course of world affairs in such a way as to benefit not just the rich countries but also the poorest. A power seeking to set globalisation within a moral framework, in other words to anchor it in solidarity and sustainable development’.
+
+***	The organizing principles
+
+Article 21 (1) TEU
+
+1. The Union's action on the international scene shall be guided by the principles which have inspired its own creation, development and enlargement, and which it seeks to advance in the wider world: democracy, the rule of law, the universality and indivisibility of human rights and fundamental freedoms, respect for human dignity, the principles of equality and solidarity, and respect for the principles of the United Nations Charter and international law.
+
+The Union shall seek to develop relations and build partnerships with third countries, and international, regional or global organisations which share the principles referred to in the first subparagraph. It shall promote multilateral solutions to common problems, in particular in the framework of the United Nations.
+
+***	The objectives 
+
+Article 21(2)  TEU
+
+The Union shall define and pursue common policies and actions, and shall work for a high degree of cooperation in all fields of international relations, in order to:
+ 
+(a)	safeguard its values, fundamental interests, security, independence and integrity;
+
+(b) consolidate and support democracy, the rule of law, human rights and the principles of international law;
+
+(c) preserve peace, prevent conflicts and strengthen international security, in accordance with the purposes and principles of the United Nations Charter, with the principles of the Helsinki Final Act and with the aims of the Charter of Paris, including those relating to external borders;
+
+(d)	foster the sustainable economic, social and environmental development of developing countries, with the primary aim of eradicating poverty;
+
+(e) encourage the integration of all countries into the world economy, including through the progressive abolition of restrictions on international trade;
+
+(f)	help develop international measures to preserve and improve the quality of the environment and the sustainable management of global natural resources, in order to ensure sustainable development;
+
+(g)	assist populations, countries and regions confronting natural or man-made disasters; and
+
+(h) promote an international system based on stronger multilateral cooperation and good global governance.
+
+
+***	The system of EU external relations under the Lisbon Treaty
+
+Part Five TEU: External Action by the Union
+
+TITLE I: GENERAL PROVISIONS ON THE UNION'S EXTERNAL ACTION
+
+Article 205
+The Union's action on the international scene, pursuant to this Part, shall be guided by the principles, pursue the objectives and be conducted in accordance with the general provisions laid down in Chapter 1 of Title V of the Treaty on European Union.
+
+TITLE II: COMMON COMMERCIAL POLICY (Articles 206-207 TEU)
+
+TITLE III: COOPERATION WITH THIRD COUNTRIES AND HUMANITARIAN AID 
+	Chapter 1. Development Cooperation (Articles 208-211)
+	Chapter 2. Economic, Financial and Technical Cooperation with third countries 
+		(Articles 212-213 TEU)
+	Chapter 3. Humanitarian Aid (Article 214 TEU) 
+
+TITLE IV: RESTRICTIVE MEASURES (Article 215 TEU)
+
+TITLE V: INTERNATIONAL AGREEMENTS (Article 216-219 TEU)
+
+TITLE VI: THE UNION'S RELATIONS WITH INTERNATIONAL 
+	ORGANISATIONS AND THIRD COUNTRIES AND DELEGATIONS 	(Articles 220-221 TEU)
+
+TITLE VII: SOLIDARITY CLAUSE (Article 222 TEU)
+
+
+Fostering cooperation with third countries and international organisations
+
+Fostering cooperation with third countries in the areas of:
+-	education (Art. 165(3) TFEU, ex Article 149(3) EC)
+-	vocational training and youth (Article 166(3) TFEU, ex Article 150(3) EC)
+-	culture (Article 167(3) TFEU, ex Article 151(3) EC)
+-	public health (Article 168(3) TFEU, ex Article 152(3) EC)
+
+Cooperation with:
+-	United Nations (Article 220 TFEU, ex Article 302 EC)
+-	Council of Europe (Article 220 TFEU, ex Article 303)
+-	OECD (Article 220 TFEU, ex Article 304)
+
+***	One end of the spectrum: Common Commercial Policy 
+
+
+Article 207 (1)-(3) TFEU  (ex Article 133 EC):
+	
+1.	The common commercial policy shall be based on uniform principles, particularly with regard to changes in tariff rates, the conclusion of tariff and trade agreements relating to trade in goods and services, and the commercial aspects of intellectual property, foreign direct investment, the achievement of uniformity in measures of liberalisation, export policy and measures to protect trade such as those to be taken in the event of dumping or subsidies. The common commercial policy shall be conducted in the context of the principles and objectives of the Union's external action.
+
+2.	The European Parliament and the Council, acting by means of regulations in accordance with the ordinary legislative procedure, shall adopt the measures defining the framework for implementing the common commercial policy.
+
+3.	Where agreements with one or more third countries or international organisations need to be negotiated and concluded, Article 218 shall apply, subject to the special provisions of this Article.
+
+The Commission shall make recommendations to the Council, which shall authorise it to open the necessary negotiations. The Council and the Commission shall be responsible for ensuring that the agreements negotiated are compatible with internal Union policies and rules.
+
+The Commission shall conduct these negotiations in consultation with a special committee appointed by the Council to assist the Commission in this task and within the framework of such directives as the Council may issue to it. The Commission shall report regularly to the special committee and to the European Parliament on the progress of negotiations.
+
+4.	For the negotiation and conclusion of the agreements referred to in paragraph 3, the Council shall act by a qualified majority.
+
+For the negotiation and conclusion of agreements in the fields of trade in services and the commercial aspects of intellectual property, as well as foreign direct investment, the Council shall act unanimously where such agreements include provisions for which unanimity is required for the adoption of internal rules.
+
+The Council shall also act unanimously for the negotiation and conclusion of agreements:
+(a)	in the field of trade in cultural and audiovisual services, where these agreements risk prejudicing the Union's cultural and linguistic diversity;
+(b)	in the field of trade in social, education and health services, where these agreements risk seriously disturbing the national organisation of such services and prejudicing the responsibility of Member States to deliver them.
+
+5.	The negotiation and conclusion of international agreements in the field of transport shall be subject to Title VI of Part Three and to Article 218.
+
+6.	The exercise of the competences conferred by this Article in the field of the common commercial policy shall not affect the delimitation of competences between the Union and the Member States, and shall not lead to harmonisation of legislative or regulatory provisions of the Member States in so far as the Treaties exclude such harmonisation.
+
+***	A central feature of CCP: exclusive competence  
+
+Article 3 TFEU
+
+1. The Union shall have exclusive competence in the following areas: 
+(a) customs union; 
+(b) the establishing of the competition rules necessary for the functioning of the internal market;
+(c) monetary policy for the Member States whose currency is the euro; 
+(d) the conservation of marine biological resources under the common fisheries policy; 
+(e) common commercial policy.
+
+2. The Union shall also have exclusive competence for the conclusion of an international agreement when its conclusion is provided for in a legislative act of the Union or is necessary to enable the Union to exercise its internal competence, or in so far as its conclusion may affect common rules or alter their scope.
+
+*Opinion 1/75 (re: OECD Local Cost Standard) [1975] ECR 1355:
+'[The Common Commercial Policy] is conceived in [new Article 207 TFEU; ex Article 133 EC] in the context of the operation of the Common Market, for the defence of the common interests of the Community, within which the particular interests of the Member states must endeavour to adapt to each other.
+Quite clearly, however, this conception is incompatible with the freedom to which the Member States could lay claim by invoking a concurrent power, so as to ensure that their interests were separately satisfied in external relations, at the risk of compromising the effective defence of the common interests of the Community.
+In fact, any unilateral action on the part of the Member Stales would lead to disparities in the conditions for the grant of export credits, calculated to distort competition between undertakings of the various Member states in external markets. Such distortion can be eliminated only by means of a strict uniformity of credit conditions granted to undertakings in the Community, whatever their nationality’ (p1364).
+
+*Case 41/76 Donckerwolke [1976] ECR 1921.
+33. As full responsibility in the matter of commercial policy was transferred to the Community by means of Article [207 TFEU; ex Article 133(1) EC] measures of commercial policy of a national character are only permissible after the end of the transitional period by virtue of specific authorization by the Community.
+
+***	A central feature of CCP: wide scope
+
+*Opinion 1/75 (re: OECD Local Cost Standard) [1975] ECR 1355: 
+
+‘[measures concerning credits for the financing of local costs linked to export operations] constitute an important element of commercial policy, that concept having the same content whether it is applied in the context of the international action of a State or to that of the Community’ (p1362).  
+
+*The new CCP: the case of
+- services,
+- intellectual property rights,
+- investment. 
+***	Conclusion of international agreements by the EU
+
+
+Article 216 (1) TFEU
+
+	1. The Union may conclude an agreement with one or more third countries or international organisations where the Treaties so provide or where the conclusion of an agreement is necessary in order to achieve, within the framework of the Union’s policies, one of the objectives referred to in the Treaties, or is provided for in a legally binding Union act or is likely to affect common rules or alter their scope.
+
+***	Introducing the principle of implied competence
+
+*Case 22/70 Commission v Council (re: ERTA) [1971] ECR 263
+
+15. To determine in a particular case the Community’s authority to enter into international agreements, regard must be had to the whole scheme of the Treaty no less than to its substantive provisions.
+
+16. Such authority arises not only from an express conferment by the Treaty – as is the case with Articles [207 TFEU, ex 133 EC] and 114 [now deleted] for tariff and trade agreements and with Article [217 TFEU, ex 310 EC] for association agreements - but may equally flow from other provisions of the Treaty and from measures adopted, within the framework of those provisions, by the Community institutions. 
+
+17. In particular, each time the Community, with a view to implementing a common policy envisaged by the Treaty, adopts provisions laying down common rules, whatever form these may take, the Member States no longer have the right, acting individually or even collectively, to undertake obligations with third countries which affect those rules. 
+
+18. As and when such common rules come into being, the Community alone is in a position to assume and carry out contractual obligations towards third countries affecting the whole sphere of application of the Community legal system. 
+
+***	The duty of cooperation
+
+*Opinion 2/91 91 (Re: Convention No 170 ILO on safety in the use of chemicals at work) 
+[1993] ECR I-1061:
+
+… it is important to ensure that there is close association between the institutions of the Community and the Member States both in the process of negotiation and conclusion and in the fulfilment of the obligations entered into. This duty of cooperation, to which attention was drawn in the context of the EAEC Treaty, must also apply in the context of the EEC Treaty since it results from the requirement of unity in the international representation of the Community.
+	
+In this case, cooperation between the Community and the Member states is all the more necessary in view of the fact that the former cannot, as international law stands at present, itself conclude an ILO convention and must do so through the medium of the Member States.
+
+***	Negotiating and concluding international agreements 
+
+*Article 218 TFEU:
+
+1.	Without prejudice to the specific provisions laid down in Article 207, agreements between the Union and third countries or international organisations shall be negotiated and concluded in accordance with the following procedure.
+
+2.	The Council shall authorise the opening of negotiations, adopt negotiating directives, authorise the signing of agreements and conclude them.
+
+3.	The Commission, or the High Representative of the Union for Foreign Affairs and Security Policy where the agreement envisaged relates exclusively or principally to the common foreign and security policy, shall submit recommendations to the Council, which shall adopt a decision authorising the opening of negotiations and, depending on the subject of the agreement envisaged, nominating the Union negotiator or the head of the Union's negotiating team.
+
+4.	The Council may address directives to the negotiator and designate a special committee in consultation with which the negotiations must be conducted.
+
+5.	The Council, on a proposal by the negotiator, shall adopt a decision authorising the signing of the agreement and, if necessary, its provisional application before entry into force.
+
+6.	The Council, on a proposal by the negotiator, shall adopt a decision concluding the agreement.
+
+Except where agreements relate exclusively to the common foreign and security policy, the Council shall adopt the decision concluding the agreement:
+(a)	after obtaining the consent of the European Parliament in the following cases:
+	(i)	association agreements;
+	(ii)	agreement on Union accession to the European Convention for the Protection of 	Human Rights and Fundamental Freedoms;
+	(iii) agreements establishing a specific institutional framework by organising cooperation 	procedures;
+	(iv)	agreements with important budgetary implications for the Union;
+	(v)	agreements covering fields to which either the ordinary legislative procedure 	applies, or the special legislative procedure where consent by the European Parliament is 	required.
+	
+	The European Parliament and the Council may, in an urgent situation, agree upon a time-	limit for consent.
+(b)	after consulting the European Parliament in other cases. The European Parliament shall deliver its opinion within a time-limit which the Council may set depending on the urgency of the matter. In the absence of an opinion within that time-limit, the Council may act.
+
+7.	When concluding an agreement, the Council may, by way of derogation from paragraphs 5, 6 and 9, authorise the negotiator to approve on the Union's behalf modifications to the agreement where it provides for them to be adopted by a simplified procedure or by a body set up by the agreement. The Council may attach specific conditions to such authorisation.
+
+8.	The Council shall act by a qualified majority throughout the procedure.
+
+However, it shall act unanimously when the agreement covers a field for which unanimity is required for the adoption of a Union act as well as for association agreements and the agreements referred to in Article 212 with the States which are candidates for accession. The Council shall also act unanimously for the agreement on accession of the Union to the European Convention for the Protection of Human Rights and Fundamental Freedoms; the decision concluding this agreement shall enter into force after it has been approved by the Member States in accordance with their respective constitutional requirements.
+
+9.	The Council, on a proposal from the Commission or the High Representative of the Union for Foreign Affairs and Security Policy, shall adopt a decision suspending application of an agreement and establishing the positions to be adopted on the Union's behalf in a body set up by an agreement, when that body is called upon to adopt acts having legal effects, with the exception of acts supplementing or amending the institutional framework of the agreement.
+
+10.	The European Parliament shall be immediately and fully informed at all stages of the procedure.
+
+11.	A Member State, the European Parliament, the Council or the Commission may obtain the opinion of the Court of Justice as to whether an agreement envisaged is compatible with the Treaties. Where the opinion of the Court is adverse, the agreement envisaged may not enter into force unless it is amended or the Treaties are revised.
+
+***	Interesting examples of the EU’s international influence 
+
+- Agreement between the European Union and the United States of America on the processing and transfer of Financial Messaging Data from the European Union to the United States for the purposes of the Terrorist Finance Tracking Program [2010] OJ L 195/5.  
+
+-  Case C-366/10 ATAA ECLI:EU:C:2011:864.
+
+***	The other end of the spectrum: Common Foreign and Security Policy (CFSP) and Common Security and Defence Policy (CSDP) 
+
+Article 24 TEU
+
+1.	The Union's competence in matters of common foreign and security policy shall cover all areas of foreign policy and all questions relating to the Union's security, including the progressive framing of a common defence policy that might lead to a common defence.
+
+The common foreign and security policy is subject to specific rules and procedures. It shall be defined and implemented by the European Council and the Council acting unanimously, except where the Treaties provide otherwise. The adoption of legislative acts shall be excluded. The common foreign and security policy shall be put into effect by the High Representative of the Union for Foreign Affairs and Security Policy and by Member States, in accordance with the Treaties. The specific role of the European Parliament and of the Commission in this area is defined by the Treaties. The Court of Justice of the European Union shall not have jurisdiction with respect to these provisions, with the exception of its jurisdiction to monitor compliance with Article 40 of this Treaty and to review the legality of certain decisions as provided for by the second paragraph of Article 275 of the Treaty on the Functioning of the European Union.
+
+2.	Within the framework of the principles and objectives of its external action, the Union shall conduct, define and implement a common foreign and security policy, based on the development of mutual political solidarity among Member States, the identification of questions of general interest and the achievement of an ever-increasing degree of convergence of Member States' actions.
+
+3.	The Member States shall support the Union's external and security policy actively and unreservedly in a spirit of loyalty and mutual solidarity and shall comply with the Union's action in this area.
+
+The Member States shall work together to enhance and develop their mutual political solidarity. They shall refrain from any action which is contrary to the interests of the Union or likely to impair its effectiveness as a cohesive force in international relations.
+The Council and the High Representative shall ensure compliance with these principles.
+
+Article 25
+(ex Article 12 TEU)
+The Union shall conduct the common foreign and security policy by:
+(a)	defining the general guidelines; 
+
+(b)	adopting decisions defining:
+
+	(i) actions to be undertaken by the Union 
+
+	(ii) positions to be taken by the Union; 
+	
+	(iii) arrangements for the implementation of the decisions referred to in points (i) and (ii);
+
+	and by
+
+(c)	strengthening systematic cooperation between Member States in the conduct of policy.
+
+***	Institutions
+Article 26
+
+1.	The European Council shall identify the Union's strategic interests, determine the objectives of and define general guidelines for the common foreign and security policy, including for matters with defence implications. It shall adopt the necessary decisions.
+
+If international developments so require, the President of the European Council shall convene an extraordinary meeting of the European Council in order to define the strategic lines of the Union's policy in the face of such developments.
+
+2.	The Council shall frame the common foreign and security policy and take the decisions necessary for defining and implementing it on the basis of the general guidelines and strategic lines defined by the European Council.
+
+The Council and the High Representative of the Union for Foreign Affairs and Security Policy shall ensure the unity, consistency and effectiveness of action by the Union.
+
+3.	The common foreign and security policy shall be put into effect by the High Representative and by the Member States, using national and Union resources.
+
+Article 27
+
+1.	The High Representative of the Union for Foreign Affairs and Security Policy, who shall chair the Foreign Affairs Council, shall contribute through his proposals towards the preparation of the common foreign and security policy and shall ensure implementation of the decisions adopted by the European Council and the Council.
+
+2.	The High Representative shall represent the Union for matters relating to the common foreign and security policy. He shall conduct political dialogue with third parties on the Union's behalf and shall express the Union's position in international organisations and at international conferences.
+
+3.	In fulfilling his mandate, the High Representative shall be assisted by a European External Action Service. This service shall work in cooperation with the diplomatic services of the Member States and shall comprise officials from relevant departments of the General Secretariat of the Council and of the Commission as well as staff seconded from national diplomatic services of the Member States. The organisation and functioning of the European External Action Service shall be established by a decision of the Council. The Council shall act on a proposal from the High Representative after consulting the European Parliament and after obtaining the consent of the Commission.
+
+
+***	European External Action Service
+
+ - Council Decision 2010/427/EU establishing the organisation and functioning of the European 	External Action Service [2010] OJ L 201/30.  
+
+ - Declaration of the High Representative on political accountability [2010] OJ C 210/1 	(corrigendum in [2010] OJ C 217/120.
+
+***	Duties
+Article 32 TEU
+
+Member States shall consult one another within the European Council and the Council on any matter of foreign and security policy of general interest in order to determine a common approach. Before undertaking any action on the international scene or entering into any commitment which could affect the Union's interests, each Member State shall consult the others within the European Council or the Council. Member States shall ensure, through the convergence of their actions, that the Union is able to assert its interests and values on the international scene. Member States shall show mutual solidarity.
+
+When the European Council or the Council has defined a common approach of the Union within the meaning of the first paragraph, the High Representative of the Union for Foreign Affairs and Security Policy and the Ministers for Foreign Affairs of the Member States shall coordinate their activities within the Council.
+
+The diplomatic missions of the Member States and the Union delegations in third countries and at international organisations shall cooperate and shall contribute to formulating and implementing the common approach.
+
+	Declaration 13 concerning the common foreign and security policy
+The Conference underlines that the provisions in the Treaty on European Union covering the Common Foreign and Security Policy, including the creation of the office of High Representative of the Union for Foreign Affairs and Security Policy and the establishment of an External Action Service, do not affect the responsibilities of the Member States, as they currently exist, for the formulation and conduct of their foreign policy nor of their national representation in third countries and international organisations.
+
+The Conference also recalls that the provisions governing the Common Security and Defence Policy do not prejudice the specific character of the security and defence policy of the Member States.
+
+It stresses that the European Union and its Member States will remain bound by the provisions of the Charter of the United Nations and, in particular, by the primary responsibility of the Security Council and of its Members for the maintenance of international peace and security.
+
+***	Common Security and Defence Policy (CSDP)
+
+***	Scope and principles 
+Article 42
+
+1.	The common security and defence policy shall be an integral part of the common foreign and security policy. It shall provide the Union with an operational capacity drawing on civilian and military assets. The Union may use them on missions outside the Union for peace-keeping, conflict prevention and strengthening international security in accordance with the principles of the United Nations Charter. The performance of these tasks shall be undertaken using capabilities provided by the Member States.
+
+2.	The common security and defence policy shall include the progressive framing of a common Union defence policy. This will lead to a common defence, when the European Council, acting unanimously, so decides. It shall in that case recommend to the Member States the adoption of such a decision in accordance with their respective constitutional requirements.
+The policy of the Union in accordance with this Section shall not prejudice the specific character of the security and defence policy of certain Member States and shall respect the obligations of certain Member States, which see their common defence realised in the North Atlantic Treaty Organisation (NATO), under the North Atlantic Treaty and be compatible with the common security and defence policy established within that framework.
+
+3.	Member States shall make civilian and military capabilities available to the Union for the implementation of the common security and defence policy, to contribute to the objectives defined by the Council. Those Member States which together establish multinational forces may also make them available to the common security and defence policy.
+Member States shall undertake progressively to improve their military capabilities. The Agency in the field of defence capabilities development, research, acquisition and armaments (hereinafter referred to as ‘the European Defence Agency’) shall identify operational requirements, shall promote measures to satisfy those requirements, shall contribute to identifying and, where appropriate, implementing any measure needed to strengthen the industrial and technological base of the defence sector, shall participate in defining a European capabilities and armaments policy, and shall assist the Council in evaluating the improvement of military capabilities.
+
+4.	Decisions relating to the common security and defence policy, including those initiating a mission as referred to in this Article, shall be adopted by the Council acting unanimously on a proposal from the High Representative of the Union for Foreign Affairs and Security Policy or an initiative from a Member State. The High Representative may propose the use of both national resources and Union instruments, together with the Commission where appropriate.
+
+5.	The Council may entrust the execution of a task, within the Union framework, to a group of Member States in order to protect the Union's values and serve its interests. The execution of such a task shall be governed by Article 44.
+
+6.	Those Member States whose military capabilities fulfil higher criteria and which have made more binding commitments to one another in this area with a view to the most demanding missions shall establish permanent structured cooperation within the Union framework. Such cooperation shall be governed by Article 46. It shall not affect the provisions of Article 43.
+
+7.	If a Member State is the victim of armed aggression on its territory, the other Member States shall have towards it an obligation of aid and assistance by all the means in their power, in accordance with Article 51 of the United Nations Charter. This shall not prejudice the specific character of the security and defence policy of certain Member States.
+Commitments and cooperation in this area shall be consistent with commitments under the North Atlantic Treaty Organisation, which, for those States which are members of it, remains the foundation of their collective defence and the forum for its implementation.
+
+
+***	Activities
+Article 43 TEU
+
+1.	The tasks referred to in Article 42(1), in the course of which the Union may use civilian and military means, shall include joint disarmament operations, humanitarian and rescue tasks, military advice and assistance tasks, conflict prevention and peace-keeping tasks, tasks of combat forces in crisis management, including peace-making and post-conflict stabilisation. All these tasks may contribute to the fight against terrorism, including by supporting third countries in combating terrorism in their territories.
+
+2.	The Council shall adopt decisions relating to the tasks referred to in paragraph 1, defining their objectives and scope and the general conditions for their implementation. The High Representative of the Union for Foreign Affairs and Security Policy, acting under the authority of the Council and in close and constant contact with the Political and Security Committee, shall ensure coordination of the civilian and military aspects of such tasks.
+
+***	The European Security Strategy
+
+*A secure Europe in a better world – European Security Strategy (Brussels: 12 
+	December 2003) (http://ue.eu.int/uedocs/cmsUpload/78367.pdf).
+
+*Report on the Implementation of the European Security Strategy (Brussels, 11 December 2008) (http://www.eu-un.europa.eu/documents/en/081211_EU%20Security%20Strategy.pdf
+
+***	How to draw the line between different areas of EU international relations and why it matters
+
+Article 40 TEU 
+
+The implementation of the common foreign and security policy shall not affect the application of the procedures and the extent of the powers of the institutions laid down by the Treaties for the exercise of the Union competences referred to in Articles 3 to 6 of the Treaty on the Functioning of the European Union.
+
+Similarly, the implementation of the policies listed in those Articles shall not affect the application of the procedures and the extent of the powers of the institutions laid down by the Treaties for the exercise of the Union competences under this Chapter. 
+
+Article 24 TEU
+
+1. … The Court of Justice of the European Union shall not have jurisdiction with respect to these provisions, with the exception of its jurisdiction to monitor compliance with Article 40 of this Treaty and to review the legality of certain decisions as provided for by the second paragraph of Article 275 of the Treaty on the Functioning of the European Union.
+
+Article 275 TFEU 
+
+The Court of Justice of the European Union shall not have jurisdiction with respect to the provisions relating to the common foreign and security policy nor with respect to acts adopted on the basis of those provisions.
+
+However, the Court shall have jurisdiction to monitor compliance with Article 40 of the Treaty on European Union and to rule on proceedings, brought in accordance with the conditions laid down in the fourth paragraph of Article 263 of this Treaty, reviewing the legality of decisions providing for restrictive measures against natural or legal persons adopted by the Council on the basis of Chapter 2 of Title V of the Treaty on European Union.
+
+- See Case C-91/05 Commission v Council (re: ECOWAS) [2008] ECR I-3651.
+
+- Case C-658/11 Commission v Council (re: EU-Mauritius Agreement) EU:C:2014:2025.
+
+Further reading
+
+P Koutrakos, EU International Relations Law  2nd ed (2006).
+P Koutrakos, The EU Security and Defence Policy (2013).
+P Eeckhout, EU External Relations 2nd ed (2011).
+B Van Vooren, S Blockmans, J Wouters (EDS), The EU’s Role in global Governance (2013).
+M Cremona, ‘Coherence in EU Foreign Relations Law’ in P Koutrakos, European 
+	Foreign Policy—Legal and Political Perspectives (2011) 55.
+G De Baere and P Koutrakos, ‘The interactions between the European Court of 
+Justice and the legislature in the European Union's external relations’ in P Syrpis,(ed.), The relationship between the judiciary and the legislature in the internal market (2012) 243
+R. Passos, ‘The European Union’s External Relations A Year After Lisbon: A First 	Evaluation from the European Parliament’ in P Koutrakos (ed.), The European
+ Union’s external relations a year after Lisbon (2011) 13 CLEER Working Papers 49.
+S Blockmans and C Hillion (eds), EEAS 2.0 (Stockholm: SIEPS, 2013) 
+	(http://www.sieps.se/sites/default/files/EEAS%202%200%20.pds).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lecture 8 	Enforcement Proceedings Art. 258-260
+ TFEU 
+
+MAIN READING
+
+Craig and de Burca, Ch. 12.
+
+***	The jurisdiction of the Court of Justice
+
+Article 258 TFEU
+
+‘If the Commission considers that a Member State has failed to fulfill an obligation under the Treaty, it shall deliver a reasoned opinion on the matter after giving the State concerned an opportunity to submit its observations.  
+
+If the State concerned does not comply with the opinion within the period laid down by the Commission, the latter may bring the matter before the Court of Justice.’  
+
+***	The objective nature of the procedure
+
+Case 416/85 Commission v UK [1988] ECR 3127:
+
+9 … In the context of the balance of powers between the institutions laid down in the Treaty, it is not for the Court to consider what objectives are pursued in an action brought under Article [226] of the Treaty. Its role is to decide whether or not the Member State in question has failed to fulfil its obligation as alleged. … an action against a Member State for failure to fulfil its obligations, the bringing of which is a matter for the Commission in its entire discretion, is objective in nature. 
+
+***	The scope of Art. 258 TFEU
+
+Case 77/69 Commission v Belgium (re: timber tax) [1970] ECR 237: 
+
+‘whatever the organ of the state whose action or inaction constitutes a failure [to fulfill and EU law obligation], even if it concerns an institution which is constitutionally independent.’
+
+Case 265/95 Commission v France (re: blockades) [1997] ECR I-6959
+
+***	National courts too?
+
+Case C-129/00 Commission v Italy [2003] ECR I- 14637 
+
+See also Case 30/77 R. v Bouchereau [1977] ECR 1999, the Opinion of AG Warner.
+
+
+***	The administrative stage 
+
+- Case C-494/01 Commission v Ireland [2005] ECR I-3331:
+
+198    …. the Member States are required to cooperate in good faith with the inquiries of the Commission pursuant to Article 226 EC, and to provide the Commission with all the information requested for that purpose
+
+Case C-96/89 Commission v Netherlands [1991] ECR 2461.
+
+16 It is true that in certain cases the excessive duration of the pre-litigation procedure laid down by Article [226] is capable of making it more difficult for the Member State concerned to refute the Commission' s arguments and of thus infringing the rights of the defence. However, in the instant case, the Netherlands Government has not proved that the unusual length of the procedure had any effect on the way in which it conducted its defence. 
+
+- Case C-350/02 Commission v. Netherlands [2004] ECR I-6213
+
+20. … the subject-matter of proceedings under Article 226 EC is delimited by the pre-litigation procedure governed by that provision. The Commission’s reasoned opinion and the application must be based on the same grounds and pleas, with the result that the Court cannot examine a ground of complaint which was not formulated in the reasoned opinion (Case 76/86 Commission v Germany [1989] ECR 1021, paragraph 8).
+
+***	The judicial stage 
+
+Joined Cases C-142-3/80 Amministrazione della Finanze v Essevi Spa [1981] ECR 1413: 
+
+18. … opinions delivered by the Commission pursuant to Article [258] have legal effect only in relation to the commencement of proceedings before the Court against a State alleged to have failed to fulfill its obligations under the Treaty… the Commission may not, by adopting an attitude in the context of that procedure, release a Member State from its obligations or impair rights which individuals derive from the Treaty.
+
+
+***	The Commission’s discretion
+
+Case 7/71 Commission v France (re: Euratom) [1971] ECR 1003: 
+
+	5. The action for a declaration that a State has failed to fulfil an obligation … does not 	have to be brought within a predetermined period, since, by reason of its nature and 	its purpose, this procedure involves a power on the part of the Commission to 	consider the most appropriate means and time-limits for the purposes of putting an 	end to any contraventions of the Treaty. 
+
+	6. The fact that the Commission only commenced its action after a lengthy period of 	time cannot have the effect of regularizing a continuing contravention. 
+
+Case 416/85 Commission v UK [1988] ECR 3127:
+
+	9 … In the context of the balance of powers between the institutions laid down in the 	Treaty, it is not for the Court to consider what objectives are pursued in an action 	brought under Article [226] of the Treaty. Its role is to decide whether or not the 	Member State in question has failed to fulfil its obligation as alleged. … an action 	against a Member State for failure to fulfil its obligations, the bringing of which is a 	matter for the Commission in its entire discretion, is objective in nature. 
+
+Case C-74/82 Commission v Ireland [1984] ECR 317:
+
+	‘…it is indeed unreasonable … to allow a Member State five days to amend 	legislation which has been applied for more than 40 years and which, moreover, has 	not given rise to any action on the part of the Commission over the period which has 	elapsed since the accession of the Member State in question.…’
+
+
+Case 7/61 Commission v Italy (re: ban on pork imports) [1961] ECR 317: 
+
+	‘If the Member States does not comply with the opinion within the prescribed period, 	there is no question that the Commission has the right to obtain the Court’s judgment 	on that Member State’s failure to fulfil the obligations flowing from the Treaty.’ 
+
+Case 7/68 Commission v Italy [1968] ECR 423: 
+
+	‘It is for the Commission, under [Art. 258 TFEU], to judge at what time it shall bring an 	action before the Court; the considerations which determine its choice of time cannot 	affect the admissibility of the action, which follows only objective rules.’  
+
+***	The reasoned opinion 
+
+Case 7/61 Commission v Italy (re: ban on pork imports) [1961] ECR 317.
+
+The Opinion referred to in Article [226] of the Treaty must be considered to contain a sufficient statement of reasons to satisfy the law when it contains … a coherent statement of the reasons which let the Commission to believe that the State in question has failed to fulfil an obligation under the Treaty.
+
+- Case 48/65 Lütticke v Commission [1966] ECR 19.
+
+The part of the procedure which precedes reference of the matter to the Court constitutes an administrative stage intended to give the Member State concerned the opportunity of conforming with the Treaty. During this stage, the Commission makes known its view by way of an opinion only after giving the Member State concerned the opportunity to submit its observations. 
+
+No measure taken by the Commission during this stage has any binding force. Consequently, an application for the annulment of the measure by which the Commission arrived at a decision on the application is inadmissible. 
+
+
+***	Defences by Member States
+
+- practical arguments: 
+
+Case 167/73 Commission v France (re: French merchant seamen) [1974] ECR 359.
+
+	 - Internal difficulties
+
+Case C-265/95 Commission v France (re: blockades) [1997] ECR I-6959:
+56 It is for the Member State concerned, unless it can show that action on its part would have consequences for public order with which it could not cope by using the means at its disposal, to adopt all appropriate measures to guarantee the full scope and effect of [EU] law so as to ensure its proper implementation in the interests of all economic operators. ...
+65. ... the French Government has manifestly and persistently abstained from adopting the appropriate and adequate measures to put an end to the acts of vandalism which jeopardize the free movement on its territory of certain agricultural products originating in other Member states and to prevent the recurrence of such acts”.
+
+Case C-191/95 Commission v Germany (re: annual accounts) [1998] ECR I-5449:
+
+68 … the lack of appropriate penalties cannot be justified by the fact that, because of the large numbers involved, application of such penalties to all companies that do not publish their accounts would create considerable difficulties for the German administrative authorities which would be disproportionate to the aim pursued by the [EU] legislature.
+
+	- unintentional violation  
+
+Case C-385/02 Commission v Italy [2004] ECR I-8121
+
+40’…the admissibility of an action based on [Art 258 TFEU] depends only on an objective finding of a failure to fulfil obligations and not proof of any inertia or opposition on the part of the Member State concerned.’
+
+	- alleged illegality of EU law
+
+Case 226/89 Commission v Greece [1988] ECR 3611
+
+14’…In the absence of a provision of the Treaty expressly permitting to do so, a Member State cannot … plead the unlawfulness of a decision addressed to it as a defence in an action for a declaration that it has failed to fulfil its obligations arising out of its failure to implement that decision.’
+
+***	Involvement of citizens as complainants
+
+Case 247/87 Star Fruit v Commission [1989] ECR 291
+
+	11. ‘It is clear from the scheme of [Art. 258 TFEU] that the Commission is not bound 	to commence the proceedings provided for in that provision but in this regard has a 	discretion which excludes the right for individuals to require that institution to adopt a 	specific position.’
+
+***	Art. 259 TFEU
+A Member State which considers that another Member State has failed to fulfil an obligation under this Treaty may bring the matter before the Court of Justice.
+
+Before a Member State brings an action against another Member State for an alleged infringement of an obligation under this Treaty, it shall bring the matter before the Commission.
+
+The Commission shall deliver a reasoned opinion after each of the States concerned has been given the opportunity to submit its own case and its observations on the other party's case both orally and in writing.
+
+If the Commission has not delivered an opinion within three months of the date on which the matter was brought before it, the absence of such opinion shall not prevent the matter from being brought before the Court of Justice’.
+
+ Case C-145/04 Spain v UK [2006] ECR I-7917
+
+***	The effect of the Court’s ruling
+
+Article 260(1) TFEU
+
+‘If the Court of Justice of the European Union finds that a Member State has failed to fulfill an obligation under the Treaties, the State shall be required to take the necessary measures to comply with the judgment of the Court.’
+
+Joined Cases 314-6/81 and 83/82 Procureur de la Republique v Waterkeyn [1982] ECR 4337:
+
+	“16. [I]f the Court finds in proceedings under [Art. 258 TFEU] that a Member State’s 	legislation is incompatible with the obligations which it has under the Treaty, the 	courts of that State are bound by virtue of [Art. 258] to draw the necessary inferences 	from the derive, not from that judgment, but from the actual provisions of [EU] law 	having 	direct effect in the internal legal order”.
+
+Case C-503/04 Commission v Germany, [2007] ECR-I 6153: 
+
+	‘36. … even if it were to be accepted that the principles of legal certainty and of the 	protection of legitimate expectations, the principle pacta sunt servanda and the right 	to property could be used against the contracting authority by the other party to the 	contract in the event of rescission, Member states cannot rely thereon to justify the 	non-implementation of a judgment establishing a failure to fulfil obligations under [Art. 	258 TFEU] and thereby evade their own liability under [EU] law.’
+
+
+***	Sanctions for non-compliance
+
+Art. 260(2) TFEU
+	
+‘2. If the Commission considers that the Member State concerned has not taken the necessary measures to comply with the judgment of the Court, it may bring the case before the Court after giving that State the opportunity to submit its observations. It shall specify the amount of the lump sum or penalty payment to be paid by the Member State concerned which it considers appropriate in the circumstances.
+
+If the Court finds that the Member State concerned has not complied with its judgment it may impose a lump sum or penalty payment on it.
+
+This procedure shall be without prejudice to Article 259.
+
+Article 260 (3) TFEU (added at Lisbon)
+
+3. When the Commission brings a case before the Court pursuant to Article 258 on the grounds that the Member State concerned has failed to fulfil its obligation to notify measures transposing a directive adopted under a legislative procedure, it may, when it deems appropriate, specify the amount of the lump sum or penalty payment to be paid by the Member State concerned which it considers appropriate in the circumstances.
+
+If the Court finds that there is an infringement it may impose a lump sum or penalty payment on the Member State concerned not exceeding the amount specified by the Commission. The payment obligation shall take effect on the date set by the Court in its judgment.
+
+See: Communication by the Commission on the Implementation of Article 260(3) TFEU, SEC (2010) 1371 final.
+
+
+***	How are the sanctions determined?
+
+Commission Communication SEC (2005)1658 on the Application of [Art. 260 TFEU (then Art. 228 ECT)]
+(http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:52005SC1658:EN:HTML), as amended by SEC (2010) 923/3 Commission Communication - Application of Article 260 of the Treaty on the Functioning of the European Union. Up-dating of data used to calculate lump sum and penalty payments to be proposed by the Commission to the Court of Justice in infringement proceedings.
+
+These documents set out the ‘general principles’ as well as more detailed calculations for the fixing of sanctions. The Commission considers that:
+
+‘6. The fixing of the sanction must be based on the objective of the measure itself, that is to ensure effective application of [EU] law. The Commission considers the calculation should be based on three fundamental criteria:
+- the seriousness of the infringement,
+- its duration,
+- the need to ensure that the penalty itself is a deterrent to further infringements.’
+
+Further: 
+
+‘7. The sanctions proposed to the Court of Justice by the Commission must be foreseeable for the Member States and fixed using a method that respects both the principle of proportionality and the principle of equal treatment among the Member States. It is also important to have a clear and uniform method, because the Commission must justify its calculation of the amount to the Court.
+
+8. From the point of view of the effectiveness of the sanction, it is important to fix amounts that are appropriate in order to ensure their deterrent effect….
+
+10.2. The judgment of the Court of Justice in Case C-304/02 Commission v France confirmed that the two kinds of financial sanction (penalty and lump sum) can apply cumulatively for the same infringement, and applied this principle for the first time.
+
+10.3. In the light of this reasoning, the Commission will from now on include in its applications to the Court under [Art. 260] a specification of:
+– a penalty by day of delay after the delivery of the judgment under [Art. 260], and
+– a lump sum penalising the continuation of the infringement between the first judgment on non-compliance and the judgment delivered under [Art. 260].
+
+10.4. Equal treatment of Member States is best guaranteed by proposing a lump sum and a penalty payment, based on a predetermined and objective method for the calculation of the sanctions proposed. This systematic and objective approach has, since 1996, governed the practice of the Commission and the Court when proposing and fixing penalties under [Art. 260], and has proved to be effective and fair. Use of the lump sum payment should logically follow a similar approach.
+
+10.5 In addition, the Commission does not exclude the possibility, in very specific cases, of recourse to the lump sum alone.’
+
+III. Fixing the amount of the penalty payment
+
+14. The penalty to be paid by the Member State is the amount, calculated in principle by day of delay – without prejudice to any different reference period in specific cases (see point 13.3) – penalising non-compliance with a judgment of the Court, the penalty running from the day when the second judgment of the Court was served on the Member State concerned up to that on which the Member State brings the infringement to an end.
+
+The amount of the daily penalty payment is calculated as follows:
+– multiplication of a standard flat-rate amount by a coefficient for seriousness and a coefficient for duration,
+– multiplication of the result obtained by an amount fixed by country (the “n” factor) taking into account the capacity of the Member State to pay and the number of votes it has in the Council.
+
+A.	Fixing the Standard Flat-Rate Amount
+
+15. The standard flat-rate amount is defined as the fixed basic amount to which the multiplier coefficients are applied. It penalises the violation of the principle of legality and the failure to comply with the judgments of the Court, which applies in all cases under Article 228. It has been calculated so that:
+- the Commission retains a broad margin of discretion when applying the coefficient for seriousness,
+- the amount is reasonable and viable for all Member States,
+- the amount, multiplied by the coefficient for seriousness, should be high enough to maintain sufficient pressure on whichever Member State is concerned.
+It is fixed at EUR [640] per day…
+
+16.4. The effects of infringements on general or particular interests should be measured on a case-by-case basis, taking into account, for example:
+– the loss of [EU] own resources,
+– the impact of the infringement on the way the [EU] functions,
+– serious or irreparable damage to human health or the environment,
+– economic or other harm suffered by individuals and economic operators, including intangible consequences, such as personal development,
+– the financial sums involved in the infringement,
+– any possible financial advantage that the Member State gains from not complying with the judgment of the Court,
+– the relative importance of the infringement taking into account the turnover or added value of the economic sector concerned in the Member State in question,
+– the size of the population affected by the infringement (the degree of seriousness could be considered less if the infringement does not concern the whole of the Member State in question),
+– the [EU]’s responsibility with respect to non-member countries,
+– whether the infringement is a one-off or a repeat of an earlier infringement (for example, repeated delay in transposing directives in a certain sector).
+
+16.5. Moreover, when taking the interests of individuals into account for the purpose of calculating the amount of a penalty, the Commission does not set out to obtain redress for the damage and loss suffered as a result of an infringement, since such redress may be obtained by means of proceedings before the national courts. The Commission's purpose is rather to take into consideration the effects of an infringement from the point of view of the individuals or economic operators concerned; thus, for example, the effects are not the same if an infringement concerns a specific case of incorrect application (failure to recognise a qualification), or a failure to transpose a directive on the recognition of qualifications, which would undermine the interests of an entire profession.
+
+16.6. The seriousness of the infringement affects the basic lump sum by a coefficient of between a minimum of 1 and a maximum of 20.
+
+C. Application of the Co-efficient for Duration
+
+17. For the purpose of calculating the amount of the penalty payment, the period taken into account is the duration of the infringement from the date of the first Court judgment up to the date the Commission decides to refer the matter to the Court. This period will be taken into account by applying a multiplier to the standard lump sum.
+The duration of the infringement increases the basic lump sum by a multiplier of between 1 and 3, calculated at a rate of 0.10 per month from the date the [Art. 258 TFEU] judgment was delivered [16].
+The Court has confirmed that the duration of the infringement must be taken into account both for the penalty payment and for the lump sum payment, given the specific purpose of each kind of sanction.
+
+D. Taking into account Member State’s Ability to Pay
+
+18. The amount of the penalty payment should ensure that the sanction is both proportionate and dissuasive.
+The deterrent effect of the penalty has two aspects. The sanction must be sufficiently high to ensure that:
+– the Member State decides to rectify its position and bring the infringement to an end (it must therefore be higher than the benefit that the Member State gains from the infringement),
+– the Member State does not repeat the same offence.
+
+18.1. The deterrent effect is taken into account by an “n” factor, defined as the geometric mean based, in part, on the gross domestic product (GDP) of the Member State in question and, in part, on the weighting of voting rights in the Council [18]. As a result, the “n” factor in effect combines the capacity to pay of each Member State – represented by its GDP – with the number of votes it has in the Council. The resulting formula produces reasonable divergence of 0.36 to 25.40 between the various Member States.
+The “n” factor is: 
+Germany: 21.44 
+Estonia:  0.64 
+Greece: 4.27 
+Spain: 13.66
+France: 18.96 
+Ireland: 2.84 
+Italy: 17.00 
+Luxembourg: 1.00 
+Portugal: 3.56 
+Slovakia: 1.70 
+Sweden: 4.57
+United Kingdom: 18.31 
+
+18.2. In order to calculate the amount of the daily penalty payment to be applied to a Member State, the result obtained by applying the coefficients for seriousness and duration to the standard flat-rate amount is multiplied by the “n” factor (invariable) of the Member State in question. … 
+
+20. Every time it refers a case to the Court of Justice under [Art. 260] the Commission will propose at least a fixed lump sum payment, determined for each Member State according to the “n” factor, irrespective of the result of the calculation described in points 21 to 24.
+This fixed minimum base reflects the principle that any case of persistent non-compliance with a Court judgment by a Member State, irrespective of any aggravating circumstances, in itself represents an attack on the principle of legality in a [EU] governed by the rule of law, which calls for a real sanction. The fixed minimum base also avoids the proposal of purely symbolic amounts which would have no deterrent effect and could undermine, rather than strengthen, the authority of Court judgments.
+The minimum lump sum is set at:
+Belgium 		2 707 000 
+Bulgaria		  777 000
+Czech Republic 	1 773 000 
+Denmark 		1 700 000 
+Germany 		11 323 000 
+Estonia 		337 000 
+Ireland			1 501 000
+Greece 			2 255 000 
+Spain 			7 215 000 
+France 			10 008 000 
+Ireland 			1 570 000 
+Italy 			8 974 000 
+Cyprus 			350 000 
+Latvia 			405 000 
+Lithuania 		632 000 
+Luxembourg 		528 000 
+Hungary 		1 498 000 
+Malta 			174 000 
+Netherlands 		3 704 000 
+Austria 			2 284 000 
+Poland 			4 163 000 
+Portugal 		1 881 000 
+Romania		1 862 000
+Slovenia 		513 000 
+Slovakia 		896 000 
+Finland 			1 511 000 
+Sweden 		2 411 000 
+United Kingdom 	9 666 000 
+Note: the standard flat-rate amount is currently set at EUR 640 per day.
+
+Case C-177/04 Commission v France [2006] ECR -2461
+
+Case C-70/06 Commission v Portugal [2008] ECR I-1… and the latest twist: Case T-33/09 Portugal v Commission, judgment of 29 March 2011… appeal pending: Case C-292/11 P Commission v Portugal.
+
+***	How are the sanctions applied? 
+
+Case C-387/97 Commission v Greece (re: toxic waste) [2000] ECR I-5047:
+
+“89. It should be stressed that these suggestions of the Commission cannot bind the Court. It is expressly stated in the third paragraph of [Art. 260(2) TFEU] that the Court, if it 'finds that the Member State concerned has not complied with its judgment ... may impose a lump sum or a penalty payment on it. However, the suggestions are a useful point of reference. 
+
+90. First, since the principal aim of penalty payments is that the Member State should remedy the breach of obligations as soon as possible, a penalty payment must be set that will be appropriate to the circumstances and proportionate both to the breach which has been found and to the ability to pay of the Member State concerned. 
+
+91. Second, the degree of urgency that the Member State concerned should fulfil its obligations may vary in accordance with the breach. 
+
+92. In that light, and as the Commission has suggested, the basic criteria which must be taken into account in order to ensure that penalty payments have coercive force and [EU] law is applied uniformly and effectively are, in principle, the duration of the infringement, its degree of seriousness and the ability of the Member State to pay. In applying those criteria, regard should be had in particular to the effects of failure to comply on private and public interests and to the urgency of getting the Member State concerned to fulfil its obligations.”
+
+Case C-304/02 Commission v France (re: fisheries) [2005] ECR I-6263:
+
+80. The procedure laid down by [Art. 260(2) TFEU] has the objective of inducing a defaulting Member State to comply with a judgment establishing a breach of obligations and thereby of ensuring that [EU] law is in fact applied. The measures provided for by that provision, namely a lump sum and a penalty payment are both intended to achieve this objective.
+
+81. … While the imposition of a penalty payment seems particularly suited to inducing a member State to put an end as soon as possible to a breach of obligations which, in the absence of such a measure, would tend to persist, the imposition of a lump sum is based more on assessment of the effects on public and private interests of the failure of the Member State concerned to comply with its obligations, in particular where the breach has persisted for a long period since the judgment which initially established it. 
+82. … recourse to both types of penalty provided for in [Art. 260(2) TFEU] is not precluded, in particular where the breach of obligations both has continued for a long period and is inclined to persist.
+
+- Communication by the Commission on the Implementation of Article 260(3) TFEU, [2011] OJ C 12/1.
+
+Further reading 
+
+Jack, B., ‘Article 260(2) TFEU: An Effective Judicial Procedure for the Enforcement of 
+	Judgments?’, (2013) 19 ELJ 404. 
+P Wenneras, ‘Sanctions against Member States under Article 260 TFEU: Alive, but not 	Kicking?’ 49 CMLRev (2012) 145.
+Kilbey, 'Financial Penalties under Art 228(2) EC: Excessive Complexity' (2007) 43 CMLRev 743.
+Bonnie, ‘Commission discretion under Article 171 (2) EC’ (1998) 23 ELRev, 537 
+European Ombudsman, Annual Report: 
+http://www.ombudsman.europa.eu/activities/annualreports.faces 
+(A long document only parts of which are relevant for Art. 258 TFEU)
+Harlow and Rawlings, ‘Accountability and Law Enforcement: The Centralized EU Infringement Procedure’, (2006) 31 ELRev 447.
+Wenneras, ‘A New Dawn for Commission Enforcement under Arts 226 and 228 EC: General and Persistent (GAP) Infringements, Lump Sums, and Penalty Payments’, (2006) 43 CMLRev 31.
+Taborowski, M., ‘Infringement proceedings and non-compliant national courts’, (2012) 49 CMLRev 1881
+
+
+
+
+LECTURE 9	 	Preliminary references – Art 267
+TFEU
+
+MAIN READING
+
+Craig and de Burca, Ch. 13.
+
+***	Article 267 TFEU:
+
+	The Court of Justice of the European Union shall have jurisdiction to give preliminary rulings concerning:
+
+(a) the interpretation of the Treaties;
+
+(b) the validity and interpretation of acts of the institutions, bodies, offices or agencies of the Union;
+
+Where such a question is raised before any court or tribunal of a Member State, that court or tribunal may, if it considers that a decision on the question is necessary to enable it to give judgment, request the Court to give a ruling thereon.
+
+Where any such question is raised in a case pending before a court or tribunal of a Member State against whose decisions there is no judicial remedy under national law, that court or tribunal shall bring the matter before the Court.
+
+If such a question is raised in a case pending before a court or tribunal of a Member State with regard to a person in custody, the Court of Justice of the European Union shall act with the minimum of delay.
+
+Case 35/76 Simmenthal v Ministero delle Finanze [1976] ECR 1871:
+	
+4. Article [267 TFEU] is based on a distinct separation of functions between national courts and tribunals on the one hand and the Court of Justice on the other hand and it does not give the Court jurisdiction to take cognizance of the facts of the case, or to criticize the reasons for the reference. 
+
+The Court is entitled to pronounce on the interpretation of the Treaty and of acts of the institutions but cannot apply them to the case in question since such application falls within the jurisdiction of the national court. 
+
+***	Which questions may be referred pursuant to Article 267 TFEU?
+
+Joined Cases C-297/88 and C-197/89 Drodzi v Belgium [1990] ECR I-3763. 
+
+“36 It does not appear either from the wording of Article [267 TFEU]  or from the aim of the procedure introduced by that article that the authors of the Treaty intended to exclude from the jurisdiction of the Court requests for a preliminary ruling on a Community provision in the specific case where the national law of a Member State refers to the content of that provision in order to determine rules applicable to a situation which is purely internal to that State. 
+
+37. On the contrary, it is manifestly in the interest of the Community legal order that, 
+in order to forestall future differences of interpretation, every Community provision should be given a uniform interpretation irrespective of the circumstances in which it 
+is to be applied . 
+
+38. Since the jurisdiction of the Court under Article [267 TFEU] is designed to ensure uniform interpretation in all Member States of the provisions of Community law, the Court merely deduces from the letter and the spirit of those provisions the meaning of the Community rules at issue . Thereafter it is for the national courts alone to apply the Community provisions thus interpreted in the light of the factual and legal circumstances of the case before them. 
+
+39. Consequently, in accordance with the division of judicial tasks between the national courts and the Court of Justice pursuant to Article [267 TFEU], the Court gives its preliminary ruling without, in principle, having to look into the circumstances in which the national courts were prompted to submit the questions and envisage applying the provision of Community law which they have asked the Court to interpret. 
+
+40. The matter would be different only if it were apparent either that the procedure provided for in Article [267 TFEU] had been diverted from its true purpose and sought in fact to lead the Court to give a ruling by means of a contrived dispute, or that the provision of Community law referred to the Court for interpretation was manifestly incapable of applying”.
+
+Case C-28/95 Leur-Bloem v Inspecteur der Belastingdienst/Ondernemingen 
+Amsterdam 2 [1997] ECR I-4161:
+
+“32. In those circumstances, where in regulating internal situations, domestic legislation adopts the same solutions as those adopted in Community law in order, in particular, to avoid discrimination against foreign nationals or, as in the case before the national court, any distortion of competition, it is clearly in the Community interest that, in order to forestall future differences of interpretation, provisions or concepts taken from Community law should be interpreted uniformly, irrespective of the circumstances in which they are to apply”. 
+
+Joined Cases C-261/07 and C-299/07 VTB-VAB NV v Total Belgium NV and Galatea BVBA v Sanoma Magazines Belgium NV [2009] ECR I-2949: 
+39 … from the date upon which a directive has entered into force, the courts of the Member States must refrain as far as possible from interpreting domestic law in a manner which might seriously compromise, after the period for transposition has expired, attainment of the objective pursued by that directive… 
+40 Since the Directive had already entered into force at the time of the facts in the main proceedings, the interpretation sought …. which relates to crucial provisions of the Directive, must be regarded as being useful to that court for the purpose of enabling it to rule in the case before it in compliance with that obligation to refrain. 
+***	Which questions may not be referred?
+
+ - Article 275 TFEU 
+
+The Court of Justice of the European Union shall not have jurisdiction with respect to the provisions relating to the common foreign and security policy nor with respect to acts adopted on the basis of those provisions.
+
+However, the Court shall have jurisdiction to monitor compliance with Article 40 of the Treaty on European Union and to rule on proceedings, brought in accordance with the conditions laid down in the fourth paragraph of Article 263 of this Treaty, reviewing the legality of decisions providing for restrictive measures against natural or legal persons adopted by the Council on the basis of Chapter 2 of Title V of the Treaty on European Union.
+
+ - Article 276 TFEU 
+
+In exercising its powers regarding the provisions of Chapters 4 and 5 of Title V of Part Three relating to the area of freedom, security and justice, the Court of Justice of the European Union shall have no jurisdiction to review the validity or proportionality of operations carried out by the police or other law-enforcement services of a Member State or the exercise of the responsibilities incumbent upon Member States with regard to the maintenance of law and order and the safeguarding of internal security.
+
+***	What is “a court or tribunal” pursuant to Article 267 TFEU?
+
+Case 246/80 Broekmeulen v Huisarts Registratie Commissie [1981] ECR 2311.
+
+Case 14/86 Pretore di Salo v Persons Unkown [1987] ECR 2445.
+
+Case 102/81 Nordsee v Reederei Mond [1982] ECR 1095.
+
+Case C-54/96 Dorsch Consult Ingenieurgesellschaft v Bundesbaugesellschaft Berlin [1997] 
+ECR I-4961: 
+
+“23. In order to determine whether a body making a reference is a court or tribunal for the purposes of Article [267 TFEU] , which is a question governed by Community law alone, the Court takes account of a number of factors, such as whether the body is established by law, whether it is permanent, whether its jurisdiction is compulsory, whether its procedure is inter partes, whether it applies rules of law and whether it is independent ...”.
+
+Case C-53/03 SYFAIT et als v GlaxoSmithKline plc [2005] ECR I-4609.
+
+An important, and controversial, recent judgment on this issue is Case C-196/09 Paul Miles and Others v European Schools, judgment of 14 June 2011 (discussed in Tutorial 8).
+
+Further reading:
+Editorial: ‘Goldilocks Europe’ (2011) 34(4) European Law Review 455
+
+***	What is the scope of the discretion conferred by Article 267 (2) TFEU ?
+
+Case 166/73 Rheinmuehlen v Einfuhr-und Vorratsstelle Getreide [1974] ECR 33. 
+
+	‘4…. national courts have the widest discretion in referring matters to the Court of Justice if they consider that a case pending before them raises questions involving interpretation, or consideration of the validity, of provisions of Community law, necessitating a decision on their part. It follows from these factors that a rule of national law whereby a court is bound on points of law by the rulings of a superior court cannot deprive the inferior courts of their power to refer to the Court questions of interpretation of Community law involving such rulings. It would be otherwise if the questions put by the inferior court were substantially the same as questions already put by the superior court. On the other hand, the inferior court must be free, if it considers that the ruling on law made by the superior court could lead it to give a judgment contrary to Community law, to refer to the Court questions which concern it. If inferior courts were bound without being able to refer matters to the Court, the jurisdiction of the latter to give preliminary rulings and the application of Community law at all levels of the judicial systems of the Member States would be compromised. 
+
+- Joined Cases 36 and 71/80 Irish Creamery Milk Suppliers Association v Ireland [1981] ECR 	735:
+
+“6. The need to provide an interpretation of Community law which will be of use to the national court makes it essential ... to define the legal context in which the interpretation requested should be placed. From that aspect it might be convenient, in certain circumstances, for the facts of the case to be established and for questions of purely national law to be settled at the time the reference is made to the Court of Justice so as to enable the latter to take cognizance of all the features of fact and of law which may be relevant to the interpretation of Community law which it is called upon to give. 
+
+7. However, those considerations do not in any way restrict the discretion of the national court, which alone has a direct knowledge of the facts of the case and of the arguments of the parties, which will have to take responsibility for giving judgment in the case and which is therefore in the best position to appreciate at what stage in the proceedings it requires a preliminary ruling from the Court of Justice.
+       
+8. Hence it is clear that the national court’s decision when to make a reference under Article [234] must be dictated by considerations of procedural organization and efficiency to be weighted by that court”.
+
+ - Case C-173/09 Georgi Ivnov Elchinov, judgment of 5 October 2010:
+
+	30. ... the national court, having exercised the discretion conferred on it by the second paragraph of Article 267 TFEU, is bound, for the purposes of the decision to be given in the main proceedings, by the interpretation of the provisions at issue given by the Court and must, if necessary, disregard the rulings of the higher court if it considers, having regard to that interpretation, that they are not consistent with European Union law.
+
+- Case 194/79 Pasquale Foglia v Mariella Novello [1980] ECR 745. 
+	
+	‘11. The duty of the Court of Justice under Article [267 TFEU] is to supply all courts in the Community with the information on the interpretation of Community law which is necessary to enable them to settle genuine disputes which are brought before them. A situation in which the Court was obliged by the expedient of arrangements like those described above to give rulings would jeopardize the whole system of legal remedies available to private individuals to enable them to protect themselves against tac provisions which are contrary to the Treaty. 
+
+- Case 244/80 Pasquale Foglia v Mariella Novello (No 2) [1981] ECR 3045:
+	 
+	Whilst, according to the intended role of Article [267 TFEU], an assessment of the need to obtain an answer to the questions of interpretation raised, regard being had to the circumstances of fact and law involved in the main action, is a matter for the national court it is nevertheless for the Court of justice, in order to confirm its own jurisdiction, to examine, where necessary, the conditions in which the case has been referred to it by the national court. 
+
+- Case C-83/91 Weinand Meilicke v ADV/ORGA F.A. Meyer AG [1992] ECR I-4871.
+
+- Joined Cases C-320-2/90 Telemarsicabruzzo SpA and others v Circostel and others 
+[1993] ECR I-393.
+
+5 It must be pointed out that the need to provide an interpretation of Community law which will be of use to the national court makes it necessary that the national court define the factual and legislative context of the questions it is asking or, at the very least, explain the factual circumstances on which those questions are based. ….
+
+8 Although the Court has been provided with some information by the file submitted by the national court and the written observations, as is clear from the Report for the Hearing, and by the oral observations of the parties at the hearing, that information is fragmentary and does not enable the Court, in the absence of adequate knowledge of the facts underlying the main proceedings, to interpret the Community competition rules in the light of the situation at issue, as it has been requested to do by the national judge. 
+
+9 In those circumstances, there is no need to give a decision on the questions submitted by the Vice Pretore of Frascati. 
+
+Case C-157/92 Pretore di Genova v Banchero [1993] ECR I-1085.
+
+Case C-386/92 Monin Automobiles I [1993] ECR I-2049.
+***	What does a preliminary reference look like?
+Note for Guidance on References by National Court for Preliminary Rulings [1977] CMLR 78, (1997) 22 ELRev 55, (1997) 34 CMLRev 1319:
+
+“6. The order for reference should contain a statement of reasons which is
+succinct but sufficiently complete to give the Court, and those to whom it must 
+be notified (the Member States, the Commission and in certain cases the 
+Council and the European Parliament), a clear understanding of the factual 
+and legal context of the main proceedings….
+-	
+The aim should be to put the Court of Justice in a position to give the national court an answer which will be of assistance to it.
+
+The order for reference should also be accompanied by copies of any document needed for a proper understanding of the case, especially the text of the applicable national provisions. However, as the case-file or documents annexed to the power for references are not always translated in full into the other official languages of the Community, the national court should ensure that the order for reference itself included all the relevant information….
+
+8. A national court or tribunal may refer a question to the Court of Justice as soon as it finds that a ruling on the point or points of interpretation or validity is necessary to enable it to give judgment. It must be stressed, however, that it is not for the Court of Justice to decide issues of fact or to resolve disputes as to the interpretation or application of rules of national law. It is therefore desirable that a decision to refer should not be taken until the national proceedings have reached a stage where the national court is able to define, if only as a working hypothesis, the factual and legal context of the question; on any view, the administration of justice is likely to be best served if the reference is not made until both sides have been heard.
+
+Information note on references from national courts for a preliminary ruling (2009/C 297/01) 
+(http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2009:297:0001:0006:EN:PDF)
+
+20. The decision by which a national court or tribunal refers a question to the Court of Justice for a preliminary ruling may be in any form allowed by national law as regards procedural steps. It must however be borne in mind that it is that document which serves as the basis of the proceedings before the Court and that it must therefore contain such information as will enable the latter to give a reply which is of assistance to the national court. Moreover, it is only the actual reference for a preliminary ruling which is notified to the interested persons entitled to submit observations to the Court, in particular the Member States and the institutions, and which is translated.
+
+21.Owing to the need to translate the reference, it should be drafted simply, clearly and precisely, avoiding superfluous detail.
+
+22. A maximum of about 10 pages is often sufficient to set out in a proper manner the context of a reference for a preliminary ruling. The order for reference must be succinct but sufficiently complete and must contain all the relevant information to give the Court and the interested persons entitled to submit observations a clear understanding of the factual and legal context of the main proceedings. …
+
+23. …[T]he referring court may, if it considers itself able, briefly state its view on the answer to be given to the questions referred for a preliminary ruling.
+
+24. The question or questions themselves should appear in a separate and clearly identified section of the order for reference, generally at the beginning or the end. It must be possible to understand them without referring to the statement of the grounds for the reference, which will however provide the necessary background for a proper assessment.’
+
+***	Which courts are under a duty to refer? 
+
+Case C-99/00 Lyckeskog [2002] ECR I-4839:
+
+19. …. where the decisions of a national court or tribunal can be appealed to the supreme court under conditions such as those that apply to decisions of the referring court in the present case, that court or tribunal is not under the obligation referred to in the third paragraph of Article [267 TFEU].
+
+***	What is the scope of the duty imposed under Article 267 (3) TFEU?
+
+Case 107/76 Hoffmann-La Roche v Centrafarm [1977] ECR 957:
+	
+“5. In the context of Article [267 TFEU], whose purpose is to ensure that Community law is interpreted and applied in a uniform manner in all the Member States, the particular objective of the third paragraph is to prevent a body of national case-law not in accord with the rules of Community law from coming into existence in any Member State”.
+
+Joined Cases 28-30/62 Da Costa [1963] ECR 31. 
+
+Case 182/81 CILFIT [1982] ECR 3415.
+
+***	At the other end of the spectrum
+
+Commissioners of Customs and Excise v Samex ApS [1983] 3 CMLR 194, 210-211, 
+per Bingham, J:
+
+“Sitting as a judge in a national court, asked to decide questions of Community law, I am very conscious of the advantages enjoyed by the Court of Justice. It has a panoramic view of the Community and its institutions, a detailed knowledge of the Treaties and of much subordinate legislation made under them, and an intimate familiarity with the functioning of the Community market which no national judge denied the collective experience of the Court of Justice could hope to achieve. Where questions of administrative intention and practice arise the Court of Justice can receive submissions from the Community institutions, as also where relations between the Community and non-Member States are in issue. Where the interests of Member States are affected they can intervene to make their views known ... Where comparison falls to be made between Community texts in different languages, all texts being equally authentic, the multinational Court of Justice is equipped to carry out the task in a way which no national judge, whatever his linguistic skills, could rival. The interpretation of Community instruments involves very often not the process familiar to common lawyers of laboriously extracting the meaning from words used but the more creative process of applying flesh to a spare and loosely constructed skeleton. The choice between alternative submissions may turn not on purely legal considerations, but on a broader view of what the orderly development of the Community requires. These are matters which the Court of Justice is very much better placed to assess and determine than a national court”.
+
+***	What is the effect of an Article 267 TFEU judgment?
+
+Joined Cases C-231/06 to C-233/06 National Pensions Office v Jonkman and others, [2007] ECR I-5149.
+
+37 … under the principle of cooperation in good faith laid down in Article 10 EC, the Member States are required to nullify the unlawful consequences of a breach of Community law (Case C-201/02 Wells [2004] ECR I-723, paragraph 64, and the case-law cited).
+
+38 Therefore, following a judgment given by the Court on an order for reference from which it is apparent that national legislation is incompatible with Community law, it is for the authorities of the Member State concerned to take the general or particular measures necessary to ensure that Community law is complied within that state (see, to that effect, Wells, paragraphs 64 and 65, and Case C-495/00 Azienda Agricola Giorgio, Giovanni e Luciano Visentin and Others [2004] ECR I‑2993, paragraph 39). While they retain the choice of the measures to be taken, those authorities must in particular ensure that national law is changed so as to comply with Community law as soon as possible and that the rights which individuals derive from Community law are given full effect. 
+
+39 In addition, as the Court has repeatedly held in situations of discrimination contrary to Community law, for as long as measures reinstating equal treatment have not been adopted, observance of the principle of equality can be ensured only by granting to persons within the disadvantaged category the same advantages as those enjoyed by persons within the favoured category. In such a situation, a national court must set aside any discriminatory provision of national law, without having to request or await its prior removal by the legislature, and apply to members of the disadvantaged group the same arrangements as those enjoyed by the persons in the other category (Case C‑408/92 Avdel Systems [1994] ECR I‑4435, paragraphs 16 and 17; Case C‑442/00 Rodríguez Caballero [2002] ECR I‑11915, paragraphs 42 and 43, and Case C‑81/05 Cordero Alonso [2006] ECR I‑7569, paragraphs 45 and 46).
+
+40      A Member State is, moreover, required to make reparation for loss and damage caused to individuals as a result of breaches of Community law. Where the conditions for State liability are fulfilled, it is for the national court to apply that principle (see, inter alia, Case C‑66/95 Sutton [1997] ECR I-2163, paragraph 35, and Case C‑224/01 Köbler [2003] ECR I‑10239, paragraphs 51 and 52).
+
+***	Preliminary rulings on validity
+
+Case 314/85 Firma Foto-Frost v Hauptzollamt Lübeck-Ost [1987] ECR 4199. 
+
+	14. [National] courts may consider the validity of a Community act and, if they consider that the grounds put forward before them by the parties in support of invalidity are unfounded, they may reject them, concluding that the measure is completely valid. By taking that action they are not calling the existence of the Community measure into question. 
+
+15. On the other hand, those courts do not have the power to declare acts of the 
+Community institutions invalid. … the main purpose of the powers accorded to the Court by Article [267 TFEU] is to ensure that Community law is applied uniformly by national courts. That requirement of uniformity is particularly imperative when the validity of a Community act is in question. 
+
+Joined Cases C-143/88 and 92/89 Zückerfabrik Suderdithmarschen AG v Hauptzollamt 
+Itzehoe [1991] ECR I-415. 
+
+Case C-465/93 Atlanta Fruchthandelsgesellschaft I [1995] ECR I-3761.
+
+Case 461/03 Gaston Schul Douane-expediteur BV v Minister van Landbouw, Natuur en 
+Voedselkwalitei [2005] ECR I-10513:
+
+19     Nevertheless, the interpretation adopted in the Cilfit judgment, referring to questions of interpretation, cannot be extended to questions relating to the validity of Community acts. ,,,
+
+25     … the third paragraph of [Article 267 TFEU] requires a court or tribunal of a Member State against whose decisions there is no judicial remedy under national law to seek a ruling from the Court of Justice on a question relating to the validity of the provisions of a regulation even where the Court has already declared invalid analogous provisions of another comparable regulation. 
+
+***	The relationship between Articles 267 and 263 TFEU
+
+Case C-188/92 TWD Textilwerke Deggendorf GmbH v Germany [1994] ECR I-833.
+
+Case C-178/95 Wiljo NV v Belgian State [1997] ECR I-585. 
+
+***	Variations to the preliminary reference procedure 
+
+Under the previous Treaties (for instance, in relation to Visas, Asylum, Immigration and other policies related to free movement of workers, as well as Police and Judicial Cooperation in Criminal Matters) BUT Lisbon has repealed them, and maintains a single system, that set out in Article 267 TFEU. 
+
+***	National courts as European courts
+
+Opinion 1/09 on the European and Community Patents Court [2011] I-1137
+
+‘84.    The system set up by Article 267 TFEU therefore establishes between the Court of Justice and the national courts direct cooperation as part of which the latter are closely involved in the correct application and uniform interpretation of European Union law and also in the protection of individual rights conferred by that legal order.’
+
+Case C-62/14 Gauweiler ECLI:EU:C:2015:400:
+
+‘14  …  here, the request for a preliminary ruling concerns directly the interpretation and application of EU law, which means that the present judgment will have definitive consequences as regards the resolution of the main proceedings.
+
+15 In that regard, it should be observed that, according to settled case-law of the Court of Justice, Article 267 TFEU establishes a procedure for direct cooperation between the Court and the courts of the Member States (see, inter alia, judgments in SAT Fluggesellschaft, C‑364/92, EU:C:1994:7, paragraph 9, and ATB and Others, C‑402/98, EU:C:2000:366, paragraph 29). In that procedure, which is based on a clear separation of functions between the national courts and the Court, any assessment of the facts of the case is a matter for the national court, which must determine, in the light of the particular circumstances of the case, both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court (see, to that effect, inter alia, judgments in WWF and Others, C‑435/97, EU:C:1999:418, paragraph 31, and Lucchini, C‑119/05, EU:C:2007:434, paragraph 43), whilst the Court is empowered to give rulings on the interpretation or the validity of an EU provision only on the basis of the facts which the national court puts before it (judgment in Eckelkamp and Others, C‑11/07, EU:C:2008:489, paragraph 52).
+
+16 It must also be borne in mind that it is settled case-law of the Court that a judgment in which the latter gives a preliminary ruling is binding on the national court, as regards the interpretation or the validity of the acts of the EU institutions in question, for the purposes of the decision to be given in the main proceedings (see, inter alia, judgments in Fazenda Pública, C‑446/98, EU:C:2000:691, paragraph 49, and Elchinov, C‑173/09, EU:C:2010:581, paragraph 29).
+
+17 It follows that the Court must reply to the referring court’s request for a preliminary ruling’.
+
+
+Further reading:
+
+de la Mare, T. and Donnelly, C., 'Preliminary Rulings and EU Legal Integration: Evolution and 	Stasis' in De Burca, G. and Craig, P., The Evolution of EU Law (2nd ed., Oxford OUP, 	2011) 363. 
+Broberg, M. and Fenger, N., 'Preliminary References as a Right: But for Whom? The Extent to 	which Preliminary Reference Decisions can be Subject to Appeal', (2011) 36 ELRev 	276
+Bobek, M., ‘Learning to Talk: Preliminary Rulings, the Courts of the new Member States and 	the Court of Justice’, (2008) 45 CMLRev 1611.
+Broberg, M., 'Acte Claire revisited', (2008) 45 CMLRev 1383.
+Lenaerts, K., ‘The rule of law and the coherence of the judicial system of the European 
+Union’, (2007) 44 CMLRev 1625.
+Tridimas, T., ‘Knocking on Heaven’s Door: Fragmentation, Efficiency and Defiance 
+in the Preliminary Reference Procedure’, (2003) 40 CMLRev 9.  
+Koutrakos, ‘Speeding up the preliminary reference procedure – fast but not too fast’, (2008) 	33 ELRev 617.
+Koutrakos, ‘The Court of Justice as the guardian of national courts – or not?’ (2011) 36 
+	ELRev 319.
+Schwensfeier, ‘The TWD principle post-Lisbon’ 37 ELRev (2012) 156.
+Barnard, C., ‘The PPU: Is it Worth the Candle? An Early Assessment’, (2009) 34 ELRev 281.
+Komárek, 'In the court(s) we trust? On the need for hierarchy and differentiation in the 
+	preliminary ruling procedure' (2007) 32 CMLRev 467.
+Broberg, M. and Fenger, N., ‘Variations in Member States’ Preliminary References to the
+Court of Justice  - Are Structural Factors (Part of) the Explanation?’, (2013) 19 ELJ 488.
+Arnull, A., ‘Judicial Dialogue in the European Union’ in Dickson, J. and Eleftheriadis, P. (eds), 
+	Philosophical Foundations of European Union Law (OUP, 2012) 109.
+Snell, ‘Gauweiler: Some Institutional Aspects/, (2015) 40 ELRev 133.
+
+
+Lecture 10 	Action for annulment – Art 263 TFEU 
+
+
+MAIN READING
+
+Craig and de Burca, Ch. 14 
+
+***	Article 19 (1) TEU 
+
+The Court of Justice of the European Union shall include the Court of Justice, the General Court and specialised courts. It shall ensure that in the interpretation and application of the Treaties the law is observed.
+
+Member States shall provide remedies sufficient to ensure effective legal protection in the fields covered by Union law.
+
+***	Article 263 TFEU:
+
+The Court of Justice of the European Union shall review the legality of legislative acts, of acts of the Council, of the Commission and of the European Central Bank, other than recommendations and opinions, and of acts of the European Parliament and of the European Council intended to produce legal effects vis-à-vis third parties. It shall also review the legality of acts of bodies, offices or agencies of the Union intended to produce legal effects vis-à-vis third parties.
+
+It shall for this purpose have jurisdiction in actions brought by a Member State, the European Parliament, the Council or the Commission on grounds of lack of competence, infringement of an essential procedural requirement, infringement of the Treaties or of any rule of law relating to their application, or misuse of powers.
+
+The Court shall have jurisdiction under the same conditions in actions brought by the Court of Auditors, by the European Central Bank and by the Committee of the Regions for the purpose of protecting their prerogatives.
+
+Any natural or legal person may, under the conditions laid down in the first and second paragraphs, institute proceedings against an act addressed to that person or which is of direct and individual concern to them, and against a regulatory act which is of direct concern to them and does not entail implementing measures.
+
+Acts setting up bodies, offices and agencies of the Union may lay down specific conditions and arrangements concerning actions brought by natural or legal persons against acts of these bodies, offices or agencies intended to produce legal effects in relation to them.
+
+The proceedings provided for in this Article shall be instituted within two months of the publication of the measure, or of its notification to the plaintiff, or, in the absence thereof, of the day on which it came to the knowledge of the latter, as the case may be.
+
+***	Action for failure to act under Article 265 TFEU 
+
+Should the European Parliament, the European Council, the Council, the Commission or the European Central Bank, in infringement of the Treaties, fail to act, the Member States and the other institutions of the Union may bring an action before the Court of Justice of the European Union to have the infringement established. This Article shall apply, under the same conditions, to bodies, offices and agencies of the Union which fail to act.
+
+The action shall be admissible only if the institution, body, office or agency concerned has first been called upon to act. If, within two months of being so called upon, the institution, body, office or agency concerned has not defined its position, the action may be brought within a further period of two months.
+
+Any natural or legal person may, under the conditions laid down in the preceding paragraphs, complain to the Court that an institution, body, office or agency of the Union has failed to address to that person any act other than a recommendation or an opinion.
+
+***	What is an act under Article 263 TFEU?
+
+Case 22/70 Commission v Council (re: European Road Transport Agreement) [1971] 
+ECR 263. 
+
+“42. An action for annulment must ... be available in the case of all measures adopted by the institutions, whatever their nature or form, which are intended to have legal effects.”
+
+Case 60/81 IBM Corporation v Commission [1981] ECR 2639. 
+
+9 In order to ascertain whether the measures in question are acts within the meaning of Article [230] it is necessary … to look to their substance. … any measure the legal affects  of which are binding on, and capable of affecting the interests of the applicant by bringing about a distinct change in his legal position in an act or decision which may be the subject of an action under Article [230] for a declaration that it is void. 
+
+Case C-131/03 P Reynolds Tobacco Holdings and others v Commission [2006] ECR I-7795. 
+
+58 … the Court of First Instance rightly found, … , that although the commencement of proceedings constitutes an indispensable step for the purpose of obtaining a binding judgment it does not per se determine definitively the obligations of the parties to the case, so that, a fortiori, the decision to bring legal proceedings does not in itself alter the legal position in question.
+
+***	Why WAS the European Parliament a ‘semi privileged’ applicant in previous Treaties? 
+ 
+Case 302/87 European Parliament v Council (Comitology) [1988] ECR 5615. 
+Case 70/88 European Parliament v Council (Chernobyl) [1990] ECR I-2041.
+
+20. It follows from the foregoing that the existence of those various legal remedies is not sufficient to guarantee, with certainty and in all circumstances, that a measure adopted by the Council or the Commission in disregard of the Parliament' s prerogatives will be reviewed . 
+
+21 Those prerogatives are one of the elements of the institutional balance created by the Treaties. The Treaties set up a system for distributing powers among the different Community institutions, assigning to each institution its own role in the institutional structure of the Community and the accomplishment of the tasks entrusted to the Community. 
+
+22 Observance of the institutional balance means that each of the institutions must exercise its powers with due regard for the powers of the other institutions. It also requires that it should be possible to penalize any breach of that rule which may occur. 
+
+23 The Court, which under the Treaties has the task of ensuring that in the interpretation and application of the Treaties the law is observed, must therefore be able to maintain the institutional balance and, consequently, review the observance of the Parliament' s prerogatives when called upon to do so by the Parliament, by means of a legal remedy which is suited to the purpose which the Parliament seeks to achieve. 
+
+24 In carrying out that task the Court cannot, of course, include the Parliament among the institutions which may bring an action under Article [230] of the EEC Treaty or Article 146 of the Euratom Treaty without being required to demonstrate an interest in bringing an action. 
+
+25 However, it is the Court's duty to ensure that the provisions of the Treaties concerning the institutional balance are fully applied and to see to it that the Parliament's prerogatives, like those of the other institutions, cannot be breached without it having available a legal remedy, among those laid down in the Treaties, which may be exercised in a certain and effective manner. 
+
+***	What is the definition of a legal person?
+
+Case T-161/94 Sinochem Heilongjiang v Council [1996] ECR II-695.
+
+“31. It is settled law that, under the Community judicial system, an applicant is a legal person if, at the latest by the expiry of the period prescribed for proceedings to be instituted, it has acquired legal personality in accordance with the law governing its constitution ... or if it has been treated as an independent legal entity by the Community institutions ...”.
+
+***	What can an individual challenge under Article 263 TFEU:
+
+Joined Cases T-172/98 and T-175-7/98 Salamander AG and Others v Parliament and 
+	Council [2000] ECR II-2487.
+
+27. … the fourth paragraph of Article [230] of the Treaty makes no provision, for the benefit of individuals, for a direct action before the Community judicature challenging a directive. 
+
+28. Even if it were possible - contrary to the wording of the fourth paragraph of Article 
+[230] of the Treaty - for directives to be assimilated to regulations so that an action challenging a decision 'adopted in the form of a directive might be admissible, in the present case the Directive does not constitute a 'disguised decision and does not contain specific provisions which have the character of an individual decision as regards the applicants. Nor indeed have they claimed that the Directive did not comply as such with the requirements of Article [249] of the EC Treaty. It is in fact a normative measure, since it applies in a general and abstract manner to all economic operators in the Member States who, from 30 July 2001, fulfil the conditions it lays down, and since, furthermore, its application within the Member States requires its transposition into each national legal system by means of national implementing measures. 
+
+29. Moreover, even though a directive is in principle binding only on its addressees, the Member States, it is generally an indirect means of legislating or regulating. Indeed, the Court of Justice has repeatedly classified directives as measures having general scope…  In certain circumstances, however, even a legislative measure which applies to economic operators generally may be of direct and individual concern to some of them… 
+
+31. The Court must therefore ascertain whether the Directive affects the applicants 
+directly and individually
+
+Case C-10/95P Asocarne v Council [1995] ECR I-4149.
+42 … The contested directive concerns the latter only by reason of their objective status of economic agents active in the sector envisaged by the directive in question, in the same way as any other Community economic agent carrying on the same activity…
+
+Case C-298/89 Gibraltar v Council [1993] ECR I-3605.
+
+***	When is a private applicant individually concerned?
+
+Case 25/62 Plaumann & Co v Commission [1963] ECR 95. 
+
+“Persons other than those to whom a decision is addressed may only claim to be individually concerned if that decision affects them by reason of certain attributes which are peculiar to them or by reason of circumstances in which they are differentiated from all other persons and by virtue of these factors distinguishes them individually just as in the case of the person addressed.”
+
+Case 11/82 A.E. Piraiki-Patraiki v Commission [1985] ECR 207. 
+
+Joined Cases 106-7/63 Alfred Toepfer v Commission [1965] ECR 405. 
+
+***	When is a private applicant directly concerned? 
+
+Case 294/83 Parti Ecologiste “Les Verts” v European Parliament [1986] ECR 1339. 
+
+“31. The contested measures are of direct concern to the applicant association. They constitute a complete set of rules which are sufficient in themselves and which require no implementing provisions, since the calculation of the share of the appropriations to be granted to each of the political groupings concerned is automatic and leaves no room for any discretion”.
+
+Case 69/69 Alcan v Commission [1970] ECR 385. 
+
+***	Are there areas of activity where a more liberal approach has been applied?
+
+- Anti-dumping law:
+Case 264/82 Timex Corporation v Council and Commission [1985] ECR 849.
+
+-Competition law
+Case 26/76 Metro-SB-Grossmaerkte GmbH & Co KG v Commission [1977] ECR 
+1875.
+
+-State aids:
+Case 169/84 Compagnie Francaise de l’ Azote (COFAZ) SA v Commission [1986] 
+ECR 391.
+
+-Other cases
+
+Case 294/83 Parti Ecologiste “Les Verts” v Parliament [1986] ECR 1339, [1987] 2 
+CMLR 343.
+
+***	A tendency towards a more liberal approach to standing?
+
+Case C-309/89 Codorniu SA v Council [1994] ECR I-1853.
+
+“19. Although it is true that according to the criteria in the second paragraph of Article 173 of the Treaty the contested provision is, by nature and by virtue of its sphere of application, of a legislative nature in that it applies to the traders concerned in general, that does not prevent it from being of individual concern to some of them. 
+
+20. Natural or legal persons may claim that a contested provision is of individual concern to them only if it affects them by reason of certain attributes which are peculiar to them or by reason of circumstances in which they are differentiated from all other persons ...  
+
+21. Codorniu registered the graphic trade mark "Gran Cremant de Codorniu" in Spain in 1924 and traditionally used that mark both before and after registration. By reserving the right to use the term "crémant" to French and Luxembourg producers, the contested provision prevents Codorniu from using its graphic trade mark. 
+
+22. It follows that Codorniu has established the existence of a situation which from the point of view of the contested provision differentiates it from all other traders. 
+
+23. It follows that the objection of inadmissibility put forward by the Council must be dismissed”.
+
+***	Not for long … 
+
+Case C-209/94P Buralux and Others v Council [1996] ECR I-615. 
+
+24 It is settled case-law that the possibility of determining more or less precisely the number or even the identity of the persons to whom a measure, such as the contested provision of Regulation No 259/93, applies does not in any way imply that it must be regarded as being of individual concern to them, as long as it is established that such application takes effect by virtue of an objective legal or factual situation defined by the measure in question…  
+
+25 For such persons to be capable of being regarded as individually concerned, their legal position must be affected because of a factual situation which differentiates them from all other persons and distinguishes them individually in the same way as a person to whom a measure is addressed…  
+…………………..
+29 That finding is not negated by the fact that the appellants are practically the only operators who transport waste from Germany to France. A circumstance of that kind is not sufficient to differentiate the appellants from any other operator in the light of the contested provision, which deals generally with waste shipments between Member States without distinction.
+
+Case C-73/97P France v Comafrica and Others [1999] ECR I0185.
+
+40 …. as regards Comafrica's and Dole's plea in law that, if they were denied the right to challenge Regulation No 3190/93 before the Court of First Instance, they would have no effective legal remedy in respect of measures which determined their rights, it is sufficient to observe, … that an operator who considers his rights to have been infringed on the allocation of the reference quantity may bring an action before a national court against the measure whereby the competent authorities of the Member State concerned determined, pursuant to the second paragraph of Article 6 of Regulation No 1442/93, the quantity allocated to him. In the context of such an action, there is nothing to prevent him from challenging the validity of the Community regulation on which that measure was based.
+
+***	Calls for a more liberal approach to standing
+
+Case C-50/00 P Unión de Pequeňos Agricultores v Council [2002] ECR I-6677 - Opinion by 
+Advocate General Jacobs:
+
+59. The key to the problem of judicial protection against unlawful Community acts lies therefore, in my view, in the notion of individual concern laid down in the fourth paragraph of Article 230 EC. There are no compelling reasons to read into that notion a requirement that an individual applicant seeking to challenge a general measure must be differentiated from all others affected by it in the same way as an addressee. On that reading, the greater the number of persons affected by a measure the less likely it is that judicial review under the fourth paragraph of Article 230 EC will be made available. The fact that a measure adversely affects a large number of individuals, causing wide-spread rather than limited harm, provides however to my mind a positive reason for accepting a direct challenge by one or more of those individuals. 
+
+60. In my opinion, it should therefore be accepted that a person is to be regarded as individually concerned by a Community measure where, by reason of his particular circumstances, the measure has, or is liable to have, a substantial adverse effect on his interests. 
+
+Advantages of the suggested interpretation of the notion of individual concern 
+
+61. A development along those lines of the case-law on the interpretation of Article 230 EC would have several very substantial advantages. 
+
+62. First, if one rejects the solutions advanced by UPA and by the Council and Commission - and there are very strong reasons for doing so - it seems the only way to avoid what may in some cases be a total lack of judicial protection - a déni de justice. 
+
+63. Second, the suggested interpretation of the notion of individual concern would considerably improve judicial protection. By laying down a more generous test for standing for individual applicants than that adopted by the Court in the existing case-law, it would not only ensure that individual applicants who are directly and adversely affected by Community measures are never left without a judicial remedy; it would also allow issues of validity of general measures to be addressed in the context of the procedure which is best suited to resolving them, and in which effective interim relief is available. 
+
+64. Third, it would also have the great advantage of providing clarity to a body of case-law which has often, and rightly in my view, been criticised for its complexity and lack of coherence, and which may make it difficult for practitioners to advise in what court to take proceedings, or even lead them to take parallel proceedings in the national courts and the Court of First Instance. 
+
+65. Fourth, by ruling that individual applicants are individually concerned by general measures which affect them adversely, the Court of Justice would encourage the use of direct actions to resolve issues of validity, thus limiting the number of challenges raised via Article 234 EC. That would, as explained above, be beneficial for legal certainty and the uniform application of Community law. It may be noted in that regard that the TWD case-law - according to which an individual cannot challenge a measure via Article 234 EC where, although there was no doubt about his standing under the fourth paragraph of Article 230 EC, he omitted to take action within the time-limit laid down in the fifth paragraph of that Article - would, in my view, not normally extend to general measures. Individuals who were adversely affected by general measures would therefore not be precluded by that case-law from challenging such measures before national courts. None the less, if the notion of individual concern were interpreted in the way I have suggested, and standing for individuals accordingly liberalised, it may be expected that many challenges would be brought by way of direct action before the Court of First Instance. 
+
+66. A point of equal, or even greater, importance is that the interpretation of Article 230 EC which I propose would shift the emphasis of judicial review from questions of admissibility to questions of substance. While it may be accepted that the Community legislative process should be protected against undue judicial intervention, such protection can be more properly achieved by the application of substantive standards of judicial review which allow the institutions an appropriate margin of appreciation in the exercise of their powers than by the application of strict rules on admissibility which have the effect of blindly excluding applicants without consideration of the merits of the arguments they put forward. 
+
+67. Finally, the suggested interpretation of the notion of individual concern would remove a number of anomalies in the Court's case-law on judicial review. The most important anomalies arise from the fact that the Court has adopted different approaches to the notion of individual concern and to other provisions of Article 173 of the EEC Treaty (now, after amendment, Article 230 EC). 
+
+68. Thus, the Court has taken a generous view of the types of acts which are susceptible to review. Under the first paragraph of Article 173 of the EEC Treaty, the Court was originally competent to review acts of the Council and the Commission other than recommendations and opinions. Article 189 of the EEC Treaty (now Article 249 EC) defined binding Community acts as regulations, directives and decisions. It might have been thought, on the basis of those provisions, that the Court was only competent to review regulations, directives and decisions adopted by the Council or the Commission. However, in ERTA the Court was willing to review the legality of Council proceedings regarding the negotiation and conclusion by the Member States of an agreement on the working conditions of the crews of vehicles engaged in international road transport on the ground, essentially, that the purpose of the procedure for judicial review laid down in Article 173 of the EEC Treaty - which is to ensure observance of the law in the interpretation and application of the Treaty - would not be fulfilled unless it was possible to challenge all measures, whatever their nature or form, which are intended to have legal effects. In Les Verts the Court was asked to review two measures, adopted by the European Parliament, on the reimbursement of expenses incurred by parties taking part in the 1984 elections. In declaring that action admissible, it held that while Article 173 refers only to acts of the Council and the Commission ... an interpretation of [that provision] which excluded measures adopted by the European Parliament from those which could be contested would lead to a result contrary to both the spirit of the Treaty as expressed in Article 164 [now Article 220 EC] and to its system. 
+
+69. When deciding which institutions are entitled to bring proceedings for annulment under the Treaty, the Court has not adopted a strict reading of the Treaty text either. Prior to the entry into force of the Treaty on European Union, the first paragraph of Article 173 of the EEC Treaty provided that the Court had jurisdiction in actions brought by a Member State, the Council or the Commission. The absence of any reference to the European Parliament in that provision did not, however, prevent the Court from holding in Chernobyl that an action for annulment brought by the Parliament against an act of the Council or the Commission is admissible provided that the action seeks only to safeguard its prerogatives, for while [t]he absence in the Treaties of any provision giving the Parliament the right to bring an action for annulment may constitute a procedural gap, ... it cannot prevail over the fundamental interest in the maintenance and observance of the institutional balance laid down in the Treaties. 
+
+70. Similarly, when considering on what grounds the validity of Community measures adopted may be challenged, the Court held that although Article 173 of the EEC Treaty provided that the Court had jurisdiction in actions brought on grounds of infringement of this Treaty or of any rule of law relating to its application, the need for a complete and consistent review of legality require[d] that provision to be construed as not depriving the Court of jurisdiction to consider, in proceedings for the annulment of a measure based on a provision of the EEC Treaty, a submission concerning the infringement of a rule of the EAEC or ECSC Treaties. 
+
+71. The restrictive attitude towards individual applicants which the Court has adopted in the context of the fourth paragraph of Article 230 EC - and which it has, despite the extension of the powers of the Community by successive Treaty amendments, declined to reconsider - appears difficult to justify in the light of the cases decided under the other paragraphs of Article 173 of the EEC Treaty, where the Court has adopted a generous and dynamic interpretation of the Treaty, or even a position contrary to the text, to ensure that the evolution in the powers of the Community institutions does not undermine the rule of law and the institutional balance. 
+
+72. A further anomaly in this area arises from the fact that under Community law there are no restrictions on the standing of individuals to bring actions for damages under Articles 235 EC and 288 EC. The class of individuals capable of seeking damages for loss caused by Community measures is thus unlimited. In the context of the strict standing rules applied under the fourth paragraph of Article 230 EC, that seems paradoxical since damages actions will often involve, or effectively involve, challenges to the legality of general Community measures. Thus the Court of First Instance already has jurisdiction to review the legality of general measures in claims for damages (or on a plea of illegality under Article 241 EC) at the suit of an unlimited class of individuals.
+
+- Case T-177/01 Jégo-Quéré v Commission [2002] ECR II-2365
+
+47. On the basis of the foregoing, the inevitable conclusion must be that the procedures provided for in, on the one hand, Article 234 EC and, on the other hand, Article 235 EC and the second paragraph of Article 288 EC can no longer be regarded, in the light of Articles 6 and 13 of the ECHR and of Article 47 of the Charter of Fundamental Rights, as guaranteeing persons the right to an effective remedy enabling them to contest the legality of Community measures of general application which directly affect their legal situation. 
+…………………
+49. … as Advocate General Jacobs stated in point 59 of his Opinion in Unión de Pequeños Agricultores v Council …, there is no compelling reason to read into the notion of individual concern, within the meaning of the fourth paragraph of Article 230 EC, a requirement that an individual applicant seeking to challenge a general measure must be differentiated from all others affected by it in the same way as an addressee. 
+
+50. In those circumstances, and having regard to the fact that the EC Treaty established a complete system of legal remedies and procedures designed to permit the Community judicature to review the legality of measures adopted by the institutions (paragraph 23 of the judgment in Les Verts v Parliament, … , the strict interpretation, applied until now, of the notion of a person individually concerned according to the fourth paragraph of Article 230 EC, must be reconsidered. 
+
+51. In the light of the foregoing, and in order to ensure effective judicial protection for individuals, a natural or legal person is to be regarded as individually concerned by a Community measure of general application that concerns him directly if the measure in question affects his legal position, in a manner which is both definite and immediate, by restricting his rights or by imposing obligations on him. The number and position of other persons who are likewise affected by the measure, or who may be so, are of no relevance in that regard. 
+
+***	Calls rejected
+
+Case C-50/00 P Unión de Pequeňos Agricultores v Council [2002] ECR I-6677: 
+
+38. The European Community is, however, a community based on the rule of law in which its institutions are subject to judicial review of the compatibility of their acts with the Treaty and with the general principles of law which include fundamental rights. 
+
+39. Individuals are therefore entitled to effective judicial protection of the rights they derive from the Community legal order, and the right to such protection is one of the general principles of law stemming from the constitutional traditions common to the Member States. That right has also been enshrined in Articles 6 and 13 of the European Convention for the Protection of Human Rights and Fundamental Freedoms (see, in particular, Case 222/84 Johnston [1986] ECR 1651, paragraph 18, and Case C-424/99 Commission v Austria [2001] ECR I-9285, paragraph 45). 
+
+40. By Article 173 and Article 184 (now Article 241 EC), on the one hand, and by Article 177, on the other, the Treaty has established a complete system of legal remedies and procedures designed to ensure judicial review of the legality of acts of the institutions, and has entrusted such review to the Community Courts (see, to that effect, Les Verts v Parliament, paragraph 23). Under that system, where natural or legal persons cannot, by reason of the conditions for admissibility laid down in the fourth paragraph of Article 173 of the Treaty, directly challenge Community measures of general application, they are able, depending on the case, either indirectly to plead the invalidity of such acts before the Community Courts under Article 184 of the Treaty or to do so before the national courts and ask them, since they have no jurisdiction themselves to declare those measures invalid (see Case 314/85 Foto-Frost [1987] ECR 4199, paragraph 20), to make a reference to the Court of Justice for a preliminary ruling on validity. 
+
+41. Thus it is for the Member States to establish a system of legal remedies and procedures which ensure respect for the right to effective judicial protection. 
+
+42. In that context, in accordance with the principle of sincere cooperation laid down in Article 5 of the Treaty, national courts are required, so far as possible, to interpret and apply national procedural rules governing the exercise of rights of action in a way that enables natural and legal persons to challenge before the courts the legality of any decision or other national measure relative to the application to them of a Community act of general application, by pleading the invalidity of such an act. 
+
+43. As the Advocate General has pointed out in paragraphs 50 to 53 of his Opinion, it is not acceptable to adopt an interpretation of the system of remedies, such as that favoured by the appellant, to the effect that a direct action for annulment before the Community Court will be available where it can be shown, following an examination by that Court of the particular national procedural rules, that those rules do not allow the individual to bring proceedings to contest the validity of the Community measure at issue. Such an interpretation would require the Community Court, in each individual case, to examine and interpret national procedural law. That would go beyond its jurisdiction when reviewing the legality of Community measures. 
+
+44. Finally, it should be added that, according to the system for judicial review of legality established by the Treaty, a natural or legal person can bring an action challenging a regulation only if it is concerned both directly and individually. Although this last condition must be interpreted in the light of the principle of effective judicial protection by taking account of the various circumstances that may distinguish an applicant individually (see, for example, Joined Cases 67/85, 68/85 and 70/85 Van der Kooy v Commission [1988] ECR 219, paragraph 14; Extramet Industrie v Council, paragraph 13, and Codorniu v Council, paragraph 19), such an interpretation cannot have the effect of setting aside the condition in question, expressly laid down in the Treaty, without going beyond the jurisdiction conferred by the Treaty on the Community Courts. 
+
+45. While it is, admittedly, possible to envisage a system of judicial review of the legality of Community measures of general application different from that established by the founding Treaty and never amended as to its principles, it is for the Member States, if necessary, in accordance with Article 48 EU, to reform the system currently in force. 
+
+- Joined Cases T-377/00, T-379/00, T-380/00, T-260/01 and T-272/01 Philip Morris 
+International and others v Commission [2003] ECR II-1.
+
+124. Although it may seem desirable that individuals should have, in addition to the possibility of an action for damages, a remedy under which actions of the Community institutions liable to prejudice their interests but which do not amount to decisions may be prevented or brought to an end, it is clear that a remedy of that nature, which would necessarily involve the Community judicature issuing directions to the institutions, is not provided for by the Treaty. It is not for the Community judicature to usurp the function of the founding authority of the Community in order to change the system of legal remedies and procedures established by the Treaty (Joined Cases T-172/98 and T-175/98 to T-177/98 Salamander and Others v Parliament and Council [2000] ECR II-2487, paragraph 75). 
+
+- Case C-131/03 P Reynolds Tobacco Holdings and others v Commission [2006] ECR I-7795. 
+
+81 … although the requirement as to legal effects which are binding on, and capable of affecting the interests of, the applicant by bringing about a distinct change in his legal position must be interpreted in the light of the principle of effective judicial protection, such an interpretation cannot have the effect of setting aside that condition without going beyond the jurisdiction conferred by the Treaty on the Community courts (see, by analogy, Unión de Pequeños Agricultores v Council, paragraph 44, as regards the condition that the contested act must be of individual concern to the natural or legal person lodging an application).
+
+-Case C-362/06 P Markku Sahlstedt and others v Commission [2009] ECR I-2903: 
+
+36. … natural or legal persons who own land within the sites of Community interest adopted by the contested decision are not individually concerned by that decision.
+
+***	What is a ‘regulatory act not entailing implementing measures’?
+
+Article 289(3) TFEU:
+
+Legal acts adopted by legislative procedure shall constitute legislative acts.
+
+ - Article 290 (1) TFEU: 
+
+A legislative act may delegate to the Commission the power to adopt non-legislative acts of general application to supplement or amend certain non-essential elements of the legislative act.
+
+Case T-262/10 Microban International and Microban (Europe) v Commission [2011] ECR II-7697. 
+
+Case C-583 P Inuit ECLI:EU:C:2013:625:
+
+58      As regards the concept of ‘regulatory act’, it is apparent from the third limb of the fourth paragraph of Article 263 TFEU that its scope is more restricted than that of the concept of ‘acts’ used in the first and second limbs of the fourth paragraph of Article 263 TFEU, in respect of the characterisation of the other types of measures which natural and legal persons may seek to have annulled. The former concept cannot, as the General Court held correctly in paragraph 43 of the order under appeal, refer to all acts of general application but relates to a more restricted category of such acts. To adopt an interpretation to the contrary would amount to nullifying the distinction made between the term ‘acts’ and ‘regulatory acts’ by the second and third limbs of the fourth paragraph of Article 263 TFEU.
+
+59      Further, it must be observed that the fourth paragraph of Article 263 TFEU reproduced in identical terms the content of Article III-365(4) of the proposed treaty establishing a Constitution for Europe. It is clear from the travaux préparatoires relating to that provision that while the alteration of the fourth paragraph of Article 230 EC was intended to extend the conditions of admissibility of actions for annulment in respect of natural and legal persons, the conditions of admissibility laid down in the fourth paragraph of Article 230 EC relating to legislative acts were not however to be altered. Accordingly, the use of the term ‘regulatory act’ in the draft amendment of that provision made it possible to identify the category of acts which might thereafter be the subject of an action for annulment under conditions less stringent than previously, while maintaining ‘a restrictive approach in relation to actions by individuals against legislative acts (for which the “of direct and individual concern” condition remains applicable)’ (see, inter alia, Secretariat of the European Convention, Final report of the discussion circle on the Court of Justice of 25 March 2003, CONV 636/03, paragraph 22, and Cover note from the Praesidium to the Convention of 12 May 2003, CONV 734/03, p. 20).
+
+60      In those circumstances, it must be held that that the purpose of the alteration to the right of natural and legal persons to institute legal proceedings, laid down in the fourth paragraph of Article 230 EC, was to enable those persons to bring, under less stringent conditions, actions for annulment of acts of general application other than legislative acts.
+
+61      The General Court was therefore correct to conclude that the concept of ‘regulatory act’ provided for in the fourth paragraph of Article 263 TFEU does not encompass legislative acts.
+
+***	Do representative bodies have standing under Art 263 TFEU?
+
+Case T-122/96 Federolio v Commission [1997] ECR II-1559
+
+“60. As regards ... actions brought by associations, these have been held to be admissible in at least three types of situation, namely
+(a)	where a legal provision expressly grants trade associations a series of procedural rights ...;
+(b)	where the association represents the interests of undertakings which could be entitled to bring proceedings in their own right ...’
+(c)	where the association is differentiated because its own interests as an association are affected, in particular because its position as negotiator is affected by the measure which it seeks to have annulled ...
+
+61. In those three situations, the Court of Justice and the Court of First Instance have also taken into account the participation of the association in question in the procedure”.
+
+Case C-362/06 P Markku Sahlstedt and others v Commission [2009] ECR I-2903.
+
+“35. … the defence of the general and collective interests of a category of persons is not sufficient to establish the admissibility of an action for annulment brought by an association. In the absence of special circumstances, such as the role which it could have played in a procedure leading to the adoption of the measure in question, such an association is not entitled to bring an action for annulment on behalf of its members where the latter cannot do so individually.”
+
+***	Grounds of review
+
+Article 263 subparagraph 2 TFEU: 
+
+- lack of competence; 
+- infringement of an essential procedural requirement; 
+- infringement of this Treaty or of any rule of law relating to its application (link with general principles of law in lecture 9); 
+- or misuse of powers.
+
+***	Time limits
+
+Article 102(1), Rules of Procedure of the Court of First Instance:
+	
+“The period of time allowed for commencing proceedings against a measure adopted by an institution shall run from the day following the receipt by the person concerned of notification of the measure or, where the measure is published, from the 15th day after publication thereof in the Official Journal of the European Communities”. 
+
+Joined Cases T-121/96 and T-151/96 Mutual Aid administration Services NV v Commission 	[1997] ECR II-1355, para. 38:
+
+	“It is settled case-law that the time-limit prescribed for bringing actions under Article 
+[230] of the Treaty is a matter of public policy and is not subject to the discretion of 
+the parties of the Court, since it was established in order to ensure that legal positions 
+are clear and certain and to avoid any discrimination or arbitrary treatment in the 
+administration of justice…”.
+
+***	The effect of annulment 
+
+Art 264 TFEU:
+
+	‘If the action is well founded, the Court of Justice shall declare the act concerned to 	be void.
+
+	In the case of a regulation, however, the Court of Justice shall, if it considers this 	necessary, state which of the effects of the regulation which it has declared void shall 	be considered as definitive’. 
+
+Further reading:
+
+Balthasar, S., 'Locus Standi Rules for Challenges to Regulatory Acts by Private Applicants: 
+	The New Article 263(4) TFEU', (2010) 34 ELRev 542.
+Barents, R., 'The Court of Justice after the Treaty of Lisbon', (2010) 47 CMLRev 709
+Tridimas, T. and Poli, S., 'Locus Standi of Individuals under Article 230 (4): The Return of 
+	Euridice?' in Arnull, A., Eeckhout, P. and Tridimas, T. (eds), Continuity and Change in 
+	EU Law  - Essays in Honour of Sir Francis Jacobs (Oxford: OUP, 2008), 70
+Arnull, The European Union and its Court of Justice (2nd ed 2006), Ch. 3.
+Albors-Llorens, ‘Judicial Protection before the Court of Justice of the European Union’ in
+ Barnard and Peers (eds), European Union Law (2014, OUP) 255 (pp1 255-288 are
+ relevant to this lecture)
+‘Sealing the Fate of Private Parties in Annulment Proceedings: The
+General Court and the New Standing Test in Article 263(4) TFEU’ 71 Cambridge Law Journal [2012] 52.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lecture 11 	Revision 
+
+The aim of this lecture is twofold. First, to identify the threads which bring together the different aspects of EU law we have examined so far, and to point out the ways in which EU law has an impact on our every day life and it is inextricably linked to national law. 
+
+Second, this will be a revision lecture. I shall invite you in advance to identify topics and issues which you find complex and shall try to clarify them in class. 
+

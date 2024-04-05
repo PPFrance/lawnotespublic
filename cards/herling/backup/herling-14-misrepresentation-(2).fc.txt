@@ -1,0 +1,315 @@
+META filename herling-14-misrepresentation-(2).fc.txt
+
+
+
+
+
+NAME Misrepresentation (2) - Table of Contents
+TYPE Table of Contents
+CATEGORY Misrepresentation (2)
+SUMMARY ~*Introduction*~
+SUMMARY ~*Misreprentation Act  1967*~
+/ *Fradulent Misrepresentation*
+@|Derry v Peek| -- |Doyle v Olby (Ironmngers) Ltd| -- |East v Maurer|
+/ *Negligent Misrepresentation*
+@|Howard Marine & Dredging Co Ltd v A Ogden & Sons (Excavation) Ltd| -- |Royscot Trust v Rogerson| -- |Gran Gelato Ltd v Richcliff (Group) Ltd|
+/ *Innocent Misrepresentation*
+@|Whittington v Seale-Hayne|
+/ *Rescission*
+/ *Rescission Generally*
+@|Car & Universal Finance Co Ltd v Caldwell| -- |William Sindall plc v Cambridgeshire County Council|
+/ *Common Law Bars to Rescission*
+/ *Exemption of Liability For Misrepresentation*
+@|SPearson & Son Ltd v Dublin Corporation| -- |Overbrooke Estates Ltd v Glencombe Properties Ltd| -- |Cremdean v Nash|
+/ *Beyond Section 3*
+
+
+
+
+NAME Misrepresentation (2) - Introduction
+TYPE Concept
+CATEGORY Misrepresentation (2)
+SUMMARY ~*Introduction*~
+/->-The last lecture dealt with the general conditions of liability for (a) misrepresentation, and (b) negligent misstatement. By far the greater part of this lecture is confined to misrepresentation. 
+/->-Its structure broadly follows that of the Misrepresentation Act 1967. This Act by no means deals comprehensively with the relevant law – far from it, in fact – but its coverage does have a certain logic which can be adopted for a general exposition of the subject. This is an unorthodox means of organising the material, but it works, and it seems preferable to a presentation in which the sections of the Act are shuffled and dispersed into a discussion focused on the common law. 
+/->-Rescission, the basic remedy for misrepresentation, is easy enough to understand in principle, but both the Act and the common law place restrictions upon its availability. These are examined in turn. A great many authorities could be cited on the common law “bars to rescission”, but it has seemed more realistic to explain this subject as a collection of principles without multiplying the quantity of cases needing to be learnt.
+/->-The last substantive section of the Act makes attempts to exclude liability for misrepresentation subject to one of the reasonableness tests in the Unfair Contract Terms Act 1977. This provides a suitable opportunity to look more generally at the topic of exemption in this area, which is potentially fairly confusing. 
+/->-The Act begins by relaxing the boundary between intra-contractual terms and extra-contractual representations, and that seems as good a starting point as any.
+/->-Questions relating to the quantification of damages for misrepresentation are among the most difficult in general contract law. For that reason they have largely been shelved as inappropriate to the GDL year's syllabus unless they are capable of clear and generally applicable answers.
+/->-An Act to amend the law relating to innocent misrepresentations and to amend sections 11 and 35 of the Sale of Goods Act 1893.
+/->-1. Removal of certain bars to rescission for innocent misrepresentation.
+/->-Where a person has entered into a contract after a misrepresentation has been made to him, and—
+/->-or both, then, if otherwise he would be entitled to rescind the contract without alleging fraud, he shall be so entitled, subject to the provisions of this Act, notwithstanding the matters mentioned in paragraphs (a) and (b) of this section.
+
+
+
+
+NAME Section 1: treating a contract term as a misrepresentation
+TYPE Concept
+CATEGORY Misrepresentation (2)
+SUMMARY ~*Section 1: treating a contract term as a misrepresentation*~
+/->-In the lecture which dealt with incorporation, the point was made that the many cases on the distinction between mere representations (statements left outside the contract) and terms reflected a general desire on the part of claimants to be able to sue for damages for breach of contract rather than for misrepresentation. This reflected the fact that prior to the passing of the Misrepresentation Act 1967 there were no damages for misrepresentation unless it was fraudulent. The standard remedy for misrepresentation was rescission, which means the retroactive dismantling of the contract, and involves the return of its subject matter and the repayment of the price. 
+/->-It followed that a claimant who wanted compensation for having been deprived of a good bargain would not get it, save by showing that the false pre-contractual statement had become a term of the contract. Meanwhile, rescission itself might be unavailable for misrepresentation, since there were and are formal bars to rescission (eg. the impossibility of giving back the subject matter of the contract). These will be discussed in due course.
+/->-Despite the above, it was not invariably most advantageous to prove that a representation had become a term of the contract. After all, if the contract had turned out to be a bad bargain, an action for breach of contract might result in only nominal damages. By contrast a misrepresentation action, if it lay, was likely to produce the remedy of rescission and thereby rescue the claimant from the contract.
+/->-Until the passing of the Misrepresentation Act 1967, the weight of authority was against the permissibility of treating a term as a representation. Section 1 of the Act removes any common law impediment to doing that. It does appear necessary, nevertheless, that the term should have featured in pre-contractual exchanges as a representation independently of its later incorporation into the contract. If it first appears in the contract itself, then it must continue to be treated as a term; it is nothing else.
+/->-Even this relatively simple and self-contained proposition, beyond serving as an explanation of section 1 of the Act, involves an anomaly. If it is possible to bring a misrepresentation action and seek rescission for the falsity of a statement which later became a warranty (not a condition) of the contract, the claimant seems to be able to find a way out of the contract even though no such escape lies for mere breach of warranty. Breach of warranty is compensated only by damages, not by termination. By effectively downgrading a warranty to a representation, the claimant seems to be able to assert a superior remedy. 
+/->-In fact the Act includes a means of stopping this from happening, since by section 2(2) it gives a court the discretion to refuse rescission for any non-fraudulent misrepresentation where that remedy would be inappropriate. This will be examined in due course.
+
+
+
+
+NAME Section 2(1)
+TYPE Concept
+CATEGORY Misrepresentation (2)
+SUMMARY ~*Section 2(1)*~
+/->-(1) Where a person has entered into a contract after a misrepresentation has been made to him by another party thereto and as a result thereof he has suffered loss, then, if the person making the misrepresentation would be liable to damages in respect thereof had the misrepresentation been made fraudulently, that person shall be so liable notwithstanding that the misrepresentation was not made fraudulently, unless he proves that he had reasonable ground to believe and did believe up to the time the contract was made the facts represented were true.
+
+
+
+
+NAME Fraudulent, negligent and innocent misrepresentation
+TYPE Concept
+CATEGORY Misrepresentation (2)
+SUMMARY ~*Fraudulent, negligent and innocent misrepresentation*~
+/->-Section 2(1) of the 1967 Act creates a new type of misrepresentation. It can be described, with an approach to accuracy, as “negligent misrepresentation”; the minor shortcoming of that label will be seen shortly, and of course negligent misrepresentation is always to be distinguished rigorously from negligent misstatement at common law. Since section 2(1) creates this new form of liability by a means which involves reference to fraudulent misrepresentation, and it also enacts a defence which will downgrade negligent to innocent misrepresentation if it is made out by the defendant, a grasp of section 2(1) therefore requires all three types of misrepresentation to have been understood. They will be presented here in turn.
+/->-This is a sub-category of the broader tort of deceit. Deceit covers any use of fraud which causes loss to the person deceived. Fraudulent misrepresentation is present where the innocent party has entered into a contract with the fraudster. The remedies for fraudulent misrepresentation are rescission and/or damages.
+/->-The first case to be cited concerns the state of mind required for a defendant to be found fraudulent. It is worth being aware from the outset that fraud must be strictly proved, so that if there is any doubt whether that can be done on given facts it would be prudent to choose a different cause of action.
+
+
+
+
+NAME Derry v Peek
+CITATION Derry v Peek (1889) 14 App Cas 337
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Fradulent Misrepresentation
+SUMMARY ~*Overview*~
+/->-The defendants, who were directors of a tram company, issued a prospectus for shares in connection with the opening of new tramways. In it, they stated that they had the right to power the trams mechanically instead of using horses. This was incorrect; in fact the consent of the Board of Trade was required for the use of steam or mechanical power. Consent was refused, and the company was wound up. The plaintiff, who had bought shares in the company on the strength of the prospectus, brought an action for damages for deceit.
+/->-The House of Lords held that the action must fail, since fraud had not been made out. The directors had assumed, honestly but mistakenly, that the giving of consent by the Board of Trade was a formality. This was reprehensible on their part, since they had no grounds for their assumption, but it was not dishonest.
+SUMMARY ~*Detail*~
+/->-Lord Herschell defined the state of mind needed for fraud to be found: “I think the authorities establish the following propositions: First, in order to sustain an action of deceit, there must be proof of fraud, and nothing short of that will suffice. Secondly, fraud is proved where it is shewn that a false representation has been made (1) knowingly, or (2) without belief in its truth, or (3) recklessly, careless whether it be true or false. Although I have treated the second and third as distinct cases, I think the third is but an instance of the second, for one who makes a statement under such circumstances can have no real belief in the truth of what he states. To prevent a false statement being fraudulent, there must, I think, always be an honest belief in its truth. And this probably covers the whole ground, for one who knowingly alleges that which is false, has obviously no such honest belief. Thirdly, if fraud be proved, the motive of the person guilty of it is immaterial. It matters not that there was no intention to cheat or injure the person to whom the statement was made”.
+SUMMARY ~*A closer look*~
+/->-_Lord Herschell's definition of fraud is fairly expansive. In practice it needs treating with care for two reasons. The first is that the heavy burden of proof for fraud discourages the making of that allegation on facts which technically fit the definition but fail to indicate a dishonest motive. The second reason for caution is that Lord Herschell spoke long before the passing of the Misrepresentation Act 1967. A reckless misrepresentation, absent the intention to cheat, would now more naturally be placed in the category of negligent misrepresentation as created by section 2(1). _
+/->-_The next two cases concern the measure of damages which can be obtained for fraud. This is an important point for the development of an understanding of the present shape of misrepresentation, as will later appear. It is not just a matter of how to argue quantum on given facts._
+
+
+
+
+NAME Doyle v Olby (Ironmngers) Ltd
+CITATION Doyle v Olby (Ironmngers) Ltd [1969] 2 QB 158
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Fradulent Misrepresentation
+SUMMARY ~*Overview*~
+/->-The plaintiff bought a business from the defendant, who told him fraudulently that all the activity of the business was “over the counter”. This was false, since half the turnover was achieved by a travelling salesman. The plaintiff made heavy losses from the business, and brought an action in the tort of deceit. He recovered £1500 in damages at first instance. This award was based on the cost of “making good the representation”. The plaintiff appealed, claiming that a proper award, compensating him for all loss sustained through the transaction, was £5500.
+/->-The Court of Appeal held that £5500 was the correct quantum of damages. In actions for breach of contract the principle of foreseeability of loss applied to limit recovery by reference to what was within the contemplation of the parties at the time the contract was made. For reasons of justice and policy there was no equivalent limitation on the loss recoverable in the tort of deceit. The only limit on recovery is that loss must be shown to have been caused by the fraudulently induced transaction.
+
+
+
+
+NAME East v Maurer
+CITATION East v Maurer [1991] 2 All ER 733
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Fradulent Misrepresentation
+SUMMARY ~*Overview*~
+/->-The defendant owned two hair-dressing salons in Bournemouth. He sold one of them to the plaintiff, fraudulently representing to her that he had no intention of working at the other, but that he intended to set up business abroad. In fact he went on to work full-time at the second salon, and a number of his clients followed him there. The plaintiff ran the business at a loss until she managed to sell it, some years later, for much less than she had paid for it. At first instance the plaintiff received damages for the fall in the value of the business, the expenses of buying and selling it, the trading losses, improvements carried out in an attempt to make it more profitable, loss of profits and general damages for disappointment and inconvenience.
+/->-The Court of Appeal allowed the defendant's appeal in part, reducing the damages awarded for loss of profits. Counsel for the defendant had submitted that loss of profits was not recoverable except in an action for breach of a contractual warranty as to what the profits would be. That submission was rejected, but it was nevertheless held that the trial judge had assessed loss of profits on a misconceived basis. He had considered the profit which might have been made had the plaintiff operated the salon without the defendant in close competition. The correct approach was to consider what profits might have been earned by the plaintiff had she not entered into the contract with the defendant, but had rather bought a similar business in the same area and run it in the normal way.
+SUMMARY ~*Discussion*~
+/->-The distinction here between the right and the wrong approach is this. Damages will be awarded for fraudulent misrepresentation to represent the value of the hypothetical opportunity lost as a result of the plaintiff tying up money and time in the business instead of pursuing a different venture. Damages will not be awarded for the profits which would have been made through the business had there been no misrepresentation. That second and incorrect head of damage would involve treating the fraudulent misrepresentation as if it were a contractual promise which had been breached.
+/->-The correct measure of damage is therefore reliance loss, not expectation loss.
+
+
+
+
+NAME Negligent Misrepresentation
+TYPE Concept
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Negligent Misrepresentation
+SUMMARY ~*Negligent Misrepresentation*~
+/->-Section 2(1) of the Act begins by referring to the situation in which a person would be liable for a fraudulent misrepresentation. It goes on to provide that such a person will be so liable even though the misrepresentation was not made fraudulently. It then enacts a partial defence to such liability for the defendant who can show that he had good grounds to believe and did believe at all material times that the facts represented by him were true. 
+/->-This oddly drafted provision, based on what has become known as “the fiction of fraud”, creates a new misrepresentation action not previously known to the law. Clearly it is not fraudulent misrepresentation. Nor is it innocent misrepresentation since to show that the misrepresentation was innocent amounts to a defence to this new form of liability, even though liability for innocent misrepresentation will of course remain. What is left is misrepresentation accompanied by an intermediate level of culpability, short of fraud but beyond innocence. It is usual to describe this as “negligent misrepresentation”, though it can also be referred to as “statutory” or “section 2(1)” misrepresentation.
+/->-A potential if minor misunderstanding should be avoided before we take the subject any further. While it is accurate to say that negligent misrepresentation is a new action not known to the law before the passing of the 1967 Act, it would be wrong to conclude that a misrepresentation which was in fact negligently made could not be the subject of an action before 1967. It would have been regarded as an action for innocent misrepresentation, in so far as it fell short of an allegation of fraud. Alternatively, it might have been brought (and may still be brought) as an action for negligent misstatement following <i>Hedley Byrne</i>, provided the pre-conditions for that form of liability could be established – special relationship/assumption of responsibility.
+/->-To return to section 2(1) of the 1967 Act, it presents two very notable aspects.
+/->-One is that in introducing the special category of sub-fraudulent culpability, it does so by transferring the burden of <i>disproving</i> that fault to the defendant. This is quite remarkable. To assess it within the parameters of the situation pertaining prior to the Act, fraud was to be strictly proved by the plaintiff, while in the case of innocent misrepresentation there is obviously no degree of fault to be proved. The <i>Hedley Byrne</i> action, if it may be viewed as a model, places the proof of negligence where one would expect it – upon the plaintiff. The Act, in creating negligent misrepresentation, removes what might be regarded as the natural burden of proof from the plaintiff, and places it in the form of a burden of disproof upon the defendant.
+/->-The second remarkable aspect of section 2(1) is that it seems to transfer the “liability” for fraud, and therefore its remedies, to the new cause of action. The quantum of damages for fraudulent misrepresentation is far-reaching for policy reasons which can readily be articulated, but it is surprising that an honest misrepresentor should be liable to the same degree. Nevertheless, that has been taken to be the effect of the words “shall be so liable” in section 2(1). They establish that just as the remedies for fraudulent misrepresentation are rescission and/or damages with no test of foreseeability, so the same is true of negligent misrepresentation.
+/->-The next two cases provide confirmatory authority for these two aspects of section 2(1).
+
+
+
+
+NAME Howard Marine & Dredging Co Ltd v A Ogden & Sons (Excavation) Ltd
+CITATION Howard Marine & Dredging Co Ltd v A Ogden & Sons (Excavation) Ltd [1978] QB 574
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Negligent Misrepresentation
+SUMMARY ~*Overview*~
+/->-In this action Howards sued for unpaid hire for barges which Ogden had chartered from them. Ogden counterclaimed for damages. Ogden had been preparing a tender to undertake excavation work. For this, barges were needed to transport earth for dumping at sea, and the price at which Ogden tendered was highly sensitive to the carrying capacity of the barges to be used. Howard's employee, Mr O'Loughlin, stated the correct carrying capacity of the barges in cubic metres. He also gave the deadweight capacity as about 1600 tons. He had seen a figure somewhat above this in Lloyd's Register. Exceptionally, Lloyd's Register was wrong. The deadweight given by the manufacturer of the barges was 1050 tons. Mr O'Loughlin had also seen this figure, but had preferred to rely on Lloyd's Register. Ogden based their counterclaim on collateral contract, or section 2(1) negligent misrepresentation, or negligent misstatement, in the alternative.
+/->-The Court of Appeal held by a majority that negligent misstatement failed here, and that section 2(1) negligent misrepresentation succeeded. All three judges were in agreement that there was no collateral contract.
+SUMMARY ~*Detail*~
+/->-Bridge LJ drew a distinction between the approach taken by the judge at first instance, and the approach required by section 2(1) of the 1967 Act:
+/->-“It is unfortunate that the judge never directed his mind to the question whether Mr O'Loughlin had any reasonable ground for his belief. The question he asked himself, in considering liability under the Misrepresentation Act 1967, was whether the innocent misrepresentation was negligent. He concluded that if Mr O'Loughlin had given the inaccurate information in the course of the April telephone conversation he would have been negligent to do so but that in the circumstances obtaining at the Otley interview in July there was no such negligence. I take it that he meant by this that on the earlier occasions the circumstances were such that he would have been under a duty to check the accuracy of his information, but that on later occasions he was exempt from any such duty. I appreciate the basis of this distinction, but it seems to me, with respect, quite irrelevant to any question of liability under the statute. If the representee proves a misrepresentation which, if fraudulent, would have sounded in damages, the onus passes immediately to the representor to prove that he had reasonable ground to believe the facts represented. In other words the liability of the representor does not depend upon his being under a duty of care the extent of which may vary according to the circumstances in which the representation is made. In the course of negotiations leading to a contract the statute imposes an absolute obligation not to state facts which the representor cannot prove he had reasonable ground to believe.
+/->-[I]t is to be assumed that Mr O'Loughlin was perfectly honest throughout. But the question remains whether his evidence, however benevolently viewed, is sufficient to show that he had an objectively reasonable ground to disregard the figure in the ship's documents and to prefer the Lloyd's Register. I think it is not. The fact that he was more interested in cubic capacity could not justify reliance on one figure of deadweight capacity in preference to another”.
+SUMMARY ~*Discussion*~
+/->-Negligence in tort is the failure to exercise the level of care which a situation demands. The fault which section 2(1) requires to be disproved is strictly speaking something else, and the more burdensome to disprove, because it is free of context and therefore absolute. The situation affords no qualifications or circumstantially-founded excuses. 
+/->-Furthermore, the words “had reasonable ground to believe and did believe” tend to a similar conclusion. It is possible to envisage <i>negligence</i> being disproved simply by showing a reasonable ground for belief in the truth of what was said, even if positive belief in truth could not also be shown. For instance, a representation of law might be made about the status of a lease. Leaving out of account the problem that it might shade into opinion, perhaps the most that even (or perhaps particularly) an assiduous lawyer might feel able to affirm would be reasonable grounds for the advice, stopping short of positive belief. For the discharge of the burden shifted to the defendant by section 2(1), however, that is not enough. 
+/->-For these reasons, description of the section 2(1) action as “negligent misrepresentation” is not quite accurate, even though the label is often used and broadly acceptable. A lesser degree of culpability may qualify.
+
+
+
+
+NAME Royscot Trust v Rogerson
+CITATION Royscot Trust v Rogerson [1991] 2 QB 297
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Negligent Misrepresentation
+SUMMARY ~*Overview *~
+/->-The facts are not particularly material, except insofar as they illustrate the prudent course of choosing not to allege fraud even in a case of deception. They are also arithmetically and conceptually complex. In brief, a car dealer sold a car on hire purchase, receiving a payment in return from a finance company which was then to recoup a larger sum from the car's purchaser. The company would only enter into such transactions where the purchaser had paid a deposit of at least 20% of the purchase price of the car. The car dealer had altered the figures involved in order to misrepresent to the finance company (but for no other motive) that the 20% rule had been complied with although in reality it had not. The purchaser defaulted, and the finance company sued the dealer under section 2(1) of the Act.
+/->-The Court of Appeal rejected the defendant dealer's claim that the loss pleaded by the finance company was too remote. This required the court to decide whether the far-reaching measure of damages for fraud, unlimited by any requirement of foreseeeability, was indeed imported into section 2(1) by the “fiction of fraud”. The court examined academic arguments, including those of *Treitel* to the contrary, but concluded that all loss was recoverable for section 2(1) misrepresentation just as it was for fraudulent misrepresentation. Section 2(1) of the Act, in saying “shall be so liable”, means exactly that.
+SUMMARY ~*A closer look*~
+/->-_A curious problem develops if one considers section 2(1) further (but if you feel you do not need a curious problem at this point, feel free to skip the remainder of this paragraph). *McKendrick* describes the decision in Royscot Trust as “extraordinary”, but in fact it, and the statute, do make sense in a bizarre fashion. After all, if the defendant is unable to show that he believed his representation to be true, as section 2(1) requires of him if he is to have a defence, then the reasoning in Derry v Peek labels his misrepresentation fraudulent. He did not believe it to be true. No wonder he is to be liable as if he were fraudulent. Although section 2(1) cannot seriously be thought to create a statutory version of fraudulent misrepresentation with the burden of proof reversed, its drafting seems to cause it to overlap with Lord Herschell's definition of fraud._
+/->-_In fact the next case provides some authority against taking this line of analysis too far. _
+FLAGS Treitel; McKendrick
+
+
+
+
+NAME Gran Gelato Ltd v Richcliff (Group) Ltd
+CITATION Gran Gelato Ltd v Richcliff (Group) Ltd [1992] 1 All ER 865
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Negligent Misrepresentation
+SUMMARY ~*Overview*~
+/->-The facts are not of particular relevance; briefly, the case concerned a solicitor's replies to preliminary enquiries in a conveyancing transaction. It is significant because the Vice Chancellor, Sir Donald Nicholls, made it clear that in his view liability under section 2(1) was essentially founded on negligence. On this basis, he went on to suggest that an award of damages under section 2(1) could be reduced for the contributory negligence of the representee. This is not a possibility, for obvious policy reasons, where a misrepresentation is fraudulent. The recognition that the possibility does exist in connection with section 2(1) indicates that there are limits to how far the courts will follow the “fiction of fraud”.
+
+
+
+
+NAME Innocent Misrepresentation
+TYPE Concept
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Innocent Misrepresentation
+SUMMARY ~*Innocent Misrepresentation*~
+/->-Innocent misrepresentation, which until the passing of the 1967 Act included any misrepresentation short of a fraudulent one, is a cause of action derived from common law. It will also subsist as a form of liability if a claimant has made section 2(1) his cause of action, but the defendant successfully establishes the partial defence within it.
+/->-The remedy for innocent misrepresentation is rescission. There is no entitlement to damages. Nevertheless, a monetary award may be ordered by a court on the very narrow basis called an indemnity. An indemnity reimburses the claimant for expenditure involved in meeting obligations imposed by the contract prior to its rescission. The next case is normally used as an example of indemnity.
+
+
+
+
+NAME Whittington v Seale-Hayne
+CITATION Whittington v Seale-Hayne (1900) 82 LT 49
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Innocent Misrepresentation
+SUMMARY ~*Overview*~
+/->-The plaintiff took on the lease of a farm, in part relying on innocent representations that the premises were in a thoroughly sanitary condition and in a good state of repair. It was his intention to use the farm for the raising of prize poultry. The lease imposed on him obligations to pay rents, rates, and to carry out repairs required by the local authority. He installed a flock of poultry and a manager, and discharged his obligations under the lease. In fact the premises were in such a state that the water supply was poisoned. The poultry either died or became valueless, and the farm manager fell ill. The plaintiff claimed compensation for the loss of the flock, consequential loss of profits, the manager's medical expenses, and for the financial obligations imposed by the lease.
+/->-The court held that since damages were not available for innocent misrepresentation, most of these claims failed. An indemnity was awarded to cover the financial obligations imposed by the lease.
+SUMMARY ~*Discussion*~
+/->-It may seem strange that indemnity is being raised only here, in connection with innocent misrepresentation. Can it be that innocent misrepresentation comes, despite its venial character, with an extra remedy absent from actions for negligent or fraudulent misrepresentation? There is no reason to think so, even though indemnity is only ever discussed in the context of innocent misrepresentation. In actions for the culpable forms of misrepresentation there would almost certainly be a substantive award of damages, and the indemnity would be subsumed by that.
+SUMMARY ~*A closer look*~
+/->-_In case the relationship between an indemnity and ordinary damages (whether contractual or tortious) seems arbitrary, it can be explained in this way. The rationale of an indemnity, unlike an award of damages, is not primarily to compensate. It is to prevent unjust enrichment of the defendant who would otherwise profit at the claimant's expense. That principle distinguishes between the types of loss which were recoverable on the facts of this case, and those which were not. _
+/->-_Students reading about this decision in *McKendrick* may like to know that his discussion is legally correct, even though he has spliced the facts with those of a different case called Parsons v Uttley Ingham (1978)._
+
+
+
+
+FLAGS McKendrick
+NAME Rescission
+TYPE Concept
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Rescission
+SUMMARY ~*Rescission*~
+/->-Rescission, as is probably now clear, is the basic remedy for misrepresentation whether fraudulent, negligent, or innocent. Rescission is not available for negligent misstatement at common law; bear in mind that there may well be nothing to rescind through that action, since it does not require the claimant to have entered into a contract with the defendant. Even if there is a contract, it cannot be rescinded for negligent misstatement. The sole remedy obtained through that action is damages in the tort of negligence.
+/->-Rescission is a drastic remedy, since it undoes the contract and restores the parties to the position in which they would have been had they not entered it. The rationale for this is that the making of the contract was consequent upon a wrong.
+/->-That is not to say that the contract itself is tainted so that it must necessarily be rescinded. It is voidable. This means that the claimant has the option of rescinding or “avoiding” the contract, subject to any statutory or common law impediments to rescission. The claimant cannot be obliged to rescind the contract, however.
+/->-For fraudulent or negligent misrepresentation, where the court has power to make an award of damages, the claimant may seek rescission alone, or damages alone, or rescission and damages. If rescission and damages are granted, then the fact of rescinding the contract is likely to reduce the quantum of damages which can properly be recovered. After all, certain losses will cease to accumulate from the time that the contract is rescinded. 
+/->-Rescission may be achieved informally, without the court's involvement, or it may take place by order of the court. The following case gives guidance on what will be deemed to amount to rescission, informally exercised.
+
+
+
+
+NAME Car & Universal Finance Co Ltd v Caldwell
+CITATION Car & Universal Finance Co Ltd v Caldwell [1965] 1 QB 525
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Rescission Generally
+SUMMARY ~*Overview*~
+/->-The plaintiff had obtained a car, in good faith and without notice of any defect in title, at the end of a long chain of transactions which began with the car being fraudulently acquired from its original owner (the defendant in these proceedings) by means of a cheque later dishonoured. The plaintiff, as a bona fide purchaser for value without notice of the fraud, would have obtained good title to the car provided the original owner had not rescinded his contract with the fraudster before the plaintiff acquired the car. The defendant argued that he had validly rescinded the contract in time by giving notice of his intention to do so to the police and the AA.
+/->-The Court of Appeal held unanimously that the contract had been rescinded by this means. Although, in view of modern communications, rescission would normally be deemed to require contact to have been made with the representor, this could not be done if that person had absconded. Provided the representee has established on objective grounds that he has made a final and irrevocable decision to rescind, that is sufficient.
+/->-The following remarks are highly technical, and included here only to address any concern which some may feel over the relationship between rescission and termination. As usual, there is no requirement to read them.
+/->-How does termination of contract relate to rescission? In the glossary at the head of the first lecture on misrepresentation, and prior to that, it has been suggested that termination for breach of condition stops a contract in its tracks, while rescission is as stated above. In other words, they are to be rigorously differentiated. The difficulty is that termination of contract in the context of the sale or supply of goods can now be seen to look puzzlingly like rescission. Breach of condition prima facie entitles the buyer or transferee to send the goods back and claim for the price. Yet this is never called “rescission”, and the idea of rescission for breach of contract makes no sense at all despite the tendency of some judges to use the verb “to rescind” beyond its proper context.
+/->-The following is based partly on passages in the texts of *Treitel*, Cheshire & Fifoot, and Anson on Contract, and partly on independent analysis. A buyer or transferee acquiring goods which breach a condition of the contract does indeed “terminate performance” through refusing to pay. If no payment is to be made for the goods, then they must be returned, or the buyer/transferee will have been unjustly enriched. If payment has already been made, then the subsequent return of the goods triggers a “total failure of consideration” since that party is now left without either the goods or the expenditure made to acquire them. The buyer/ transferee has nothing to show for the payment made. That subjects the other party to a restitutionary obligation to refund the payment.
+/->-This looks like rescission. In fact, it is a combination of termination of contract with restitutionary principles.
+/->-(2) Where a person has entered into a contract after a misrepresentation has been made to him otherwise than fraudulently, and he would be entitled, by reason of the misrepresentation, to rescind the contract, then, if it is claimed, in any proceedings arising out of the contract, that the contract ought to be or has been rescinded, the court or arbitrator may declare the contract subsisting and award damages in lieu of rescission, if of opinion that it would be equitable to do so, having regard to the nature of the misrepresentation and the loss that would be caused by it if the contract were upheld, as well as to the loss that rescission would cause to the other party.
+/->-(3) Damages may be awarded against a person under subsection (2) of this section whether or not he is liable to damages under subsection (1) thereof, but where he is so liable any award under the said subsection (2) shall be taken into account in assessing his liability under the said subsection (1).
+/->-Section 2(2) is clumsily drafted, but comprehensible in at least most of its effects. Once again, like section 2(1) it refers to fraudulent misrepresentation, but here does so only to affirm that fraudulent misrepresentation is beyond its reach.
+/->-In the case of fraudulent misrepresentation, rescission is available as of right, providing it is not barred by any of the common law obstacles considered below. 
+/->-In the case of non-fraudulent misrepresentation (negligent or innocent), the Act gives the court a discretion. The court may refuse to allow rescission. In place of rescission, it may make an award of damages to reflect the fact that the claimant is to be permanently saddled with the contract.
+/->-For negligent misrepresentation, the damages awarded in the tort of deceit (on the fiction of fraud) may be supplemented by a further award to reflect the fact that the court has disallowed rescission.
+/->-For innocent misrepresentation, an award of damages to reflect the fact that the court has disallowed rescission will be the only compensatory award, though it may be joined with a reimbursing indemnity as discussed earlier.
+/->-This is the situation produced by the subsection (though the foregoing explanation does not address at least one of the finer points). The main question is when a court will exercise its discretion to refuse rescission for negligent or innocent misrepresentation, giving damages in lieu. The next case is the leading authority.
+FLAGS Treitel
+
+
+
+
+NAME William Sindall plc v Cambridgeshire County Council
+CITATION William Sindall plc v Cambridgeshire County Council [1994] 1 WLR 1016
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Rescission Generally
+SUMMARY ~*Overview*~
+/->-The plaintiff was a development company which had agreed to buy land from the County Council for more than 5 million pounds. During negotiations, the Council represented (in reply to a request for information) that there were no easements affecting the property other than those already disclosed in the draft contract. In fact, some months after the contract was concluded, it was found that a sewer crossed the land. By this time the land had halved in value for unconnected reasons. The judge at first instance held that there had been a misrepresentation, and granted the plaintiff a declaration that the contract had been rescinded.
+/->-The Court of Appeal held that there had been no misrepresentation, but went on to discuss whether rescission could properly have been claimed had there been one. The view taken was that rescission would have been disproportionate, so that the court would have used its discretion under section 2(2) to refuse it and make an award of damages in lieu.
+SUMMARY ~*Detail*~
+/->-*Hoffman*n LJ cited the Law Commission's 1962 report in which it made recommendations for reform of the law on rescission. Among these, it was suggested that just as specific performance is not awarded when damages would be an adequate remedy, so the same relationship should pertain between rescission and damages. *Hoffman*n LJ went on to list three factors which should affect the court's exercise of its discretion under section 2(2) of the 1967 Act. These were (a) the importance of the misrepresentation in the overall context of the contract (here, the misrepresentation needed expenditure of only £18,000 to be remedied; (b) the loss that would be caused by the misrepresentation if the contract were upheld; and (c) the loss which would be caused by rescission. 
+/->-The case also includes discussion of the measure of damages to be awarded in lieu of rescission, but that is a matter for specialist study and will be taken no further here.
+
+
+
+
+FLAGS Hoffman
+NAME Common Law Bars to Rescission
+TYPE Concept
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Common Law Bars to Rescission
+SUMMARY ~*Common Law Bars to Rescission*~
+/->-As stated in the introduction, it seems unnecessary to cite cases on this subject for the sake of it. For the purposes of this year, the aim is to know what the bars to rescission are in principle. If the need to research any of them further should arise, all the full-length textbooks refer to authorities from which a more detailed understanding can be developed.
+/->-Since misrepresentation renders a contract voidable, the representee must choose whether to use this remedy or not once he has become aware of the facts justifying rescission. The situation resembles the election to be made upon breach of condition (whether to terminate the contract or not). Here, as there, the election once made is binding.
+/->-There is some doubt whether lapse of time after discovery of the truth and before a purported rescission is a bar to rescission in its own right, or merely evidence from which affirmation can be deduced. Furthermore, a distinction is to be drawn between cases of fraudulent and non-fraudulent misrepresentation. In the first case, time runs from discovery of the fraud. In the second case, time appears to run from the date of the contract.
+/->-Since rescission is not an automatic consequence of misrepresentation, but is at the option of the representee, it may be defeated by the claim to security of another's subsequent transaction involving the property. Where a third party has acquired a bona fide claim to the property for value, that prevents rescission. This will be so notwithstanding that the original contract was induced by fraudulent misrepresentation.
+/->-For rescission to be available, it must be possible to give back what passed under the contract. If, for example, goods have been consumed or much altered after delivery to the representee, they cannot be returned. If only minor alteration has taken place, the court in its equitable jurisdiction may order a monetary adjustment to be made in order to achieve the equivalent of full restitution in the changed circumstances. 
+/->-3 Avoidance of provision excluding liability for misrepresentation.<b>E+W</b
+/->-(a) any liability to which a party to a contract may be subject by reason of any misrepresentation made by him before the contract was made; or
+/->-(b) any remedy available to another party to the contract by reason of such a misrepresentation,
+/->-that term shall be of no effect except in so far as it satisfies the requirement of reasonableness as stated in section 11(1) of the Unfair Contract Terms Act 1977; and it is for those claiming that the term satisfies that requirement to show that it does.
+/->-2) This section does not apply to a term in a consumer contract within the meaning of Part 2 of the Consumer Rights Act 2015 (but see the provision made about such contracts in section 62 of that Act).
+/->-In its final substantive section the 1967 Act returns to a standard style of drafting, and the effect of section 3 is fairly clear. A contractual clause exempting or restricting liability for pre-contractual misrepresentation is subject to the reasonableness test in section 11(1) of the Unfair Contract Terms Act 1977 (that is the sub-section which deals with the reasonableness of contractual terms), or the equivalent in the 2015 Act in the case of a consumer contract.
+/->-Section 3 is deemed to apply only to liability for negligent or innocent misrepresentation. In the case of fraudulent misrepresentation, the common law has taken the position on public policy grounds that the exclusion of liability is ineffective (see <i>S. Pearson & Son Ltd v Dublin Corporation</i> (1907)). The position with regard to attempts to exclude liability for the fraud of agents is less clear, but will not be considered further here. 
+/->-The main issue which has arisen as a result of section 3 concerns clauses which could arguably be said to exclude or restrict liability, or which could alternatively be argued to prevent liability for misrepresentation arising in the first place.
+/->-The debate repeats the difference of approach which can be taken to ordinary exemption clauses providing a defence against actions for breach of contract (or, as some would have it, preventing breach from occurring in the first place in so far as they restrict the primary obligations undertaken pursuant to the contract). It is worth recalling the line taken here earlier in that regard. The mainstream attitude to such clauses is that they should be construed as potential defences. To regard them as restricting contractual obligations ab initio is to risk depriving the 1977 Act of the protective effect which Parliament meant it to have.
+/->-In the case of misrepresentation, however, these arguments may be more finely balanced. Representations may be made in the course of pre-contractual negotiations not only by the principal, but also by the principal's agent or agents. The sources of potential liability for misrepresentation are somewhat broader than those of potential contractual liability. Protective drafting to restrict them may well be more readily defensible.
+
+
+
+
+NAME Overbrooke Estates Ltd v Glencombe Properties Ltd
+CITATION Overbrooke Estates Ltd v Glencombe Properties Ltd [1974] 1 WLR 1355
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Exemption of Liability For Misrepresentation
+SUMMARY ~*Overview*~
+/->-The plaintiffs sought specific performance against the defendants, who were refusing to proceed with the purchase of a property bought at auction. Before the auction took place, the auctioneers had told the defendants that the local authority had no plans for the property and were not likely to seek compulsory purchase of it. After the defendants had secured the property at auction, they were told by the local authority that it was to be included in a slum clearance scheme. The auctioneers' conditions of sale included the clause: “The vendors do not make or give and neither the auctioneers nor any person in the employment of the auctioneers has any authority to make or give any representation or warranty in relation to [the property]”. The defendants argued that this clause should be understood as one excluding liability for misrepresentation, and that it was therefore to be subject to the test of reasonableness.
+/->-The court held that the clause was not to be understood in this way. It alerted bidders to the placing of a limit on the auctioneers' otherwise ostensible authority to make representations. For that reason it did not come within section 3 of the 1967 Act, and was not made subject to the reasonableness test.
+SUMMARY ~*Discussion*~
+/->-The auctioneers were selling multiple lots on a regular basis. Unless they were to commit themselves to silence on the subject of what they were auctioning, which would seem a disproportionate solution, it made sense to warn bidders to take their statements about properties in context.
+
+
+
+
+NAME Cremdean v Nash
+CITATION Cremdean v Nash (1977) 244 EG 547
+CATEGORY Misrepresentation (2); Misreprentation Act  1967; Exemption of Liability For Misrepresentation
+SUMMARY ~*Overview*~
+/->-The plaintiffs bought two properties from the defendants, and were now seeking rescission of the contracts for misrepresentation. The defendants' invitation to tender document had contained a statement of the total lettable office space for which there was planning permission. The true figure was lower. The same document also contained the following:
+/->-(a) These particulars are prepared for the convenience of an intending purchaser or tenant and although they are believed to be correct their accuracy is not guaranteed and any error, omission or misdescription shall not annul the sale or be grounds on which compensation may be claimed and neither do they constitute any part of an offer of a contract.
+/->-(b) Any intending purchaser or tenant must satisfy himself by inspection or otherwise as to the correctness of each of the statements contained in these particulars”.
+/->-The defendants argued that this clause had the effect of preventing anything stated by them from amounting to a representation in law. If that were so, the clause was not an attempt to exclude liability for misrepresentation, and was therefore not subject to the reasonableness test imposed by section 3 of the 1967 Act.
+/->-The Court of Appeal, rejecting this argument, held that the clause was subject to section 3. It was one thing for a principal, as in <i>Overbrooke v Glencombe</i>, to limit his agents' authority to make representations. It was a wholly different thing for a party to claim that representations clearly made by him were not representations. It amounted to an attempt to limit liability, and therefore was within the scope of section 3.
+SUMMARY ~*Detail*~
+/->-Scarman LJ explained why he thought the vendors' case was fallacious: “[T]he case for the appellant does have an audacity and a simple logic which I confess I find attractive. It runs thus: a statement is not a representation unless it is also a statement that what is stated is true. If in context a statement contains no assertion, express or implied, that its content is accurate, there is no representation. Ergo, there can be no misrepresentation; ergo the Misrepresentation Act 1967 cannot apply to it. Humpty Dumpty would have fallen for this argument. If we were to fall for it, the Misrepresentation Act would be dashed to pieces which not all the King's lawyers could put together again”.
+
+
+
+
+NAME Beyond section 3
+TYPE Concept
+CATEGORY Misrepresentation (2)
+SUMMARY ~*Beyond section 3*~
+/->-Section 3 clearly applies only to exclusions of liability for misrepresentation which have been incorporated into the contract between the parties. It is natural and proper to wonder about the effect, if any, of exemptions which have not been incorporated. Unhelpfully, the textbooks ignore the issue.
+/->-In the case of exemptions from liability for breach, there would be no issue to be examined unless they were validly incorporated. Liability for breach arises from the contract and can only be negatived by the contract, or by some other document which is to be construed with the contract. Liability for misrepresentation does not arise from the contract. Therefore it would seem doubtful to assert that it can only be modified or exempted by a contractual term.
+/->-If a party makes a representation, but accompanies it with a warning that the other must not rely on it, it is hard to see why the law should refuse to allow that warning any effect. If it is thought that <i>Cremdean v Nash</i> gives grounds for asserting precisely that, then it will be necessary to reconcile that case with the attitude of the law in negligent misstatement. <i>Hedley Byrne</i> and <i>McCullagh v Lane Fox</i> both recognise that an express disclaimer does have legal effect in so far as it is likely to negative any assumption of responsibility. It is taken at face value.
+/->-Misrepresentation is conditioned upon both materiality and reliance. If a representation is made, but accompanied by a non-contractual warning that it should not affect the mind of the representee, why should it not be given effect? 
+/->-If the representation is negligent, then the non-contractual warning can be dealt with by section 2(2) of the Unfair Contract Terms Act 1977, which makes the exclusion or restriction of liability for negligence by a contract term <i>or by a notice</i> subject to a reasonableness test. The fears expressed in <i>Cremdean v Nash</i> would therefore have no application here.
+/->-If the representation is innocent, then the 1977 Act does not provide a means of controlling the effect of a non-contractual warning about it. It would be for the common law, in a proper case, to follow its own logic by accepting that such a warning could undermine the materiality of a representation. If that threatened injustice, the relevant caselaw is flexible enough to allow positive proof of reliance despite the reduction in materiality.
+/->-It may be helpful to sum up the crucial points on exclusions as concisely as possible, since the foregoing discussion has been an involved one:
+/->-Fraudulent misrepresentation: principal's liability for fraud cannot be excluded.
+/->-Non-fraudulent misrepresentation: exclusion must be reasonable (section 3 MRA).
+/->-Negligent misstatement: disclaimer of responsibility may prevent a duty of care arising.
+/->-Non-fraudulent misrepresentation: exclusion of negligence liability may be subject to section 2(2) UCTA; exclusion of non-negligent liability may go to materiality of representation. 

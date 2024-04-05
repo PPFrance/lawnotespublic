@@ -1,0 +1,452 @@
+META filename herling-09-incorporation-of-terms.fc.txt
+
+
+
+
+
+
+NAME Incorporation of Terms - Introduction
+TYPE Concept
+CATEGORY Incorporation of Terms
+SUMMARY ~*Introduction*~
+/->-Incorporation poses the question whether a stipulation before or at the time of contracting has become a formal term of the contract or not.
+/->-In this presentation the subject has been divided into two principal sections. The first almost exclusively concerns the incorporation of written clauses. Most of the cases in the second section concern oral statements. However, despite first appearances, the true distinction is not between what is written and what is oral. Rather, the first line of cases deals with the incorporation of provisions tending to diminish one party's responsibilities under the contract, providing them with an answer to what would otherwise be a breach of contract. Typically these are exclusion or limitation clauses. The second line of cases deals with provisions which would add to one party's contractual undertakings. These tend to be assurances or guarantees. Only a little imagination is needed to work out why the first class tends to be written, and the second oral.
+/->-Most authors allocate these two lines of cases to different chapters, which is understandable since different tests and policy considerations apply within the two fields. Nevertheless, the effect of that arrangement can be to obscure the fact that the common consideration across both fields is whether a stipulation has become contractual or not. 
+
+
+
+
+
+NAME L'Estrange v Graucob
+CITATION L'Estrange v Graucob [1934] 2 KB 394
+CATEGORY Incorporation of Terms; Incorporation By Signature
+SUMMARY ~*Overview*~
+/->-The plaintiff, the owner of a cafe, agreed to buy a cigarette vending machine from the defendants. They asked her to sign a document entitled “Sales Agreement”, which she did, without reading it. The document included a general exclusion of all express or implied terms relating to the machine. When delivered, it failed to work properly and soon jammed. The plaintiff claimed damages for breach of an implied term that the machine would be fit for the purpose for which it was bought. 
+/->-The Divisional Court held that the exclusions in the contract had been legally incorporated into it by Miss L'Estrange's signature, so that her action failed. The trial judge had been mistaken in finding that she had received insufficient notice of the exclusions. No question of notice arose, since the plaintiff's signature was conclusive of her agreement to all the terms of the document. 
+SUMMARY ~*Discussion*~
+/->-Various objections could be made against this decision, although it cannot be doubted that it is correct in law. Miss L'Estrange had not read the document, and was therefore unaware of the effect of what she was signing. This point was summarily dismissed – the risk was hers. She said it had been misrepresented to her that the document was no more than an order form. On this point the evidence seemed insufficient to support her assertion, but it was recognised by the court that had her signature been procured by misrepresentation or fraud, or through her complete misapprehension as to the nature of the transaction (the very limited doctrine of “<i>non est factum</i>”), the exclusion would be invalid. The exclusion clauses had been in small print on brown paper, so that they were likely to be overlooked, but while this was regrettable it could not displace the legal effect of signature.
+SUMMARY ~*A closer look*~
+/->-_This well-known case provides a further example of a limitation to the “ad idem” ideal of English contract law. It may seem superficially persuasive to submit that the plaintiff intended to make her purchase with the benefit of the law's usual protections, while the defendants intended to sell to her on the basis that all those protections were ousted by the small print. In a sense the parties were therefore not in agreement. However, the value of certainty trumps the weaker “ad idem” principle. Signature proves assent, and it would be very unfortunate if one party's ostensible assent could not be relied upon by the other. _
+/->-_The law's concern to protect those who rely on another's apparent assent, as evidenced by their signature, has no logical application where it should have been obvious that the assent was given on a mistaken basis. Here, the rationale of the snapping-up cases ought to apply to prevent the one party taking advantage of the other's obvious mistake. Canadian law has gone this way, as the next case shows._
+
+
+
+
+NAME Tilden Rent-A-Car Co v Clendinning
+CITATION Tilden Rent-A-Car Co v Clendinning (1978) 88 DLR (3d) 400
+CATEGORY Incorporation of Terms
+SUMMARY ~*Overview*~
+/->-The defendant rented a car at Vancouver Airport. He was asked whether he wanted to purchase additional insurance cover, and said that he did. He was asked to sign a form and did so without reading it, as was apparent to the employee of the car rental company. On the back of the form were clauses in very small type which purported to make the defendant liable for damage done to the car. 
+/->-The Court of Appeal of Ontario held that the signature rule did not apply where it was or should have been clear that the customer had not read the contract and was not aware of the burdens it imposed. Reliance on signature was only justified where it was reasonable.
+SUMMARY ~*Discussion*~
+/->-This broad Canadian exception to the rule in <i>L'Estrange v Graucob</i> is actually nothing more than the obverse of the rationale for the rule. Justifiable reliance on one party's assent to the terms of the contract must be protected. Where, on the other hand, the reliance is not justified because it is apparent that the assent is not real, it should not be protected. That was the position here, where the parties' transaction had been relatively informal and hurried (in fact the speed with which car rental could be arranged was held out by the company as an attraction).
+/->-In favour of the rule in <i>L'Estrange v Graucob</i>, it at least has the virtues of being simple, clear, and widely known. One result of permitting the broad exception to it which appealed to the Canadian Court would presumably be to open the way to numerous cases in which the facts would not be clear-cut, but it could at least be argued that an exclusion clause had not been fully or properly understood. Beyond that, it seems odd that one party should effectively have the job of tutoring the other in the effects of the contract before being able to rely on its contents. 
+
+
+
+
+NAME Grogan v Robin Meredith Plant Hire
+CITATION Grogan v Robin Meredith Plant Hire [1996] CLC 1127
+CATEGORY Incorporation of Terms; Incorporation By Signature
+SUMMARY ~*Overview*~
+/->-This case concerned how damages should be apportioned between two companies for injuries caused to a third party, Mr Grogan. An oral contract had been made between Meredith and the other company, Triact, amounting to an agreement for the hire of heavy machinery, a driver, and the rate of hire to be paid. No other terms were included. At weekly intervals Meredith's driver presented Triact with a time sheet detailing the hours he had worked, for Triact to check and sign. The time sheets included the words “all hire undertaken on [Contractors' Plant Association] rules, copies available on request”. The effect of these rules, if they were incorporated, would be to require Triact as hirer to indemnify Meredith in respect of loss caused to third parties.
+/->-The Court of Appeal held that contract had not been varied by signature to incorporate the rules. The test was whether a timesheet would be regarded by a reasonable person as a document likely to contain contractual terms. It would not, being a merely administrative device for recording performance under a pre-existing contract.
+
+
+
+
+NAME Curtis v Chemical Cleaning & Dyeing Co
+CITATION Curtis v Chemical Cleaning & Dyeing Co [1951] 1 KB 805
+CATEGORY Incorporation of Terms; Incorporation By Signature
+SUMMARY ~*Overview*~
+/->-The plaintiff took a white satin dress to the defendants' shop to be cleaned. She was asked to sign a document headed “Receipt”. She signed, but before doing so, asked why her signature was needed. The shop assistant explained that it was because the business wished to exempt itself from liability for damage to the beads and sequins with which the dress was trimmed. The plaintiff signed. In fact the document contained a clause excluding all liability for any damage to the dress. When the dress was returned stained, the defendants denied liability on the basis of the clause. 
+/->-*Denning LJ* in the Court of Appeal held that the defendants were not entitled to rely on the clause. It operated only to the extent which they had represented.
+SUMMARY ~*Discussion*~
+/->-This case might be thought to be no more than an application of one of the exceptions to the rule in <i>L'Estrange v Graucob</i> – signature does not have its usual effect if it has been procured by misrepresentation. There is a little more to it than that, consisting of three fairly minor points. The first is that <i>Curtis v Chemical Cleaning</i> expressly recognises that even an innocent misrepresentation constitutes an exception to the <i>L'Estrange</i> rule (this was not entirely clear from <i>L'Estrange</i> itself). The second is that the creation of any false impression as to the existence or extent of an exclusion will fall within the ratio of this case. It does not have to amount to a misrepresentation in accordance with all the technicalities which govern that subject as ordinarily understood. The third is that Denning LJ's handling of the clause is somewhat unorthodox. One would more naturally think that the clause is either effective or that it is not. The idea that it is effective but only to the represented extent resembles an estoppel. 
+FLAGS Denning
+
+
+
+
+NAME Timing
+TYPE Concept
+CATEGORY Incorporation of Terms; Incorporation By Notice; Timing
+SUMMARY ~*Timing*~
+/->-Where a stipulation is not contained in a document signed by the party who is to take the burden of it, it may nonetheless be held to have been validly incorporated in the contract by the following means. As an alternative to the fact of signature, it may be possible to show that reasonable notice of the stipulation has been given. If so, the position once more is that the party introducing it must be able to rely on it, since the other has ostensibly agreed to it.
+/->-The most basic point about reasonableness of notice is that it must be given before or at the time the contract is formed. If it is given only after the moment of contracting, then it is invalid. The next case is the one usually cited on this point.
+
+
+
+
+NAME Olley v Marlborough Court Hotel
+CITATION Olley v Marlborough Court Hotel [1949] 1 KB 532
+CATEGORY Incorporation of Terms; Incorporation By Notice; Timing
+SUMMARY ~*Overview*~
+/->-The plaintiff and her husband, who intended to stay at the defendants' hotel for an indeterminate period, paid one week's board and lodging at the reception desk before going to their room. After they had been staying in the hotel for six months, valuables belonging to the plaintiff were stolen from the room. She sued the hotel for negligence in contract and in tort. By way of defence, the hotel denied negligence and, in the alternative, relied upon a notice on the door of the plaintiff's room excluding liability for loss or theft of valuables. 
+/->-In the Court of Appeal, Singleton and *Denning LJ*J held the notice was not incorporated into the contract which had been made upon the plaintiff's arrival at the hotel, since it could not have been seen by her until after the contract was concluded (Bucknill LJ did not consider this point). All three of their Lordships also decided that the notice was in any event insufficient to protect the hotel from liability for its own negligence. 
+SUMMARY ~*Detail*~
+/->-In argument during the appeal hearing, Singleton LJ asked counsel for the defendant hotel to explain when and how the notice became part of the contract, as he submitted it did. The answer was that it might have been incorporated when the plaintiff and her husband made their second payment at the end of their first week's stay. Singleton LJ rejected this possibility, however, since he was persuaded that a single contract for an indeterminate stay and periodic payments had been made on the couple's arrival at the hotel, rather than a contract renewable at intervals.
+/->-Denning LJ helpfully summed up the ways in which one party could demonstrate the other's assent to being bound by a stipulation. “The best way of proving it is by a written document signed by the party to be bound. Another way is by handing him before or at the time of the contract a written notice specifying its terms and making it clear to him that the contract is on those terms. A prominent public notice which is plain for all to see when he makes the contract or an express oral stipulation would, no doubt, have the same effect. But nothing short of one of these three ways will suffice”.
+FLAGS Denning
+
+
+
+
+NAME Thornton v Shoe Lane Parking.
+SUMMARY ~*Overview*~
+/->-This case has already been cited on the distinction between offers and invitations to treat. The facts are now given in greater detail.
+/->-The plaintiff drove up to the entrance of a multi-storey car-park at which he had not left his car before. At the entrance was a notice which read “All cars parked at owner's risk”. As he proceeded, a light changed from red to green, and a machine provided a ticket which the plaintiff took before driving on. The ticket stated that it was issued “subject to the conditions of issue as displayed on the premises”. The plaintiff later returned to pay the parking charge and to collect his car. At this point an accident occurred, partly as a result of the defendants' negligence, in which the plaintiff was badly injured. The defendants disclaimed responsibility by reference to a notice within the garage which purported to exempt them from liability for injury howsoever caused. 
+/->-The Court of Appeal held that the defendants were liable, since they had not done what would have been necessary fairly to bring the exempting stipulation to the plaintiff's attention at the time the contract was made.
+SUMMARY ~*Detail*~
+/->-The notice displayed at the entrance to the car-park could not assist the defendants because it made no reference to personal injury to customers. The live question in the case was whether the wording on the ticket was sufficient to incorporate the notice displayed inside the car-park. The members of the Court gave two responses to this. One, favoured by *Denning LJ* and Sir Gordon Willmer, was that the contract had been concluded before the ticket was issued. Megaw LJ did not reject the analysis based on timing, but said that he would reserve a final view on the mechanics of contracting in this situation. In common with the other members of the Court, he held that the words on the ticket were in no way adequate as reasonable notice of the extremely broad and destructive exclusion posted within the car-park. He placed particular emphasis on the fact that the clause in this case was one which would have deprived the plaintiff of protection provided by statute (the Occupiers' Liability Act 1957).
+FLAGS Denning
+
+
+
+
+NAME The contractual nature of the document / expectations of the parties
+TYPE Concept
+CATEGORY Incorporation of Terms
+SUMMARY ~*The contractual nature of the document / expectations of the parties*~
+/->-Allied to the issue of timing is the requirement that the stipulation, if it is to be validly incorporated, must be contained in a document which could reasonably be expected to contain contractual terms. This requirement has already been seen in connection with incorporation by signature (see <i>Grogan</i>'s case above); it is imposed <i>a fortiori</i> on incorporation by notice which is an inherently less secure method of introducing terms into a contract. 
+
+
+
+
+NAME Chapelton v Barry Urban District Council.
+SUMMARY ~*Overview*~
+/->-This case was cited earlier on the subject of contract formation. The Council let out deck chairs on a beach. The charge was displayed on a notice by a pile of deck chairs, together with the information that tickets could be obtained from an attendant. The plaintiff sat on a deck chair, which gave way and caused him injury. The Council sought to defend itself by reference to exclusionary words printed on the ticket available from the attendant.
+/->-The Court of Appeal held that the words on the ticket were not incorporated, since the ticket was not a contractual document. The plaintiff would have been reasonably entitled to regard it as a mere receipt to show that he had paid, and to state how for how long he could use the chair. The court regarded the pile of deck chairs as the offer and the act of sitting down on one of them as the acceptance. The ticket came after the contract was concluded.
+/->-As a matter of strict principle, the timing point illustrated by the three preceding cases ought to be decisive. If a stipulation is made only after the contract is concluded, it would seem that it cannot be part of that contract unless it is later made so by the varying of the contract for good consideration. In reality, matters may not be quite so clear-cut, as the next case shows.
+
+
+
+
+NAME British Crane Hire Corporation Ltd v Ipswich Plant Hire Ltd
+CITATION British Crane Hire Corporation Ltd v Ipswich Plant Hire Ltd [1975] QB 303
+CATEGORY Incorporation of Terms; Incorporation By Notice; Contractual Nature of Document / Expectations of Parties
+SUMMARY ~*Overview*~
+/->-The parties were in the same line of business – the hiring out of heavy earth-moving plant – and they had done business together on two previous occasions. The defendants, Ipswich, urgently required a crane. Their manager agreed hire and transport charges with the plaintiffs by telephone. The plaintiffs later sent on a printed form by post. This would normally have been signed by Ipswich, but on this occasion it was not. Meanwhile, the crane sank in marshy ground, and was recovered at substantial expense to the plaintiffs. On the basis of clauses in the printed form, the plaintiffs claimed to be indemnified by Ipswich against their outlay. Ipswich contended that the relevant clauses were not incorporated into the contract which had been made earlier by telephone.
+/->-The Court of Appeal held that the indemnity clause was validly incorporated. The defendants knew that plant hire was carried out on conditions, and in fact both they and the plaintiffs used versions of the common form known as “the Contractors' Plant Association form” (as in <i>Grogan</i>'s case above). Responding to the defendants' urgent need, the plaintiffs had been entitled to assume that the contract was being made on the normal conditions, even if in the event that was only specified post-contractually.
+SUMMARY ~*Detail*~
+/->-The fact that the parties had done business in the past was not regarded as a vital aspect of this case, even though (as will be seen) it is actually an independent basis on which incorporation of stipulations may sometimes be proven. The crucial facts are that the parties were in the same line of business, knew on what terms that business was usually conducted, and that the urgency with which the defendants required the crane had displaced the usual formalities. Lord *Denning MR* cited a far-reaching test of application in this and various other contractual circumstances:
+/->-“As Lord Reid said in <i>McCutcheon v David MacBrayne Ltd</i> [below] quoting from the Scottish textbook <i>Gloag on Contract</i>, 2<sup>nd</sup> ed (1929), p. 7: “The judicial task is not to discover the actual intentions of each party; it is to decide what each was reasonably entitled to assume from the attitude of the other”. It seems to me that, in view of the relationship between the parties, when the defendants requested this crane urgently and it was supplied at once – before the usual form was received – the plaintiffs were entitled to conclude that the defendants were accepting it on the terms of the plaintiff's own printed conditions – which would follow in a day or two. It is just as if the plaintiffs had said “We will supply it on our usual conditions,” and the defendants said “Of course, that is quite understood””.
+/->-There is therefore a degree of flexibility in the rules regarding incorporation by notice, even on the point of timing which might have been thought to be clear-cut. Further aspects of that flexibility will be seen in due course. First, however, we must approach the heart of the subject. What actually constitutes “reasonable notice” of an unsigned stipulation?
+FLAGS Denning
+
+
+
+
+NAME Reasonable notice and reasonable assumptions – the “ticket cases”
+TYPE Concept
+CATEGORY Incorporation of Terms
+SUMMARY ~*Reasonable notice and reasonable assumptions – the “ticket cases”*~
+
+
+
+
+NAME Parker v South Eastern Railway Co
+CITATION Parker v South Eastern Railway Co (1877) 2 CPD 416
+CATEGORY Incorporation of Terms; Incorporation By Notice; Reasonableness of Notice
+SUMMARY ~*Overview*~
+/->-The plaintiff deposited a bag at a cloakroom in a railway station. He paid the attendant 2d, and in return received a ticket. On the front of the ticket were written a number, opening hours, and the words “See back”. On the reverse there were various clauses, including one which limited the company's liability for baggage left at the cloakroom to £10. The plaintiff's bag was lost, and he claimed its value as £24 10s. The company relied on its limitation clause. At trial the judge directed the jury to consider whether the plaintiff had known of the special condition on which the bag was deposited; and (presumably if the answer to the first question were negative) whether he had been under any obligation to read or make himself aware of the condition. The jury returned negative answers to both questions. The judge directed judgment for the plaintiff.
+/->-The Court of Appeal held that the second question had amounted to a misdirection, and ordered a new trial. The correct question was whether the company had done what was necessary to give reasonable notice of the clause.
+SUMMARY ~*Detail*~
+/->-Mellish LJ set out the grounds for his decision, and his account of the situation, as follows:
+/->-“The railway company, as it seems to me, must be entitled to make some assumptions respecting the person who deposits luggage with them: I think they are entitled to assume that he can read, and that he understands the English language, and that he pays such attention to what he is about as may be reasonably expected from a person in such a transaction as that of depositing luggage in a cloak-room. The railway company must, however, take mankind as they find them, and if what they do is sufficient to inform people in general that the ticket contains conditions, I think that a particular plaintiff ought not to be in a better position than other persons on account of his exceptional ignorance or stupidity or carelessness. But if what the railway company do is not sufficient to convey to the minds of people in general that the ticket contains conditions, then they have received goods on deposit without obtaining the consent of the persons depositing them to the conditions limiting their liability. I am of opinion, therefore, that the proper direction to leave to the jury in these cases is, that if the person receiving the ticket did not see or know that there was any writing on the ticket, he is not bound by the conditions; that if he knew that there was writing, and knew or believed that the writing contained conditions, then he is bound by the conditions; that if he knew that there was writing, but did not know or believe that the writing contained conditions, nevertheless he would be bound, if the delivering of the ticket to him in such a manner that he could see there was writing upon it, was, in the opinion of the jury, reasonable notice that the writing contained conditions”.
+/->-The trial judge's reference to the plaintiff's putative obligation was beside the point and a misdirection, since the plaintiff was at perfect liberty to leave the ticket unread if he pleased.
+SUMMARY ~*A closer look*~
+/->-_The rhetoric in this judgment shows the strain of adapting norms derived from the formation of contracts between individuals to the impersonal mode which arose after the industrial revolution. That is not surprising, since a model formed from the bargaining towards agreement by individuals is having to adapt here to circumstances in which one side to the deal (the company) has no means of accommodating the other, while the customer has no means of influencing the company. The strain is apparent in the second sentence of the passage quoted above, which appears at its outset to announce a stricture upon the company, but turns out to be a general liberty to the company to suppose that it is contracting with generic man. Since this seems a long way from the ideal of agreement which has formed the English contractual jurisdiction, the judgment concludes with a placatory gesture towards the residual liberties of the individual (paraphrased above). The consumer is under no duty to read the writing, in the sense that he cannot be compelled to do so or criticised in law for his failure. He nevertheless takes the consequences of it._
+/->-_The notion that the customer is not bound if he was unaware that there was writing on the ticket needs careful handling. It appears oddly favourable to the individual in the context of a judgment which otherwise aims to keep the trains running and the cloakrooms open on economically feasible terms. The circumstances of the case should be borne in mind. The plaintiff had admitted that he knew there was writing on the ticket, so Mellish LJ could afford to be indulgent – the issue was no longer in point._
+/->-_Even in terms of contract formation and timing this case, like others of the same sort, is not unproblematic. One would naturally think of the customer's request or at least his tendering of money as the offer, and the issue of the ticket as the company's acceptance. On that view the incorporation of terms seems to come too late. In fact the ticket cases proceed on the basis that the issue of the ticket is an offer which the customer is free to accept or reject once he has had the opportunity to inform himself of the legal burden he is taking on. This, however, is make-believe, as Lord *Denning MR* candidly acknowledges in the Shoe Lane Parking case. There is no true “locus poenitentiae” here. With the issue of the ticket, the deal is done. Nevertheless, the logical objection based on the timings within the transaction yields to the superior practical interest of enabling service industry to run on its own terms._
+/->-_The extent to which “reasonable notice” can be reduced to a fiction is notoriously shown by the next case._
+FLAGS Denning
+
+
+
+
+NAME Thompson v London, Midland and Scottish Railway Co Ltd
+CITATION Thompson v London, Midland and Scottish Railway Co Ltd [1930] 1 KB 41
+CATEGORY Incorporation of Terms; Incorporation By Notice; Reasonableness of Notice
+SUMMARY ~*Overview*~
+/->-The plaintiff was injured when a train run by the defendants stopped at the very end of a platform. The defendants denied liability by reference to a clause which exempted them from responsibility for injury to excursion ticket holders howsoever caused. The plaintiff, who could not read, had booked the excursion through her niece. The front of the ticket read “Excursion, For Conditions see back”. The back of the ticket referred to conditions to be found in the Company's timetables, notices and excursion and other bills. The relevant clause was to be found in the timetable, of which there was one copy at the booking office. It cost 6d to buy. 
+/->-The jury found that the company had not taken reasonable steps to bring the existence of the clause to the notice of the plaintiff, but the trial judge nevertheless entered judgment for the defendants. The Court of Appeal upheld the judge, holding that there had been no evidence on which the jury could have made their finding. The company had offered the excursion at a reduced price and on ascertainable terms. The plaintiff had accepted, and was bound by the terms.
+SUMMARY ~*Discussion*~
+/->-The key mischief within this result is not that the court preferred a particularly vacuous fiction to the good sense of the jury's finding. It is that a company was able to insert a clause in the small print which enabled it to cause injury to its customers with impunity. That was eventually prevented by Parliament through the Unfair Contract Terms Act 1977 which would have rendered the clause in this case of no effect. We will look more closely at the Act before long, but the present focus is on the rules of incorporation rather than the validity of exclusion clauses as such.
+
+
+
+
+NAME Onerous or unusual clauses
+TYPE Concept
+CATEGORY Incorporation of Terms
+SUMMARY ~*Onerous or unusual clauses*~
+/->-There have already been strong hints in the cases cited above that courts concern themselves not only with the mechanics of incorporation, strictly understood, but also with the content and character of the stipulation sought to be incorporated. For instance in the <i>Shoe Lane Parking</i> case the court took notice of how completely the clause in question purported to shift risk to the plaintiff. In the <i>British Crane Hire</i> case, by contrast, the court was satisfied that the indemnity clause was entirely usual in a contract of a given type. In fact it is a recognised feature of the rules on incorporation by reasonable notice that the more onerous or unusual a stipulation is, the more that must be done before the court will be satisfied that reasonable notice of it has been given.
+/->-This principle was most famously expressed by *Denning LJ* in <i>Spurling v Bradshaw</i> (1956), where he said that “Some clauses which I have seen would need to be printed in red ink on the face of the document with a red hand pointing to it before the notice could be held to be sufficient”. 
+/->-It is nevertheless a somewhat counter-intuitive state of affairs. One might imagine that the means by which stipulations are incorporated into contracts would be solely a matter of the mechanics of contract formation rather than of the consequences of being bound. Nonetheless, English contract law takes the view that the proffering of a page of clauses may result in some being incorporated and others not, according to their potential effect. 
+FLAGS Denning
+
+
+
+
+NAME Interfoto Picture Library Ltd v Stiletto Visual Productions Ltd
+CITATION Interfoto Picture Library Ltd v Stiletto Visual Productions Ltd [1989] QB 433
+CATEGORY Incorporation of Terms; Incorporation By Notice; Onerous Or Unusual Terms
+SUMMARY ~*Overview*~
+/->-The defendants required photographs on the theme of the 1950s for a client. They contacted the plaintiffs, who ran a library of photographic transparencies, to ask whether they had anything suitable. The plaintiffs sent 47 transparencies the same day, together with a delivery note containing conditions. The defendants telephoned the plaintiffs to say that one or two of the transparencies could be of interest. One of the clauses on the delivery note stated that all transparencies should be returned within 14 days of the date of delivery, and that a holding fee of £5 per transparency plus VAT would be charged for each day that a transparency was retained beyond the 14 day period. The defendants forgot that they had the transparencies, and returned them some 15 days late. The plaintiffs sent them an invoice for £3783.50, calculated in accordance with their clause.
+/->-The Court of Appeal, overruling the judgment at first instance, held that the clause had not been incorporated into the contract. Although the clause was so unreasonable that it could perhaps be viewed as a disguised penalty (and therefore unenforceable), *Bingham LJ* was prepared to assume that it would have been valid if it had been fully and fairly drawn to the defendants' attention. However, insufficient had been done, given the clause's unreasonable and punitive character.
+SUMMARY ~*Detail*~
+/->-Bingham LJ remarked that while English law had committed itself to no overriding principle of good faith, which here might have required actual notice of the clause to be given, it had nevertheless developed individual solutions to perceived problems of unfairness. In his Lordship's judgment, the cases on sufficiency of notice were to be read in that context. He continued: 
+/->-“On one level they are concerned with a question of pure contractual analysis, whether one party has done enough to give the other notice of the incorporation of a term in the contract. At another level they are concerned with a somewhat different question, whether it would in all the circumstances of the case be fair (or reasonable) to hold a party bound by any conditions or by a particular condition of an unusual and stringent nature”.
+/->-On a reading of the authorities, Bingham LJ found support for his view that the question of incorporation by notice went beyond merely technical analysis to the fairness of competing outcomes. On the facts of the instant case, he said that the clause would have been effectively incorporated if it had been of a usual sort. However, since (in his words) it imposed an inordinate liability for a venial period of delay it could not be said that sufficient notice had been given.
+SUMMARY ~*Discussion*~
+/->-With the worthy and predictable exception of Lord *Denning* and his “red hand”, it seems that judges shy away from indicating exactly what would constitute reasonable notice in a given case, limiting themselves to confirming or denying that it has been provided. Closer examination does suggest at least two very broad guidelines. On average facts, the case of <i>Parker v South Eastern Railway</i> seems to equate reasonable notice simply with the clause in question being ascertainable from the contractual documents. On the facts of <i>Interfoto,</i> which the court clearly found repugnant, Dillon LJ observes that nothing had been done to <i>differentiate</i> the clause in question from the other eight on the delivery note (though perhaps this should be taken as the absolute minimum which might have been required). The test which <i>Chitty on Contracts</i> derives from the <i>Interfoto</i> case is that a particularly onerous or unusual clause must be shown to have been fairly and reasonably drawn to the other's attention. Could this mean that the other's actual knowledge and understanding of the clause must be shown? There does not appear to be a case which has required one party to obtain the other's specific agreement to a clause as the condition of its enforceability. Presumably a clause requiring that degree of special handling would be one of such extreme effect as to fall foul of unfair contract terms legislation in any event.
+FLAGS Bingham; Denning
+
+
+
+
+NAME AEG (UK( Ltd v Logic Resource
+CITATION AEG (UK( Ltd v Logic Resource [1996] CLC 265
+CATEGORY Incorporation of Terms; Incorporation By Notice; Onerous Or Unusual Terms
+SUMMARY ~*Overview*~
+/->-The defendants had ordered cathode ray tubes from the plaintiffs for export to customers in Iran. The goods proved to be defective, and the defendants instructed their customers to return the goods, at very considerable expense, and deducted those costs from the price payable for the tubes. The plaintiffs disputed the deduction on the basis that their conditions of sale placed the cost of returning faulty goods on the buyers. These conditions had been referred to in an order confirmation note, which was clearly a contractual document. 
+/->-The Court of Appeal held unanimously that the plaintiffs could not rely on their clause, but gave different reasons. The majority (Hirst and Waite LJJ) considered that the clause was an extremely onerous and unusual condition when judged in the context of the contract as a whole, which deprived the defendants of all the usual rights and protections of the Sale of Goods Act. It had not been validly incorporated. Hobhouse LJ agreed that the clause was ineffective as a result of the Unfair Contract Terms Act 1977, but distinguished the <i>Interfoto</i> case. If a clause was not unusual (and he considered that this one was not, since it dealt with matters often the subject of contracts of sale), it would rarely be appropriate to take a point on incorporation. The proper solution was provided by the Act.
+SUMMARY ~*Detail*~
+/->-“The problem in the present case arises from the fact that these clauses have been unreasonably drafted. As is almost inevitable in printed standard terms, they are not related to the particular circumstances of the case and, furthermore, they stipulate for a greater protection of the seller than is reasonable, or anyway is reasonable without some special justification. In my judgment, and this is where I part company with my Lords, it is necessary before excluding the incorporation of a clause <i>in limine</i> to consider the type of clause it is. Is it a clause of the type which you would expect to find in the printed conditions? If it is, then it is only in the most exceptional circumstances that a party will be able to say that it was not adequately brought to his notice by standard words of incorporation. If a party wishes to find out precisely how a clause of a normal sort has been worded, he should ask for the actual text of the clause. This case is not analogous to either of the two cases upon which the appellant founds. The <i>Interfoto</i> case involved an extortionate clause which did not relate directly to the expected rights and obligations of the parties. In the <i>Shoe Lane Parking</i> case, it related to personal injuries and the state of the premises and not to the subject matter of the car parking contract, which would, in the view of the Court of Appeal, have been concerned with damage to property.
+/->-In my judgment, it is desirable as a matter of principle to keep what was said in the <i>Interfoto </i>case within its proper bounds. A wide range of clauses are commonly incorporated into contracts by general words. If it is to be the policy of English law that in every case those clauses are to be gone through with, in effect, a toothcomb to see whether they were entirely usual and entirely desirable in the particular contract, then one is completely distorting the contractual relationship between the parties and the ordinary mechanisms of making contracts. It will introduce uncertainty into the law of contract”.
+/->-There is one further means of incorporating stipulations into contracts which should be added to *Denning LJ*'s list in <i>Olley v Marlborough Court</i>. If the parties have consistently dealt with each other in the past on the basis of contracts into which a certain stipulation has been incorporated, then it may be possible to conclude that a later deal not including that stipulation is to be understood as if the stipulation were nonetheless present. 
+/->-Clearly, much will turn on the facts of individual cases. The most plausible situation for the application of the rule would be a case in which the omission of the stipulation seems to have a mere oversight.
+FLAGS Denning
+
+
+
+
+NAME McCutcheon v David MacBrayne Ltd
+CITATION McCutcheon v David MacBrayne Ltd [1964] 1 WLR 125
+CATEGORY Incorporation of Terms; Incorporation By Course of Dealing
+SUMMARY ~*Overview*~
+/->-In the course of sailing from Islay to the Scottish mainland, the defendants' ferry sank as a result of their employees' negligence. It was carrying the plaintiff's car, which was lost. The defendants relied on a clause in their conditions of carriage against the plaintiff's action in negligence. The shipping of the car had been arranged by the plaintiff's brother-in-law, Mr McSporran, as his agent. Although it was the defendants' usual practice to require customers to sign a risk note which incorporated the relevant conditions, Mr McSporran had not been asked to do so on this occasion. The plaintiff himself had shipped goods with the defendants on four previous occasions, and had always been required to sign the risk note. His agent similarly had previous experience of dealing with the defendants, and his evidence was that he had sometimes been required to sign the note and sometimes not.
+/->-The House of Lords held that the defendants could not rely on the clause, which had not been incorporated into the oral contract concluded on this occasion. There was not the consistency of dealing in the past which would justify an inference that the present contract was to be on similar terms.
+SUMMARY ~*A closer look*~
+/->-_The fact of past dealings between the parties on unvarying terms does appear to be an accepted means of incorporation, despite its omission from *Denning LJ*'s list. However, some caution is needed. In this case, Lord Reid referred to it as a means by which contractual conditions might be implied, and the implying of terms is not the same as their incorporation. He went on to state a test (the “officious bystander” test) which is well-known as belonging to the field of implied terms. Lord Devlin expressly went further in this direction, stating that the only means by which an unexpressed term can come into a contract is by implication._
+/->-_Perhaps the matter can be tested by extending the usual rationale for incorporation into this area in order to see whether in theory it could have any application, and if so, what results. Across the fields of incorporation by signature, reasonable notice, and the peculiar facts of the British Crane Hire case (perhaps sui generis), the justification for incorporation seems to be a standard one; one party's conduct or inaction in all the circumstances entitles the other to deduce assent to the stipulations which are to govern the contract. It is possible to imagine a past course of dealing which would give rise to this state of affairs. It would need to be such as to enable the one party to submit that the other “must have known” that the usual pattern of contracting on set terms was not meant to have been abandoned, and that the instant change could only plausibly be regarded as an oversight, or explained by the urgency of the situation. Whether the drawing of that inference is taken to lead to the incorporation or implication of a term, it is clear that the facts of McCutcheon v David MacBrayne did not permit it._
+FLAGS Denning
+
+
+
+
+NAME 2. Terms which supplement the contract (warranties etc)
+TYPE Concept
+CATEGORY Incorporation of Terms
+SUMMARY ~*2. Terms which supplement the contract (warranties etc)*~
+/->-The second half of this lecture deals with the incorporation of a different class of stipulations: those which increase the responsibility inherent in the contract's performance, typically through the addition of a positive guarantee of some kind. 
+/->-Most writers present this aspect of incorporation in the course of drawing a distinction between representations, which remain outside the contract, and warranties, which are contractual terms. It may be helpful to begin with an explanation of why the subject tends to be presented in that way, even though it is quite as much to do with the incorporation of stipulations into contracts as the topic covered in the first part of the lecture.
+/->-If a negative stipulation, such as an exclusion clause, is not found to be incorporated, it is ineffective. If a positive guarantee is not found to be incorporated, it may still take effect as a representation (sometimes referred to, particularly in older cases, as a “mere” representation). On the assumption that a representation has proved to be untrue – this is generally if not invariably at the centre of actions within this area – there may be a remedy for misrepresentation. However, prior to the passing of the Misrepresentation Act 1967, there was no general remedy by way of damages for a misrepresentation unless it had been made fraudulently. The relevant remedy would be rescission of the contract, which would restore the parties to the positions they would have been in had the contract not been made. However, rescission was often impossible on the facts. 
+/->-Therefore it was in the interest of many plaintiffs to argue that a positive assurance which had motivated them to enter the contract had become one of its terms, so that they could seek damages for its breach. The cases, which are numerous, tend to dwell on the distinction between representations and contractual warranties, since that was plainly the live issue in most of them. Various tests were established, all going to that distinction, and to discuss the cases in connection with the distinction is simply to go with their grain. Still, it should be sufficient to observe that the test of timing with regard to the moment of contracting is as relevant here as it was in the earlier group of cases in order to see that beneath the surface we are concerned throughout with drawing the boundary around what is contractual.
+
+
+
+
+NAME The intention with which the statement was made
+TYPE Concept
+CATEGORY Incorporation of Terms
+SUMMARY ~*The intention with which the statement was made*~
+/->-The basic test for whether an assurance has become part of the contract is whether the parties intended that it should do so. The following House of Lords case makes that clear. It also establishes that while other, subsidiary tests may be of some assistance in gauging the parties' intentions, none of them may displace the primary enquiry.
+
+
+
+
+NAME Heilbut , Symons & Co v Buckleton
+CITATION Heilbut , Symons & Co v Buckleton [1913] AC 30
+CATEGORY Incorporation of Terms; Distinguishing Between Terms and Representations; Intention of Parties
+SUMMARY ~*Overview*~
+/->-The facts, in so far as they are of much relevance, concern the promotion of a company at the time of a boom in rubber production. One party asked the other if it were true that they were “bringing out a rubber company”. The response was positive. The next question was whether “it was all right”. The answer given was “We are bringing it out”. On the strength of that answer, the inquirer bought a large quantity of shares in the company. The shares were bought at the height of the boom, but soon dropped in value when it became clear that the company's plantations were inadequate. An action was brought against the defendants for fraudulently representing that the company was a rubber company or, in the alternative, for breach of a warranty to the same effect. 
+/->-The misrepresentation action failed at first instance. The House of Lords held that the question of breach of warranty should never have been put to the jury at all, since as a matter of law there was no evidence on which it could have been maintained.
+SUMMARY ~*Detail*~
+/->-Lord Moulton: “... the attempts to make a person liable for an innocent misrepresentation have usually taken the form of attempts to extend the doctrine of warranty beyond its limits and to find that a warranty existed in cases where there was nothing more than an innocent misrepresentation. The present case is, in my opinion, an instance of this. But in respect of the question of the existence of a warranty the courts have had the advantage of an admirable enunciation of the true principle of law which was made in very early days by Holt CJ with respect to the contract of sale. He says: “An affirmation at the time of the sale is a warranty, provided it appears to be on evidence to be so intended”. So far as decisions are concerned, this has, on the whole, been consistently followed in the courts of common law. But from time to time there have been dicta inconsistent with it which have, unfortunately, found their way into textbooks and have given rise to confusion and uncertainty in this branch of the law....A still more serious deviation from the correct principle is to be found in a passage in the judgment of the Court of Appeal in <i>De Lassalle v Guildford</i> [1901] 2 KB 215,221, which was cited to us in argument in the present case. In discussing the question whether a representation amounts to a warranty or not the judgment says: “In determining whether it was so intended, a decisive test is whether the vendor assumes to assert a fact of which the buyer is ignorant, or merely states an opinion or judgment upon a matter of which the vendor has no special knowledge, and on which the buyer may be expected also to have an opinion and to exercise his judgment”.
+/->-With all deference to the authority of the court that decided that case, the proposition which it thus formulates cannot be supported. It is clear that the court did not intend to depart from the law laid down by Holt CJ and cited above, for in the same judgment that dictum is referred to and accepted as a correct statement of the law. It is, therefore, evident that the use of the phrase “decisive test” cannot be defended. Otherwise it would be the duty of a judge to direct a jury that if a vendor states a fact of which the buyer is ignorant, they must, as a matter of law, find the existence of a warranty, whether or not the totality of the evidence shows that the parties intended the affirmation to form part of the contract; and this would be inconsistent with the law as laid down by Holt CJ. It may well be that the features referred to in the judgment of the Court of Appeal in that case may be criteria of value in guiding a jury in coming to a decision whether or not a warranty was intended, but they cannot be said to furnish decisive tests, because it cannot be said as a matter of law that the presence or absence of those features is conclusive of the intention of the parties. The intention of the parties can only be deduced from the totality of the evidence, and no secondary principles of such a kind can be universally true”.
+/->-The next task must be to assess the subsidiary tests, bearing in mind Lord Moulton's strictures. They are merely guides to discovering what the parties intended. That said, the first of them will often provide particularly direct insight.
+
+
+
+
+
+NAME Bannerman v White
+CITATION Bannerman v White (1861) 10 CB NS 844
+CATEGORY Incorporation of Terms; Importance of the Statement
+SUMMARY ~*Overview*~
+/->-The plaintiff, a hop merchant, offered the produce of 300 acres of hops for sale to the defendant, and provided a sample. The defendant asked for the plaintiff's assurance than no sulphur had been used in the cultivation of the crop, and made it clear that he would not initiate discussions over price unless he received that assurance. The plaintiff provided a note to that effect, in the form of an indemnity.
+/->-The court held that the plaintiff's indemnity was a term of the contract, since the negotiations would not have proceeded further unless it had been given.
+
+
+
+
+NAME Oscar Chess v Williams
+AKA Oscar Chess
+CITATION Oscar Chess Ltd v Williams [1957] 1 WLR 370
+CATEGORY Incorporation of Terms; Distinguishing Between Terms and Representations; Subsidiary Tests
+SUMMARY ~*Overview*~
+/->-The defendant acquired a new car from the plaintiffs on hire purchase terms. The plaintiffs took the defendant's old car, a Morris, in part exchange. The defendant stated that the car was a 1948 model, and produced the vehicle's registration book as confirmation of that fact. It later transpired that the car had in fact been manufactured in 1939 (the outward appearance of that model not having changed between those dates). The plaintiffs sued for damages for breach of warranty on the basis that they had allowed the defendant £115 more for the car than they would have done had they known its true age.
+/->-The Court of Appeal held by a majority that the defendant's statement of the age of the car was a representation, rather than a warranty. The plaintiffs knew that the defendant had no greater knowledge of the car's date of manufacture than they had themselves. Morris LJ, dissenting, considered that the age of the car was a vitally important matter, and therefore a condition of the contract.
+SUMMARY ~*Detail*~
+/->-*Denning LJ* explained why he differed from the trial judge who had found that the statement of the car's age was a term of the contract:
+/->-“He asked himself, “Was it fundamental to the contract?” He answered it by saying that it was fundamental.... By concentrating on whether it was fundamental, he seems to me to have missed the crucial point in the case which is whether it was a term of the contract at all.... The material distinction here is between a statement which is a term of the contract and a statement which is only an innocent misrepresentation. This distinction is best expressed by the ruling of Lord Holt: Was it intended as a warranty or not? using the word warranty there in its ordinary English meaning: because it gives the exact shade of meaning that is required. It is something to which a man must be taken to bind himself.
+/->-In applying Lord Holt's test, however, some misunderstanding has arisen by the use of the word “intended”. It is sometimes supposed that the tribunal must look into the minds of the parties to see what they themselves intended. That is a mistake. Lord Moulton made it quite clear that “The intention of the parties can only be deduced from the totality of the evidence”. The question whether a warranty was intended depends on the conduct of the parties, on their words and behaviour, rather than on their thoughts. If an intelligent bystander would reasonably infer that a warranty was intended, that will suffice. 
+/->-Turning now to the present case, much depends on the precise words that were used. If the seller says “I believe it is a 1948 Morris. Here is the registration book to prove it”, there is clearly no warranty. It is a statement of belief, not a contractual promise. But if the seller says “I guarantee that it is a 1948 Morris. This is borne out by the registration book, but you need not rely solely on that. I give you my own guarantee that it is”, there is clearly a warranty. The seller is making himself contractually responsible, even though the registration book is [read “may be”] wrong”.
+SUMMARY ~*Discussion*~
+/->-There is a risk of ending up thoroughly confused by Lord Denning's remarks above, even though (as so often) they are technically correct if not indeed penetrating. A restatement of his points, which may perhaps alleviate the confusion, follows. Intention, as the fundamental test for the distinction between representation and warranty, is to be understood in its objective sense, as always. The importance of the statement made is not a free-standing test which can be used as an alternative to the test of objective intention. Importance is relevant if it increases the likelihood that the parties should be taken to have intended a remedy in damages if the statement should prove untrue. Importance, in this sense, will often be more truly shown by the emphasis placed on the statement, rather than by an examination of its relation to the main object of the contract.
+SUMMARY ~*A closer look *~
+/->-_On a separate point, it should be noted that Denning LJ admits elsewhere in his judgment that he is concerned to reach a right result on the facts of this case, and that the law regarding representation and warranties enables him to do it. The loss, on facts such as these, would ideally be borne by the fraudster who first faked the car's registration documents. That person is not available. Since the remaining choice is between penalising the expert buyers, who could have made supplementary checks but did not, or the innocent seller who had no relevant expertise, Denning LJ has no hesitation which way to go. _
+FLAGS Denning
+
+
+
+
+NAME Dick Bentley Productions v Harold Smith (Motors) Ltd
+CITATION Dick Bentley Productions Ltd v Harold Smith (Motors) Ltd [1965] 1 WLR 623
+CATEGORY Incorporation of Terms; Distinguishing Between Terms and Representations; Subsidiary Tests
+SUMMARY ~*Overview*~
+/->-The actor Dick Bentley asked the defendant, a car-dealer, to find him a “well-vetted” Bentley car. An apparently suitable car was found, and the defendant told the plaintiff that it had done only 20,000 miles since being fitted with a replacement engine and gearbox. This was the mileage shown by the speedometer. The defendant said that he had put this information forward as being true to the best of his belief, but that he had not warranted it so as to make it a term of the contract, nor had he represented it (a representation is a statement of fact). The trial judge found on the evidence that the statement as to mileage was false, and had amounted to a warranty.
+/->-The Court of Appeal, including Lord *Denning MR*, distinguished <i>Oscar Chess</i> and dismissed the appeal. The statement as to mileage was indeed a term of the contract.
+SUMMARY ~*Detail*~
+/->-“I endeavoured to explain in <i>Oscar Chess Ltd v Williams</i> [1957] 1 WLR 370 that the question whether a warranty was intended depends on the conduct of the parties, on their words and behaviour, rather than on their thoughts. If an intelligent bystander would reasonably infer that a warranty was intended, that will suffice. What conduct, then? What words or behaviour, lead to the inference of a warranty?
+/->-Looking at the cases once more, as we have done so often, it seems to me that if a representation is made in the course of dealings for a contract for the very purpose of inducing the other party to act on it, and actually inducing him to act upon it, by entering into the contract, that is prima facie ground for inferring that it was intended as a warranty... But the maker of the representation can rebut this inference if he can show that it really was an innocent misrepresentation, in that he was in fact innocent of fault in making it, and that it would not be reasonable in the circumstances for him to be bound by it. In the <i>Oscar Chess</i> case the inference was rebutted. There a man had bought a second-hand car and received with it a log-book, which stated the year of the car, 1948. He afterwards resold the car. When he resold it he simply repeated what was in the log-book and passed it on to the buyer. He honestly believed on reasonable grounds that it was true. He was completely innocent of any fault. There was no warranty by him but only an innocent misrepresentation. Whereas in the present case it is very different. The inference is not rebutted. Here we have a dealer, Smith, who was in a position to know, or at least to find out, the history of the car. He could have got it by writing to the makers. He did not do so. Indeed it was done later. When the history of this car was examined, his statement turned out to be quite wrong. He ought to have known better. There was no reasonable foundation for it”.
+SUMMARY ~*Discussion*~
+/->-This was not Lord Denning's finest hour, unless one is happy to let matters rest on the footing that people in the trade should more generally be liable to pay contractual damages than those who are not. The references to fault seem entirely beside the point; the court was required to construe a contract, not to judge the defendant's behaviour. Fault, or its absence, is not generally the most appropriate tool for contractual analysis, and there is little independent support in the case law for using it to detect the difference between the making of statements which are contractual terms and those which are extra-contractual representations.
+/->-What can one properly take from this well-known case? Perhaps only the following, which omits reference to fault. A statement will more readily be found to be a term of the contract if it is made by a person who, to the knowledge of both parties, is well-placed to guarantee its accuracy. Somebody who is in the trade, or an expert, or a person who could be presumed to have the means to have checked the facts, is so placed. 
+SUMMARY ~*A closer look*~
+/->-_There is a further difficulty lurking in these two cases. It needs to be recorded here simply because it is capable of leading to misunderstanding at a later stage. Lord Denning manoeuvres himself into equating representations with statements of belief, and warranties with inducements. Unfortunately a representation, strictly understood, is precisely not a statement of belief but one of fact. What is more, a representation must be an inducement to enter into a contract, so it is puzzling to find the fact of inducement used as to define a statement as going beyond a representation. Oscar Chess and Dick Bentley leave certain aspects of the law in a mess. _
+FLAGS Denning
+
+
+
+
+NAME Other tests
+TYPE Concept
+CATEGORY Incorporation of Terms
+SUMMARY ~*Other tests*~
+/->-Since the distinction between contractual terms and mere representation was once hotly fought, as explained earlier, there are numerous cases on the subject. Many of them, in so far as they provide a rationale for the court's decision, can be taken to state tests for drawing the distinction. Most, on a close reading, turn out to be heavily dependent on factual context, so that they cannot conveniently be separated from it for wider application. What little could be achieved by presenting such authorities individually would be outweighed by the burden of learning to which it would lead. Therefore a short selection of the cases will be given very briefly. All should be taken as means of measuring the importance of the statement in question so as to judge the intention with which it was ostensibly made.
+
+
+
+
+NAME Assumption of responsibility / advice to verify
+TYPE Concept
+CATEGORY Incorporation of Terms
+SUMMARY ~*Assumption of responsibility / advice to verify*~
+
+
+
+
+NAME Schawel v Reade
+CITATION Schawel v Reade [1912] IR 64
+CATEGORY Incorporation of Terms; Distinguishing Between Terms and Representations; Subsidiary Tests
+SUMMARY ~*Overview*~
+/->-Where the prospective buyer of a horse was told by the seller that he need not continue to examine the animal because if anything were wrong the seller would have informed him, it was held by Lord Moulton that there could be no clearer evidence that the statement was meant as a term of the contract. The seller was taking responsibility for the soundness of the horse.
+
+
+
+
+NAME Ecay v Godfrey
+CITATION Ecay v Godfrey (1947) 80 Ll L Rep 286
+CATEGORY Incorporation of Terms; Distinguishing Between Terms and Representations; Subsidiary Tests
+SUMMARY ~*Overview*~
+/->-Where, by contrast, the seller of a motor cruiser appeared concerned to know whether the buyer would have a survey done or not, Lord Goddard CJ held that the seller's statements as to the boat's condition would not be interpreted as a contractual guarantee. It was not clear in this context that the seller was prepared to take responsibility for its condition.
+
+
+
+
+NAME Timing.
+TYPE Concept
+CATEGORY Incorporation of Terms
+SUMMARY ~*Timing.*~
+
+
+
+
+NAME Reduction of the contract to writing
+TYPE Concept
+CATEGORY Incorporation of Terms
+SUMMARY ~*Reduction of the contract to writing*~
+
+
+
+
+NAME Inntrepreneur Pub Co v East Crown Ltd
+CITATION Inntrepreneur Pub Co v East Crown Ltd [2000] 2 Lloyd's Rep 611
+CATEGORY Incorporation of Terms; Distinguishing Between Terms and Representations; Subsidiary Tests
+SUMMARY ~*Overview*~
+/->-There are dicta in some cases which suggest that a statement made at or just before the conclusion of the contract is more likely to be held to be intended as a term (because it had decisive effect on the recipient's willingness to contract). It is also said that where the parties have drawn up a written contract, and made no reference in it to an earlier statement, there is a presumption that it is not intended to have contractual effect. <i>Inntrepreneur Pub Co v East Crown Ltd</i> is authority for both these approaches. 
+/->-Can a statement be shown to be a term of the contract where it conflicts with a provision which clearly is part of the contract? 
+/->-The logical objection to this state of affairs is obvious, but the starting point for a discussion of the problem as far as English law is concerned is not logic but a general policy of the courts towards evidence of pre-contractual statements. Where the contract itself is oral, no difficulty arises; the court will review everything which passed between the parties in order to determine what is within the contract. Where the contract is written there is, at least in theory, a broad objection to looking outside it in order to qualify it in any way. 
+
+
+
+
+NAME The Parol Evidence Rule 
+TYPE Concept
+CATEGORY Incorporation of Terms
+SUMMARY ~*The Parol Evidence Rule *~
+/->-The rule, for which authority is normally found in the case of <i>Jacobs v Batavia (1924)</i>, ostensibly prevents the adducing of extrinsic evidence to “add to, vary or contradict” the terms of a written contract. The rationale for this principle can be found in the combined values of certainty, finality, and respect for the parties' objectively recorded contractual intentions. The contract, so this reasoning would have it, is sacrosanct.
+/->-Nevertheless, no statement of the parol evidence rule would be complete without immediately adding the proviso that there are numerous exceptions to it. One of the most telling of them consists in the proposition that one may adduce “extrinsic” evidence to rebut the presumption that the contract is entire, and to show that the parties actually intended it to be in two parts – the formal document, and some other statement which was meant to stand with it on an equal footing. The adduction of such evidence does not “add to, vary or contradict” the contract. It merely shows that the contract exists in two places, and therefore indicates its true extent.
+/->-It is not necessary to set out (or to learn) the intricacies of the rule in detail, at least for the purposes of this year. As far as the detail is concerned, the Law Commission in 1986 published a report on the rule, concluding that it required no amendment because in reality it never prevented the adduction of relevant evidence. *Treitel* took a more cautious view. Passages from the Law Commission's report and *Treitel*'s response are reproduced in *McKendrick*'s textbook.
+/->-The point of present interest is that the parol evidence rule has in fact (and somewhat ironically) provided a way for English law to circumvent the obvious logical answer to the question about conflicting statements posed at the beginning of this section. To that logical answer there can be no response, but to a rule of evidence which covers the same ground, there can be exceptions. The two exceptions of greatest relevance are (a) that a pre-contractual statement may be said to enter the contract, despite inconsistent terms within it, as an express oral assurance which overrides the inconsistent terms, or (b) it may be regarded as a collateral contract.
+FLAGS Treitel; McKendrick
+
+
+
+
+NAME Couchman v Hill
+CITATION Couchman v Hill [1947] KB 554
+CATEGORY Incorporation of Terms; Incorporation of Conlicting Terms; Parol Evidence Rule
+SUMMARY ~*Overview*~
+/->-The plaintiff attended an auction, intending to buy a heifer for service by his bull. The catalogue described the heifer as “unserved”, but also stated that accuracy of descriptions was not guaranteed and that lots were sold with all errors of description. Before the auction began, the plaintiff asked the defendant, who was owner of the heifer, and the auctioneer, for confirmation that it was unserved. Each assured him that it was, and he bid successfully for the animal. In fact it was not unserved, and it died from carrying a calf too young.
+/->-The Court of Appeal held that the express oral assurance amounted to a contractual term which overrode the disclaimer in the catalogue. 
+SUMMARY ~*Detail*~
+/->-The ground of this decision was explained by Scott LJ: “There was no contract in existence until the hammer fell. The offer was defined, the auctioneer's authority was defined, but it was in law open to the would-be purchaser to intimate in advance before bidding for any particular heifer offered from the rostrum that that he was not willing to bid for the lot unless the defendant modified the terms of sale contained in the two documents in some way specified by him. There is no doubt that the plaintiff did make some attempt of the kind in order to protect himself from the risk of buying an animal that was not of the kind described.
+/->-The real question is: What did the parties understand by the question addressed to and the answer received from both the defendant and the auctioneer? It is contended by the defendant that the question meant “having regard to the onerous stipulations which I know I shall have to put up with if I bid and the lot is knocked down to me, can you give me your honourable assurance that the heifers have in fact not been served? If so, I will risk the penalties of the catalogue”. The alternative meaning is: “I am frightened of contracting on your published terms, but I will bid if you will tell me by word of mouth that you accept full responsibility for the statement in the catalogue that the heifers have not been served, or in other words, give me a clean warranty. That is the only condition on which I will bid”. If that was the meaning there was clearly an oral offer of a warranty which over-rode the stultifying condition in the printed terms, that offer was accepted by the plaintiff when he bid, and the contract was made on that basis when the lot was knocked down to him...”.
+SUMMARY ~*A closer look*~
+/->-_This case is in fact controversial, but for a subsidiary reason not directly related to the conflict between the exempting terms and the express assurance. Commentators have wondered whether it was legitimate for one bidder at auction to have the benefit of a private warranty while others did not, and have contrasted Couchman with a nineteenth century case which went the other way but was not cited to the court. It is not necessary to dwell on the problem, and in fact Couchman is overlain by more than one later statement of judicial approval._
+/->-_The more substantial point is to gauge the means by which the oral assurance is found to take precedence over the potentially stultifying condition in the contract. The reasoning would seem to be this. The assurance comes later in time, and is therefore taken to represent the actual bargain between the parties. It is in this sense that it overrides._
+
+
+
+
+NAME Collateral Contracts
+TYPE Concept
+CATEGORY Incorporation of Terms; Incorporation of Conlicting Terms; Collateral Contracts
+SUMMARY ~*Collateral Contracts*~
+/->-There is still some difficulty in accepting that an express oral assurance can stand together with a contract which appears to deprive it of any effect. One means of lessening the difficulty is to reinterpret the situation as disclosing two contracts – the main agreement, and the oral assurance as a second agreement collateral to the first. A collateral contract basically has the same structure as a unilateral contract. It consists of an offer which is accepted by the doing of an act, namely entering into the main contract (this will also constitute the giving of consideration). 
+
+
+
+
+NAME City and Westminster Properties v Mudd
+CITATION City and Westminster Properties v Mudd [1958] 3 WLR 312
+CATEGORY Incorporation of Terms; Incorporation of Conlicting Terms; Collateral Contracts
+SUMMARY ~*Overview*~
+/->-In 1941 the defendant took on the tenancy of a lock-up shop. The landlord did not object to his sleeping there. In 1947 a new lease was in the process of negotiation. It included covenants that the defendant would not sleep on the premises, apparently included to prevent the tenancy coming within the Rent Restriction Acts. In response to the defendant stating that he would not sign the lease with this covenant in it, the landlord's agent told him that no objection would be made to his sleeping there. The lease was signed. In 1956 the plaintiffs sought forfeiture of the lease on the ground that the defendant was in breach of covenant by sleeping on the premises.
+/->-Harman J held that the promise not to object to the defendant sleeping on the premises, together with his entry into the lease, together constituted a collateral contract. Promissory estoppel was not applicable, because the landlord's promise related to rights under a future contract, not an existing one.
+SUMMARY ~*Discussion*~
+/->-The collateral contract analysis works well because it readily evades the parol evidence rule (such as it is). To meet the objection that there is a clear contract which the assurance is impermissibly attempting to contradict, it is possible to point to an independent process of contract formation which has produced a separate agreement. Furthermore, it will normally be possible to submit that since the main agreement would not have been concluded but for the collateral contract, so the main agreement must be read subject to the collateral one. Even if the main agreement were held to be unaffected by the collateral contract, it might be possible to claim damages for breach of the latter, as was successfully done in the next case.
+
+
+
+
+NAME J Evans & Son (Portsmouth) v Andrea Merzario Ltd
+CITATION J Evans & Son (Portsmouth) v Andrea Merzario Ltd [1976] 2 All ER 930
+CATEGORY Incorporation of Terms; Incorporation of Conlicting Terms; Collateral Contracts
+SUMMARY ~*Overview*~
+/->-Until 1967, the plaintiffs' shipments of machinery had always been carried by the defendant beneath decks, since the machinery was liable to rust if carried on deck. In 1967, in the course of a “courtesy call”, the defendant proposed that it should be carried in containers. The plaintiff expressed concern about rusting, since containers are often carried on deck. The defendant gave an oral assurance that the plaintiff's goods would always be shipped below decks, and the plaintiff agree to switch to containers. The written contract gave the defendant discretion in the matter. By an oversight, the plaintiff's goods were placed on deck, and were lost overboard.
+/->-The Court of Appeal held that the oral assurance amounted to a collateral contract to the effect that “if we continue to give you our business, you will arrange that those goods in containers are shipped under deck”. It had been breached. 
+
+
+
+
+NAME Esso Petroleum Co Ltd v Mardon
+CITATION Esso Petroleum Co Ltd v Mardon [1976] QB 801
+CATEGORY Incorporation of Terms; Incorporation of Conlicting Terms; Collateral Contracts
+SUMMARY ~*Overview*~
+/->-The facts are not relevant for present purposes, but certain characteristically candid remarks of Lord *Denning* form an apt postscript to the second half of this lecture:
+/->-“Ever since <i>Heilbut Symons v Buckleton</i> we have had to contend with the law as laid down by the House of Lords that an innocent misrepresentation gives no right to damages. In order to escape from that rule, the pleader used to allege – I often did it myself – that the misrepresentation was fraudulent, or alternatively a collateral warranty. We had to reckon, of course, with the dictum of Lord Moulton that such “collateral contracts must from their very nature be rare”. But more often than not the court elevated the innocent misrepresentation into a collateral warranty, and thereby did justice – in advance of the Misrepresentation Act 1967. I remember scores of cases of that kind, especially on the sale of a business. A representation as to the profits that had been made in the past was invariably held to be a warranty. Besides that experience, there have been many cases since I have sat in this court where we have readily held a representation – which induces a person to enter into a contract – to be a warranty sounding in damages. I summarised them in <i>Dick Bentley Productions Ltd v Harold Smith (Motors) Ltd </i>...”.

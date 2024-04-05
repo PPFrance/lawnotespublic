@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" >
+<style type="text/css" media="print">
+        @page 
+        {
+            size: auto;   /* auto is the current printer page size */
+            margin: 0mm;  /* this affects the margin in the printer settings */
+        }
+
+        body 
+        {
+            background-color:#FFFFFF; 
+            margin: 0px;  /* the margin on the content before printing */
+       }
+</style>
+
+<style>
+@media print{
+  body{ background-color:#FFFFFF; background-image:none; color:#000000 }
+  #ad{ display:none;}
+  #leftbar{ display:none;}
+  #contentarea{ width:100%;}
+}
+
+
+@font-face {
+    font-family: SourceSansPro;
+    src: url('res/SourceSansPro-Light.otf.woff');
+}
+@font-face {
+    font-family: SourceSansPro;
+    src: url('res/SourceSansPro-Semibold.otf.woff');
+    font-weight: bold;
+}
+@font-face {
+    font-family: SourceSansPro;
+    src: url('res/SourceSansPro-LightIt.otf.woff');
+    font-style: italic;
+}
+@font-face {
+    font-family: SourceSansPro;
+    src: url('res/SourceSansPro-SemiboldIt.otf.woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+p {
+padding: 2px 0px 2px 0px;
+margin: 9px 0px 9px 0px;
+}
+
+.page {
+	display: flex;
+	justify-content: center; /* align horizontal */
+	align-items: center; /* align vertical */
+	text-align: center;
+	position: relative;
+	width: 26cm;
+	display: table;
+	font-family: SourceSansPro, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+.front {
+	justify-content: center;
+}
+.back, .case-details-container {
+	justify-content: space-between;
+    display: flex;
+}
+
+
+.box {
+	position: relative;
+	float: left;
+	width: 12.4cm;
+	height: 11.6cm;
+	display: flex;
+    
+	align-items: center; /* align vertical */
+	text-align: center;
+	padding: 5px;
+	overflow: hidden;
+	border-top: solid 2px darkgrey;
+	border-left: solid 2px darkgrey;
+	
+}
+
+.lnk {
+    text-decoration: underline;
+    font-style: italic;
+    color: darkgrey;
+}
+
+
+
+.box-l {
+	
+}
+.box-r {
+	border-right: solid 2px darkgrey;
+}
+.box-b {
+	border-bottom: solid 2px darkgrey;
+}
+
+
+.bigbox {
+	position: relative;
+	float: left;
+	width: 24.8cm;
+	height: 11.6cm;
+	display: flex;
+	align-items: center; /* align vertical */
+	text-align: center;
+	padding: 5px;
+	overflow: hidden;
+	border-top: solid 3px darkgrey;
+	border-left: solid 3px darkgrey;
+	border-right: solid 3px darkgrey;
+	
+}
+
+
+.bigbox-t {
+}
+.bigbox-m {
+}
+.bigbox-b {
+	border-bottom: solid 3px darkgrey;
+}
+
+
+
+
+
+
+
+
+.case-name {
+	font-weight: bold;
+	font-size: 24pt;
+}
+
+.case-name-container {
+}
+
+.bd {
+	font-weight: bold;
+}
+.it {
+	font-style: italic;
+}
+.ul {
+	text-decoration: underline;
+}
+
+.caselink {
+	font-style: italic;
+	text-decoration: underline;
+}
+
+.details-title {
+	font-size: 18pt;
+	font-weight: bold;
+	padding-bottom:15px;	
+}
+
+.details-facts {
+	font-size:15pt;
+	text-align: justify;
+    
+    column-width: 25em;
+    column-gap: 1.5em;   /* shown in yellow */            
+    column-rule: 1px dashed rgba(0,0,0,0.4);
+    -moz-column-width: 25em;
+    -moz-column-gap: 1.5em;   /* shown in yellow */            
+    -moz-column-rule: 1px dashed rgba(0,0,0,0.4);
+    
+    padding: 5px;      /* shown in blue */
+}
+
+.details-held {
+	font-size:15pt;
+	text-align: justify;
+	padding-top:15px;
+	font-style: italic;
+}
+.details-held .it {
+	font-style: normal;
+}
+
+.details-trivia {
+	text-align: justify
+	font-size:10pt;
+	padding-top:15px;
+}
+.details-comment {
+	text-align: justify
+	font-size:10pt;
+	padding-top:15px;
+}
+
+</style>
+
+
+<script src="js/jquery-2.2.3.js"></script>
+<script>
+
+$( document ).ready(function() {
+	
+	var len = $('.back').length;
+	console.log('Number of backs: '+len);
+	for (var i=0; i<len; i++)
+	{
+		var div = $('.back')[i];
+		var sh = $(div)[0].scrollHeight;
+		var ih = $(div).innerHeight();
+		console.log('scrollHeight of back '+i+' is '+sh +', innerHeight is '+ih+'.');
+		if (sh > ih)
+		{
+			console.log('Adjusting font-size until sh < ih...');
+			
+			var maxIterations = 50;
+			var j=0;
+			while (sh > ih && j < maxIterations)	//j<maxIterations for 'safety.' 
+			{
+				$(div).find('.details, p').each(function() {
+					var fontSize = parseInt($(this).css('font-size'))-1 + 'px';
+					$(this).css('font-size',  fontSize);
+				});
+				
+				sh = $(div)[0].scrollHeight
+				ih = $(div).innerHeight();
+				j+= 1
+				
+				console.log('In loop, after '+j+' iterations, scrollHeight: '+sh +', innerHeight: '+ih+'.');
+			} 		
+		}
+	
+	}
+});
+
+</script>
+
+
+
+</head>
+<body>
+
+<div class='page' id='page-1'>
+	<div class='front box box-l' id='box-1'> <div style='case-name-container'><div class='case-name'>Wright v Atkyns [1823]</div></div> </div>
+	<div class='front box box-r' id='box-2'> <div style='case-name-container'><div class='case-name'>McPhail v Doulton [1970]</div></div> </div>
+	<div class='front box box-l' id='box-3'> <div style='case-name-container'><div class='case-name'>Re Baden (no. 2) [1972]</div></div> </div>
+	<div class='front box box-r' id='box-4'> <div style='case-name-container'><div class='case-name'>Paul v Constance [1977]</div></div> </div>
+	<div class='front box box-l box-b' id='box-5'> <div style='case-name-container'><div class='case-name'>Re Adams and Kensington Vestry [1884]</div></div> </div>
+	<div class='front box box-r box-b' id='box-6'> <div style='case-name-container'><div class='case-name'>Lambe v Eames</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-2'>
+	<div class='back box box-l' id='box-7'> <div style='case-details-container'><div class='details details-title'>Three Certainties</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; – per Lord Eldon &#8220;first... the word must be imperative...; secondly... the subject must be certain...; and thirdly... the object must be as certain as the subject&#8221;</div></div> </div>
+	<div class='back box box-r' id='box-8'> <div style='case-details-container'><div class='details details-title'>Three Certainties</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Softening the <span class="it">fixed list</span> test for <span class="lnk caseln">certainty of object</span>, Lord Wilberforce held a trust will not fail for uncertainty of object, if there is <span class="it">sufficient practical certainty</span> in its definition such that it could be said of <span class="it">any given postulant</span> whether or not they belong to the class of beneficiaries.</div></div> </div>
+	<div class='back box box-l' id='box-9'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Object</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The CA accepted the trust as valid, although the test was interpreted in three different ways by the judges, in regards to the determination of conceptual and evidential certainty.</div></div> </div>
+	<div class='back box box-r' id='box-10'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Intention</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The essence of the requirement of certainty of intention is that the creator of the trust intended to cause someone to be under a duty to hold property for another.</div></div> </div>
+	<div class='back box box-l box-b' id='box-11'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Intention &mdash; Precatory Words</div><div class='details details-facts'><p>Had a trust been validly created by a will containing the words &#8220;<span class="it">in full confidence</span> that she would do what was right as to the disposal thereof between my children&#8221;?</p></div><div class='details details-held'><b>Held</b>&mdash; The wording did not establish an intention to create a trust; it established merely a <span class="bd">wish</span>.</div><div class='details details-held'><b>Comment</b>&mdash; de Than &mdash; &#8220;there are some very sensible dead judges.”</div></div> </div>
+	<div class='back box box-r box-b' id='box-12'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Intention &mdash; Precatory Words</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A provision in a will that left property to the testator&#8217;s wife &#8220;to be at her disposal <span class="bd">in any way she may think best</span> for the benefit of herself and her family&#8221; had not successfully established a trust.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-3'>
+	<div class='front box box-l' id='box-13'> <div style='case-name-container'><div class='case-name'>Re Hamilton [1895]</div></div> </div>
+	<div class='front box box-r' id='box-14'> <div style='case-name-container'><div class='case-name'>Re Steele&#8217;s WT [1948]</div></div> </div>
+	<div class='front box box-l' id='box-15'> <div style='case-name-container'><div class='case-name'>Re Diggles [1888]</div></div> </div>
+	<div class='front box box-r' id='box-16'> <div style='case-name-container'><div class='case-name'>Comiskey v Bowring-Hanbury [1905] UKHL</div></div> </div>
+	<div class='front box box-l box-b' id='box-17'> <div style='case-name-container'><div class='case-name'>Re Kayford [1975] EWHC</div></div> </div>
+	<div class='front box box-r box-b' id='box-18'> <div style='case-name-container'><div class='case-name'>Re Challonner Club [1997] EWHC</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-4'>
+	<div class='back box box-l' id='box-19'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Intention &mdash; Precatory Words</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Precatory words must be read in the context of the whole will be fore deciding whether or not they create a trust.</div></div> </div>
+	<div class='back box box-r' id='box-20'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Intention &mdash; Precatory Words &mdash; Boilerplate</div><div class='details details-facts'><p>A will had been drafted by copying from another that had been held in court to establish a trust.</p></div><div class='details details-held'><b>Held</b>&mdash; Wynn-Parry LJ &mdash; copying from a will that <span class="it">had</span> been held to be a trust elsewhere <span class="it">did indeed</span> establish a trust, as doing so clearly establishes intention to create a trust.</div></div> </div>
+	<div class='back box box-l' id='box-21'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Intention &mdash; Precatory Words</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; <span class="it">Desire</span> &mdash; precatory words.. etc.</div></div> </div>
+	<div class='back box box-r' id='box-22'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Intention &mdash; Precatory Words</div><div class='details details-facts'><p>Did the words &#8216;absolutely in full confidence&#8217; cross the line from merely precatory <span class="it">desire</span> to actual <span class="it">intention</span>?</p><p>&#8216;I give, bequeath and devise to my very dear wife the whole of my real and personal estate and property <span class="bd">absolutely in full confidence</span> left his estate to his wife &#8216;in full confidence that she will make such use of it as I should have made myself and that at her death she will devise it to such one or more of my nieces as she may think fit and in default of any disposition by her thereof by her will... I hereby direct that all my estate and property acquired by her under this my will shall at her death be equally divided among the surviving said nieces.&#8217;</p></div><div class='details details-held'><b>Held</b>&mdash; From the word &#8216;absolutely,&#8217; in &#8216;absolutely in full confidence,&#8217; an inference could be drawn that the testator was not merely expressing a wish, but referring to an existing arrangement.</div></div> </div>
+	<div class='back box box-l box-b' id='box-23'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Intention &mdash; The word 'Trust'</div><div class='details details-facts'><p>Worried that their company going bust, but keen to do the honourable thing, a separate bank account named &#8216;Customers’ Trust Deposit Account&#8217; was opened, into which were paid all new customers&#8217; monies &mdash; which they continued to accept in the hope of rescuing the business. When it did indeed go bust, was the money to be considered assets to be divvied up amongst the creditors, or had a trust the liquidator couldn&#8217;t touch been established?</p></div><div class='details details-held'><b>Held</b>&mdash; Opening and putting money in an account named &#8216;Customers&#8217; Trust Deposit Account,&#8217; was, in the circs of ominous finances, enough to establish intention to create a trust (with company as both settlor and trustee with customers as beneficiaries).</div></div> </div>
+	<div class='back box box-r box-b' id='box-24'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Intention</div><div class='details details-facts'><p>A company running a club, worried for its financial future, decided to solicit donations and increased subscriptions, to be paid into a separate bank account. The company then went insolvent; the administrator asked for direction about whether the monies in the separate account were to be considered assets.</p></div><div class='details details-held'><b>Held</b>&mdash; Ambiguity and discrepancy in the conditions under which money separated off from a company&#8217;s main funds in order to attempt to protect it from creditors, if the company went bankrupt, was enough to defeat the claim that an express trust had been created.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-5'>
+	<div class='front box box-l' id='box-25'> <div style='case-name-container'><div class='case-name'>Palmer v Simmonds [1854]</div></div> </div>
+	<div class='front box box-r' id='box-26'> <div style='case-name-container'><div class='case-name'>Sprange v Barnard [1789]</div></div> </div>
+	<div class='front box box-l' id='box-27'> <div style='case-name-container'><div class='case-name'>Re Golay [1965]</div></div> </div>
+	<div class='front box box-r' id='box-28'> <div style='case-name-container'><div class='case-name'>Re London Wine [1986] EWHC</div></div> </div>
+	<div class='front box box-l box-b' id='box-29'> <div style='case-name-container'><div class='case-name'>In the Estate of Last [1958]</div></div> </div>
+	<div class='front box box-r box-b' id='box-30'> <div style='case-name-container'><div class='case-name'>Re Goldcorp [1995] UKPC (NZ)</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-6'>
+	<div class='back box box-l' id='box-31'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Subject &mdash; Identification of Trust Property</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A trust will not be upheld if the description is vague. A will attempting to establish a trust for &#8216;the bulk of&#8217; an estate was <span class="bd">not</span> upheld.</div></div> </div>
+	<div class='back box box-r' id='box-32'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Subject &mdash; Identification of Trust Property</div><div class='details details-facts'><p>A will tried to establish a trust for the &#8216;remaining part of what is left, that [my husband] doesn&#8217;t want for his own wants and uses.&#8217;</p></div><div class='details details-held'><b>Held</b>&mdash; A description of the subject of a trust which leaves open the possibility of <span class="it">containing no property at all</span>, will fail for a lack of certainty of subject.</div></div> </div>
+	<div class='back box box-l' id='box-33'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Subject &mdash; Identification of Trust Property</div><div class='details details-facts'><p>The will had provided the beneficiary &mdash; name of Tossi, apparently the testator&#8217;s <span class="it">bit of crumpet</span> &mdash; the use of <span class="it">one of</span> his flats, during her lifetime; and a <span class="it">reasonable income</span> from other properties. What was that supposed to mean? Usually, what the judge happens to think.</p></div><div class='details details-held'><b>Held</b>&mdash; A will leaving someone a <span class="it">reasonable income</span> and the right to live in <span class="it">one of</span> the testator&#8217;s flats, without specifying which, was <span class="it">upheld</span>.</div></div> </div>
+	<div class='back box box-r' id='box-34'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Subject &mdash; Segregation of Chattels</div><div class='details details-facts'><p>A company selling wine to investors went into administration. The idea was the wine would remain in the company&#8217;s warehouses, and the owner would get a document of title. The location of each customer&#8217;s wine in the warehouses was kept track of, but not in terms of which customer owned which cases at a given location, location identifying a number of cases of a particular vintage.</p></div><div class='details details-held'><b>Held</b>&mdash; Physical segregation of chattels is necessary to identify the property of a trust, so the attempt to establish a trust by the purchasers failed.</div><div class='details details-held'><b>Comment</b>&mdash; the way to see this as consistent with the <span class="lnk caseln">Hunter v Moss</span> is that bottles of the same vintage from the same producer may look identical, but may be of different quality: some may be corked, others may not. A similar claim could not be made of shares. See also <span class="lnk caseln">Re Goldcorp</span>.</div></div> </div>
+	<div class='back box box-l box-b' id='box-35'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Subject &mdash; Identification of Trust Property</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Should there be uncertainty as to the property of which the residue of an estate might comprise, it cannot be the subject trust &mdash; a will attempting to do so for &#8220;anything that is left&#8221; failed, and was found instead to be an absolute gift.</div></div> </div>
+	<div class='back box box-r box-b' id='box-36'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Subject &mdash; Segregation of Chattels</div><div class='details details-facts'><p>A Ponzi scheme in which lots of big rich fuckers lost out. The court helped a guy who&#8217;d ordered <span class="bd"><span class="ud">unsegregated</span></span> medals <span class="bd">was</span> helped &mdash; but declined to do so for a load of nutters whose property was <span class="bd"><span class="ud">numbered</span> bullion bars</span>.  The claim, <span class="it">inter alia</span>, was that the company had breached the fiduciary duty it owned to the claimants.</p></div><div class='details details-held'><b>Held</b>&mdash; Even when each chattel comprising a trust fund is inscribed with means of unique identification, storage with non-trust fund property will defeat certainty of subject. Furthermore contractual dealings generally lack the <span class="bd">trust</span> and <span class="bd">confidence</span> that are the hallmarks of fiduciary duties.</div><div class='details details-held'><b>Comment</b>&mdash; obviously wonky logic in this case, perhaps engaging in a little light ad hoc wealth redistribution. See also <span class="lnk caseln">Re London Wine</span>.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-7'>
+	<div class='front box box-l' id='box-37'> <div style='case-name-container'><div class='case-name'>Hunter v Moss [1994] EWCA</div></div> </div>
+	<div class='front box box-r' id='box-38'> <div style='case-name-container'><div class='case-name'>Holland v Newbury [1994]</div></div> </div>
+	<div class='front box box-l' id='box-39'> <div style='case-name-container'><div class='case-name'>White v Shorthall [2006] NSW CA</div></div> </div>
+	<div class='front box box-r' id='box-40'> <div style='case-name-container'><div class='case-name'>Pearson v Lehman Bros [2012]</div></div> </div>
+	<div class='front box box-l box-b' id='box-41'> <div style='case-name-container'><div class='case-name'>Boyce v Boyce [1869]</div></div> </div>
+	<div class='front box box-r box-b' id='box-42'> <div style='case-name-container'><div class='case-name'>Thomas v Times Books [1966]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-8'>
+	<div class='back box box-l' id='box-43'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Subject &mdash; Intangible Property</div><div class='details details-facts'><p>A man had promised his employee 5% of the share capital in his company, of 1000 issued shares. Would this be void for uncertainty, by application of <span class="lnk caseln">Re Goldcorp</span> or <span class="lnk caseln">Re London Wine</span>?</p></div><div class='details details-held'><b>Held</b>&mdash; A trust of part of a fungible mass such as a shareholding or a bank account will not fail for uncertainty of subject, so long as the size of the part is not uncertain. 5% of 1000 <span class="it">identical</span> shares equals 50 shares &mdash; the trust was upheld. Any 50 of the 1000 shares would have done. Distinguished <span class="lnk caseln">Re London Wine</span>.</div><div class='details details-held'><b>Comment</b>&mdash; virgo p89 refers to this as the leading case on identifying trust property.</div></div> </div>
+	<div class='back box box-r' id='box-44'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Subject &mdash; Intangible Property</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Neuberger J followed the ruling of <span class="lnk caseln">Hunter v Moss</span> earlier the same year, in which the rule requiring segregation of trust property from a larger mass was found not to apply to fungible intangibles.</div></div> </div>
+	<div class='back box box-l' id='box-45'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Subject &mdash; Identification of Trust Property &mdash; Intangible Property</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; In the Court of Appeal in New South Wales, on very similar facts to <span class="lnk caseln">Hunter v Moss</span>, the problem of identification of the shares belonging to the claimant of the trust was neatly circumvented by finding that the settlor had declared the <span class="it">entire fund</span> a trust, with herself and the claimant as beneficiaries.</div></div> </div>
+	<div class='back box box-r' id='box-46'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Subject &mdash; Identification of Trust Property &mdash; Intangible Property</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Briggs J, obiter &mdash; 1. the principle of <span class="lnk caseln">White v Shorthall</span> (which side-stepped the problem of identification of unsegregated trust property by contriving to find a trust had been declared by the settlor for the <span class="it">entire</span> fund, with both settlor and real beneficiary as beneficiaries of <span class="it">unequal</span> proportions) is preferable to the binding authority.  2. Electronic documentation was sufficient to satisfy the requirement of S53(1)(c) LPA.</div><div class='details details-held'><b>Comment</b>&mdash; see also <span class="lnk caseln">Formalities for inter vivos Express Trusts</span>.</div></div> </div>
+	<div class='back box box-l box-b' id='box-47'> <div style='case-details-container'><div class='details details-title'>Three Certainties &mdash; Certainty of Subject &mdash; Identification of Trust Property &mdash; Jurisdiction over Beneficiaries</div><div class='details details-facts'><p>In the will, addressed to the eldest daughter: “whichever house she may think proper to choose or select,” leaving her other house to her other obviously less-preferred daughter.</p></div><div class='details details-held'><b>Held</b>&mdash; Equity has jurisdiction over trustees, not beneficiaries. A trust with more than one beneficiary, where certainty of the size of each beneficiaries interest will only be ascertained when a given one makes a choice is valid, and the court cannot compel the choice to be made.</div></div> </div>
+	<div class='back box box-r box-b' id='box-48'> <div style='case-details-container'><div class='details details-title'>Formalities</div><div class='details details-facts'><p>Concerning the BBC radio dramatisation of <span class="it">Under Milk Wood</span>. Takes manuscript with him on a drinking bout in Soho &mdash; loses it. Phones agent, Cleveden. Asks for copies. Gets them in the nick of time, at London airport departing for the States. Relieved, gratefully tells agent <span class="it">he could keep the manuscript</span>, if he could find it. Goes to the pub Thomas&#8217;d been drinking at, finds it.</p><p>&#8220;I&#8217;ve had 18 straight whiskies; I think that’s the record&#8221;</p><p>Thomas&#8217;s widow, the plaintiff in the action, then sued the agent.</p></div><div class='details details-held'><b>Held</b>&mdash; An inter vivos trust of chattels may be validly established by the settlor saying of the property: &#8220;you can keep it, if you can find it.&#8221;</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-9'>
+	<div class='front box box-l' id='box-49'> <div style='case-name-container'><div class='case-name'>Gardner v Rowe [1828]</div></div> </div>
+	<div class='front box box-r' id='box-50'> <div style='case-name-container'><div class='case-name'>Rochefoucald v Boustead [1897]</div></div> </div>
+	<div class='front box box-l' id='box-51'> <div style='case-name-container'><div class='case-name'>Onslow v Wallis [1849]</div></div> </div>
+	<div class='front box box-r' id='box-52'> <div style='case-name-container'><div class='case-name'>Oughtred v IRC [1960]</div></div> </div>
+	<div class='front box box-l box-b' id='box-53'> <div style='case-name-container'><div class='case-name'>Grey v IRC [1960]</div></div> </div>
+	<div class='front box box-r box-b' id='box-54'> <div style='case-name-container'><div class='case-name'>Vandervell v IRC [1967]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-10'>
+	<div class='back box box-l' id='box-55'> <div style='case-details-container'><div class='details details-title'>Formalities</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A trust of land for which there is no evidence in writing signed by the settlor is unenforceable rather than void.</div></div> </div>
+	<div class='back box box-r' id='box-56'> <div style='case-details-container'><div class='details details-title'>Formalities</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The signed writing of a settlor attesting to a trust of land need not be contemporary with the trust&#8217;s creation. Formality rules may not be applied should doing so facilitate fraud, as <span class="lnk caseln">equity will not allow a statute to be a cloak for fraud</span>.</div></div> </div>
+	<div class='back box box-l' id='box-57'> <div style='case-details-container'><div class='details details-title'>Formalities &mdash; Dispositions of Equitable Interests &mdash; Subtrusts</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Subtrusts can be <span class="it">active</span> &mdash; the trustee of which, the beneficiary of the original trust, still retains some part of the original beneficial interest; or <span class="it">passive</span> &mdash; in which <span class="it">all</span> the beneficiary of the original trust transfers <span class="it">all</span> the beneficial interest to the beneficiary of the subtrust. The original beneficiary, therefore, &#8216;drops out of the picture.&#8217;</div></div> </div>
+	<div class='back box box-r' id='box-58'> <div style='case-details-container'><div class='details details-title'>Formalities &mdash; Dispositions of Equitable Interests</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; If the beneficiary of an equitable interest concludes a specifically-enforceable contract to transfer that interest to a third party, then because the law considers a <span class="it">constructive</span> trust to have arisen in favour of the buyer at the moment the contract is concluded, the disposition falls outside the scope of the S53(1)(c) requirement (that dispositions of subsisting equitable interests be in signed writing) because of S53(2), which explicitly excludes resulting and constructive trusts.  Nevertheless, stamp duty may be payable on any subsequent writing as to the disposition.</div></div> </div>
+	<div class='back box box-l box-b' id='box-59'> <div style='case-details-container'><div class='details details-title'>Formalities &mdash; Dispositions of Equitable Interests</div><div class='details details-facts'></div><div class='details details-held'></div></div> </div>
+	<div class='back box box-r box-b' id='box-60'> <div style='case-details-container'><div class='details details-title'>Formalities &mdash; Dispositions of Equitable Interests</div><div class='details details-facts'></div><div class='details details-held'></div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-11'>
+	<div class='front box box-l' id='box-61'> <div style='case-name-container'><div class='case-name'>Re Vandervell (no 2) [1974]</div></div> </div>
+	<div class='front box box-r' id='box-62'> <div style='case-name-container'><div class='case-name'>Grainge v Wilberforce [1889]</div></div> </div>
+	<div class='front box box-l' id='box-63'> <div style='case-name-container'><div class='case-name'>Re Lashmar [1891]</div></div> </div>
+	<div class='front box box-r' id='box-64'> <div style='case-name-container'><div class='case-name'>Nelson v Greening [2007]</div></div> </div>
+	<div class='front box box-l box-b' id='box-65'> <div style='case-name-container'><div class='case-name'>Milroy v Lord</div></div> </div>
+	<div class='front box box-r box-b' id='box-66'> <div style='case-name-container'><div class='case-name'>Re Rose (of 1949)</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-12'>
+	<div class='back box box-l' id='box-67'> <div style='case-details-container'><div class='details details-title'>Formalities &mdash; Dispositions of Equitable Interests</div><div class='details details-facts'></div><div class='details details-held'></div></div> </div>
+	<div class='back box box-r' id='box-68'> <div style='case-details-container'><div class='details details-title'>Formalities &mdash; Dispositions of Equitable Interests</div><div class='details details-facts'></div><div class='details details-held'></div></div> </div>
+	<div class='back box box-l' id='box-69'> <div style='case-details-container'><div class='details details-title'>Formalities &mdash; Dispositions of Equitable Interests</div><div class='details details-facts'></div><div class='details details-held'></div></div> </div>
+	<div class='back box box-r' id='box-70'> <div style='case-details-container'><div class='details details-title'>Formalities &mdash; Dispositions of Equitable Interests</div><div class='details details-facts'></div><div class='details details-held'></div></div> </div>
+	<div class='back box box-l box-b' id='box-71'> <div style='case-details-container'><div class='details details-title'>Constitution of Trusts &mdash; Incompleteness</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; For equity to step in and complete an imperfect gift, the settlor must have done <span class="it">everything required by the nature of the trust property</span> to ensure it was transferred. Where a trust fails, equity will <span class="it">not</span> construe the donor&#8217;s words to make the donee a trustee, as to do so imposes obligations not entailed by a gift.</div></div> </div>
+	<div class='back box box-r box-b' id='box-72'> <div style='case-details-container'><div class='details details-title'>Constitution of Trusts &mdash; Incompleteness</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Although equity will not compel an imperfect gift to be completed, it may not consider a gift where the donor has done <span class="it">everything within their power</span> to divest themselves of the property, to be imperfect &mdash; and in such circumstances, will step in and complete the transfer. Approved in a later case with the same name and the same Judge.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-13'>
+	<div class='front box box-l' id='box-73'> <div style='case-name-container'><div class='case-name'>Re Rose (of 1952) [1952]</div></div> </div>
+	<div class='front box box-r' id='box-74'> <div style='case-name-container'><div class='case-name'>Choithram v Pagarini [2001]</div></div> </div>
+	<div class='front box box-l' id='box-75'> <div style='case-name-container'><div class='case-name'>Pennington v Waine [2002]</div></div> </div>
+	<div class='front box box-r' id='box-76'> <div style='case-name-container'><div class='case-name'>Zeital v Kaye [2010]</div></div> </div>
+	<div class='front box box-l box-b' id='box-77'> <div style='case-name-container'><div class='case-name'>Fletcher v Fletcher [1844]</div></div> </div>
+	<div class='front box box-r box-b' id='box-78'> <div style='case-name-container'><div class='case-name'>Re Cooke&#8217;s ST [1965]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-14'>
+	<div class='back box box-l' id='box-79'> <div style='case-details-container'><div class='details details-title'>Constitution of Trusts &mdash; Incompleteness</div><div class='details details-facts'><p>The transferor intended to make a gift of shares to his wife; he completed the relevant documentation, and in <span class="it">March</span>, delivered it to the company in question. The company didn&#8217;t register the transfer until <span class="it">June</span>. Had they done so March, no tax would have been payable on them by the donor.</p></div><div class='details details-held'><b>Held</b>&mdash; Equity will complete a transfer when the transferor has done <span class="it">everything within their power</span> to achieve the transfer.</div></div> </div>
+	<div class='back box box-r' id='box-80'> <div style='case-details-container'><div class='details details-title'>Constitution of Trusts &mdash; Incompleteness</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; When the donor to a trust is also a trustee, <span class="lnk caseln">equity will not strive officiously to defeat a gift</span>, and so may complete an imperfect gift which would fail on <span class="lnk caseln">Re Rose</span> grounds.  It could be argued that, TCP being in extremis and drifting in and out of consciousness, he <span class="it">did</span> in fact do everything within his power to divest himself of the property, <span class="it">everything in his power</span> naturally being a function of his <span class="it">circumstances</span>.</div></div> </div>
+	<div class='back box box-l' id='box-81'> <div style='case-details-container'><div class='details details-title'>Constitution of Trusts &mdash; Incompleteness</div><div class='details details-facts'><p>Google “Pennington McGhee QC Harold”</p><p><ul><li><span class="nl"> Share declaration transferring shares from Ada to Harold (Pennington?) left in desk drawer.</span></li><li><span class="nl"> Then she died. Under Milroy, transfer not completed. Trying to give a gift, no attempt to create a trust. Share transfer needed to qualify Harold to be a director, presumably of her company.</span></li><li><span class="nl"> Court decided on TCP grounds. Unconscionable to go back on Ada’s wishes.</span></li><li><span class="nl"> But why would TCP’s new equitable maxim step in to make a man a company director?</span></li><li><span class="nl"> Arden LJ: “equity tempers the wind to the shorn lamb” x 3.</span><ul><li><span class="nl"> CdT: &#8220;This is actually a plagiarism from a Frenchman who died 400 years ago.&#8221;</span></li><li><span class="nl"> Retrofitted into Psalm 6 verse 2.</span></li><li><span class="nl"> All of this is according to de Than. Book chapter called “Equity’s Special Tenderness”</span></li></ul><li><span class="nl"> Pennington v Waine is basically Milroy v Lord. But decided the other way, because of TCP.</span></li><li><span class="nl"> Arden LJ: policy reasons.</span></li><li><span class="nl"> N.B. this case ignores Pehrsson v von Greyerz (1999) PC.</span></li></ul></p></div><div class='details details-held'><b>Held</b>&mdash; Equity will not step in to complete an incomplete gift given ambivalently, except where not doing so would be unconscionable. (Approved <span class="lnk caseln">Choithram</span>, but subsequently doubted in <span class="lnk caseln">Zeital</span>).</div></div> </div>
+	<div class='back box box-r' id='box-82'> <div style='case-details-container'><div class='details details-title'>Constitution of Trusts &mdash; Incompleteness</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The <span class="lnk caseln">Re Rose</span> doctrine, that the donor must do <span class="it">everything in their power</span> to divest themselves of the property,  is still good law. Notwithstanding contradictory dicta in <span class="lnk caseln">Pennington</span>, a donor&#8217;s change of heart has never been capable of being <span class="it">unconscionable</span>.</div></div> </div>
+	<div class='back box box-l box-b' id='box-83'> <div style='case-details-container'><div class='details details-title'>Constitution of Trusts</div><div class='details details-facts'><p>An unprecedented attitude to IP rights, implications of which are that every time you make a promise, the promisee could sue on it. Which would make things a little complex.</p><p>Claire thinks it was wrongly decided.<br><span class="it">This chap Fletcher:</span></p><p><ul><li><span class="nl"> owned a farm, had an immense fortune, keeping his wife in the dark about the size of his wealth or the number of illegitimate sprogs he&#8217;d sired.</span></li><li><span class="nl"> died.</span></li><li><span class="nl"> without having made provision for the bastards &mdash; <span class="it">could have used a secret trust, but didn&#8217;t.</span></span></li><li><span class="nl"> but had written a deed of covenant leaving £60,000 for any of them reaching the age of 21.</span></li></ul></p><p><span class="it">But:</span></p><p><ul><li><span class="nl"> But no one knew about the covenant, which was found in a desk drawer.</span></li><li><span class="nl"> One child <span class="it">did</span> make it to 21, and promptly sued to enforce the covenant.</span></li><li><span class="nl"> He won, as the court found the father had held the covenant on trust for the son.</span></li></ul></p></div><div class='details details-held'><b>Held</b>&mdash; Given that a promise is a chose in action, a piece of intangible intellectual property, a promise can be held on trust.</div></div> </div>
+	<div class='back box box-r box-b' id='box-84'> <div style='case-details-container'><div class='details details-title'>Constitution of Trusts &mdash; Fletcher Cases</div><div class='details details-facts'><p>Son had promised father, seeking to avoid tax, that if he sold any family-owned portraits, then money would go to him. Son gave Rembrandt&#8217;s Titus to his wife, &#8220;on the understanding&#8221; that she&#8217;d sell it.&#8221;</p></div><div class='details details-held'><b>Held</b>&mdash; Buckley LJ &mdash; <span class="lnk caseln">Fletcher</span> couldn&#8217;t be applied to property that didn&#8217;t yet exist. The <span class="it">proceeds of sale</span> of a thing are not the same thing as the thing.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-15'>
+	<div class='front box box-l' id='box-85'> <div style='case-name-container'><div class='case-name'>Lloyd&#8217;s v Harper [1880]</div></div> </div>
+	<div class='front box box-r' id='box-86'> <div style='case-name-container'><div class='case-name'>Re Flavell [1883]</div></div> </div>
+	<div class='front box box-l' id='box-87'> <div style='case-name-container'><div class='case-name'>Don King v Frank Warren [1999]</div></div> </div>
+	<div class='front box box-r' id='box-88'> <div style='case-name-container'><div class='case-name'>Strong v Bird [1874]</div></div> </div>
+	<div class='front box box-l box-b' id='box-89'> <div style='case-name-container'><div class='case-name'>Re Ralli [1964]</div></div> </div>
+	<div class='front box box-r box-b' id='box-90'> <div style='case-name-container'><div class='case-name'>Kasperbauer v Griffiths [2000]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-16'>
+	<div class='back box box-l' id='box-91'> <div style='case-details-container'><div class='details details-title'>Constitution of Trusts &mdash; Fletcher Cases</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Son promises to pay off debt, father signs to say he&#8217;ll pay in default.</div></div> </div>
+	<div class='back box box-r' id='box-92'> <div style='case-details-container'><div class='details details-title'>Constitution of Trusts &mdash; Fletcher Cases</div><div class='details details-facts'><p>Promise to pay an annuity of £350 from proceeds of professional practice.</p></div><div class='details details-held'><b>Held</b>&mdash; A promise to pay an annuity of £350 was deemed to have been held on trust for the beneficiary.</div></div> </div>
+	<div class='back box box-l' id='box-93'> <div style='case-details-container'><div class='details details-title'>Constitution of Trusts &mdash; Fletcher Cases / Constitution of Trusts &mdash; Fletcher Cases</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Even though no submissions were made on <span class="lnk caseln">Fletcher</span>, the principle was nevertheless used in the judgment, the judge apparently keen to flaunt his familiarity with the more arcane shafts and crevices of equity.</div></div> </div>
+	<div class='back box box-r' id='box-94'> <div style='case-details-container'><div class='details details-title'>Constitution of Trusts &mdash; Rule in Strong v Bird</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The failure of a gift will be perfected should the legal title to the property vest in the donee when the settlor dies, by virtue of the donee being an executor.</div></div> </div>
+	<div class='back box box-l box-b' id='box-95'> <div style='case-details-container'><div class='details details-title'>Constitution of Trusts &mdash; Rule in Strong v Bird</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; If someone was intended to be a trustee should end up with the <span class="it">right</span> property, but by the <span class="it">wrong</span> means, doing so would nevertheless give them the ability to carry out the trust &mdash; which is what they must do.</div></div> </div>
+	<div class='back box box-r box-b' id='box-96'> <div style='case-details-container'><div class='details details-title'>Secret Trusts</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Modern CA authority on the conditions for secret trusts. Per Peter Gibson LJ &mdash; &#8220;the authorities make plain that what is needed is:  1. an <span class="bd">intention</span> by the testator to create a trust, satisfying the traditional requirements of three certainties (...) 2. the <span class="bd">communication</span> of the trust to the legatees, and 3. <span class="bd">acceptance</span> of the trust by the legatee, which can take the form of <span class="bd">silent acquiescence</span>.&#8221;</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-17'>
+	<div class='front box box-l' id='box-97'> <div style='case-name-container'><div class='case-name'>Re Maddock [1902]</div></div> </div>
+	<div class='front box box-r' id='box-98'> <div style='case-name-container'><div class='case-name'>Ottaway v Norman [1971]</div></div> </div>
+	<div class='front box box-l' id='box-99'> <div style='case-name-container'><div class='case-name'>Brown v Pourau [1995]</div></div> </div>
+	<div class='front box box-r' id='box-100'> <div style='case-name-container'><div class='case-name'>Moss v Cooper [1861]</div></div> </div>
+	<div class='front box box-l box-b' id='box-101'> <div style='case-name-container'><div class='case-name'>Irvine v Sullivan [1869]</div></div> </div>
+	<div class='front box box-r box-b' id='box-102'> <div style='case-name-container'><div class='case-name'>Walgrave v Tebbs [1855]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-18'>
+	<div class='back box box-l' id='box-103'> <div style='case-details-container'><div class='details details-title'>Secret Trusts &mdash; Fully Secret Trusts</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Should the trustee of an FST predecease the settlor, the trust will fail.</div></div> </div>
+	<div class='back box box-r' id='box-104'> <div style='case-details-container'><div class='details details-title'>Secret Trusts</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; An oral FST of land was <span class="it">upheld</span>. The evidence for existence of the trust, which gave the land to the testator&#8217;s chauffeur, was an overheard phone conversation. Overheard by the <span class="it">chauffeur</span>.  At no point was <span class="lnk caseln">S53(1)(b)</span> mentioned, although one skeleton had &#8216;s.53(1)(b)?&#8217; scribbled in the margin.</div></div> </div>
+	<div class='back box box-l' id='box-105'> <div style='case-details-container'><div class='details details-title'>Secret Trusts</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; An oral secret trust of land was held valid. Obiter &mdash; &#8216;but not in England.&#8217;</div></div> </div>
+	<div class='back box box-r' id='box-106'> <div style='case-details-container'><div class='details details-title'>Secret Trusts</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Anything other than <span class="it">positive rejection</span> by the trustee of an FST is acceptance of trusteeship, including <span class="it">silence</span>. Even if the testator dies immediately after communicating with the trustee. Old, but still good law.</div></div> </div>
+	<div class='back box box-l box-b' id='box-107'> <div style='case-details-container'><div class='details details-title'>Secret Trusts &mdash; Fully Secret Trusts</div><div class='details details-facts'><p>A case involving the army, a hat, and a secret trust. The terms were that she was to keep <span class="it">some</span> of the benefit herself, then distribute the rest. So she could have kept the lot.</p></div><div class='details details-held'><b>Held</b>&mdash; <span class="lnk caseln">Precatory words</span> may be compatible with a <span class="lnk caseln">Fully-Secret Trust</span> &mdash; but without a clear obligation of trusteeship on the face of the will, they cannot establish a <span class="lnk caseln">Half-Secret Trust</span>.</div></div> </div>
+	<div class='back box box-r box-b' id='box-108'> <div style='case-details-container'><div class='details details-title'>Secret Trusts &mdash; Fully Secret Trusts</div><div class='details details-facts'><p>Money and land had been left to a Mr. Martin and a Mr. Tebbs in testator’s will as joint tenants. <span class="it">Neither one nor the other received any communication</span> before the testator died. A letter subsequently emerged of the testator&#8217;s wish to give the money to charity. But the trust failed, and they kept the money.</p></div><div class='details details-held'><b>Held</b>&mdash; The intended trustees of an <span class="lnk caseln">FST</span> must have been informed of the terms whilst the testator was still living. They merely having written instructions to the trustees is not enough.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-19'>
+	<div class='front box box-l' id='box-109'> <div style='case-name-container'><div class='case-name'>Re Boyes [1884]</div></div> </div>
+	<div class='front box box-r' id='box-110'> <div style='case-name-container'><div class='case-name'>Blackwell v Blackwell [1929]</div></div> </div>
+	<div class='front box box-l' id='box-111'> <div style='case-name-container'><div class='case-name'>Re Keen [1937]</div></div> </div>
+	<div class='front box box-r' id='box-112'> <div style='case-name-container'><div class='case-name'>Re Bateman [1937]</div></div> </div>
+	<div class='front box box-l box-b' id='box-113'> <div style='case-name-container'><div class='case-name'>Re Rees [1950]</div></div> </div>
+	<div class='front box box-r box-b' id='box-114'> <div style='case-name-container'><div class='case-name'>Re Colin Cooper [1939]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-20'>
+	<div class='back box box-l' id='box-115'> <div style='case-details-container'><div class='details details-title'>Secret Trusts &mdash; Fully Secret Trusts</div><div class='details details-facts'><p>An honest fellah went to court, saying ‘I’m the trustee in this will, but I have no idea what to do with it.’ The court <span class="it">could</span> have said ‘it’s a gift, keep it.’ Instead it punished him for his honesty, with a resulting trust back to the estate.</p></div><div class='details details-held'><b>Held</b>&mdash; The settlor of an <span class="lnk caseln">FST</span> must communicate not only the fact of trusteeship to the intended trustees &mdash; but also the <span class="it">terms</span> of the trust.</div></div> </div>
+	<div class='back box box-r' id='box-116'> <div style='case-details-container'><div class='details details-title'>Secret Trusts &mdash; Half Secret Trusts</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; An <span class="lnk caseln">HST</span> was upheld despite communication to the intended trustees <span class="it">the next day</span>. The rule that communication of the terms to the trustees of an HST <span class="it">before or at the same time</span> as the will&#8217;s creation is that the trust exists from the moment the deed of will is executed, the terms of which are implicitly part of it.</div><div class='details details-held'><b>Comment</b>&mdash; a tipping point in the law, and the judges seem to change their mind about it half way through the judgement. They change the theory but apply the old rules.</div></div> </div>
+	<div class='back box box-l' id='box-117'> <div style='case-details-container'><div class='details details-title'>Secret Trusts &mdash; Half Secret Trusts</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Even though a term in a will establishing an <span class="lnk caseln">HST</span> refers to <span class="it">future</span> communication of the trust&#8217;s terms to its trustees, if the communication has in fact already taken place, the HST will be deemed to have been established. Although in this case, it failed on other grounds. &#8220;A ship sailing under sealed orders is sailing under orders, although the captain doesn’t know the destination until later. <span class="bd">Problem question</span>: a trustee given an envelope, understanding it to contain terms of HST, but instructed <span class="bd">not to open until death</span> of settlor &mdash; <span class="bd">valid HST.</span></div></div> </div>
+	<div class='back box box-r' id='box-118'> <div style='case-details-container'><div class='details details-title'>Secret Trusts &mdash; Half Secret Trusts</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A letter containing the terms of an <span class="lnk caseln">HST</span> written <span class="it">before</span> the execution of the will, but only given to the trustee <span class="it">afterwards</span>, will not be considered to be valid communication of terms to the trustee prior to execution of the will.</div></div> </div>
+	<div class='back box box-l box-b' id='box-119'> <div style='case-details-container'><div class='details details-title'>Secret Trusts &mdash; Half Secret Trusts</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The trustee of an <span class="lnk caseln">HST</span> cannot be one of its beneficiaries &mdash; especially if he or she happens to be the solicitor who drafted the will. Evershed MR &mdash; a lot of wank about public policy, etc.</div></div> </div>
+	<div class='back box box-r box-b' id='box-120'> <div style='case-details-container'><div class='details details-facts'><p>£5000 left to trustees ‘for purposes already communicated to them.’ Executed a codicil just before he died, adding another £5000, ‘they know my wishes regarding that sum.’  But never informed them, and no clear intention on the face of the will. The extra cash resulted back to the estate, as it was impossible to decide what the terms of the second were, and whether they’d been accepted by the trustees.</p></div><div class='details details-held'><b>Held</b>&mdash; The modification of an HST must be done by execution of a codicil to the will <span class="it">and</span> communication of the changes to the trustee(s)</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-21'>
+	<div class='front box box-l' id='box-121'> <div style='case-name-container'><div class='case-name'>Baldry v Feintuck [1972]</div></div> </div>
+	<div class='front box box-r' id='box-122'> <div style='case-name-container'><div class='case-name'>Independent Schools Council v Charity Commission</div></div> </div>
+	<div class='front box box-l' id='box-123'> <div style='case-name-container'><div class='case-name'>Re Clark [1923]</div></div> </div>
+	<div class='front box box-r' id='box-124'> <div style='case-name-container'><div class='case-name'>Re Coulthurst&#8217;s Will Trust [1951]</div></div> </div>
+	<div class='front box box-l box-b' id='box-125'> <div style='case-name-container'><div class='case-name'>Mary Clark Homes Trustees v Anderson [1904]</div></div> </div>
+	<div class='front box box-r box-b' id='box-126'> <div style='case-name-container'><div class='case-name'>Re Sanders WT [1954]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-22'>
+	<div class='back box box-l' id='box-127'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes</div><div class='details details-facts'><p>Tony Baldry (head of chambers at 1 Essex Court) sued the students&#8217; union of his university, that of Sussex. The students&#8217; union was an charitable trust for education, but had purported to amend its constitution to make its aims the promotion of subjects of interest to its members. Resolutions were passed voting money to something called &#8220;War on Want,&#8221; and to a campaign against the ending of free milk in schools.</p></div><div class='details details-held'><b>Held</b>&mdash; A charitable trust for education, purporting to have amended its aims to allow for them to be nakedly political, has done so ultra vires.</div></div> </div>
+	<div class='back box box-r' id='box-128'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Purposes</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; TODO</div></div> </div>
+	<div class='back box box-l' id='box-129'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Purposes / Charities &mdash; Charitable Purposes &mdash; Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Poverty is <span class="bd">relative</span> to an individual&#8217;s circumstances.</div></div> </div>
+	<div class='back box box-r' id='box-130'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Destitution is not necessary to be considered in poverty; merely <span class="it">&#8216;to go short in ordinary circumstances&#8217;</span>.</div></div> </div>
+	<div class='back box box-l box-b' id='box-131'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; People will be considered poor if their circumstances are <span class="it">&#8216;genuinely straitened&#8217;</span> and they are unable to maintain a &#8216;<span class="it">modest standard of living</span>&#8216; for themselves and any dependents.</div></div> </div>
+	<div class='back box box-r box-b' id='box-132'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The working classes are <span class="it">not</span> inherently poor.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-23'>
+	<div class='front box box-l' id='box-133'> <div style='case-name-container'><div class='case-name'>Re Niyazi&#8217;s WT [1978]</div></div> </div>
+	<div class='front box box-r' id='box-134'> <div style='case-name-container'><div class='case-name'>Re Young [1951]</div></div> </div>
+	<div class='front box box-l' id='box-135'> <div style='case-name-container'><div class='case-name'>AG v Power</div></div> </div>
+	<div class='front box box-r' id='box-136'> <div style='case-name-container'><div class='case-name'>Re Lucas</div></div> </div>
+	<div class='front box box-l box-b' id='box-137'> <div style='case-name-container'><div class='case-name'>Thompson v Thompson</div></div> </div>
+	<div class='front box box-r box-b' id='box-138'> <div style='case-name-container'><div class='case-name'>Re Gwyon</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-24'>
+	<div class='back box box-l' id='box-139'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The intended users of a working men&#8217;s hostel in Cyprus <span class="it">are</span> inherently poor, so a charitable purpose for the construction of such a thing was upheld.</div></div> </div>
+	<div class='back box box-r' id='box-140'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A charitable trust for <span class="it">&#8216;distressed gentlefolk&#8217;</span> &mdash; members of a Pall Mall club who had <span class="it">&#8216;fallen on evil days&#8217;</span> was found to be valid, as a charitable purpose for the relief of poverty. (!)</div></div> </div>
+	<div class='back box box-l' id='box-141'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; <span class="it">&#8216;Widows and orphans in a particular areas&#8217;</span> may be poor for the purposes of the validity of a charitable trust.</div></div> </div>
+	<div class='back box box-r' id='box-142'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The charitable purpose of giving <span class="it">&#8216;5 Guinea a week to the eldest respectable inhabitant in Gunville&#8217;</span> was found to be valid.</div></div> </div>
+	<div class='back box box-l box-b' id='box-143'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A charitable trust to give <span class="it">&#8216;gifts to unsuccessful literary men&#8217;</span> was valid.</div></div> </div>
+	<div class='back box box-r box-b' id='box-144'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Purposes</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The purpose of <span class="it">&#8216;providing knickers to boys&#8217;</span> was not valid as a charitable purpose for the relief of poverty.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-25'>
+	<div class='front box box-l' id='box-145'> <div style='case-name-container'><div class='case-name'>IRC v Baddeley [1955]</div></div> </div>
+	<div class='front box box-r' id='box-146'> <div style='case-name-container'><div class='case-name'>Joseph Rowntree Memorial Trust v AG [1983]</div></div> </div>
+	<div class='front box box-l' id='box-147'> <div style='case-name-container'><div class='case-name'>AITC&#8217;s Application for Registration of Charity [2006]</div></div> </div>
+	<div class='front box box-r' id='box-148'> <div style='case-name-container'><div class='case-name'>Re Dupree&#8217;s Deed Trust [1945]</div></div> </div>
+	<div class='front box box-l box-b' id='box-149'> <div style='case-name-container'><div class='case-name'>McGrath v Cohen [1978]</div></div> </div>
+	<div class='front box box-r box-b' id='box-150'> <div style='case-name-container'><div class='case-name'>Re Melody</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-26'>
+	<div class='back box box-l' id='box-151'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A charitable purpose for poverty must aim to <span class="it">relieve</span> the poverty.</div></div> </div>
+	<div class='back box box-r' id='box-152'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A charitable purpose for poverty must not merely entail <span class="it">amusing</span> the poor, but <span class="it">relieving</span> their poverty.</div><div class='details details-held'><b>Comment</b>&mdash; this seems a little unfair. What do the poor need more than having their minds taken off their misery? Apart from clothes, shoes, shelter and food? They need <span class="it">cheering up</span>.</div></div> </div>
+	<div class='back box box-l' id='box-153'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Purposes / Charities &mdash; Charitable Purposes &mdash; Poverty</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Discussing what <span class="it">prevention</span> of poverty might mean, a valid charitable purpose was <span class="it">not</span> the mitigation of financial losses resulting from unwise investments. Nevertheless, narrow grounds were found to allow the application.</div></div> </div>
+	<div class='back box box-r' id='box-154'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A chess tournament for boys in Portsmouth was a <span class="it">valid</span> charitable purpose for advancement of education &mdash; but such a purpose was further held to mark out the limit of what would be accepted.</div></div> </div>
+	<div class='back box box-l box-b' id='box-155'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; In Australia, the provision of a rose garden at a university <span class="it">was</span> a valid charitable purpose for the advancement of education.</div></div> </div>
+	<div class='back box box-r box-b' id='box-156'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The provision of <span class="it">&#8216;an annual treat or field day for school children&#8217;</span> was a valid charitable purpose for education.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-27'>
+	<div class='front box box-l' id='box-157'> <div style='case-name-container'><div class='case-name'>Re Lopes [1931]</div></div> </div>
+	<div class='front box box-r' id='box-158'> <div style='case-name-container'><div class='case-name'>Royal Choir Society v IRC [1943]</div></div> </div>
+	<div class='front box box-l' id='box-159'> <div style='case-name-container'><div class='case-name'>Council of Law Reporting v AG [1973]</div></div> </div>
+	<div class='front box box-r' id='box-160'> <div style='case-name-container'><div class='case-name'>Re Hummeltenberg [1923]</div></div> </div>
+	<div class='front box box-l box-b' id='box-161'> <div style='case-name-container'><div class='case-name'>Re Pinion [1965]</div></div> </div>
+	<div class='front box box-r box-b' id='box-162'> <div style='case-name-container'><div class='case-name'>Southwood v AG [2000]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-28'>
+	<div class='back box box-l' id='box-163'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The provision of <span class="it">elephant rides to schoolchildren</span> was a valid charitable purpose.</div></div> </div>
+	<div class='back box box-r' id='box-164'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The charitable purpose of advancement of education is <span class="it">not</span> limited to book-learning in classrooms &mdash; it also includes education of <span class="it">aesthetic taste</span> and sensibility.</div></div> </div>
+	<div class='back box box-l' id='box-165'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Advancement of education for a charitable purpose can include <span class="it">any useful branch of knowledge</span>.</div></div> </div>
+	<div class='back box box-r' id='box-166'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The establishment of a school to train spiritualistic mediums is <span class="it">not valid</span> as a charitable purpose for the advancement of education.</div></div> </div>
+	<div class='back box box-l box-b' id='box-167'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Culture / Charities &mdash; Charitable Purposes &mdash; Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The establishment of a museum to exhibit a collection of art which expert opinion deems to be <span class="it">a worthless pile of junk</span>, is not a valid charitable purpose for the advancement of the arts and culture. Held obiter &mdash; the establishment of <span class="it">a school for pickpockets and prostitutes</span> would not be a valid charitable purpose for the advancement of education.</div></div> </div>
+	<div class='back box box-r box-b' id='box-168'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Education &mdash; Political Purpose</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A political aim masquerading as an educative one is <span class="it">not valid</span> as a charitable purpose.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-29'>
+	<div class='front box box-l' id='box-169'> <div style='case-name-container'><div class='case-name'>Re Shaw [1957]</div></div> </div>
+	<div class='front box box-r' id='box-170'> <div style='case-name-container'><div class='case-name'>Re Hopkin&#8217;s WT [1965]</div></div> </div>
+	<div class='front box box-l' id='box-171'> <div style='case-name-container'><div class='case-name'>Re British School of Egyptian Archeology [1954]</div></div> </div>
+	<div class='front box box-r' id='box-172'> <div style='case-name-container'><div class='case-name'>Re South Place Ethical Society [1980]</div></div> </div>
+	<div class='front box box-l box-b' id='box-173'> <div style='case-name-container'><div class='case-name'>Hubbard v Vosper</div></div> </div>
+	<div class='front box box-r box-b' id='box-174'> <div style='case-name-container'><div class='case-name'>Church of New Faith v Commissioners for Payroll Tax</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-30'>
+	<div class='back box box-l' id='box-175'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Research into a 40-letter alphabet is <span class="it">not valid</span> as a charitable purpose for education &mdash; for wont of utility, and perhaps also, for surplus of piss-taking and frivolity.</div></div> </div>
+	<div class='back box box-r' id='box-176'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Research into whether the Shakespeare plays were written by someone called Francis Bacon or someone called William Shakespeare <span class="it">was valid</span> as an educational charitable purpose, despite its recondite and slightly obsessive character.</div></div> </div>
+	<div class='back box box-l' id='box-177'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Education</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Research carried out in fulfilment of a charitable purpose for education must be intended to be disseminated, rather than kept private or simply for the private satisfaction of the researcher.</div></div> </div>
+	<div class='back box box-r' id='box-178'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Religion</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A religion is both (i) belief in <span class="it">something supernatural</span>, and (ii) <span class="it">faith in and worship of</span> the aforesaid.</div></div> </div>
+	<div class='back box box-l box-b' id='box-179'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Religion</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Scientology is <span class="it">not</span> a valid religion as a charitable purposes. Cf. <span class="lnk caseln">Church of New Faith v Tax Commissioners</span> and <span class="lnk caseln">Hodkin</span>.</div></div> </div>
+	<div class='back box box-r box-b' id='box-180'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Religion</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; In Australia, scientology <span class="it">is valid</span> as a religion for a charitable purpose. Cf. <span class="lnk caseln">Hubbard v Vosper</span> and <span class="lnk caseln">Hodkin</span>.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-31'>
+	<div class='front box box-l' id='box-181'> <div style='case-name-container'><div class='case-name'>R (ex p. Hodkin) v Registrar</div></div> </div>
+	<div class='front box box-r' id='box-182'> <div style='case-name-container'><div class='case-name'>United Grand Lodge of Masons v Holborn BC</div></div> </div>
+	<div class='front box box-l' id='box-183'> <div style='case-name-container'><div class='case-name'>Gnostic Centre [2009]</div></div> </div>
+	<div class='front box box-r' id='box-184'> <div style='case-name-container'><div class='case-name'>Druid Foundation [2009]</div></div> </div>
+	<div class='front box box-l box-b' id='box-185'> <div style='case-name-container'><div class='case-name'>McGovern v AG [1982]</div></div> </div>
+	<div class='front box box-r box-b' id='box-186'> <div style='case-name-container'><div class='case-name'>National Anti-Vivisection Society v IRC [1948]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-32'>
+	<div class='back box box-l' id='box-187'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Religion</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; For purposes of being a valid place to hold a marriage, a scientology &#8220;chapel&#8221; is a place of worship. Cf. <span class="lnk caseln">Hubbard v Vosper</span> and <span class="lnk caseln">Church of New Faith v Tax Commissioners</span>.</div></div> </div>
+	<div class='back box box-r' id='box-188'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Religion &mdash; Advancement</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Advancement of religion is <span class="it">promoting it, spreading its message wider among mankind, and taking positive steps to sustain and increase</span>, with pastoral and missionary characteristics, etc.</div></div> </div>
+	<div class='back box box-l' id='box-189'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Religion</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Denying the application, the Charity Commission listed these four conditions for an entity to be considered a religion, for the purposes of charitable status: 1. Belief in a god/supreme being/divine/plural/transcendental being/spiritual principle; 2. A relationship between believer and entity (worship); 3. A degree of cogency, cohesion, seriousness or importance; 4. Identifiable positive, beneficial, moral and ethical framework.</div></div> </div>
+	<div class='back box box-r' id='box-190'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Religion</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; On the basis of the criteria spelt out in <span class="lnk caseln">Gnostic Centre</span>, the Charity Commission accepted Druidism as a valid religion for charitable purposes.</div></div> </div>
+	<div class='back box box-l box-b' id='box-191'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Invalid Charitable Purposes &mdash; Politics</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Advocacy for a political change <span class="it">cannot be a valid charitable purpose</span> as the courts would have no way of adjudicating whether a particular change would be for <span class="it">public benefit</span>, without taking inherently political stances.</div></div> </div>
+	<div class='back box box-r box-b' id='box-192'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Invalid Charitable Purposes &mdash; Politics</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Advocacy for something requiring a change in the law is political; therefore, it is not a valid charitable purpose.</div><div class='details details-held'><b>Comment</b>&mdash; see also <span class="lnk caseln">Re Satterthwaite&#8217;s WT</span></div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-33'>
+	<div class='front box box-l' id='box-193'> <div style='case-name-container'><div class='case-name'>Re Bushnell [1975]</div></div> </div>
+	<div class='front box box-r' id='box-194'> <div style='case-name-container'><div class='case-name'>Bonar Law Memorial Trust v IRC</div></div> </div>
+	<div class='front box box-l' id='box-195'> <div style='case-name-container'><div class='case-name'>Thomas v Howell [1874]</div></div> </div>
+	<div class='front box box-r' id='box-196'> <div style='case-name-container'><div class='case-name'>Re Resch WT [1969]</div></div> </div>
+	<div class='front box box-l box-b' id='box-197'> <div style='case-name-container'><div class='case-name'>Re Verall [1916]</div></div> </div>
+	<div class='front box box-r box-b' id='box-198'> <div style='case-name-container'><div class='case-name'>Re Nottage [1985]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-34'>
+	<div class='back box box-l' id='box-199'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Invalid Charitable Purposes &mdash; Politics</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The purpose of <span class="it">&#8216;disseminating socialist medicine&#8217;</span> is not a valid charitable purpose.</div></div> </div>
+	<div class='back box box-r' id='box-200'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Invalid Charitable Purposes &mdash; Politics</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A donation to a political party is <span class="it">not</span> a valid charitable purpose.</div></div> </div>
+	<div class='back box box-l' id='box-201'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Health and Saving Lives</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A gift to the RNLI is a valid charitable purpose, as would be gifts to other rescue services &mdash; as long as they don&#8217;t charge.</div></div> </div>
+	<div class='back box box-r' id='box-202'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Health and Saving Lives</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Provision of medical care for which a fee is charged <span class="it">is</span> a valid charitable purpose.</div></div> </div>
+	<div class='back box box-l box-b' id='box-203'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Health and Saving Lives</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The curation and maintenance of historically valuable or significant objects is a <span class="it">valid</span> charitable purpose.</div></div> </div>
+	<div class='back box box-r box-b' id='box-204'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Amateur Sport</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Amateur yacht racing was <span class="it">not</span> a valid charitable purpose under the pre-2006 law.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-35'>
+	<div class='front box box-l' id='box-205'> <div style='case-name-container'><div class='case-name'>Re Marriette [1915]</div></div> </div>
+	<div class='front box box-r' id='box-206'> <div style='case-name-container'><div class='case-name'>IRC v Macmullan [1981]</div></div> </div>
+	<div class='front box box-l' id='box-207'> <div style='case-name-container'><div class='case-name'>R (ex p. Bull) v Radio Authority [1998]</div></div> </div>
+	<div class='front box box-r' id='box-208'> <div style='case-name-container'><div class='case-name'>Re Robinson [1951]</div></div> </div>
+	<div class='front box box-l box-b' id='box-209'> <div style='case-name-container'><div class='case-name'>Re Wedgwood [1951]</div></div> </div>
+	<div class='front box box-r box-b' id='box-210'> <div style='case-name-container'><div class='case-name'>Re Grove-Grady [1929]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-36'>
+	<div class='back box box-l' id='box-211'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Education / Charities &mdash; Charitable Purposes &mdash; Amateur Sport</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Sport in schools is for <span class="it">education of the body</span> &mdash; and was therefore a valid charitable purpose under the pre-2006 law.</div></div> </div>
+	<div class='back box box-r' id='box-212'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Amateur Sport</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; House of Lords authority for PE in School and University <span class="it">being valid</span> as a charitable trust, because it entails the <span class="it">holistic development</span> of the person.</div></div> </div>
+	<div class='back box box-l' id='box-213'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Human Rights etc</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A radio station for the promotion of human rights was deemed to be promoting a purpose necessitating a political change, and thus was not a valid charitable purpose for the promotion of human rights.</div></div> </div>
+	<div class='back box box-r' id='box-214'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Relief of those in Need</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A trust to put up a block of flats for those <span class="it">65 or older</span> succeeded as a charitable purpose for the relief of those in need by virtue of age. Poverty was not necessary in addition to age.</div></div> </div>
+	<div class='back box box-l box-b' id='box-215'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Animal Welfare</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The charitable purpose of finding a more humane manner of slaughtering animals for meat was held to be <span class="it">valid</span>, for the imaginative reason that <span class="it">it would taste better</span> to those who ate it in the knowledge of its provenance.</div></div> </div>
+	<div class='back box box-r box-b' id='box-216'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Animal Welfare</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Prior to 2006, a charitable purpose for animal welfare also had to confer some benefit on <span class="it">people</span>. For this reason, the provision of as refuge for <span class="it">&#8216;all animals, to live together in harmony, free from human molestation&#8217;</span>, was not a valid charitable purpose.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-37'>
+	<div class='front box box-l' id='box-217'> <div style='case-name-container'><div class='case-name'>Re Gray [1925]</div></div> </div>
+	<div class='front box box-r' id='box-218'> <div style='case-name-container'><div class='case-name'>Re Good [1925]</div></div> </div>
+	<div class='front box box-l' id='box-219'> <div style='case-name-container'><div class='case-name'>Re Harwood [1936]</div></div> </div>
+	<div class='front box box-r' id='box-220'> <div style='case-name-container'><div class='case-name'>Re Harwood [1936]</div></div> </div>
+	<div class='front box box-l box-b' id='box-221'> <div style='case-name-container'><div class='case-name'>Re Lysaght [1966]</div></div> </div>
+	<div class='front box box-r box-b' id='box-222'> <div style='case-name-container'><div class='case-name'>Re Satterthwaite&#8217;s WT [1966]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-38'>
+	<div class='back box box-l' id='box-223'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Efficiency of Armed Forces</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Promotion of the efficiency of the armed forces or emergency services was a valid charitable purpose under the pre-2006 law.</div></div> </div>
+	<div class='back box box-r' id='box-224'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Charitable Purposes &mdash; Efficiency of Armed Forces</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The provision of a library for army officers was a valid charitable purpose for promotion of the efficiency of the armed forces.</div></div> </div>
+	<div class='back box box-l' id='box-225'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Cy-près &mdash; Initial Failure</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A gift to a charity that fails initially &mdash; even because the charity <span class="it">doesn&#8217;t exist</span> &mdash; will be applied cy-près to another, if a <span class="it">general charitable intention</span> can be shown of the testator.</div></div> </div>
+	<div class='back box box-r' id='box-226'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Cy-près &mdash; Initial Failure</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A gift to a charity that fails initially &mdash; even because the charity <span class="it">doesn&#8217;t exist</span> &mdash; will be applied cy-près to another, if a <span class="it">general charitable intention</span> can be shown of the testator.</div></div> </div>
+	<div class='back box box-l box-b' id='box-227'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Cy-près &mdash; Initial Failure</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The cy-près doctrine was employed to delete a condition attached by the testator of a gift establishing a scholarship, that it was <span class="it">not for Roman Catholics or Jews</span> (!).</div></div> </div>
+	<div class='back box box-r box-b' id='box-228'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Cy-près &mdash; Initial Failure</div><div class='details details-facts'><p>The whole estate was left in equal shares to nine institutions &mdash; one of which was the National Anti-Vivisection society, a political organisation.</p></div><div class='details details-held'><b>Held</b>&mdash; Cy-près will be applied to a testamentary charitable gift that fails initially, when its context makes clear a general charitable intention.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-39'>
+	<div class='front box box-l' id='box-229'> <div style='case-name-container'><div class='case-name'>Re Finger&#8217;s WT [1972]</div></div> </div>
+	<div class='front box box-r' id='box-230'> <div style='case-name-container'><div class='case-name'>Re Slevin [1891]</div></div> </div>
+	<div class='front box box-l' id='box-231'> <div style='case-name-container'><div class='case-name'>Re King [1923]</div></div> </div>
+	<div class='front box box-r' id='box-232'> <div style='case-name-container'><div class='case-name'>Re Wright [1954]</div></div> </div>
+	<div class='front box box-l box-b' id='box-233'> <div style='case-name-container'><div class='case-name'>Barclay&#8217;s Bank v Quistclose Investments [1970]</div></div> </div>
+	<div class='front box box-r box-b' id='box-234'> <div style='case-name-container'><div class='case-name'>Twinsectra v Yardley [2002]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-40'>
+	<div class='back box box-l' id='box-235'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Cy-près &mdash; Initial Failure</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Where there is a general charitable intention, but a testamentary gift has nevertheless left specifically to a particular charity which is defunct by the time the testator dies, it may still be applied cy-près &mdash; especially if no no heirs to the estate can be identified.</div></div> </div>
+	<div class='back box box-r' id='box-236'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Cy-près &mdash; Subsequent Failure</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Should the purpose of a charity fail, property successfully vested in it will be applied cy-près to another charity, even should it have been given with no general charitable intention.</div></div> </div>
+	<div class='back box box-l' id='box-237'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Cy-près &mdash; Subsequent Failure</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Anything left over once the charitable purpose of a gift has been achieved will be applied cy-près</div></div> </div>
+	<div class='back box box-r' id='box-238'> <div style='case-details-container'><div class='details details-title'>Charities &mdash; Cy-près &mdash; Subsequent Failure</div><div class='details details-facts'></div><div class='details details-held'></div></div> </div>
+	<div class='back box box-l box-b' id='box-239'> <div style='case-details-container'><div class='details details-title'>Quistclose Trusts</div><div class='details details-facts'><p>Rolls Razor, a company on the brink of insolvency, had a maxed-out vanilla bank account with Barclay’s. Quistclose lent money into a separate bank account with Barclay&#8217;s, only to be used for one specific purpose: <span class="bd">paying the dividend</span>. Rolls Razor received the money, then went insolvent &mdash; at which point, immediately, it became illegal to pay the dividend. Shrewdly, Barclay’s immediately took the money from the new bank account to pay off the overdrawn account. This they were entitled to do <span class="bd">unless</span> the money was on trust they had notice of it.</p><p>Quistclose, of course, claimed that Barclay’s had no right to do so, and had misappropriated property that did not belong to them. Barclay&#8217;s claimed there was merely a contractual arrangement between Rolls Razor and Quistlclose, and that the normal insolvency proceedings would apply -— and that unsecured creditors would get nothing.</p><p>Cf. <span class="lnk caseln">Twinsectra</span>. See also <span class="lnk caseln">Quistclose Trusts</span> and <span class="lnk caseln">Quistclose Trusts - Analysis</span>.</p></div><div class='details details-held'><b>Held</b>&mdash; When A transfers property to B for a specific purpose, but the purpose fails, then the property is held on resulting trust for A.<br>Therefore, when X transfers property to Y, to be transferred to Z for Z to pay a pre-announced dividend, but in the mean-time Z becomes insolvent and therefore cannot legally do so, Y holds the property on resulting trust for X, and may not use it, e.g., in settlement of debts owed to it by Z.  However, this situation is predicated on <span class="bd">X and Z having the same intention</span>.</div></div> </div>
+	<div class='back box box-r box-b' id='box-240'> <div style='case-details-container'><div class='details details-title'>Quistclose Trusts / Fiduciary Duties &mdash; Third Party Liability &mdash; Dishonest Assistance</div><div class='details details-facts'><p>Yardley and his solicitor, Leach, and another, Sims, were sued for repayment of a loan of £1m made for the sole and exclusive purpose of the acquisition of real property. The money had been paid on condition of there being a guarantor. Leach declined. Sims accepted &mdash; he owed £1.5M to Yardley from previous dealings, which Yardley promised to forgive, if the loan was paid into Sims&#8217; account. He, in turn, promised Twinsectra to release the money only when the purpose for which it was made had been fulfilled. He went ahead and transferred it to Leach it to Yardley&#8217;s solicitor anyway. Yardley, in breach of contract, promptly used a third of it to pay off some of his debts. Twinsectra claimed the contractual stipulation of the exclusive purpose for the funds established a <span class="lnk caseln">Quistclose Trust</span>.</p></div><div class='details details-held'><b>Held</b>&mdash; (1) For <span class="lnk caseln">Dishonest Assistance</span>, in addition to the requirement in <span class="lnk caseln">Tan</span> of whether the actions would have been done an honest and reasonable person, dishonesty also entails that the defendant realised his actions would be considered dishonest.<br>(2) In a <span class="lnk caseln">Quistclose Trust</span>, beneficial interest remains with the lender throughout.</div><div class='details details-held'><b>Comment</b>&mdash; on <span class="lnk caseln">Dishonest Assistance</span>, this is still technically the leading case. <span class="lnk caseln">Tan</span> is UKPC.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-41'>
+	<div class='front box box-l' id='box-241'> <div style='case-name-container'><div class='case-name'>R v Clowes No 2</div></div> </div>
+	<div class='front box box-r' id='box-242'> <div style='case-name-container'><div class='case-name'>Re EVTR</div></div> </div>
+	<div class='front box box-l' id='box-243'> <div style='case-name-container'><div class='case-name'>Rothmans v Freeman Mathew Treasure</div></div> </div>
+	<div class='front box box-r' id='box-244'> <div style='case-name-container'><div class='case-name'>Bieber v Teathers [2012]</div></div> </div>
+	<div class='front box box-l box-b' id='box-245'> <div style='case-name-container'><div class='case-name'>Chalinor v Julie Bellis [2015]</div></div> </div>
+	<div class='front box box-r box-b' id='box-246'> <div style='case-name-container'><div class='case-name'>Bristol and West BS v Mothew [1997]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-42'>
+	<div class='back box box-l' id='box-247'> <div style='case-details-container'><div class='details details-title'>Quistclose Trusts</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; In the absence of other indicators of a trust, the trust property <span class="bd">not</span> being kept separate will negative the existence of a trust.</div></div> </div>
+	<div class='back box box-r' id='box-248'> <div style='case-details-container'><div class='details details-title'>Quistclose Trusts</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The purpose of a Quistclose trust is held to succeed when the money is used for the intended purpose, but the transaction is not completed before the company goes bankrupt. The equitable interest in equipment purchased using a Quistclose loan, but not delivered before the company went bankrupt, would result to the settlor of the Quistclose trust.</div></div> </div>
+	<div class='back box box-l' id='box-249'> <div style='case-details-container'><div class='details details-title'>Quistclose Trusts</div><div class='details details-facts'><p>A constructive trust was pleaded.</p></div><div class='details details-held'><b>Held</b>&mdash; Equity fastens itself onto the consciences of the transferees (the trustees), and will not therefore permit use of the property for other than the purpose stated in a <span class="lnk caseln">Quistclose</span> trust.</div></div> </div>
+	<div class='back box box-r' id='box-250'> <div style='case-details-container'><div class='details details-title'>Quistclose Trusts</div><div class='details details-facts'><p>Money had been paid for the purpose of making TV productions, on condition that (i) sufficient funds were acquired for the scheme to run and (ii) that it be used for certified productions only. The first of these conditions was met, but not the second.</p></div><div class='details details-held'><b>Held</b>&mdash; Quistclose trusts may be upheld even if not all their purported conditions are met, and once the purpose is begun, they die.</div></div> </div>
+	<div class='back box box-l box-b' id='box-251'> <div style='case-details-container'><div class='details details-facts'><p>Investors in a failed investment company claimed a Quistclose trust, as their investment had been exclusively for a specific purpose.</p></div><div class='details details-held'><b>Held</b>&mdash; To rise above being simply a contractual loan, there must be <span class="bd">intention</span> of there being a Quistclose trust.</div></div> </div>
+	<div class='back box box-r box-b' id='box-252'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Useful modern authority for the nature of a fiduciary, which comprises an undertaking to act in another&#8217;s best interest, generally or for specifics. That the beneficiary has not solicited the fiduciary duty is immaterial.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-43'>
+	<div class='front box box-l' id='box-253'> <div style='case-name-container'><div class='case-name'>Tesco v Pook [2003]</div></div> </div>
+	<div class='front box box-r' id='box-254'> <div style='case-name-container'><div class='case-name'>Reading v AG [1951]</div></div> </div>
+	<div class='front box box-l' id='box-255'> <div style='case-name-container'><div class='case-name'>AG v Blake</div></div> </div>
+	<div class='front box box-r' id='box-256'> <div style='case-name-container'><div class='case-name'>English v Dedham Vale [1978]</div></div> </div>
+	<div class='front box box-l box-b' id='box-257'> <div style='case-name-container'><div class='case-name'>Bray v Ford [1896]</div></div> </div>
+	<div class='front box box-r box-b' id='box-258'> <div style='case-name-container'><div class='case-name'>Aberdeen Railway v Blaikie [1854]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-44'>
+	<div class='back box box-l' id='box-259'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Categories of Relationships &mdash; Unauthorised Profits</div><div class='details details-facts'><p>The respondent, the e-Commerce manager for Tesco in South Korea, was paid £500K invoices for services that were never delivered. He argued it was in fact a loan.</p></div><div class='details details-held'><b>Held</b>&mdash; A senior employee may owe a fiduciary duty to his employer.</div></div> </div>
+	<div class='back box box-r' id='box-260'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Bribes</div><div class='details details-facts'><p>An army sergeant in Egypt had fallen into the somewhat absent-minded habit of accepting large sums of cash to drive lorries crammed with illicit spirits from place to place &mdash; <span class="bd">wearing his uniform</span> so he wouldn&#8217;t get stopped. He <span class="bd">suspected</span>, but did not <span class="bd">know</span>, what was in the lorries. He was imprisoned. On release, he claimed for the return of the cash.</p></div><div class='details details-held'><b>Held</b>&mdash; A fiduciary duty is owed by a soldier to the Crown. A fiduciary who makes a profit by abuse of the fiduciary duty, whether legal or illegal, will be liable for accounting of profits. <span class="ilc">TODO: Check whether this is <span class="bd">equitable</span> accounting of profits.</span></div></div> </div>
+	<div class='back box box-l' id='box-261'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties</div><div class='details details-facts'><p>Secrets divulged by George Blake in <span class="it">No Other Choice</span> had been learnt about whilst still hush-hush, although they&#8217;d ceased to be so by the time he published. The Crown sued for the royalties, arguing that since they&#8217;d come about in breach of fiduciary duty, Blake had been unjustly enriched.</p><p>As to whether the book was one long and very tiring exercise in special pleading and self-exculpation &mdash; the clue&#8217;s in the title.</p></div><div class='details details-held'><b>Held</b>&mdash; (i) A fiduciary unjustly enriched by a breach that caused no detriment to the principal will nevertheless be liable to account for profits. (ii) The categories of relationships in which a fiduciary duty arises is not close.  Cf. <span class="lnk caseln">Reading v AG</span>.</div></div> </div>
+	<div class='back box box-r' id='box-262'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The categories of relationships in which a there is a fiduciary duty are <span class="bd">not</span> closed.</div></div> </div>
+	<div class='back box box-l box-b' id='box-263'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; No Profit Rule &mdash; No Conflict Rule</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; In the absence of express permission, a fiduciary may not make a profit from his duty, and must not put himself in a position where his interests conflict with his fiduciary duty. However, there are potentially <span class="bd">many</span> cases in which departing from these two rules would no be immoral, would do no damage, and would not make anyone think anything <span class="bd">wrong</span> was being done.</div></div> </div>
+	<div class='back box box-r box-b' id='box-264'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; No Conflict Rule &mdash; Self-Dealing</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A director has a fiduciary duty to his company, and may not enter into an engagement which will set his personal interests against those of his company.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-45'>
+	<div class='front box box-l' id='box-265'> <div style='case-name-container'><div class='case-name'>Re Macadam [1946]</div></div> </div>
+	<div class='front box box-r' id='box-266'> <div style='case-name-container'><div class='case-name'>Keech v Sandford [1726]</div></div> </div>
+	<div class='front box box-l' id='box-267'> <div style='case-name-container'><div class='case-name'>O&#8217;Sullivan v Management Agency [1985] QB 428</div></div> </div>
+	<div class='front box box-r' id='box-268'> <div style='case-name-container'><div class='case-name'>Re Duke of Norfolk&#8217;s Settlement Trusts [1982]</div></div> </div>
+	<div class='front box box-l box-b' id='box-269'> <div style='case-name-container'><div class='case-name'>Ex p Lacey [1802]</div></div> </div>
+	<div class='front box box-r box-b' id='box-270'> <div style='case-name-container'><div class='case-name'>Ex p James [1803]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-46'>
+	<div class='back box box-l' id='box-271'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; No Profit Rule</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A fiduciary may not profit, even when the profit is not from the trust fund itself, but arises indirectly.</div></div> </div>
+	<div class='back box box-r' id='box-272'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; No Profit Rule &mdash; No Conflict Rule</div><div class='details details-facts'><p>In infancy, Keech had inherited the lease on Romford market. Sandford entrusted with the property. The lease came up for renewal, but the landlord refused to renew it to an infant, on the basis that he would lack legal remedies of enforcement against a lesor not <span class="it">sui juris</span>. So Sandford himself took the title to the lease himself. When Keech grew up, he sued Sandford for the profit he&#8217;d made, that he ought to have made himself.</p></div><div class='details details-held'><b>Held</b>&mdash; A trustee owes a fiduciary duty to the trust&#8217;s beneficiaries. He is therefore prevented from pursuing opportunities related to the trust property from which conflicts of interest would arise, and may <span class="bd">not</span> profit from the property.</div></div> </div>
+	<div class='back box box-l' id='box-273'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; No Profits Rule &mdash; Remuneration of Trustees</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Even where there has been wrongdoing, it may be appropriate to remunerate trustees.</div></div> </div>
+	<div class='back box box-r' id='box-274'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Remuneration of Trustees</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; It may be appropriate to award remuneration to trustees who undertake <span class="bd">significantly more than would normally be expected</span> &mdash; such as the total redevelopment of a large landed estate belonging to the trust.</div></div> </div>
+	<div class='back box box-l box-b' id='box-275'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Self-Dealing</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Where a trustee has bought the property of the trust, the transaction is voidable by the beneficiaries.</div></div> </div>
+	<div class='back box box-r box-b' id='box-276'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Self-Dealing</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; &#8216;The purchase of trust property by the trustee on his own account is not permitted in any case, <span class="bd">however honest the circumstances</span>. The general interest of justice requiring it to be destroyed in every interest... as no court is equal to the examination and ascertainment of the truth in much the greater number of cases&#8217;</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-47'>
+	<div class='front box box-l' id='box-277'> <div style='case-name-container'><div class='case-name'>Holder v Holder [1968]</div></div> </div>
+	<div class='front box box-r' id='box-278'> <div style='case-name-container'><div class='case-name'>Regal Cinemas v Gulliver [1942]</div></div> </div>
+	<div class='front box box-l' id='box-279'> <div style='case-name-container'><div class='case-name'>Boardman v Phipps [1967]</div></div> </div>
+	<div class='front box box-r' id='box-280'> <div style='case-name-container'><div class='case-name'>Industrial Development v Cooley [1972]</div></div> </div>
+	<div class='front box box-l box-b' id='box-281'> <div style='case-name-container'><div class='case-name'>Guinness v Saunders [1990]</div></div> </div>
+	<div class='front box box-r box-b' id='box-282'> <div style='case-name-container'><div class='case-name'>Bhullar v Bhullar [2003]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-48'>
+	<div class='back box box-l' id='box-283'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Self-Dealing &mdash; Exception</div><div class='details details-facts'><p>The executor of a will was also a minor beneficiary. But he wanted to buy the will&#8217;s main property, a farm. He realised he was prevented from doing so as executor, although his duties as such were only minor. He attempted to disclaim executorship, explaining why. The beneficiaries didn&#8217;t object. Unbeknownst to all, the disclaimer was ineffective, as it hadn&#8217;t been done by deed &mdash; he remained in a fiduciary relationship with the beneficiaries as he purchased their property.</p><p>He went ahead and purchased, and later got sued.</p></div><div class='details details-held'><b>Held</b>&mdash; A claim for rescission of a self-dealing transaction by a fiduciary usually succeeds. But when there is no dishonesty, and a genuine attempt to end the fiduciary relationship which everyone concerned believes has succeeded; and when the beneficiaries assented to the purchase; and when the purchase is not as a result of knowledge obtained as a fiduciary &mdash; then the court may <span class="bd">refuse</span> to rescind. The maxim <span class="it">Delay Defeats Equity</span> may further militate against such a claim.</div><div class='details details-held'><b>Comment</b>&mdash; margaret Carran&#8217;s view is that this is nevertheless wrongly decided, as assent of beneficiaries provides no defence.</div></div> </div>
+	<div class='back box box-r' id='box-284'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Unauthorised Profits &mdash; Corporate Opportunity</div><div class='details details-facts'><p>A parent company created a subsidiary company with a share capital of £5K, only £2K of which was paid-up. The landlord of two cinemas from which the subsidiary company was to lease two cinemas <span class="it">refused</span> to agree to the lease unless all the shares were paid-up. Regal couldn&#8217;t find the extra £3K, so authorised the four directors, the solicitor, plus one of the chairman&#8217;s pals, to forward £500 each. Everything went ahead. The company was then bought out, and a substantial profit was made each of those who&#8217;d forwarded money. The acquiring company sued them on the basis that such profits were unauthorised. The four directors <span class="it">were</span> liable, but neither the solicitor nor the chairman’s friend. The solicitor was not accountable as his profit was fully authorized.</p></div><div class='details details-held'><b>Held</b>&mdash; Profits made through knowledge arising by virtue of a fiduciary duty are the property of the person to whom the duty is owed.</div></div> </div>
+	<div class='back box box-l' id='box-285'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Unauthorised Profits &mdash; Corporate Opportunity</div><div class='details details-facts'><p>The subject of a family trust was a minority shareholding in a textiles concern in the black country and Australia. In the opinion of the two active trustees, the shares produced a poor return through inefficient management. Together with their solicitor, Boardman, they hatched a plan to appoint one of the beneficiaries (Phipps) a director of the company. The appointment was duly made.</p><p>As a director, Phipps, accompanied by Boardman as proxy on behalf of the trust, attended internal meetings at which he learnt of confidential information about the inner workings of the company. Boardman recommended to the trust that it purchase more shares. It declined to do so, so Boardman bought them himself. He revitalised the company, realising a substantial profit for the trust &mdash; but also for his <span class="bd">own</span> shares.</p><p>No-one had lost out, but one of the beneficiaries nevertheless sued Boardman for the profit his shares had made, claiming that the <span class="bd">information</span> leading him to buy the shares had been obtained in performance of his fiduciary duty to the trust.</p><p>Could <span class="it">information</span> be the subject property of a trust?</p></div><div class='details details-held'><b>Held</b>&mdash; Confidential information that becomes known to a fiduciary as a consequence of carrying out his or her fiduciary duties, may have proprietorial characteristics, and therefore be rightly considered part of the trust property held for the beneficiaries. Profits made as a result of acting on this information, therefore, may belong to the trust fund.</div><div class='details details-held'><b>Comment</b>&mdash; critics argue that this case demonstrates the harshness of fiduciary duties. On the other hand, Boardman could have sought the authorisations he needed.</div></div> </div>
+	<div class='back box box-r' id='box-286'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Unauthorised Profits &mdash; Corporate Opportunity &mdash; End of Fiduciary Duty</div><div class='details details-facts'><p>The defendant, an architect, resigned from board, pretending to be ill. He then &#8216;recovered&#8217; and took up the offer of a contract that had been made to him when a director. In fact the company would not have been able to take the contract, but that didn’t matter.</p></div><div class='details details-held'><b>Held</b>&mdash; Profits made from the exploitation of a corporate opportunity learnt as a fiduciary, which was dishonesty ended in order to profit from the opportunity, will be considered secret profits, the equitable interest of which belongs to the principal to whom the fiduciary duty was owed.</div></div> </div>
+	<div class='back box box-l box-b' id='box-287'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Unauthorised Profits &mdash; No Profits Rule</div><div class='details details-facts'><p>Saunders had been appointed to negotiate a takeover bid, for  successful completion of which he was to be paid £5.2M. Whence a conflict of interests &mdash; his job as a director was to act in the best interest of the company, and his interests as a man who stood to make £5.2M was to make £5.2M. He negotiated the takeover and was paid... but had to pay it back. Also wound up in jail.</p></div><div class='details details-held'><b>Held</b>&mdash; A purported authorisation for a fiduciary to make a profit is ineffective if the party purporting to make it has no power to do so &mdash; and only a board of directors can authorise remuneration to board members.</div></div> </div>
+	<div class='back box box-r box-b' id='box-288'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Unauthorised Profits &mdash; Corporate Opportunity</div><div class='details details-facts'><p>A grocery was owned equally by two families, who fell out. They agreed to live on what they had, and not to invest in anything else. But one of the directors saw an opportunity to buy a property next to the one they already had &mdash; so he created a new company, Silvercrest and bought the new property.</p></div><div class='details details-held'><b>Held</b>&mdash; A fiduciary can be accountable for the exploitation of a corporate opportunity <span class="bd">even though</span> the principal may have foresworn its exploitation.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-49'>
+	<div class='front box box-l' id='box-289'> <div style='case-name-container'><div class='case-name'>Balston v Headline [1990]</div></div> </div>
+	<div class='front box box-r' id='box-290'> <div style='case-name-container'><div class='case-name'>Lister v Stubbs [1890]</div></div> </div>
+	<div class='front box box-l' id='box-291'> <div style='case-name-container'><div class='case-name'>AG for HK v Reid [1994] UKPC</div></div> </div>
+	<div class='front box box-r' id='box-292'> <div style='case-name-container'><div class='case-name'>Daraydan Holdings v Solland [2004]</div></div> </div>
+	<div class='front box box-l box-b' id='box-293'> <div style='case-name-container'><div class='case-name'>Sinclair Investments v Versailles [2011]</div></div> </div>
+	<div class='front box box-r box-b' id='box-294'> <div style='case-name-container'><div class='case-name'>FHR v Cedar Capital [2014] UKSC</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-50'>
+	<div class='back box box-l' id='box-295'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Unauthorised Profits &mdash; Corporate Opportunity &mdash; End of Fiduciary Duty / Fiduciary Duties &mdash; Unauthorised Profits &mdash; Corporate Opportunity &mdash; End of Fiduciary Duty</div><div class='details details-facts'><p><span class="ilc">TODO</span></p></div><div class='details details-held'><b>Held</b>&mdash; A director&#8217;s intention to exploit a corporate opportunity after the  termination of directorship is <span class="bd">not</span> per se a breach of fiduciary duty, particularly when the opportunity <span class="bd">was</span> exploited by the principal, but which decides to <span class="bd">cease</span> doing so. Neither is failure to disclose such an intention a breach.</div></div> </div>
+	<div class='back box box-r' id='box-296'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Bribes</div><div class='details details-facts'><p>A chap had taken bungs to buy dyes from a specific company, to the potential detriment of his own. He invested the money in land, which went up in value. Should the claimant get the benefit of the increased value of the land?</p></div><div class='details details-held'><b>Held</b>&mdash; In order to avoid unjust enrichment, a fiduciary who took a bribe was personally liable, rather than subject to a proprietary remedy. Ultimately overturned (after much criticism) in <span class="lnk caseln">Mankarious 2</span></div></div> </div>
+	<div class='back box box-l' id='box-297'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Bribes &mdash; Proprietary Remedies</div><div class='details details-facts'><p>Reid, the equivalent of the DPP of HK, had accepted bribes to prevent prosecutions. Invested in some property in New Zealand &mdash; he was himself a Kiwi.</p><p>The argument was put that, as <span class="it">equity looks as done that which ought to be done</span>, he <span class="bd">ought</span> to have done on having received the bribes, was to give them straight to the principle, the Crown. The bribe, it was therefore asserted, belonged to the principle.</p></div><div class='details details-held'><b>Held</b>&mdash; A bribe paid to a fiduciary is recoverable by the principal in equitable accounting, along with any profits it may have made. <span class="it">Equity considers as done that which <span class="bd">ought</span> to have been done</span>, so a fiduciary who takes a bribe ought to transfer it immediately to his principal. The beneficial interest of a bribe received by a fiduciary, therefore, belongs ab initio to the principal.</div></div> </div>
+	<div class='back box box-r' id='box-298'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Bribes / Fiduciary Duties &mdash; Bribes</div><div class='details details-facts'><p>The price of a purchase was inflated by 10%, as a bribe.</p></div><div class='details details-held'><b>Held</b>&mdash; A bribe paid to a fiduciary <span class="bd">mixed into the principle fund</span> will give rise to an equitable remedy. <span class="ilc">TODO - Check this, seems inconsistent with Sinclair, Mankarious, etc.</span></div></div> </div>
+	<div class='back box box-l box-b' id='box-299'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Bribes &mdash; Remedies</div><div class='details details-facts'><p>Sinclair had paid substantial sums to a network of companies operated by two gentlemen impressive in their capacity to keep everyone hoodwinked for half a decade. In 1999 they were found out and jailed, and Versailles put into administration. Sinclair sued, claiming a proprietary interest in the monies made by the two ratbag fraudsters.</p><p>At first instance, Lewison J followed <span class="lnk caseln">Lister v Stubbs</span>, regretting that he could not apply <span class="lnk caseln">AG for HK v Reid</span>. Finding that no trust had arisen, Sinclair&#8217;s claim was merely as a common-law creditor.</p></div><div class='details details-held'><b>Held</b>&mdash; Attractive Privy Council decisions notwithstanding, the general rule in established precedent is that the remedy for unauthorised profits made in breach of fiduciary duty is <span class="bd">personal</span>. A proprietary remedy is only available if the asset of money was, or had been, <span class="bd">beneficially</span> the property of the claimant &mdash; or where the trustee acquired the asset by taking advantage of an opportunity or right which was the property of the beneficiary.</div><div class='details details-held'><b>Comment</b>&mdash; virgo praises this; others argue it ignores the public policy consideration animating <span class="lnk caseln">AG for HK v Reid</span>.</div></div> </div>
+	<div class='back box box-r box-b' id='box-300'> <div style='case-details-container'><div class='details details-title'>Fiduciary Duties &mdash; Bribes / Fiduciary Duties &mdash; Bribes</div><div class='details details-facts'><p>Mankarious, the ratbag behind Cedar Capital, had acted for both sides in negotiations for the Monte Carlo hotel, including a &#8216;fee&#8217; of $10M.</p></div><div class='details details-held'><b>Held</b>&mdash; Tacitly overruling Neuberger MR in <span class="lnk caseln">Sinclair</span>, the leading speech given by Lord Neuberger found the general rule to be that a principal does indeed own the beneficial interest of a benefit or opportunity acquired by a fiduciary by virtue of the fiduciary duty.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-51'>
+	<div class='front box box-l' id='box-301'> <div style='case-name-container'><div class='case-name'>Barnes v Addy [1874]</div></div> </div>
+	<div class='front box box-r' id='box-302'> <div style='case-name-container'><div class='case-name'>Nelson v Larholt [1948]</div></div> </div>
+	<div class='front box box-l' id='box-303'> <div style='case-name-container'><div class='case-name'>Baden v Soc Gen [1993]</div></div> </div>
+	<div class='front box box-r' id='box-304'> <div style='case-name-container'><div class='case-name'>Cowan de Groot v Eagle Trust [1992]</div></div> </div>
+	<div class='front box box-l box-b' id='box-305'> <div style='case-name-container'><div class='case-name'>Agip Africa v Jackson [1990]</div></div> </div>
+	<div class='front box box-r box-b' id='box-306'> <div style='case-name-container'><div class='case-name'>MT Realisations v Digital Equipment Co [2003]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-52'>
+	<div class='back box box-l' id='box-307'> <div style='case-details-container'><div class='details details-title'>Third Party Liability &mdash; Knowing Receipt &mdash; Dishonest Assistance</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Strangers are not liable for breaches of fiduciary duty unless they <span class="bd">knowingly receive</span> property or <span class="bd">dishonestly assist</span> a breach of that duty.</div></div> </div>
+	<div class='back box box-r' id='box-308'> <div style='case-details-container'><div class='details details-title'>Third Party Liability &mdash; Knowing Receipt</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Foreshadowing Peter Gibson J in <span class="lnk caseln">Baden</span> &mdash; the receipt of <span class="bd">eight</span> cheques drawn on an estate&#8217;s account by an executor ought to have put the recipient &#8216;on a path of inquiry.&#8217;</div></div> </div>
+	<div class='back box box-l' id='box-309'> <div style='case-details-container'><div class='details details-title'>Third Party Liability &mdash; Knowing Receipt</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; For <span class="lnk caseln">Knowing Receipt</span>, knowledge can be decomposed into (1) actual knowledge, (2) wilfully shutting one&#8217;s eyes to the obvious, (3) wilfully and recklessly failing to make enquiries an honest person would have mad, (4) knowledge of circumstances which would <span class="bd">indicate the facts</span>, to an honest and reasonable man, and (5) knowledge of circumstances which would put such a man <span class="bd">on a course of inquiry</span>.</div></div> </div>
+	<div class='back box box-r' id='box-310'> <div style='case-details-container'><div class='details details-title'>Third Party Liability &mdash; Knowing Receipt &mdash; Meaning of Knowledge</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; For <span class="lnk caseln">Knowing Receipt</span>, a third party&#8217;s knowledge of breach of fiduciary duty may be inferred from knowledge of a gross irregularity, e.g., a sale&#8217;s substantial <span class="it">undervalue</span>.</div></div> </div>
+	<div class='back box box-l box-b' id='box-311'> <div style='case-details-container'><div class='details details-title'>Third Party Liability &mdash; Knowing Receipt &mdash; Beneficial Receipt by Creditor</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Money paid into a bank account in credit is held on trust by the bank for the holder of the account; but money paid into an account in debt entails a transfer of beneficial interest to the bank &mdash; and therefore, <span class="it">beneficial receipt</span> by the bank.</div></div> </div>
+	<div class='back box box-r box-b' id='box-312'> <div style='case-details-container'><div class='details details-title'>Third Party Liability &mdash; Knowing Receipt &mdash; Beneficial Receipt by Creditor</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; As in <span class="lnk caseln">Agip Africa</span>, a creditor who, in payment of a debt, receives money taken in breach of fiduciary duty or trust <span class="it">is</span> in beneficial receipt.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-53'>
+	<div class='front box box-l' id='box-313'> <div style='case-name-container'><div class='case-name'>Re Montagu [1987]</div></div> </div>
+	<div class='front box box-r' id='box-314'> <div style='case-name-container'><div class='case-name'>BCCI v Akindele [2001]</div></div> </div>
+	<div class='front box box-l' id='box-315'> <div style='case-name-container'><div class='case-name'>Armstrong v Winnington</div></div> </div>
+	<div class='front box box-r' id='box-316'> <div style='case-name-container'><div class='case-name'>Phil Collins v Davis [2000]</div></div> </div>
+	<div class='front box box-l box-b' id='box-317'> <div style='case-name-container'><div class='case-name'>Royal Brunei v Tan [1995] PC</div></div> </div>
+	<div class='front box box-r box-b' id='box-318'> <div style='case-name-container'><div class='case-name'>Barlow Clowes v Eurotrust [2006] PC</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-54'>
+	<div class='back box box-l' id='box-319'> <div style='case-details-container'><div class='details details-title'>Third Party Liability &mdash; Knowing Receipt &mdash; Meaning of Knowledge</div><div class='details details-facts'><p>The 10th Duke of Manchester (whose title derived from the piffling village of Godmanchester, <span class="it">not</span> the city), the one who sold off Kimbolton Castle, had treated property from trusts settled by the 9th Duke as his own property. He had been shown the terms of the settlement, but later claimed to have forgotten what they were.</p></div><div class='details details-held'><b>Held</b>&mdash; A distinction must be drawn between having <span class="bd">notice</span> of something and <span class="bd">knowing</span> about it. These are not the same, and merely having notice is not enough for <span class="lnk caseln">Knowing Receipt</span>.</div></div> </div>
+	<div class='back box box-r' id='box-320'> <div style='case-details-container'><div class='details details-title'>Third Party Liability &mdash; Knowing Receipt &mdash; Meaning of Knowledge &mdash; Unconscionability</div><div class='details details-facts'><p>BCCI’s directors had entered into fraudulent transactions <span class="it">within</span> the bank. Akindele, a wealthy businessman from Nigeria, had negotiated an agreement with BCCI. In return for investing a substantial sum for between 2 and 5 years, he would be guaranteed a 15% return.</p><p>The arrangement was that he was to purchase shares, which were to be held by BCCI in their <span class="bd">own</span> name for up to five years. If at any point the investor indicated he wanted to keep them for <span class="bd">more</span>, they would be transferred into his own name.</p><p>Akindele claimed he&#8217;d never intended to keep the money in the bank for more than five years &mdash; but for the two years required by the contract, after which time, he’d withdraw the cash. He was not aware of the (fraudulent) internal arrangements by which BCCI had magicked up such a rate of return. But he <span class="it">was</span> aware they had form, and had been warned by a minister in the Nigerian government to avoid BCCI for the sake of his own reputation &mdash; who nonetheless persuaded him not to withdraw the shares to avoid &#8220;upsetting tribal balances.&#8221;</p></div><div class='details details-held'><b>Held</b>&mdash; The classification of knowledge from <span class="lnk caseln">Baden</span> is of no particular value in knowing receipt. The test should be one of <span class="it">unconscionability</span>. But in a commercial context, nothing short of the 3rd <span class="lnk caseln">Baden</span> level of knowledge will do. An interest rate two percent higher than the market average will not be enough.</div></div> </div>
+	<div class='back box box-l' id='box-321'> <div style='case-details-container'><div class='details details-title'>Third Party Liability &mdash; Knowing Receipt &mdash; Meaning of Knowledge &mdash; Unconscionability</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The disapproval of the CA in <span class="lnk caseln">Akindele</span> notwithstanding, the categories of knowledge identified in <span class="lnk caseln">Baden</span> are of useful application to measure the <span class="it">unconscionability</span> preferred to <span class="it">knowledge</span> in <span class="lnk caseln">Akindele</span>.</div></div> </div>
+	<div class='back box box-r' id='box-322'> <div style='case-details-container'><div class='details details-title'>Third Party Liability &mdash; Knowing Receipt &mdash; Defences &mdash; Change of Position</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; A defence against recovery of property knowingly received by a third party may be established if the property received led to a significant change in the position of the third party.</div></div> </div>
+	<div class='back box box-l box-b' id='box-323'> <div style='case-details-container'><div class='details details-title'>Third Party Liability &mdash; Dishonest Assistance</div><div class='details details-facts'><p>Tan ran a company that contracted with Royal Brunei to sell tickets. Money collected was to be held in a separate account on trust to the airline, to be accounted for within 30 days of receipt.</p><p>In difficulties, he dipped into the money. He knew doing so was wrong, but hoped to pay it back before the 30 days had arisen, and, no harm ultimately having been done, no-one would be any the wiser. His company then went insolvent.</p><p>The Airline sued him for dishonest assistance. He argued his intention was not to defraud, and that on this basis he had not been dishonest.</p></div><div class='details details-held'><b>Held</b>&mdash; In the Privy Council &mdash; <span class="lnk caseln">Dishonest Assistance</span> requires dishonesty rather than merely knowledge. Whether through actions, or passively through a lack of probity, dishonesty must be measured against how an honest person would have behaved in the circumstances. A person may therefore have a clear conscience, but by this standard nevertheless be dishonest.</div></div> </div>
+	<div class='back box box-r box-b' id='box-324'> <div style='case-details-container'><div class='details details-title'>Third Party Liability &mdash; Dishonest Assistance</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; <span class="lnk caseln">Twinsectra</span> was wrong in adding to the objective test for dishonesty of <span class="lnk caseln">Tan</span>. &#8216;Knowledge of the transaction has to be such as to render the participation contrary to normally acceptable standards of conduct. It does not require that the defendant should have had any reflection about what those normally acceptable standards were.&#8217;</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-55'>
+	<div class='front box box-l' id='box-325'> <div style='case-name-container'><div class='case-name'>Abou-Rahman v Abach [2006]</div></div> </div>
+	<div class='front box box-r' id='box-326'> <div style='case-name-container'><div class='case-name'>Starglade v Nash [2010]</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+<div class='page' id='page-56'>
+	<div class='back box box-l' id='box-327'> <div style='case-details-container'><div class='details details-title'>Third Party Liability &mdash; Dishonest Assistance</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; The EWCA followed <span class="lnk caseln">Eurotrust</span> (PC) in preference to <span class="lnk caseln">Twinsectra</span> (EWCA). The appropriate test for dishonesty was whether the standards of conduct would permit the acts in question.</div><div class='details details-held'><b>Comment</b>&mdash; followed in <span class="lnk caseln">Starglade v Nash</span>.</div></div> </div>
+	<div class='back box box-r' id='box-328'> <div style='case-details-container'><div class='details details-title'>Third Party Liability &mdash; Dishonest Assistance</div><div class='details details-facts'></div><div class='details details-held'><b>Held</b>&mdash; Albeit purporting to follow <span class="lnk caseln">Twinsectra</span>, the subjective element was nevertheless irrelevant. The test for dishonesty was generally to be <span class="bd">objective</span> &mdash; but ultimately, the courts are at liberty to decide on the test to be applied to each pattern of facts. That a large body of opinion should dissent as to honesty is also irrelevant.</div></div> </div>
+</div>
+<p style="page-break-after:always;"></p>
+</body></html>

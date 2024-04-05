@@ -1,0 +1,85 @@
+TYPE-DEFAULT Concept
+
+NAME Duress
+CATEGORY General Defences
+SUMMARY |Graham|, |Howe| and |Hasan|.
+
+
+NAME Self Defence
+CATEGORY General Defences
+SUMMARY _A justification rather than an excuse._
+@Basic principle -- no liability for meeting a threat with reasonable force.
+
+SUMMARY The statutory basis is &g&S76 Criminal Justice and Immigration Act 2008&g&, which regurgitates the existing common law. A public-law flavour exists for the use of force in making arrests or preventing crime, and is governed by &g&S3(1) Criminal Law Act 1967&g&.
+
+SUMMARY The defence is operative once _some_ evidence of justification is adduced by the defence. The burden then shifts to the prosecution to disprove it beyond reasonable doubt. 
+
+SUMMARY From |AG for NI ref 1977| -- "what amount of force is reasonable for preventing crime, defending, protecting others, is always (in my view) always a question for the jury in the jury trial, never a point of law for the judge. The jurors should consider the circs. in which the accused had to make the decision, but not in the calm, analytical atmosphere of the courtroom when counsel have expounded the arguments. But they should put themselves in the moment of the action." 
+
+SUMMARY *Details*
+@ Is there a duty to retreat? No. |Bird|.
+@{TODO}
+
+--END--
+
+	 Bird 1985. EWCA said not an essential part of defence that they should demonstrate by their actions that they did not want to fight. Instead, adopted the words in Smith and Hogan, "a demonstration by a D at the time that s/he did not want to fight is no doubt the best evidence that D was acting reasonably in good faith. But no more than that. An individual may in some circs act without temporising, disengaging or withdrawing, in order to have a defence." 
+	• Was it reasonable, was it proportionate, was it honest?
+	• This is the question posed up and down the country when people get pissed in pubs and fight.
+
+Does there have to be an attack in place before you can rely on self defence?
+	• No, but it has to be imminent.
+	• Devlin v Armstrong: "the plea of self defence can also be raised where party raising it uses force to ward off or prevent an attack honestly and reasonably anticipated."
+	• AG's ref no 2 1983, in which EWCA held: "might be justifiable for D to make and possess a petrol bomb inside house, normally an offence, where done to protect family or property by way of self defence against an imminent attack. If however D continued to possess bomb after the threat had passed, the possession is no longer justified." 
+
+The public law defence - Jones [2006]
+	• A nurse, protesting about war in Iraq, broke into US military bases using wire-cutters, to continue protest. "Acting to prevent a crime, the illegal war in Iraq"
+	• UKHL said, erm, no. Prevention of a crime means prevention of a crime under, um, domestic law, not something which may -- or may not -- be a crime under international law.
+	
+	
+Mistaken Self Defence
+
+Mistaken Belief
+Morgan principle for rape - used to get the benefit of an honest (but unreasonable) belief as to consent, changed by S1 of SOA. 
+pp46 of handout.
+
+Gladstone Williams - chap thought a thief who'd been apprehended was in fact being victimized. Court held unreasonable but honest belief was a defence.
+
+Unless the reason for the mistake was that you're drunk. In that case, O'Braidy, Hatton, pp47 - no defence, where belief induced through voluntary consumption of alcohol. Manslaughter in O'Braidy, murder in Hatton. 
+
+Excessive Force
+Palmer, Clegg, Martin, pp47. 
+
+Clegg 1995 
+	• soldier in NI at checkpoint, car raced towards them. Fired three bullets, then a fourth, when the car had passed the checkpoint, which killed a backseat passenger, a girl. 
+	• In UKHL, argued superior orders, denied, no such defence. 
+	• Also argued that half-way-house defence: some force justified, but not excessive force. If he used excessive force, then manslaughter liability. Denied as well: self-defence is an all-or-nothing defence. Either the force was reasonable, or it was excessive.
+	• Ultimately the chap was released, but not on the basis of the criminal law: expert ballistic evidence produced that still a prevailing threat at time of fourth bullet.
+
+Palmer
+	• Was it an honest and instinctive reaction to the threat? Again, not interested in calmness of courtroom. 
+
+Tony Martin
+	• Applied principle of Clegg. D waiting for the burglars. Fired point-blank, killed V1, wounded V2. 
+	• Convicted of murder, upheld in EWCA. All or nothing defence. Reasonable force or excessive force.
+	• Barristers had said usually jurors would be on the side of the householder. But Tony Martin's evidence lacked any remorse or regret, so jury unsympathetic.
+	• Then new medical evidence presented of paranoid psychosis, released on basis of diminished responsibility.
+
+	• Hague proposed new bill amending law to manslaughter rather than murder.
+	• 2005 guidance from ACPO: use of force by householders. In general terms, an honest and instinctive reaction would be lawful. But no proposal for reform of self-defence. 
+
+But then S43 Crime and Courts Act 2014
+	• Householder, faced by intruder, can use disproportionate force against intruder. Which presumably means blasting them with a shotgun. But a question of fact and degree. 
+
+
+
+Mistaken Belief and Excessive Force
+Owino 1995
+	• Assault occasioning ABH, husband on wife.
+	• Said his force was reasonable, as wife about to assault him.
+	• EWCA invoked Palmer 1971: what a D honestly and instinctively thought was necessary will provide jury with most potent evidence. 
+	• A bipartite test! 
+		○ Benefit of subjective belief. Jury should then examine that belief. 
+		○ However, if the circs had been as D believed, would the force have been reasonable?
+	• But Dadson principle - can't rely on an unknown justification. 
+
+

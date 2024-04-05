@@ -1,0 +1,180 @@
+
+NAME Supremacy and Direct Effect
+TYPE Concept
+SUMMARY ~*Principle of Supremacy*~ 
+/Best articulated in |Costa|. 
+SUMMARY ~*National Constitutions*~
+/|Handelsgeselschaft|
+SUMMARY ~*Role of National Courts*~
+/|Simmenthal|
+
+NAME Supremacy and Direct Effect - Reading
+TYPE Reading
+SUMMARY ~*Further Reading*~
+/De Witte, B., _Direct Effect, Primacy, and the Nature of the Legal Order_ in P. Craig and G. de Búrca (eds) The Evolution of EU Law (OUP, 2011, 2nd ed) 323.
+/Gordon, M. and Dougan, M., _The United Kingdom_s European Union Act 2011: "Who Won the Bloody War Anyway?"_, (2012) 37 ELRev 3.
+/Craig, 'The European Union Act 2011: Locks, limits and legality', 48 CMLRev (2011) 1915.
+/Sadurski, W, _Solange, Chapter 3': Constitutional Courts in Central Europe – Democracy – European Union_ (2008) 14(1) European Law Journal 1-35
+/Albi, A, _From the Banana saga to a sugar saga and beyond: Could the post-Communist constitutional courts teach the EU a lesson in the rule of law?_ 47 CMLRev (2010) 791.
+/Zbiral, 'Czech Constitutional Court, judgment of 31 January 2012, Pl. ÚS 5/12. – A Legal revolution or negligible episode? Court of Justice decision proclaimed ultra vires', 49 CMLRev (2012) 1475–1491.
+
+
+
+NAME Flaminio Costa v ENEL
+AKA Costa
+CITATION Flaminio Costa v ENEL [1964] ECR 686
+CASENUM C-6/64
+WIKILINK https://en.wikipedia.org/wiki/Costa_v_ENEL
+LINK AG Lagrange's opinion http://www.nadr.co.uk/articles/published/ConstitutionLawReports/CostavENEL.pdf
+CATEGORY Supremacy; Sovereignty; National vs EU Law
+FLAGS Fundamental; IT
+SUMMARY An enterprising Italian lawyer, opposed to the nationalisation of his country's electricity sector, had refused to pay his bill of 1,925 Lire {just less than €1}. The nationalied electricity company sued him; he argued the nationalisation violated not only provisions against _market distortion_ in the |Treaty of Rome|, but also the Italian constitution. The question was referred first to the Italian Constitutional Court, then the European |Court|.
+SUMMARY The Constitutional Court replied that although the Constitution did indeed allow for the transfer of sovereignty in some areas to organisations such as the EEC, this was independent of the commonplace rule of _lex posterior derogat legi priori_, and so as the legislation nationalising the electricity industry had come _after_ the |Treaty of Rome|, it displaced it.
+SUMMARY The question then went to the ECJ.
+HELD Member states and their nationals are *bound by EU law*, which *takes precedence over national law*. 
+HELD Unlike _ordinary_ international treaties, the EEC Treaty/|TFEU| created its own legal system. When it came into force, it *integrated itself into the legal systems of member states*. 
+HELD The member states, having created a community with its own legal personality and capacity, and capacity to represent itself on the international stage - and *real powers* stemming from a *transfer* of power to it from member states, they have *limited their sovereign rights*, albeit within limited fields.
+COMMENT One may hear the claim that the _treaties_ don't mention anything about such a _limitation_ on _member states' sovereign rights_. This is true, but as a practical matter, how could it possibly have been made to fly, if it said so explicitly.
+
+
+NAME Internationale Handelsgesellschaft
+AKA Handelsgesellschaft
+CASENUM C-11/70
+CITATION Internationale Handelsgesellschaft [1970] ECR 1125
+CATEGORY Supremacy; Sovereignty; National vs EU Law
+FLAGS Fundamental; DE
+SUMMARY A company seeking to export maize challenged the validity under the *national constitution* of the CAP export license scheme, in which the deposit for an export license would be forfeited if the would-be exporter failed to export. They claimed the measure was disproportionate as it did more than it needed to achieve its aim, and was therefore illegal under *domestic* law.
+HELD The validity of Union measures is *not affected by allegations entertained by domestic courts* that by their own lights, they are invalid. *Not even fundamental* items of *national constitutional law have supremacy* over directly applicable provisions of Union law. Challenging measures adopted by the institutions in *domestic law* would ruin the uniformity and efficacity of Union law.
+HELD The law from the Treaties is an *indepdendent source of law*.
+HELD Anticipating the concern that this violated the sacrosanctity of the most fundamental thing in the constitutions of some countries after the war, Human Rights, the judgment reassured that - '_in fact, *respect for fundamental rights* forms an *integral part of the general principles of law* protected by the Court of Justice. The protection of such rights, whilst *inspired by the constitutional traditions* common to the Member States, must be ensured within the framework of the structure and objectives of the Community._'
+
+NAME Principle of Loyal Cooperation
+TYPE Concept
+SUMMARY |Art 4 TEU| *compels* states to set aside their own law in favour of EU law. 'Member states *shall* take any appropriate measure, general or particular, to ensure fulfilment of the obligations arising out of the treaties.'
+
+
+NAME Administrazione delle Finanze v Simmenthal SpA (no 2)
+AKA Simmenthal II
+CASENUM C-106/77
+CITATION Administrazione delle Finanze v Simmenthal SpA [1978] ECR 629
+FLAGS Fundamental; IT
+CATEGORY Supremacy; Sovereignty; National vs EU Law; Invocation of EU law by Individuals
+SUMMARY Charges were imposed under Italian law on live imports from France for veterinary and public health inspections. The Italian court found these were contrary to |Art 34 TFEU| and ordered the government to repay with interest. The government appealed, claiming the court could not treat Italian statute as invalid and refuse to apply it.
+HELD Member states have a *duty to set aside* provisions of *national law* which are *incompatible with Union law*, which is *a direct source of rights* and duties for all those they affect, *whether member states or individuals*.
+HELD National courts *must*, therefore, apply Community law *in its entirety* and *protect rights conferred* by it *on individuals*.
+
+
+NAME R (ex p. Factortame Ltd) v Sec of State for Transport
+AKA Spanish Fishermen
+AKA Factortame
+CASENUM C-213/89
+CITATION R v Sec of State for Transport (ex parte Factortame Ltd) [1990] ECR I-2433
+LINK On Bailii http://www.bailii.org/uk/cases/UKHL/1990/7.html
+LEGILINK http://www.legislation.gov.uk/ukpga/1988/12/contents
+FLAGS Fundamental; GB
+CATEGORY Supremacy; Sovereignty; National vs EU Law
+SUMMARY A group of a hundred or so Spaniards had set up a company in England under the Merchant Fishing Act 1894, to gain the right under domestic law to fish in UK waters. To attempt to put a stop to this, the UK had passed the Merchant Fishing Act 1988, which imposed restrictions on such companies such as a requirement that boats be 75% British-owned. The company said this was incompatible with EU law. 
+SUMMARY In the CA, Donaldson MR and Mann, Bingham LLJ held that *although* courts are obliged to give effect Community law, 'they were *not obliged to override national law* in favour of what is no more than an alleged or putative Community right'. Then the case went to the Lords, who made a reference to the |ECJ|.
+HELD National courts must *disapply national law* in conflict with EU law. The will of Parliament in the |1972 Act| was to *limit its sovereignty*. Even though that wasn't explicit in the treaties, it was clear from the jurisprudence of the |ECJ|.  
+HELD Lord Bridge - 'If the supremacy within the European Community of Community Law over the national law of member states was not always inherent in the EEC Treaty it was certainly well established in the jurisprudence of the Court of Justice long before the United Kingdom joined the Community. Thus, whatever limitation of its sovereignty Parliament accepted when it enacted the European Communities Act 1972 was entirely voluntary. Under the terms of the 1972 Act it has always been clear that it was the duty of a United Kingdom court, when delivering final judgment, to override any rule of national law found to be in conflict with any directly enforceable rule of Community law.'
+
+NAME Accepting Supremacy
+TYPE Concept
+SUMMARY ~*UK*~
+/S2(1) of the |1972 Act| is pretty damn unambiguous that treaty obligaitons to the EU, *and everything flowing from them* are supreme. Note that S18 of the |2011 Act| stipulates EU law is only effective *because of the 1972 act.* 
+SUMMARY ~*Germany*~
+/|Handelsgesellschaft|
+/|Brunner|
+SUMMARY ~*Poland*~
+/A judgment of the Polish constitutional court in 2005 (K18/04) says it is *not* to be taken as read that, when Polish law conflicts with EU law, the latter is automatically supreme. 
+COMMENT All the recent self-conscious reassertions of national legal supremacy, expressed tepidly or beligerantly, must be seen in the context of the recent drastic ebbing of the |Permissive Concensus| and popular |Distrust of the EU|
+COMMENT Notice how, in each of the cases on supremacy, the national court tries to *avoid a scrap*, but waves its handbag in the general direction of Brussels. The |Court| repays the compliment, and is often careful to counterbalance a bold assertion of its supremacy with a *finding against* the person attempting to rely on its supremacy. E.g., |Van Duyn|. 
+
+
+
+NAME Brunner
+COURT DE Constitutional
+CITATION Brunner [1994] 1 CMLR 57
+CATEGORY Supremacy; Sovereignty
+SUMMARY The German Constitutional court was asked to rule that |Maastricht| ought not to have been adopted, as the German constitution did not allow the German government to give up as many powers. Rejected on the substance, affirming the adoption of the treaty to be constitutional. 
+HELD No expansive interpretation of the competences of the EU by the ECJ would be accepted.
+
+NAME European Communities Act 1972
+AKA 1972 Act
+TYPE Statute
+CATEGORY Supremacy; Sovereignty
+LEGILINK S2 http://www.legislation.gov.uk/ukpga/1972/68/section/2
+LEGILINK S3 http://www.legislation.gov.uk/ukpga/1972/68/section/3
+SUMMARY ~*Implementation of Treates*~
+/*S2(1)* All such rights, powers, liabilities, obligations and restrictions from time to time *created or arising by or under the Treaties*, and all such remedies and procedures from time to time provided for by or under the Treaties, as in accordance with the Treaties are *without further enactment to be given legal effect* or used in the United Kingdom *shall be recognised and available in law*, and be enforced, allowed and followed accordingly; and the expression [F1 "enforceable EU right"] and similar expressions shall be read as referring to one to which this subsection applies.
+SUMMARY *S3(1)* For the purposes of all legal proceedings any question as to the meaning or effect of any of the Treaties, or as to the validity, meaning or effect of any [F2 EU instrument] , shall be treated as a question of law (and, if not referred to the European Court, be for determination as such in accordance with the principles laid down by and any relevant [F3 decision of [F4 the European Court])].
+
+NAME European Union Act 2011
+AKA 2011 Act
+TYPE Statute
+CATEGORY Supremacy; Sovereignty
+LEGILINK http://www.legislation.gov.uk/ukpga/2011/12/contents
+SUMMARY ~*Status of EU law _dependent_ on continuing statutory basis*~
+/*S18* Directly applicable or directly effective EU law (that is, the rights, powers, liabilities, obligations, restrictions, remedies and procedures referred to in section 2(1) of the |European Communities Act 1972|) falls to be *recognised and available in law in the United Kingdom only by virtue of that Act* or where it is required to be recognised and available in law by virtue of any other Act.
+
+
+NAME Doctrine of Direct Effect
+AKA Direct Effect
+TYPE Concept
+CATEGORY Direct Effect
+WIKILINK Direct Effect https://en.wikipedia.org/wiki/Direct_effect_of_European_Union_law
+WIKILINK Direct Applicability https://en.wikipedia.org/wiki/Direct_applicability
+WIKILINK Horizontal Effect https://en.wikipedia.org/wiki/Horizontal_effect
+SUMMARY _Not to be confused with *Direct Applicability*, relating specifically to |Regulations|_.
+SUMMARY ~*Origin*~
+/*Treaty articles* were established to have direct effect in |Van Gend en Loos| in 1963, but the treaties make no mention of it. The |Van Gend| Criteria for direct effect require the measure in question: is *unambiguously clear*, *prohibitive* (rather than imposing of a positive obligation), *unconditional*, contains *no room for discretion* {applies to treaty articles only} and is *not dependent on implementing national measures* {this _appears_ to disqualify |Directives|}. 
+/{Remember this as *CPUDI*. *Clear*, *Prohibitive*, *Unconditional*, no *Discretion*, no *Implementing* measures.}
+SUMMARY ~*Vertical vs. Horizontal*~
+/*Vertical* directly effective measures are those which can be used *against the state* (to be interpreted broadly - |Marshall|), *Horizontal* directly effective measures can be used *against private parties*. The distinction was established in |Defrenne v SABENA|. 
+SUMMARY See |Direct Effectiveness of Directives|
+
+NAME Van Gend en Loos
+AKA Van Gend
+CASENUM C-26/62
+CITATION Van Gend en Loos v Nederlandse Administratie der Belastingen [1963] ECR 1
+WIKILINK  https://en.wikipedia.org/wiki/Van_Gend_en_Loos_v_Nederlandse_Administratie_der_Belastingen
+FLAGS Fundamental; NL; Test
+CATEGORY Direct Effect; Test
+SUMMARY A company importing urea-formaldehyde objected to a customs charged levied against it. Benelux had reclassified the chemical into a higher duty band.
+HELD Treaty articles can be *directly effective against states* and *give rights to individuals*, if they contain *clear and unambiguous*, *prohibitions* rather than positive obligations, are *unconditional*, have no room for *discretion* and no need of national *implementing* measures - |Direct Effect|.
+HELD The Community is *a new legal order* established by states, for which they have *limited their sovereignty*. 
+
+NAME Reyners v Belgium
+CASENUM C-2/74
+CITATION Reyners v Belgium [1974] ECR 631
+CATEGORY Direct Effect
+FLAGS BE
+HELD The fact that a state may not have implemented a measure in fulfilment of a treaty obligation with a precise goal *does not mean it cannot be relied upon*.
+
+NAME Defrenne v SABENA
+CITATION Defrenne v SABENA (No 2) [1976] ECJ
+CASENUM C-43/75
+WIKILINK https://en.wikipedia.org/wiki/Defrenne_v_Sabena_%28No_2%29
+FLAGS Fundamental; BE
+CATEGORY Direct Effect; Horizontal Effect; Direct vs. Horizontal Effect
+SUMMARY Under national law, trolley dollies were obliged to retire at 40, unlike their male counterparts. {Why the _hell_ would this be in any country's _law_?}. One such retiree sued the airline on the basis that, having accrued lower pension rights than would have a man, her |Art 157 TFEU| right to *equal treatment on grounds of gender* had been violated. 
+HELD Depending on their character, *treaty articles can have horizontal |Direct Effect|*, such as |Art 157 TFEU|. 
+HELD 'The prohibition on discrimination between men and women applies not only to the action of public authorities, but also extends to all agreements which are intended to regulate paid labour collectively, as well as to contracts between individuals.'
+
+
+NAME Secondary Legislation
+TYPE Concept
+EUROPALINK Art 288 http://www.lisbon-treaty.org/wcm/the-lisbon-treaty/treaty-on-the-functioning-of-the-european-union-and-comments/part-6-institutional-and-financial-provisions/title-1-institutional-provisions/chapter-2-legal-acts-of-the-union-adoption-procedures-and-other-provisions/section-1-the-legal-acts-of-the-union/608-article-288.html
+CATEGORY Directives; Regulations
+SUMMARY ~*Regulations*~
+/*Binding* in in the entirity of their text as soon as published, and directly applicable in all member states - |Leonesio|. 
+SUMMARY ~*Decisions*~
+/*Binding* in the text too, but only to the parties to whom they are addressed - |Grad v Finanzampt Traunstein|.
+SUMMARY ~*Directives*~
+/*Binding* as well, but only the *result they aim to achieve*. Require implementing legislation in each member state.
+
+
+
+
+
+

@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" >
+<meta http-equiv="Cache-Control" content="private, max-age=2419200" >
+<meta name="apple-mobile-web-app-capable" content="yes" >
+<meta http-equiv="X-UA-Compatible" content="IE=edge" >
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+  <!--minimal-ui"!-->
+
+<link id="favicon" rel="shortcut icon" type="image/png" href="favicon.png"/>
+
+<title>Editor to Encourage Coherent Expression</title>
+
+<link rel="stylesheet" href="css/fc.min.css" />
+
+<!--link rel="stylesheet" href="materialize/css/materialize.min.css" />
+<link rel="stylesheet" href="materialize/css/material-font.css" />
+<link rel="stylesheet" href="css/flashcards.css" / -->
+
+<script type="text/javascript" src="js/fc.min.js"></script>
+<script type="text/javascript" src="js/clipboard.min.js"></script>
+
+<script>
+
+var text = '';
+var backspaces = 0;
+var backspacesThreshold = 3;
+
+function flushTextToEditor()
+{
+    t = text.replace(/\n/g,'<br>').replace(/\t/g,'&emsp;&emsp;&emsp;&emsp;')
+    
+    
+    while (t.indexOf('*') > 0) t = t.replace('*','<span class="bd">').replace('*','</span>');
+    while (t.indexOf('_') > 0) t = t.replace('_','<span class="it">').replace('_','</span>');
+    
+    console.log('text: "'+text+'"');
+    console.log('t: "'+t+'"');
+    $('#editor').html(t);
+}
+
+function deleteLastWord() 
+{
+    var i = text.length - 2;
+    for (; i>0; i--)
+    {
+        var ch = text[i];
+        if (ch == ' ' || ch == ',' || ch == '\t' || ch == '\n')
+        {
+            break;
+        }
+    }
+    if (i == -1) i =0;
+    console.log('deleteLastWord got to '+i+', text is: "'+text+'"');
+    
+    if (i ==0) text = '';
+    else
+    if (i >= 0)
+    {
+        text = text.substr(0, i+1);
+    }
+    
+    flushTextToEditor();
+    
+}
+var storageItemName = 'ordered-editor-content';
+var clipboard = null;
+$( document ).ready(function() {
+    clipboard = new Clipboard('.btn');
+    
+    if (storageItemName in localStorage) {
+        text = localStorage.getItem(storageItemName);
+        flushTextToEditor();
+    }
+	
+    $(document).keydown(function(e) {
+        var keyCode = e.keyCode || e.which; 
+
+          if (keyCode == 9) { 
+              console.log('tab pressed...')
+              backspaces = 0;
+              ch = '\t'
+              text += ch;
+              $('#editor').append('&emsp;&emsp;&emsp;&emsp;');
+            e.preventDefault(); 
+          }  
+    });
+    $(document).keypress(function(e) {
+        console.log(e);
+	    switch(e.which) { 
+            case 13:        //enter
+                backspaces = 0;
+                ch = '\n';
+                text += ch;
+                $('#editor').append('<br>');
+                
+                break;
+            case 9:         //tab
+                break;
+            case 8:         //backspace
+                backspaces += 1;
+                if (backspaces >= backspacesThreshold) 
+                {
+                    deleteLastWord();
+                    backspaces = 0;
+                }
+                break;
+                
+	        case 37: // left
+		    break;
+
+	        case 38: // up;
+			break;
+
+
+	        case 40: // down
+		    break;
+
+            case 39: // single quote, special case conflicting with right arrow.
+	        default: 
+                backspaces = 0;
+                ch = String.fromCharCode(e.which);
+                console.log('Charcode: '+e.which+' String.fromCharCode: '+ch);
+                //* = 42, _ = 95
+                
+                
+                text += ch;
+                localStorage.setItem(storageItemName, text);
+
+                $('#editor').append(ch);
+
+                if (    (ch == '*' && ((text.match(/\*/g) || []).length % 2) == 0)  //the *s were balanced
+                    ||  (ch == '_' && ((text.match(/_/g) || []).length % 2) == 0) ) //the _s were balanced.
+                {
+                    flushTextToEditor();
+                }
+                
+                //if (!e.shiftkey) ch = ch.toLowerCase();
+	    }
+	    e.preventDefault(); // prevent the default action (scroll / move caret)
+    });
+    
+    clipboard.on('success', function(e) {
+        console.log('Copied to clipboard');
+        alert('Copied to clipboard.');
+    });
+    
+    $('#clearbtn').click(function() {
+        if (confirm('Sure?')) {
+            text = '';
+            flushTextToEditor();
+        }
+    });
+
+
+    $('#helpmodal').openModal();
+});
+
+
+
+
+</script>
+
+</head>
+<body>
+<header>
+</header>
+<main>
+    
+<div class="row">
+   <div class="col l12 l12">
+     <div class="card blue-grey">
+       <div class="card-content white-text serif" style="height: 80vh; width: 90vw; cursor: text;" >
+         <p id="editor" >
+             
+             
+         </p>
+       </div>
+       <button class="btn" data-clipboard-action="copy" data-clipboard-target="#editor">Select All</button>
+       <button class="btn" id="clearbtn" data-clipboard-action="copy" data-clipboard-target="#editor">Clear</button>
+       <button class="btn" onclick="$('#helpmodal').openModal();">Help</button>
+     </div>
+   </div>
+</div>
+    
+
+<div id="helpmodal" class="modal">
+    <div class="modal-content">
+      <h4>What?</h4>
+      <p>This is an ultra-minimal text editor. </p>
+      <p>Its purpose is to confine you to express your thoughts coherently, instead of the usual distracted and near-constant orgy of rephrasing, editing, rejigging, tweaking and re-ordering that goes into the salad of most people's behaviour when faced with a normal word-processor.</p>
+      <p>Very limited formatting options include &mdash; surrounding words by underscores to put them in <span class="it">italics</span>, and &mdash; by asterisks for <span class="bd">bold</span>.</p>
+      <p>For typos &mdash; but only types &mdash; you can go back <em>one word at a time</em> by pressing the backspace key <em>three</em> times on the trot. But that's all. No selecting, deleting, dragging or other species of reformatting.</p> 
+      <p>And no fucking irritating squiggly lines.</p>
+      <p>It saves your work. To export elsewhere, click <em>select all</em> then right-click the text and <em>copy</em>.</p>
+    </div>
+    <div class="modal-footer">
+      <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Done</a>
+    </div>
+</div>
+
+    
+    
+</main>
+</footer>
+</div>
+</body>
+</html>
+

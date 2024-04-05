@@ -1,0 +1,59 @@
+NAME Barclay's Bank v Quistclose Investments
+CITATION Barclay's Bank v Quistclose Investments [1970] AC 567
+WIKILINK https://en.wikipedia.org/wiki/Barclays_Bank_Ltd_v_Quistclose_Investments_Ltd
+AKA Quistclose
+AKA Barclay's v Quistclose
+FLAGS Fundamental
+CATEGORY Quistclose Trusts
+SUMMARY Rolls Razor, a company on the brink of insolvency, had a maxed-out vanilla bank account with Barclay’s. Quistclose lent money into a separate bank account with Barclay's, only to be used for one specific purpose: *paying the dividend*. Rolls Razor received the money, then went insolvent -- at which point, immediately, it became illegal to pay the dividend. Shrewdly, Barclay’s immediately took the money from the new bank account to pay off the overdrawn account. This they were entitled to do *unless* the money was on trust they had notice of it. 
+SUMMARY Quistclose, of course, claimed that Barclay’s had no right to do so, and had misappropriated property that did not belong to them. Barclay's claimed there was merely a contractual arrangement between Rolls Razor and Quistlclose, and that the normal insolvency proceedings would apply -— and that unsecured creditors would get nothing.
+HELD When A transfers property to B for a specific purpose, but the purpose fails, then the property is held on resulting trust for A.
+/Therefore, when X transfers property to Y, to be transferred to Z for Z to pay a pre-announced dividend, but in the mean-time Z becomes insolvent and therefore cannot legally do so, Y holds the property on resulting trust for X, and may not use it, e.g., in settlement of debts owed to it by Z.  However, this situation is predicated on *X and Z having the same intention*. 
+HELD Lord Wilberforce decided there *was* a trust for the purpose of paying the shareholders -- but the trust failed for inability. By contrast to the above, he found the trust was a |Express Trust| in favour of the *shareholders*. 
+SUMMARY Cf. |Twinsectra|. See also |Quistclose Trusts| and |Quistclose Trusts - Analysis|.
+
+
+
+NAME Twinsectra v Yardley
+AKA Twinsectra
+CITATION Twinsectra v Yardley [2002] UKHL 12
+CATEGORY Quistclose Trusts
+CATEGORY Fiduciary Duties; Third Party Liability; Dishonest Assistance
+FLAGS Key; Leading
+WIKILINK https://en.wikipedia.org/wiki/Twinsectra_Ltd_v_Yardley
+
+SUMMARY Yardley and his solicitor, Leach, and another, Sims, were sued for repayment of a loan of £1m made for the sole and exclusive purpose of the acquisition of real property. The money had been paid on condition of there being a guarantor. Leach declined. Sims accepted -- he owed £1.5M to Yardley from previous dealings, which Yardley promised to forgive, if the loan was paid into Sims' account. He, in turn, promised Twinsectra to release the money only when the purpose for which it was made had been fulfilled. He went ahead and transferred it to Leach it to Yardley's solicitor anyway. Yardley, in breach of contract, promptly used a third of it to pay off some of his debts. Twinsectra claimed the contractual stipulation of the exclusive purpose for the funds established a |Quistclose Trust|.
+
+HELD (1) For |Dishonest Assistance|, in addition to the requirement in |Tan| of whether the actions would have been done an honest and reasonable person, dishonesty also entails that the defendant realised his actions would be considered dishonest.
+/(2) In a |Quistclose Trust|, beneficial interest remains with the lender throughout. 
+HELD On (2) Lord Millett, disapproving Lord Wilberforce's analysis in |Quistclose| itself, provided an analysis of the |Quistclose Trust|. He held they, were either -- (ii) express trusts for the benefit of the *lender*; (ii) express trusts for the *borrower*; (iii) purpose trusts. But they were probably not what the EWCA had held, (iv) trusts in which the beneficial interest is held by no-one until the purpose is begun.
+COMMENT On |Dishonest Assistance|, this is still technically the leading case. |Tan| is UKPC. 
+
+NAME R v Clowes No 2
+CATEGORY Quistclose Trusts
+HELD In the absence of other indicators of a trust, the trust property *not* being kept separate will negative the existence of a trust.
+
+NAME Re EVTR
+CATEGORY Quistclose Trusts
+HELD The purpose of a Quistclose trust is held to succeed when the money is used for the intended purpose, but the transaction is not completed before the company goes bankrupt. The equitable interest in equipment purchased using a Quistclose loan, but not delivered before the company went bankrupt, would result to the settlor of the Quistclose trust.
+
+
+NAME Rothmans v Freeman Mathew Treasure
+CATEGORY Quistclose Trusts
+SUMMARY A constructive trust was pleaded.
+HELD Equity fastens itself onto the consciences of the transferees (the trustees), and will not therefore permit use of the property for other than the purpose stated in a |Quistclose| trust.
+
+NAME Bieber v Teathers
+CITATION Bieber v Teathers Ltd (In Liquidation) [2012] EWCA Civ 1466
+CATEGORY Quistclose Trusts
+SUMMARY Money had been paid for the purpose of making TV productions, on condition that (i) sufficient funds were acquired for the scheme to run and (ii) that it be used for certified productions only. The first of these conditions was met, but not the second.
+
+
+HELD Quistclose trusts may be upheld even if not all their purported conditions are met, and once the purpose is begun, they die. 
+HELD Until sufficient funds had been accumulated, there had indeed been a Quistclose trust. But as soon as the scheme was put into operation, its rules took over, the trust became extinct, and the beneficiaries were freed of the Quistclose obligation.
+
+
+NAME Chalinor v Julie Bellis
+CITATION Chalinor v Julie Bellis & Co [2015] EWCA Civ 59
+SUMMARY Investors in a failed investment company claimed a Quistclose trust, as their investment had been exclusively for a specific purpose.
+HELD To rise above being simply a contractual loan, there must be *intention* of there being a Quistclose trust.

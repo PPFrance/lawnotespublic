@@ -1,0 +1,185 @@
+
+NAME Covenants - Overview
+TYPE Concept
+CATEGORY Covenants
+SUMMARY ~*Leasehold Covenants*~
+/Contractual obligations about rent, quiet enjoyment, use, subletting, reversion, repair, insurance, and the like. But this is not on the City GDL Land syllabus, so sections 6.4 through 6.8 of _Modern Land Law_, pp.240-280, can safely be neglected.
+SUMMARY ~*Freehold Covenants*~
+/A covenant was originally one type of contract, which merged with the other, a thing called an *assumpsit*, and evolved into the law of contract. 
+/Freehold covenants had *merely contractual* effect until the 1848 case of |Tulk v Moxhay| in which a covenant *not to build on Leicester Square* was found to pass or 'run' with the land. 
+/->-This transformed freehold covenants, under certain conditions, from binding the original freeholders to binding freeholds, becoming a bona fide *interest in land*. 
+/See -- |Conditions for a Burden to Run| and |Conditions for a Benefit to Run|.
+SUMMARY ~*Compared to Easements*~
+/->-Similarly, they affect two plots of land. Talk of *burdened* and *benefitted* instead of *dominant* and *servient*. Dissimilarly, they cannot arise by accident. They must ultimately come from explicit promises made by covenantor to covenantee. 
+/->-{_Dixon_ -- "the way to remember which is which is that _there are two Es in covenantee, and two Es in benefit._" Hashtag JK.}
+SUMMARY ~*In Practice*~
+/->-They are often made when land is split up. An |LRA S29| t-for-v is concluded between X to Y, and promises are made in writing or by deed. Often, but not always, the promise burdens the buyer and the new plot, and benefits the seller and the original plot.
+/->-They can be *negative*, restricting use of the burdened land. This  amounts to *private planning law*. Common negative covenants are *not to conduct trade* -- |Gafford v Graham| or |Re Bromor Properties|; or *not to subdivide* -- |[Case!]|. As such, they tend to *preserve the character* of land.
+/->-They can also be *positive*, potentially to the same character-preserving effect, and imply the spending of money. E.g., a  covenant to maintain the appearance of externally-visible buildings.
+SUMMARY ~*Benefit and Burden*~
+/->-An action on a covenant requires showing the benefit has passed to the claimant and the burden to the defendant, assuming they aren't the original covenantor/ee.  Otherwise, there's no cause of action -- |Thamesmead Town v Allotey|. 
+/->-*Burden* runs with the land in fewer circs. than *benefit* -- cf. |Freehold Covenants - Burden| and |Freehold Covenants - Benefit|.
+/->-*Benefit* can split -- Hampstead case [NAME?] of a man who refused £400K to waive a covenant not to build. The other party went ahead and built. The former sued for an injunction but instead was given £500K damages -- a large chunk of which was punishment for having ignored the covenant. It then emerged the benefit was split between the complainant and *82 other people*, so he ended up with 1/82 of £500K.
+/->-The |Conditions for a Burden to Run| with the land are not the same as the |Conditions for a Benefit to Run|. 
+/->-This causes odd situations. Dixon cites Ilkley, where many plots are burdened, without any plots benefitted, meaning the covenants are unenforceable. This, he says, doesn't stop shyster solicitors selling insurance against the contingency of the benefitted covenantee coming back from the dead and suing the burdened freeholder.
+
+NAME Freehold Covenants - Burden
+AKA Conditions for a Burden to Run
+AKA Burden
+CATEGORY Covenants
+TYPE Concept
+SUMMARY ~*Remedies*~
+/Enforcement of a *freehold* covenant *at law* is out of the question once the burdened land has been S29 transferred -- |Rhone v Stephens|. At law, damages are yours _by right_, whereas in equity, everything is at the court's discretion. 
+SUMMARY ~*Conditions for a Burden to Run*~
+/The burden must:
++Be *restrictive* not *positive* -- |Rhone v Stephens| in the Lords; |Thamesmead Town v Allotey| in the CA. In both, this (fundamental) rule was criticised but reluctantly upheld.
+@@Whether positive or negative is a matter of substance -- |Holland Park v Hicks|, where a neighbour "having to agree" was *restrictive*, as it constrained the covenantor's capacity for indecision. 
+@@A covenant *not to allow* something may be substantially *positive*, e.g., not to allow property to fall into disrepair -- money must be spent and actions must be taken, so it's *positive*. 
+@@In |Tulk v Moxhay| itself, the covenant was to *keep* Leicester Square as an open space. This was held to be substantially a restriction. 
+@@*N.B.*, a *covenant to erect a fence* is an *easement to fencing*, ~*not*~ a covenant -- |Crow v Wood|.
++*Touch and concern the land* -- |Robins v Berkeley Homes|. A matter of circumstance for each case, but there's a general (albeit flexible) test from |Swift Investments v Combined English Stores| per Lord Oliver:
+++Can the burden act on *any* owner, not only the original covenantor?
+++Can it affect the *nature*/*use*/*value* of the burdened land?
+++Aside from it's substance, was the original intention really to bind *only* the original parties?
+@@N.B. |Marten v Flight Refuelling| per Wilberforce J: an express statement in a covenant that it affects the land is evidence that it *should* run. 
++The burden must *confer a benefit* on the other plot -- |Whitgift Homes v Stocks|. 
+@@This is satisfied if the covenant was to benefit *a proprietary interest* of the covenantee, e.g., a lessor or mortgagee. There is no separate physical plot, but there *is* a separate *estate in land*, which benefits. 
+@@If no such plot or estate is retained by the covenantee, it cannot run -- |Formby v Barker|.
++Be *intended* to run with the land. S79 LPA 1925 presumes this -– |Roake v Chaddah|; |Tophams v Earl of Sefton| -- which can be rebutted by evidence in its instrument of creation or the circumstances between parties -- |Morrells v Oxford United FC|. 
++Have complied with the rules of *registration*.
+@@To enforce a covenant against a transferee for value of a *registered* disposition, it *must* have been the subject of a notice in the register. Otherwise, it loses priority and is unenforceable as per S29. 
+@@It remains enforceable against a S2*8* transferee (whether registered or not), or against a purchasor of an *equitable* interest in the land. 
+
+
+
+NAME Freehold Covenants - Benefit
+AKA Benefit
+TYPE Concept
+CATEGORY Covenants
+AKA Conditions for a Benefit to Run
+SUMMARY ~*Conditions for a Benefit to Run*~
+/By contrast with |Burdens|, a *benefit can be passed at law* as well as equity; the benefit of a positive burden can run -- although for that to add up to a successful claim requires the burdened land be in the hands of the original covenantor.
+SUMMARY ~*At Law (against the _original_ covenantor)*~
++The covenant must *touch and concern* the original covenantee's land -- |Rogers v Hosegood|. The same test as for |Burdens|, from |Swift Investments v Combined English Stores|.
++The claimant must have a legal estate in the benefitted land, but not necessarily the same that of the original covenantee -- S78 LPA 1925.
+
+
+
+
+NAME Covenants - Problem Questions
+TYPE Exam Advice
+CATEGORY Covenants
+SUMMARY ~*Approach*~
++Are the parties to the dispute the original covenantor and covenantee?
+@@Usually they won't be. 
+@@If they are, and you can't sniff out any other angles, then your Land Law examiner may well have messed up and set you a question on *contract*.
+@@Once the *burdened* land has been transferred from the original covenantor, no remedy is possible *at law*, only *equity* -- |Rhone v Stephens|.
++Address the *burden* first. *Always* do it this way round, as the burden of a covenant runs with the property in narrower circs than benefit. No marks for a page carefully addressing whether the benefit has run with the land, when the burden hasn't.
++Address the |Burden| second.
+
+
+--STOP--
+
+
+NAME Tulk v Moxhay
+CATEGORY Covenants
+
+
+
+
+
+#Generated by auditLinks
+NAME LRA S29
+CATEGORY Covenants
+
+
+
+
+
+#Generated by auditLinks
+NAME Re Bromor Properties
+CATEGORY Covenants
+
+
+
+
+#Generated by auditLinks
+NAME Thamesmead Town v Allotey
+CATEGORY Covenants
+
+
+
+
+
+#Generated by auditLinks
+NAME Holland Park v Hicks
+CATEGORY Covenants
+
+
+
+
+
+#Generated by auditLinks
+NAME Crow v Wood
+CATEGORY Covenants
+
+
+
+
+
+#Generated by auditLinks
+NAME Robins v Berkeley Homes
+CATEGORY Covenants
+
+
+
+
+
+#Generated by auditLinks
+NAME Marten v Flight Refuelling
+CATEGORY Covenants
+
+
+
+
+
+#Generated by auditLinks
+NAME Whitgift Homes v Stocks
+CATEGORY Covenants
+
+
+
+
+
+#Generated by auditLinks
+NAME Formby v Barker
+CATEGORY Covenants
+
+
+
+
+
+#Generated by auditLinks
+NAME Tophams v Earl of Sefton
+CATEGORY Covenants
+
+
+
+
+
+#Generated by auditLinks
+NAME Morrells v Oxford United FC
+CATEGORY Covenants
+
+
+
+
+
+#Generated by auditLinks
+NAME Rogers v Hosegood
+CATEGORY Covenants
+
+
+
+
+
